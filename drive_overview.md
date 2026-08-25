@@ -23,18 +23,11 @@ Scholarix AI's `broad_impact.json` records carry an AI-generated relevance score
 
 | Deliverable | File |
 |---|---|
-| Product brief | `product_brief.md` (or .pdf/.docx if converted) |
+| Product brief | `product_brief.md` |
 | Customer interview report | `customer_interview_report.md` |
-| Interview question rationale | `interview_question_rationale.md` |
+| Interview question guide + rationale | `interview_question_guide.md`, `interview_question_rationale.md` |
 | Data validation report | `data_validation_report.md` |
 | Pitch deck | `scholarix_trust_audit_pitch.pptx` |
 | AI/tool usage note | `ai_usage_note.md` |
-| Demo screenshots / recording | [add — see note below] |
+| Prototype/demo screenshots | included in this folder |
 | GitHub repo link | this document, and also in the pitch deck's closing slide |
-
-## Still needed before submission
-
-- [ ] Add full stack developer's real name + both emails above
-- [ ] Add a short demo recording or a few more screenshots of the running prototype (dashboard view, worst-offenders view, one researcher drill-down) to this Drive folder
-- [ ] Confirm GitHub repo access is open (public repo — already satisfied) or grant reviewer access if made private
-- [ ] Double check all files are uploaded before Friday, August 28, 2026
