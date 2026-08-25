@@ -1,0 +1,44 @@
+[
+    {
+        "url": "https://experts.illinois.edu/en/persons/heidi-phillips/",
+        "snippet": "Heidi Phillips. John A. Coyne Professor, Veterinary Clinical Medicine ... Research output. 49 Article; 6 Chapter; 3 Comment/debate; 2 Review article; 1. More. 1 ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet provides a list of the author's research output, indicating it is related to academic publications."
+    },
+    {
+        "url": "https://www.rcgpac.org.uk/dr-heidi-phillips-0",
+        "snippet": "Dr Heidi Phillips is the RCGP Clinical Advisor for Neurodiversity and Associate Professor for Primary Care at Swansea University Medical School.",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The snippet appears to be a biographical description, which is often found in academic or professional publications."
+    },
+    {
+        "url": "https://ascopubs.org/doi/10.1200/jco.2014.32.15_suppl.2001",
+        "snippet": "... glioblastoma [GB]). Authors: Heidi Phillips, Thomas Sandmann, Congfen Li, Timothy Francis Cloughesy, Olivier L. Chinot, Wolfgang Wick, Ryo ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "DOI and journal website suggest a formal publication, likely in an oncology conference or supplement."
+    },
+    {
+        "url": "https://www.linkedin.com/posts/heidi-phillips-04192a207_over50andworking-agediversity-jobsearch-activity-7473301228484083712-WIum",
+        "snippet": "Age is not a barrier to career growth. View profile for Heidi Phillips · Heidi Phillips. Senior Global Account Support Executive at NSC Global. 1w ... growth.",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The post appears to be a LinkedIn update from a professional, sharing a relevant message about career growth."
+    },
+    {
+        "url": "https://www.linkedin.com/posts/heidi-phillips-8b84177b_historic-neurodiversity-conference-unites-activity-7346960860365381632-8SQh",
+        "snippet": "Heidi Phillips' Post. View profile for Heidi Phillips · Heidi Phillips. Chair and Founder of BAND (British Association for Neurodiversity) Neurodevelopmental ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "Heidi Phillips' post is about a recent conference she was involved with as the Chair and Founder of BAND."
+    },
+    {
+        "url": "https://vhc.missouri.edu/dr-heidi-phillips-lectures-on-microsurgery-and-renal-transplantation/",
+        "snippet": "The University of Missouri Small Animal Surgery Service hosted Dr. Heidi Phillips for lectures on microsurgery and renal transplantation on Saturday, ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The URL is affiliated with a university and the snippet mentions an event hosted by the university's service, indicating it is a news article about an academic or professional event."
+    }
+]

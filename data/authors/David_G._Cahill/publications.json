@@ -1,0 +1,3437 @@
+[
+    {
+        "doi": "https://doi.org/10.1063/1.1524305",
+        "title": "Nanoscale thermal transport",
+        "journal": "Journal of Applied Physics",
+        "year": 2003,
+        "citations": 3184,
+        "authors": "David G. Cahill, W. K. Ford, Kenneth E. Goodson et al.",
+        "authors_list": [
+            "David G. Cahill",
+            "W. K. Ford",
+            "Kenneth E. Goodson",
+            "G. D. Mahan",
+            "Arun Majumdar",
+            "Humphrey J. Maris",
+            "R. Merlín",
+            "Simon R. Phillpot"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 3184,
+            "crossref": 2700
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aip.scitation.org/doi/pdf/10.1063/1.1524305"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.46.6131",
+        "title": "Lower limit to the thermal conductivity of disordered crystals",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 1992,
+        "citations": 2579,
+        "authors": "David G. Cahill, Susan K. Watson, R. O. Pohl",
+        "authors_list": [
+            "David G. Cahill",
+            "Susan K. Watson",
+            "R. O. Pohl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2579,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4832615",
+        "title": "Nanoscale thermal transport. II. 2003–2012",
+        "journal": "Applied Physics Reviews",
+        "year": 2014,
+        "citations": 1714,
+        "authors": "David G. Cahill, Paul V. Braun, Gang Chen et al.",
+        "authors_list": [
+            "David G. Cahill",
+            "Paul V. Braun",
+            "Gang Chen",
+            "David R. Clarke",
+            "Shanhui Fan",
+            "Kenneth E. Goodson",
+            "Pawel Keblinski",
+            "William P. King",
+            "G. D. Mahan",
+            "Arun Majumdar",
+            "Humphrey J. Maris",
+            "Simon R. Phillpot",
+            "Eric Pop",
+            "Li Shi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1714,
+            "crossref": 1607
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aip.scitation.org/doi/pdf/10.1063/1.4832615"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1819431",
+        "title": "Analysis of heat flow in layered structures for time-domain thermoreflectance",
+        "journal": "Review of Scientific Instruments",
+        "year": 2004,
+        "citations": 1526,
+        "authors": "David G. Cahill",
+        "authors_list": [
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1526,
+            "crossref": 1435
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nmat996",
+        "title": "Interfacial heat flow in carbon nanotube suspensions",
+        "journal": "Nature Materials",
+        "year": 2003,
+        "citations": 1083,
+        "authors": "Scott T. Huxtable, David G. Cahill, Sergei Shenogin et al.",
+        "authors_list": [
+            "Scott T. Huxtable",
+            "David G. Cahill",
+            "Sergei Shenogin",
+            "Li‐Ping Xue",
+            "Rahmi Ozisik",
+            "Paul W. Barone",
+            "Monica Lee Usrey",
+            "Michael S. Strano",
+            "Giles P. Siddons",
+            "Moonsub Shim",
+            "Pawel Keblinski"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1083,
+            "crossref": 1002
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1369-7021(05)70936-6",
+        "title": "Nanofluids for thermal transport",
+        "journal": "Materials Today",
+        "year": 2005,
+        "citations": 909,
+        "authors": "Pawel Keblinski, J. A. Eastman, David G. Cahill",
+        "authors_list": [
+            "Pawel Keblinski",
+            "J. A. Eastman",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 909,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1369702105709366/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1136494",
+        "title": "Ultralow Thermal Conductivity in Disordered, Layered WSe <sub>2</sub> Crystals",
+        "journal": "Science",
+        "year": 2006,
+        "citations": 845,
+        "authors": "Catalin Chiritescu, David G. Cahill, Ngoc T. Nguyen et al.",
+        "authors_list": [
+            "Catalin Chiritescu",
+            "David G. Cahill",
+            "Ngoc T. Nguyen",
+            "David C. Johnson",
+            "Arun Bodapati",
+            "Pawel Keblinski",
+            "P. Zschack"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 845,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.35.4067",
+        "title": "Thermal conductivity of amorphous solids above the plateau",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 1987,
+        "citations": 799,
+        "authors": "David G. Cahill, R. O. Pohl",
+        "authors_list": [
+            "David G. Cahill",
+            "R. O. Pohl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 799,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.363923",
+        "title": "Heat transport in thin dielectric films",
+        "journal": "Journal of Applied Physics",
+        "year": 1997,
+        "citations": 718,
+        "authors": "Seung Min Lee, David G. Cahill",
+        "authors_list": [
+            "Seung Min Lee",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 718,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.118755",
+        "title": "Thermal conductivity of Si–Ge superlattices",
+        "journal": "Applied Physics Letters",
+        "year": 1997,
+        "citations": 708,
+        "authors": "Seung Min Lee, David G. Cahill, R. Venkatasubramanian",
+        "authors_list": [
+            "Seung Min Lee",
+            "David G. Cahill",
+            "R. Venkatasubramanian"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 708,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nmat3303",
+        "title": "Effects of chemical bonding on heat transport across interfaces",
+        "journal": "Nature Materials",
+        "year": 2012,
+        "citations": 696,
+        "authors": "Mark D. Losego, Martha E. Grady, Nancy R. Sottos et al.",
+        "authors_list": [
+            "Mark D. Losego",
+            "Martha E. Grady",
+            "Nancy R. Sottos",
+            "David G. Cahill",
+            "Paul V. Braun"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 696,
+            "crossref": 672
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1875140"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1115/1.1454111",
+        "title": "Thermometry and Thermal Transport in Micro/Nanoscale Solid-State Devices and Structures",
+        "journal": "ASME Journal of Heat and Mass Transfer",
+        "year": 2001,
+        "citations": 602,
+        "authors": "David G. Cahill, Kenneth E. Goodson, Arun Majumdar",
+        "authors_list": [
+            "David G. Cahill",
+            "Kenneth E. Goodson",
+            "Arun Majumdar"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 602,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.aat8982",
+        "title": "High thermal conductivity in cubic boron arsenide crystals",
+        "journal": "Science",
+        "year": 2018,
+        "citations": 593,
+        "authors": "Sheng Li, Qiye Zheng, Yinchuan Lv et al.",
+        "authors_list": [
+            "Sheng Li",
+            "Qiye Zheng",
+            "Yinchuan Lv",
+            "Xiaoyuan Liu",
+            "Xiqu Wang",
+            "Pinshane Y. Huang",
+            "David G. Cahill",
+            "Bing Lv"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 593,
+            "crossref": 571
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.73.144301",
+        "title": "Thermal conductance of interfaces between highly dissimilar materials",
+        "journal": "Physical Review B",
+        "year": 2006,
+        "citations": 574,
+        "authors": "Ho-Ki Lyeo, David G. Cahill",
+        "authors_list": [
+            "Ho-Ki Lyeo",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 574,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.50.6077",
+        "title": "Thermal conductivity of<i>a</i>-Si:H thin films",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 1994,
+        "citations": 518,
+        "authors": "David G. Cahill, Monica Katiyar, John R. Abelson",
+        "authors_list": [
+            "David G. Cahill",
+            "Monica Katiyar",
+            "John R. Abelson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 518,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1736328",
+        "title": "Role of thermal boundary resistance on the heat flow in carbon-nanotube composites",
+        "journal": "Journal of Applied Physics",
+        "year": 2004,
+        "citations": 511,
+        "authors": "Sergei Shenogin, Li‐Ping Xue, Rahmi Ozisik et al.",
+        "authors_list": [
+            "Sergei Shenogin",
+            "Li‐Ping Xue",
+            "Rahmi Ozisik",
+            "Pawel Keblinski",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 511,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.67.054302",
+        "title": "Thermal conductance of epitaxial interfaces",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 2003,
+        "citations": 484,
+        "authors": "Ruxandra M. Costescu, Marcel A. Wall, David G. Cahill",
+        "authors_list": [
+            "Ruxandra M. Costescu",
+            "Marcel A. Wall",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 484,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.96.186101",
+        "title": "Thermal Conductance of Hydrophilic and Hydrophobic Interfaces",
+        "journal": "Physical Review Letters",
+        "year": 2006,
+        "citations": 457,
+        "authors": "Zhenbin Ge, David G. Cahill, Paul V. Braun",
+        "authors_list": [
+            "Zhenbin Ge",
+            "David G. Cahill",
+            "Paul V. Braun"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 457,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1145220",
+        "title": "Ultrafast Flash Thermal Conductance of Molecular Chains",
+        "journal": "Science",
+        "year": 2007,
+        "citations": 449,
+        "authors": "Zhaohui Wang, Jeffrey A. Carter, Alexei Lagutchev et al.",
+        "authors_list": [
+            "Zhaohui Wang",
+            "Jeffrey A. Carter",
+            "Alexei Lagutchev",
+            "Yee Kan Koh",
+            "Nak-Hyun Seong",
+            "David G. Cahill",
+            "Dana D. Dlott"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 449,
+            "crossref": 415
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev.pc.39.100188.000521",
+        "title": "Lattice Vibrations and Heat Transport in Crystals and Glasses",
+        "journal": "Annual Review of Physical Chemistry",
+        "year": 1988,
+        "citations": 447,
+        "authors": "David G. Cahill, R. O. Pohl",
+        "authors_list": [
+            "David G. Cahill",
+            "R. O. Pohl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 447,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.72.245426",
+        "title": "Thermal conductance of metal-metal interfaces",
+        "journal": "Physical Review B",
+        "year": 2005,
+        "citations": 406,
+        "authors": "Bryan C. Gundrum, David G. Cahill, R. S. Averback",
+        "authors_list": [
+            "Bryan C. Gundrum",
+            "David G. Cahill",
+            "R. S. Averback"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 406,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.76.075207",
+        "title": "Frequency dependence of the thermal conductivity of semiconductor alloys",
+        "journal": "Physical Review B",
+        "year": 2007,
+        "citations": 378,
+        "authors": "Yee Kan Koh, David G. Cahill",
+        "authors_list": [
+            "Yee Kan Koh",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 378,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1093711",
+        "title": "Ultra-Low Thermal Conductivity in W/Al <sub>2</sub> O <sub>3</sub> Nanolaminates",
+        "journal": "Science",
+        "year": 2004,
+        "citations": 353,
+        "authors": "Ruxandra M. Costescu, David G. Cahill, F. Fabreguette et al.",
+        "authors_list": [
+            "Ruxandra M. Costescu",
+            "David G. Cahill",
+            "F. Fabreguette",
+            "Z. A. Sechrist",
+            "Steven M. George"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 353,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41586-021-03867-8",
+        "title": "Extremely anisotropic van der Waals thermal conductors",
+        "journal": "Nature",
+        "year": 2021,
+        "citations": 334,
+        "authors": "Shi En Kim, Fauzia Mujid, Akash Rai et al.",
+        "authors_list": [
+            "Shi En Kim",
+            "Fauzia Mujid",
+            "Akash Rai",
+            "Fredrik Eriksson",
+            "Joonki Suh",
+            "Preeti Poddar",
+            "Ariana Ray",
+            "Chibeom Park",
+            "Erik Fransson",
+            "Yu Zhong",
+            "David A. Muller",
+            "Paul Erhart",
+            "David G. Cahill",
+            "Jiwoong Park"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 334,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41586-021-03867-8.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.2189933",
+        "title": "Thermal conductivity of nanoparticle suspensions",
+        "journal": "Journal of Applied Physics",
+        "year": 2006,
+        "citations": 325,
+        "authors": "Shawn A. Putnam, David G. Cahill, Paul V. Braun et al.",
+        "authors_list": [
+            "Shawn A. Putnam",
+            "David G. Cahill",
+            "Paul V. Braun",
+            "Zhenbin Ge",
+            "Robert G. Shimmin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 325,
+            "crossref": 244
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.aaz6149",
+        "title": "Ultrahigh thermal conductivity in isotope-enriched cubic boron nitride",
+        "journal": "Science",
+        "year": 2020,
+        "citations": 324,
+        "authors": "Ke Chen, Bai Song, Navaneetha K. Ravichandran et al.",
+        "authors_list": [
+            "Ke Chen",
+            "Bai Song",
+            "Navaneetha K. Ravichandran",
+            "Qiye Zheng",
+            "Xi Chen",
+            "Hwijong Lee",
+            "Haoran Sun",
+            "Sheng Li",
+            "Geethal Amila Gamage",
+            "Fei Tian",
+            "Zhiwei Ding",
+            "Qichen Song",
+            "Akash Rai",
+            "Hanlin Wu",
+            "Pawan Koirala",
+            "Aaron J. Schmidt",
+            "Kenji Watanabe",
+            "Bing Lv",
+            "Zhifeng Ren",
+            "Li Shi",
+            "David G. Cahill",
+            "Takashi Taniguchi",
+            "David Broido",
+            "Gang Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 324,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://hdl.handle.net/1721.1/127819"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.576265",
+        "title": "Thermal conductivity of thin films: Measurements and understanding",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 1989,
+        "citations": 313,
+        "authors": "David G. Cahill, Henry E. Fischer, T. Klitsner et al.",
+        "authors_list": [
+            "David G. Cahill",
+            "Henry E. Fischer",
+            "T. Klitsner",
+            "Ed Swartz",
+            "R. O. Pohl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 313,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.2359354",
+        "title": "Thermal conductivity of phase-change material Ge2Sb2Te5",
+        "journal": "Applied Physics Letters",
+        "year": 2006,
+        "citations": 312,
+        "authors": "Ho-Ki Lyeo, David G. Cahill, Bong-Sub Lee et al.",
+        "authors_list": [
+            "Ho-Ki Lyeo",
+            "David G. Cahill",
+            "Bong-Sub Lee",
+            "John R. Abelson",
+            "Min-Ho Kwon",
+            "Ki-Bum Kim",
+            "S. G. Bishop",
+            "Byung‐ki Cheong"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 312,
+            "crossref": 280
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.66.224301",
+        "title": "Colloidal metal particles as probes of nanoscale thermal transport in fluids",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 2002,
+        "citations": 312,
+        "authors": "Orla M. Wilson, Xiaoyuan Hu, David G. Cahill et al.",
+        "authors_list": [
+            "Orla M. Wilson",
+            "Xiaoyuan Hu",
+            "David G. Cahill",
+            "Paul V. Braun"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 312,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ma502099t",
+        "title": "Thermal Conductivity and Elastic Constants of PEDOT:PSS with High Electrical Conductivity",
+        "journal": "Macromolecules",
+        "year": 2015,
+        "citations": 304,
+        "authors": "Jùn Líu, Xiaojia Wang, Dongyao Li et al.",
+        "authors_list": [
+            "Jùn Líu",
+            "Xiaojia Wang",
+            "Dongyao Li",
+            "Nelson E. Coates",
+            "Rachel A. Segalman",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 304,
+            "crossref": 291
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ma400612y",
+        "title": "Thermal Conductivity of High-Modulus Polymer Fibers",
+        "journal": "Macromolecules",
+        "year": 2013,
+        "citations": 297,
+        "authors": "Xiaojia Wang, Victor Ho, Rachel A. Segalman et al.",
+        "authors_list": [
+            "Xiaojia Wang",
+            "Victor Ho",
+            "Rachel A. Segalman",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 297,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.2335783",
+        "title": "Limits of localized heating by electromagnetically excited nanoparticles",
+        "journal": "Journal of Applied Physics",
+        "year": 2006,
+        "citations": 281,
+        "authors": "Pawel Keblinski, David G. Cahill, Arun Bodapati et al.",
+        "authors_list": [
+            "Pawel Keblinski",
+            "David G. Cahill",
+            "Arun Bodapati",
+            "Charles R. Sullivan",
+            "T. Andrew Taton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 281,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.52.253",
+        "title": "Thermal conductivity of sputtered oxide films",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 1995,
+        "citations": 280,
+        "authors": "Seung Min Lee, David G. Cahill, Thomas H. Allen",
+        "authors_list": [
+            "Seung Min Lee",
+            "David G. Cahill",
+            "Thomas H. Allen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 280,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.201503466",
+        "title": "Anisotropic Thermal Conductivity of Exfoliated Black Phosphorus",
+        "journal": "Advanced Materials",
+        "year": 2015,
+        "citations": 262,
+        "authors": "Hyejin Jang, Joshua D. Wood, Christopher R. Ryder et al.",
+        "authors_list": [
+            "Hyejin Jang",
+            "Joshua D. Wood",
+            "Christopher R. Ryder",
+            "Mark C. Hersam",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 262,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.201503466"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4904513",
+        "title": "Measurement of the anisotropic thermal conductivity of molybdenum disulfide by the time-resolved magneto-optic Kerr effect",
+        "journal": "Journal of Applied Physics",
+        "year": 2014,
+        "citations": 257,
+        "authors": "Jun Liu, Gyung‐Min Choi, David G. Cahill",
+        "authors_list": [
+            "Jun Liu",
+            "Gyung‐Min Choi",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 257,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.aip.org/aip/jap/article-pdf/doi/10.1063/1.4904513/15150858/233107_1_online.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.macromol.5b02477",
+        "title": "Thermal Conductivity, Heat Capacity, and Elastic Constants of Water-Soluble Polymers and Polymer Blends",
+        "journal": "Macromolecules",
+        "year": 2016,
+        "citations": 256,
+        "authors": "Xu Xie, Dongyao Li, Tsung‐Han Tsai et al.",
+        "authors_list": [
+            "Xu Xie",
+            "Dongyao Li",
+            "Tsung‐Han Tsai",
+            "Jùn Líu",
+            "Paul V. Braun",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 256,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adfm.200800984",
+        "title": "Heat‐Transport Mechanisms in Superlattices",
+        "journal": "Advanced Functional Materials",
+        "year": 2009,
+        "citations": 246,
+        "authors": "Yee Kan Koh, Yu Cao, David G. Cahill et al.",
+        "authors_list": [
+            "Yee Kan Koh",
+            "Yu Cao",
+            "David G. Cahill",
+            "Debdeep Jena"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 246,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms6075",
+        "title": "Anisotropic failure of Fourier theory in time-domain thermoreflectance experiments",
+        "journal": "Nature Communications",
+        "year": 2014,
+        "citations": 244,
+        "authors": "Richard B. Wilson, David G. Cahill",
+        "authors_list": [
+            "Richard B. Wilson",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 244,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms6075.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.3394016",
+        "title": "Thermal conductivity and dynamic heat capacity across the metal-insulator transition in thin film VO2",
+        "journal": "Applied Physics Letters",
+        "year": 2010,
+        "citations": 233,
+        "authors": "Dong-Wook Oh, Changhyun Ko, Shriram Ramanathan et al.",
+        "authors_list": [
+            "Dong-Wook Oh",
+            "Changhyun Ko",
+            "Shriram Ramanathan",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 233,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms5334",
+        "title": "Spin current generated by thermally driven ultrafast demagnetization",
+        "journal": "Nature Communications",
+        "year": 2014,
+        "citations": 225,
+        "authors": "Gyung‐Min Choi, Byoung‐Chul Min, Kyung‐Jin Lee et al.",
+        "authors_list": [
+            "Gyung‐Min Choi",
+            "Byoung‐Chul Min",
+            "Kyung‐Jin Lee",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 225,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms5334.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/es8002712",
+        "title": "Quantification of Functional Groups and Modeling of Their Ionization Behavior in the Active Layer of FT30 Reverse Osmosis Membrane",
+        "journal": "Environmental Science & Technology",
+        "year": 2008,
+        "citations": 211,
+        "authors": "Orlando Coronell, Benito J. Mariñas, Xijing Zhang et al.",
+        "authors_list": [
+            "Orlando Coronell",
+            "Benito J. Mariñas",
+            "Xijing Zhang",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 211,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.3020759",
+        "title": "Two-tint pump-probe measurements using a femtosecond laser oscillator and sharp-edged optical filters",
+        "journal": "Review of Scientific Instruments",
+        "year": 2008,
+        "citations": 209,
+        "authors": "Kwangu Kang, Yee Kan Koh, Catalin Chiritescu et al.",
+        "authors_list": [
+            "Kwangu Kang",
+            "Yee Kan Koh",
+            "Catalin Chiritescu",
+            "Xuan Zheng",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 209,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1314301",
+        "title": "Thermal conductivity of amorphous carbon thin films",
+        "journal": "Journal of Applied Physics",
+        "year": 2000,
+        "citations": 206,
+        "authors": "Andrew J. Bullen, Keith O’Hara, David G. Cahill et al.",
+        "authors_list": [
+            "Andrew J. Bullen",
+            "Keith O’Hara",
+            "David G. Cahill",
+            "O.R. Monteiro",
+            "Achim von Keudell"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 206,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0008084"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4757863",
+        "title": "Probing anisotropic heat transport using time-domain thermoreflectance with offset laser spots",
+        "journal": "Review of Scientific Instruments",
+        "year": 2012,
+        "citations": 201,
+        "authors": "Joseph P. Feser, David G. Cahill",
+        "authors_list": [
+            "Joseph P. Feser",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 201,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.3078808",
+        "title": "Comparison of the 3ω method and time-domain thermoreflectance for measurements of the cross-plane thermal conductivity of epitaxial semiconductors",
+        "journal": "Journal of Applied Physics",
+        "year": 2009,
+        "citations": 200,
+        "authors": "Yee Kan Koh, Suzanne L. Singer, Woochul Kim et al.",
+        "authors_list": [
+            "Yee Kan Koh",
+            "Suzanne L. Singer",
+            "Woochul Kim",
+            "Joshua M. O. Zide",
+            "Hong Lü",
+            "David G. Cahill",
+            "Arun Majumdar",
+            "A. C. Gossard"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 200,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.74.1127",
+        "title": "Surface Morphology during Multilayer Epitaxial Growth of Ge(001)",
+        "journal": "Physical Review Letters",
+        "year": 1995,
+        "citations": 199,
+        "authors": "J. E. Van Nostrand, S. Jay Chey, M-A Hasan et al.",
+        "authors_list": [
+            "J. E. Van Nostrand",
+            "S. Jay Chey",
+            "M-A Hasan",
+            "David G. Cahill",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 199,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms7578",
+        "title": "Thermal conductance of metal–diamond interfaces at high pressure",
+        "journal": "Nature Communications",
+        "year": 2015,
+        "citations": 197,
+        "authors": "Gregory T. Hohensee, Richard B. Wilson, David G. Cahill",
+        "authors_list": [
+            "Gregory T. Hohensee",
+            "Richard B. Wilson",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 197,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms7578.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.85.3672",
+        "title": "Pathway for the Strain-Driven Two-Dimensional to Three-Dimensional Transition during Growth of Ge on Si(001)",
+        "journal": "Physical Review Letters",
+        "year": 2000,
+        "citations": 193,
+        "authors": "Artūras Vailionis, B. Cho, G. Glass et al.",
+        "authors_list": [
+            "Artūras Vailionis",
+            "B. Cho",
+            "G. Glass",
+            "P. Desjardins",
+            "David G. Cahill",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 193,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-022-34943-w",
+        "title": "High thermal conductivity in wafer-scale cubic silicon carbide crystals",
+        "journal": "Nature Communications",
+        "year": 2022,
+        "citations": 193,
+        "authors": "Zhe Cheng, Jianbo Liang, Keisuke Kawamura et al.",
+        "authors_list": [
+            "Zhe Cheng",
+            "Jianbo Liang",
+            "Keisuke Kawamura",
+            "Hao Zhou",
+            "Hidetoshi Asamura",
+            "Hiroki Uratani",
+            "Janak Tiwari",
+            "Samuel Graham",
+            "Yutaka Ohno",
+            "Yasuyoshi Nagai",
+            "Tianli Feng",
+            "Naoteru Shigekawa",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 193,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-022-34943-w.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms5035",
+        "title": "Electrochemically tunable thermal conductivity of lithium cobalt oxide",
+        "journal": "Nature Communications",
+        "year": 2014,
+        "citations": 193,
+        "authors": "Jiung Cho, Mark D. Losego, Huigang Zhang et al.",
+        "authors_list": [
+            "Jiung Cho",
+            "Mark D. Losego",
+            "Huigang Zhang",
+            "Honggyu Kim",
+            "Jian‐Min Zuo",
+            "I. Petrov",
+            "David G. Cahill",
+            "Paul V. Braun"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 193,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms5035.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja504284r",
+        "title": "Side-Chain Effects on the Conductivity, Morphology, and Thermoelectric Properties of Self-Doped Narrow-Band-Gap Conjugated Polyelectrolytes",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2014,
+        "citations": 192,
+        "authors": "Cheng‐Kang Mai, Ruth A. Schlitz, Gregory M. Su et al.",
+        "authors_list": [
+            "Cheng‐Kang Mai",
+            "Ruth A. Schlitz",
+            "Gregory M. Su",
+            "Daniël Spitzer",
+            "Xiaojia Wang",
+            "Stephanie L. Fronk",
+            "David G. Cahill",
+            "Michael L. Chabinyc",
+            "Guillermo C. Bazan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 192,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nmat1114",
+        "title": "Thermal conductivity imaging at micrometre-scale resolution for combinatorial studies of materials",
+        "journal": "Nature Materials",
+        "year": 2004,
+        "citations": 182,
+        "authors": "Scott T. Huxtable, David G. Cahill, Vincent Fauconnier et al.",
+        "authors_list": [
+            "Scott T. Huxtable",
+            "David G. Cahill",
+            "Vincent Fauconnier",
+            "Jeffrey O. White",
+            "Ji‐Cheng Zhao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 182,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/es200007h",
+        "title": "Depth Heterogeneity of Fully Aromatic Polyamide Active Layers in Reverse Osmosis and Nanofiltration Membranes",
+        "journal": "Environmental Science & Technology",
+        "year": 2011,
+        "citations": 178,
+        "authors": "Orlando Coronell, Benito J. Mariñas, David G. Cahill",
+        "authors_list": [
+            "Orlando Coronell",
+            "Benito J. Mariñas",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 178,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevmaterials.3.014601",
+        "title": "Thermal conductivity of GaN, <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mmultiscripts><mml:mi>GaN</mml:mi><mml:mprescripts/><mml:none/><mml:mn>71</mml:mn></mml:mmultiscripts></mml:math>, and SiC from 150 K to 850 K",
+        "journal": "Physical Review Materials",
+        "year": 2019,
+        "citations": 172,
+        "authors": "Qiye Zheng, Chunhua Li, Akash Rai et al.",
+        "authors_list": [
+            "Qiye Zheng",
+            "Chunhua Li",
+            "Akash Rai",
+            "Jacob H. Leach",
+            "David Broido",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 172,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1489429"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nphys3355",
+        "title": "Thermal spin-transfer torque driven by the spin-dependent Seebeck effect in metallic spin-valves",
+        "journal": "Nature Physics",
+        "year": 2015,
+        "citations": 168,
+        "authors": "Gyung‐Min Choi, Chul Hyun Moon, Byoung‐Chul Min et al.",
+        "authors_list": [
+            "Gyung‐Min Choi",
+            "Chul Hyun Moon",
+            "Byoung‐Chul Min",
+            "Kyung‐Jin Lee",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 168,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.112355",
+        "title": "Thermal conductivity of sputtered and evaporated SiO2 and TiO2 optical coatings",
+        "journal": "Applied Physics Letters",
+        "year": 1994,
+        "citations": 167,
+        "authors": "David G. Cahill, Thomas H. Allen",
+        "authors_list": [
+            "David G. Cahill",
+            "Thomas H. Allen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 167,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.aip.org/aip/apl/article-pdf/65/3/309/7802597/309_1_online.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la047056h",
+        "title": "Transport of Nanoscale Latex Spheres in a Temperature Gradient",
+        "journal": "Langmuir",
+        "year": 2005,
+        "citations": 163,
+        "authors": "Shawn A. Putnam, David G. Cahill",
+        "authors_list": [
+            "Shawn A. Putnam",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 163,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1817082116",
+        "title": "Light-triggered thermal conductivity switching in azobenzene polymers",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2019,
+        "citations": 162,
+        "authors": "Jungwoo Shin, Jaeuk Sung, Minjee Kang et al.",
+        "authors_list": [
+            "Jungwoo Shin",
+            "Jaeuk Sung",
+            "Minjee Kang",
+            "Xu Xie",
+            "Byeongdu Lee",
+            "Kyung Min Lee",
+            "Timothy J. White",
+            "Cecília Leal",
+            "Nancy R. Sottos",
+            "Paul V. Braun",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 162,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/116/13/5973.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.367500",
+        "title": "Thermal conductivity of κ-Al2O3 and α-Al2O3 wear-resistant coatings",
+        "journal": "Journal of Applied Physics",
+        "year": 1998,
+        "citations": 153,
+        "authors": "David G. Cahill, Seung Min Lee, T. I. Selinder",
+        "authors_list": [
+            "David G. Cahill",
+            "Seung Min Lee",
+            "T. I. Selinder"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 153,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.81.165405",
+        "title": "Lifetimes of optical phonons in graphene and graphite by time-resolved incoherent anti-Stokes Raman scattering",
+        "journal": "Physical Review B",
+        "year": 2010,
+        "citations": 152,
+        "authors": "Kwangu Kang, Daner Abdula, David G. Cahill et al.",
+        "authors_list": [
+            "Kwangu Kang",
+            "Daner Abdula",
+            "David G. Cahill",
+            "Moonsub Shim"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 152,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1364/oe.20.028829",
+        "title": "Thermoreflectance of metal transducers for optical pump-probe studies of thermal properties",
+        "journal": "Optics Express",
+        "year": 2012,
+        "citations": 151,
+        "authors": "Richard B. Wilson, Brent A. Apgar, Lane W. Martin et al.",
+        "authors_list": [
+            "Richard B. Wilson",
+            "Brent A. Apgar",
+            "Lane W. Martin",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 151,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1364/oe.20.028829"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp048375k",
+        "title": "AuPd Metal Nanoparticles as Probes of Nanoscale Thermal Transport in Aqueous Solution",
+        "journal": "The Journal of Physical Chemistry B",
+        "year": 2004,
+        "citations": 149,
+        "authors": "Zhenbin Ge, David G. Cahill, Paul V. Braun",
+        "authors_list": [
+            "Zhenbin Ge",
+            "David G. Cahill",
+            "Paul V. Braun"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 149,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4897622",
+        "title": "Pump-probe measurements of the thermal conductivity tensor for materials lacking in-plane symmetry",
+        "journal": "Review of Scientific Instruments",
+        "year": 2014,
+        "citations": 148,
+        "authors": "Joseph P. Feser, Jùn Líu, David G. Cahill",
+        "authors_list": [
+            "Joseph P. Feser",
+            "Jùn Líu",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 148,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/1.4897622/13630466/104903_1_online.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la700489e",
+        "title": "Temperature Dependence of Thermodiffusion in Aqueous Suspensions of Charged Nanoparticles",
+        "journal": "Langmuir",
+        "year": 2007,
+        "citations": 144,
+        "authors": "Shawn A. Putnam, David G. Cahill, Gerard C. L. Wong",
+        "authors_list": [
+            "Shawn A. Putnam",
+            "David G. Cahill",
+            "Gerard C. L. Wong"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 144,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4767456",
+        "title": "Thermal conductivity of silicon nanowire arrays with controlled roughness",
+        "journal": "Journal of Applied Physics",
+        "year": 2012,
+        "citations": 135,
+        "authors": "Joseph P. Feser, Jyothi Sadhu, Bruno Azeredo et al.",
+        "authors_list": [
+            "Joseph P. Feser",
+            "Jyothi Sadhu",
+            "Bruno Azeredo",
+            "Keng Hsu",
+            "Jun Ma",
+            "Jun Hwan Kim",
+            "Myunghoon Seong",
+            "Nicholas X. Fang",
+            "Xiuling Li",
+            "Placid M. Ferreira",
+            "Sanjiv Sinha",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 135,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://hdl.handle.net/1721.1/78624"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.memsci.2006.05.015",
+        "title": "Physico-chemical characterization of NF/RO membrane active layers by Rutherford backscattering spectrometry☆",
+        "journal": "Journal of Membrane Science",
+        "year": 2006,
+        "citations": 132,
+        "authors": "Baoxia Mi, Orlando Coronell, Benito J. Mariñas et al.",
+        "authors_list": [
+            "Baoxia Mi",
+            "Orlando Coronell",
+            "Benito J. Mariñas",
+            "Fumiaki Watanabe",
+            "David G. Cahill",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 132,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.95.035406",
+        "title": "High and low thermal conductivity of amorphous macromolecules",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2017,
+        "citations": 131,
+        "authors": "Xu Xie, Kexin Yang, Dongyao Li et al.",
+        "authors_list": [
+            "Xu Xie",
+            "Kexin Yang",
+            "Dongyao Li",
+            "Tsung‐Han Tsai",
+            "Jungwoo Shin",
+            "Paul V. Braun",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 131,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.88.075310",
+        "title": "Ultralow thermal conductivity of fullerene derivatives",
+        "journal": "Physical Review B",
+        "year": 2013,
+        "citations": 131,
+        "authors": "Xiaojia Wang, Christopher D. Liman, Neil D. Treat et al.",
+        "authors_list": [
+            "Xiaojia Wang",
+            "Christopher D. Liman",
+            "Neil D. Treat",
+            "Michael L. Chabinyc",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 131,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsmacrolett.6b00475",
+        "title": "Thermally Functional Liquid Crystal Networks by Magnetic Field Driven Molecular Orientation",
+        "journal": "ACS Macro Letters",
+        "year": 2016,
+        "citations": 130,
+        "authors": "Jungwoo Shin, Minjee Kang, Tsung‐Han Tsai et al.",
+        "authors_list": [
+            "Jungwoo Shin",
+            "Minjee Kang",
+            "Tsung‐Han Tsai",
+            "Cecília Leal",
+            "Paul V. Braun",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1021/acsmacrolett.6b00475"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.3065092",
+        "title": "Thermal conductivity of (Zr,W)N/ScN metal/semiconductor multilayers and superlattices",
+        "journal": "Journal of Applied Physics",
+        "year": 2009,
+        "citations": 129,
+        "authors": "Vijay Rawat, Yee Kan Koh, David G. Cahill et al.",
+        "authors_list": [
+            "Vijay Rawat",
+            "Yee Kan Koh",
+            "David G. Cahill",
+            "T. Sands"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 129,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.memsci.2009.01.027",
+        "title": "Absorption of water in the active layer of reverse osmosis membranes",
+        "journal": "Journal of Membrane Science",
+        "year": 2009,
+        "citations": 128,
+        "authors": "Xijing Zhang, David G. Cahill, Orlando Coronell et al.",
+        "authors_list": [
+            "Xijing Zhang",
+            "David G. Cahill",
+            "Orlando Coronell",
+            "Benito J. Mariñas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/es100891r",
+        "title": "Ionization Behavior, Stoichiometry of Association, and Accessibility of Functional Groups in the Active Layers of Reverse Osmosis and Nanofiltration Membranes",
+        "journal": "Environmental Science & Technology",
+        "year": 2010,
+        "citations": 126,
+        "authors": "Orlando Coronell, M. Isabel González, Benito J. Mariñas et al.",
+        "authors_list": [
+            "Orlando Coronell",
+            "M. Isabel González",
+            "Benito J. Mariñas",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 126,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.108.255901",
+        "title": "Experimental Validation of the Interfacial Form of the Wiedemann-Franz Law",
+        "journal": "Physical Review Letters",
+        "year": 2012,
+        "citations": 125,
+        "authors": "Richard B. Wilson, David G. Cahill",
+        "authors_list": [
+            "Richard B. Wilson",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 125,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1103580"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/cm203042q",
+        "title": "Effect of Growth Induced (Non)Stoichiometry on the Structure, Dielectric Response, and Thermal Conductivity of SrTiO<sub>3</sub> Thin Films",
+        "journal": "Chemistry of Materials",
+        "year": 2011,
+        "citations": 124,
+        "authors": "Eric Breckenfeld, Richard B. Wilson, J. Karthik et al.",
+        "authors_list": [
+            "Eric Breckenfeld",
+            "Richard B. Wilson",
+            "J. Karthik",
+            "Anoop R. Damodaran",
+            "David G. Cahill",
+            "Lane W. Martin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 124,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s002570050205",
+        "title": "Elastic properties of several amorphous solids and disordered crystals below 100 K",
+        "journal": "Zeitschrift für Physik B Condensed Matter",
+        "year": 1996,
+        "citations": 123,
+        "authors": "K. A. Topp, David G. Cahill",
+        "authors_list": [
+            "K. A. Topp",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 123,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.80.180302",
+        "title": "Pressure tuning of the thermal conductivity of the layered muscovite crystal",
+        "journal": "Physical Review B",
+        "year": 2009,
+        "citations": 121,
+        "authors": "Wen‐Pin Hsieh, Bin Chen, Jie Li et al.",
+        "authors_list": [
+            "Wen‐Pin Hsieh",
+            "Bin Chen",
+            "Jie Li",
+            "Pawel Keblinski",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 121,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.actamat.2007.05.037",
+        "title": "High-throughput thermal conductivity measurements of nickel solid solutions and the applicability of the Wiedemann–Franz law",
+        "journal": "Acta Materialia",
+        "year": 2007,
+        "citations": 119,
+        "authors": "Xuan Zheng, David G. Cahill, P. Krasnochtchekov et al.",
+        "authors_list": [
+            "Xuan Zheng",
+            "David G. Cahill",
+            "P. Krasnochtchekov",
+            "R.S. Averback",
+            "Ji‐Cheng Zhao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 119,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adfm.201605928",
+        "title": "Direct Synthesis of Large‐Scale WTe<sub>2</sub> Thin Films with Low Thermal Conductivity",
+        "journal": "Advanced Functional Materials",
+        "year": 2017,
+        "citations": 118,
+        "authors": "Yu Zhou, Hyejin Jang, John M. Woods et al.",
+        "authors_list": [
+            "Yu Zhou",
+            "Hyejin Jang",
+            "John M. Woods",
+            "Yujun Xie",
+            "Piranavan Kumaravadivel",
+            "Grace A. Pan",
+            "Jingbei Liu",
+            "Yanhui Liu",
+            "David G. Cahill",
+            "J. Judy"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4948335",
+        "title": "Anisotropic and inhomogeneous thermal conduction in suspended thin-film polycrystalline diamond",
+        "journal": "Journal of Applied Physics",
+        "year": 2016,
+        "citations": 116,
+        "authors": "Aditya Sood, Jungwan Cho, Karl D. Hobart et al.",
+        "authors_list": [
+            "Aditya Sood",
+            "Jungwan Cho",
+            "Karl D. Hobart",
+            "Tatyana I. Feygelson",
+            "Bradford B. Pate",
+            "Mehdi Asheghi",
+            "David G. Cahill",
+            "Kenneth E. Goodson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.102.095701",
+        "title": "Solidification Velocities in Deeply Undercooled Silver",
+        "journal": "Physical Review Letters",
+        "year": 2009,
+        "citations": 116,
+        "authors": "Wai‐Lun Chan, R. S. Averback, David G. Cahill et al.",
+        "authors_list": [
+            "Wai‐Lun Chan",
+            "R. S. Averback",
+            "David G. Cahill",
+            "Yinon Ashkenazy"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/srep02400",
+        "title": "Effect of mass disorder on the lattice thermal conductivity of MgO periclase under pressure",
+        "journal": "Scientific Reports",
+        "year": 2013,
+        "citations": 115,
+        "authors": "D. Allen Dalton, Wen‐Pin Hsieh, Gregory T. Hohensee et al.",
+        "authors_list": [
+            "D. Allen Dalton",
+            "Wen‐Pin Hsieh",
+            "Gregory T. Hohensee",
+            "David G. Cahill",
+            "Alexander F. Goncharov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 115,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/srep02400.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adfm.201701282",
+        "title": "Flexible and Stretchable 3ω Sensors for Thermal Characterization of Human Skin",
+        "journal": "Advanced Functional Materials",
+        "year": 2017,
+        "citations": 114,
+        "authors": "Limei Tian, Yuhang Li, R. Chad Webb et al.",
+        "authors_list": [
+            "Limei Tian",
+            "Yuhang Li",
+            "R. Chad Webb",
+            "Siddharth Krishnan",
+            "Zuguang Bian",
+            "Jizhou Song",
+            "Xin Ning",
+            "Kaitlyn E. Crawford",
+            "Jonas Kurniawan",
+            "Andrew P. Bonifas",
+            "Jun Ma",
+            "Yuhao Liu",
+            "Xu Xie",
+            "Jin Chen",
+            "Yuting Liu",
+            "Zhan Shi",
+            "Tianqi Wu",
+            "Rui Ning",
+            "Daizhen Li",
+            "Sanjiv Sinha",
+            "David G. Cahill",
+            "Yonggang Huang",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 114,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.80.174112",
+        "title": "Picosecond ultrasonic measurements of attenuation of longitudinal acoustic phonons in silicon",
+        "journal": "Physical Review B",
+        "year": 2009,
+        "citations": 113,
+        "authors": "Brian C. Daly, Kalisa Kang, Yi Wang et al.",
+        "authors_list": [
+            "Brian C. Daly",
+            "Kalisa Kang",
+            "Yi Wang",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 113,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1619202",
+        "title": "High-precision thermal conductivity measurements as a probe of polymer/nanoparticle interfaces",
+        "journal": "Journal of Applied Physics",
+        "year": 2003,
+        "citations": 113,
+        "authors": "Shawn A. Putnam, David G. Cahill, Benjamin J. Ash et al.",
+        "authors_list": [
+            "Shawn A. Putnam",
+            "David G. Cahill",
+            "Benjamin J. Ash",
+            "Linda S. Schadler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 113,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.88.144305",
+        "title": "Two-channel model for nonequilibrium thermal transport in pump-probe experiments",
+        "journal": "Physical Review B",
+        "year": 2013,
+        "citations": 112,
+        "authors": "Richard B. Wilson, Joseph P. Feser, Gregory T. Hohensee et al.",
+        "authors_list": [
+            "Richard B. Wilson",
+            "Joseph P. Feser",
+            "Gregory T. Hohensee",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 112,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms15085",
+        "title": "Optical-helicity-driven magnetization dynamics in metallic ferromagnets",
+        "journal": "Nature Communications",
+        "year": 2017,
+        "citations": 110,
+        "authors": "Gyung‐Min Choi, André Schleife, David G. Cahill",
+        "authors_list": [
+            "Gyung‐Min Choi",
+            "André Schleife",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 110,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms15085.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.3117228",
+        "title": "Lattice thermal conductivity of nanostructured thermoelectric materials based on PbTe",
+        "journal": "Applied Physics Letters",
+        "year": 2009,
+        "citations": 110,
+        "authors": "Yee Kan Koh, C.J. Vineis, S.D. Calawa et al.",
+        "authors_list": [
+            "Yee Kan Koh",
+            "C.J. Vineis",
+            "S.D. Calawa",
+            "Michael Walsh",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 110,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.aip.org/aip/apl/article-pdf/doi/10.1063/1.3117228/14409198/153101_1_online.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.83.174205",
+        "title": "Testing the minimum thermal conductivity model for amorphous polymers using high pressure",
+        "journal": "Physical Review B",
+        "year": 2011,
+        "citations": 109,
+        "authors": "Wen‐Pin Hsieh, Mark D. Losego, Paul V. Braun et al.",
+        "authors_list": [
+            "Wen‐Pin Hsieh",
+            "Mark D. Losego",
+            "Paul V. Braun",
+            "Sergei Shenogin",
+            "Pawel Keblinski",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1099406"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.3457151",
+        "title": "Thermoreflectance of metal transducers for time-domain thermoreflectance",
+        "journal": "Journal of Applied Physics",
+        "year": 2010,
+        "citations": 108,
+        "authors": "Yuxin Wang, Ji Yong Park, Yee Kan Koh et al.",
+        "authors_list": [
+            "Yuxin Wang",
+            "Ji Yong Park",
+            "Yee Kan Koh",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 108,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.111.115901",
+        "title": "Role of Surface-Segregation-Driven Intermixing on the Thermal Transport through Planar<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>Si</mml:mi><mml:mo>/</mml:mo><mml:mi>Ge</mml:mi></mml:math>Superlattices",
+        "journal": "Physical Review Letters",
+        "year": 2013,
+        "citations": 108,
+        "authors": "Peixuan Chen, Nebil A. Katcho, Joseph P. Feser et al.",
+        "authors_list": [
+            "Peixuan Chen",
+            "Nebil A. Katcho",
+            "Joseph P. Feser",
+            "Wu Li",
+            "Martin Gläser",
+            "Oliver G. Schmidt",
+            "David G. Cahill",
+            "Natalio Mingo",
+            "Armando Rastelli"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 108,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1369-7021(05)71122-6",
+        "title": "High-throughput diffusion multiples",
+        "journal": "Materials Today",
+        "year": 2005,
+        "citations": 106,
+        "authors": "Ji‐Cheng Zhao, Xuan Zheng, David G. Cahill",
+        "authors_list": [
+            "Ji‐Cheng Zhao",
+            "Xuan Zheng",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1369702105711226/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.3458802",
+        "title": "Interfacial thermal conductance in spun-cast polymer films and polymer brushes",
+        "journal": "Applied Physics Letters",
+        "year": 2010,
+        "citations": 103,
+        "authors": "Mark D. Losego, Lionel C. H. Moh, Kevin A. Arpin et al.",
+        "authors_list": [
+            "Mark D. Losego",
+            "Lionel C. H. Moh",
+            "Kevin A. Arpin",
+            "David G. Cahill",
+            "Paul V. Braun"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1875515"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4815867",
+        "title": "Invited Article: Micron resolution spatially resolved measurement of heat capacity using dual-frequency time-domain thermoreflectance",
+        "journal": "Review of Scientific Instruments",
+        "year": 2013,
+        "citations": 102,
+        "authors": "Changdong Wei, Xuan Zheng, David G. Cahill et al.",
+        "authors_list": [
+            "Changdong Wei",
+            "Xuan Zheng",
+            "David G. Cahill",
+            "Ji‐Cheng Zhao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.aip.org/aip/rsi/article-pdf/doi/10.1063/1.4815867/13516912/071301_1_online.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.201700650",
+        "title": "3D Anisotropic Thermal Conductivity of Exfoliated Rhenium Disulfide",
+        "journal": "Advanced Materials",
+        "year": 2017,
+        "citations": 101,
+        "authors": "Hyejin Jang, Christopher R. Ryder, Joshua D. Wood et al.",
+        "authors_list": [
+            "Hyejin Jang",
+            "Christopher R. Ryder",
+            "Joshua D. Wood",
+            "Mark C. Hersam",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.201701130",
+        "title": "Coexistence of Low Damping and Strong Magnetoelastic Coupling in Epitaxial Spinel Ferrite Thin Films",
+        "journal": "Advanced Materials",
+        "year": 2017,
+        "citations": 100,
+        "authors": "Satoru Emori, Benjamin Gray, Hyung‐Min Jeon et al.",
+        "authors_list": [
+            "Satoru Emori",
+            "Benjamin Gray",
+            "Hyung‐Min Jeon",
+            "Joseph Peoples",
+            "Maxwell Schmitt",
+            "K. Mahalingam",
+            "Madelyn Hill",
+            "Michael E. McConney",
+            "Matthew Gray",
+            "Urusa S. Alaan",
+            "Alexander C. Bornstein",
+            "Padraic Shafer",
+            "Alpha T. N’Diaye",
+            "Elke Arenholz",
+            "Greg Haugstad",
+            "Keng-Yuan Meng",
+            "Fengyuan Yang",
+            "Dongyao Li",
+            "Sushant Mahat",
+            "David G. Cahill",
+            "Pallavi Dhagat",
+            "Albrecht Jander",
+            "Nian X. Sun",
+            "Y. Suzuki",
+            "Brandon M. Howe"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 100,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1380025"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.3226884",
+        "title": "Lower limit to the lattice thermal conductivity of nanostructured Bi2Te3-based materials",
+        "journal": "Journal of Applied Physics",
+        "year": 2009,
+        "citations": 99,
+        "authors": "Catalin Chiritescu, Clay Mortensen, David G. Cahill et al.",
+        "authors_list": [
+            "Catalin Chiritescu",
+            "Clay Mortensen",
+            "David G. Cahill",
+            "David C. Johnson",
+            "P. Zschack"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0304-3991(92)90366-r",
+        "title": "STM studies of Si(100)-2×1 oxidation: defect chemistry and Si ejection",
+        "journal": "Ultramicroscopy",
+        "year": 1992,
+        "citations": 98,
+        "authors": "Phaedon Avouris, David G. Cahill",
+        "authors_list": [
+            "Phaedon Avouris",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adfm.201805116",
+        "title": "High Thermal Conductivity in Isotopically Enriched Cubic Boron Phosphide",
+        "journal": "Advanced Functional Materials",
+        "year": 2018,
+        "citations": 98,
+        "authors": "Qiye Zheng, Sheng Li, Chunhua Li et al.",
+        "authors_list": [
+            "Qiye Zheng",
+            "Sheng Li",
+            "Chunhua Li",
+            "Yinchuan Lv",
+            "Xiaoyuan Liu",
+            "Pinshane Y. Huang",
+            "David Broido",
+            "Bing Lv",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1068/htwi9",
+        "title": "Interface thermal conductance and the thermal conductivity of multilayer thin films",
+        "journal": "High Temperatures-High Pressures",
+        "year": 2000,
+        "citations": 97,
+        "authors": "David G. Cahill, Andrew J. Bullen, Seung Min Lee",
+        "authors_list": [
+            "David G. Cahill",
+            "Andrew J. Bullen",
+            "Seung Min Lee"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1311477111",
+        "title": "Resonant secondary light emission from plasmonic Au nanostructures at high electron temperatures created by pulsed-laser excitation",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2014,
+        "citations": 97,
+        "authors": "Jingyu Huang, Wei Wang, Catherine J. Murphy et al.",
+        "authors_list": [
+            "Jingyu Huang",
+            "Wei Wang",
+            "Catherine J. Murphy",
+            "David G. Cahill"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/111/3/906.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.46.6131",
+        "title": "Lower limit to the thermal conductivity of disordered crystals",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 2489,
+        "authors": "David G. Cahill, S. K. Watson, R. O. Pohl",
+        "authors_list": [
+            "David G. Cahill",
+            "S. K. Watson",
+            "R. O. Pohl"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 2489
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1126/science.1136494",
+        "title": "Ultralow Thermal Conductivity in Disordered, Layered WSe\n            <sub>2</sub>\n            Crystals",
+        "journal": "Science",
+        "year": 2007,
+        "citations": 811,
+        "authors": "Catalin Chiritescu, David G. Cahill, Ngoc Nguyen et al.",
+        "authors_list": [
+            "Catalin Chiritescu",
+            "David G. Cahill",
+            "Ngoc Nguyen",
+            "David Johnson",
+            "Arun Bodapati",
+            "Pawel Keblinski",
+            "Paul Zschack"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 811
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.35.4067",
+        "title": "Thermal conductivity of amorphous solids above the plateau",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 735,
+        "authors": "David G. Cahill, R. O. Pohl",
+        "authors_list": [
+            "David G. Cahill",
+            "R. O. Pohl"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 735
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1063/1.363923",
+        "title": "Heat transport in thin dielectric films",
+        "journal": "Journal of Applied Physics",
+        "year": 1997,
+        "citations": 643,
+        "authors": "S.-M. Lee, David G. Cahill",
+        "authors_list": [
+            "S.-M. Lee",
+            "David G. Cahill"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 643
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1115/1.1454111",
+        "title": "Thermometry and Thermal Transport in Micro/Nanoscale Solid-State Devices and Structures",
+        "journal": "Journal of Heat Transfer",
+        "year": 2002,
+        "citations": 534,
+        "authors": "David G. Cahill, Kenneth Goodson, Arunava Majumdar",
+        "authors_list": [
+            "David G. Cahill",
+            "Kenneth Goodson",
+            "Arunava Majumdar"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 534
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.50.6077",
+        "title": "Thermal conductivity of<i>a</i>-Si:H thin films",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 471,
+        "authors": "David G. Cahill, M. Katiyar, J. R. Abelson",
+        "authors_list": [
+            "David G. Cahill",
+            "M. Katiyar",
+            "J. R. Abelson"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 471
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.96.186101",
+        "title": "Thermal Conductance of Hydrophilic and Hydrophobic Interfaces",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 414,
+        "authors": "Zhenbin Ge, David G. Cahill, Paul V. Braun",
+        "authors_list": [
+            "Zhenbin Ge",
+            "David G. Cahill",
+            "Paul V. Braun"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 414
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1146/annurev.pc.39.100188.000521",
+        "title": "Lattice Vibrations and Heat Transport in Crystals and Glasses",
+        "journal": "Annual Review of Physical Chemistry",
+        "year": 1988,
+        "citations": 436,
+        "authors": "D G Cahill, R O Pohl",
+        "authors_list": [
+            "D G Cahill",
+            "R O Pohl"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 436
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.72.245426",
+        "title": "Thermal conductance of metal-metal interfaces",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 365,
+        "authors": "Bryan C. Gundrum, David G. Cahill, Robert S. Averback",
+        "authors_list": [
+            "Bryan C. Gundrum",
+            "David G. Cahill",
+            "Robert S. Averback"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 365
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.76.075207",
+        "title": "Frequency dependence of the thermal conductivity of semiconductor alloys",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 339,
+        "authors": "Yee Kan Koh, David G. Cahill",
+        "authors_list": [
+            "Yee Kan Koh",
+            "David G. Cahill"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 339
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1116/1.576265",
+        "title": "Thermal conductivity of thin films: Measurements and understanding",
+        "journal": "Journal of Vacuum Science &amp; Technology A: Vacuum, Surfaces, and Films",
+        "year": 1989,
+        "citations": 288,
+        "authors": "David G. Cahill, Henry E. Fischer, Tom Klitsner et al.",
+        "authors_list": [
+            "David G. Cahill",
+            "Henry E. Fischer",
+            "Tom Klitsner",
+            "E. T. Swartz",
+            "R. O. Pohl"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 288
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.66.224301",
+        "title": "Colloidal metal particles as probes of nanoscale thermal transport in fluids",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 276,
+        "authors": "Orla M. Wilson, Xiaoyuan Hu, David G. Cahill et al.",
+        "authors_list": [
+            "Orla M. Wilson",
+            "Xiaoyuan Hu",
+            "David G. Cahill",
+            "Paul V. Braun"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 276
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

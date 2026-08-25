@@ -1,0 +1,51 @@
+[
+    {
+        "url": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019TC005650",
+        "snippet": "Benyshek, E. K., Wessel, P., & Taylor, B. (2019). Tectonic Reconstruction of the Ellice Basin. Tectonics, 38, 3854–3865. https://doi.org ...",
+        "category": "Publication",
+        "relevance_score": 98,
+        "reasoning": "The URL is a DOI link to an academic journal article, indicating it's a published research paper."
+    },
+    {
+        "url": "https://impact.ornl.gov/en/publications/search-for-eccentric-binary-black-hole-mergers-with-advanced-ligo/",
+        "snippet": "Wen, E. K. Wessel, P. Weßels, J. W. Westhouse, K. Wette, J. T. ... Advanced LIGO and Advanced Virgo. We carried out the search with the ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet describes a specific research study and its methodology, with the use of technical terms like 'eccentric-binary-black-hole-mergers' and 'Advanced LIGO'."
+    },
+    {
+        "url": "https://pure.psu.edu/en/publications/all-sky-search-for-short-gravitational-wave-bursts-in-the-second-/fingerprints/?sortBy=alphabetically",
+        "snippet": "All-sky search for short gravitational-wave bursts in the second Advanced LIGO and Advanced Virgo run ... Wen, E. K. Wessel, P. Weßels, J. W. Westhouse, K ... Dive ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is from a research publication database (Pure) and the snippet lists authors, suggesting it's an academic paper."
+    },
+    {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33015351/",
+        "snippet": "... E K Wessel , P Weßels , J W Westhouse , K Wette , J T ... Advanced LIGO and Advanced Virgo detectors. We study the capability of the ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL points to a PubMed entry with an ID, indicating it is a scientific publication."
+    },
+    {
+        "url": "https://scholar.google.fr/citations?user=2wQS08AAAAAJ&hl=ja",
+        "snippet": "SpaceOps 2010 Conference Delivering on the Dream Hosted by NASA Marshall …, ... TC Sorensen, EJ Pilger, MS Wood, MA Nunes, HM Garbeil, EK Wessel, ... Proc ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet mentions a conference proceedings publication in Scholar Google Citations, which is typical for academic research."
+    },
+    {
+        "url": "https://arxiv.org/html/2604.18018v1",
+        "snippet": "Wen, E. K. Wessel, P. Weßels, J. Westerweck, T. Westphal, K. Wette, J. T. ... In 2018 SpaceOps Conference, pp. . External Links: Document, Link, https ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is from arXiv, a digital repository of electronic preprints (known as e-prints) and reprints in fields such as physics, engineering, computer science, and related disciplines."
+    },
+    {
+        "url": "https://www.alamy.com/stock-photo/civil-service-reform-bill.html?pseudoid=CDF00A10-8430-48D3-A3F6-AC9B9F696061",
+        "snippet": "RM 2AT302F–Press conference (Nieuwspoort) on new jointly submitted abortion bill by PvdA and D66 H. Roethof (PvdA) and Mrs. E.K. Wessel-Tuinstra Date: ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The snippet appears to be a news article excerpt with specific date and event information."
+    }
+]

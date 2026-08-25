@@ -1,0 +1,3348 @@
+[
+    {
+        "doi": "https://doi.org/10.1080/02680930500108718",
+        "title": "Neoliberalism, higher education and the knowledge economy: from the free market to knowledge capitalism",
+        "journal": "Journal of Education Policy",
+        "year": 2005,
+        "citations": 2369,
+        "authors": "Mark Olssen, Michael A. Peters",
+        "authors_list": [
+            "Mark Olssen",
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2369,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2304/elea.2011.8.2.102",
+        "title": "Transforming American Education: Learning Powered by Technology",
+        "journal": "E-Learning and Digital Media",
+        "year": 2011,
+        "citations": 593,
+        "authors": "Michael A. Peters, Daniel Araya",
+        "authors_list": [
+            "Michael A. Peters",
+            "Daniel Araya"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 593,
+            "crossref": 14
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Education, Enterprise Culture and the Entrepreneurial Self: A Foucauldian Perspective",
+        "journal": "Journal of educational enquiry",
+        "year": 2009,
+        "citations": 318,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 318,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2020.1777655",
+        "title": "Reimagining the new pedagogical possibilities for universities post-Covid-19",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2020,
+        "citations": 290,
+        "authors": "Michael A. Peters, Fazal Rizvi, Gary McCulloch et al.",
+        "authors_list": [
+            "Michael A. Peters",
+            "Fazal Rizvi",
+            "Gary McCulloch",
+            "Paul Gibbs",
+            "Radhika Görur",
+            "Moon Suk Hong",
+            "Yoon-Jung Hwang",
+            "Lew Zipin",
+            "Marie Brennan",
+            "Susan L. Robertson",
+            "John Quay",
+            "Justin Malbon",
+            "Danilo Taglietti",
+            "Ronald Barnett",
+            "Chengbing Wang",
+            "Peter McLaren",
+            "Rima D. Apple",
+            "Marianna Papastephanou",
+            "Nick Burbules",
+            "Liz Jackson",
+            "Pankaj Jalote",
+            "Mary Kalantzis",
+            "Bill Cope",
+            "Aslam Fataar",
+            "James C. Conroy",
+            "Greg William Misiaszek",
+            "Gert Biesta",
+            "Petar Jandrić",
+            "Suzanne S. Choo",
+            "Michael W. Apple",
+            "Lynda Stone",
+            "Rob Tierney",
+            "Marek Tesař",
+            "Tina Besley",
+            "Lauren Ila Misiaszek"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 290,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://research.manchester.ac.uk/en/publications/b91c363b-28e0-4757-acab-0e914b2045cf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-981-16-8679-5_300217",
+        "title": "Teachers as Curriculum Planners",
+        "journal": "Encyclopedia of Teacher Education",
+        "year": 2022,
+        "citations": 284,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "reference-entry",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 284,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/002188638402000203",
+        "title": "The Origins and Status of Action Research",
+        "journal": "The Journal of Applied Behavioral Science",
+        "year": 1984,
+        "citations": 271,
+        "authors": "Michael A. Peters, Viviane Robinson",
+        "authors_list": [
+            "Michael A. Peters",
+            "Viviane Robinson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 271,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s42438-018-0011-x",
+        "title": "Postdigital Dialogue",
+        "journal": "Postdigital Science and Education",
+        "year": 2018,
+        "citations": 243,
+        "authors": "Petar Jandrić, Thomas Ryberg, Jeremy Knox et al.",
+        "authors_list": [
+            "Petar Jandrić",
+            "Thomas Ryberg",
+            "Jeremy Knox",
+            "Nataša Lacković",
+            "Sarah Hayes",
+            "Juha Suoranta",
+            "Mark Smith",
+            "Anne Steketee",
+            "Michael A. Peters",
+            "Peter McLaren",
+            "Derek R. Ford",
+            "Gordon Asher",
+            "Callum McGregor",
+            "Georgina Stewart",
+            "Ben Williamson",
+            "Andrew Gibbons"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 243,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://figshare.com/articles/Postdigital_dialogue/11108738"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2016.1177412",
+        "title": "Technological unemployment: Educating for the fourth industrial revolution",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2016,
+        "citations": 232,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 232,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2016.1177412?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Subjectivity and Truth: Foucault, Education, and the Culture of Self",
+        "journal": "Medical Entomology and Zoology",
+        "year": 2007,
+        "citations": 200,
+        "authors": "Tina Besley, Michael A. Peters",
+        "authors_list": [
+            "Tina Besley",
+            "Michael A. Peters"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 200,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1163/9789087909857",
+        "title": "Governmentality Studies in Education",
+        "journal": "",
+        "year": 2009,
+        "citations": 195,
+        "authors": "Michael A. Peters, Tina Besley, Mark Olssen et al.",
+        "authors_list": [
+            "Michael A. Peters",
+            "Tina Besley",
+            "Mark Olssen",
+            "Susanne Maurer",
+            "Susanne Weber"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 195,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://brill.com/downloadpdf/title/37062.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s42438-020-00128-1",
+        "title": "China’s Internationalized Higher Education During Covid-19: Collective Student Autoethnography",
+        "journal": "Postdigital Science and Education",
+        "year": 2020,
+        "citations": 191,
+        "authors": "Michael A. Peters, Hejia Wang, Moses Oladele Ogunniran et al.",
+        "authors_list": [
+            "Michael A. Peters",
+            "Hejia Wang",
+            "Moses Oladele Ogunniran",
+            "Yingying Huang",
+            "Ben Green",
+            "Jasmin Omary Chunga",
+            "Eric Atta Quainoo",
+            "Zhihong Ren",
+            "Stephanie Hollings",
+            "Chunxiao Mou",
+            "Sphiwe Wezzie Khomera",
+            "Man Zhang",
+            "Shuchen Zhou",
+            "Laimeche Amina",
+            "Wener Zheng",
+            "Rulin Xu",
+            "Liz Jackson",
+            "Sarah Hayes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 191,
+            "crossref": 89
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/s42438-020-00128-1.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2016.1264114",
+        "title": "Education in a post-truth world",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2017,
+        "citations": 189,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 189,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2016.1264114?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Globalisation and Europeanisation in Education",
+        "journal": "Symposium Books",
+        "year": 2009,
+        "citations": 183,
+        "authors": "Palle Rasmussen, Kathleen Lynch, Jacky Brine et al.",
+        "authors_list": [
+            "Palle Rasmussen",
+            "Kathleen Lynch",
+            "Jacky Brine",
+            "Pepka Boyadjieva",
+            "Michael A. Peters",
+            "Heinz Sünker"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 183,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Poststructuralism, Marxism, and Neoliberalism: Between Theory and Politics",
+        "journal": "",
+        "year": 2001,
+        "citations": 175,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 175,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2023.2213437",
+        "title": "AI and the future of humanity: ChatGPT-4, philosophy and education – Critical responses",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2023,
+        "citations": 174,
+        "authors": "Michael A. Peters, Liz Jackson, Marianna Papastephanou et al.",
+        "authors_list": [
+            "Michael A. Peters",
+            "Liz Jackson",
+            "Marianna Papastephanou",
+            "Petar Jandrić",
+            "George Lăzăroiu",
+            "Colin W. Evers",
+            "Bill Cope",
+            "Mary Kalantzis",
+            "Daniel Araya",
+            "Marek Tesař",
+            "Carl Mika",
+            "Lei Chen",
+            "Chengbing Wang",
+            "Sean Sturm",
+            "Sharon Rider",
+            "Steve Fuller"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 174,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://hub.hku.hk/handle/10722/345540"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Poststructuralism and educational research",
+        "journal": "",
+        "year": 2004,
+        "citations": 164,
+        "authors": "Michael A. Peters, Nicholas C. Burbules",
+        "authors_list": [
+            "Michael A. Peters",
+            "Nicholas C. Burbules"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 164,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "National education policy constructions of the 'knowledge economy': towards a critique",
+        "journal": "Journal of educational enquiry",
+        "year": 2009,
+        "citations": 163,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 163,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Building Knowledge Cultures: Education and Development in the Age of Knowledge Capitalism",
+        "journal": "",
+        "year": 2006,
+        "citations": 160,
+        "authors": "Michael A. Peters, A.C. Besley",
+        "authors_list": [
+            "Michael A. Peters",
+            "A.C. Besley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 160,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-981-287-532-7",
+        "title": "Encyclopedia of Educational Philosophy and Theory",
+        "journal": "",
+        "year": 2015,
+        "citations": 144,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 144,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1163/9789087908317",
+        "title": "Re-Reading Education Policies",
+        "journal": "",
+        "year": 2009,
+        "citations": 142,
+        "authors": "Maarten Simons, Mark Olssen, Michael A. Peters",
+        "authors_list": [
+            "Maarten Simons",
+            "Mark Olssen",
+            "Michael A. Peters"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 142,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2015.1037227",
+        "title": "Why is My Curriculum White?",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2015,
+        "citations": 140,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 140,
+            "crossref": 105
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2015.1037227?needAccess=true"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s42438-018-0004-9",
+        "title": "Critical Philosophy of the Postdigital",
+        "journal": "Postdigital Science and Education",
+        "year": 2018,
+        "citations": 139,
+        "authors": "Michael A. Peters, Tina Besley",
+        "authors_list": [
+            "Michael A. Peters",
+            "Tina Besley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 139,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00071000903516452",
+        "title": "Three Forms of the Knowledge Economy: Learning, Creativity and Openness",
+        "journal": "British Journal of Educational Studies",
+        "year": 2010,
+        "citations": 136,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 136,
+            "crossref": 67
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/0305498032000080684",
+        "title": "Truth-telling as an Educational Practice of the Self: Foucault, Parrhesia and the ethics of subjectivity",
+        "journal": "Oxford Review of Education",
+        "year": 2003,
+        "citations": 129,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 129,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1163/9789087903497",
+        "title": "Knowledge Economy, Development and the Future of Higher Education",
+        "journal": "",
+        "year": 2007,
+        "citations": 129,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 129,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.0013-2004.2005.00002.x",
+        "title": "The new prudentialism in education: Actuarial rationality and the entrepreneurial self",
+        "journal": "Educational Theory",
+        "year": 2005,
+        "citations": 128,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131850220150291",
+        "title": "Philosophy of Educational Research",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2002,
+        "citations": 128,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Why Foucault? New Directions in Educational Research",
+        "journal": "",
+        "year": 2007,
+        "citations": 126,
+        "authors": "Michael A. Peters, Tina Besley",
+        "authors_list": [
+            "Michael A. Peters",
+            "Tina Besley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 126,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Showing and Doing: Wittgenstein as a Pedagogical Philosopher",
+        "journal": "",
+        "year": 2008,
+        "citations": 120,
+        "authors": "Michael A. Peters, Nicholas C. Burbules, Paulus Smeyers",
+        "authors_list": [
+            "Michael A. Peters",
+            "Nicholas C. Burbules",
+            "Paulus Smeyers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3726/b11314",
+        "title": "The Digital University",
+        "journal": "",
+        "year": 2017,
+        "citations": 110,
+        "authors": "Michael A. Peters, Petar Jandrić",
+        "authors_list": [
+            "Michael A. Peters",
+            "Petar Jandrić"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 110,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Global Creation: Space, Mobility, and Synchrony in the Age of the Knowledge Economy",
+        "journal": "ResearchOnline at James Cook University (James Cook University)",
+        "year": 2009,
+        "citations": 99,
+        "authors": "Simon Marginson, Peter Murphy, Michael A. Peters",
+        "authors_list": [
+            "Simon Marginson",
+            "Peter Murphy",
+            "Michael A. Peters"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2020.1744226",
+        "title": "Viral modernity? Epidemics, infodemics, and the ‘bioinformational’ paradigm",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2020,
+        "citations": 99,
+        "authors": "Michael A. Peters, Petar Jandrić, Peter McLaren",
+        "authors_list": [
+            "Michael A. Peters",
+            "Petar Jandrić",
+            "Peter McLaren"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2020.1744226?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1163/9789087903756",
+        "title": "Global Citizenship Education",
+        "journal": "",
+        "year": 2008,
+        "citations": 98,
+        "authors": "Michael A. Peters, Alan Britton, Harry Blee",
+        "authors_list": [
+            "Michael A. Peters",
+            "Alan Britton",
+            "Harry Blee"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2018.1438822",
+        "title": "China’s double first-class university strategy: 双一流",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2018,
+        "citations": 97,
+        "authors": "Michael A. Peters, Tina Besley",
+        "authors_list": [
+            "Michael A. Peters",
+            "Tina Besley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2018.1438822?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/1467-9752.00153",
+        "title": "Information, Knowledge and Learning: Some Issues Facing Epistemology and Education in a Digital Age",
+        "journal": "Journal of Philosophy of Education",
+        "year": 2000,
+        "citations": 97,
+        "authors": "Colín Lankshear, Michael A. Peters, Michele Knobel",
+        "authors_list": [
+            "Colín Lankshear",
+            "Michael A. Peters",
+            "Michele Knobel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://figshare.com/articles/chapter/Information_knowledge_and_learning_some_issues_facing_epistemology_and_education_in_a_digital_age/13421642"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1163/9789087906818",
+        "title": "Open Education and Education for Openness",
+        "journal": "",
+        "year": 2008,
+        "citations": 96,
+        "authors": "Michael A. Peters, Rodrigo Brítez",
+        "authors_list": [
+            "Michael A. Peters",
+            "Rodrigo Brítez"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/3341759",
+        "title": "Education and the Postmodern Condition",
+        "journal": "The Canadian Journal of Sociology",
+        "year": 1997,
+        "citations": 96,
+        "authors": "Dieter Misgeld, Michael A. Peters",
+        "authors_list": [
+            "Dieter Misgeld",
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.2307/3341759"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-981-287-588-4_100415",
+        "title": "First and Second Language Literacy",
+        "journal": "",
+        "year": 2017,
+        "citations": 95,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "reference-entry",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Education in the creative economy : knowledge and learning in the age of innovation",
+        "journal": "",
+        "year": 2010,
+        "citations": 95,
+        "authors": "Daniel Araya, Michael A. Peters",
+        "authors_list": [
+            "Daniel Araya",
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.5040/9798216991984",
+        "title": "Wittgenstein",
+        "journal": "Praeger eBooks",
+        "year": 1999,
+        "citations": 94,
+        "authors": "Michael A. Peters, James A. Marshall",
+        "authors_list": [
+            "Michael A. Peters",
+            "James A. Marshall"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 94,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2020.1867108",
+        "title": "Postdigital-biodigital: An emerging configuration",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2021,
+        "citations": 88,
+        "authors": "Michael A. Peters, Petar Jandrić, Sarah Hayes",
+        "authors_list": [
+            "Michael A. Peters",
+            "Petar Jandrić",
+            "Sarah Hayes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2020.1867108?needAccess=true"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-981-287-588-4_100563",
+        "title": "Knowledge Based Economy",
+        "journal": "",
+        "year": 2017,
+        "citations": 84,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "reference-entry",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-531-90194-7_2",
+        "title": "Neoliberal Governmentality: Foucault on the Birth of Biopolitics",
+        "journal": "VS Verlag für Sozialwissenschaften eBooks",
+        "year": 2007,
+        "citations": 82,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s42438-020-00211-7",
+        "title": "Biodigital Philosophy, Technological Convergence, and Postdigital Knowledge Ecologies",
+        "journal": "Postdigital Science and Education",
+        "year": 2021,
+        "citations": 82,
+        "authors": "Michael A. Peters, Petar Jandrić, Sarah Hayes",
+        "authors_list": [
+            "Michael A. Peters",
+            "Petar Jandrić",
+            "Sarah Hayes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/s42438-020-00211-7.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-94-017-2616-0_12",
+        "title": "Philosophy and Education: ‘After’ Wittgenstein",
+        "journal": "Philosophy and education",
+        "year": 1995,
+        "citations": 79,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 79,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2019.1654375",
+        "title": "Knowledge socialism: the rise of peer production - collegiality, collaboration, and collective intelligence",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2019,
+        "citations": 78,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2019.1654375?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/01596306.2016.1163854",
+        "title": "From State responsibility for education and welfare to self-responsibilisation in the market",
+        "journal": "Discourse Studies in the Cultural Politics of Education",
+        "year": 2016,
+        "citations": 77,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1469-5812.1997.tb00018.x",
+        "title": "Wittgenstein and post‐analytic philosophy of education: Rorty or Lyotard?",
+        "journal": "Educational Philosophy and Theory",
+        "year": 1997,
+        "citations": 77,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2021.1880387",
+        "title": "Philosophy of education in a new key: Exploring new ways of teaching and doing ethics in education in the 21st century",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2021,
+        "citations": 76,
+        "authors": "Rachel Buchanan, Daniella J. Forster, Samuel Douglas et al.",
+        "authors_list": [
+            "Rachel Buchanan",
+            "Daniella J. Forster",
+            "Samuel Douglas",
+            "Sonal Nakar",
+            "Helen Boon",
+            "Treesa Clare Heath",
+            "Paul Heyward",
+            "Laura D’Olimpio",
+            "Joanne Ailwood",
+            "Scott Eacott",
+            "Sharon Smith",
+            "Michael A. Peters",
+            "Marek Tesař"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "PHILOSOPHY OF EDUCATION IN THE AGE OF DIGITAL REASON",
+        "journal": "Research Commons (University of Waikato)",
+        "year": 2015,
+        "citations": 76,
+        "authors": "Michael A. Peters, Petar Jandrić",
+        "authors_list": [
+            "Michael A. Peters",
+            "Petar Jandrić"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ajpa.22296",
+        "title": "Bite force and occlusal stress production in hominin evolution",
+        "journal": "American Journal of Physical Anthropology",
+        "year": 2013,
+        "citations": 76,
+        "authors": "Carolyn M. Eng, Daniel E. Lieberman, Katherine D. Zink et al.",
+        "authors_list": [
+            "Carolyn M. Eng",
+            "Daniel E. Lieberman",
+            "Katherine D. Zink",
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1163/9789087906306",
+        "title": "Neoliberalism, Higher Education and Research",
+        "journal": "",
+        "year": 2008,
+        "citations": 76,
+        "authors": "Peter Roberts, Michael A. Peters",
+        "authors_list": [
+            "Peter Roberts",
+            "Michael A. Peters"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Derrida, deconstruction and education : ethics of pedagogy and research",
+        "journal": "",
+        "year": 2003,
+        "citations": 75,
+        "authors": "Peter Pericles Trifonas, Michael A. Peters",
+        "authors_list": [
+            "Peter Pericles Trifonas",
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Wittgenstein: Philosophy, Postmodernism, Pedagogy",
+        "journal": "Medical Entomology and Zoology",
+        "year": 1999,
+        "citations": 74,
+        "authors": "James D. Marshall, Michael A. Peters",
+        "authors_list": [
+            "James D. Marshall",
+            "Michael A. Peters"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Neoliberalism and After?: Education, Social Policy, and the Crisis of Western Capitalism",
+        "journal": "",
+        "year": 2011,
+        "citations": 74,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Derrida, Deconstruction, and the Politics of Pedagogy",
+        "journal": "",
+        "year": 2008,
+        "citations": 73,
+        "authors": "Michael A. Peters, Gert Biesta",
+        "authors_list": [
+            "Michael A. Peters",
+            "Gert Biesta"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2016.1240987",
+        "title": "Towards a philosophy of academic publishing",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2016,
+        "citations": 73,
+        "authors": "Michael A. Peters, Petar Jandrić, Ruth Irwin et al.",
+        "authors_list": [
+            "Michael A. Peters",
+            "Petar Jandrić",
+            "Ruth Irwin",
+            "Kirsten Locke",
+            "Nesta Devine",
+            "Richard Heraud",
+            "Andrew Gibbons",
+            "Tina Besley",
+            "Jayne White",
+            "Daniella J. Forster",
+            "Liz Jackson",
+            "Elizabeth Grierson",
+            "Carl Mika",
+            "Georgina Stewart",
+            "Marek Tesař",
+            "Susanne Brighouse",
+            "Sonja Arndt",
+            "George Lăzăroiu",
+            "Ramona Mihăilă",
+            "Catherine Legg",
+            "Leon Benadé"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2016.1240987?needAccess=true"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/03075079212331382617",
+        "title": "Performance and accountability in ‘post-industrial society˚s: The crisis of British universities",
+        "journal": "Studies in Higher Education",
+        "year": 1992,
+        "citations": 72,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/23265507.2014.972439",
+        "title": "Social Exclusion/Inclusion: Foucault's analytics of exclusion, the political ecology of social inclusion and the legitimation of inclusive education",
+        "journal": "Open Review of Educational Research",
+        "year": 2014,
+        "citations": 71,
+        "authors": "Michael A. Peters, Tina Besley",
+        "authors_list": [
+            "Michael A. Peters",
+            "Tina Besley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/23265507.2014.972439?needAccess=true"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-319-60261-5_14",
+        "title": "Why Is My Curriculum White? A Brief Genealogy of Resistance",
+        "journal": "",
+        "year": 2018,
+        "citations": 71,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-981-287-588-4_100814",
+        "title": "Political Theory of Neoliberalism",
+        "journal": "",
+        "year": 2017,
+        "citations": 70,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "reference-entry",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1023/a:1010379326178",
+        "title": "Wittgensteinian Pedagogics: Cavell on the Figure of the Child in the Investigations",
+        "journal": "Studies in Philosophy and Education",
+        "year": 2001,
+        "citations": 70,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Virtues of Openness: Education, Science, and Scholarship in the Digital Age",
+        "journal": "",
+        "year": 2011,
+        "citations": 69,
+        "authors": "Michael A. Peters, Peter Roberts",
+        "authors_list": [
+            "Michael A. Peters",
+            "Peter Roberts"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-030-95006-4",
+        "title": "Bioinformational Philosophy and Postdigital Knowledge Ecologies",
+        "journal": "Postdigital science and education",
+        "year": 2022,
+        "citations": 68,
+        "authors": "Michael A. Peters, Petar Jandrić, Sarah Hayes",
+        "authors_list": [
+            "Michael A. Peters",
+            "Petar Jandrić",
+            "Sarah Hayes"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2018.1439376",
+        "title": "The curious promise of educationalising technological unemployment: What can places of learning really do about the future of work?",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2018,
+        "citations": 67,
+        "authors": "Michael A. Peters, Petar Jandrić, Sarah Hayes",
+        "authors_list": [
+            "Michael A. Peters",
+            "Petar Jandrić",
+            "Sarah Hayes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://publications.aston.ac.uk/id/eprint/32475/1/The_curious_promise_of_educationalising_technological_unemployment.docx.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2017.1407578",
+        "title": "The Chinese Dream:<i>Xi Jinping thought on Socialism with Chinese characteristics for a new era</i>",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2017,
+        "citations": 67,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2017.1407578?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2020.1793539",
+        "title": "Philosophy of education in a new key: Education for justice now",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2020,
+        "citations": 67,
+        "authors": "Marianna Papastephanou, Michalinos Zembylas, Inga Bostad et al.",
+        "authors_list": [
+            "Marianna Papastephanou",
+            "Michalinos Zembylas",
+            "Inga Bostad",
+            "Şevket Benhür Oral",
+            "Kalli Drousioti",
+            "Anna Kouppanou",
+            "Torill Strand",
+            "Kenneth Wain",
+            "Michael A. Peters",
+            "Marek Tesař"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2017.1381472",
+        "title": "Global university rankings: Metrics, performance, governance",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2017,
+        "citations": 66,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2017.1381472?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Cognitive Capitalism, Education and Digital Labor.",
+        "journal": "",
+        "year": 2011,
+        "citations": 65,
+        "authors": "Michael A. Peters, Ergin Bulut",
+        "authors_list": [
+            "Michael A. Peters",
+            "Ergin Bulut"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2304/pfie.2012.10.2.134",
+        "title": "Neoliberalism, Education and the Crisis of Western Capitalism",
+        "journal": "Policy Futures in Education",
+        "year": 2012,
+        "citations": 65,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.sagepub.com/doi/pdf/10.2304/pfie.2012.10.2.134"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/0725513612444562",
+        "title": "Bio-informational capitalism",
+        "journal": "Thesis Eleven",
+        "year": 2012,
+        "citations": 65,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/1476772032000105483",
+        "title": "Classical Political Economy and the Role of Universities in the New Knowledge Economy",
+        "journal": "Globalisation Societies and Education",
+        "year": 2003,
+        "citations": 64,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/17508480701494218",
+        "title": "Foucault, biopolitics and the birth of neoliberalism",
+        "journal": "Critical Studies in Education",
+        "year": 2007,
+        "citations": 64,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Naming the Multiple: Poststructuralism and Education",
+        "journal": "Medical Entomology and Zoology",
+        "year": 1998,
+        "citations": 64,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2022.2041413",
+        "title": "Digital trade, digital economy and the digital economy partnership agreement (DEPA)",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2022,
+        "citations": 63,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2022.2041413?needAccess=true"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2017.1279879",
+        "title": "Aborigine, Indian, indigenous or first nations?",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2017,
+        "citations": 63,
+        "authors": "Michael A. Peters, Carl Mika",
+        "authors_list": [
+            "Michael A. Peters",
+            "Carl Mika"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2017.1279879?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": null,
+        "title": "The Digital University: A Dialogue and Manifesto",
+        "journal": "",
+        "year": 2017,
+        "citations": 61,
+        "authors": "Michael A. Peters, Petar Jandrić",
+        "authors_list": [
+            "Michael A. Peters",
+            "Petar Jandrić"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "After the Disciplines: The Emergence of Cultural Studies",
+        "journal": "Medical Entomology and Zoology",
+        "year": 1999,
+        "citations": 61,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2021.1929172",
+        "title": "Philosophy of education in a new key: Publicness, social justice, and education; a South-North conversation",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2021,
+        "citations": 60,
+        "authors": "Gert Biesta, Kathleen Heugh, Hana Červinková et al.",
+        "authors_list": [
+            "Gert Biesta",
+            "Kathleen Heugh",
+            "Hana Červinková",
+            "Lotar Rasiński",
+            "Sam Osborne",
+            "Deirdre Forde",
+            "Alison Wrench",
+            "Jenni Carter",
+            "Carl Anders Säfström",
+            "Hannah Soong",
+            "Suzanne O’Keeffe",
+            "Kathryn Paige",
+            "Lester‐Irabinna Rigney",
+            "Leah O’Toole",
+            "Robert Hattam",
+            "Michael A. Peters",
+            "Marek Tesař"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2017.1305720",
+        "title": "The end of neoliberal globalisation and the rise of authoritarian populism",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2017,
+        "citations": 59,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2017.1305720?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Postfoundationalist themes in the philosophy of education",
+        "journal": "Ghent University Academic Bibliography (Ghent University)",
+        "year": 2006,
+        "citations": 59,
+        "authors": "Paulus Smeyers, Michael A. Peters",
+        "authors_list": [
+            "Paulus Smeyers",
+            "Michael A. Peters"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2022.2151896",
+        "title": "The emerging multipolar world order: A preliminary analysis",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2022,
+        "citations": 59,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2022.2151896?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-94-007-6809-3",
+        "title": "A Companion to Research in Education",
+        "journal": "",
+        "year": 2013,
+        "citations": 58,
+        "authors": "Alan Reid, Paul Hart, Michael A. Peters",
+        "authors_list": [
+            "Alan Reid",
+            "Paul Hart",
+            "Michael A. Peters"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2019.1615174",
+        "title": "China’s belt and road initiative: Reshaping global higher education",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2019,
+        "citations": 56,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2019.1615174?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-981-10-4075-7_1",
+        "title": "A Companion to Research in Teacher Education",
+        "journal": "",
+        "year": 2017,
+        "citations": 56,
+        "authors": "Ian Menter, Michael A. Peters, Bronwen Cowie",
+        "authors_list": [
+            "Ian Menter",
+            "Michael A. Peters",
+            "Bronwen Cowie"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0738-0593(03)00052-x",
+        "title": "Making sense of education policy: studies in the sociology and politics of education",
+        "journal": "International Journal of Educational Development",
+        "year": 2003,
+        "citations": 55,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Futures of Critical Theory: Dreams of Difference",
+        "journal": "",
+        "year": 2003,
+        "citations": 55,
+        "authors": "Michael A. Peters, Mark Olssen, Colín Lankshear",
+        "authors_list": [
+            "Michael A. Peters",
+            "Mark Olssen",
+            "Colín Lankshear"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3726/978-1-4539-0007-9",
+        "title": "Imagination: Three Models of Imagination in the Age of the Knowledge Economy",
+        "journal": "ResearchOnline - JCU (James Cook University)",
+        "year": 2010,
+        "citations": 54,
+        "authors": "Peter Murphy, Michael A. Peters, Simon Marginson",
+        "authors_list": [
+            "Peter Murphy",
+            "Michael A. Peters",
+            "Simon Marginson"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Educational research: 'games of truth' and the ethics of subjectivity",
+        "journal": "Journal of educational enquiry",
+        "year": 2009,
+        "citations": 53,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1741-5446.1996.00051.x",
+        "title": "CRITICAL LITERACY AND DIGITAL TEXTS",
+        "journal": "Educational Theory",
+        "year": 1996,
+        "citations": 52,
+        "authors": "Michael A. Peters, Colín Lankshear",
+        "authors_list": [
+            "Michael A. Peters",
+            "Colín Lankshear"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-981-10-8013-5",
+        "title": "Post-Truth, Fake News: Viral Modernity & Higher Education",
+        "journal": "",
+        "year": 2018,
+        "citations": 52,
+        "authors": "Michael A. Peters, Sharon Rider, Mats Hyvönen et al.",
+        "authors_list": [
+            "Michael A. Peters",
+            "Sharon Rider",
+            "Mats Hyvönen",
+            "Tina Besley"
+        ],
+        "type": "other",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s42438-021-00259-z",
+        "title": "Dissolving the Dichotomies Between Online and Campus-Based Teaching: a Collective Response to The Manifesto for Teaching Online (Bayne et al. 2020)",
+        "journal": "Postdigital Science and Education",
+        "year": 2021,
+        "citations": 52,
+        "authors": "Alison MacKenzie, Alexander Bacalja, Devisakti Annamali et al.",
+        "authors_list": [
+            "Alison MacKenzie",
+            "Alexander Bacalja",
+            "Devisakti Annamali",
+            "Argyro Panaretou",
+            "Prajakta Girme",
+            "Maria Cutajar",
+            "Sandra Abegglen",
+            "Marshall Evens",
+            "Fabian Neuhaus",
+            "Kylie Wilson",
+            "Katerina Psarikidou",
+            "Marguerite Koole",
+            "Stefan Hrastinski",
+            "Sean Sturm",
+            "Chie Adachi",
+            "Karoline Schnaider",
+            "Aras Bozkurt",
+            "Chrysi Rapanta",
+            "Chryssa Themelis",
+            "Klaus Thestrup",
+            "Tom Gislev",
+            "Alex Örtegren",
+            "Eamon Costello",
+            "Gideon Dishon",
+            "Michael Hoechsmann",
+            "Jackeline Bucio",
+            "Guadalupe Vadillo",
+            "Melchor Sánchez Mendiola",
+            "Greta Goetz",
+            "Hélder Lima Gusso",
+            "Janine Arantes",
+            "Pallavi Kishore",
+            "Mikkel Lodahl",
+            "Juha Suoranta",
+            "Lina Markauskaitė",
+            "Sara Mörtsell",
+            "Tanya O’Reilly",
+            "Jack Reed",
+            "Ibrar Bhatt",
+            "Cheryl Brown",
+            "Kathryn MacCallum",
+            "Cecile Ackermann",
+            "Carolyn Alexander",
+            "Ameena L. Payne",
+            "Rebecca Bennett",
+            "Cathy Stone",
+            "Amy Collier",
+            "Sarah Lohnes Watulak",
+            "Petar Jandrić",
+            "Michael A. Peters",
+            "Lesley Gourlay"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/s42438-021-00259-z.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1163/9789087906306_002",
+        "title": "Neoliberalism, Higher Education and Research",
+        "journal": "",
+        "year": 2008,
+        "citations": 50,
+        "authors": "Michael A. Peters, Peter Roberts‎",
+        "authors_list": [
+            "Michael A. Peters",
+            "Peter Roberts‎"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2020.1801146",
+        "title": "Cryptocurrencies, China's sovereign digital currency (DCEP) and the US dollar system",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2020,
+        "citations": 50,
+        "authors": "Michael A. Peters, Ben Green, Haiyang Yang",
+        "authors_list": [
+            "Michael A. Peters",
+            "Ben Green",
+            "Haiyang Yang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2020.1801146?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2022.2124914",
+        "title": "Semiconductors, geopolitics and technological rivalry: The US CHIPS &amp; Science Act, 2022",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2022,
+        "citations": 50,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2022.2124914?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/0725513608099119",
+        "title": "Education, Creativity and the Economy of Passions: New Forms of Educational Capitalism",
+        "journal": "Thesis Eleven",
+        "year": 2009,
+        "citations": 50,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://figshare.com/articles/journal_contribution/Education_creativity_and_the_economy_of_passions_New_forms_of_educational_capitalism/27429576"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00131857.2020.1750090",
+        "title": "A viral theory of post-truth",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2020,
+        "citations": 50,
+        "authors": "Michael A. Peters, Peter McLaren, Petar Jandrić",
+        "authors_list": [
+            "Michael A. Peters",
+            "Peter McLaren",
+            "Petar Jandrić"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131857.2020.1750090?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/08832320209599686",
+        "title": "The Relationship Between Homework and Performance in an Introductory Operations Management Course",
+        "journal": "Journal of Education for Business",
+        "year": 2002,
+        "citations": 49,
+        "authors": "Michael A. Peters, R. Bryan Kethley, Kimball E. Bullington",
+        "authors_list": [
+            "Michael A. Peters",
+            "R. Bryan Kethley",
+            "Kimball E. Bullington"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/1422823",
+        "title": "Lateral Preferences and Human Behavior",
+        "journal": "The American Journal of Psychology",
+        "year": 1983,
+        "citations": 48,
+        "authors": "Michael A. Peters, Clare Porac, Stanley Coren",
+        "authors_list": [
+            "Michael A. Peters",
+            "Clare Porac",
+            "Stanley Coren"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1080/02680930500108718",
+        "title": "Neoliberalism, higher education and the knowledge economy: from the free market to knowledge capitalism",
+        "journal": "Journal of Education Policy",
+        "year": 2005,
+        "citations": 1508,
+        "authors": "Mark Olssen *, Michael A. Peters",
+        "authors_list": [
+            "Mark Olssen *",
+            "Michael A. Peters"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1508
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1080/00131857.2020.1777655",
+        "title": "Reimagining the new pedagogical possibilities for universities post-Covid-19",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2022,
+        "citations": 183,
+        "authors": "Michael A. Peters, Fazal Rizvi, Gary McCulloch et al.",
+        "authors_list": [
+            "Michael A. Peters",
+            "Fazal Rizvi",
+            "Gary McCulloch",
+            "Paul Gibbs",
+            "Radhika Gorur",
+            "Moon Hong",
+            "Yoonjung Hwang",
+            "Lew Zipin",
+            "Marie Brennan",
+            "Susan Robertson",
+            "John Quay",
+            "Justin Malbon",
+            "Danilo Taglietti",
+            "Ronald Barnett",
+            "Wang Chengbing",
+            "Peter McLaren",
+            "Rima Apple",
+            "Marianna Papastephanou",
+            "Nick Burbules",
+            "Liz Jackson",
+            "Pankaj Jalote",
+            "Mary Kalantzis",
+            "Bill Cope",
+            "Aslam Fataar",
+            "James Conroy",
+            "Greg Misiaszek",
+            "Gert Biesta",
+            "Petar Jandrić",
+            "Suzanne S. Choo",
+            "Michael Apple",
+            "Lynda Stone",
+            "Rob Tierney",
+            "Marek Tesar",
+            "Tina Besley",
+            "Lauren Misiaszek"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 183
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://research.manchester.ac.uk/en/publications/b91c363b-28e0-4757-acab-0e914b2045cf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1007/978-981-16-8679-5_300217",
+        "title": "Teachers as Curriculum Planners",
+        "journal": "Encyclopedia of Teacher Education",
+        "year": 2022,
+        "citations": 0,
+        "authors": "",
+        "authors_list": [],
+        "type": "book-chapter",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1177/002188638402000203",
+        "title": "The Origins and Status of Action Research",
+        "journal": "The Journal of Applied Behavioral Science",
+        "year": 1984,
+        "citations": 178,
+        "authors": "Michael Peters, Viviane Robinson",
+        "authors_list": [
+            "Michael Peters",
+            "Viviane Robinson"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 178
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1007/s42438-018-0011-x",
+        "title": "Postdigital Dialogue",
+        "journal": "Postdigital Science and Education",
+        "year": 2019,
+        "citations": 217,
+        "authors": "Petar Jandrić, Thomas Ryberg, Jeremy Knox et al.",
+        "authors_list": [
+            "Petar Jandrić",
+            "Thomas Ryberg",
+            "Jeremy Knox",
+            "Nataša Lacković",
+            "Sarah Hayes",
+            "Juha Suoranta",
+            "Mark Smith",
+            "Anne Steketee",
+            "Michael Peters",
+            "Peter McLaren",
+            "Derek R. Ford",
+            "Gordon Asher",
+            "Callum McGregor",
+            "Georgina Stewart",
+            "Ben Williamson",
+            "Andrew Gibbons"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 217
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://figshare.com/articles/Postdigital_dialogue/11108738"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1163/9789087909857",
+        "title": "Governmentality Studies in Education",
+        "journal": "",
+        "year": 2009,
+        "citations": 72,
+        "authors": "Michael A. Peters, Tina (A.C.) Besley, Mark Olssen et al.",
+        "authors_list": [
+            "Michael A. Peters",
+            "Tina (A.C.) Besley",
+            "Mark Olssen",
+            "Susanne Maurer",
+            "Susanne Weber"
+        ],
+        "type": "monograph",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 72
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://brill.com/downloadpdf/title/37062.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1080/00131857.2023.2213437",
+        "title": "AI and the future of humanity: ChatGPT-4, philosophy and education – Critical responses",
+        "journal": "Educational Philosophy and Theory",
+        "year": 2024,
+        "citations": 156,
+        "authors": "Michael A. Peters, Liz Jackson, Marianna Papastephanou et al.",
+        "authors_list": [
+            "Michael A. Peters",
+            "Liz Jackson",
+            "Marianna Papastephanou",
+            "Petar Jandrić",
+            "George Lazaroiu",
+            "Colin W. Evers",
+            "Bill Cope",
+            "Mary Kalantzis",
+            "Daniel Araya",
+            "Marek Tesar",
+            "Carl Mika",
+            "Lei Chen",
+            "Chengbing Wang",
+            "Sean Sturm",
+            "Sharon Rider",
+            "Steve Fuller"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 156
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://hub.hku.hk/handle/10722/345540"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1163/9789087908317",
+        "title": "Re-Reading Education Policies",
+        "journal": "",
+        "year": 2009,
+        "citations": 71,
+        "authors": "Maarten Simons, Mark Olssen, Michael A. Peters",
+        "authors_list": [
+            "Maarten Simons",
+            "Mark Olssen",
+            "Michael A. Peters"
+        ],
+        "type": "monograph",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 71
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1007/s42438-018-0004-9",
+        "title": "Critical Philosophy of the Postdigital",
+        "journal": "Postdigital Science and Education",
+        "year": 2019,
+        "citations": 107,
+        "authors": "Michael A. Peters, Tina Besley",
+        "authors_list": [
+            "Michael A. Peters",
+            "Tina Besley"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 107
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1163/9789087903497",
+        "title": "Knowledge Economy, Development and the Future of Higher Education",
+        "journal": "",
+        "year": 2007,
+        "citations": 71,
+        "authors": "Michael A. Peters",
+        "authors_list": [
+            "Michael A. Peters"
+        ],
+        "type": "monograph",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 71
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1163/9789087903756",
+        "title": "Global Citizenship Education",
+        "journal": "",
+        "year": 2008,
+        "citations": 42,
+        "authors": "Michael A. Peters, Alan Britton, Harry Blee",
+        "authors_list": [
+            "Michael A. Peters",
+            "Alan Britton",
+            "Harry Blee"
+        ],
+        "type": "monograph",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 42
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/1467-9752.00153",
+        "title": "Information, Knowledge and Learning: Some Issues Facing Epistemology and Education in a Digital Age",
+        "journal": "Journal of the Philosophy of Education",
+        "year": 2000,
+        "citations": 37,
+        "authors": "C. Lankshear, M. Peters, M. Knobel",
+        "authors_list": [
+            "C. Lankshear",
+            "M. Peters",
+            "M. Knobel"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 37
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://figshare.com/articles/chapter/Information_knowledge_and_learning_some_issues_facing_epistemology_and_education_in_a_digital_age/13421642"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.2307/3341759",
+        "title": "Education and the Postmodern Condition",
+        "journal": "Canadian Journal of Sociology / Cahiers canadiens de sociologie",
+        "year": 1997,
+        "citations": 0,
+        "authors": "Dieter Misgeld, Michael Peters",
+        "authors_list": [
+            "Dieter Misgeld",
+            "Michael Peters"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.2307/3341759"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1007/978-981-287-588-4_100415",
+        "title": "First and Second Language Literacy",
+        "journal": "Encyclopedia of Educational Philosophy and Theory",
+        "year": 2017,
+        "citations": 0,
+        "authors": "",
+        "authors_list": [],
+        "type": "book-chapter",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.5040/9798216991984",
+        "title": "Wittgenstein",
+        "journal": "",
+        "year": 1999,
+        "citations": 97,
+        "authors": "Michael Peters, James Marshall",
+        "authors_list": [
+            "Michael Peters",
+            "James Marshall"
+        ],
+        "type": "book",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 97
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

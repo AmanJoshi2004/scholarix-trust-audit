@@ -1,0 +1,3354 @@
+[
+    {
+        "doi": "https://doi.org/10.1145/938985.938995",
+        "title": "Range-free localization schemes for large scale sensor networks",
+        "journal": "",
+        "year": 2003,
+        "citations": 2647,
+        "authors": "Tian He, Chengdu Huang, Brian Blum et al.",
+        "authors_list": [
+            "Tian He",
+            "Chengdu Huang",
+            "Brian Blum",
+            "John A. Stankovic",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2647,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icdcs.2003.1203451",
+        "title": "SPEED: a stateless protocol for real-time communication in sensor networks",
+        "journal": "",
+        "year": 2004,
+        "citations": 1182,
+        "authors": "Tian He, John A. Stankovic, Chenyang Lu et al.",
+        "authors_list": [
+            "Tian He",
+            "John A. Stankovic",
+            "Chenyang Lu",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1182,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/990064.990096",
+        "title": "Energy-efficient surveillance system using wireless sensor networks",
+        "journal": "",
+        "year": 2004,
+        "citations": 741,
+        "authors": "Tian He, Sudha Krishnamurthy, John A. Stankovic et al.",
+        "authors_list": [
+            "Tian He",
+            "Sudha Krishnamurthy",
+            "John A. Stankovic",
+            "Tarek Abdelzaher",
+            "Liqian Luo",
+            "Radu Stoleru",
+            "Ting Yan",
+            "Lin Gu",
+            "Jonathan Hui",
+            "Bruce H. Krogh"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 741,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3038912.3052577",
+        "title": "DeepSense",
+        "journal": "",
+        "year": 2017,
+        "citations": 662,
+        "authors": "Shuochao Yao, Shaohan Hu, Yiran Zhao et al.",
+        "authors_list": [
+            "Shuochao Yao",
+            "Shaohan Hu",
+            "Yiran Zhao",
+            "Aston Zhang",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 662,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1145/3038912.3052577"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1023/b:time.0000045315.61234.1e",
+        "title": "Real Time Scheduling Theory: A Historical Perspective",
+        "journal": "Real-Time Systems",
+        "year": 2004,
+        "citations": 618,
+        "authors": "Lui Sha, Tarek Abdelzaher, Karl-Erik Årzén et al.",
+        "authors_list": [
+            "Lui Sha",
+            "Tarek Abdelzaher",
+            "Karl-Erik Årzén",
+            "Anton Cervin",
+            "T. P. Baker",
+            "Alan Burns",
+            "Giorgio Buttazzo",
+            "Marco Caccamo",
+            "John P. Lehoczky",
+            "Aloysius K. Mok"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 618,
+            "crossref": 412
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://hdl.handle.net/11382/303032"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/71.980028",
+        "title": "Performance guarantees for Web server end-systems: a control-theoretical approach",
+        "journal": "IEEE Transactions on Parallel and Distributed Systems",
+        "year": 2002,
+        "citations": 596,
+        "authors": "Tarek Abdelzaher, Kang G. Shin, N. Bhatti",
+        "authors_list": [
+            "Tarek Abdelzaher",
+            "Kang G. Shin",
+            "N. Bhatti"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 596,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.21236/ada436741",
+        "title": "SPEED: A Stateless Protocol for Real-Time Communication in Sensor Networks",
+        "journal": "",
+        "year": 2003,
+        "citations": 562,
+        "authors": "Tian He, John A. Stankovic, Chenyang Lu et al.",
+        "authors_list": [
+            "Tian He",
+            "John A. Stankovic",
+            "Chenyang Lu",
+            "Tarek Abdelzaher"
+        ],
+        "type": "report",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 562,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/rttas.2002.1137381",
+        "title": "RAP: a real-time communication architecture for large-scale wireless sensor networks",
+        "journal": "",
+        "year": 2003,
+        "citations": 514,
+        "authors": "Chenyang Lu, Brian Blum, Tarek Abdelzaher et al.",
+        "authors_list": [
+            "Chenyang Lu",
+            "Brian Blum",
+            "Tarek Abdelzaher",
+            "John A. Stankovic",
+            "Tian He"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 514,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1138127.1138128",
+        "title": "VigilNet",
+        "journal": "ACM Transactions on Sensor Networks",
+        "year": 2006,
+        "citations": 494,
+        "authors": "Tian He, Sudha Krishnamurthy, Liqian Luo et al.",
+        "authors_list": [
+            "Tian He",
+            "Sudha Krishnamurthy",
+            "Liqian Luo",
+            "Ting Yan",
+            "Lin Gu",
+            "Radu Stoleru",
+            "Gang Zhou",
+            "Qing Cao",
+            "Pascal Vicaire",
+            "John A. Stankovic",
+            "Tarek Abdelzaher",
+            "Jonathan Hui",
+            "Bruce H. Krogh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 494,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/infcom.2007.237",
+        "title": "PDA: Privacy-Preserving Data Aggregation in Wireless Sensor Networks",
+        "journal": "",
+        "year": 2007,
+        "citations": 436,
+        "authors": "Wenbo He, Xiao Liu, Hoàng Việt Nguyễn et al.",
+        "authors_list": [
+            "Wenbo He",
+            "Xiao Liu",
+            "Hoàng Việt Nguyễn",
+            "Klara Nahrstedt",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 436,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ideals.illinois.edu/items/11277/bitstreams/41407/data.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/hpca.2002.995695",
+        "title": "Control-theoretic techniques and thermal-RC modeling for accurate and localized dynamic thermal management",
+        "journal": "",
+        "year": 2004,
+        "citations": 407,
+        "authors": "Kevin Skadron, Tarek Abdelzaher, Mircea R. Stan",
+        "authors_list": [
+            "Kevin Skadron",
+            "Tarek Abdelzaher",
+            "Mircea R. Stan"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 407,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/infocom.2006.250",
+        "title": "MMSN: Multi-Frequency Media Access Control for Wireless Sensor Networks",
+        "journal": "",
+        "year": 2006,
+        "citations": 368,
+        "authors": "Gang Zhou, Chen‐Che Jeff Huang, Ting Yan et al.",
+        "authors_list": [
+            "Gang Zhou",
+            "Chen‐Che Jeff Huang",
+            "Ting Yan",
+            "Tian He",
+            "John A. Stankovic",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 368,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2185677.2185737",
+        "title": "On truth discovery in social sensing",
+        "journal": "",
+        "year": 2012,
+        "citations": 359,
+        "authors": "Dong Wang, Lance Kaplan, Hieu Le et al.",
+        "authors_list": [
+            "Dong Wang",
+            "Lance Kaplan",
+            "Hieu Le",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 359,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/iwqos.2006.250454",
+        "title": "Real-time Power-Aware Routing in Sensor Networks",
+        "journal": "International Workshop on Quality of Service",
+        "year": 2006,
+        "citations": 355,
+        "authors": "Octav Chipara, Zhimin He, Guoliang Xing et al.",
+        "authors_list": [
+            "Octav Chipara",
+            "Zhimin He",
+            "Guoliang Xing",
+            "Qin Chen",
+            "Xiaorui Wang",
+            "Chenyang Lu",
+            "John A. Stankovic",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 355,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/958491.958515",
+        "title": "Minimum-energy asynchronous dissemination to mobile sinks in wireless sensor networks",
+        "journal": "",
+        "year": 2003,
+        "citations": 344,
+        "authors": "Hyung Seok Kim, Tarek Abdelzaher, Wook Hyun Кwon",
+        "authors_list": [
+            "Hyung Seok Kim",
+            "Tarek Abdelzaher",
+            "Wook Hyun Кwon"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 344,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1814433.1814450",
+        "title": "GreenGPS",
+        "journal": "",
+        "year": 2010,
+        "citations": 314,
+        "authors": "Raghu Ganti, Nam Pham, Hossein Ahmadi et al.",
+        "authors_list": [
+            "Raghu Ganti",
+            "Nam Pham",
+            "Hossein Ahmadi",
+            "Saurabh Nangia",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 314,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tc.2007.1003",
+        "title": "Dynamic Voltage Scaling in Multitier Web Servers with End-to-End Delay Control",
+        "journal": "IEEE Transactions on Computers",
+        "year": 2007,
+        "citations": 275,
+        "authors": "Tibor Horváth, Tarek Abdelzaher, Kevin Skadron et al.",
+        "authors_list": [
+            "Tibor Horváth",
+            "Tarek Abdelzaher",
+            "Kevin Skadron",
+            "Xue Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 275,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3038912.3052708",
+        "title": "CoType",
+        "journal": "",
+        "year": 2017,
+        "citations": 275,
+        "authors": "Xiang Ren, Zeqiu Wu, Wenqi He et al.",
+        "authors_list": [
+            "Xiang Ren",
+            "Zeqiu Wu",
+            "Wenqi He",
+            "Meng Qu",
+            "Clare R. Voss",
+            "Heng Ji",
+            "Tarek Abdelzaher",
+            "Jiawei Han"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 275,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1145/3038912.3052708"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1098918.1098941",
+        "title": "Lightweight detection and classification for wireless sensor networks in realistic environments",
+        "journal": "",
+        "year": 2005,
+        "citations": 254,
+        "authors": "Lin Gu, Dong Jia, Pascal Vicaire et al.",
+        "authors_list": [
+            "Lin Gu",
+            "Dong Jia",
+            "Pascal Vicaire",
+            "Ting Yan",
+            "Liqian Luo",
+            "Ajay Tirumala",
+            "Qing Cao",
+            "Tian He",
+            "John A. Stankovic",
+            "Tarek Abdelzaher",
+            "Bruce H. Krogh"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 254,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tpds.2005.116",
+        "title": "A spatiotemporal communication protocol for wireless sensor networks",
+        "journal": "IEEE Transactions on Parallel and Distributed Systems",
+        "year": 2005,
+        "citations": 253,
+        "authors": "Tian He, Jason P. Stanko, Tarek Abdelzaher et al.",
+        "authors_list": [
+            "Tian He",
+            "Jason P. Stanko",
+            "Tarek Abdelzaher",
+            "Chun-Shien Lu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 253,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1113830.1113837",
+        "title": "Range-free localization and its impact on large scale sensor networks",
+        "journal": "ACM Transactions on Embedded Computing Systems",
+        "year": 2005,
+        "citations": 243,
+        "authors": "Tian He, Chengdu Huang, Brian Blum et al.",
+        "authors_list": [
+            "Tian He",
+            "Chengdu Huang",
+            "Brian Blum",
+            "John A. Stankovic",
+            "Tarek Abdelzaher"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 243,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/rtas.2006.9",
+        "title": "Achieving Real-Time Target Tracking UsingWireless Sensor Networks",
+        "journal": "",
+        "year": 2006,
+        "citations": 242,
+        "authors": "Tian He, Pascal Vicaire, Ting Yan et al.",
+        "authors_list": [
+            "Tian He",
+            "Pascal Vicaire",
+            "Ting Yan",
+            "Liqian Luo",
+            "Lin Gu",
+            "Gang Zhou",
+            "Radu Stoleru",
+            "Qing Cao",
+            "John A. Stankovic",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 242,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/938994.938995",
+        "title": "Range-free localization schemes for large scale sensor networks",
+        "journal": "",
+        "year": 2003,
+        "citations": 237,
+        "authors": "Tian He, Chengdu Huang, Brian Blum et al.",
+        "authors_list": [
+            "Tian He",
+            "Chengdu Huang",
+            "Brian Blum",
+            "John A. Stankovic",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 237,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icdcs.2004.1281625",
+        "title": "EnviroTrack: towards an environmental computing paradigm for distributed sensor networks",
+        "journal": "",
+        "year": 2004,
+        "citations": 237,
+        "authors": "Tarek Abdelzaher, Brian Blum, Q. Cao et al.",
+        "authors_list": [
+            "Tarek Abdelzaher",
+            "Brian Blum",
+            "Q. Cao",
+            "Yutong Chen",
+            "David Evans",
+            "Jose George",
+            "Selvin George",
+            "Lin Gu",
+            "Tian He",
+            "Sudha Krishnamurthy",
+            "Le Luo",
+            "Sang H. Son",
+            "John A. Stankovic",
+            "Radu Stoleru",
+            "Adrienne Wood"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 237,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/mcs.2003.1200252",
+        "title": "Feedback performance control in software services",
+        "journal": "IEEE Control Systems",
+        "year": 2003,
+        "citations": 226,
+        "authors": "Tarek Abdelzaher, J.A. Stankovic, Chenyang Lu et al.",
+        "authors_list": [
+            "Tarek Abdelzaher",
+            "J.A. Stankovic",
+            "Chenyang Lu",
+            "Ronghua Zhang",
+            "Ying Lü"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 226,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/real.2003.1253254",
+        "title": "Power-aware QoS management in Web servers",
+        "journal": "",
+        "year": 2004,
+        "citations": 216,
+        "authors": "Vivek Sharma, Alexander Thomas, Tarek Abdelzaher et al.",
+        "authors_list": [
+            "Vivek Sharma",
+            "Alexander Thomas",
+            "Tarek Abdelzaher",
+            "Kevin Skadron",
+            "Zhijian Lu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 216,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/993396.993406",
+        "title": "AIDA",
+        "journal": "ACM Transactions on Embedded Computing Systems",
+        "year": 2004,
+        "citations": 215,
+        "authors": "Tian He, Brian Blum, John A. Stankovic et al.",
+        "authors_list": [
+            "Tian He",
+            "Brian Blum",
+            "John A. Stankovic",
+            "Tarek Abdelzaher"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 215,
+            "crossref": 143
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipsn.2005.1440887",
+        "title": "Towards optimal sleep scheduling in sensor networks for rare-event detection",
+        "journal": "",
+        "year": 2005,
+        "citations": 213,
+        "authors": "Q. Cao, Tarek Abdelzaher, Tian He et al.",
+        "authors_list": [
+            "Q. Cao",
+            "Tarek Abdelzaher",
+            "Tian He",
+            "John A. Stankovic"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 213,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipsn.2008.54",
+        "title": "The LiteOS Operating System: Towards Unix-Like Abstractions for Wireless Sensor Networks",
+        "journal": "",
+        "year": 2008,
+        "citations": 207,
+        "authors": "Qing Cao, Tarek Abdelzaher, John A. Stankovic et al.",
+        "authors_list": [
+            "Qing Cao",
+            "Tarek Abdelzaher",
+            "John A. Stankovic",
+            "Tian He"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 207,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tpds.2006.123",
+        "title": "Feedback Control Architecture and Design Methodology for Service Delay Guarantees in Web Servers",
+        "journal": "IEEE Transactions on Parallel and Distributed Systems",
+        "year": 2006,
+        "citations": 206,
+        "authors": "Chenyang Lu, Ying Lü, Tarek Abdelzaher et al.",
+        "authors_list": [
+            "Chenyang Lu",
+            "Ying Lü",
+            "Tarek Abdelzaher",
+            "J.A. Stankovic",
+            "Sang H. Son"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 206,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/maes.2020.3049030",
+        "title": "Machine Learning/Artificial Intelligence for Sensor Data Fusion–Opportunities and Challenges",
+        "journal": "IEEE Aerospace and Electronic Systems Magazine",
+        "year": 2021,
+        "citations": 196,
+        "authors": "Erik Blasch, Tien Pham, Chee-Yee Chong et al.",
+        "authors_list": [
+            "Erik Blasch",
+            "Tien Pham",
+            "Chee-Yee Chong",
+            "Wolfgang Koch",
+            "Henry Leung",
+            "Dave Braines",
+            "Tarek Abdelzaher"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 196,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3131672.3131675",
+        "title": "DeepIoT",
+        "journal": "",
+        "year": 2017,
+        "citations": 192,
+        "authors": "Shuochao Yao, Yiran Zhao, Aston Zhang et al.",
+        "authors_list": [
+            "Shuochao Yao",
+            "Yiran Zhao",
+            "Aston Zhang",
+            "Lü Su",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 192,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3131672.3131675"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2770876",
+        "title": "SmartRoad",
+        "journal": "ACM Transactions on Sensor Networks",
+        "year": 2015,
+        "citations": 183,
+        "authors": "Shaohan Hu, Lü Su, Hengchang Liu et al.",
+        "authors_list": [
+            "Shaohan Hu",
+            "Lü Su",
+            "Hengchang Liu",
+            "Hongyan Wang",
+            "Tarek Abdelzaher"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 183,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1460412.1460440",
+        "title": "PoolView",
+        "journal": "",
+        "year": 2008,
+        "citations": 171,
+        "authors": "Raghu Ganti, Nam Pham, Y. L. Tsai et al.",
+        "authors_list": [
+            "Raghu Ganti",
+            "Nam Pham",
+            "Y. L. Tsai",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 171,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Towards optimal sleep scheduling in sensor networks for rare-event detection",
+        "journal": "",
+        "year": 2005,
+        "citations": 170,
+        "authors": "Qing Cao, Tarek Abdelzaher, Tian He et al.",
+        "authors_list": [
+            "Qing Cao",
+            "Tarek Abdelzaher",
+            "Tian He",
+            "John A. Stankovic"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 170,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.21236/ada436746",
+        "title": "RAP: A Real-Time Communication Architecture for Large-Scale Wireless Sensor Networks",
+        "journal": "",
+        "year": 2002,
+        "citations": 160,
+        "authors": "Chenyang Lu, Brian Blum, Tarek Abdelzaher et al.",
+        "authors_list": [
+            "Chenyang Lu",
+            "Brian Blum",
+            "Tarek Abdelzaher",
+            "John A. Stankovic",
+            "Tian He"
+        ],
+        "type": "report",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 160,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/958514.958515",
+        "title": "Minimum-energy asynchronous dissemination to mobile sinks in wireless sensor networks",
+        "journal": "",
+        "year": 2003,
+        "citations": 160,
+        "authors": "Hyung Seok Kim, Tarek Abdelzaher, Wook Hyun Кwon",
+        "authors_list": [
+            "Hyung Seok Kim",
+            "Tarek Abdelzaher",
+            "Wook Hyun Кwon"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 160,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/infcom.2013.6567058",
+        "title": "ARTSense: Anonymous reputation and trust in participatory sensing",
+        "journal": "",
+        "year": 2013,
+        "citations": 158,
+        "authors": "Xinlei Oscar Wang, Wei Cheng, Prasant Mohapatra et al.",
+        "authors_list": [
+            "Xinlei Oscar Wang",
+            "Wei Cheng",
+            "Prasant Mohapatra",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 158,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1098/rsta.2011.0244",
+        "title": "Human-centric sensing",
+        "journal": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+        "year": 2011,
+        "citations": 158,
+        "authors": "Mani Srivastava, Tarek Abdelzaher, Bolesław K. Szymański",
+        "authors_list": [
+            "Mani Srivastava",
+            "Tarek Abdelzaher",
+            "Bolesław K. Szymański"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 158,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/32.637388",
+        "title": "Assignment and scheduling communicating periodic tasks in distributed real-time systems",
+        "journal": "IEEE Transactions on Software Engineering",
+        "year": 1997,
+        "citations": 158,
+        "authors": "D.-T. Peng, Kang G. Shin, Tarek Abdelzaher",
+        "authors_list": [
+            "D.-T. Peng",
+            "Kang G. Shin",
+            "Tarek Abdelzaher"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 158,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/iwqos.1999.766497",
+        "title": "Web server QoS management by adaptive content delivery",
+        "journal": "",
+        "year": 2003,
+        "citations": 157,
+        "authors": "Tarek Abdelzaher, N. Bhatti",
+        "authors_list": [
+            "Tarek Abdelzaher",
+            "N. Bhatti"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 157,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipsn.2014.6846739",
+        "title": "Using humans as sensors: An estimation-theoretic perspective",
+        "journal": "",
+        "year": 2014,
+        "citations": 156,
+        "authors": "Dong Wang, Md Tanvir Al Amin, Shen Li et al.",
+        "authors_list": [
+            "Dong Wang",
+            "Md Tanvir Al Amin",
+            "Shen Li",
+            "Tarek Abdelzaher",
+            "Lance Kaplan",
+            "Siyu Gu",
+            "Chenji Pan",
+            "Hengchang Liu",
+            "Charų C. Aggarwal",
+            "Raghu Ganti",
+            "Xinlei Wang",
+            "Prasant Mohapatra",
+            "Bolesław K. Szymański",
+            "Hieu Le"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 156,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/real.2000.895992",
+        "title": "Performance specifications and metrics for adaptive real-time systems",
+        "journal": "",
+        "year": 2002,
+        "citations": 155,
+        "authors": "Chenyang Lu, John A. Stankovic, Tarek Abdelzaher et al.",
+        "authors_list": [
+            "Chenyang Lu",
+            "John A. Stankovic",
+            "Tarek Abdelzaher",
+            "Gang Tao",
+            "Sang H. Son",
+            "M. Marley"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 155,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1134680.1134693",
+        "title": "SATIRE",
+        "journal": "",
+        "year": 2006,
+        "citations": 153,
+        "authors": "Raghu Ganti, Praveen Jayachandran, Tarek Abdelzaher et al.",
+        "authors_list": [
+            "Raghu Ganti",
+            "Praveen Jayachandran",
+            "Tarek Abdelzaher",
+            "John A. Stankovic"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 153,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/infocom.2008.211",
+        "title": "AdapCode: Adaptive Network Coding for Code Updates in Wireless Sensor Networks",
+        "journal": "",
+        "year": 2008,
+        "citations": 144,
+        "authors": "I-Hong Hou, Y.-E. Tsai, Tarek Abdelzaher et al.",
+        "authors_list": [
+            "I-Hong Hou",
+            "Y.-E. Tsai",
+            "Tarek Abdelzaher",
+            "Indranil Gupta"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 144,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ideals.illinois.edu/items/11396/bitstreams/41766/data.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/rttas.2003.1203053",
+        "title": "Feedback control with queueing-theoretic prediction for relative delay guarantees in web servers",
+        "journal": "",
+        "year": 2004,
+        "citations": 141,
+        "authors": "Ying Lü, Tarek Abdelzaher, Chenyang Lu et al.",
+        "authors_list": [
+            "Ying Lü",
+            "Tarek Abdelzaher",
+            "Chenyang Lu",
+            "Lui Sha",
+            "Xue Liu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 141,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/11502593_22",
+        "title": "Analysis of Target Detection Performance for Wireless Sensor Networks",
+        "journal": "Lecture notes in computer science",
+        "year": 2005,
+        "citations": 140,
+        "authors": "Qing Cao, Ting Yan, John A. Stankovic et al.",
+        "authors_list": [
+            "Qing Cao",
+            "Ting Yan",
+            "John A. Stankovic",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 140,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3384419.3430898",
+        "title": "Deep compressive offloading",
+        "journal": "",
+        "year": 2020,
+        "citations": 139,
+        "authors": "Shuochao Yao, Jinyang Li, Dongxin Liu et al.",
+        "authors_list": [
+            "Shuochao Yao",
+            "Jinyang Li",
+            "Dongxin Liu",
+            "Tianshi Wang",
+            "Shengzhong Liu",
+            "Huajie Shao",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 139,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/mc.2018.2381131",
+        "title": "Deep Learning for the Internet of Things",
+        "journal": "Computer",
+        "year": 2018,
+        "citations": 136,
+        "authors": "Shuochao Yao, Yiran Zhao, Aston Zhang et al.",
+        "authors_list": [
+            "Shuochao Yao",
+            "Yiran Zhao",
+            "Aston Zhang",
+            "Shaohan Hu",
+            "Huajie Shao",
+            "Chao Zhang",
+            "Lü Su",
+            "Tarek Abdelzaher"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 136,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ideals.illinois.edu/items/109495/bitstreams/358114/data.pdf"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Social Sensing: Building Reliable Systems on Unreliable Data",
+        "journal": "",
+        "year": 2015,
+        "citations": 136,
+        "authors": "Dong Wang, Tarek Abdelzaher, Lance Kaplan",
+        "authors_list": [
+            "Dong Wang",
+            "Tarek Abdelzaher",
+            "Lance Kaplan"
+        ],
+        "type": "other",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 136,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/rtss.2007.48",
+        "title": "Integrating Adaptive Components: An Emerging Challenge in Performance-Adaptive Systems and a Server Farm Case-Study",
+        "journal": "",
+        "year": 2007,
+        "citations": 135,
+        "authors": "Jin Heo, Dan Henriksson, Xue Liu et al.",
+        "authors_list": [
+            "Jin Heo",
+            "Dan Henriksson",
+            "Xue Liu",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 135,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icdcs.2002.1022267",
+        "title": "ControlWare: a middleware architecture for feedback control of software performance",
+        "journal": "",
+        "year": 2003,
+        "citations": 135,
+        "authors": "Ronghua Zhang, Chenyang Lu, Tarek Abdelzaher et al.",
+        "authors_list": [
+            "Ronghua Zhang",
+            "Chenyang Lu",
+            "Tarek Abdelzaher",
+            "John A. Stankovic"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 135,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/real.2004.37",
+        "title": "On Real-Time Capacity Limits of Multihop Wireless Sensor Networks",
+        "journal": "",
+        "year": 2005,
+        "citations": 134,
+        "authors": "Tarek Abdelzaher, Shashi Prabh, Reddy Kanampalli Sai Kiran",
+        "authors_list": [
+            "Tarek Abdelzaher",
+            "Shashi Prabh",
+            "Reddy Kanampalli Sai Kiran"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 134,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icdcs.2013.54",
+        "title": "Recursive Fact-Finding: A Streaming Approach to Truth Estimation in Crowdsourcing Applications",
+        "journal": "",
+        "year": 2013,
+        "citations": 133,
+        "authors": "Dong Wang, Tarek Abdelzaher, Lance Kaplan et al.",
+        "authors_list": [
+            "Dong Wang",
+            "Tarek Abdelzaher",
+            "Lance Kaplan",
+            "Charų C. Aggarwal"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 133,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1389-1286(99)00031-6",
+        "title": "Web content adaptation to improve server overload behavior",
+        "journal": "Computer Networks",
+        "year": 1999,
+        "citations": 133,
+        "authors": "Tarek Abdelzaher, Nina Bhatti",
+        "authors_list": [
+            "Tarek Abdelzaher",
+            "Nina Bhatti"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 133,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1117/12.919823",
+        "title": "Identifying rumors and their sources in social networks",
+        "journal": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
+        "year": 2012,
+        "citations": 133,
+        "authors": "Eunsoo Seo, Prasant Mohapatra, Tarek Abdelzaher",
+        "authors_list": [
+            "Eunsoo Seo",
+            "Prasant Mohapatra",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 133,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/rttas.1997.601361",
+        "title": "QoS negotiation in real-time systems and its application to automated flight control",
+        "journal": "",
+        "year": 2002,
+        "citations": 133,
+        "authors": "Tarek Abdelzaher, Ella Atkins, Kang G. Shin",
+        "authors_list": [
+            "Tarek Abdelzaher",
+            "Ella Atkins",
+            "Kang G. Shin"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 133,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/real.2002.1181564",
+        "title": "Queueing model based network server performance control",
+        "journal": "",
+        "year": 2003,
+        "citations": 130,
+        "authors": "Lui Sha, Xue Liu, Ying Lü et al.",
+        "authors_list": [
+            "Lui Sha",
+            "Xue Liu",
+            "Ying Lü",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3274783.3274840",
+        "title": "FastDeepIoT",
+        "journal": "",
+        "year": 2018,
+        "citations": 129,
+        "authors": "Shuochao Yao, Yiran Zhao, Huajie Shao et al.",
+        "authors_list": [
+            "Shuochao Yao",
+            "Yiran Zhao",
+            "Huajie Shao",
+            "Shengzhong Liu",
+            "Dongxin Liu",
+            "Lü Su",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 129,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3274783.3274840"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Using Humans as Sensors: An Estimation-theoretic Perspective",
+        "journal": "",
+        "year": 2015,
+        "citations": 128,
+        "authors": "Dong Wang, Md Tanvir Al Amin, Shen Li et al.",
+        "authors_list": [
+            "Dong Wang",
+            "Md Tanvir Al Amin",
+            "Shen Li",
+            "Tarek Abdelzaher",
+            "Lance Kaplan",
+            "Siyu Gu",
+            "Chenji Pan",
+            "Hengchang Liu",
+            "Charų C. Aggarwal",
+            "Raghu Ganti",
+            "Xinlei Wang",
+            "Prasant Mohapatra",
+            "Bolesław K. Szymański",
+            "Hieu Le"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/iwqos.2002.1006571",
+        "title": "An adaptive control framework for QoS guarantees and its application to differentiated caching",
+        "journal": "",
+        "year": 2003,
+        "citations": 126,
+        "authors": "Ying Lu, Tarek Abdelzaher, Chenyang Lu et al.",
+        "authors_list": [
+            "Ying Lu",
+            "Tarek Abdelzaher",
+            "Chenyang Lu",
+            "Gang Tao"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 126,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tmc.2013.150",
+        "title": "Enabling reputation and trust in privacy-preserving mobile sensing",
+        "journal": "IEEE Transactions on Mobile Computing",
+        "year": 2014,
+        "citations": 123,
+        "authors": "Xinlei Wang, Wei Cheng, Prasant Mohapatra et al.",
+        "authors_list": [
+            "Xinlei Wang",
+            "Wei Cheng",
+            "Prasant Mohapatra",
+            "Tarek Abdelzaher"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 123,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1460412.1460423",
+        "title": "Dustminer",
+        "journal": "",
+        "year": 2008,
+        "citations": 121,
+        "authors": "Mohammad Maifi Hasan Khan, Hieu Khac Le, Hossein Ahmadi et al.",
+        "authors_list": [
+            "Mohammad Maifi Hasan Khan",
+            "Hieu Khac Le",
+            "Hossein Ahmadi",
+            "Tarek Abdelzaher",
+            "Jiawei Han"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 121,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipsn.2008.43",
+        "title": "A Practical Multi-channel Media Access Control Protocol for Wireless Sensor Networks",
+        "journal": "",
+        "year": 2008,
+        "citations": 120,
+        "authors": "Hieu Khac Le, Dan Henriksson, Tarek Abdelzaher",
+        "authors_list": [
+            "Hieu Khac Le",
+            "Dan Henriksson",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/71.809575",
+        "title": "Combined task and message scheduling in distributed real-time systems",
+        "journal": "IEEE Transactions on Parallel and Distributed Systems",
+        "year": 1999,
+        "citations": 120,
+        "authors": "Tarek Abdelzaher, Kang G. Shin",
+        "authors_list": [
+            "Tarek Abdelzaher",
+            "Kang G. Shin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/real.2004.8",
+        "title": "A Scalable Logical Coordinates Framework for Routing in Wireless Sensor Networks",
+        "journal": "",
+        "year": 2005,
+        "citations": 117,
+        "authors": "Qing Cao, Tarek Abdelzaher",
+        "authors_list": [
+            "Qing Cao",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tc.2004.1261839",
+        "title": "A utilization bound for aperiodic tasks and priority driven scheduling",
+        "journal": "IEEE Transactions on Computers",
+        "year": 2004,
+        "citations": 117,
+        "authors": "Tarek Abdelzaher, Vivek Sharma, Chenyang Lu",
+        "authors_list": [
+            "Tarek Abdelzaher",
+            "Vivek Sharma",
+            "Chenyang Lu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icdsc.2001.918992",
+        "title": "Differentiated caching services; a control-theoretical approach",
+        "journal": "",
+        "year": 2002,
+        "citations": 116,
+        "authors": "Ying Lü, A. Saxena, Tarek Abdelzaher",
+        "authors_list": [
+            "Ying Lü",
+            "A. Saxena",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/real.2001.990596",
+        "title": "Feedback control scheduling in distributed real-time systems",
+        "journal": "",
+        "year": 2005,
+        "citations": 107,
+        "authors": "John A. Stankovic, Tian Yu He, Tarek Abdelzaher et al.",
+        "authors_list": [
+            "John A. Stankovic",
+            "Tian Yu He",
+            "Tarek Abdelzaher",
+            "M. Marley",
+            "Gang Tao",
+            "Sang H. Son",
+            "Chenyang Lu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 107,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.48550/arxiv.1611.01942",
+        "title": "DeepSense: A Unified Deep Learning Framework for Time-Series Mobile Sensing Data Processing",
+        "journal": "arXiv (Cornell University)",
+        "year": 2016,
+        "citations": 105,
+        "authors": "Shuochao Yao, Shaohan Hu, Yiran Zhao et al.",
+        "authors_list": [
+            "Shuochao Yao",
+            "Shaohan Hu",
+            "Yiran Zhao",
+            "Aston Zhang",
+            "Tarek Abdelzaher"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/jsac.2013.130605",
+        "title": "On Credibility Estimation Tradeoffs in Assured Social Sensing",
+        "journal": "IEEE Journal on Selected Areas in Communications",
+        "year": 2013,
+        "citations": 103,
+        "authors": "Dong Wang, Lance Kaplan, Tarek Abdelzaher et al.",
+        "authors_list": [
+            "Dong Wang",
+            "Lance Kaplan",
+            "Tarek Abdelzaher",
+            "Charu C. Aggarwal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1460412.1460422",
+        "title": "Declarative tracepoints",
+        "journal": "",
+        "year": 2008,
+        "citations": 101,
+        "authors": "Qing Cao, Tarek Abdelzaher, John A. Stankovic et al.",
+        "authors_list": [
+            "Qing Cao",
+            "Tarek Abdelzaher",
+            "John A. Stankovic",
+            "Kamin Whitehouse",
+            "Liqian Luo"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1182807.1182829",
+        "title": "Datalink streaming in wireless sensor networks",
+        "journal": "",
+        "year": 2006,
+        "citations": 100,
+        "authors": "Raghu Ganti, Praveen Jayachandran, Haiyun Luo et al.",
+        "authors_list": [
+            "Raghu Ganti",
+            "Praveen Jayachandran",
+            "Haiyun Luo",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 100,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/emrts.2002.1019200",
+        "title": "A QoS-sensitive approach for timeliness and freshness guarantees in real-time databases",
+        "journal": "",
+        "year": 2003,
+        "citations": 99,
+        "authors": "Kyoung‐Don Kang, Sang H. Son, John A. Stankovic et al.",
+        "authors_list": [
+            "Kyoung‐Don Kang",
+            "Sang H. Son",
+            "John A. Stankovic",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-0-387-79361-0_7",
+        "title": "Introduction to Control Theory And Its Application to Computing Systems",
+        "journal": "",
+        "year": 2008,
+        "citations": 99,
+        "authors": "Tarek Abdelzaher, Yixin Diao, Joseph L. Hellerstein et al.",
+        "authors_list": [
+            "Tarek Abdelzaher",
+            "Yixin Diao",
+            "Joseph L. Hellerstein",
+            "Chenyang Lu",
+            "Xiaoyun Zhu"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/cdc.2000.914129",
+        "title": "Modeling and performance control of Internet servers",
+        "journal": "",
+        "year": 2002,
+        "citations": 99,
+        "authors": "Tarek Abdelzaher, Chenyang Lu",
+        "authors_list": [
+            "Tarek Abdelzaher",
+            "Chenyang Lu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.5555/1995456.1995836",
+        "title": "A post-disaster mobility model for delay tolerant networking",
+        "journal": "Winter Simulation Conference",
+        "year": 2009,
+        "citations": 97,
+        "authors": "Md Yusuf Sarwar Uddin, David M. Nicol, Tarek Abdelzaher et al.",
+        "authors_list": [
+            "Md Yusuf Sarwar Uddin",
+            "David M. Nicol",
+            "Tarek Abdelzaher",
+            "Robin Kravets"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.21236/ada436724",
+        "title": "SPEED: A Real-Time Routing Protocol for Sensor Networks",
+        "journal": "",
+        "year": 2002,
+        "citations": 96,
+        "authors": "Tian He, John A. Stankovic, Chenyang Lu et al.",
+        "authors_list": [
+            "Tian He",
+            "John A. Stankovic",
+            "Chenyang Lu",
+            "Tarek Abdelzaher"
+        ],
+        "type": "report",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1165780.1165782",
+        "title": "EnviroSuite",
+        "journal": "ACM Transactions on Embedded Computing Systems",
+        "year": 2006,
+        "citations": 95,
+        "authors": "Liqian Luo, Tarek Abdelzaher, Tian He et al.",
+        "authors_list": [
+            "Liqian Luo",
+            "Tarek Abdelzaher",
+            "Tian He",
+            "John A. Stankovic"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1066116.1066120",
+        "title": "Energy-conserving data placement and asynchronous multicast in wireless sensor networks",
+        "journal": "",
+        "year": 2003,
+        "citations": 93,
+        "authors": "Sagnik Bhattacharya, Hyung L. Kim, Shashi Prabh et al.",
+        "authors_list": [
+            "Sagnik Bhattacharya",
+            "Hyung L. Kim",
+            "Shashi Prabh",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 93,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tpds.2004.1278101",
+        "title": "Design, implementation, and evaluation of differentiated caching services",
+        "journal": "IEEE Transactions on Parallel and Distributed Systems",
+        "year": 2004,
+        "citations": 93,
+        "authors": "Ying Lu, Tarek Abdelzaher, A. Saxena",
+        "authors_list": [
+            "Ying Lu",
+            "Tarek Abdelzaher",
+            "A. Saxena"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 93,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1464420.1464429",
+        "title": "Achieving long-term surveillance in VigilNet",
+        "journal": "ACM Transactions on Sensor Networks",
+        "year": 2009,
+        "citations": 93,
+        "authors": "Pascal Vicaire, Tian He, Qing Cao et al.",
+        "authors_list": [
+            "Pascal Vicaire",
+            "Tian He",
+            "Qing Cao",
+            "Ting Yan",
+            "Gang Zhou",
+            "Lin Gu",
+            "Liqian Luo",
+            "Radu Stoleru",
+            "John A. Stankovic",
+            "Tarek Abdelzaher"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 93,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/milcom.2008.4753645",
+        "title": "iPDA: An integrity-protecting private data aggregation scheme for wireless sensor networks",
+        "journal": "",
+        "year": 2008,
+        "citations": 91,
+        "authors": "Wenbo He, Hoàng Việt Nguyễn, Xue Liuy et al.",
+        "authors_list": [
+            "Wenbo He",
+            "Hoàng Việt Nguyễn",
+            "Xue Liuy",
+            "Klara Nahrstedt",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 91,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ideals.illinois.edu/items/11443/bitstreams/41858/data.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2530289",
+        "title": "Maximum likelihood analysis of conflicting observations in social sensing",
+        "journal": "ACM Transactions on Sensor Networks",
+        "year": 2014,
+        "citations": 91,
+        "authors": "Dong Wang, Lance Kaplan, Tarek Abdelzaher",
+        "authors_list": [
+            "Dong Wang",
+            "Lance Kaplan",
+            "Tarek Abdelzaher"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 91,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/rttas.1998.683195",
+        "title": "End-host architecture for QoS-adaptive communication",
+        "journal": "",
+        "year": 2002,
+        "citations": 91,
+        "authors": "Tarek Abdelzaher, Kang G. Shin",
+        "authors_list": [
+            "Tarek Abdelzaher",
+            "Kang G. Shin"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 91,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/milcom.2018.8599853",
+        "title": "The Internet of Battlefield Things: The Next Generation of Command, Control, Communications and Intelligence (C3I) Decision-Making",
+        "journal": "",
+        "year": 2018,
+        "citations": 88,
+        "authors": "Stephen Russell, Tarek Abdelzaher",
+        "authors_list": [
+            "Stephen Russell",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/infcom.2007.224",
+        "title": "Cluster-Based Forwarding for Reliable End-to-End Delivery in Wireless Sensor Networks",
+        "journal": "",
+        "year": 2007,
+        "citations": 87,
+        "authors": "Qing Cao, Tarek Abdelzaher, T. He et al.",
+        "authors_list": [
+            "Qing Cao",
+            "Tarek Abdelzaher",
+            "T. He",
+            "Robin Kravets"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4614-6309-2_9",
+        "title": "Social Sensing",
+        "journal": "",
+        "year": 2012,
+        "citations": 87,
+        "authors": "Charų C. Aggarwal, Tarek Abdelzaher",
+        "authors_list": [
+            "Charų C. Aggarwal",
+            "Tarek Abdelzaher"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/infocom.2006.193",
+        "title": "Efficiency Centric Communication Model for Wireless Sensor Networks",
+        "journal": "",
+        "year": 2006,
+        "citations": 87,
+        "authors": "Qing Cao, Tian He, Fang Li et al.",
+        "authors_list": [
+            "Qing Cao",
+            "Tian He",
+            "Fang Li",
+            "Tarek Abdelzaher",
+            "John A. Stankovic",
+            "Sang H. Son"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipsn.2012.6920960",
+        "title": "On truth discovery in social sensing: A maximum likelihood estimation approach",
+        "journal": "",
+        "year": 2012,
+        "citations": 86,
+        "authors": "Dong Wang, Lance Kaplan, Hieu Le et al.",
+        "authors_list": [
+            "Dong Wang",
+            "Lance Kaplan",
+            "Hieu Le",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ideals.illinois.edu/items/25976/bitstreams/89044/data.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/wsc.2009.5429249",
+        "title": "A post-disaster mobility model for Delay Tolerant Networking",
+        "journal": "",
+        "year": 2009,
+        "citations": 86,
+        "authors": "Md Yusuf Sarwar Uddin, David M. Nicol, Tarek Abdelzaher et al.",
+        "authors_list": [
+            "Md Yusuf Sarwar Uddin",
+            "David M. Nicol",
+            "Tarek Abdelzaher",
+            "Robin Kravets"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/infcom.2002.1019333",
+        "title": "A Quantitative Assured Forwarding service",
+        "journal": "",
+        "year": 2003,
+        "citations": 86,
+        "authors": "Nicolas Christin, Jörg Liebeherr, Tarek Abdelzaher",
+        "authors_list": [
+            "Nicolas Christin",
+            "Jörg Liebeherr",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/infcom.2010.5461934",
+        "title": "Retiring Replicants: Congestion Control for Intermittently-Connected Networks",
+        "journal": "",
+        "year": 2010,
+        "citations": 85,
+        "authors": "Nathanael Thompson, Samuel C. Nelson, Mehedi Bakht et al.",
+        "authors_list": [
+            "Nathanael Thompson",
+            "Samuel C. Nelson",
+            "Mehedi Bakht",
+            "Tarek Abdelzaher",
+            "Robin Kravets"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 85,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/rttas.2001.929862",
+        "title": "Schedulability analysis and utilization bounds for highly scalable real-time services",
+        "journal": "",
+        "year": 2002,
+        "citations": 83,
+        "authors": "Tarek Abdelzaher, Chenyang Lu",
+        "authors_list": [
+            "Tarek Abdelzaher",
+            "Chenyang Lu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 83,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/infocom.2006.114",
+        "title": "Achieving Repeatability of Asynchronous Events in Wireless Sensor Networks with EnviroLog",
+        "journal": "",
+        "year": 2006,
+        "citations": 82,
+        "authors": "Le Luo, Tian He, Gang Zhou et al.",
+        "authors_list": [
+            "Le Luo",
+            "Tian He",
+            "Gang Zhou",
+            "Lin Gu",
+            "Tarek Abdelzaher",
+            "John A. Stankovic"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1218556.1218561",
+        "title": "Scalable logical coordinates framework for routing in wireless sensor networks",
+        "journal": "ACM Transactions on Sensor Networks",
+        "year": 2006,
+        "citations": 81,
+        "authors": "Qing Cao, Tarek Abdelzaher",
+        "authors_list": [
+            "Qing Cao",
+            "Tarek Abdelzaher"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Achieving Real-Time Target Tracking Using Wireless Sensor Networks",
+        "journal": "Defense Technical Information Center (DTIC)",
+        "year": 2007,
+        "citations": 79,
+        "authors": "Tengjiao He, Pascal Vicaire, Tao Yan et al.",
+        "authors_list": [
+            "Tengjiao He",
+            "Pascal Vicaire",
+            "Tao Yan",
+            "Le Luo",
+            "Lin Gu",
+            "Zhou Guoping",
+            "Radu Stoleru",
+            "Qing Mei Cao",
+            "J.A. Stankovic",
+            "Tarek Abdelzaher"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 79,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1555816.1555850",
+        "title": "SolarStore",
+        "journal": "",
+        "year": 2009,
+        "citations": 78,
+        "authors": "Yong Yang, Lili Wang, Dong Kun Noh et al.",
+        "authors_list": [
+            "Yong Yang",
+            "Lili Wang",
+            "Dong Kun Noh",
+            "Hieu Khac Le",
+            "Tarek Abdelzaher"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/rtss.2011.36",
+        "title": "PhotoNet: A Similarity-Aware Picture Delivery Service for Situation Awareness",
+        "journal": "",
+        "year": 2011,
+        "citations": 76,
+        "authors": "Md Yusuf Sarwar Uddin, Hongyan Wang, Fatemeh Saremi et al.",
+        "authors_list": [
+            "Md Yusuf Sarwar Uddin",
+            "Hongyan Wang",
+            "Fatemeh Saremi",
+            "Guo-Jun Qi",
+            "Tarek Abdelzaher",
+            "Thomas S. Huang"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ideals.illinois.edu/items/25198/bitstreams/87218/data.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/cdc.2004.1430254",
+        "title": "Feedback control of data aggregation in sensor networks",
+        "journal": "2004 43rd IEEE Conference on Decision and Control (CDC) (IEEE Cat. No.04CH37601)",
+        "year": 2004,
+        "citations": 72,
+        "authors": "Tarek Abdelzaher, Tian He, John A. Stankovic",
+        "authors_list": [
+            "Tarek Abdelzaher",
+            "Tian He",
+            "John A. Stankovic"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/938985.938995",
+        "title": "Range-free localization schemes for large scale sensor networks",
+        "journal": "Proceedings of the 9th annual international conference on Mobile computing and networking",
+        "year": 2003,
+        "citations": 1822,
+        "authors": "Tian He, Chengdu Huang, Brian M. Blum et al.",
+        "authors_list": [
+            "Tian He",
+            "Chengdu Huang",
+            "Brian M. Blum",
+            "John A. Stankovic",
+            "Tarek Abdelzaher"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1822
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/990064.990096",
+        "title": "Energy-efficient surveillance system using wireless sensor networks",
+        "journal": "Proceedings of the 2nd international conference on Mobile systems, applications, and services",
+        "year": 2004,
+        "citations": 479,
+        "authors": "Tian He, Sudha Krishnamurthy, John A. Stankovic et al.",
+        "authors_list": [
+            "Tian He",
+            "Sudha Krishnamurthy",
+            "John A. Stankovic",
+            "Tarek Abdelzaher",
+            "Liqian Luo",
+            "Radu Stoleru",
+            "Ting Yan",
+            "Lin Gu",
+            "Jonathan Hui",
+            "Bruce Krogh"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 479
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/3038912.3052577",
+        "title": "DeepSense",
+        "journal": "Proceedings of the 26th International Conference on World Wide Web",
+        "year": 2017,
+        "citations": 556,
+        "authors": "Shuochao Yao, Shaohan Hu, Yiran Zhao et al.",
+        "authors_list": [
+            "Shuochao Yao",
+            "Shaohan Hu",
+            "Yiran Zhao",
+            "Aston Zhang",
+            "Tarek Abdelzaher"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 556
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1145/3038912.3052577"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/71.980028",
+        "title": "Performance guarantees for Web server end-systems: a control-theoretical approach",
+        "journal": "IEEE Transactions on Parallel and Distributed Systems",
+        "year": 2002,
+        "citations": 408,
+        "authors": "T.F. Abdelzaher, K.G. Shin, N. Bhatti",
+        "authors_list": [
+            "T.F. Abdelzaher",
+            "K.G. Shin",
+            "N. Bhatti"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 408
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/infcom.2007.237",
+        "title": "PDA: Privacy-Preserving Data Aggregation in Wireless Sensor Networks",
+        "journal": "IEEE INFOCOM 2007 - 26th IEEE International Conference on Computer Communications",
+        "year": 2007,
+        "citations": 279,
+        "authors": "W. He, X. Liu, H. Nguyen et al.",
+        "authors_list": [
+            "W. He",
+            "X. Liu",
+            "H. Nguyen",
+            "K. Nahrstedt",
+            "T. Abdelzaher"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 279
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ideals.illinois.edu/items/11277/bitstreams/41407/data.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/2185677.2185737",
+        "title": "On truth discovery in social sensing",
+        "journal": "Proceedings of the 11th international conference on Information Processing in Sensor Networks",
+        "year": 2012,
+        "citations": 237,
+        "authors": "Dong Wang, Lance Kaplan, Hieu Le et al.",
+        "authors_list": [
+            "Dong Wang",
+            "Lance Kaplan",
+            "Hieu Le",
+            "Tarek Abdelzaher"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 237
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/iwqos.2006.250454",
+        "title": "Real-time Power-Aware Routing in Sensor Networks",
+        "journal": "200614th IEEE International Workshop on Quality of Service",
+        "year": 2006,
+        "citations": 222,
+        "authors": "Octav Chipara, Zhimin He, Guoliang Xing et al.",
+        "authors_list": [
+            "Octav Chipara",
+            "Zhimin He",
+            "Guoliang Xing",
+            "Qin Chen",
+            "Xiaorui Wang",
+            "Chenyang Lu",
+            "John Stankovic",
+            "Tarek Abdelzaher"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 222
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/958491.958515",
+        "title": "Minimum-energy asynchronous dissemination to mobile sinks in wireless sensor networks",
+        "journal": "Proceedings of the 1st international conference on Embedded networked sensor systems",
+        "year": 2003,
+        "citations": 235,
+        "authors": "Hyung Seok Kim, Tarek F. Abdelzaher, Wook Hyun Kwon",
+        "authors_list": [
+            "Hyung Seok Kim",
+            "Tarek F. Abdelzaher",
+            "Wook Hyun Kwon"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 235
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/tpds.2005.116",
+        "title": "A spatiotemporal communication protocol for wireless sensor networks",
+        "journal": "IEEE Transactions on Parallel and Distributed Systems",
+        "year": 2005,
+        "citations": 182,
+        "authors": "T. He, J.A. Stanko, T.F. Abdelzaher et al.",
+        "authors_list": [
+            "T. He",
+            "J.A. Stanko",
+            "T.F. Abdelzaher",
+            "C. Lu"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 182
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/1113830.1113837",
+        "title": "Range-free localization and its impact on large scale sensor networks",
+        "journal": "ACM Transactions on Embedded Computing Systems",
+        "year": 2005,
+        "citations": 177,
+        "authors": "Tian He, Chengdu Huang, Brian M. Blum et al.",
+        "authors_list": [
+            "Tian He",
+            "Chengdu Huang",
+            "Brian M. Blum",
+            "John A. Stankovic",
+            "Tarek F. Abdelzaher"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 177
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/icdcs.2004.1281625",
+        "title": "EnviroTrack: towards an environmental computing paradigm for distributed sensor networks",
+        "journal": "24th International Conference on Distributed Computing Systems, 2004. Proceedings.",
+        "year": 2004,
+        "citations": 95,
+        "authors": "T. Abdelzaher, B. Blum, Q. Cao et al.",
+        "authors_list": [
+            "T. Abdelzaher",
+            "B. Blum",
+            "Q. Cao",
+            "Y. Chen",
+            "D. Evans",
+            "J. George",
+            "S. George",
+            "L. Gu",
+            "T. He",
+            "S. Krishnamurthy",
+            "L. Luo",
+            "S. Son",
+            "J. Stankovic",
+            "R. Stoleru",
+            "A. Wood"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 95
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

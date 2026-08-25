@@ -1,0 +1,3431 @@
+[
+    {
+        "doi": "https://doi.org/10.1146/annurev.ento.51.110104.151104",
+        "title": "Molecular Mechanisms of Metabolic Resistance to Synthetic and Natural Xenobiotics",
+        "journal": "Annual Review of Entomology",
+        "year": 2006,
+        "citations": 2166,
+        "authors": "Xianchun Li, Mary A. Schuler, May R. Berenbaum",
+        "authors_list": [
+            "Xianchun Li",
+            "Mary A. Schuler",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2166,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.2023989118",
+        "title": "Insect decline in the Anthropocene: Death by a thousand cuts",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2021,
+        "citations": 1939,
+        "authors": "David L. Wagner, Eliza M. Grames, Matthew L. Forister et al.",
+        "authors_list": [
+            "David L. Wagner",
+            "Eliza M. Grames",
+            "Matthew L. Forister",
+            "May R. Berenbaum",
+            "David Stopak"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1939,
+            "crossref": 1798
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1073/pnas.2023989118"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1178028",
+        "title": "Functional and Evolutionary Insights from the Genomes of Three Parasitoid <i>Nasonia</i> Species",
+        "journal": "Science",
+        "year": 2010,
+        "citations": 908,
+        "authors": "John H. Werren, Stephen Richards, Christopher A. Desjardins et al.",
+        "authors_list": [
+            "John H. Werren",
+            "Stephen Richards",
+            "Christopher A. Desjardins",
+            "Oliver Niehuis",
+            "Jürgen Gadau",
+            "John K. Colbourne",
+            "The Nasonia Genome Working Group",
+            "Leo W. Beukeboom",
+            "Claude Desplan",
+            "Christine G. Elsik",
+            "Cornelis J.P. Grimmelikhuijzen",
+            "Paul Kitts",
+            "Jeremy Lynch",
+            "Terence D. Murphy",
+            "Deodoro C. S. G. Oliveira",
+            "Christopher D. Smith",
+            "Louis van de Zande",
+            "Kim C. Worley",
+            "Evgeny M. Zdobnov",
+            "Maarten Aerts",
+            "Štefan Albert",
+            "Víctor Hugo Anaya-Muñoz",
+            "Juan Manuel Anzola",
+            "Angel Roberto Barchuk",
+            "Susanta K. Behura",
+            "Agata N. Bera",
+            "May R. Berenbaum",
+            "Rinaldo C. Bertossa",
+            "Márcia Maria Gentile Bitondi",
+            "Seth R. Bordenstein",
+            "Peer Bork",
+            "Erich Bornberg‐Bauer",
+            "Marleen Brunain",
+            "Giuseppe Cazzamali",
+            "Lesley Chaboub",
+            "Joseph Chacko",
+            "Dean Chavez",
+            "Christopher Childers",
+            "Jeong-Hyeon Choi",
+            "Michael E. Clark",
+            "Charles Claudianos",
+            "Rochelle A. Clinton",
+            "Andrew Cree",
+            "Alexandre S. Cristino",
+            "Phat Dang",
+            "Alistair C. Darby",
+            "Dirk C. de Graaf",
+            "Bart Devreese",
+            "Huyen Dinh",
+            "Rachel Edwards",
+            "Navin Elango",
+            "Eran Elhaik",
+            "Olga Ermolaeva",
+            "Jay D. Evans",
+            "Sylvain Forêt",
+            "Gerald Fowler",
+            "Daniel Gerlach",
+            "Joshua D. Gibson",
+            "Donald Gilbert",
+            "Dan Graur",
+            "Stefan Gründer",
+            "Darren E. Hagen",
+            "Yi Han",
+            "Frank Hauser",
+            "Dan Hultmark",
+            "Henry C. Hunter",
+            "Gregory D. D. Hurst",
+            "Shalini N. Jhangian",
+            "Huaiyang Jiang",
+            "Reed M. Johnson",
+            "Andrew K. Jones",
+            "Thomas Junier",
+            "Tatsuhiko Kadowaki",
+            "Albert Kamping",
+            "Yuri Kapustin",
+            "Bobak Kechavarzi",
+            "Jaebum Kim",
+            "Jay Kim",
+            "Boris Kiryutin",
+            "Tosca Koevoets",
+            "Christie Kovar",
+            "Evgenia V. Kriventseva",
+            "Robert Kucharski",
+            "Heewook Lee",
+            "Sandra L. Lee",
+            "Kristin Lees",
+            "Lora Lewis",
+            "David W. Loehlin",
+            "John M. Logsdon",
+            "Jacqueline Lopez",
+            "Ryan J. Lozado",
+            "Donna Maglott",
+            "Ryszard Maleszka",
+            "Anoop Mayampurath",
+            "Danielle J. Mazur",
+            "Marcella A. McClure",
+            "Andrew D. Moore",
+            "Margaret Morgan",
+            "Jean Muller",
+            "Mónica Muñoz-Torres"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 908,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://research.rug.nl/en/publications/c3f9ef30-b66f-4a4a-84d7-1c4ec4e08034"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2583.2006.00672.x",
+        "title": "A deficit of detoxification enzymes: pesticide sensitivity and environmental response in the honeybee",
+        "journal": "Insect Molecular Biology",
+        "year": 2006,
+        "citations": 803,
+        "authors": "Charles Claudianos, Hilary Ranson, Reed M. Johnson et al.",
+        "authors_list": [
+            "Charles Claudianos",
+            "Hilary Ranson",
+            "Reed M. Johnson",
+            "S. Biswas",
+            "M. A. Schuler",
+            "May R. Berenbaum",
+            "René Feyereisen",
+            "John G. Oakeshott"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 803,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/1761136"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1003379107",
+        "title": "Genome sequences of the human body louse and its primary endosymbiont provide insights into the permanent parasitic lifestyle",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2010,
+        "citations": 587,
+        "authors": "Ewen F. Kirkness, Brian J. Haas, Weilin Sun et al.",
+        "authors_list": [
+            "Ewen F. Kirkness",
+            "Brian J. Haas",
+            "Weilin Sun",
+            "Henk R. Braig",
+            "M. Alejandra Perotti",
+            "J. Marshall Clark",
+            "Si Hyeock Lee",
+            "Hugh M. Robertson",
+            "Ryan Kennedy",
+            "Eran Elhaik",
+            "Daniel Gerlach",
+            "Evgenia V. Kriventseva",
+            "Christine G. Elsik",
+            "Dan Graur",
+            "Catherine A. Hill",
+            "Jan A. Veenstra",
+            "Brian P. Walenz",
+            "José M. C. Tubío",
+            "José M. C. Ribeiro",
+            "Julio Rozas",
+            "J. Spencer Johnston",
+            "Justin Reese",
+            "Aleksandar Popadić",
+            "Marta Tojo",
+            "Didier Raoult",
+            "David L. Reed",
+            "Yoshinori Tomoyasu",
+            "Emily Kraus",
+            "Omprakash Mittapalli",
+            "Venu M. Margam",
+            "Hongmei Li‐Byarlay",
+            "Jason M. Meyer",
+            "Reed M. Johnson",
+            "Jeanne Romero-Severson",
+            "Janice P. VanZee",
+            "David Alvarez‐Ponce",
+            "Filipe Garrett Vieira",
+            "Montserrat Aguadé",
+            "Sara Guirao‐Rico",
+            "Juan Manuel Anzola",
+            "Kyong Sup Yoon",
+            "Joseph P. Strycharz",
+            "Maria Unger",
+            "Scott Christley",
+            "Neil F. Lobo",
+            "Manfredo J. Seufferheld",
+            "NaiKuan Wang",
+            "Gregory A. Dasch",
+            "Cláudio J. Struchiner",
+            "Greg Madey",
+            "Linda I. Hannick",
+            "Shelby Bidwell",
+            "Vinita Joardar",
+            "Elisabet Caler",
+            "Renfu Shao",
+            "Stephen C. Barker",
+            "Stephen L. Cameron",
+            "Robert V. Bruggner",
+            "Allison Regier",
+            "Justin Johnson",
+            "Lakshmi Viswanathan",
+            "Terry Utterback",
+            "Granger G. Sutton",
+            "Daniel Lawson",
+            "Robert M. Waterhouse",
+            "J. Craig Venter",
+            "Robert L. Strausberg",
+            "May R. Berenbaum",
+            "Frank H. Collins",
+            "Evgeny M. Zdobnov",
+            "Barry R. Pittendrigh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 587,
+            "crossref": 486
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2901460"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.1461-0248.2001.00192.x",
+        "title": "The carbon–nutrient balance hypothesis: its rise and fall",
+        "journal": "Ecology Letters",
+        "year": 2001,
+        "citations": 479,
+        "authors": "Jason G. Hamilton, A. R. Zangerl, Evan H. DeLucia et al.",
+        "authors_list": [
+            "Jason G. Hamilton",
+            "A. R. Zangerl",
+            "Evan H. DeLucia",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 479,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1461-0248.2001.00192.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1558-5646.1986.tb05746.x",
+        "title": "CONSTRAINTS ON CHEMICAL COEVOLUTION: WILD PARSNIPS AND THE PARSNIP WEBWORM",
+        "journal": "Evolution",
+        "year": 1986,
+        "citations": 425,
+        "authors": "May R. Berenbaum, A. R. Zangerl, James K. Nitao",
+        "authors_list": [
+            "May R. Berenbaum",
+            "A. R. Zangerl",
+            "James K. Nitao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 425,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cois.2015.03.005",
+        "title": "Xenobiotic detoxification pathways in honey bees",
+        "journal": "Current Opinion in Insect Science",
+        "year": 2015,
+        "citations": 417,
+        "authors": "May R. Berenbaum, Reed M. Johnson",
+        "authors_list": [
+            "May R. Berenbaum",
+            "Reed M. Johnson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 417,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.112.204750",
+        "title": "Climate Change: Resetting Plant-Insect Interactions",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 2012,
+        "citations": 376,
+        "authors": "Evan H. DeLucia, Paul D. Nabity, Jorge A. Zavala et al.",
+        "authors_list": [
+            "Evan H. DeLucia",
+            "Paul D. Nabity",
+            "Jorge A. Zavala",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 376,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.plantphysiol.org/content/plantphysiol/160/4/1677.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1558-5646.1983.tb05524.x",
+        "title": "COUMARINS AND CATERPILLARS: A CASE FOR COEVOLUTION",
+        "journal": "Evolution",
+        "year": 1983,
+        "citations": 359,
+        "authors": "May R. Berenbaum",
+        "authors_list": [
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 359,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.92.1.2",
+        "title": "The chemistry of defense: theory and practice.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1995,
+        "citations": 331,
+        "authors": "May R. Berenbaum",
+        "authors_list": [
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 331,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1303884110",
+        "title": "Honey constituents up-regulate detoxification and immunity genes in the western honey bee\n                    <i>Apis mellifera</i>",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2013,
+        "citations": 310,
+        "authors": "Wenfu Mao, Mary A. Schuler, May R. Berenbaum",
+        "authors_list": [
+            "Wenfu Mao",
+            "Mary A. Schuler",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 310,
+            "crossref": 275
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/110/22/8842.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.95.23.13743",
+        "title": "Chemical phenotype matching between a plant and its insect herbivore",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1998,
+        "citations": 301,
+        "authors": "May R. Berenbaum, Arthur R. Zangerl",
+        "authors_list": [
+            "May R. Berenbaum",
+            "Arthur R. Zangerl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 301,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1109535108",
+        "title": "CYP9Q-mediated detoxification of acaricides in the honey bee ( <i>Apis mellifera</i> )",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2011,
+        "citations": 301,
+        "authors": "Wenfu Mao, Mary A. Schuler, May R. Berenbaum",
+        "authors_list": [
+            "Wenfu Mao",
+            "Mary A. Schuler",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 301,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/108/31/12657.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.0308691101",
+        "title": "Structural and functional divergence of insect CYP6B proteins: From specialist to generalist cytochrome P450",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2004,
+        "citations": 297,
+        "authors": "Xianchun Li, Jérôme Baudry, May R. Berenbaum et al.",
+        "authors_list": [
+            "Xianchun Li",
+            "Jérôme Baudry",
+            "May R. Berenbaum",
+            "Mary A. Schuler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 297,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/365724"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00218839.1998.11100951",
+        "title": "Antioxidant capacity and correlated characteristics of 14 unifloral honeys",
+        "journal": "Journal of Apicultural Research",
+        "year": 1998,
+        "citations": 293,
+        "authors": "Steven Frankel, G. Robinson, May R. Berenbaum",
+        "authors_list": [
+            "Steven Frankel",
+            "G. Robinson",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 293,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.022647099",
+        "title": "Impact of folivory on photosynthesis is greater than the sum of its holes",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2002,
+        "citations": 280,
+        "authors": "A. R. Zangerl, Jason G. Hamilton, Terry Miller et al.",
+        "authors_list": [
+            "A. R. Zangerl",
+            "Jason G. Hamilton",
+            "Terry Miller",
+            "A.R. Crofts",
+            "Kevin Oxborough",
+            "May R. Berenbaum",
+            "Evan H De Lucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 280,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nature01003",
+        "title": "Jasmonate and salicylate induce expression of herbivore cytochrome P450 genes",
+        "journal": "Nature",
+        "year": 2002,
+        "citations": 265,
+        "authors": "Xianchun Li, Mary A. Schuler, May R. Berenbaum",
+        "authors_list": [
+            "Xianchun Li",
+            "Mary A. Schuler",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 265,
+            "crossref": 229
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0169-5347(88)90122-x",
+        "title": "Insects and the plant surface",
+        "journal": "Trends in Ecology & Evolution",
+        "year": 1988,
+        "citations": 262,
+        "authors": "May R. Berenbaum",
+        "authors_list": [
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 262,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.201.4355.532",
+        "title": "Toxicity of a Furanocoumarin to Armyworms: A Case of Biosynthetic Escape from Insect Herbivores",
+        "journal": "Science",
+        "year": 1978,
+        "citations": 243,
+        "authors": "May R. Berenbaum",
+        "authors_list": [
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 243,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.0800568105",
+        "title": "Anthropogenic increase in carbon dioxide compromises plant defense against invasive insects",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2008,
+        "citations": 239,
+        "authors": "Jorge A. Zavala, Clare L. Casteel, Evan H. DeLucia et al.",
+        "authors_list": [
+            "Jorge A. Zavala",
+            "Clare L. Casteel",
+            "Evan H. DeLucia",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 239,
+            "crossref": 191
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2278205"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.212.4497.927",
+        "title": "Toxicity of Angular Furanocoumarins to Swallowtail Butterflies: Escalation in a Coevolutionary Arms Race?",
+        "journal": "Science",
+        "year": 1981,
+        "citations": 229,
+        "authors": "May R. Berenbaum, Paul Feeny",
+        "authors_list": [
+            "May R. Berenbaum",
+            "Paul Feeny"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 229,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf000373j",
+        "title": "Honeys from Different Floral Sources as Inhibitors of Enzymatic Browning in Fruit and Vegetable Homogenates",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2000,
+        "citations": 224,
+        "authors": "Lei Chen, Amar Mehta, May R. Berenbaum et al.",
+        "authors_list": [
+            "Lei Chen",
+            "Amar Mehta",
+            "May R. Berenbaum",
+            "Arthur R. Zangerl",
+            "Nicki J. Engeseth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 224,
+            "crossref": 149
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1603/029.102.0202",
+        "title": "Synergistic Interactions Between In-Hive Miticides in &lt;I&gt;Apis mellifera&lt;/I&gt;",
+        "journal": "Journal of Economic Entomology",
+        "year": 2009,
+        "citations": 223,
+        "authors": "Reed M. Johnson, Henry S. Pollock, May R. Berenbaum",
+        "authors_list": [
+            "Reed M. Johnson",
+            "Henry S. Pollock",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 223,
+            "crossref": 190
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.0507805102",
+        "title": "Increase in toxicity of an invasive weed after reassociation with its coevolved herbivore",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2005,
+        "citations": 220,
+        "authors": "Arthur R. Zangerl, May R. Berenbaum",
+        "authors_list": [
+            "Arthur R. Zangerl",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 220,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/1266144"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.0906970106",
+        "title": "Changes in transcript abundance relating to colony collapse disorder in honey bees ( <i>Apis mellifera</i> )",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2009,
+        "citations": 217,
+        "authors": "Reed M. Johnson, Jay D. Evans, Gene E. Robinson et al.",
+        "authors_list": [
+            "Reed M. Johnson",
+            "Jay D. Evans",
+            "Gene E. Robinson",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 217,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2736458"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Herbivores: their interactions with secondary plant metabolites, vol. II: ecological and evolutionary processes.",
+        "journal": "",
+        "year": 1992,
+        "citations": 196,
+        "authors": "Gerald A. Rosenthal, May R. Berenbaum",
+        "authors_list": [
+            "Gerald A. Rosenthal",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 196,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.328.5979.689",
+        "title": "Climate Change and the Integrity of Science",
+        "journal": "Science",
+        "year": 2010,
+        "citations": 195,
+        "authors": "Peter H. Gleick, Richard M. Adams, Richard M. Amasino et al.",
+        "authors_list": [
+            "Peter H. Gleick",
+            "Richard M. Adams",
+            "Richard M. Amasino",
+            "Eric Anders",
+            "D.J. Anderson",
+            "Wyatt W. Anderson",
+            "Luc Anselin",
+            "Mary Kalin Arroyo",
+            "Befekadu Asfaw",
+            "Francisco J. Ayala",
+            "Ad Bax",
+            "Anthony Bebbington",
+            "G. Bell",
+            "Michael V. L. Bennett",
+            "Jeffrey L. Bennetzen",
+            "May R. Berenbaum",
+            "O. B. Berlin",
+            "Pamela J. Björkman",
+            "E. Blackburn",
+            "J. E. Blamont",
+            "Michael R. Botchan",
+            "Joseph Boyer",
+            "E. A. Boyle",
+            "Daniel Branton",
+            "Steven P. Briggs",
+            "W. R. Briggs",
+            "Warren Brill",
+            "Roy J. Britten",
+            "W. S. Broecker",
+            "J. H. Brown",
+            "Patrick O. Brown",
+            "Axel T. Brünger",
+            "John Cairns",
+            "Donald E. Canfield",
+            "S. R. Carpenter",
+            "James C. Carrington",
+            "A. R. Cashmore",
+            "J. C. Castilla",
+            "Anny Cazenave",
+            "F. Stuart Chapin",
+            "Aaron Ciechanover",
+            "David E. Clapham",
+            "W. C. Clark",
+            "Robert N. Clayton",
+            "M. D. Coe",
+            "E. M. Conwell",
+            "Ellis B. Cowling",
+            "Richard M. Cowling",
+            "C.S. Cox",
+            "Rodney Croteau",
+            "Donald M. Crothers",
+            "P. J. Crutzen",
+            "Gretchen C. Daily",
+            "G. Brent Dalrymple",
+            "Jeffery L. Dangl",
+            "Seth A. Darst",
+            "David R. Davies",
+            "Margaret B. Davis",
+            "P. V. de Camilli",
+            "Caroline Dean",
+            "Ruth DeFries",
+            "J. Deisenhofer",
+            "Deborah P. Delmer",
+            "Edward F. DeLong",
+            "David J. DeRosier",
+            "T.O. Diener",
+            "Rodolfo Dirzo",
+            "J. Dixon",
+            "Michael J. Donoghue",
+            "R.F. Doolittle",
+            "Thomas Dunne",
+            "P. R. Ehrlich",
+            "Shmuel N. Eisenstadt",
+            "Thomas Eisner",
+            "Kerry Emanuel",
+            "S. Walter Englander",
+            "E. Ernst",
+            "P. G. Falkowski",
+            "G. Fehér",
+            "John Ferejohn",
+            "A. Fersht",
+            "E. H. Fischer",
+            "R. Fischer",
+            "K. V. Flannery",
+            "J.M. Frank",
+            "Perry A. Frey",
+            "Irwin Fridovich",
+            "Carl Frieden",
+            "Douglas J. Futuyma",
+            "W. R. W. Gardner",
+            "C. J. R. Garrett",
+            "Will Gilbert",
+            "Robert B. Goldberg",
+            "Wesley Goodenough",
+            "Corey S. Goodman",
+            "Michael S. Goodman",
+            "Paul Greengard",
+            "Sarah Hake",
+            "G. Hammel",
+            "Stuart Hanson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 195,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:9795466"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.89.22.10920",
+        "title": "A host-inducible cytochrome P-450 from a host-specific caterpillar: molecular cloning and evolution.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1992,
+        "citations": 193,
+        "authors": "Michael B. Cohen, M. A. Schuler, May R. Berenbaum",
+        "authors_list": [
+            "Michael B. Cohen",
+            "M. A. Schuler",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 193,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.0014-3820.2003.tb00292.x",
+        "title": "PHENOTYPE MATCHING IN WILD PARSNIP AND PARSNIP WEBWORMS: CAUSES AND CONSEQUENCES",
+        "journal": "Evolution",
+        "year": 2003,
+        "citations": 192,
+        "authors": "A. R. Zangerl, May R. Berenbaum",
+        "authors_list": [
+            "A. R. Zangerl",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 192,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/evolut/article-pdf/57/4/806/47651836/evolut0806.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0031051",
+        "title": "Ecologically Appropriate Xenobiotics Induce Cytochrome P450s in Apis mellifera",
+        "journal": "PLoS ONE",
+        "year": 2012,
+        "citations": 189,
+        "authors": "Reed M. Johnson, Wenfu Mao, Henry S. Pollock et al.",
+        "authors_list": [
+            "Reed M. Johnson",
+            "Wenfu Mao",
+            "Henry S. Pollock",
+            "Guodong Niu",
+            "Mary A. Schuler",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 189,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0031051&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1023/a:1015260931034",
+        "title": "Postgenomic Chemical Ecology: From Genetic Code to Ecological Interactions",
+        "journal": "Journal of Chemical Ecology",
+        "year": 2002,
+        "citations": 188,
+        "authors": "May R. Berenbaum",
+        "authors_list": [
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 188,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2583.2009.00961.x",
+        "title": "Metabolic enzymes associated with xenobiotic and chemosensory responses in <i>Nasonia vitripennis</i>",
+        "journal": "Insect Molecular Biology",
+        "year": 2010,
+        "citations": 188,
+        "authors": "John G. Oakeshott, Reed M. Johnson, May R. Berenbaum et al.",
+        "authors_list": [
+            "John G. Oakeshott",
+            "Reed M. Johnson",
+            "May R. Berenbaum",
+            "Hilary Ranson",
+            "Alexandre S. Cristino",
+            "Charles Claudianos"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 188,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bf01012136",
+        "title": "Synergism between myristicin and xanthotoxin, a naturally cooccurring plant toxicant",
+        "journal": "Journal of Chemical Ecology",
+        "year": 1985,
+        "citations": 187,
+        "authors": "May R. Berenbaum, Jonathan J. Neal",
+        "authors_list": [
+            "May R. Berenbaum",
+            "Jonathan J. Neal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 187,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/1937290",
+        "title": "Patterns of Furanocoumarin Distribution and Insect Herbivory in the Umbelliferae: Plant Chemistry and Community Structure",
+        "journal": "Ecology",
+        "year": 1981,
+        "citations": 184,
+        "authors": "May R. Berenbaum",
+        "authors_list": [
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 184,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1934643100",
+        "title": "Diversification of furanocoumarin-metabolizing cytochrome P450 monooxygenases in two papilionids: Specificity and substrate encounter rate",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2003,
+        "citations": 183,
+        "authors": "Weimin Li, Mary A. Schuler, May R. Berenbaum",
+        "authors_list": [
+            "Weimin Li",
+            "Mary A. Schuler",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 183,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/304124"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.130202097",
+        "title": "Absence of toxicity of <i>Bacillus thuringiensis</i> pollen to black swallowtails under field conditions",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2000,
+        "citations": 181,
+        "authors": "C. L. Wraight, A. R. Zangerl, Mark J. Carroll et al.",
+        "authors_list": [
+            "C. L. Wraight",
+            "A. R. Zangerl",
+            "Mark J. Carroll",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 181,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/16607"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/2425543",
+        "title": "Mantids and Milkweed Bugs: Efficacy of Aposematic Coloration Against Invertebrate Predators",
+        "journal": "The American Midland Naturalist",
+        "year": 1984,
+        "citations": 180,
+        "authors": "May R. Berenbaum, Eugene Miliczky",
+        "authors_list": [
+            "May R. Berenbaum",
+            "Eugene Miliczky"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 180,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.171315698",
+        "title": "Effects of exposure to event 176 <i>Bacillus thuringiensis</i> corn pollen on monarch and black swallowtail caterpillars under field conditions",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2001,
+        "citations": 165,
+        "authors": "A. R. Zangerl, Duane D. McKenna, C. L. Wraight et al.",
+        "authors_list": [
+            "A. R. Zangerl",
+            "Duane D. McKenna",
+            "C. L. Wraight",
+            "Mark J. Carroll",
+            "P. Ficarello",
+            "R. L. Warner",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 165,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/59741"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2005.01279.x",
+        "title": "Indirect effects of insect herbivory on leaf gas exchange in soybean",
+        "journal": "Plant Cell & Environment",
+        "year": 2005,
+        "citations": 162,
+        "authors": "Mihai Aldea, Jason G. Hamilton, Joseph P. Resti et al.",
+        "authors_list": [
+            "Mihai Aldea",
+            "Jason G. Hamilton",
+            "Joseph P. Resti",
+            "Arthur R. Zangerl",
+            "May R. Berenbaum",
+            "EVAN H. D eLUCIA"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 162,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3156.2011.02796.x",
+        "title": "Larval environmental stress alters<i>Aedes aegypti</i>competence for Sindbis virus",
+        "journal": "Tropical Medicine & International Health",
+        "year": 2011,
+        "citations": 161,
+        "authors": "Ephantus J. Muturi, Chang‐Hyun Kim, Barry W. Alto et al.",
+        "authors_list": [
+            "Ephantus J. Muturi",
+            "Chang‐Hyun Kim",
+            "Barry W. Alto",
+            "May R. Berenbaum",
+            "Mary A. Schuler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 161,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3156.2011.02796.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/1937601",
+        "title": "Furanocoumarin Induction in Wild Parsnip: Genetics and Population Variation",
+        "journal": "Ecology",
+        "year": 1990,
+        "citations": 158,
+        "authors": "Arthur R. Zangerl, May R. Berenbaum",
+        "authors_list": [
+            "Arthur R. Zangerl",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 158,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jee/99.4.1046",
+        "title": "Mediation of Pyrethroid Insecticide Toxicity to Honey Bees (Hymenoptera: Apidae) by Cytochrome P450 Monooxygenases",
+        "journal": "Journal of Economic Entomology",
+        "year": 2006,
+        "citations": 154,
+        "authors": "Reed M. Johnson, Zhimou Wen, Mary A. Schuler et al.",
+        "authors_list": [
+            "Reed M. Johnson",
+            "Zhimou Wen",
+            "Mary A. Schuler",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 154,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1614864114",
+        "title": "Disruption of quercetin metabolism by fungicide affects energy production in honey bees ( <i>Apis mellifera</i> )",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2017,
+        "citations": 150,
+        "authors": "Wenfu Mao, Mary A. Schuler, May R. Berenbaum",
+        "authors_list": [
+            "Wenfu Mao",
+            "Mary A. Schuler",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 150,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/114/10/2538.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev.en.35.010190.001535",
+        "title": "Evolution of Specialization in Insect-Umbellifer Associations",
+        "journal": "Annual Review of Entomology",
+        "year": 1990,
+        "citations": 149,
+        "authors": "May R. Berenbaum",
+        "authors_list": [
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 149,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.gene.2004.04.028",
+        "title": "Molecular analysis of CYP321A1, a novel cytochrome P450 involved in metabolism of plant allelochemicals (furanocoumarins) and insecticides (cypermethrin) in Helicoverpa zea",
+        "journal": "Gene",
+        "year": 2004,
+        "citations": 146,
+        "authors": "Masataka Sasabe, Zhimou Wen, May R. Berenbaum et al.",
+        "authors_list": [
+            "Masataka Sasabe",
+            "Zhimou Wen",
+            "May R. Berenbaum",
+            "Mary A. Schuler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 146,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cbpb.2009.08.008",
+        "title": "Quercetin-metabolizing CYP6AS enzymes of the pollinator Apis mellifera (Hymenoptera: Apidae)",
+        "journal": "Comparative Biochemistry and Physiology Part B Biochemistry and Molecular Biology",
+        "year": 2009,
+        "citations": 142,
+        "authors": "Wenfu Mao, Sanjeewa G. Rupasinghe, Reed M. Johnson et al.",
+        "authors_list": [
+            "Wenfu Mao",
+            "Sanjeewa G. Rupasinghe",
+            "Reed M. Johnson",
+            "Arthur R. Zangerl",
+            "Mary A. Schuler",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 142,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00442-006-0444-x",
+        "title": "Comparison of photosynthetic damage from arthropod herbivory and pathogen infection in understory hardwood saplings",
+        "journal": "Oecologia",
+        "year": 2006,
+        "citations": 141,
+        "authors": "Mihai Aldea, Jason G. Hamilton, Joseph P. Resti et al.",
+        "authors_list": [
+            "Mihai Aldea",
+            "Jason G. Hamilton",
+            "Joseph P. Resti",
+            "Arthur R. Zangerl",
+            "May R. Berenbaum",
+            "Thomas D. Frank",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 141,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1220219110",
+        "title": "Leaf-galling phylloxera on grapes reprograms host metabolism and morphology",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2013,
+        "citations": 141,
+        "authors": "Paul D. Nabity, Miranda J. Haus, May R. Berenbaum et al.",
+        "authors_list": [
+            "Paul D. Nabity",
+            "Miranda J. Haus",
+            "May R. Berenbaum",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 141,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/110/41/16663.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/1939500",
+        "title": "Plant Chemistry, Insect Adaptations to Plant Chemistry, and Host Plant Utilization Patterns",
+        "journal": "Ecology",
+        "year": 1993,
+        "citations": 141,
+        "authors": "Arthur R. Zangerl, May R. Berenbaum",
+        "authors_list": [
+            "Arthur R. Zangerl",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 141,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bf00994434",
+        "title": "Adaptive significance of furanocoumarin diversity inPastinaca sativa (Apiaceae)",
+        "journal": "Journal of Chemical Ecology",
+        "year": 1991,
+        "citations": 139,
+        "authors": "May R. Berenbaum, James K. Nitao, Arthur R. Zangerl",
+        "authors_list": [
+            "May R. Berenbaum",
+            "James K. Nitao",
+            "Arthur R. Zangerl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 139,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s004420050103",
+        "title": "Physiological price of an induced chemical defense: photosynthesis, respiration, biosynthesis, and growth",
+        "journal": "Oecologia",
+        "year": 1997,
+        "citations": 137,
+        "authors": "A. R. Zangerl, A. Michele Arntz, May R. Berenbaum",
+        "authors_list": [
+            "A. R. Zangerl",
+            "A. Michele Arntz",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 137,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1603/0046-225x-34.2.479",
+        "title": "Anthropogenic Changes in Tropospheric Composition Increase Susceptibility of Soybean to Insect Herbivory",
+        "journal": "Environmental Entomology",
+        "year": 2005,
+        "citations": 136,
+        "authors": "Jason G. Hamilton, Orla Dermody, Mihai Aldea et al.",
+        "authors_list": [
+            "Jason G. Hamilton",
+            "Orla Dermody",
+            "Mihai Aldea",
+            "Arthur R. Zangerl",
+            "Alistair Rogers",
+            "May R. Berenbaum",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 136,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/ee/article-pdf/34/2/479/18301331/ee34-0479.pdf"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Bugs In The System: Insects And Their Impact On Human Affairs",
+        "journal": "",
+        "year": 1995,
+        "citations": 131,
+        "authors": "May R. Berenbaum",
+        "authors_list": [
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 131,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0965-1748(03)00100-0",
+        "title": "Metabolism of linear and angular furanocoumarins by Papilio polyxenes CYP6B1 co-expressed with NADPH cytochrome P450 reductase",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "year": 2003,
+        "citations": 128,
+        "authors": "Zhimou Wen, Liping Pan, May R. Berenbaum et al.",
+        "authors_list": [
+            "Zhimou Wen",
+            "Liping Pan",
+            "May R. Berenbaum",
+            "Mary A. Schuler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/es00169a001",
+        "title": "Environmental phototoxicity",
+        "journal": "Environmental Science & Technology",
+        "year": 1988,
+        "citations": 120,
+        "authors": "Richard A. Larson, May R. Berenbaum",
+        "authors_list": [
+            "Richard A. Larson",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10886-013-0335-7",
+        "title": "Structure and Function of Cytochrome P450S in Insect Adaptation to Natural and Synthetic Toxins: Insights Gained from Molecular Modeling",
+        "journal": "Journal of Chemical Ecology",
+        "year": 2013,
+        "citations": 119,
+        "authors": "Mary A. Schuler, May R. Berenbaum",
+        "authors_list": [
+            "Mary A. Schuler",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 119,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.1365-2583.2002.00341.x",
+        "title": "Plant allelochemicals differentially regulate <i>Helicoverpa zea</i> cytochrome P450 genes",
+        "journal": "Insect Molecular Biology",
+        "year": 2002,
+        "citations": 117,
+        "authors": "Xianchun Li, May R. Berenbaum, Mary A. Schuler",
+        "authors_list": [
+            "Xianchun Li",
+            "May R. Berenbaum",
+            "Mary A. Schuler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jxb/erj032",
+        "title": "The differential effects of herbivory by first and fourth instars of Trichoplusia ni (Lepidoptera: Noctuidae) on photosynthesis in Arabidopsis thaliana",
+        "journal": "Journal of Experimental Botany",
+        "year": 2005,
+        "citations": 113,
+        "authors": "Jennie Y. Tang, Raymond E. Zielinski, Arthur R. Zangerl et al.",
+        "authors_list": [
+            "Jennie Y. Tang",
+            "Raymond E. Zielinski",
+            "Arthur R. Zangerl",
+            "Antony R. Crofts",
+            "May R. Berenbaum",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 113,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jxb/article-pdf/57/3/527/1371690/erj032.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0965-1748(99)00102-2",
+        "title": "Molecular cloning and expression of CYP6B8: a xanthotoxin-inducible cytochrome P450 cDNA from Helicoverpa zea1The sequence data are deposited in GenBank under the accession number AF102263.1",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "year": 2000,
+        "citations": 113,
+        "authors": "Xianchun Li, May R. Berenbaum, Mary A. Schuler",
+        "authors_list": [
+            "Xianchun Li",
+            "May R. Berenbaum",
+            "Mary A. Schuler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 113,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1469-8137.2005.01399.x",
+        "title": "Elevated CO<sub>2</sub> reduces leaf damage by insect herbivores in a forest community",
+        "journal": "New Phytologist",
+        "year": 2005,
+        "citations": 110,
+        "authors": "Rachel G. Knepp, Jason G. Hamilton, Jacqueline E. Mohan et al.",
+        "authors_list": [
+            "Rachel G. Knepp",
+            "Jason G. Hamilton",
+            "Jacqueline E. Mohan",
+            "Arthur R. Zangerl",
+            "May R. Berenbaum",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 110,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-8137.2005.01399.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4757-9658-2_6",
+        "title": "Brementown Revisited: Interactions Among Allelochemicals in Plants",
+        "journal": "",
+        "year": 1985,
+        "citations": 109,
+        "authors": "May R. Berenbaum",
+        "authors_list": [
+            "May R. Berenbaum"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.107.113472",
+        "title": "Facing the Future of Plant-Insect Interaction Research: Le Retour a la “Raison d'Etre”",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 2008,
+        "citations": 109,
+        "authors": "May R. Berenbaum, Arthur R. Zangerl",
+        "authors_list": [
+            "May R. Berenbaum",
+            "Arthur R. Zangerl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/146/3/804/38101448/plphys_v146_3_804.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2583.2010.01024.x",
+        "title": "Decreased detoxification genes and genome size make the human body louse an efficient model to study xenobiotic metabolism",
+        "journal": "Insect Molecular Biology",
+        "year": 2010,
+        "citations": 106,
+        "authors": "Sang Hee Lee, Jong‐Soo Kang, Jee Sun Min et al.",
+        "authors_list": [
+            "Sang Hee Lee",
+            "Jong‐Soo Kang",
+            "Jee Sun Min",
+            "Kyong Sup Yoon",
+            "Joseph P. Strycharz",
+            "Reed M. Johnson",
+            "Omprakash Mittapalli",
+            "Venu M. Margam",
+            "Weilin Sun",
+            "Hongmei Li‐Byarlay",
+            "Jun Xie",
+            "Jing Wu",
+            "Ewen F. Kirkness",
+            "May R. Berenbaum",
+            "Barry R. Pittendrigh",
+            "J. Marshall Clark"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2583.2010.01024.x"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Herbivores: their interactions with secondary plant metabolites. Volume 1: The chemical participants.",
+        "journal": "",
+        "year": 1991,
+        "citations": 105,
+        "authors": "Gerald A. Rosenthal, May R. Berenbaum",
+        "authors_list": [
+            "Gerald A. Rosenthal",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1006/abbi.1994.1175",
+        "title": "Black Swallowtail (Papilio polyxenes) Alleles Encode Cytochrome P450S That Selectively Metabolize Linear Furanocoumarins",
+        "journal": "Archives of Biochemistry and Biophysics",
+        "year": 1994,
+        "citations": 104,
+        "authors": "Rulin Ma, Michael B. Cohen, May R. Berenbaum et al.",
+        "authors_list": [
+            "Rulin Ma",
+            "Michael B. Cohen",
+            "May R. Berenbaum",
+            "M. A. Schuler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/mec.14348",
+        "title": "Cytochrome P450 diversification and hostplant utilization patterns in specialist and generalist moths: Birth, death and adaptation",
+        "journal": "Molecular Ecology",
+        "year": 2017,
+        "citations": 103,
+        "authors": "Bernarda Calla, Katherine Noble, Reed M. Johnson et al.",
+        "authors_list": [
+            "Bernarda Calla",
+            "Katherine Noble",
+            "Reed M. Johnson",
+            "Kimberly K. O. Walden",
+            "Mary A. Schuler",
+            "Hugh M. Robertson",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41598-017-15066-5",
+        "title": "Behavioral responses of honey bees (Apis mellifera) to natural and synthetic xenobiotics in food",
+        "journal": "Scientific Reports",
+        "year": 2017,
+        "citations": 103,
+        "authors": "Ling-Hsiu Liao, Wen‐Yen Wu, May R. Berenbaum",
+        "authors_list": [
+            "Ling-Hsiu Liao",
+            "Wen‐Yen Wu",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41598-017-15066-5.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/sciadv.1500795",
+        "title": "A dietary phytochemical alters caste-associated gene expression in honey bees",
+        "journal": "Science Advances",
+        "year": 2015,
+        "citations": 102,
+        "authors": "Wenfu Mao, Mary A. Schuler, May R. Berenbaum",
+        "authors_list": [
+            "Wenfu Mao",
+            "Mary A. Schuler",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.bioconductor.org/packages/2.13/bioc/vignettes/gage/inst/doc/RNA-seqWorkflow.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0965-1748(00)00174-0",
+        "title": "Expression of CYP6B1 and CYP6B3 cytochrome P450 monooxygenases and furanocoumarin metabolism in different tissues of Papilio polyxenes (Lepidoptera: Papilionidae)",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "year": 2001,
+        "citations": 101,
+        "authors": "Rebecca A. Petersen, Arthur R. Zangerl, May R. Berenbaum et al.",
+        "authors_list": [
+            "Rebecca A. Petersen",
+            "Arthur R. Zangerl",
+            "May R. Berenbaum",
+            "Mary A. Schuler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1086/285907",
+        "title": "On Defining \"Key Innovations\" in an Adaptive Radiation: Cytochrome P450S and Papilionidae",
+        "journal": "The American Naturalist",
+        "year": 1996,
+        "citations": 96,
+        "authors": "May R. Berenbaum, Colin Favret, Mary A. Schuler",
+        "authors_list": [
+            "May R. Berenbaum",
+            "Colin Favret",
+            "Mary A. Schuler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.0030-1299.2004.12323.x",
+        "title": "Host plant, host plant chemistry and the polyembryonic parasitoid <i>Copidosoma sosares</i> : indirect effects in a tritrophic interaction",
+        "journal": "Oikos",
+        "year": 2004,
+        "citations": 96,
+        "authors": "Paul J. Ode, May R. Berenbaum, Arthur R. Zangerl et al.",
+        "authors_list": [
+            "Paul J. Ode",
+            "May R. Berenbaum",
+            "Arthur R. Zangerl",
+            "Ian C.W. Hardy"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/molbev/msl118",
+        "title": "CYP6B1 and CYP6B3 of the Black Swallowtail (Papilio polyxenes): Adaptive Evolution through Subfunctionalization",
+        "journal": "Molecular Biology and Evolution",
+        "year": 2006,
+        "citations": 93,
+        "authors": "Zhimou Wen, Sanjeewa Rupasinghe, Guodong Niu et al.",
+        "authors_list": [
+            "Zhimou Wen",
+            "Sanjeewa Rupasinghe",
+            "Guodong Niu",
+            "May R. Berenbaum",
+            "Mary A. Schuler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 93,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/b978-0-12-597183-6.50011-5",
+        "title": "Coumarins",
+        "journal": "Elsevier eBooks",
+        "year": 1991,
+        "citations": 88,
+        "authors": "May R. Berenbaum",
+        "authors_list": [
+            "May R. Berenbaum"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00442-005-0158-5",
+        "title": "Elevated CO2 influences herbivory-induced defense responses of Arabidopsis thaliana",
+        "journal": "Oecologia",
+        "year": 2005,
+        "citations": 88,
+        "authors": "M. Gabriela Bidart‐Bouzat, Richard Mithen, May R. Berenbaum",
+        "authors_list": [
+            "M. Gabriela Bidart‐Bouzat",
+            "Richard Mithen",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bf02059595",
+        "title": "Stratospheric ozone depletion and plantinsect interactions: Effects of UVB radiation on foliage quality ofCitrus jambhiri forTrichoplusia ni",
+        "journal": "Journal of Chemical Ecology",
+        "year": 1994,
+        "citations": 87,
+        "authors": "Eric McCloud, May R. Berenbaum",
+        "authors_list": [
+            "Eric McCloud",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/1940886",
+        "title": "Costs of Inducible Defense: Protein Limitation, Growth, and Detoxification in Parsnip Webworms",
+        "journal": "Ecology",
+        "year": 1994,
+        "citations": 86,
+        "authors": "May R. Berenbaum, Arthur R. Zangerl",
+        "authors_list": [
+            "May R. Berenbaum",
+            "Arthur R. Zangerl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/1938456",
+        "title": "Furanocoumarins in Wild Parsnip: Effects of Photosynthetically Active Radiation, Ultraviolet Light, and Nutrients",
+        "journal": "Ecology",
+        "year": 1987,
+        "citations": 84,
+        "authors": "A. R. Zangerl, May R. Berenbaum",
+        "authors_list": [
+            "A. R. Zangerl",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2008.01782.x",
+        "title": "Transcriptional profiling reveals elevated CO<sub>2</sub> and elevated O<sub>3</sub> alter resistance of soybean (<i>Glycine max</i>) to Japanese beetles (<i>Popillia japonica</i>)",
+        "journal": "Plant Cell & Environment",
+        "year": 2008,
+        "citations": 84,
+        "authors": "Clare L. Casteel, Bridget F. O’Neill, Jorge A. Zavala et al.",
+        "authors_list": [
+            "Clare L. Casteel",
+            "Bridget F. O’Neill",
+            "Jorge A. Zavala",
+            "Damla D. Bilgin",
+            "May R. Berenbaum",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2008.01782.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bf00380073",
+        "title": "Chemical barriers to adaptation by a specialist herbivore",
+        "journal": "Oecologia",
+        "year": 1989,
+        "citations": 84,
+        "authors": "May R. Berenbaum, A. R. Zangerl, K. Lee",
+        "authors_list": [
+            "May R. Berenbaum",
+            "A. R. Zangerl",
+            "K. Lee"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.5281/zenodo.16089714",
+        "title": "Mortality of Lepidoptera along roadways in central Illinois",
+        "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+        "year": 2001,
+        "citations": 84,
+        "authors": "Duane D. McKenna, Katherine M. McKenna, Stephen B. Malcom et al.",
+        "authors_list": [
+            "Duane D. McKenna",
+            "Katherine M. McKenna",
+            "Stephen B. Malcom",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1558-5646.1992.tb01130.x",
+        "title": "GENETICS OF PHYSIOLOGICAL AND BEHAVIORAL RESISTANCE TO HOST FURANOCOUMARINS IN THE PARSNIP WEBWORM",
+        "journal": "Evolution",
+        "year": 1992,
+        "citations": 84,
+        "authors": "May R. Berenbaum, A. R. Zangerl",
+        "authors_list": [
+            "May R. Berenbaum",
+            "A. R. Zangerl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1558-5646.1992.tb01130.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1086/286077",
+        "title": "Cost Of Chemically Defending Seeds: Furanocoumarins And<i>Pastinaca Sativa</i>",
+        "journal": "The American Naturalist",
+        "year": 1997,
+        "citations": 81,
+        "authors": "A. R. Zangerl, May R. Berenbaum",
+        "authors_list": [
+            "A. R. Zangerl",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.gene.2005.05.026",
+        "title": "Regulation of an insect cytochrome P450 monooxygenase gene (CYP6B1) by aryl hydrocarbon and xanthotoxin response cascades",
+        "journal": "Gene",
+        "year": 2005,
+        "citations": 78,
+        "authors": "Rebecca Petersen Brown, Cynthia M. McDonnell, May R. Berenbaum et al.",
+        "authors_list": [
+            "Rebecca Petersen Brown",
+            "Cynthia M. McDonnell",
+            "May R. Berenbaum",
+            "Mary A. Schuler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1890/0012-9658(2006)87[3070:pwahpa]2.0.co;2",
+        "title": "PARSNIP WEBWORMS AND HOST PLANTS AT HOME AND ABROAD: TROPHIC COMPLEXITY IN A GEOGRAPHIC MOSAIC",
+        "journal": "Ecology",
+        "year": 2006,
+        "citations": 78,
+        "authors": "May R. Berenbaum, Arthur R. Zangerl",
+        "authors_list": [
+            "May R. Berenbaum",
+            "Arthur R. Zangerl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1890/0012-9658%282006%2987%5B3070%3APWAHPA%5D2.0.CO%3B2"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2583.1995.tb00020.x",
+        "title": "CYP6B3: a second furanocoumarin‐inducible cytochrome P450 expressed in <i>Papilio polyxenes</i>",
+        "journal": "Insect Molecular Biology",
+        "year": 1995,
+        "citations": 77,
+        "authors": "Chien‐Fu Hung, Terry Harrison, May R. Berenbaum et al.",
+        "authors_list": [
+            "Chien‐Fu Hung",
+            "Terry Harrison",
+            "May R. Berenbaum",
+            "Mary A. Schuler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.0710280105",
+        "title": "Selection for chemical trait remixing in an invasive weed after reassociation with a coevolved specialist",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2008,
+        "citations": 76,
+        "authors": "A. R. Zangerl, Margaret C. Stanley, May R. Berenbaum",
+        "authors_list": [
+            "A. R. Zangerl",
+            "Margaret C. Stanley",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2290761"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/b978-0-08-092545-5.50016-x",
+        "title": "Genetics of Secondary Metabolism and Herbivore Resistance in Plants",
+        "journal": "Elsevier eBooks",
+        "year": 1992,
+        "citations": 76,
+        "authors": "May R. Berenbaum, Arthur R. Zangerl",
+        "authors_list": [
+            "May R. Berenbaum",
+            "Arthur R. Zangerl"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/insects8010022",
+        "title": "Impacts of Dietary Phytochemicals in the Presence and Absence of Pesticides on Longevity of Honey Bees (Apis mellifera)",
+        "journal": "Insects",
+        "year": 2017,
+        "citations": 74,
+        "authors": "Ling-Hsiu Liao, Wen‐Yen Wu, May R. Berenbaum",
+        "authors_list": [
+            "Ling-Hsiu Liao",
+            "Wen‐Yen Wu",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/2075-4450/8/1/22/pdf?version=1487070125"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/2426744",
+        "title": "Impact of Floral Herbivory by Parsnip Webworm (Oecophoridae: Depressaria pastinacella Duponchel) on Pollination and Fitness of Wild Parsnip (Apiaceae: Pastinaca sativa L.)",
+        "journal": "The American Midland Naturalist",
+        "year": 1996,
+        "citations": 74,
+        "authors": "David J. Lohman, A. R. Zangerl, May R. Berenbaum",
+        "authors_list": [
+            "David J. Lohman",
+            "A. R. Zangerl",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1570-7458.1985.tb03535.x",
+        "title": "Histopathological effects of tannins on the midgut epithelium of <i>Papilio polyxenes</i> and <i>Papilio glaucus</i>",
+        "journal": "Entomologia Experimentalis et Applicata",
+        "year": 1985,
+        "citations": 74,
+        "authors": "B. A. Steinly, May R. Berenbaum",
+        "authors_list": [
+            "B. A. Steinly",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bf01012086",
+        "title": "Induction of cytochrome P450-mediated detoxification of xanthotoxin in the black swallowtail",
+        "journal": "Journal of Chemical Ecology",
+        "year": 1989,
+        "citations": 73,
+        "authors": "Michael B. Cohen, May R. Berenbaum, Mary A. Schuler",
+        "authors_list": [
+            "Michael B. Cohen",
+            "May R. Berenbaum",
+            "Mary A. Schuler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s11829-009-9071-x",
+        "title": "Effects of florivory on floral volatile emissions and pollination success in the wild parsnip",
+        "journal": "Arthropod-Plant Interactions",
+        "year": 2009,
+        "citations": 71,
+        "authors": "A. R. Zangerl, May R. Berenbaum",
+        "authors_list": [
+            "A. R. Zangerl",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1051/apido/2010039",
+        "title": "Toxicity of mycotoxins to honeybees and its amelioration by propolis",
+        "journal": "Apidologie",
+        "year": 2010,
+        "citations": 71,
+        "authors": "Guodong Niu, Reed M. Johnson, May R. Berenbaum",
+        "authors_list": [
+            "Guodong Niu",
+            "Reed M. Johnson",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://hal.science/hal-01003572"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s11829-008-9045-4",
+        "title": "Effects of elevated CO2 and O3 on leaf damage and insect abundance in a soybean agroecosystem",
+        "journal": "Arthropod-Plant Interactions",
+        "year": 2008,
+        "citations": 71,
+        "authors": "Orla Dermody, Bridget F. O’Neill, Arthur R. Zangerl et al.",
+        "authors_list": [
+            "Orla Dermody",
+            "Bridget F. O’Neill",
+            "Arthur R. Zangerl",
+            "May R. Berenbaum",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/protein/gzg075",
+        "title": "Molecular docking of substrates and inhibitors in the catalytic site of CYP6B1, an insect cytochrome P450 monooxygenase",
+        "journal": "Protein Engineering Design and Selection",
+        "year": 2003,
+        "citations": 70,
+        "authors": "Jérôme Baudry, W. Li, Lele Pan et al.",
+        "authors_list": [
+            "Jérôme Baudry",
+            "W. Li",
+            "Lele Pan",
+            "May R. Berenbaum",
+            "M. A. Schuler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/peds/article-pdf/16/8/577/4330389/gzg075.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2583.2006.00623.x",
+        "title": "Remarkable substrate‐specificity of CYP6AB3 in <i>Depressaria pastinacella</i> , a highly specialized caterpillar",
+        "journal": "Insect Molecular Biology",
+        "year": 2006,
+        "citations": 69,
+        "authors": "Wenfu Mao, Sanjeewa Rupasinghe, A. R. Zangerl et al.",
+        "authors_list": [
+            "Wenfu Mao",
+            "Sanjeewa Rupasinghe",
+            "A. R. Zangerl",
+            "Mary A. Schuler",
+            "May R. Berenbaum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1146/annurev.ento.51.110104.151104",
+        "title": "Molecular Mechanisms of Metabolic Resistance to Synthetic and Natural Xenobiotics",
+        "journal": "Annual Review of Entomology",
+        "year": 2007,
+        "citations": 1834,
+        "authors": "Xianchun Li, Mary A. Schuler, May R. Berenbaum",
+        "authors_list": [
+            "Xianchun Li",
+            "Mary A. Schuler",
+            "May R. Berenbaum"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1834
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1126/science.1178028",
+        "title": "Functional and Evolutionary Insights from the Genomes of Three Parasitoid\n            <i>Nasonia</i>\n            Species",
+        "journal": "Science",
+        "year": 2010,
+        "citations": 793,
+        "authors": "John H. Werren, Stephen Richards, Christopher A. Desjardins et al.",
+        "authors_list": [
+            "John H. Werren",
+            "Stephen Richards",
+            "Christopher A. Desjardins",
+            "Oliver Niehuis",
+            "Jürgen Gadau",
+            "John K. Colbourne",
+            "Leo W. Beukeboom",
+            "Claude Desplan",
+            "Christine G. Elsik",
+            "Cornelis J. P. Grimmelikhuijzen",
+            "Paul Kitts",
+            "Jeremy A. Lynch",
+            "Terence Murphy",
+            "Deodoro C. S. G. Oliveira",
+            "Christopher D. Smith",
+            "Louis van de Zande",
+            "Kim C. Worley",
+            "Evgeny M. Zdobnov",
+            "Maarten Aerts",
+            "Stefan Albert",
+            "Victor H. Anaya",
+            "Juan M. Anzola",
+            "Angel R. Barchuk",
+            "Susanta K. Behura",
+            "Agata N. Bera",
+            "May R. Berenbaum",
+            "Rinaldo C. Bertossa",
+            "Márcia M. G. Bitondi",
+            "Seth R. Bordenstein",
+            "Peer Bork",
+            "Erich Bornberg-Bauer",
+            "Marleen Brunain",
+            "Giuseppe Cazzamali",
+            "Lesley Chaboub",
+            "Joseph Chacko",
+            "Dean Chavez",
+            "Christopher P. Childers",
+            "Jeong-Hyeon Choi",
+            "Michael E. Clark",
+            "Charles Claudianos",
+            "Rochelle A. Clinton",
+            "Andrew G. Cree",
+            "Alexandre S. Cristino",
+            "Phat M. Dang",
+            "Alistair C. Darby",
+            "Dirk C. de Graaf",
+            "Bart Devreese",
+            "Huyen H. Dinh",
+            "Rachel Edwards",
+            "Navin Elango",
+            "Eran Elhaik",
+            "Olga Ermolaeva",
+            "Jay D. Evans",
+            "Sylvain Foret",
+            "Gerald R. Fowler",
+            "Daniel Gerlach",
+            "Joshua D. Gibson",
+            "Donald G. Gilbert",
+            "Dan Graur",
+            "Stefan Gründer",
+            "Darren E. Hagen",
+            "Yi Han",
+            "Frank Hauser",
+            "Da Hultmark",
+            "Henry C. Hunter",
+            "Gregory D. D. Hurst",
+            "Shalini N. Jhangian",
+            "Huaiyang Jiang",
+            "Reed M. Johnson",
+            "Andrew K. Jones",
+            "Thomas Junier",
+            "Tatsuhiko Kadowaki",
+            "Albert Kamping",
+            "Yuri Kapustin",
+            "Bobak Kechavarzi",
+            "Jaebum Kim",
+            "Jay Kim",
+            "Boris Kiryutin",
+            "Tosca Koevoets",
+            "Christie L. Kovar",
+            "Evgenia V. Kriventseva",
+            "Robert Kucharski",
+            "Heewook Lee",
+            "Sandra L. Lee",
+            "Kristin Lees",
+            "Lora R. Lewis",
+            "David W. Loehlin",
+            "John M. Logsdon",
+            "Jacqueline A. Lopez",
+            "Ryan J. Lozado",
+            "Donna Maglott",
+            "Ryszard Maleszka",
+            "Anoop Mayampurath",
+            "Danielle J. Mazur",
+            "Marcella A. McClure",
+            "Andrew D. Moore",
+            "Margaret B. Morgan",
+            "Jean Muller",
+            "Monica C. Munoz-Torres",
+            "Donna M. Muzny",
+            "Lynne V. Nazareth",
+            "Susanne Neupert",
+            "Ngoc B. Nguyen",
+            "Francis M. F. Nunes",
+            "John G. Oakeshott",
+            "Geoffrey O. Okwuonu",
+            "Bart A. Pannebakker",
+            "Vikas R. Pejaver",
+            "Zuogang Peng",
+            "Stephen C. Pratt",
+            "Reinhard Predel",
+            "Ling-Ling Pu",
+            "Hilary Ranson",
+            "Rhitoban Raychoudhury",
+            "Andreas Rechtsteiner",
+            "Jeffrey G. Reid",
+            "Megan Riddle",
+            "Jeanne Romero-Severson",
+            "Miriam Rosenberg",
+            "Timothy B. Sackton",
+            "David B. Sattelle",
+            "Helge Schlüns",
+            "Thomas Schmitt",
+            "Martina Schneider",
+            "Andreas Schüler",
+            "Andrew M. Schurko",
+            "David M. Shuker",
+            "Zilá L. P. Simões",
+            "Saurabh Sinha",
+            "Zachary Smith",
+            "Alexandre Souvorov",
+            "Andreas Springauf",
+            "Elisabeth Stafflinger",
+            "Deborah E. Stage",
+            "Mario Stanke",
+            "Yoshiaki Tanaka",
+            "Arndt Telschow",
+            "Carol Trent",
+            "Selina Vattathil",
+            "Lumi Viljakainen",
+            "Kevin W. Wanner",
+            "Robert M. Waterhouse",
+            "James B. Whitfield",
+            "Timothy E. Wilkes",
+            "Michael Williamson",
+            "Judith H. Willis",
+            "Florian Wolschin",
+            "Stefan Wyder",
+            "Takuji Yamada",
+            "Soojin V. Yi",
+            "Courtney N. Zecher",
+            "Lan Zhang",
+            "Richard A. Gibbs"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 793
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://research.rug.nl/en/publications/c3f9ef30-b66f-4a4a-84d7-1c4ec4e08034"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1365-2583.2006.00672.x",
+        "title": "A deficit of detoxification enzymes: pesticide sensitivity and environmental response in the honeybee",
+        "journal": "Insect Molecular Biology",
+        "year": 2006,
+        "citations": 652,
+        "authors": "C. Claudianos, H. Ranson, R. M. Johnson et al.",
+        "authors_list": [
+            "C. Claudianos",
+            "H. Ranson",
+            "R. M. Johnson",
+            "S. Biswas",
+            "M. A. Schuler",
+            "M. R. Berenbaum",
+            "R. Feyereisen",
+            "J. G. Oakeshott"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 652
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/1761136"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1046/j.1461-0248.2001.00192.x",
+        "title": "The carbon–nutrient balance hypothesis: its rise and fall",
+        "journal": "Ecology Letters",
+        "year": 2001,
+        "citations": 384,
+        "authors": "J.G. Hamilton, A.R. Zangerl, E.H. DeLucia et al.",
+        "authors_list": [
+            "J.G. Hamilton",
+            "A.R. Zangerl",
+            "E.H. DeLucia",
+            "M.R. Berenbaum"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 384
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1461-0248.2001.00192.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1558-5646.1986.tb05746.x",
+        "title": "CONSTRAINTS ON CHEMICAL COEVOLUTION: WILD PARSNIPS AND THE PARSNIP WEBWORM",
+        "journal": "Evolution",
+        "year": 1986,
+        "citations": 197,
+        "authors": "M. R. Berenbaum, A. R. Zangerl, J. K. Nitao",
+        "authors_list": [
+            "M. R. Berenbaum",
+            "A. R. Zangerl",
+            "J. K. Nitao"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 197
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1073/pnas.022647099",
+        "title": "Impact of folivory on photosynthesis is greater than the sum of its holes",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2002,
+        "citations": 244,
+        "authors": "A. R. Zangerl, J. G. Hamilton, T. J. Miller et al.",
+        "authors_list": [
+            "A. R. Zangerl",
+            "J. G. Hamilton",
+            "T. J. Miller",
+            "A. R. Crofts",
+            "K. Oxborough",
+            "M. R. Berenbaum",
+            "E. H. de Lucia"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 244
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1073/pnas.89.22.10920",
+        "title": "A host-inducible cytochrome P-450 from a host-specific caterpillar: molecular cloning and evolution.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1992,
+        "citations": 158,
+        "authors": "M B Cohen, M A Schuler, M R Berenbaum",
+        "authors_list": [
+            "M B Cohen",
+            "M A Schuler",
+            "M R Berenbaum"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 158
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

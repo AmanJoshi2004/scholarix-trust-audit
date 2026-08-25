@@ -1,0 +1,44 @@
+[
+    {
+        "url": "https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en",
+        "snippet": "Data mining: an overview from a database perspective. MS Chen, J Han, PS Yu. IEEE Transactions on Knowledge and data Engineering 8 (6), 866-883, 1996. 3989 ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet appears to be a citation of an academic publication by the author, with co-authors and a volume number."
+    },
+    {
+        "url": "https://www.computer.org/profiles/philip-yu",
+        "snippet": "Philip S. Yu is a Professor in Computer Science at the University of ... Conference on Data Mining and ACM Conference on Information and Knowledge ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "This appears to be a professional profile page for Philip S. Yu, listing his affiliations and conference participation."
+    },
+    {
+        "url": "https://cs.uic.edu/profiles/philip-yu/",
+        "snippet": "Philip S. Yu's main research interests include big data, data mining (especially on graph/network mining), social network, privacy preserving data ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL is a faculty profile page, likely from a university website, which often includes publication information for the professor."
+    },
+    {
+        "url": "https://ieeexplore.ieee.org/author/37276793500",
+        "snippet": "... Learning,Deep Learning,Node Features,Graph Attention Network,Graph ... data mining and training of artificial intelligence and similar technologies.",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL appears to be an IEEE Explore author profile page, indicating a publication-focused source."
+    },
+    {
+        "url": "https://www.researchgate.net/profile/Philip-Yu-3",
+        "snippet": "Philip S. Yu. Time series classification (TSC) is an important task in time series data mining and has attracted a lot of research attention.",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "This appears to be a research profile on ResearchGate, and the snippet mentions a topic relevant to data mining, indicating academic publication relevance."
+    },
+    {
+        "url": "https://www.linkedin.com/in/philip-yu-3996b88",
+        "snippet": "Philip S. Yu's main research interests include AI, big data, data mining, privacy preserving publishing and mining, data streams and database systems.",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The snippet appears to be a brief summary of the author's academic profile, which is typically found on a publication or institutional website."
+    }
+]

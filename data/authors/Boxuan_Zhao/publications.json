@@ -1,0 +1,3495 @@
+[
+    {
+        "doi": "https://doi.org/10.1016/j.cell.2015.05.014",
+        "title": "N6-methyladenosine Modulates Messenger RNA Translation Efficiency",
+        "journal": "Cell",
+        "year": 2015,
+        "citations": 3644,
+        "authors": "Xiao Wang, Boxuan Zhao, Ian A. Roundtree et al.",
+        "authors_list": [
+            "Xiao Wang",
+            "Boxuan Zhao",
+            "Ian A. Roundtree",
+            "Zhike Lu",
+            "Dali Han",
+            "Honghui Ma",
+            "Xiaocheng Weng",
+            "Kai Chen",
+            "Hailing Shi",
+            "Chuan He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 3644,
+            "crossref": 3192
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S0092867415005620/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41556-018-0045-z",
+        "title": "Recognition of RNA N6-methyladenosine by IGF2BP proteins enhances mRNA stability and translation",
+        "journal": "Nature Cell Biology",
+        "year": 2018,
+        "citations": 3185,
+        "authors": "Huilin Huang, Hengyou Weng, Wenju Sun et al.",
+        "authors_list": [
+            "Huilin Huang",
+            "Hengyou Weng",
+            "Wenju Sun",
+            "Xi Qin",
+            "Hailing Shi",
+            "Huizhe Wu",
+            "Boxuan Zhao",
+            "Ana Mesquita",
+            "Chang Liu",
+            "Celvie L. Yuan",
+            "Yueh‐Chiang Hu",
+            "Stefan Hüttelmaier",
+            "Jennifer R. Skibbe",
+            "Rui Su",
+            "Xiaolan Deng",
+            "Lei Dong",
+            "Miao Sun",
+            "Chenying Li",
+            "Sigrid Nachtergaele",
+            "Yungui Wang",
+            "Chao Hu",
+            "Kyle Ferchen",
+            "Kenneth D. Greis",
+            "Xi Jiang",
+            "Minjie Wei",
+            "Liang‐Hu Qu",
+            "Jun‐Lin Guan",
+            "Chuan He",
+            "Jianhua Yang",
+            "Jianjun Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 3185,
+            "crossref": 2599
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nrm.2016.132",
+        "title": "Post-transcriptional gene regulation by mRNA modifications",
+        "journal": "Nature Reviews Molecular Cell Biology",
+        "year": 2016,
+        "citations": 2562,
+        "authors": "Boxuan Zhao, Ian A. Roundtree, Chuan He",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Ian A. Roundtree",
+            "Chuan He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2562,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/nrm.2016.132.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/cr.2017.15",
+        "title": "YTHDF3 facilitates translation and decay of N6-methyladenosine-modified RNA",
+        "journal": "Cell Research",
+        "year": 2017,
+        "citations": 1904,
+        "authors": "Hailing Shi, Xiao Wang, Zhike Lu et al.",
+        "authors_list": [
+            "Hailing Shi",
+            "Xiao Wang",
+            "Zhike Lu",
+            "Boxuan Zhao",
+            "Honghui Ma",
+            "Phillip J. Hsu",
+            "Chang Liu",
+            "Chuan He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1904,
+            "crossref": 1662
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/cr201715.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ccell.2017.02.013",
+        "title": "m 6 A Demethylase ALKBH5 Maintains Tumorigenicity of Glioblastoma Stem-like Cells by Sustaining FOXM1 Expression and Cell Proliferation Program",
+        "journal": "Cancer Cell",
+        "year": 2017,
+        "citations": 1568,
+        "authors": "Sicong Zhang, Boxuan Zhao, Aidong Zhou et al.",
+        "authors_list": [
+            "Sicong Zhang",
+            "Boxuan Zhao",
+            "Aidong Zhou",
+            "Kangyu Lin",
+            "Shaoping Zheng",
+            "Zhike Lu",
+            "Yaohui Chen",
+            "Erik P. Sulman",
+            "Keping Xie",
+            "Oliver Bögler",
+            "Sadhan Majumder",
+            "Chuan He",
+            "Suyun Huang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1568,
+            "crossref": 1234
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.stem.2017.11.016",
+        "title": "METTL14 Inhibits Hematopoietic Stem/Progenitor Differentiation and Promotes Leukemogenesis via mRNA m6A Modification",
+        "journal": "Cell stem cell",
+        "year": 2017,
+        "citations": 1024,
+        "authors": "Hengyou Weng, Huilin Huang, Huizhe Wu et al.",
+        "authors_list": [
+            "Hengyou Weng",
+            "Huilin Huang",
+            "Huizhe Wu",
+            "Xi Qin",
+            "Boxuan Zhao",
+            "Lei Dong",
+            "Hailing Shi",
+            "Jennifer R. Skibbe",
+            "Chao Shen",
+            "Chao Hu",
+            "Yue Sheng",
+            "Yungui Wang",
+            "Mark Wunderlich",
+            "Bin Zhang",
+            "Louis C. Doré",
+            "Rui Su",
+            "Xiaolan Deng",
+            "Kyle Ferchen",
+            "Chenying Li",
+            "Miao Sun",
+            "Zhike Lu",
+            "Xi Jiang",
+            "Guido Marcucci",
+            "James C. Mulloy",
+            "Jianhua Yang",
+            "Zhijian Qian",
+            "Minjie Wei",
+            "Chuan He",
+            "Jianjun Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1024,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S193459091730468X/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41586-019-1016-7",
+        "title": "Histone H3 trimethylation at lysine 36 guides m6A RNA modification co-transcriptionally",
+        "journal": "Nature",
+        "year": 2019,
+        "citations": 707,
+        "authors": "Huilin Huang, Hengyou Weng, Keren Zhou et al.",
+        "authors_list": [
+            "Huilin Huang",
+            "Hengyou Weng",
+            "Keren Zhou",
+            "Tong Wu",
+            "Boxuan Zhao",
+            "Mingli Sun",
+            "Zhenhua Chen",
+            "Xiaolan Deng",
+            "Gang Xiao",
+            "Franziska Auer",
+            "Lars Klemm",
+            "Huizhe Wu",
+            "Zhixiang Zuo",
+            "Xi Qin",
+            "Yunzhu Dong",
+            "Yile Zhou",
+            "Hanjun Qin",
+            "Shu Tao",
+            "Juan Du",
+            "Jun Liu",
+            "Zhike Lu",
+            "Hang Yin",
+            "Ana Mesquita",
+            "Celvie L. Yuan",
+            "Yueh‐Chiang Hu",
+            "Wenju Sun",
+            "Rui Su",
+            "Lei Dong",
+            "Chao Shen",
+            "Chenying Li",
+            "Ying Qing",
+            "Xi Jiang",
+            "Xiwei Wu",
+            "Miao Sun",
+            "Jun‐Lin Guan",
+            "Liang‐Hu Qu",
+            "Minjie Wei",
+            "Markus Müschen",
+            "Gang Huang",
+            "Chuan He",
+            "Jianhua Yang",
+            "Jianjun Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 707,
+            "crossref": 641
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nature21355",
+        "title": "m6A-dependent maternal mRNA clearance facilitates zebrafish maternal-to-zygotic transition",
+        "journal": "Nature",
+        "year": 2017,
+        "citations": 606,
+        "authors": "Boxuan Zhao, Xiao Wang, Alana V. Beadell et al.",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Xiao Wang",
+            "Alana V. Beadell",
+            "Zhike Lu",
+            "Hailing Shi",
+            "Adam Kuuspalu",
+            "Robert K. Ho",
+            "Chuan He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 606,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/5323276"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.chom.2016.10.002",
+        "title": "Dynamics of Human and Viral RNA Methylation during Zika Virus Infection",
+        "journal": "Cell Host & Microbe",
+        "year": 2016,
+        "citations": 431,
+        "authors": "Gianluigi Lichinchi, Boxuan Zhao, Yinga Wu et al.",
+        "authors_list": [
+            "Gianluigi Lichinchi",
+            "Boxuan Zhao",
+            "Yinga Wu",
+            "Zhike Lu",
+            "Yue Qin",
+            "Chuan He",
+            "Tariq M. Rana"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 431,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S1931312816303985/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.molcel.2014.08.026",
+        "title": "5mC Oxidation by Tet2 Modulates Enhancer Activity and Timing of Transcriptome Reprogramming during Differentiation",
+        "journal": "Molecular Cell",
+        "year": 2014,
+        "citations": 351,
+        "authors": "Gary C. Hon, Chun‐Xiao Song, Tingting Du et al.",
+        "authors_list": [
+            "Gary C. Hon",
+            "Chun‐Xiao Song",
+            "Tingting Du",
+            "Fulai Jin",
+            "Siddarth Selvaraj",
+            "Ah Young Lee",
+            "Chia-an Yen",
+            "Zhen Ye",
+            "Shi-Qing Mao",
+            "Bang-An Wang",
+            "Samantha Kuan",
+            "Lee Edsall",
+            "Boxuan Zhao",
+            "Guo Liang Xu",
+            "Chuan He",
+            "Bing Ren"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 351,
+            "crossref": 326
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.cell.com/article/S1097276514006819/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.7554/elife.15528",
+        "title": "N6-methyladenosine of HIV-1 RNA regulates viral infection and HIV-1 Gag protein expression",
+        "journal": "eLife",
+        "year": 2016,
+        "citations": 308,
+        "authors": "Nagaraja Tirumuru, Boxuan Zhao, Wuxun Lu et al.",
+        "authors_list": [
+            "Nagaraja Tirumuru",
+            "Boxuan Zhao",
+            "Wuxun Lu",
+            "Zhike Lu",
+            "Chuan He",
+            "Li Wu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 308,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.7554/elife.15528"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.chembiol.2015.11.007",
+        "title": "Nucleic Acid Modifications in Regulation of Gene Expression",
+        "journal": "Cell Chemical Biology",
+        "year": 2016,
+        "citations": 294,
+        "authors": "Kai Chen, Boxuan Zhao, Chuan He",
+        "authors_list": [
+            "Kai Chen",
+            "Boxuan Zhao",
+            "Chuan He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 294,
+            "crossref": 264
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S2451945615004663/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41564-019-0653-9",
+        "title": "N6-methyladenosine modification enables viral RNA to escape recognition by RNA sensor RIG-I",
+        "journal": "Nature Microbiology",
+        "year": 2020,
+        "citations": 285,
+        "authors": "Mijia Lu, Zijie Zhang, Miaoge Xue et al.",
+        "authors_list": [
+            "Mijia Lu",
+            "Zijie Zhang",
+            "Miaoge Xue",
+            "Boxuan Zhao",
+            "Olivia Harder",
+            "Anzhong Li",
+            "Xueya Liang",
+            "Thomas Z. Gao",
+            "Yunsheng Xu",
+            "Jiyong Zhou",
+            "Zongdi Feng",
+            "Stefan Niewiesk",
+            "Mark E. Peeples",
+            "Chuan He",
+            "Jiànróng Lǐ"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 285,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/7137398"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nchembio.1380",
+        "title": "The multiple antibiotic resistance regulator MarR is a copper sensor in Escherichia coli",
+        "journal": "Nature Chemical Biology",
+        "year": 2013,
+        "citations": 186,
+        "authors": "Ziyang Hao, Hubing Lou, Rongfeng Zhu et al.",
+        "authors_list": [
+            "Ziyang Hao",
+            "Hubing Lou",
+            "Rongfeng Zhu",
+            "Jiuhe Zhu",
+            "Dianmu Zhang",
+            "Boxuan Zhao",
+            "Shizhe Zeng",
+            "Xing Chen",
+            "Jefferson Chan",
+            "Chuan He",
+            "Peng R. Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 186,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1115/1.4025810",
+        "title": "Toward Safe Human Robot Collaboration by Using Multiple Kinects Based Real-Time Human Tracking",
+        "journal": "Journal of Computing and Information Science in Engineering",
+        "year": 2013,
+        "citations": 173,
+        "authors": "Carlos Morato, Krishnanand N. Kaipa, Boxuan Zhao et al.",
+        "authors_list": [
+            "Carlos Morato",
+            "Krishnanand N. Kaipa",
+            "Boxuan Zhao",
+            "Satyandra K. Gupta"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 173,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.2006617117",
+        "title": "RNA–protein interaction mapping via MS2- or Cas13-based APEX targeting",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2020,
+        "citations": 171,
+        "authors": "Shuo Han, Boxuan Zhao, Samuel A. Myers et al.",
+        "authors_list": [
+            "Shuo Han",
+            "Boxuan Zhao",
+            "Samuel A. Myers",
+            "Steven A. Carr",
+            "Chuan He",
+            "Alice Y. Ting"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 171,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/7486720"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/anie.201203684",
+        "title": "A Selective Fluorescent Probe for Carbon Monoxide Imaging in Living Cells",
+        "journal": "Angewandte Chemie International Edition",
+        "year": 2012,
+        "citations": 143,
+        "authors": "Jing Wang, Jason Karpus, Boxuan Zhao et al.",
+        "authors_list": [
+            "Jing Wang",
+            "Jason Karpus",
+            "Boxuan Zhao",
+            "Zheng Luo",
+            "Peng R. Chen",
+            "Chuan He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 143,
+            "crossref": 136
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s13059-015-0609-1",
+        "title": "Fate by RNA methylation: m6A steers stem cell pluripotency",
+        "journal": "Genome biology",
+        "year": 2015,
+        "citations": 131,
+        "authors": "Boxuan Zhao, Chuan He",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Chuan He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 131,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://genomebiology.biomedcentral.com/counter/pdf/10.1186/s13059-015-0609-1"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41592-023-01880-5",
+        "title": "Engineered allostery in light-regulated LOV-Turbo enables precise spatiotemporal control of proximity labeling in living cells",
+        "journal": "Nature Methods",
+        "year": 2023,
+        "citations": 121,
+        "authors": "Song-Yi Lee, Joleen S. Cheah, Boxuan Zhao et al.",
+        "authors_list": [
+            "Song-Yi Lee",
+            "Joleen S. Cheah",
+            "Boxuan Zhao",
+            "Charles Xu",
+            "Heegwang Roh",
+            "Christina K. Kim",
+            "Kelvin F. Cho",
+            "Namrata D. Udeshi",
+            "Steven A. Carr",
+            "Alice Y. Ting"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 121
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10539039/pdf/nihms-1931163.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-019-12504-y",
+        "title": "Viral N6-methyladenosine upregulates replication and pathogenesis of human respiratory syncytial virus",
+        "journal": "Nature Communications",
+        "year": 2019,
+        "citations": 117,
+        "authors": "Miaoge Xue, Boxuan Zhao, Zijie Zhang et al.",
+        "authors_list": [
+            "Miaoge Xue",
+            "Boxuan Zhao",
+            "Zijie Zhang",
+            "Mijia Lu",
+            "Olivia Harder",
+            "Phylip Chen",
+            "Zhike Lu",
+            "Anzhong Li",
+            "Yuanmei Ma",
+            "Yunsheng Xu",
+            "Xueya Liang",
+            "Jiyong Zhou",
+            "Stefan Niewiesk",
+            "Mark E. Peeples",
+            "Chuan He",
+            "Jiànróng Lǐ"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-019-12504-y.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/cr500470n",
+        "title": "TET Family Proteins: Oxidation Activity, Interacting Molecules, and Functions in Diseases",
+        "journal": "Chemical Reviews",
+        "year": 2015,
+        "citations": 116,
+        "authors": "Xingyu Lu, Boxuan Zhao, Chuan He",
+        "authors_list": [
+            "Xingyu Lu",
+            "Boxuan Zhao",
+            "Chuan He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 109
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/4784441"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.eml.2020.100793",
+        "title": "4D printing composite with electrically controlled local deformation",
+        "journal": "Extreme Mechanics Letters",
+        "year": 2020,
+        "citations": 101,
+        "authors": "Li‐Hua Shao, Boxuan Zhao, Quan Zhang et al.",
+        "authors_list": [
+            "Li‐Hua Shao",
+            "Boxuan Zhao",
+            "Quan Zhang",
+            "Yufeng Xing",
+            "Kai Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/cr.2014.143",
+        "title": "Pseudouridine in a new era of RNA modifications",
+        "journal": "Cell Research",
+        "year": 2014,
+        "citations": 97,
+        "authors": "Boxuan Zhao, Chuan He",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Chuan He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/cr2014143.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.apsusc.2021.150192",
+        "title": "A facile method for constructing a superhydrophobic zinc coating on a steel surface with anti-corrosion and drag-reduction properties",
+        "journal": "Applied Surface Science",
+        "year": 2021,
+        "citations": 88,
+        "authors": "Xuesen Lv, Yao Qin, Hang Liang et al.",
+        "authors_list": [
+            "Xuesen Lv",
+            "Yao Qin",
+            "Hang Liang",
+            "Boxuan Zhao",
+            "Yan He",
+            "Xuemin Cui"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/cr.2015.5",
+        "title": "Base-resolution maps of 5-formylcytosine and 5-carboxylcytosine reveal genome-wide DNA demethylation dynamics",
+        "journal": "Cell Research",
+        "year": 2015,
+        "citations": 87,
+        "authors": "Xingyu Lu, Dali Han, Boxuan Zhao et al.",
+        "authors_list": [
+            "Xingyu Lu",
+            "Dali Han",
+            "Boxuan Zhao",
+            "Chun‐Xiao Song",
+            "Li-Sheng Zhang",
+            "Louis C. Doré",
+            "Chuan He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/cr20155.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1101/gr.212563.116",
+        "title": "Evolution of transcript modification by <i>N</i><sup>6</sup>-methyladenosine in primates",
+        "journal": "Genome Research",
+        "year": 2017,
+        "citations": 75,
+        "authors": "Lijia Ma, Boxuan Zhao, Kai Chen et al.",
+        "authors_list": [
+            "Lijia Ma",
+            "Boxuan Zhao",
+            "Kai Chen",
+            "Amber Thomas",
+            "Jigyasa H. Tuteja",
+            "Xin He",
+            "Chuan He",
+            "Kevin P. White"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 51
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://genome.cshlp.org/content/27/3/385.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1523/jneurosci.11-04-00918.1991",
+        "title": "Cloning and expression of an Aplysia K+ channel and comparison with native Aplysia K+ currents",
+        "journal": "Journal of Neuroscience",
+        "year": 1991,
+        "citations": 67,
+        "authors": "PJ Pfaffinger, Yasuo Furukawa, Boxuan Zhao et al.",
+        "authors_list": [
+            "PJ Pfaffinger",
+            "Yasuo Furukawa",
+            "Boxuan Zhao",
+            "Deborah Dugan",
+            "ER Kandel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.jneurosci.org/content/jneuro/11/4/918.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41556-018-0102-7",
+        "title": "Author Correction: Recognition of RNA N6-methyladenosine by IGF2BP proteins enhances mRNA stability and translation",
+        "journal": "Nature Cell Biology",
+        "year": 2018,
+        "citations": 61,
+        "authors": "Huilin Huang, Hengyou Weng, Wenju Sun et al.",
+        "authors_list": [
+            "Huilin Huang",
+            "Hengyou Weng",
+            "Wenju Sun",
+            "Xi Qin",
+            "Hailing Shi",
+            "Huizhe Wu",
+            "Boxuan Zhao",
+            "Ana Mesquita",
+            "Chang Liu",
+            "Celvie L. Yuan",
+            "Yueh‐Chiang Hu",
+            "Stefan Hüttelmaier",
+            "Jennifer R. Skibbe",
+            "Rui Su",
+            "Xiaolan Deng",
+            "Lei Dong",
+            "Miao Sun",
+            "Chenying Li",
+            "Sigrid Nachtergaele",
+            "Yungui Wang",
+            "Chao Hu",
+            "Kyle Ferchen",
+            "Kenneth D. Greis",
+            "Xi Jiang",
+            "Minjie Wei",
+            "Liang‐Hu Qu",
+            "Jun‐Lin Guan",
+            "Chuan He",
+            "Jianhua Yang",
+            "Jianjun Chen"
+        ],
+        "type": "erratum",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41556-018-0102-7.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja1071114",
+        "title": "A Highly Selective Fluorescent Probe for Visualization of Organic Hydroperoxides in Living Cells",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2010,
+        "citations": 60,
+        "authors": "Boxuan Zhao, Yujie Liang, Yanqun Song et al.",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Yujie Liang",
+            "Yanqun Song",
+            "Chunhong Zheng",
+            "Ziyang Hao",
+            "Peng R. Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 56
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10845-015-1091-z",
+        "title": "Two-generation Pareto ant colony algorithm for multi-objective job shop scheduling problem with alternative process plans and unrelated parallel machines",
+        "journal": "Journal of Intelligent Manufacturing",
+        "year": 2015,
+        "citations": 58,
+        "authors": "Boxuan Zhao, Jianmin Gao, Kun Chen et al.",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Jianmin Gao",
+            "Kun Chen",
+            "Ke Guo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-025-57221-x",
+        "title": "Observation of metal-organic interphase in Cu-based electrochemical CO2-to-ethanol conversion",
+        "journal": "Nature Communications",
+        "year": 2025,
+        "citations": 57,
+        "authors": "Yan Shen, Nan Fang, Xinru Liu et al.",
+        "authors_list": [
+            "Yan Shen",
+            "Nan Fang",
+            "Xinru Liu",
+            "Ling Yu",
+            "Yu‐Ming Su",
+            "Tian Tan",
+            "Feng Chen",
+            "He Lin",
+            "Boxuan Zhao",
+            "Jin Wang",
+            "Duan‐Hui Si",
+            "Shunji Xie",
+            "Ye Wang",
+            "Da Zhou",
+            "Teng Zhang",
+            "Rong Cao",
+            "Cheng Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-025-57221-x.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41556-020-00580-y",
+        "title": "Publisher Correction: Recognition of RNA N6-methyladenosine by IGF2BP proteins enhances mRNA stability and translation",
+        "journal": "Nature Cell Biology",
+        "year": 2020,
+        "citations": 52,
+        "authors": "Huilin Huang, Hengyou Weng, Wenju Sun et al.",
+        "authors_list": [
+            "Huilin Huang",
+            "Hengyou Weng",
+            "Wenju Sun",
+            "Xi Qin",
+            "Hailing Shi",
+            "Huizhe Wu",
+            "Boxuan Zhao",
+            "Ana Mesquita",
+            "Chang Liu",
+            "Celvie L. Yuan",
+            "Yueh‐Chiang Hu",
+            "Stefan Hüttelmaier",
+            "Jennifer R. Skibbe",
+            "Rui Su",
+            "Xiaolan Deng",
+            "Lei Dong",
+            "Miao Sun",
+            "Chenying Li",
+            "Sigrid Nachtergaele",
+            "Yungui Wang",
+            "Chao Hu",
+            "Kyle Ferchen",
+            "Kenneth D. Greis",
+            "Xi Jiang",
+            "Minjie Wei",
+            "Liang‐Hu Qu",
+            "Jun‐Lin Guan",
+            "Chuan He",
+            "Jianhua Yang",
+            "Jianjun Chen"
+        ],
+        "type": "erratum",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41556-020-00580-y.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1261/rna.064295.117",
+        "title": "Our views of dynamic <i>N</i><sup>6</sup>-methyladenosine RNA methylation",
+        "journal": "RNA",
+        "year": 2017,
+        "citations": 50,
+        "authors": "Boxuan Zhao, Sigrid Nachtergaele, Ian A. Roundtree et al.",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Sigrid Nachtergaele",
+            "Ian A. Roundtree",
+            "Chuan He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://rnajournal.cshlp.org/content/24/3/268.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1523/jneurosci.16-01-00001.1996",
+        "title": "A strongly inwardly rectifying K+ channel that is sensitive to ATP",
+        "journal": "Journal of Neuroscience",
+        "year": 1996,
+        "citations": 47,
+        "authors": "Anthony Collins, MS German, YN Jan et al.",
+        "authors_list": [
+            "Anthony Collins",
+            "MS German",
+            "YN Jan",
+            "Lily Yeh Jan",
+            "Boxuan Zhao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.jneurosci.org/content/jneuro/16/1/1.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s11633-020-1258-8",
+        "title": "A Comprehensive Review of Group Activity Recognition in Videos",
+        "journal": "Machine Intelligence Research",
+        "year": 2021,
+        "citations": 47,
+        "authors": "Lifang Wu, Qi Wang, Meng Jian et al.",
+        "authors_list": [
+            "Lifang Wu",
+            "Qi Wang",
+            "Meng Jian",
+            "Yu Qiao",
+            "Boxuan Zhao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/s11633-020-1258-8.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1101/gr.233775.117",
+        "title": "Long genes linked to autism spectrum disorders harbor broad enhancer-like chromatin domains",
+        "journal": "Genome Research",
+        "year": 2018,
+        "citations": 40,
+        "authors": "Ying-Tao Zhao, Deborah Y. Kwon, Brian S. Johnson et al.",
+        "authors_list": [
+            "Ying-Tao Zhao",
+            "Deborah Y. Kwon",
+            "Brian S. Johnson",
+            "Maria Fasolino",
+            "Janine M. Lamonica",
+            "Yoon Jung Kim",
+            "Boxuan Zhao",
+            "Chuan He",
+            "Golnaz Vahedi",
+            "Tae Hoon Kim",
+            "Zhaolan Zhou"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 40,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://genome.cshlp.org/content/28/7/933.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.neucom.2020.07.003",
+        "title": "Fusing motion patterns and key visual information for semantic event recognition in basketball videos",
+        "journal": "Neurocomputing",
+        "year": 2020,
+        "citations": 39,
+        "authors": "Lifang Wu, Zhou Yang, Qi Wang et al.",
+        "authors_list": [
+            "Lifang Wu",
+            "Zhou Yang",
+            "Qi Wang",
+            "Meng Jian",
+            "Boxuan Zhao",
+            "Junchi Yan",
+            "Chang Wen Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 39,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/srep29565",
+        "title": "Quantifying mammalian genomic DNA hydroxymethylcytosine content using solid-state nanopores",
+        "journal": "Scientific Reports",
+        "year": 2016,
+        "citations": 38,
+        "authors": "Osama K. Zahid, Boxuan Zhao, Chuan He et al.",
+        "authors_list": [
+            "Osama K. Zahid",
+            "Boxuan Zhao",
+            "Chuan He",
+            "Adam R. Hall"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 38,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/srep29565.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41580-018-0075-1",
+        "title": "Publisher Correction: Post-transcriptional gene regulation by mRNA modifications",
+        "journal": "Nature Reviews Molecular Cell Biology",
+        "year": 2018,
+        "citations": 33,
+        "authors": "Boxuan Zhao, Ian A. Roundtree, Chuan He",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Ian A. Roundtree",
+            "Chuan He"
+        ],
+        "type": "erratum",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 33,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41580-018-0075-1.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.molcel.2017.09.004",
+        "title": "“Gamete On” for m6A: YTHDF2 Exerts Essential Functions in Female Fertility",
+        "journal": "Molecular Cell",
+        "year": 2017,
+        "citations": 29,
+        "authors": "Boxuan Zhao, Chuan He",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Chuan He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 29,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/su14095303",
+        "title": "Multi-Scenario Simulation and Prediction of Regional Habitat Quality Based on a System Dynamic and Patch-Generating Land-Use Simulation Coupling Model—A Case Study of Jilin Province",
+        "journal": "Sustainability",
+        "year": 2022,
+        "citations": 24,
+        "authors": "Boxuan Zhao, Shujie Li, Zhaoshun Liu",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Shujie Li",
+            "Zhaoshun Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/2071-1050/14/9/5303/pdf?version=1651118861"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ange.201203684",
+        "title": "A Selective Fluorescent Probe for Carbon Monoxide Imaging in Living Cells",
+        "journal": "Angewandte Chemie",
+        "year": 2012,
+        "citations": 23,
+        "authors": "Jing Wang, Jason Karpus, Boxuan Zhao et al.",
+        "authors_list": [
+            "Jing Wang",
+            "Jason Karpus",
+            "Boxuan Zhao",
+            "Zheng Luo",
+            "Peng R. Chen",
+            "Chuan He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 23,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jacs.9b12707",
+        "title": "DNA 5-Methylcytosine-Specific Amplification and Sequencing",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2020,
+        "citations": 19,
+        "authors": "Chang Liu, Xiaolong Cui, Boxuan Zhao et al.",
+        "authors_list": [
+            "Chang Liu",
+            "Xiaolong Cui",
+            "Boxuan Zhao",
+            "Pradnya Narkhede",
+            "Yawei Gao",
+            "Jun Liu",
+            "Xiaoyang Dou",
+            "Qing Dai",
+            "Li-Sheng Zhang",
+            "Chuan He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 19,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/7216556"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1115/detc2012-71266",
+        "title": "Instruction Generation for Assembly Operations Performed by Humans",
+        "journal": "",
+        "year": 2012,
+        "citations": 14,
+        "authors": "Krishnanand N. Kaipa, Carlos Morato, Boxuan Zhao et al.",
+        "authors_list": [
+            "Krishnanand N. Kaipa",
+            "Carlos Morato",
+            "Boxuan Zhao",
+            "Satyandra K. Gupta"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 14,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1101/2020.02.27.968297",
+        "title": "RNA-protein interaction mapping via MS2 or Cas13-based APEX targeting",
+        "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "year": 2020,
+        "citations": 13,
+        "authors": "Shuo Han, Boxuan Zhao, Samuel A. Myers et al.",
+        "authors_list": [
+            "Shuo Han",
+            "Boxuan Zhao",
+            "Samuel A. Myers",
+            "Steven A. Carr",
+            "Chuan He",
+            "Alice Y. Ting"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 13,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.biorxiv.org/content/biorxiv/early/2020/02/28/2020.02.27.968297.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.7150/ijbs.63305",
+        "title": "The Hippo pathway: a renewed insight in the craniofacial diseases and hard tissue remodeling",
+        "journal": "International Journal of Biological Sciences",
+        "year": 2021,
+        "citations": 11,
+        "authors": "Jun Chen, Jingyi Cheng, Cong Zhao et al.",
+        "authors_list": [
+            "Jun Chen",
+            "Jingyi Cheng",
+            "Cong Zhao",
+            "Boxuan Zhao",
+            "Jia Mi",
+            "Wenjie Li"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 11,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ijbs.com/v17p4060.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/en10122055",
+        "title": "A Security Level Classification Method for Power Systems under N-1 Contingency",
+        "journal": "Energies",
+        "year": 2017,
+        "citations": 11,
+        "authors": "Zhigang Lu, Liangce He, Dan Zhang et al.",
+        "authors_list": [
+            "Zhigang Lu",
+            "Liangce He",
+            "Dan Zhang",
+            "Boxuan Zhao",
+            "Jiangfeng Zhang",
+            "Hao Zhao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 11,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/1996-1073/10/12/2055/pdf?version=1512465573"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1609/aaai.v37i3.25467",
+        "title": "RLogist: Fast Observation Strategy on Whole-Slide Images with Deep Reinforcement Learning",
+        "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "year": 2023,
+        "citations": 10,
+        "authors": "Boxuan Zhao, Jun Zhang, Deheng Ye et al.",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Jun Zhang",
+            "Deheng Ye",
+            "Jian Cao",
+            "Xiao Han",
+            "Qiang Fu",
+            "Wei Yang"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 10,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ojs.aaai.org/index.php/AAAI/article/download/25467/25239"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1115/detc2013-13351",
+        "title": "Safe Human Robot Interaction by Using Exteroceptive Sensing Based Human Modeling",
+        "journal": "",
+        "year": 2013,
+        "citations": 9,
+        "authors": "Carlos Morato, Krishnanand N. Kaipa, Boxuan Zhao et al.",
+        "authors_list": [
+            "Carlos Morato",
+            "Krishnanand N. Kaipa",
+            "Boxuan Zhao",
+            "Satyandra K. Gupta"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 9,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1101/2023.03.09.531939",
+        "title": "Engineered allostery in light-regulated LOV-Turbo enables precise spatiotemporal control of proximity labeling in living cells",
+        "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "year": 2023,
+        "citations": 8,
+        "authors": "Song-Yi Lee, Joleen S. Cheah, Boxuan Zhao et al.",
+        "authors_list": [
+            "Song-Yi Lee",
+            "Joleen S. Cheah",
+            "Boxuan Zhao",
+            "Charles Xu",
+            "Heegwang Roh",
+            "Christina K. Kim",
+            "Kelvin F. Cho",
+            "Namrata D. Udeshi",
+            "Steven A. Carr",
+            "Alice Y. Ting"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 8,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.biorxiv.org/content/biorxiv/early/2023/03/09/2023.03.09.531939.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1049/iet-gtd.2018.5820",
+        "title": "Security‐level classification based on power system partitioning",
+        "journal": "IET Generation Transmission & Distribution",
+        "year": 2019,
+        "citations": 7,
+        "authors": "Zhigang Lu, Boxuan Zhao, Liangce He et al.",
+        "authors_list": [
+            "Zhigang Lu",
+            "Boxuan Zhao",
+            "Liangce He",
+            "Dan Zhang",
+            "Jiangfeng Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 7,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/services48979.2020.00044",
+        "title": "An Agent Based Simulation System for Open Source Software Development",
+        "journal": "",
+        "year": 2020,
+        "citations": 7,
+        "authors": "Boxuan Zhao, Jian Cao, Sha Jiang et al.",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Jian Cao",
+            "Sha Jiang",
+            "Qing Qi"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 7,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.7554/elife.31482",
+        "title": "Correction: N6-methyladenosine of HIV-1 RNA regulates viral infection and HIV-1 Gag protein expression",
+        "journal": "eLife",
+        "year": 2017,
+        "citations": 6,
+        "authors": "Nagaraja Tirumuru, Boxuan Zhao, Wuxun Lu et al.",
+        "authors_list": [
+            "Nagaraja Tirumuru",
+            "Boxuan Zhao",
+            "Wuxun Lu",
+            "Zhike Lu",
+            "Chuan He",
+            "Li Wu"
+        ],
+        "type": "erratum",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 6,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.7554/elife.31482"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.memsci.2025.124943",
+        "title": "Hydrogen-bonded network enabling ultrathin coating for post-combustion carbon capture",
+        "journal": "Journal of Membrane Science",
+        "year": 2025,
+        "citations": 5,
+        "authors": "Guangtai Zheng, Boxuan Zhao, Ji Wu et al.",
+        "authors_list": [
+            "Guangtai Zheng",
+            "Boxuan Zhao",
+            "Ji Wu",
+            "Shipeng Sun",
+            "Sui Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 5,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.xcrp.2023.101362",
+        "title": "Photochlorination of linear alkanes with 2-position selectivity using a metal-organic layer catalyst",
+        "journal": "Cell Reports Physical Science",
+        "year": 2023,
+        "citations": 5,
+        "authors": "Huihui Hu, Yuming Su, Xiaoqi Cui et al.",
+        "authors_list": [
+            "Huihui Hu",
+            "Yuming Su",
+            "Xiaoqi Cui",
+            "Boxuan Zhao",
+            "Jiawei Chen",
+            "Suyang Chen",
+            "Manting Chen",
+            "Haohua Huo",
+            "Cheng Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 5,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.xcrp.2023.101362"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.seppur.2025.132358",
+        "title": "Coating and thermal polymerization of polyethylene oxide-based polymers on hollow fiber membranes for post-combustion CO2 capture",
+        "journal": "Separation and Purification Technology",
+        "year": 2025,
+        "citations": 5,
+        "authors": "Boxuan Zhao, Canzeng Liang, Wenxuan Wang et al.",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Canzeng Liang",
+            "Wenxuan Wang",
+            "Shengli Li",
+            "Sui Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 5,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adom.202300364",
+        "title": "Multicolor Patterning Inside a Metal‐Organic Framework",
+        "journal": "Advanced Optical Materials",
+        "year": 2023,
+        "citations": 5,
+        "authors": "Yusheng Zhang, Yuming Su, Xiaolin Fan et al.",
+        "authors_list": [
+            "Yusheng Zhang",
+            "Yuming Su",
+            "Xiaolin Fan",
+            "Boxuan Zhao",
+            "Xin Hua",
+            "Bingling Dai",
+            "Cheng Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 5,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adom.202300364"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c3ib40209f",
+        "title": "Probing subcellular organic hydroperoxide formation via a genetically encoded ratiometric and reversible fluorescent indicator",
+        "journal": "Integrative Biology",
+        "year": 2013,
+        "citations": 5,
+        "authors": "Boxuan Zhao, Gong Zhang, Shizhe Zeng et al.",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Gong Zhang",
+            "Shizhe Zeng",
+            "Chuan He",
+            "Peng R. Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 5,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.48550/arxiv.2007.06288",
+        "title": "Fusing Motion Patterns and Key Visual Information for Semantic Event Recognition in Basketball Videos",
+        "journal": "arXiv (Cornell University)",
+        "year": 2020,
+        "citations": 5,
+        "authors": "Lifang Wu, Zhou Yang, Qi Wang et al.",
+        "authors_list": [
+            "Lifang Wu",
+            "Zhou Yang",
+            "Qi Wang",
+            "Meng Jian",
+            "Boxuan Zhao",
+            "Junchi Yan",
+            "Chang Wen Chen"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 5,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icqr2mse.2011.5976589",
+        "title": "Research on life of machine accuracy and precision reliability assessment concerning about a turn-milling combined machine tool",
+        "journal": "",
+        "year": 2011,
+        "citations": 4,
+        "authors": "Boxuan Zhao, Peiling Yang, Kun Chen et al.",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Peiling Yang",
+            "Kun Chen",
+            "Jianmin Gao"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 4,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsaenm.3c00287",
+        "title": "Supported Fe Ions on Different Zr-Based Metal–Organic Frameworks for Alkane Oxidation",
+        "journal": "ACS Applied Engineering Materials",
+        "year": 2023,
+        "citations": 4,
+        "authors": "Ting Tang, Yiheng Dai, Jiaxing Liu et al.",
+        "authors_list": [
+            "Ting Tang",
+            "Yiheng Dai",
+            "Jiaxing Liu",
+            "Jiawei Chen",
+            "Bingling Dai",
+            "Boxuan Zhao",
+            "Cheng Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 4,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3901/jme.2014.07.136",
+        "title": "A Motion Planning Based on Selective Disassembly Sequence Planning Method",
+        "journal": "Journal of Mechanical Engineering",
+        "year": 2014,
+        "citations": 4,
+        "authors": "Boxuan Zhao",
+        "authors_list": [
+            "Boxuan Zhao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 4,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-030-90888-1_8",
+        "title": "XTuning: Expert Database Tuning System Based on Reinforcement Learning",
+        "journal": "Lecture notes in computer science",
+        "year": 2021,
+        "citations": 3,
+        "authors": "Yanfeng Chai, Jiake Ge, Yunpeng Chai et al.",
+        "authors_list": [
+            "Yanfeng Chai",
+            "Jiake Ge",
+            "Yunpeng Chai",
+            "Xin Wang",
+            "Boxuan Zhao"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c3cc44534h",
+        "title": "A highly sensitive and genetically encoded fluorescent reporter for ratiometric monitoring of quinones in living cells",
+        "journal": "Chemical Communications",
+        "year": 2013,
+        "citations": 3,
+        "authors": "Quanjiang Ji, Boxuan Zhao, Chuan He",
+        "authors_list": [
+            "Quanjiang Ji",
+            "Boxuan Zhao",
+            "Chuan He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/4007278"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3474085.3475556",
+        "title": "GLM-Net",
+        "journal": "",
+        "year": 2021,
+        "citations": 3,
+        "authors": "Yuchen Yang, Ye Xiang, Shuaicheng Liu et al.",
+        "authors_list": [
+            "Yuchen Yang",
+            "Ye Xiang",
+            "Shuaicheng Liu",
+            "Lifang Wu",
+            "Boxuan Zhao",
+            "Bing Zeng"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41592-026-03026-9",
+        "title": "Connectome-seq: high-throughput mapping of neuronal connectivity at single-synapse resolution via barcode sequencing",
+        "journal": "Nature Methods",
+        "year": 2026,
+        "citations": 3,
+        "authors": "Danping Chen, Alina Isakova, Zhou Wan et al.",
+        "authors_list": [
+            "Danping Chen",
+            "Alina Isakova",
+            "Zhou Wan",
+            "Mark J. Wagner",
+            "Yunming Wu",
+            "Boxuan Zhao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/molecules30051077",
+        "title": "Formation and Chemical Structure of Carbon-13 Tracer Lignin-Carbohydrate Complexes (LCCs) During Kraft Pulping",
+        "journal": "Molecules",
+        "year": 2025,
+        "citations": 3,
+        "authors": "Zhi Wang, Yimin Xie, Boxuan Zhao",
+        "authors_list": [
+            "Zhi Wang",
+            "Yimin Xie",
+            "Boxuan Zhao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/1420-3049/30/5/1077/pdf?version=1740583256"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/s22134971",
+        "title": "Improved Dual Attention for Anchor-Free Object Detection",
+        "journal": "Sensors",
+        "year": 2022,
+        "citations": 3,
+        "authors": "Xiang Ye, Boxuan Zhao, Zhao Kuan et al.",
+        "authors_list": [
+            "Xiang Ye",
+            "Boxuan Zhao",
+            "Zhao Kuan",
+            "Lifang Wu",
+            "Xiangdong Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/1424-8220/22/13/4971/pdf?version=1656899110"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ifacol.2015.06.286",
+        "title": "Workload control-related Workload Route Decision",
+        "journal": "IFAC-PapersOnLine",
+        "year": 2015,
+        "citations": 2,
+        "authors": "Boxuan Zhao, Jianmin Gao, Kun Chen et al.",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Jianmin Gao",
+            "Kun Chen",
+            "Aimin Xu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.ifacol.2015.06.286"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ijch.202400014",
+        "title": "Unraveling the RNA Tapestry: A Symphony of Innovations in m<sup>6</sup>A Research Technology",
+        "journal": "Israel Journal of Chemistry",
+        "year": 2024,
+        "citations": 2,
+        "authors": "Shengyi Fei, Zheng Fang, Boxuan Zhao",
+        "authors_list": [
+            "Shengyi Fei",
+            "Zheng Fang",
+            "Boxuan Zhao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijch.202400014"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.jchemed.3c01337",
+        "title": "Microwave-Assisted Synthesis of Solvatochromic Dye and Analysis of Solvent Polarity in Undergraduate Organic Chemistry Laboratory",
+        "journal": "Journal of Chemical Education",
+        "year": 2024,
+        "citations": 2,
+        "authors": "Si-Man Cheng, Yu-Shan Ruan, Boxuan Zhao et al.",
+        "authors_list": [
+            "Si-Man Cheng",
+            "Yu-Shan Ruan",
+            "Boxuan Zhao",
+            "Heng-Yu Shi",
+            "Xin Liao",
+            "Jin‐Mei Zhou",
+            "Li-Rong Lin",
+            "Hui‐Jun Zhang",
+            "Jin-Li Zheng",
+            "Yonghong Ruan",
+            "Ailin Wei"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icpet59380.2023.10367634",
+        "title": "Research on Optimizing the Configuration of Condenser in the Power Grid with Large Scale Renewable Energy",
+        "journal": "",
+        "year": 2023,
+        "citations": 2,
+        "authors": "Wei Zhao, Yan Pan, Ye Dong et al.",
+        "authors_list": [
+            "Wei Zhao",
+            "Yan Pan",
+            "Ye Dong",
+            "Wenchao Zhang",
+            "Xueqing Dong",
+            "Boxuan Zhao"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1182/blood.v128.22.1536.1536",
+        "title": "The N6-Adenine Methyltransferase METTL14 Plays an Oncogenic Role in Acute Myeloid Leukemia",
+        "journal": "Blood",
+        "year": 2016,
+        "citations": 2,
+        "authors": "Huilin Huang, Hengyou Weng, Xi Qin et al.",
+        "authors_list": [
+            "Huilin Huang",
+            "Hengyou Weng",
+            "Xi Qin",
+            "Boxuan Zhao",
+            "Lou Dore",
+            "Jennifer Strong",
+            "Rui Su",
+            "Kyle Ferchen",
+            "Chenying Li",
+            "Lei Dong",
+            "Xi Jiang",
+            "Chuan He",
+            "Jianjun Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1504/ijise.2022.123573",
+        "title": "A multi-strategy integration Pareto-based artificial colony algorithm for multi-objective flexible job shop scheduling problem with the earliness and tardiness criterion",
+        "journal": "International Journal of Industrial and Systems Engineering",
+        "year": 2022,
+        "citations": 2,
+        "authors": "Boxuan Zhao, Jiao Zhao, Yulei Gu et al.",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Jiao Zhao",
+            "Yulei Gu",
+            "Jingshuai Yang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.7554/elife.15528.021",
+        "title": "Author response: N6-methyladenosine of HIV-1 RNA regulates viral infection and HIV-1 Gag protein expression",
+        "journal": "",
+        "year": 2016,
+        "citations": 2,
+        "authors": "Nagaraja Tirumuru, Boxuan Zhao, Wuxun Lu et al.",
+        "authors_list": [
+            "Nagaraja Tirumuru",
+            "Boxuan Zhao",
+            "Wuxun Lu",
+            "Zhike Lu",
+            "Chuan He",
+            "Li Wu"
+        ],
+        "type": "peer-review",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.7554/elife.15528.021"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/imcec55388.2022.10020067",
+        "title": "The study of molecular ratio trend prediction of electrolytic tank based on deep learning",
+        "journal": "2022 IEEE 5th Advanced Information Management, Communicates, Electronic and Automation Control Conference (IMCEC)",
+        "year": 2022,
+        "citations": 2,
+        "authors": "ManShan Lin, Boxuan Zhao",
+        "authors_list": [
+            "ManShan Lin",
+            "Boxuan Zhao"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.53388/tmr20220411002",
+        "title": "A network pharmacology approach to explore the mechanism of action of Yiqi Fumai lyophilized injection in the treatment of novel coronavirus disease",
+        "journal": "Traditional Medicine Research",
+        "year": 2022,
+        "citations": 1,
+        "authors": "Yan Zhou, Lei Fan, Du-Hong Xie et al.",
+        "authors_list": [
+            "Yan Zhou",
+            "Lei Fan",
+            "Du-Hong Xie",
+            "Xiaoying Han",
+            "Boxuan Zhao",
+            "Yi Zhang",
+            "De‐Kun Li",
+            "Aichun Ju",
+            "Haixia Ji",
+            "Ou Qiao",
+            "Xinyu Zhang",
+            "Wenzhe Wang",
+            "Changxiao Liu",
+            "Wenyuan Gao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.53388/tmr20220411002"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1101/2025.02.13.638129",
+        "title": "Connectome-seq: High-throughput Mapping of Neuronal Connectivity at Single-Synapse Resolution via Barcode Sequencing",
+        "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "year": 2025,
+        "citations": 1,
+        "authors": "Danping Chen, Alina Isakova, Zhou Wan et al.",
+        "authors_list": [
+            "Danping Chen",
+            "Alina Isakova",
+            "Zhou Wan",
+            "Mark J. Wagner",
+            "Yunming Wu",
+            "Boxuan Zhao"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.biorxiv.org/content/biorxiv/early/2025/02/14/2025.02.13.638129.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.53388/dct2022017",
+        "title": "Progress in the study of antiplatelet and antithrombotic effects of salvia polyphenolic acid for injection",
+        "journal": "Drug Combination Therapy",
+        "year": 2022,
+        "citations": 1,
+        "authors": "Lei Fan, DuHong Xie, Yan Zhou et al.",
+        "authors_list": [
+            "Lei Fan",
+            "DuHong Xie",
+            "Yan Zhou",
+            "Boxuan Zhao",
+            "Xiaoying Han",
+            "DeKun Li",
+            "Aichun Ju",
+            "Xinyu Zhang",
+            "WenZhe Wang",
+            "Changxiao Liu",
+            "Wenyuan Gao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.53388/dct2022017"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.6082/kcj9y-vf430",
+        "title": "The Exuberant Vine of Epitranscriptome: RNA Methylation as a New Epigenetic Regulatory Mechanism",
+        "journal": "Knowledge@UChicago (University of Chicago)",
+        "year": 2017,
+        "citations": 1,
+        "authors": "Boxuan Zhao",
+        "authors_list": [
+            "Boxuan Zhao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4049/jimmunol.204.supp.249.4",
+        "title": "<i>N</i>6-methyladenosine modification enables viral RNA to escape recognition by RNA sensor RIG-I",
+        "journal": "The Journal of Immunology",
+        "year": 2020,
+        "citations": 1,
+        "authors": "Mijia Lu, Zijie Zhang, Miaoge Xue et al.",
+        "authors_list": [
+            "Mijia Lu",
+            "Zijie Zhang",
+            "Miaoge Xue",
+            "Boxuan Zhao",
+            "Olivia Harder",
+            "Anzhong Li",
+            "Xueya Liang",
+            "Thomas Z. Gao",
+            "Zongdi Feng",
+            "Stefan Niewiesk",
+            "Mark E. Peeples",
+            "Chuan He",
+            "Jiànróng Lǐ"
+        ],
+        "type": "conference-abstract",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.56028/aemr.5.1.88.2023",
+        "title": "Understanding the evolution of green ecology theory and future trends in urban development",
+        "journal": "Advances in Economics and Management Research",
+        "year": 2023,
+        "citations": 1,
+        "authors": "Boxuan Zhao, Tongyu Sun",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Tongyu Sun"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://madison-proceedings.com/index.php/aemr/article/download/999/997"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/memsys.2018.8346576",
+        "title": "Seeing on the surface of Eyeballs: Non-invasive visual substitution with the electro-tactile device on cornea",
+        "journal": "",
+        "year": 2018,
+        "citations": 1,
+        "authors": "Yushi Zhang, Yao Chen, Boxuan Zhao et al.",
+        "authors_list": [
+            "Yushi Zhang",
+            "Yao Chen",
+            "Boxuan Zhao",
+            "Yuntao Hu",
+            "Zhihong Li"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acschembio.3c00557",
+        "title": "Opening New Avenues in Bioorganic Chemistry: Prof. Chuan He Receives the Tetrahedron Prize",
+        "journal": "ACS Chemical Biology",
+        "year": 2023,
+        "citations": 1,
+        "authors": "Boxuan Zhao, Peng R. Chen",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Peng R. Chen"
+        ],
+        "type": "other",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ajpath.2025.10.011",
+        "title": "Nonalcoholic Steatohepatitis Exacerbates Inflammatory Bone Destruction and Macrophage NLR Family Pyrin Domain-Containing 3 Inflammasome Activation in Ligature-Induced Periodontitis",
+        "journal": "American Journal Of Pathology",
+        "year": 2025,
+        "citations": 1,
+        "authors": "Zijun Wang, Xiaoyue Sun, ZhaoJun Chen et al.",
+        "authors_list": [
+            "Zijun Wang",
+            "Xiaoyue Sun",
+            "ZhaoJun Chen",
+            "Jingjing Yu",
+            "Qing Nie",
+            "Zihan Ma",
+            "Shuhui Zhou",
+            "Ting Li",
+            "Hantao Yao",
+            "Boxuan Zhao",
+            "Yaoting Ji",
+            "Li Wang",
+            "Minquan Du",
+            "Lingxin Zhu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.53388/pr202202014",
+        "title": "Research progress on pharmacological action and mechanism of injection Yiqi Fumai lyophilized injection in treating cardiomyopathy",
+        "journal": "TMR Pharmacology Research",
+        "year": 2022,
+        "citations": 0,
+        "authors": "DuHong Xie, Boxuan Zhao, Lei Fan et al.",
+        "authors_list": [
+            "DuHong Xie",
+            "Boxuan Zhao",
+            "Lei Fan",
+            "Xiaoying Han",
+            "Yan Zhou",
+            "DeKun Li",
+            "Aichun Ju",
+            "Xinyu Zhang",
+            "WenZhe Wang",
+            "Changxiao Liu",
+            "Wenyuan Gao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.53388/pr202202014"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.6082/ypxv7-wn863",
+        "title": "Method for highly sensitive DNA methylation analysis",
+        "journal": "University of Chicago",
+        "year": 2018,
+        "citations": 0,
+        "authors": "Chuan He, Boxuan Zhao, Pradnya Narkhede et al.",
+        "authors_list": [
+            "Chuan He",
+            "Boxuan Zhao",
+            "Pradnya Narkhede",
+            "Chang Liu",
+            "Xiaolong Cui"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1504/ijise.2020.10032843",
+        "title": "A multi-strategy integration Pareto based artificial colony algorithm for multi-objective flexible job shop scheduling problem with the earliness &amp; tardiness criterion",
+        "journal": "International Journal of Industrial and Systems Engineering",
+        "year": 2020,
+        "citations": 0,
+        "authors": "Jiao Zhao, Boxuan Zhao, Yulei Gu et al.",
+        "authors_list": [
+            "Jiao Zhao",
+            "Boxuan Zhao",
+            "Yulei Gu",
+            "Jingshuai Yang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.16288/j.yczz.25-069",
+        "title": "Typological and ancient DNA evidences reveal the influence of Ming dynasty migration on the Shengjizui population in Bishan, Chongqing.",
+        "journal": "PubMed",
+        "year": 2025,
+        "citations": 0,
+        "authors": "Boxuan Zhao, Lei Gao, Ziqing Lin et al.",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Lei Gao",
+            "Ziqing Lin",
+            "Yuanyuan Shen",
+            "Jianxue Xiong",
+            "Wei Huang",
+            "Dadi Li",
+            "Panxin Du",
+            "Shaoqing Wen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icpet55165.2022.9918318",
+        "title": "A Voltage Stability Research of Connecting Wind Farms to the Receive-side Grid Based on Torque Slip Curves",
+        "journal": "2022 4th International Conference on Power and Energy Technology (ICPET)",
+        "year": 2022,
+        "citations": 0,
+        "authors": "Wenchao Zhang, Xiwen Cui, Boxuan Zhao et al.",
+        "authors_list": [
+            "Wenchao Zhang",
+            "Xiwen Cui",
+            "Boxuan Zhao",
+            "Jian Zhang",
+            "Qin Qin",
+            "Hailei He",
+            "Shang Zhang",
+            "Libo Zhang"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2210/pdb6u5m/pdb",
+        "title": "Discovery and optimization of salicyclic acid-derived sulfonamide inhibitors of the WDR5:MYC protein-protein interaction",
+        "journal": "",
+        "year": 2019,
+        "citations": 0,
+        "authors": "Boxuan Zhao, F. Wang",
+        "authors_list": [
+            "Boxuan Zhao",
+            "F. Wang"
+        ],
+        "type": "dataset",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.fmre.2026.04.001",
+        "title": "Genetic and linguistic landscapes of Gansu-Qinghai populations",
+        "journal": "Fundamental Research",
+        "year": 2026,
+        "citations": 0,
+        "authors": "Haodong Chen, Huangzhen Huang, Boxuan Zhao et al.",
+        "authors_list": [
+            "Haodong Chen",
+            "Huangzhen Huang",
+            "Boxuan Zhao",
+            "Yiling Jiang",
+            "Mengting Xu",
+            "Limin Qiu",
+            "Jin Sun",
+            "Yourong Ye",
+            "Hongbing Yao",
+            "Xinyi Jia",
+            "Kai Sun",
+            "Jiangtao Shen",
+            "Hao Li",
+            "Dan Xu",
+            "Chuan-Chao Wang",
+            "Shaoqing Wen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.fmre.2026.04.001"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/1538-7445.am2014-460",
+        "title": "Abstract 460: Base resolution epigenomic analysis reveals a role for Tet2 in modulating enhancer activity",
+        "journal": "Cancer Research",
+        "year": 2014,
+        "citations": 0,
+        "authors": "Gary C. Hon, Chun‐Xiao Song, Fulai Jin et al.",
+        "authors_list": [
+            "Gary C. Hon",
+            "Chun‐Xiao Song",
+            "Fulai Jin",
+            "Siddarth Selvaraj",
+            "Ah Young Lee",
+            "Chia‐An Yen",
+            "Zhen Ye",
+            "Shi-Qing Mao",
+            "Bang-An Wang",
+            "Samantha Kuan",
+            "Lee Edsall",
+            "Boxuan Zhao",
+            "Guoliang Xu",
+            "Chuan He",
+            "Bing Ren"
+        ],
+        "type": "conference-abstract",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.6084/m9.figshare.22215811",
+        "title": "Dataset for \"Photo-Chlorination of Linear Alkanes with 2-Position Selectivity Using a Metal-Organic Layer Catalyst\"",
+        "journal": "Figshare",
+        "year": 2023,
+        "citations": 0,
+        "authors": "Huihui Hu, Yuming Su, Xiaoqi Cui et al.",
+        "authors_list": [
+            "Huihui Hu",
+            "Yuming Su",
+            "Xiaoqi Cui",
+            "Boxuan Zhao",
+            "Jiawei Chen",
+            "Suyang Chen",
+            "Manting Chen",
+            "Haohua Huo",
+            "Cheng Wang"
+        ],
+        "type": "dataset",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/1538-7445.brain26-pr004",
+        "title": "Abstract PR004: Interactome-seq: A novel technology for mapping neuron-cancer synapses at single-cell resolution",
+        "journal": "Cancer Research",
+        "year": 2026,
+        "citations": 0,
+        "authors": "Boxuan Zhao",
+        "authors_list": [
+            "Boxuan Zhao"
+        ],
+        "type": "conference-abstract",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.48550/arxiv.2212.01737",
+        "title": "RLogist: Fast Observation Strategy on Whole-slide Images with Deep Reinforcement Learning",
+        "journal": "arXiv (Cornell University)",
+        "year": 2022,
+        "citations": 0,
+        "authors": "Boxuan Zhao, Jun Zhang, Deheng Ye et al.",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Jun Zhang",
+            "Deheng Ye",
+            "Jian Cao",
+            "Xiao Han",
+            "Qiang Fu",
+            "Wei Yang"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41598-024-58474-0",
+        "title": "Author Correction: Quantifying mammalian genomic DNA hydroxymethylcytosine content using solid-state nanopores",
+        "journal": "Scientific Reports",
+        "year": 2024,
+        "citations": 0,
+        "authors": "Osama K. Zahid, Boxuan Zhao, Chuan He et al.",
+        "authors_list": [
+            "Osama K. Zahid",
+            "Boxuan Zhao",
+            "Chuan He",
+            "Adam R. Hall"
+        ],
+        "type": "erratum",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41598-024-58474-0.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.15376/biores.20.2.2904-2921",
+        "title": "Preparation of lignin-like polymers by dehydrogenation of lignin precursors and structure-activity relationships of the resulting polymers against live cancer HepG2 cells",
+        "journal": "BioResources",
+        "year": 2025,
+        "citations": 0,
+        "authors": "Boxuan Zhao, Zhijian Li, Zhi Wang et al.",
+        "authors_list": [
+            "Boxuan Zhao",
+            "Zhijian Li",
+            "Zhi Wang",
+            "Yunbo Zhao",
+            "Yimin Xie"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.15376/biores.20.2.2904-2921"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/nrm.2016.132",
+        "title": "Post-transcriptional gene regulation by mRNA modifications",
+        "journal": "Nature Reviews Molecular Cell Biology",
+        "year": 2017,
+        "citations": 2147,
+        "authors": "Boxuan Simen Zhao, Ian A. Roundtree, Chuan He",
+        "authors_list": [
+            "Boxuan Simen Zhao",
+            "Ian A. Roundtree",
+            "Chuan He"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 2147
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/nrm.2016.132.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/s41564-019-0653-9",
+        "title": "N6-methyladenosine modification enables viral RNA to escape recognition by RNA sensor RIG-I",
+        "journal": "Nature Microbiology",
+        "year": null,
+        "citations": 249,
+        "authors": "Mijia Lu, Zijie Zhang, Miaoge Xue et al.",
+        "authors_list": [
+            "Mijia Lu",
+            "Zijie Zhang",
+            "Miaoge Xue",
+            "Boxuan Simen Zhao",
+            "Olivia Harder",
+            "Anzhong Li",
+            "Xueya Liang",
+            "Thomas Z. Gao",
+            "Yunsheng Xu",
+            "Jiyong Zhou",
+            "Zongdi Feng",
+            "Stefan Niewiesk",
+            "Mark E. Peeples",
+            "Chuan He",
+            "Jianrong Li"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 249
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/7137398"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1115/1.4025810",
+        "title": "Toward Safe Human Robot Collaboration by Using Multiple Kinects Based Real-Time Human Tracking",
+        "journal": "Journal of Computing and Information Science in Engineering",
+        "year": 2014,
+        "citations": 149,
+        "authors": "Carlos Morato, Krishnanand N. Kaipa, Boxuan Zhao et al.",
+        "authors_list": [
+            "Carlos Morato",
+            "Krishnanand N. Kaipa",
+            "Boxuan Zhao",
+            "Satyandra K. Gupta"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 149
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/s41467-019-12504-y",
+        "title": "Viral N6-methyladenosine upregulates replication and pathogenesis of human respiratory syncytial virus",
+        "journal": "Nature Communications",
+        "year": null,
+        "citations": 95,
+        "authors": "Miaoge Xue, Boxuan Simen Zhao, Zijie Zhang et al.",
+        "authors_list": [
+            "Miaoge Xue",
+            "Boxuan Simen Zhao",
+            "Zijie Zhang",
+            "Mijia Lu",
+            "Olivia Harder",
+            "Phylip Chen",
+            "Zhike Lu",
+            "Anzhong Li",
+            "Yuanmei Ma",
+            "Yunsheng Xu",
+            "Xueya Liang",
+            "Jiyong Zhou",
+            "Stefan Niewiesk",
+            "Mark E. Peeples",
+            "Chuan He",
+            "Jianrong Li"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 95
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-019-12504-y.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/cr.2014.143",
+        "title": "Pseudouridine in a new era of RNA modifications",
+        "journal": "Cell Research",
+        "year": 2015,
+        "citations": 90,
+        "authors": "Boxuan Simen Zhao, Chuan He",
+        "authors_list": [
+            "Boxuan Simen Zhao",
+            "Chuan He"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 90
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/cr2014143.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/cr.2015.5",
+        "title": "Base-resolution maps of 5-formylcytosine and 5-carboxylcytosine reveal genome-wide DNA demethylation dynamics",
+        "journal": "Cell Research",
+        "year": 2015,
+        "citations": 84,
+        "authors": "Xingyu Lu, Dali Han, Boxuan Simen Zhao et al.",
+        "authors_list": [
+            "Xingyu Lu",
+            "Dali Han",
+            "Boxuan Simen Zhao",
+            "Chun-Xiao Song",
+            "Li-Sheng Zhang",
+            "Louis C Doré",
+            "Chuan He"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 84
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/cr20155.pdf"
+        }
+    }
+]

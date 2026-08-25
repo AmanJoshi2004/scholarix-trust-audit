@@ -1,0 +1,3032 @@
+[
+    {
+        "doi": "https://doi.org/10.1287/orsc.5.2.121",
+        "title": "Capturing the Complexity in Advanced Technology Use: Adaptive Structuration Theory",
+        "journal": "Organization Science",
+        "year": 1994,
+        "citations": 3835,
+        "authors": "Gerardine DeSanctis, Marshall Scott Poole",
+        "authors_list": [
+            "Gerardine DeSanctis",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 3835,
+            "crossref": 2282
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.5465/amr.1995.9508080329",
+        "title": "Explaining Development and Change in Organizations",
+        "journal": "Academy of Management Review",
+        "year": 1995,
+        "citations": 2983,
+        "authors": "Andrew H. Van de Ven, Marshall Scott Poole",
+        "authors_list": [
+            "Andrew H. Van de Ven",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2983,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/258559",
+        "title": "Using Paradox to Build Management and Organization Theories",
+        "journal": "Academy of Management Review",
+        "year": 1989,
+        "citations": 1450,
+        "authors": "Marshall Scott Poole, Andrew H. Van de Ven",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Andrew H. Van de Ven"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1450,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/0170840605056907",
+        "title": "Alternative Approaches for Studying Organizational Change",
+        "journal": "Organization Studies",
+        "year": 2005,
+        "citations": 959,
+        "authors": "Andrew H. Van de Ven, Marshall Scott Poole",
+        "authors_list": [
+            "Andrew H. Van de Ven",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 959,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/2393364",
+        "title": "Research on the Management of Innovation: The Minnesota Studies.",
+        "journal": "Administrative Science Quarterly",
+        "year": 1991,
+        "citations": 832,
+        "authors": "Oscar Hauptman, Nitin Nohria, Andrew H. Van de Ven et al.",
+        "authors_list": [
+            "Oscar Hauptman",
+            "Nitin Nohria",
+            "Andrew H. Van de Ven",
+            "Harold L. Angle",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 832,
+            "crossref": 2
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4135/9781483325385.n8",
+        "title": "Understanding the use of Group Decision Support Systems: The Theory of Adaptive Structuration",
+        "journal": "",
+        "year": 1990,
+        "citations": 658,
+        "authors": "Marshall Scott Poole, Gerardine DeSanctis",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Gerardine DeSanctis"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 658,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1287/orsc.1.3.313",
+        "title": "Methods for Studying Innovation Development in the Minnesota Innovation Research Program",
+        "journal": "Organization Science",
+        "year": 1990,
+        "citations": 539,
+        "authors": "Andrew H. Van de Ven, Marshall Scott Poole",
+        "authors_list": [
+            "Andrew H. Van de Ven",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 539,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/249214",
+        "title": "Using a GDSS to Facilitate Group Consensus: Some Intended and Unintended Consequences",
+        "journal": "MIS Quarterly",
+        "year": 1988,
+        "citations": 473,
+        "authors": "Richard T. Watson, Gerardine DeSanctis, Marshall Scott Poole",
+        "authors_list": [
+            "Richard T. Watson",
+            "Gerardine DeSanctis",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 473,
+            "crossref": 332
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4135/9781452243764",
+        "title": "Communication and Group Decision Making",
+        "journal": "",
+        "year": 1996,
+        "citations": 470,
+        "authors": "Randy Y. Hirokawa, Marshall Scott Poole",
+        "authors_list": [
+            "Randy Y. Hirokawa",
+            "Marshall Scott Poole"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 470,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Organizational Change and Innovation Processes: Theory and Methods for Research",
+        "journal": "RePEc: Research Papers in Economics",
+        "year": 2000,
+        "citations": 465,
+        "authors": "Marshall Scott Poole, Andrew H. Van de Ven, Kevin Dooley et al.",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Andrew H. Van de Ven",
+            "Kevin Dooley",
+            "Michael E. Holmes"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 465,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/oso/9780195131987.001.0001",
+        "title": "Organizational Change and Innovation Processes",
+        "journal": "",
+        "year": 2000,
+        "citations": 389,
+        "authors": "Marshall Scott Poole, Andrew H. Van de Ven, Kevin Dooley et al.",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Andrew H. Van de Ven",
+            "Kevin Dooley",
+            "Michael E. Holmes"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 389,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00335638509383719",
+        "title": "Group decision‐making as a structurational process",
+        "journal": "Quarterly Journal of Speech",
+        "year": 1985,
+        "citations": 349,
+        "authors": "Marshall Scott Poole, David R. Seibold, Robert D. McPhee",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "David R. Seibold",
+            "Robert D. McPhee"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 349,
+            "crossref": 240
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/249136",
+        "title": "A Study of Influence in Computer-Mediated Group Decision Making",
+        "journal": "MIS Quarterly",
+        "year": 1988,
+        "citations": 342,
+        "authors": "Ilze Zigurs, Marshall Scott Poole, Gerardine DeSanctis",
+        "authors_list": [
+            "Ilze Zigurs",
+            "Marshall Scott Poole",
+            "Gerardine DeSanctis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 342,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Working Through Conflict: Strategies for Relationships, Groups, and Organizations",
+        "journal": "Medical Entomology and Zoology",
+        "year": 2000,
+        "citations": 296,
+        "authors": "Joseph P. Folger, Marshall Scott Poole, Randall K. Stutman",
+        "authors_list": [
+            "Joseph P. Folger",
+            "Marshall Scott Poole",
+            "Randall K. Stutman"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 296,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2575.2007.00292.x",
+        "title": "Antecedents of flow in online shopping: a test of alternative models",
+        "journal": "Information Systems Journal",
+        "year": 2008,
+        "citations": 282,
+        "authors": "Yi Guo, Marshall Scott Poole",
+        "authors_list": [
+            "Yi Guo",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 282,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2575.2007.00292.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/1046496403259757",
+        "title": "Time, Change, and Development",
+        "journal": "Small Group Research",
+        "year": 2004,
+        "citations": 241,
+        "authors": "Holly Arrow, Marshall Scott Poole, Kelly Bouas Henry et al.",
+        "authors_list": [
+            "Holly Arrow",
+            "Marshall Scott Poole",
+            "Kelly Bouas Henry",
+            "Susan A. Wheelan",
+            "Richard L. Moreland"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 241,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1287/mnsc.37.8.926",
+        "title": "Conflict Management in a Computer-Supported Meeting Environment",
+        "journal": "Management Science",
+        "year": 1991,
+        "citations": 224,
+        "authors": "Marshall Scott Poole, Michael E. Holmes, Gerardine DeSanctis",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Michael E. Holmes",
+            "Gerardine DeSanctis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 224,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/07421222.2004.11045785",
+        "title": "Interpersonal Traits, Complementarity, and Trust in Virtual Collaboration",
+        "journal": "Journal of Management Information Systems",
+        "year": 2004,
+        "citations": 211,
+        "authors": "H.G. Brown, Marshall Scott Poole, Thomas L. Rodgers",
+        "authors_list": [
+            "H.G. Brown",
+            "Marshall Scott Poole",
+            "Thomas L. Rodgers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 211,
+            "crossref": 137
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10919392.2006.9681199",
+        "title": "What Is Personalization? Perspectives on the Design and Implementation of Personalization in Information Systems",
+        "journal": "Journal of Organizational Computing and Electronic Commerce",
+        "year": 2006,
+        "citations": 202,
+        "authors": "Haiyan Fan, Marshall Scott Poole",
+        "authors_list": [
+            "Haiyan Fan",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 202,
+            "crossref": 130
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/03637758309390173",
+        "title": "Decision development in small groups, III: A multiple sequence model of group decision development",
+        "journal": "Communication Monographs",
+        "year": 1983,
+        "citations": 192,
+        "authors": "Marshall Scott Poole",
+        "authors_list": [
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 192,
+            "crossref": 144
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1468-2958.1989.tb00188.x",
+        "title": "Decision Development in Small Groups IV A Typology of Group Decision Paths",
+        "journal": "Human Communication Research",
+        "year": 1989,
+        "citations": 189,
+        "authors": "Marshall Scott Poole, Jonelle Roth",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Jonelle Roth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 189,
+            "crossref": 140
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1468-2958.2000.tb00769.x",
+        "title": "Do conflict management styles affect group decision making? Evidence from a longitudinal field study",
+        "journal": "Human Communication Research",
+        "year": 2000,
+        "citations": 175,
+        "authors": "Timothy Kuhn, Marshall Scott Poole",
+        "authors_list": [
+            "Timothy Kuhn",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 175,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4018/978-1-59140-144-5.ch013",
+        "title": "Structuration Theory in Information Systems Research",
+        "journal": "IGI Global eBooks",
+        "year": 2011,
+        "citations": 170,
+        "authors": "Marshall Scott Poole, Gerardine DeSanctis",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Gerardine DeSanctis"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 170,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/03637758309390165",
+        "title": "Decision development in small groups II: A study of multiple sequences in decision making<sup>1</sup>",
+        "journal": "Communication Monographs",
+        "year": 1983,
+        "citations": 155,
+        "authors": "Marshall Scott Poole",
+        "authors_list": [
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 155,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1287/isre.3.3.224",
+        "title": "The Effects of Variations in Capabilities of GDSS Designs on Management of Cognitive Conflict in Groups",
+        "journal": "Information Systems Research",
+        "year": 1992,
+        "citations": 147,
+        "authors": "V. Sambamurthy, Marshall Scott Poole",
+        "authors_list": [
+            "V. Sambamurthy",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 147,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "The handbook of group communication theory & research",
+        "journal": "Medical Entomology and Zoology",
+        "year": 1999,
+        "citations": 144,
+        "authors": "Lawrence R. Frey, Dennis S. Gouran, Marshall Scott Poole",
+        "authors_list": [
+            "Lawrence R. Frey",
+            "Dennis S. Gouran",
+            "Marshall Scott Poole"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 144,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/03637758109376044",
+        "title": "Decision development in small groups I: A comparison of two models",
+        "journal": "Communication Monographs",
+        "year": 1981,
+        "citations": 139,
+        "authors": "Marshall Scott Poole",
+        "authors_list": [
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 139,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Strategic Organizational Communication: In a Global Economy",
+        "journal": "",
+        "year": 2008,
+        "citations": 135,
+        "authors": "Charles Conrad, Marshall Scott Poole",
+        "authors_list": [
+            "Charles Conrad",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 135,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4135/9781483328935",
+        "title": "Theories of Small Groups: Interdisciplinary Perspectives",
+        "journal": "",
+        "year": 2005,
+        "citations": 134,
+        "authors": "Marshall Scott Poole, Andrea B. Hollingshead",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Andrea B. Hollingshead"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 134,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Coding social interaction",
+        "journal": "",
+        "year": 1984,
+        "citations": 131,
+        "authors": "Joseph P. Folger, Dean E. Hewes, Marshall Scott Poole",
+        "authors_list": [
+            "Joseph P. Folger",
+            "Dean E. Hewes",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 131,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/hicss.1989.48152",
+        "title": "Use of group decision support systems as an appropriation process",
+        "journal": "",
+        "year": 1989,
+        "citations": 129,
+        "authors": "Marshall Scott Poole, Gerardine DeSanctis",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Gerardine DeSanctis"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 129,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1468-2958.1989.tb00199.x",
+        "title": "Decision Development in Small Groups V Test of a Contingency Model",
+        "journal": "Human Communication Research",
+        "year": 1989,
+        "citations": 125,
+        "authors": "Marshall Scott Poole, Jonelle Roth",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Jonelle Roth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 125,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1468-2958.1995.tb00363.x",
+        "title": "Decision Development in Computer-Assisted Group Decision Making",
+        "journal": "Human Communication Research",
+        "year": 1995,
+        "citations": 120,
+        "authors": "Marshall Scott Poole, Michael E. Holmes",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Michael E. Holmes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 75
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4135/9781412986243.n13",
+        "title": "Organizational Structures and Configurations",
+        "journal": "",
+        "year": 2001,
+        "citations": 106,
+        "authors": "Robert D. McPhee, Marshall Scott Poole",
+        "authors_list": [
+            "Robert D. McPhee",
+            "Marshall Scott Poole"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4135/9781452243764.n5",
+        "title": "The Structuration of Group Decisions",
+        "journal": "",
+        "year": 1996,
+        "citations": 104,
+        "authors": "Marshall Scott Poole, David R. Seibold, Robert D. McPhee",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "David R. Seibold",
+            "Robert D. McPhee"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.elerap.2012.06.004",
+        "title": "Aesthetic design of e-commerce web pages – Webpage Complexity, Order and preference",
+        "journal": "Electronic Commerce Research and Applications",
+        "year": 2012,
+        "citations": 102,
+        "authors": "Liqiong Deng, Marshall Scott Poole",
+        "authors_list": [
+            "Liqiong Deng",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10919399309540193",
+        "title": "Interpretive analysis of team use of group technologies",
+        "journal": "Journal of Organizational Computing and Electronic Commerce",
+        "year": 1993,
+        "citations": 90,
+        "authors": "Gerardine DeSanctis, Marshall Scott Poole, Gary W. Dickson et al.",
+        "authors_list": [
+            "Gerardine DeSanctis",
+            "Marshall Scott Poole",
+            "Gary W. Dickson",
+            "Brad M. Jackson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4324/9781315662237",
+        "title": "Working Through Conflict",
+        "journal": "",
+        "year": 2015,
+        "citations": 89,
+        "authors": "Joseph P. Folger, Marshall Scott Poole, Randall K. Stutman",
+        "authors_list": [
+            "Joseph P. Folger",
+            "Marshall Scott Poole",
+            "Randall K. Stutman"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4324/9781003027232",
+        "title": "Working Through Conflict",
+        "journal": "",
+        "year": 2021,
+        "citations": 88,
+        "authors": "Joseph P. Folger, Marshall Scott Poole, Randall K. Stutman",
+        "authors_list": [
+            "Joseph P. Folger",
+            "Marshall Scott Poole",
+            "Randall K. Stutman"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/3560248",
+        "title": "Perspectives on Organizational Communication: Finding Common Ground",
+        "journal": "Academy of Management Review",
+        "year": 2001,
+        "citations": 87,
+        "authors": "Karen Lee Ashcraft, Steven R. Corman, Marshall Scott Poole",
+        "authors_list": [
+            "Karen Lee Ashcraft",
+            "Steven R. Corman",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1057/palgrave.ejis.3000519",
+        "title": "The surface of emergence in systems development: agency, institutions, and large-scale information systems",
+        "journal": "European Journal of Information Systems",
+        "year": 2005,
+        "citations": 87,
+        "authors": "Bongsug Chae, Marshall Scott Poole",
+        "authors_list": [
+            "Bongsug Chae",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/1046496403259753",
+        "title": "Interdisciplinary Perspectives on Small Groups",
+        "journal": "Small Group Research",
+        "year": 2004,
+        "citations": 82,
+        "authors": "Marshall Scott Poole, Andrea B. Hollingshead, Joseph E. McGrath et al.",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Andrea B. Hollingshead",
+            "Joseph E. McGrath",
+            "Richard L. Moreland",
+            "John Rohrbaugh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/009365093020002002",
+        "title": "Group Decision Support Systems and Group Communication",
+        "journal": "Communication Research",
+        "year": 1993,
+        "citations": 76,
+        "authors": "Marshall Scott Poole, Michael E. Holmes, Richard T. Watson et al.",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Michael E. Holmes",
+            "Richard T. Watson",
+            "Gerardine DeSanctis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1460-2466.2008.00408.x",
+        "title": "The Evolution of Organizational Communication",
+        "journal": "Journal of Communication",
+        "year": 2008,
+        "citations": 72,
+        "authors": "Peter R. Monge, Marshall Scott Poole",
+        "authors_list": [
+            "Peter R. Monge",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/job.2247",
+        "title": "Step by step: Capturing the dynamics of work team process through relational event sequences",
+        "journal": "Journal of Organizational Behavior",
+        "year": 2017,
+        "citations": 71,
+        "authors": "Aaron Schecter, Andrew Pilny, Alice Leung et al.",
+        "authors_list": [
+            "Aaron Schecter",
+            "Andrew Pilny",
+            "Alice Leung",
+            "Marshall Scott Poole",
+            "Noshir Contractor"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/gdn0000042",
+        "title": "An illustration of the relational event model to analyze group interaction processes.",
+        "journal": "Group Dynamics Theory Research and Practice",
+        "year": 2016,
+        "citations": 69,
+        "authors": "Andrew Pilny, Aaron Schecter, Marshall Scott Poole et al.",
+        "authors_list": [
+            "Andrew Pilny",
+            "Aaron Schecter",
+            "Marshall Scott Poole",
+            "Noshir Contractor"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1037/gdn0000042"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1083-6101.2010.01534.x",
+        "title": "Schmoozing and Smiting: Trust, Social Institutions, and Communication Patterns in an MMOG",
+        "journal": "Journal of Computer-Mediated Communication",
+        "year": 2010,
+        "citations": 67,
+        "authors": "Rabindra Ratan, Jae Eun Chung, Cuihua Shen et al.",
+        "authors_list": [
+            "Rabindra Ratan",
+            "Jae Eun Chung",
+            "Cuihua Shen",
+            "Dmitri Williams",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jcmc/article-pdf/16/1/93/22317320/jjcmcom0093.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4135/9781446206904.n18",
+        "title": "The Social Construction of Technology in Studies of the Workplace",
+        "journal": "",
+        "year": 2016,
+        "citations": 67,
+        "authors": "Michèle H. Jackson, Marshall Scott Poole, Tim Kuhn",
+        "authors_list": [
+            "Michèle H. Jackson",
+            "Marshall Scott Poole",
+            "Tim Kuhn"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4135/9781483325880.n3",
+        "title": "Communication Media and Negotiation Processes",
+        "journal": "",
+        "year": 1992,
+        "citations": 66,
+        "authors": "Marshall Scott Poole, Dale Lynn Shannon, Gerardine DeSanctis",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Dale Lynn Shannon",
+            "Gerardine DeSanctis"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/cse.2009.13",
+        "title": "The Social Behaviors of Experts in Massive Multiplayer Online Role-Playing Games",
+        "journal": "",
+        "year": 2009,
+        "citations": 65,
+        "authors": "David Huffaker, Jing Wang, Jeffrey W. Treem et al.",
+        "authors_list": [
+            "David Huffaker",
+            "Jing Wang",
+            "Jeffrey W. Treem",
+            "Muhammad Asif Ahmad",
+            "Lindsay Fullerton",
+            "Dmitri Williams",
+            "Marshall Scott Poole",
+            "Noshir Contractor"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/03637758209376067",
+        "title": "A comparison of normative and interactional explanations of group decision‐making: Social decision schemes versus valence distributions",
+        "journal": "Communication Monographs",
+        "year": 1982,
+        "citations": 65,
+        "authors": "Marshall Scott Poole, Robert D. McPhee, David R. Seibold",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Robert D. McPhee",
+            "David R. Seibold"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.17705/1jais.00177",
+        "title": "The Minnesota GDSS Research Project: Group Support Systems, Group Processes, and Outcomes",
+        "journal": "Journal of the Association for Information Systems",
+        "year": 2008,
+        "citations": 62,
+        "authors": "Gerardine DeSanctis, Marshall Scott Poole, Ilze Zigurs",
+        "authors_list": [
+            "Gerardine DeSanctis",
+            "Marshall Scott Poole",
+            "Ilze Zigurs"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://elibrary.aisnet.org/Default.aspx?url=https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1480&context=jais"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/oso/9780195135008.003.0013",
+        "title": "Theories of Organizational Change and Innovation Processes",
+        "journal": "",
+        "year": 2004,
+        "citations": 61,
+        "authors": "Marshall Scott Poole, Andrew H. Van de Ven",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Andrew H. Van de Ven"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0897-3016(04)15003-9",
+        "title": "INNOVATION IMPLEMENTATION: CONCEPTUALIZATION AND MEASUREMENT IN ORGANIZATIONAL RESEARCH",
+        "journal": "Research in organizational change and development",
+        "year": 2005,
+        "citations": 61,
+        "authors": "Kevin Real, Marshall Scott Poole",
+        "authors_list": [
+            "Kevin Real",
+            "Marshall Scott Poole"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/oso/9780195135008.003.0001",
+        "title": "Central Issues in the Study of Change and Innovation",
+        "journal": "",
+        "year": 2004,
+        "citations": 61,
+        "authors": "Marshall Scott Poole",
+        "authors_list": [
+            "Marshall Scott Poole"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/62266.62284",
+        "title": "Conflict management and group decision support systems",
+        "journal": "",
+        "year": 1988,
+        "citations": 57,
+        "authors": "Marshall Scott Poole, Michael Homes, Gerardine DeSanctis",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Michael Homes",
+            "Gerardine DeSanctis"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/62266.62284"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/0893318910390193",
+        "title": "Advancing Research in Organizational Communication Through Quantitative Methodology",
+        "journal": "Management Communication Quarterly",
+        "year": 2011,
+        "citations": 56,
+        "authors": "Vernon D. Miller, Marshall Scott Poole, David R. Seibold et al.",
+        "authors_list": [
+            "Vernon D. Miller",
+            "Marshall Scott Poole",
+            "David R. Seibold",
+            "Karen K. Myers",
+            "Hee Sun Park",
+            "Peter R. Monge",
+            "Janet Fulk",
+            "Lauren B. Frank",
+            "Drew Margolin",
+            "Courtney M. Schultz",
+            "Cuihua Shen",
+            "Matthew S. Weber",
+            "Seungyoon Lee",
+            "Michelle Shumate"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/19312458.2011.568373",
+        "title": "The Virtual Worlds Exploratorium: Using Large-Scale Data and Computational Techniques for Communication Research",
+        "journal": "Communication Methods and Measures",
+        "year": 2011,
+        "citations": 54,
+        "authors": "Dmitri Williams, Noshir Contractor, Marshall Scott Poole et al.",
+        "authors_list": [
+            "Dmitri Williams",
+            "Noshir Contractor",
+            "Marshall Scott Poole",
+            "Jaideep Srivastava",
+            "Dora Cai"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/0093650215621775",
+        "title": "A Study of Organizational Reponses to Dilemmas in Interorganizational Emergency Management",
+        "journal": "Communication Research",
+        "year": 2016,
+        "citations": 52,
+        "authors": "Elizabeth Carlson, Marshall Scott Poole, Natalie Lambert et al.",
+        "authors_list": [
+            "Elizabeth Carlson",
+            "Marshall Scott Poole",
+            "Natalie Lambert",
+            "John C. Lammers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jsis.2005.04.001",
+        "title": "Mandates and technology acceptance: A tale of two enterprise technologies",
+        "journal": "The Journal of Strategic Information Systems",
+        "year": 2005,
+        "citations": 51,
+        "authors": "Bongsug Chae, Marshall Scott Poole",
+        "authors_list": [
+            "Bongsug Chae",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4135/9781452243764.n8",
+        "title": "Developmental Processes in Group Decision Making",
+        "journal": "",
+        "year": 1996,
+        "citations": 51,
+        "authors": "Marshall Scott Poole, Carolyn L. Baldwin",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Carolyn L. Baldwin"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/75034.75046",
+        "title": "Comprehensiveness and restrictiveness in group decision heuristics: effects of computer support on consensus decision making",
+        "journal": "",
+        "year": 1989,
+        "citations": 51,
+        "authors": "Gerardine DeSanctis, Marianne J. D’Onofrio, V. Sambamurthy et al.",
+        "authors_list": [
+            "Gerardine DeSanctis",
+            "Marianne J. D’Onofrio",
+            "V. Sambamurthy",
+            "Marshall Scott Poole"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/07421222.1991.11517927",
+        "title": "Using Computing in Quality Team Meetings: Initial Observations from the IRS–Minnesota Project",
+        "journal": "Journal of Management Information Systems",
+        "year": 1991,
+        "citations": 50,
+        "authors": "Gerardine DeSanctis, Marshall Scott Poole, Howard R. Lewis et al.",
+        "authors_list": [
+            "Gerardine DeSanctis",
+            "Marshall Scott Poole",
+            "Howard R. Lewis",
+            "George Desharnais"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.5465/amr.1978.4305740",
+        "title": "An Information-Task Approach to Organizational Communication<sup />",
+        "journal": "Academy of Management Review",
+        "year": 1978,
+        "citations": 49,
+        "authors": "Marshall Scott Poole",
+        "authors_list": [
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1468-2958.1981.tb00654.x",
+        "title": "A METHOD FOR ESTABLISHING THE REPRESENTATIONAL VALIDITY OF INTERACTION CODING SYSTEMS: DO WE SEE WHAT THEY SEE?",
+        "journal": "Human Communication Research",
+        "year": 1981,
+        "citations": 47,
+        "authors": "Marshall Scott Poole, Joseph P. Folger",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Joseph P. Folger"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4135/9781452243764.n1",
+        "title": "Introduction: Communication and Group Decision Making",
+        "journal": "",
+        "year": 1996,
+        "citations": 45,
+        "authors": "Marshall Scott Poole, Randy Y. Hirokawa",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Randy Y. Hirokawa"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/23808985.2013.11679140",
+        "title": "On the Study of Process in Communication Research",
+        "journal": "Annals of the International Communication Association",
+        "year": 2013,
+        "citations": 45,
+        "authors": "Marshall Scott Poole",
+        "authors_list": [
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10510979009368306",
+        "title": "Do we have any theories of group communication?",
+        "journal": "Communication Studies",
+        "year": 1990,
+        "citations": 45,
+        "authors": "Marshall Scott Poole",
+        "authors_list": [
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1108/imds-08-2020-0506",
+        "title": "The future is now: calling for a focus on temporal issues in information system research",
+        "journal": "Industrial Management & Data Systems",
+        "year": 2021,
+        "citations": 42,
+        "authors": "Viswanath Venkatesh, Tracy Ann Sykes, Ruba Aljafari et al.",
+        "authors_list": [
+            "Viswanath Venkatesh",
+            "Tracy Ann Sykes",
+            "Ruba Aljafari",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 42,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://vtechworks.lib.vt.edu/bitstreams/80ffc54d-1cec-44be-a882-83b790e5f23d/download"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4324/9781410607683-25",
+        "title": "Groups and teams in health care: communication and effectiveness.",
+        "journal": "",
+        "year": 2003,
+        "citations": 42,
+        "authors": "Marshall Scott Poole, Kevin Real",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Kevin Real"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 42,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Strategic Organizational Communication: An Integrated Perspective",
+        "journal": "",
+        "year": 1990,
+        "citations": 41,
+        "authors": "Marshall Scott Poole, Charles Conrad",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Charles Conrad"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 41,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/oso/9780195139761.003.0002",
+        "title": "Methods for Studying innovation Processes",
+        "journal": "",
+        "year": 2000,
+        "citations": 40,
+        "authors": "Andrew H. Van de Ven, Marshall Scott Poole",
+        "authors_list": [
+            "Andrew H. Van de Ven",
+            "Marshall Scott Poole"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 40,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4135/9781452204536.n8",
+        "title": "Structuration Theory",
+        "journal": "",
+        "year": 2012,
+        "citations": 39,
+        "authors": "Marshall Scott Poole, Robert D. McPhee",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Robert D. McPhee"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 39,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0167-9236(94)90079-5",
+        "title": "The meaning of the interface",
+        "journal": "Decision Support Systems",
+        "year": 1994,
+        "citations": 38,
+        "authors": "Gerardine DeSanctis, James Snyder, Marshall Scott Poole",
+        "authors_list": [
+            "Gerardine DeSanctis",
+            "James Snyder",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 38,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4324/9781003027232-11",
+        "title": "Working Through Conflict",
+        "journal": "",
+        "year": 2021,
+        "citations": 36,
+        "authors": "Joseph P. Folger, Marshall Scott Poole, Randall K. Stutman",
+        "authors_list": [
+            "Joseph P. Folger",
+            "Marshall Scott Poole",
+            "Randall K. Stutman"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 36,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/9781405164061.ch38",
+        "title": "Field Research Methods",
+        "journal": "",
+        "year": 2017,
+        "citations": 34,
+        "authors": "Andrew H. Van de Ven, Marshall Scott Poole",
+        "authors_list": [
+            "Andrew H. Van de Ven",
+            "Marshall Scott Poole"
+        ],
+        "type": "other",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 34,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/1046496493244006",
+        "title": "The Effects of Variations in Gdss Capabilities on Decision-Making Processes in Groups",
+        "journal": "Small Group Research",
+        "year": 1993,
+        "citations": 34,
+        "authors": "V. Sambamurthy, Marshall Scott Poole, Janet M. Kelly",
+        "authors_list": [
+            "V. Sambamurthy",
+            "Marshall Scott Poole",
+            "Janet M. Kelly"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 34,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1468-2958.2003.tb00856.x",
+        "title": "Idea-Generation in Naturally Occurring Contexts.",
+        "journal": "Human Communication Research",
+        "year": 2003,
+        "citations": 33,
+        "authors": "Michèle H. Jackson, Marshall Scott Poole",
+        "authors_list": [
+            "Michèle H. Jackson",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 33,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1534-0856(00)03002-4",
+        "title": "Teams and technology Interactions over time",
+        "journal": "Research on managing groups and teams",
+        "year": 2004,
+        "citations": 33,
+        "authors": "Gerardine DeSanctis, Marshall Scott Poole, Gary W. Dickson",
+        "authors_list": [
+            "Gerardine DeSanctis",
+            "Marshall Scott Poole",
+            "Gary W. Dickson"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 33,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1287/inte.21.6.23",
+        "title": "Using Computing to Facilitate the Quality Improvement Process: The IRS-Minnesota Project",
+        "journal": "INFORMS Journal on Applied Analytics",
+        "year": 1991,
+        "citations": 31,
+        "authors": "Gerardine DeSanctis, Marshall Scott Poole, George Desharnais et al.",
+        "authors_list": [
+            "Gerardine DeSanctis",
+            "Marshall Scott Poole",
+            "George Desharnais",
+            "Howard R. Lewis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 31,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/19312450701434979",
+        "title": "Generalization in Process Theories of Communication",
+        "journal": "Communication Methods and Measures",
+        "year": 2007,
+        "citations": 31,
+        "authors": "Marshall Scott Poole",
+        "authors_list": [
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 31,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/104649648101200406",
+        "title": "Modes of Observation and The Validation of Interaction Analysis Schemes",
+        "journal": "Small Group Behavior",
+        "year": 1981,
+        "citations": 30,
+        "authors": "Marshall Scott Poole, Joseph P. Folger",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Joseph P. Folger"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 30,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/20650310",
+        "title": "Response to Jones and Karsten, “Giddens’s Structuration Theory and Information Systems Research”",
+        "journal": "MIS Quarterly",
+        "year": 2009,
+        "citations": 30,
+        "authors": "Marshall Scott Poole",
+        "authors_list": [
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 30,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Response to Jones and Karsten, \"Giddens's Structuration Theory and Information Systems Research",
+        "journal": "Journal of the Association for Information Systems",
+        "year": 2009,
+        "citations": 30,
+        "authors": "Marshall Scott Poole",
+        "authors_list": [
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 30,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4135/9781848608245.n18",
+        "title": "The Social Construction ofTechnology in Studies of the Workplace",
+        "journal": "",
+        "year": 2018,
+        "citations": 30,
+        "authors": "Michèle H. Jackson, Marshall Scott Poole, Tim Kuhn",
+        "authors_list": [
+            "Michèle H. Jackson",
+            "Marshall Scott Poole",
+            "Tim Kuhn"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 30,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/hicss.1991.184186",
+        "title": "Understanding the differences in collaborative system use through appropriation analysis",
+        "journal": "",
+        "year": 2002,
+        "citations": 28,
+        "authors": "Gerardine DeSanctis, Marshall Scott Poole",
+        "authors_list": [
+            "Gerardine DeSanctis",
+            "Marshall Scott Poole"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 28,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/23808985.1981.11923847",
+        "title": "Relational Coding Schemes: The Question of Validity",
+        "journal": "Annals of the International Communication Association",
+        "year": 1981,
+        "citations": 28,
+        "authors": "Joseph P. Folger, Marshall Scott Poole",
+        "authors_list": [
+            "Joseph P. Folger",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 28,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4135/9781483328935.n9",
+        "title": "Traces, Trajectories, and Timing: The Temporal Perspective on Groups",
+        "journal": "",
+        "year": 2005,
+        "citations": 28,
+        "authors": "Holly Arrow, Kelly Bouas Henry, Marshall Scott Poole et al.",
+        "authors_list": [
+            "Holly Arrow",
+            "Kelly Bouas Henry",
+            "Marshall Scott Poole",
+            "Susan A. Wheelan",
+            "Richard L. Moreland"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 28,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/hicss.2003.1174377",
+        "title": "Learning through telemedicine networks",
+        "journal": "",
+        "year": 2003,
+        "citations": 26,
+        "authors": "Liqiong Deng, Marshall Scott Poole",
+        "authors_list": [
+            "Liqiong Deng",
+            "Marshall Scott Poole"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 26,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1891/9781617051142",
+        "title": "Prosthetic Restoration and Rehabilitation of the Upper and Lower Extremity",
+        "journal": "",
+        "year": 2013,
+        "citations": 25,
+        "authors": "Catherine Spires Mary, Brian M. Kelly, Alicia J. Davis et al.",
+        "authors_list": [
+            "Catherine Spires Mary",
+            "Brian M. Kelly",
+            "Alicia J. Davis",
+            "James A. Leonard",
+            "P. Troy Henning",
+            "Shipra Arya",
+            "Guillermo A. Escobar",
+            "Mary Catherine Spires",
+            "Mary Catherine Spires",
+            "Marina Musicus",
+            "Alicia J. Davis",
+            "Kathryn Johnson",
+            "Alicia J. Davis",
+            "Kathryn Alicia",
+            "Alicia J. Davis",
+            "Alicia J. Davis",
+            "Kathryn Johnson",
+            "Kathryn Johnson",
+            "Alicia J. Davis",
+            "Michael Wheaton",
+            "Alicia J. Foster",
+            "Brian M. Kelly",
+            "Jeremy P.M. Mogk",
+            "Aviram M. Giladi",
+            "Kevin C. Chung",
+            "Mary Catherine Spires",
+            "Brian M. Kelly",
+            "Quaintance Miller",
+            "Mary Catherine Spires",
+            "Alicia J. Davis",
+            "Brian M. Kelly",
+            "Marina Musicus",
+            "Alicia J. Davis",
+            "Kathryn Johnson",
+            "Marina Musicus",
+            "Alicia J. Davis",
+            "Kathryn Johnson",
+            "Marina Musicus",
+            "Alicia J. Davis",
+            "Randy S. Roth",
+            "Mary Catherine Spires",
+            "Brian M. Kelly",
+            "Sean R. Smith",
+            "Brian M. Kelly",
+            "Rishi R. Bakshi",
+            "Susannah G. Parke",
+            "Brian M. Kelly",
+            "Anne Hartigan",
+            "Brian M. Kelly",
+            "Megan E. Zachar",
+            "Gary M. Berke",
+            "Mary Catherine Spires",
+            "Brian M. Kelly",
+            "Marshall Scott Poole",
+            "Virginia S. Nelson",
+            "Marina Musicus",
+            "Mary Catherine Spires",
+            "Brian M. Kelly",
+            "Brian M. Kelly",
+            "Rafael J. Diaz-Garcia",
+            "Paul S. Cederna",
+            "Tima Le",
+            "Mary Catherine Spires",
+            "Brian M. Kelly"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 25,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Strategic organizational communication : into the twenty-first century",
+        "journal": "Harcourt Brace College Publishers eBooks",
+        "year": 1998,
+        "citations": 24,
+        "authors": "Charles Conrad, Marshall Scott Poole",
+        "authors_list": [
+            "Charles Conrad",
+            "Marshall Scott Poole"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/hicss.2010.146",
+        "title": "Developing Reliable Measures of Privacy Management within Social Networking Sites",
+        "journal": "",
+        "year": 2010,
+        "citations": 21,
+        "authors": "Catherine Dwyer, Starr Roxanne Hiltz, Marshall Scott Poole et al.",
+        "authors_list": [
+            "Catherine Dwyer",
+            "Starr Roxanne Hiltz",
+            "Marshall Scott Poole",
+            "Julia Gussner",
+            "Felicitas Hennig",
+            "Sebastian Osswald",
+            "Sandra Schliesslberger",
+            "Birgit Warth"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 21,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4324/9781315296296",
+        "title": "Working Through Conflict",
+        "journal": "",
+        "year": 2017,
+        "citations": 21,
+        "authors": "Joseph P. Folger, Marshall Scott Poole, Randall K. Stutman",
+        "authors_list": [
+            "Joseph P. Folger",
+            "Marshall Scott Poole",
+            "Randall K. Stutman"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 21,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/1046496410366310",
+        "title": "Exploring Conflict Management Processes in Jury Deliberations Through Interaction Analysis",
+        "journal": "Small Group Research",
+        "year": 2010,
+        "citations": 20,
+        "authors": "Marshall Scott Poole, Melissa Dobosh",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Melissa Dobosh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 20,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/socialcom.2010.45",
+        "title": "The Many Faces of Mentoring in an MMORPG",
+        "journal": "",
+        "year": 2010,
+        "citations": 20,
+        "authors": "Muhammad Aurangzeb Ahmad, David Huffaker, Jing Wang et al.",
+        "authors_list": [
+            "Muhammad Aurangzeb Ahmad",
+            "David Huffaker",
+            "Jing Wang",
+            "Jeff Treem",
+            "Dinesh Kumar",
+            "Marshall Scott Poole",
+            "Jaideep Srivastava"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 20,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Analyzing interpersonal interaction",
+        "journal": "",
+        "year": 1987,
+        "citations": 19,
+        "authors": "Marshall Scott Poole, Joseph P. Folger, Dean E. Hewes",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Joseph P. Folger",
+            "Dean E. Hewes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 19,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/23808985.1981.11923849",
+        "title": "The Valence Model Unveiled: Critique and Alternative Formulation",
+        "journal": "Annals of the International Communication Association",
+        "year": 1981,
+        "citations": 19,
+        "authors": "Robert D. McPhee, Marshall Scott Poole, David R. Seibold",
+        "authors_list": [
+            "Robert D. McPhee",
+            "Marshall Scott Poole",
+            "David R. Seibold"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 19,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10410230903242184",
+        "title": "The Symbolic and Material Nature of Physician Identity: Implications for Physician–Patient Communication",
+        "journal": "Health Communication",
+        "year": 2009,
+        "citations": 18,
+        "authors": "Kevin Real, Rachel Bramson, Marshall Scott Poole",
+        "authors_list": [
+            "Kevin Real",
+            "Rachel Bramson",
+            "Marshall Scott Poole"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 18,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.5465/amr.1995.9508080329",
+        "title": "Explaining Development and Change in Organizations",
+        "journal": "The Academy of Management Review",
+        "year": 1995,
+        "citations": 5118,
+        "authors": "Andrew H. van de Ven, Marshall Scott Poole",
+        "authors_list": [
+            "Andrew H. van de Ven",
+            "Marshall Scott Poole"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 5118
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.4135/9781483325385.n8",
+        "title": "Understanding the use of Group Decision Support Systems: The Theory of Adaptive Structuration",
+        "journal": "Organizations and Communication Technology",
+        "year": 1990,
+        "citations": 315,
+        "authors": "Marshall Poole, Gerardine DeSanctis",
+        "authors_list": [
+            "Marshall Poole",
+            "Gerardine DeSanctis"
+        ],
+        "type": "book-chapter",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 315
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.4135/9781452243764",
+        "title": "Communication and Group Decision Making",
+        "journal": "",
+        "year": 1996,
+        "citations": 48,
+        "authors": "Randy Hirokawa, Marshall Poole",
+        "authors_list": [
+            "Randy Hirokawa",
+            "Marshall Poole"
+        ],
+        "type": "monograph",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 48
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1093/oso/9780195131987.001.0001",
+        "title": "Organizational Change and Innovation Processes",
+        "journal": "",
+        "year": 2000,
+        "citations": 379,
+        "authors": "Marshall Scott Poole, Andrew H Van de Ven, Kevin Dooley et al.",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Andrew H Van de Ven",
+            "Kevin Dooley",
+            "Michael E Holmes"
+        ],
+        "type": "book",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 379
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1177/1046496403259757",
+        "title": "Time, Change, and Development",
+        "journal": "Small Group Research",
+        "year": 2004,
+        "citations": 177,
+        "authors": "Holly Arrow, Marshall Scott Poole, Kelly Bouas Henry et al.",
+        "authors_list": [
+            "Holly Arrow",
+            "Marshall Scott Poole",
+            "Kelly Bouas Henry",
+            "Susan Wheelan",
+            "Richard Moreland"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 177
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1468-2958.2000.tb00769.x",
+        "title": "Do conflict management styles affect group decision making? Evidence from a longitudinal field study",
+        "journal": "Human Communication Research",
+        "year": 2000,
+        "citations": 120,
+        "authors": "T Kuhn, MS Poole",
+        "authors_list": [
+            "T Kuhn",
+            "MS Poole"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 120
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.4018/978-1-59140-144-5.ch013",
+        "title": "Structuration Theory in Information Systems Research",
+        "journal": "The Handbook of Information Systems Research",
+        "year": null,
+        "citations": 78,
+        "authors": "Marshall Scott Poole, Gerardine DeSanctis",
+        "authors_list": [
+            "Marshall Scott Poole",
+            "Gerardine DeSanctis"
+        ],
+        "type": "book-chapter",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 78
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/hicss.1989.48152",
+        "title": "Use of group decision support systems as an appropriation process",
+        "journal": "[1989] Proceedings of the Twenty-Second Annual Hawaii International Conference on System Sciences. Volume IV: Emerging Technologies and Applications Track",
+        "year": 1989,
+        "citations": 46,
+        "authors": "M.S. Poole, G. DeSanctis",
+        "authors_list": [
+            "M.S. Poole",
+            "G. DeSanctis"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 46
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

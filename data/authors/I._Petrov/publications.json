@@ -1,0 +1,3722 @@
+[
+    {
+        "doi": "https://doi.org/10.1116/1.1601610",
+        "title": "Microstructural evolution during film growth",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 2003,
+        "citations": 1760,
+        "authors": "I. Petrov, P.B. Barna, Lars Hultman et al.",
+        "authors_list": [
+            "I. Petrov",
+            "P.B. Barna",
+            "Lars Hultman",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1760,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms2553",
+        "title": "Stretchable batteries with self-similar serpentine interconnects and integrated wireless recharging systems",
+        "journal": "Nature Communications",
+        "year": 2013,
+        "citations": 1395,
+        "authors": "Sheng Xu, Yihui Zhang, Jiung Cho et al.",
+        "authors_list": [
+            "Sheng Xu",
+            "Yihui Zhang",
+            "Jiung Cho",
+            "Juhwan Lee",
+            "Xian Huang",
+            "Lin Jia",
+            "Jonathan A. Fan",
+            "Yewang Su",
+            "Jessica K. Su",
+            "Huigang Zhang",
+            "Huanyu Cheng",
+            "Bingwei Lu",
+            "Cunjiang Yu",
+            "Chi Hui Chuang",
+            "Tae‐il Kim",
+            "Taeseup Song",
+            "Kazuyo Shigeta",
+            "Sen Kang",
+            "Canan Dağdeviren",
+            "I. Petrov",
+            "Paul V. Braun",
+            "Yonggang Huang",
+            "Ungyu Paik",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1395,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms2553.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0257-8972(99)00292-3",
+        "title": "A novel pulsed magnetron sputter technique utilizing very high target power densities",
+        "journal": "Surface and Coatings Technology",
+        "year": 1999,
+        "citations": 1065,
+        "authors": "V. Kouznetsov, K. Macák, Jochen M. Schneider et al.",
+        "authors_list": [
+            "V. Kouznetsov",
+            "K. Macák",
+            "Jochen M. Schneider",
+            "Ulf Helmersson",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1065,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.114845",
+        "title": "Development of preferred orientation in polycrystalline TiN layers grown by ultrahigh vacuum reactive magnetron sputtering",
+        "journal": "Applied Physics Letters",
+        "year": 1995,
+        "citations": 396,
+        "authors": "J. E. Greene, J.‐E. Sundgren, Lars Hultman et al.",
+        "authors_list": [
+            "J. E. Greene",
+            "J.‐E. Sundgren",
+            "Lars Hultman",
+            "I. Petrov",
+            "D. Bergstrom"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 396,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1567797",
+        "title": "Pathways of atomistic processes on TiN(001) and (111) surfaces during film growth: an <i>ab initio</i> study",
+        "journal": "Journal of Applied Physics",
+        "year": 2003,
+        "citations": 353,
+        "authors": "Daniel Gall, Suneel Kodambaka, Marcel A. Wall et al.",
+        "authors_list": [
+            "Daniel Gall",
+            "Suneel Kodambaka",
+            "Marcel A. Wall",
+            "I. Petrov",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 353,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nl902140j",
+        "title": "Growth of Semiconducting Graphene on Palladium",
+        "journal": "Nano Letters",
+        "year": 2009,
+        "citations": 335,
+        "authors": "Soon‐Yong Kwon, Cristian V. Ciobanu, Vania Petrova et al.",
+        "authors_list": [
+            "Soon‐Yong Kwon",
+            "Cristian V. Ciobanu",
+            "Vania Petrova",
+            "Vivek B. Shenoy",
+            "Javier Bareño",
+            "Vincent Gambin",
+            "I. Petrov",
+            "Suneel Kodambaka"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 335,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0040-6090(89)90713-x",
+        "title": "Microstructure modification of TiN by ion bombardment during reactive sputter deposition",
+        "journal": "Thin Solid Films",
+        "year": 1989,
+        "citations": 327,
+        "authors": "I. Petrov, Lars Hultman, Ulf Helmersson et al.",
+        "authors_list": [
+            "I. Petrov",
+            "Lars Hultman",
+            "Ulf Helmersson",
+            "J.‐E. Sundgren",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 327,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1388-2481(02)00388-0",
+        "title": "Surface changes on LiNi0.8Co0.2O2 particles during testing of high-power lithium-ion cells",
+        "journal": "Electrochemistry Communications",
+        "year": 2002,
+        "citations": 308,
+        "authors": "Daniel P. Abraham, R. D. Twesten, Mahalingam Balasubramanian et al.",
+        "authors_list": [
+            "Daniel P. Abraham",
+            "R. D. Twesten",
+            "Mahalingam Balasubramanian",
+            "I. Petrov",
+            "J. McBreen",
+            "Khalil Amine"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 308,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1017/s1431927608080902",
+        "title": "Detection of Single Atoms and Buried Defects in Three Dimensions by Aberration-Corrected Electron Microscope with 0.5-Å Information Limit",
+        "journal": "Microscopy and Microanalysis",
+        "year": 2008,
+        "citations": 307,
+        "authors": "C. Kisielowski, Bert Freitag, Maarten Bischoff et al.",
+        "authors_list": [
+            "C. Kisielowski",
+            "Bert Freitag",
+            "Maarten Bischoff",
+            "Hai-Long Lin",
+            "Sorin Lazar",
+            "G.M.H. Knippels",
+            "Peter Tiemeijer",
+            "Michiel van der Stam",
+            "S. von Harrach",
+            "M Stekelenburg",
+            "M. Haider",
+            "Stephan Uhlemann",
+            "Heiko Müller",
+            "Peter Hartel",
+            "B. Kabius",
+            "Dean J. Miller",
+            "I. Petrov",
+            "E. A. Olson",
+            "T. Donchev",
+            "E. A. Kenik",
+            "Andrew R. Lupini",
+            "J. Bentley",
+            "S. J. Pennycook",
+            "Ian Anderson",
+            "A. M. Minor",
+            "Andreas K. Schmid",
+            "Thomas Duden",
+            "Velimir Radmilović",
+            "Quentin M. Ramasse",
+            "Masashi Watanabe",
+            "Rolf Erni",
+            "Eric A. Stach",
+            "P. Denes",
+            "U. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 307,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.2697052",
+        "title": "Interface microstructure engineering by high power impulse magnetron sputtering for the enhancement of adhesion",
+        "journal": "Journal of Applied Physics",
+        "year": 2007,
+        "citations": 299,
+        "authors": "Arutiun P. Ehiasarian, Jianguo Wen, I. Petrov",
+        "authors_list": [
+            "Arutiun P. Ehiasarian",
+            "Jianguo Wen",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 299,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.carbon.2016.07.017",
+        "title": "Interpretation of X-ray photoelectron spectra of carbon-nitride thin films: New insights from in situ XPS",
+        "journal": "Carbon",
+        "year": 2016,
+        "citations": 281,
+        "authors": "Niklas Hellgren, Richard T. Haasch, Susann Schmidt et al.",
+        "authors_list": [
+            "Niklas Hellgren",
+            "Richard T. Haasch",
+            "Susann Schmidt",
+            "Lars Hultman",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 281,
+            "crossref": 281
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.582380",
+        "title": "Ionized sputter deposition using an extremely high plasma density pulsed magnetron discharge",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 2000,
+        "citations": 276,
+        "authors": "K. Macák, V. Kouznetsov, Jochen M. Schneider et al.",
+        "authors_list": [
+            "K. Macák",
+            "V. Kouznetsov",
+            "Jochen M. Schneider",
+            "Ulf Helmersson",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 276,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0257-8972(02)00479-6",
+        "title": "High power pulsed magnetron sputtered CrN films",
+        "journal": "Surface and Coatings Technology",
+        "year": 2002,
+        "citations": 272,
+        "authors": "Arutiun P. Ehiasarian, W.‐D. Münz, Lars Hultman et al.",
+        "authors_list": [
+            "Arutiun P. Ehiasarian",
+            "W.‐D. Münz",
+            "Lars Hultman",
+            "Ulf Helmersson",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 272,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.368913",
+        "title": "Growth of poly- and single-crystal ScN on MgO(001): Role of low-energy N2+ irradiation in determining texture, microstructure evolution, and mechanical properties",
+        "journal": "Journal of Applied Physics",
+        "year": 1998,
+        "citations": 247,
+        "authors": "Daniel Gall, I. Petrov, Niklas Hellgren et al.",
+        "authors_list": [
+            "Daniel Gall",
+            "I. Petrov",
+            "Niklas Hellgren",
+            "Lars Hultman",
+            "J.‐E. Sundgren",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 247,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.359720",
+        "title": "High-flux low-energy (≂20 eV) N+2 ion irradiation during TiN deposition by reactive magnetron sputtering: Effects on microstructure and preferred orientation",
+        "journal": "Journal of Applied Physics",
+        "year": 1995,
+        "citations": 242,
+        "authors": "Lars Hultman, J.‐E. Sundgren, J. E. Greene et al.",
+        "authors_list": [
+            "Lars Hultman",
+            "J.‐E. Sundgren",
+            "J. E. Greene",
+            "D. B. Bergstrom",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 242,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/1.1613291",
+        "title": "Microscopy and Spectroscopy of Lithium Nickel Oxide-Based Particles Used in High Power Lithium-Ion Cells",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 2003,
+        "citations": 239,
+        "authors": "Daniel P. Abraham, R. D. Twesten, M. Balasubramanian et al.",
+        "authors_list": [
+            "Daniel P. Abraham",
+            "R. D. Twesten",
+            "M. Balasubramanian",
+            "A. Jeremy Kropf",
+            "Daniel A. Fischer",
+            "J. McBreen",
+            "I. Petrov",
+            "Khalil Amine"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 239,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.578074",
+        "title": "Polycrystalline TiN films deposited by reactive bias magnetron sputtering: Effects of ion bombardment on resputtering rates, film composition, and microstructure",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 1992,
+        "citations": 238,
+        "authors": "I. Petrov, Lars Hultman, J.‐E. Sundgren et al.",
+        "authors_list": [
+            "I. Petrov",
+            "Lars Hultman",
+            "J.‐E. Sundgren",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 238,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1887824",
+        "title": "Self-organized nanocolumnar structure in superhard TiB2 thin films",
+        "journal": "Applied Physics Letters",
+        "year": 2005,
+        "citations": 237,
+        "authors": "P.H. Mayrhofer, Christian Mitterer, Jianguo Wen et al.",
+        "authors_list": [
+            "P.H. Mayrhofer",
+            "Christian Mitterer",
+            "Jianguo Wen",
+            "J. E. Greene",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 237,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.200803786",
+        "title": "Highly Sensitive, Mechanically Stable Nanopore Sensors for DNA Analysis",
+        "journal": "Advanced Materials",
+        "year": 2009,
+        "citations": 236,
+        "authors": "Bala Murali Venkatesan, Brian Dorvel, Sukru Yemenicioglu et al.",
+        "authors_list": [
+            "Bala Murali Venkatesan",
+            "Brian Dorvel",
+            "Sukru Yemenicioglu",
+            "Nicholas N. Watkins",
+            "I. Petrov",
+            "Rashid Bashir"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 236,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.109742",
+        "title": "Average energy deposited per atom: A universal parameter for describing ion-assisted film growth?",
+        "journal": "Applied Physics Letters",
+        "year": 1993,
+        "citations": 224,
+        "authors": "I. Petrov, F. Adibi, J. E. Greene et al.",
+        "authors_list": [
+            "I. Petrov",
+            "F. Adibi",
+            "J. E. Greene",
+            "Lars Hultman",
+            "J.‐E. Sundgren"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 224,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0040-6090(93)90244-j",
+        "title": "Crystal growth and microstructure of polycrystalline Ti1−xAlxN alloy films deposited by ultra-high-vacuum dual-target magnetron sputtering",
+        "journal": "Thin Solid Films",
+        "year": 1993,
+        "citations": 207,
+        "authors": "U. Wahlström, Lars Hultman, J.‐E. Sundgren et al.",
+        "authors_list": [
+            "U. Wahlström",
+            "Lars Hultman",
+            "J.‐E. Sundgren",
+            "F. Adibi",
+            "I. Petrov",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 207,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0257-8972(97)00249-1",
+        "title": "Microstructure and oxidation-resistance of Ti1 − x − y −zAlxCryYzN layers grown by combined steered-arc/unbalanced-magnetron-sputter deposition",
+        "journal": "Surface and Coatings Technology",
+        "year": 1997,
+        "citations": 201,
+        "authors": "L.A. Donohue, I.J. Smith, W.‐D. Münz et al.",
+        "authors_list": [
+            "L.A. Donohue",
+            "I.J. Smith",
+            "W.‐D. Münz",
+            "I. Petrov",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 201,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.578955",
+        "title": "Mass and energy resolved detection of ions and neutral sputtered species incident at the substrate during reactive magnetron sputtering of Ti in mixed Ar+N2 mixtures",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 1994,
+        "citations": 196,
+        "authors": "I. Petrov, Alan Myers, J. E. Greene et al.",
+        "authors_list": [
+            "I. Petrov",
+            "Alan Myers",
+            "J. E. Greene",
+            "John R. Abelson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 196,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms5035",
+        "title": "Electrochemically tunable thermal conductivity of lithium cobalt oxide",
+        "journal": "Nature Communications",
+        "year": 2014,
+        "citations": 193,
+        "authors": "Jiung Cho, Mark D. Losego, Huigang Zhang et al.",
+        "authors_list": [
+            "Jiung Cho",
+            "Mark D. Losego",
+            "Huigang Zhang",
+            "Honggyu Kim",
+            "Jian‐Min Zuo",
+            "I. Petrov",
+            "David G. Cahill",
+            "Paul V. Braun"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 193,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms5035.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.577812",
+        "title": "Use of an externally applied axial magnetic field to control ion/neutral flux ratios incident at the substrate during magnetron sputter deposition",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 1992,
+        "citations": 193,
+        "authors": "I. Petrov, F. Adibi, J. E. Greene et al.",
+        "authors_list": [
+            "I. Petrov",
+            "F. Adibi",
+            "J. E. Greene",
+            "W.D. Sproul",
+            "W.‐D. Münz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 193,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.106943",
+        "title": "Synthesis of metastable epitaxial zinc-blende-structure AlN by solid-state reaction",
+        "journal": "Applied Physics Letters",
+        "year": 1992,
+        "citations": 192,
+        "authors": "I. Petrov, E. Mojab, R. C. Powell et al.",
+        "authors_list": [
+            "I. Petrov",
+            "E. Mojab",
+            "R. C. Powell",
+            "J. E. Greene",
+            "Lars Hultman",
+            "J.‐E. Sundgren"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 192,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/cm200250a",
+        "title": "Long-Range and Local Structure in the Layered Oxide Li<sub>1.2</sub>Co<sub>0.4</sub>Mn<sub>0.4</sub>O<sub>2</sub>",
+        "journal": "Chemistry of Materials",
+        "year": 2011,
+        "citations": 191,
+        "authors": "Javier Bareño, Mahalingam Balasubramanian, Suk-Hoon Kang et al.",
+        "authors_list": [
+            "Javier Bareño",
+            "Mahalingam Balasubramanian",
+            "Suk-Hoon Kang",
+            "Jianguo Wen",
+            "C. H. Lei",
+            "Swati V. Pol",
+            "I. Petrov",
+            "Daniel P. Abraham"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 191,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.200904247",
+        "title": "Local Structure of Layered Oxide Electrode Materials for Lithium‐Ion Batteries",
+        "journal": "Advanced Materials",
+        "year": 2010,
+        "citations": 173,
+        "authors": "Javier Bareño, C. H. Lei, Jian Wen et al.",
+        "authors_list": [
+            "Javier Bareño",
+            "C. H. Lei",
+            "Jian Wen",
+            "Suk-Hoon Kang",
+            "I. Petrov",
+            "Daniel P. Abraham"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 173,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.353388",
+        "title": "Effects of high-flux low-energy (20–100 eV) ion irradiation during deposition on the microstructure and preferred orientation of Ti0.5Al0.5N alloys grown by ultra-high-vacuum reactive magnetron sputtering",
+        "journal": "Journal of Applied Physics",
+        "year": 1993,
+        "citations": 171,
+        "authors": "F. Adibi, I. Petrov, J. E. Greene et al.",
+        "authors_list": [
+            "F. Adibi",
+            "I. Petrov",
+            "J. E. Greene",
+            "Lars Hultman",
+            "J.‐E. Sundgren"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 171,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.63.125119",
+        "title": "Electronic structure of ScN determined using optical spectroscopy, photoemission, and<i>ab initio</i>calculations",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 2001,
+        "citations": 166,
+        "authors": "Daniel Gall, M. Städele, Kenneth Järrendahl et al.",
+        "authors_list": [
+            "Daniel Gall",
+            "M. Städele",
+            "Kenneth Järrendahl",
+            "I. Petrov",
+            "P. Desjardins",
+            "R. T. Haasch",
+            "Taeyoon Lee",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 166,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.577428",
+        "title": "Low-energy (∼100 eV) ion irradiation during growth of TiN deposited by reactive magnetron sputtering: Effects of ion flux on film microstructure",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 1991,
+        "citations": 164,
+        "authors": "Lars Hultman, W.‐D. Münz, J. Musil et al.",
+        "authors_list": [
+            "Lars Hultman",
+            "W.‐D. Münz",
+            "J. Musil",
+            "S. Kadlec",
+            "I. Petrov",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 164,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1568521",
+        "title": "Vacancy hardening in single-crystal TiNx(001) layers",
+        "journal": "Journal of Applied Physics",
+        "year": 2003,
+        "citations": 164,
+        "authors": "Cheung Soo Shin, Daniel Gall, Niklas Hellgren et al.",
+        "authors_list": [
+            "Cheung Soo Shin",
+            "Daniel Gall",
+            "Niklas Hellgren",
+            "Jörg Patscheider",
+            "I. Petrov",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 164,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aip.scitation.org/doi/pdf/10.1063/1.1568521"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.75.155437",
+        "title": "Interface structure in superhard TiN-SiN nanolaminates and nanocomposites: Film growth experiments and<i>ab initio</i>calculations",
+        "journal": "Physical Review B",
+        "year": 2007,
+        "citations": 164,
+        "authors": "Lars Hultman, Javier Bareño, A. Flink et al.",
+        "authors_list": [
+            "Lars Hultman",
+            "Javier Bareño",
+            "A. Flink",
+            "Hans Söderberg",
+            "Karin Larsson",
+            "Vania Petrova",
+            "Magnus Odén",
+            "J. E. Greene",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 164,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jpowsour.2007.11.077",
+        "title": "Local structure and composition studies of Li1.2Ni0.2Mn0.6O2 by analytical electron microscopy",
+        "journal": "Journal of Power Sources",
+        "year": 2007,
+        "citations": 153,
+        "authors": "C. H. Lei, Javier Bareño, Jian Wen et al.",
+        "authors_list": [
+            "C. H. Lei",
+            "Javier Bareño",
+            "Jian Wen",
+            "I. Petrov",
+            "S.-H. Kang",
+            "Daniel P. Abraham"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 153,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0165-232x(81)90007-0",
+        "title": "Standardized testing methods for measuring mechanical properties of ice",
+        "journal": "Cold Regions Science and Technology",
+        "year": 1981,
+        "citations": 153,
+        "authors": "Joachim Schwarz, R. Frederking, V. Gavrillo et al.",
+        "authors_list": [
+            "Joachim Schwarz",
+            "R. Frederking",
+            "V. Gavrillo",
+            "I. Petrov",
+            "Kyosuke Hirayama",
+            "Malcolm Mellor",
+            "Per Tryde",
+            "Kennon D. Vaudrey"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 153,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.5121226",
+        "title": "Paradigm shift in thin-film growth by magnetron sputtering: From gas-ion to metal-ion irradiation of the growing film",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 2019,
+        "citations": 151,
+        "authors": "Grzegorz Greczyński, I. Petrov, J. E. Greene et al.",
+        "authors_list": [
+            "Grzegorz Greczyński",
+            "I. Petrov",
+            "J. E. Greene",
+            "Lars Hultman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 151,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://avs.scitation.org/doi/pdf/10.1116/1.5121226"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.348849",
+        "title": "Defect structure and phase transitions in epitaxial metastable cubic Ti0.5Al0.5N alloys grown on MgO(001) by ultra-high-vacuum magnetron sputter deposition",
+        "journal": "Journal of Applied Physics",
+        "year": 1991,
+        "citations": 149,
+        "authors": "F. Adibi, I. Petrov, Lars Hultman et al.",
+        "authors_list": [
+            "F. Adibi",
+            "I. Petrov",
+            "Lars Hultman",
+            "U. Wahlström",
+            "Tetsuhide Shimizu",
+            "D.C. McIntyre",
+            "J. E. Greene",
+            "J.‐E. Sundgren"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 149,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jpowsour.2013.01.082",
+        "title": "Improving high-capacity Li1.2Ni0.15Mn0.55Co0.1O2-based lithium-ion cells by modifiying the positive electrode with alumina",
+        "journal": "Journal of Power Sources",
+        "year": 2013,
+        "citations": 148,
+        "authors": "Martin Bettge, Yan Li, Bharat Sankaran et al.",
+        "authors_list": [
+            "Martin Bettge",
+            "Yan Li",
+            "Bharat Sankaran",
+            "Nancy Dietz Rago",
+            "T. Spila",
+            "Richard T. Haasch",
+            "I. Petrov",
+            "Daniel P. Abraham"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 148,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4822440",
+        "title": "Toughness enhancement in hard ceramic thin films by alloy design",
+        "journal": "APL Materials",
+        "year": 2013,
+        "citations": 144,
+        "authors": "Hanna Kindlund, Davide G. Sangiovanni, L. Martínez-de-Olcoz et al.",
+        "authors_list": [
+            "Hanna Kindlund",
+            "Davide G. Sangiovanni",
+            "L. Martínez-de-Olcoz",
+            "Jun Lu",
+            "Jens Jensen",
+            "Jens Birch",
+            "I. Petrov",
+            "J. E. Greene",
+            "V. Chirita",
+            "Lars Hultman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 144,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aip.scitation.org/doi/pdf/10.1063/1.4822440"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.surfcoat.2012.04.024",
+        "title": "Role of Tin+ and Aln+ ion irradiation (n=1, 2) during Ti1-xAlxN alloy film growth in a hybrid HIPIMS/magnetron mode",
+        "journal": "Surface and Coatings Technology",
+        "year": 2012,
+        "citations": 143,
+        "authors": "Grzegorz Greczyński, Jun Lü, Mats Johansson et al.",
+        "authors_list": [
+            "Grzegorz Greczyński",
+            "Jun Lü",
+            "Mats Johansson",
+            "Jens Jensen",
+            "I. Petrov",
+            "J. E. Greene",
+            "Lars Hultman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 143,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-79709"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1569418",
+        "title": "Structure determination of individual single-wall carbon nanotubes by nanoarea electron diffraction",
+        "journal": "Applied Physics Letters",
+        "year": 2003,
+        "citations": 142,
+        "authors": "Min Gao, Jian‐Min Zuo, R. D. Twesten et al.",
+        "authors_list": [
+            "Min Gao",
+            "Jian‐Min Zuo",
+            "R. D. Twesten",
+            "I. Petrov",
+            "Larry A. Nagahara",
+            "R. Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 142,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1466528",
+        "title": "Band gap in epitaxial NaCl-structure CrN(001) layers",
+        "journal": "Journal of Applied Physics",
+        "year": 2002,
+        "citations": 139,
+        "authors": "Daniel Gall, Cheung Soo Shin, Richard T. Haasch et al.",
+        "authors_list": [
+            "Daniel Gall",
+            "Cheung Soo Shin",
+            "Richard T. Haasch",
+            "I. Petrov",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 139,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.aip.org/aip/jap/article-pdf/91/9/5882/9367495/5882_1_online.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1446239",
+        "title": "Growth of single-crystal CrN on MgO(001): Effects of low-energy ion-irradiation on surface morphological evolution and physical properties",
+        "journal": "Journal of Applied Physics",
+        "year": 2002,
+        "citations": 133,
+        "authors": "Daniel Gall, Cheung Soo Shin, T. Spila et al.",
+        "authors_list": [
+            "Daniel Gall",
+            "Cheung Soo Shin",
+            "T. Spila",
+            "Magnus Odén",
+            "M. J. H. Senna",
+            "J. E. Greene",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 133,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.actamat.2020.07.025",
+        "title": "Improving the high-temperature oxidation resistance of TiB2 thin films by alloying with Al",
+        "journal": "Acta Materialia",
+        "year": 2020,
+        "citations": 132,
+        "authors": "Babak Bakhit, Justinas Pališaitis, Jimmy Thörnberg et al.",
+        "authors_list": [
+            "Babak Bakhit",
+            "Justinas Pališaitis",
+            "Jimmy Thörnberg",
+            "Johanna Rosén",
+            "Per O. Å. Persson",
+            "Lars Hultman",
+            "I. Petrov",
+            "J. E. Greene",
+            "Grzegorz Greczyński"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 132,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1359645420305231/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.memsci.2006.05.015",
+        "title": "Physico-chemical characterization of NF/RO membrane active layers by Rutherford backscattering spectrometry☆",
+        "journal": "Journal of Membrane Science",
+        "year": 2006,
+        "citations": 132,
+        "authors": "Baoxia Mi, Orlando Coronell, Benito J. Mariñas et al.",
+        "authors_list": [
+            "Baoxia Mi",
+            "Orlando Coronell",
+            "Benito J. Mariñas",
+            "Fumiaki Watanabe",
+            "David G. Cahill",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 132,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.581360",
+        "title": "Microstructure and electronic properties of the refractory semiconductor ScN grown on MgO(001) by ultra-high-vacuum reactive magnetron sputter deposition",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 1998,
+        "citations": 130,
+        "authors": "Daniel Gall, I. Petrov, Lynnette D. Madsen et al.",
+        "authors_list": [
+            "Daniel Gall",
+            "I. Petrov",
+            "Lynnette D. Madsen",
+            "J.‐E. Sundgren",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1629155",
+        "title": "Growth, surface morphology, and electrical resistivity of fully strained substoichiometric epitaxial TiNx (0.67⩽x&amp;lt;1.0) layers on MgO(001)",
+        "journal": "Journal of Applied Physics",
+        "year": 2003,
+        "citations": 126,
+        "authors": "Cheung Soo Shin, S. Rudenja, Daniel Gall et al.",
+        "authors_list": [
+            "Cheung Soo Shin",
+            "S. Rudenja",
+            "Daniel Gall",
+            "Niklas Hellgren",
+            "Taeyoon Lee",
+            "I. Petrov",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 126,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.371271",
+        "title": "Dense fully 111-textured TiN diffusion barriers: Enhanced lifetime through microstructure control during layer growth",
+        "journal": "Journal of Applied Physics",
+        "year": 1999,
+        "citations": 124,
+        "authors": "J. S. Chun, I. Petrov, J. E. Greene",
+        "authors_list": [
+            "J. S. Chun",
+            "I. Petrov",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 124,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.4750485",
+        "title": "Metal versus rare-gas ion irradiation during Ti1−<i>x</i>Al<i>x</i>N film growth by hybrid high power pulsed magnetron/dc magnetron co-sputtering using synchronized pulsed substrate bias",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 2012,
+        "citations": 123,
+        "authors": "Grzegorz Greczyński, Jun Lu, Jens Jensen et al.",
+        "authors_list": [
+            "Grzegorz Greczyński",
+            "Jun Lu",
+            "Jens Jensen",
+            "I. Petrov",
+            "J. E. Greene",
+            "S. Bolz",
+            "W. Kölker",
+            "Christoph Schiffers",
+            "O. Lemmer",
+            "Lars Hultman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 123,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-88465"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0378-7753(03)00275-1",
+        "title": "Diagnosis of power fade mechanisms in high-power lithium-ion cells",
+        "journal": "Journal of Power Sources",
+        "year": 2003,
+        "citations": 122,
+        "authors": "Daniel P. Abraham, J Liu, Chunhua Chen et al.",
+        "authors_list": [
+            "Daniel P. Abraham",
+            "J Liu",
+            "Chunhua Chen",
+            "Yoo-Eup Hyung",
+            "M. Stoll",
+            "N Elsen",
+            "Scott MacLaren",
+            "R. D. Twesten",
+            "Richard T. Haasch",
+            "E. Sammann",
+            "I. Petrov",
+            "Khalil Amine",
+            "G. L. Henriksen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 122,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0040-6090(96)09524-7",
+        "title": "Ion-assisted growth of Ti1−xAlxN/Ti1−yNbyN multilayers by combined cathodic-arc/magnetron-sputter deposition",
+        "journal": "Thin Solid Films",
+        "year": 1997,
+        "citations": 120,
+        "authors": "I. Petrov, P. Losbichler, D. Bergstrom et al.",
+        "authors_list": [
+            "I. Petrov",
+            "P. Losbichler",
+            "D. Bergstrom",
+            "J. E. Greene",
+            "W.‐D. Münz",
+            "T. Hurkmans",
+            "Thanh Thuy Trinh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0040-6090(01)01618-2",
+        "title": "Phase composition and microstructure of polycrystalline and epitaxial TaNx layers grown on oxidized Si(001) and MgO(001) by reactive magnetron sputter deposition",
+        "journal": "Thin Solid Films",
+        "year": 2002,
+        "citations": 117,
+        "authors": "Cheung Soo Shin, Y.-W. Kim, Daniel Gall et al.",
+        "authors_list": [
+            "Cheung Soo Shin",
+            "Y.-W. Kim",
+            "Daniel Gall",
+            "J. E. Greene",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.tsf.2019.137479",
+        "title": "A review of the intrinsic ductility and toughness of hard transition-metal nitride alloy thin films",
+        "journal": "Thin Solid Films",
+        "year": 2019,
+        "citations": 117,
+        "authors": "Hanna Kindlund, Davide G. Sangiovanni, I. Petrov et al.",
+        "authors_list": [
+            "Hanna Kindlund",
+            "Davide G. Sangiovanni",
+            "I. Petrov",
+            "J. E. Greene",
+            "L. Hultman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-160970"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1870097",
+        "title": "Epitaxial and polycrystalline HfNx (0.8⩽x⩽1.5) layers on MgO(001): Film growth and physical properties",
+        "journal": "Journal of Applied Physics",
+        "year": 2005,
+        "citations": 106,
+        "authors": "Hwan-Seok Seo, Taeyoon Lee, I. Petrov et al.",
+        "authors_list": [
+            "Hwan-Seok Seo",
+            "Taeyoon Lee",
+            "I. Petrov",
+            "J. E. Greene",
+            "Daniel Gall"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.actamat.2014.06.025",
+        "title": "Vacancy-induced toughening in hard single-crystal V 0.5 Mo 0.5 N x /MgO(0 0 1) thin films",
+        "journal": "Acta Materialia",
+        "year": 2014,
+        "citations": 96,
+        "authors": "Hanna Kindlund, Davide G. Sangiovanni, Jun Lü et al.",
+        "authors_list": [
+            "Hanna Kindlund",
+            "Davide G. Sangiovanni",
+            "Jun Lü",
+            "Jens Jensen",
+            "V. Chirita",
+            "Jens Birch",
+            "I. Petrov",
+            "J. E. Greene",
+            "Lars Hultman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1756191",
+        "title": "Nanomachining carbon nanotubes with ion beams",
+        "journal": "Applied Physics Letters",
+        "year": 2004,
+        "citations": 96,
+        "authors": "M. S. Raghuveer, P. G. Ganesan, J. D’Arcy-Gall et al.",
+        "authors_list": [
+            "M. S. Raghuveer",
+            "P. G. Ganesan",
+            "J. D’Arcy-Gall",
+            "Ganapathiraman Ramanath",
+            "Mike Marshall",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1510558",
+        "title": "Development of preferred orientation in polycrystalline NaCl-structure δ-TaN layers grown by reactive magnetron sputtering: Role of low-energy ion surface interactions",
+        "journal": "Journal of Applied Physics",
+        "year": 2002,
+        "citations": 95,
+        "authors": "Cheung Soo Shin, Daniel Gall, Y.-W. Kim et al.",
+        "authors_list": [
+            "Cheung Soo Shin",
+            "Daniel Gall",
+            "Y.-W. Kim",
+            "Niklas Hellgren",
+            "I. Petrov",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1759783",
+        "title": "Growth and physical properties of epitaxial HfN layers on MgO(001)",
+        "journal": "Journal of Applied Physics",
+        "year": 2004,
+        "citations": 94,
+        "authors": "Hwan-Seok Seo, Taeyoon Lee, Jianguo Wen et al.",
+        "authors_list": [
+            "Hwan-Seok Seo",
+            "Taeyoon Lee",
+            "Jianguo Wen",
+            "I. Petrov",
+            "J. E. Greene",
+            "Daniel Gall"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 94,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.aip.org/aip/jap/article-pdf/96/1/878/10637549/878_1_online.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1329348",
+        "title": "Epitaxial Sc1−xTixN(001): Optical and electronic transport properties",
+        "journal": "Journal of Applied Physics",
+        "year": 2001,
+        "citations": 94,
+        "authors": "Daniel Gall, I. Petrov, J. E. Greene",
+        "authors_list": [
+            "Daniel Gall",
+            "I. Petrov",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 94,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1391214",
+        "title": "Epitaxial NaCl structure δ-TaNx(001): Electronic transport properties, elastic modulus, and hardness versus N/Ta ratio",
+        "journal": "Journal of Applied Physics",
+        "year": 2001,
+        "citations": 90,
+        "authors": "Cheung Soo Shin, Daniel Gall, Y.-W. Kim et al.",
+        "authors_list": [
+            "Cheung Soo Shin",
+            "Daniel Gall",
+            "Y.-W. Kim",
+            "P. Desjardins",
+            "I. Petrov",
+            "J. E. Greene",
+            "Magnus Odén",
+            "L. Hultman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0040-6090(91)90297-b",
+        "title": "Transmission electron microscopy studies of microstructural evolution, defect structure, and phase transitions in polycrystalline and epitaxial Ti1−xAlxN and TiN films grown by reactive magnetron sputter deposition",
+        "journal": "Thin Solid Films",
+        "year": 1991,
+        "citations": 89,
+        "authors": "Lars Hultman, G. Håkansson, U. Wahlström et al.",
+        "authors_list": [
+            "Lars Hultman",
+            "G. Håkansson",
+            "U. Wahlström",
+            "J.‐E. Sundgren",
+            "I. Petrov",
+            "F. Adibi",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.91.054101",
+        "title": "Dynamic and structural stability of cubic vanadium nitride",
+        "journal": "Physical Review B",
+        "year": 2015,
+        "citations": 89,
+        "authors": "Antonio B. Mei, Olle Hellman, N. Wireklint et al.",
+        "authors_list": [
+            "Antonio B. Mei",
+            "Olle Hellman",
+            "N. Wireklint",
+            "Christian M. Schlepütz",
+            "Davide G. Sangiovanni",
+            "Björn Alling",
+            "Angus Rockett",
+            "Lars Hultman",
+            "I. Petrov",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevB.91.054101"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/jemt.20096",
+        "title": "Coherent nano‐area electron diffraction",
+        "journal": "Microscopy Research and Technique",
+        "year": 2004,
+        "citations": 85,
+        "authors": "Jian‐Min Zuo, Min Gao, Jing Tao et al.",
+        "authors_list": [
+            "Jian‐Min Zuo",
+            "Min Gao",
+            "Jing Tao",
+            "B.Q. Li",
+            "R. D. Twesten",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 85,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jemt.20096"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1557/mrs2001.40",
+        "title": "Multiscale Modeling of Thin-Film Deposition: Applications to Si Device Processing",
+        "journal": "MRS Bulletin",
+        "year": 2001,
+        "citations": 84,
+        "authors": "F.H. Baumann, David L. Chopp, T. Dı́az de la Rubia et al.",
+        "authors_list": [
+            "F.H. Baumann",
+            "David L. Chopp",
+            "T. Dı́az de la Rubia",
+            "George H. Gilmer",
+            "J. E. Greene",
+            "H. Huang",
+            "Suneel Kodambaka",
+            "Peter O'Sullivan",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.3263942",
+        "title": "Transfer of graphene layers grown on SiC wafers to other substrates and their integration into field effect transistors",
+        "journal": "Applied Physics Letters",
+        "year": 2009,
+        "citations": 84,
+        "authors": "Sakulsuk Unarunotai, Yuya Murata, Cesar Chialvo et al.",
+        "authors_list": [
+            "Sakulsuk Unarunotai",
+            "Yuya Murata",
+            "Cesar Chialvo",
+            "Hoon-Sik Kim",
+            "Scott MacLaren",
+            "Nadya Mason",
+            "I. Petrov",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.118675",
+        "title": "Morphology of epitaxial TiN(001) grown by magnetron sputtering",
+        "journal": "Applied Physics Letters",
+        "year": 1997,
+        "citations": 83,
+        "authors": "Brian W. Karr, I. Petrov, David G. Cahill et al.",
+        "authors_list": [
+            "Brian W. Karr",
+            "I. Petrov",
+            "David G. Cahill",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 83,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.71.144106",
+        "title": "Elastic constants of single-crystal<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi mathvariant=\"normal\">Ti</mml:mi><mml:msub><mml:mi mathvariant=\"normal\">N</mml:mi><mml:mi>x</mml:mi></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mn>001</mml:mn><mml:mo>)</mml:mo></mml:mrow><mml:mspace width=\"0.3em\"/><mml:mrow><mml:mo>(</mml:mo><mml:mn>0.67</mml:mn><mml:mo>⩽</mml:mo><mml:mi>x</mml:mi><mml:mo>⩽</mml:mo><mml:mi>1.0</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math>determined as a function of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>x</mml:mi></mml:math>by picosecond ultrasonic measurements",
+        "journal": "Physical Review B",
+        "year": 2005,
+        "citations": 83,
+        "authors": "Taeyoon Lee, Kenji Ohmori, Cheung Soo Shin et al.",
+        "authors_list": [
+            "Taeyoon Lee",
+            "Kenji Ohmori",
+            "Cheung Soo Shin",
+            "David G. Cahill",
+            "I. Petrov",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 83,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.5026445",
+        "title": "Controlling the B/Ti ratio of TiBx thin films grown by high-power impulse magnetron sputtering",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 2018,
+        "citations": 82,
+        "authors": "Babak Bakhit, I. Petrov, J. E. Greene et al.",
+        "authors_list": [
+            "Babak Bakhit",
+            "I. Petrov",
+            "J. E. Greene",
+            "Lars Hultman",
+            "Johanna Rosén",
+            "Grzegorz Greczyński"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-148101"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.tsf.2014.01.017",
+        "title": "Strain-free, single-phase metastable Ti0.38Al0.62N alloys with high hardness: metal-ion energy vs. momentum effects during film growth by hybrid high-power pulsed/dc magnetron cosputtering",
+        "journal": "Thin Solid Films",
+        "year": 2014,
+        "citations": 82,
+        "authors": "Grzegorz Greczyński, Jun Lu, Jens Jensen et al.",
+        "authors_list": [
+            "Grzegorz Greczyński",
+            "Jun Lu",
+            "Jens Jensen",
+            "I. Petrov",
+            "J. E. Greene",
+            "S. Bolz",
+            "W. Kölker",
+            "Ch. Schiffers",
+            "O. Lemmer",
+            "Lars Hultman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nn102446y",
+        "title": "Moiré Superstructures of Graphene on Faceted Nickel Islands",
+        "journal": "ACS Nano",
+        "year": 2010,
+        "citations": 81,
+        "authors": "Yuya Murata, Vania Petrova, Branden B. Kappes et al.",
+        "authors_list": [
+            "Yuya Murata",
+            "Vania Petrova",
+            "Branden B. Kappes",
+            "Abbas Ebnonnasir",
+            "I. Petrov",
+            "Ya‐Hong Xie",
+            "Cristian V. Ciobanu",
+            "Suneel Kodambaka"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.123292",
+        "title": "Hydrogen uptake in alumina thin films synthesized from an aluminum plasma stream in an oxygen ambient",
+        "journal": "Applied Physics Letters",
+        "year": 1999,
+        "citations": 80,
+        "authors": "Jochen M. Schneider, André Anders, Bjørgvin Hjörvarsson et al.",
+        "authors_list": [
+            "Jochen M. Schneider",
+            "André Anders",
+            "Bjørgvin Hjörvarsson",
+            "I. Petrov",
+            "K. Macák",
+            "Ulf Helmersson",
+            "J.‐E. Sundgren"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.surfcoat.2020.126537",
+        "title": "Microstructure and materials properties of understoichiometric TiBx thin films grown by HiPIMS",
+        "journal": "Surface and Coatings Technology",
+        "year": 2020,
+        "citations": 80,
+        "authors": "Jimmy Thörnberg, Justinas Pališaitis, Niklas Hellgren et al.",
+        "authors_list": [
+            "Jimmy Thörnberg",
+            "Justinas Pališaitis",
+            "Niklas Hellgren",
+            "Fedor F. Klimashin",
+            "Naureen Ghafoor",
+            "Igor Zhirkov",
+            "Clio Azina",
+            "Jean‐Luc Battaglia",
+            "Andrzej Kusiak",
+            "Maurico A. Sortica",
+            "J. E. Greene",
+            "Lars Hultman",
+            "I. Petrov",
+            "Per O. Å. Persson",
+            "Johanna Rosén"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S025789722031207X/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.371555",
+        "title": "Microstructural evolution and Poisson ratio of epitaxial ScN grown on TiN(001)/MgO(001) by ultrahigh vacuum reactive magnetron sputter deposition",
+        "journal": "Journal of Applied Physics",
+        "year": 1999,
+        "citations": 77,
+        "authors": "Daniel Gall, I. Petrov, P. Desjardins et al.",
+        "authors_list": [
+            "Daniel Gall",
+            "I. Petrov",
+            "P. Desjardins",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.aip.org/aip/jap/article-pdf/86/10/5524/10600152/5524_1_online.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.vacuum.2011.10.027",
+        "title": "Selection of metal ion irradiation for controlling Ti1−xAlxN alloy growth via hybrid HIPIMS/magnetron co-sputtering",
+        "journal": "Vacuum",
+        "year": 2011,
+        "citations": 76,
+        "authors": "Grzegorz Greczyński, Jun Lu, Mats Johansson et al.",
+        "authors_list": [
+            "Grzegorz Greczyński",
+            "Jun Lu",
+            "Mats Johansson",
+            "J. Jensen",
+            "I. Petrov",
+            "J. E. Greene",
+            "L. Hultman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-77108"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10853-009-3784-1",
+        "title": "Structural study of Li2MnO3 by electron microscopy",
+        "journal": "Journal of Materials Science",
+        "year": 2009,
+        "citations": 75,
+        "authors": "C. H. Lei, Jian Wen, M. R. Sardela et al.",
+        "authors_list": [
+            "C. H. Lei",
+            "Jian Wen",
+            "M. R. Sardela",
+            "Javier Bareño",
+            "I. Petrov",
+            "Suk-Hoon Kang",
+            "Daniel P. Abraham"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.125463",
+        "title": "Growth and physical properties of epitaxial metastable cubic TaN(001)",
+        "journal": "Applied Physics Letters",
+        "year": 1999,
+        "citations": 74,
+        "authors": "Cheung Soo Shin, Daniel Gall, P. Desjardins et al.",
+        "authors_list": [
+            "Cheung Soo Shin",
+            "Daniel Gall",
+            "P. Desjardins",
+            "Artūras Vailionis",
+            "H. Kim",
+            "I. Petrov",
+            "J. E. Greene",
+            "Magnus Odén"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.200904198",
+        "title": "Probing Interfacial Electronic Structures in Atomic Layer LaMnO<sub>3</sub> and SrTiO<sub>3</sub> Superlattices",
+        "journal": "Advanced Materials",
+        "year": 2010,
+        "citations": 73,
+        "authors": "Amish B. Shah, Quentin M. Ramasse, Xiaofang Zhai et al.",
+        "authors_list": [
+            "Amish B. Shah",
+            "Quentin M. Ramasse",
+            "Xiaofang Zhai",
+            "Jian Wen",
+            "Steve May",
+            "I. Petrov",
+            "Anand Bhattacharya",
+            "Peter Abbamonte",
+            "J. N. Eckstein",
+            "Jian‐Min Zuo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.actamat.2015.10.039",
+        "title": "Effects of phase stability, lattice ordering, and electron density on plastic deformation in cubic TiWN pseudobinary transition-metal nitride alloys",
+        "journal": "Acta Materialia",
+        "year": 2015,
+        "citations": 72,
+        "authors": "Davide G. Sangiovanni, L. Hultman, V. Chirita et al.",
+        "authors_list": [
+            "Davide G. Sangiovanni",
+            "L. Hultman",
+            "V. Chirita",
+            "I. Petrov",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ssi.2010.11.030",
+        "title": "Analytical electron microscopy of Li1.2Co0.4Mn0.4O2 for lithium-ion batteries",
+        "journal": "Solid State Ionics",
+        "year": 2010,
+        "citations": 71,
+        "authors": "Jian Wen, Javier Bareño, C. H. Lei et al.",
+        "authors_list": [
+            "Jian Wen",
+            "Javier Bareño",
+            "C. H. Lei",
+            "Suk-Hoon Kang",
+            "Mahalingam Balasubramanian",
+            "I. Petrov",
+            "Daniel P. Abraham"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1557/jmr.2005.0225",
+        "title": "In situ Transmission Electron Microscopy Studies Enabled by Microelectromechanical System Technology",
+        "journal": "Journal of materials research/Pratt's guide to venture capital sources",
+        "year": 2005,
+        "citations": 71,
+        "authors": "M. Zhang, E. A. Olson, R. D. Twesten et al.",
+        "authors_list": [
+            "M. Zhang",
+            "E. A. Olson",
+            "R. D. Twesten",
+            "Jianguo Wen",
+            "L. H. Allen",
+            "I.M. Robertson",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.3651381",
+        "title": "Raman scattering from TiNx (0.67 ≤ x ≤ 1.00) single crystals grown on MgO(001)",
+        "journal": "Journal of Applied Physics",
+        "year": 2011,
+        "citations": 71,
+        "authors": "M. Stoehr, Cheung Soo Shin, I. Petrov et al.",
+        "authors_list": [
+            "M. Stoehr",
+            "Cheung Soo Shin",
+            "I. Petrov",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.578634",
+        "title": "Comparison of magnetron sputter deposition conditions in neon, argon, krypton, and xenon discharges",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 1993,
+        "citations": 69,
+        "authors": "I. Petrov, Ivan G. Ivanov, V. Orlinov et al.",
+        "authors_list": [
+            "I. Petrov",
+            "Ivan G. Ivanov",
+            "V. Orlinov",
+            "J.‐E. Sundgren"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.4982649",
+        "title": "Controlling the boron-to-titanium ratio in magnetron-sputter-deposited TiBx thin films",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 2017,
+        "citations": 69,
+        "authors": "I. Petrov, A. J. Hall, Antonio B. Mei et al.",
+        "authors_list": [
+            "I. Petrov",
+            "A. J. Hall",
+            "Antonio B. Mei",
+            "Nils Nedfors",
+            "Igor Zhirkov",
+            "Johanna Rosén",
+            "Amber Reed",
+            "Brandon M. Howe",
+            "Grzegorz Greczyński",
+            "Jens Birch",
+            "Lars Hultman",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.2222406",
+        "title": "Thermally induced self-hardening of nanocrystalline Ti–B–N thin films",
+        "journal": "Journal of Applied Physics",
+        "year": 2006,
+        "citations": 69,
+        "authors": "P.H. Mayrhofer, Christian Mitterer, Jianguo Wen et al.",
+        "authors_list": [
+            "P.H. Mayrhofer",
+            "Christian Mitterer",
+            "Jianguo Wen",
+            "I. Petrov",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.aip.org/aip/jap/article-pdf/doi/10.1063/1.2222406/7893392/044301_1_online.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.4825349",
+        "title": "Physical properties of epitaxial ZrN/MgO(001) layers grown by reactive magnetron sputtering",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 2013,
+        "citations": 69,
+        "authors": "Antonio B. Mei, Brandon M. Howe, C. Zhang et al.",
+        "authors_list": [
+            "Antonio B. Mei",
+            "Brandon M. Howe",
+            "C. Zhang",
+            "M. R. Sardela",
+            "J. N. Eckstein",
+            "L. Hultman",
+            "Angus Rockett",
+            "I. Petrov",
+            "J. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nn101896a",
+        "title": "Layer-by-Layer Transfer of Multiple, Large Area Sheets of Graphene Grown in Multilayer Stacks on a Single SiC Wafer",
+        "journal": "ACS Nano",
+        "year": 2010,
+        "citations": 68,
+        "authors": "Sakulsuk Unarunotai, Justin Koepke, Cheng-Lin Tsai et al.",
+        "authors_list": [
+            "Sakulsuk Unarunotai",
+            "Justin Koepke",
+            "Cheng-Lin Tsai",
+            "Frank Du",
+            "Cesar Chialvo",
+            "Yuya Murata",
+            "Rick Haasch",
+            "I. Petrov",
+            "Nadya Mason",
+            "Moonsub Shim",
+            "Joseph W. Lyding",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1875530"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.tsf.2004.08.042",
+        "title": "Influence of the bias voltage on the structure and the tribological performance of nanoscale multilayer C/Cr PVD coatings",
+        "journal": "Thin Solid Films",
+        "year": 2004,
+        "citations": 68,
+        "authors": "Y.N. Kok, P.Eh. Hovsepian, Quanshun Luo et al.",
+        "authors_list": [
+            "Y.N. Kok",
+            "P.Eh. Hovsepian",
+            "Quanshun Luo",
+            "D.B. Lewis",
+            "Jianguo Wen",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.5093170",
+        "title": "Strategy for simultaneously increasing both hardness and toughness in ZrB2-rich Zr1−xTaxBy thin films",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 2019,
+        "citations": 67,
+        "authors": "Babak Bakhit, David L. J. Engberg, Jun Lu et al.",
+        "authors_list": [
+            "Babak Bakhit",
+            "David L. J. Engberg",
+            "Jun Lu",
+            "Johanna Rosén",
+            "Hans Högberg",
+            "Lars Hultman",
+            "I. Petrov",
+            "J. E. Greene",
+            "Grzegorz Greczyński"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-159001"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.4884575",
+        "title": "Novel strategy for low-temperature, high-rate growth of dense, hard, and stress-free refractory ceramic thin films",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 2014,
+        "citations": 67,
+        "authors": "Grzegorz Greczyński, Jun Lu, S. Bolz et al.",
+        "authors_list": [
+            "Grzegorz Greczyński",
+            "Jun Lu",
+            "S. Bolz",
+            "W. Kölker",
+            "Christoph Schiffers",
+            "O. Lemmer",
+            "I. Petrov",
+            "J. E. Greene",
+            "Lars Hultman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-109233"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.actamat.2020.03.037",
+        "title": "Adaptive hard and tough mechanical response in single-crystal B1 VNx ceramics via control of anion vacancies",
+        "journal": "Acta Materialia",
+        "year": 2020,
+        "citations": 67,
+        "authors": "Antonio B. Mei, Hanna Kindlund, Esteban Broitman et al.",
+        "authors_list": [
+            "Antonio B. Mei",
+            "Hanna Kindlund",
+            "Esteban Broitman",
+            "L. Hultman",
+            "I. Petrov",
+            "J. E. Greene",
+            "Davide G. Sangiovanni"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S135964542030224X/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tuffc.2004.1350963",
+        "title": "Dependence of the electromechanical coupling on the degree of orientation of c-textured thin AlN films",
+        "journal": "IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control",
+        "year": 2004,
+        "citations": 66,
+        "authors": "Johan Bjurström, Daniel Rosén, Ilia Katardjiev et al.",
+        "authors_list": [
+            "Johan Bjurström",
+            "Daniel Rosén",
+            "Ilia Katardjiev",
+            "V.M. Yanchev",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ctpp.2150280207",
+        "title": "Electrostatic Probe Measurements in the Glow Discharge Plasma of a D. C. Magnetron Sputtering System",
+        "journal": "Contributions to Plasma Physics",
+        "year": 1988,
+        "citations": 65,
+        "authors": "I. Petrov, V. Orlinov, Ivan G. Ivanov et al.",
+        "authors_list": [
+            "I. Petrov",
+            "V. Orlinov",
+            "Ivan G. Ivanov",
+            "J. Kourtev"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0257-8972(97)00028-5",
+        "title": "Large-scale fabrication of hard superlattice thin films by combined steered arc evaporation and unbalanced magnetron sputtering",
+        "journal": "Surface and Coatings Technology",
+        "year": 1997,
+        "citations": 65,
+        "authors": "L.A. Donohue, W.‐D. Münz, D.B. Lewis et al.",
+        "authors_list": [
+            "L.A. Donohue",
+            "W.‐D. Münz",
+            "D.B. Lewis",
+            "J. Cawley",
+            "T. Hurkmans",
+            "Thanh Thuy Trinh",
+            "I. Petrov",
+            "I. E. Greene"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.susc.2014.01.007",
+        "title": "Ab initio and classical molecular dynamics simulations of N2 desorption from TiN(001) surfaces",
+        "journal": "Surface Science",
+        "year": 2014,
+        "citations": 65,
+        "authors": "Davide G. Sangiovanni, D. Edström, L. Hultman et al.",
+        "authors_list": [
+            "Davide G. Sangiovanni",
+            "D. Edström",
+            "L. Hultman",
+            "I. Petrov",
+            "J. E. Greene",
+            "V. Chirita"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111791"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.surfcoat.2015.09.001",
+        "title": "Control of Ti1−xSixN nanostructure via tunable metal-ion momentum transfer during HIPIMS/DCMS co-deposition",
+        "journal": "Surface and Coatings Technology",
+        "year": 2015,
+        "citations": 64,
+        "authors": "Grzegorz Greczyński, Jörg Patscheider, Jun Lu et al.",
+        "authors_list": [
+            "Grzegorz Greczyński",
+            "Jörg Patscheider",
+            "Jun Lu",
+            "Björn Alling",
+            "Annop Ektarawong",
+            "Jens Jensen",
+            "I. Petrov",
+            "J. E. Greene",
+            "Lars Hultman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-122787"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.actamat.2017.10.047",
+        "title": "Elastic properties and plastic deformation of TiC- and VC-based pseudobinary alloys",
+        "journal": "Acta Materialia",
+        "year": 2017,
+        "citations": 64,
+        "authors": "D. Edström, Davide G. Sangiovanni, Lars Hultman et al.",
+        "authors_list": [
+            "D. Edström",
+            "Davide G. Sangiovanni",
+            "Lars Hultman",
+            "I. Petrov",
+            "J. E. Greene",
+            "V. Chirita"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-145470"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0143-4004(05)80188-2",
+        "title": "Placental arsenic and cadmium in relation to lipid peroxides and glutathione levels in maternal-infant pairs from a copper smelter area",
+        "journal": "Placenta",
+        "year": 1994,
+        "citations": 63,
+        "authors": "Sonia Tabacova, Donna D. Baird, L Balabaeva et al.",
+        "authors_list": [
+            "Sonia Tabacova",
+            "Donna D. Baird",
+            "L Balabaeva",
+            "D Lolova",
+            "I. Petrov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.578874",
+        "title": "Influence of an external axial magnetic field on the plasma characteristics and deposition conditions during direct current planar magnetron sputtering",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 1994,
+        "citations": 63,
+        "authors": "Ivan G. Ivanov, P. R. Kazansky, Lars Hultman et al.",
+        "authors_list": [
+            "Ivan G. Ivanov",
+            "P. R. Kazansky",
+            "Lars Hultman",
+            "I. Petrov",
+            "J.‐E. Sundgren"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.4916239",
+        "title": "Al capping layers for nondestructive x-ray photoelectron spectroscopy analyses of transition-metal nitride thin films",
+        "journal": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "year": 2015,
+        "citations": 61,
+        "authors": "Grzegorz Greczyński, I. Petrov, J. E. Greene et al.",
+        "authors_list": [
+            "Grzegorz Greczyński",
+            "I. Petrov",
+            "J. E. Greene",
+            "Lars Hultman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-118598"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.0710081105",
+        "title": "Synthesis of linked carbon monolayers: Films, balloons, tubes, and pleated sheets",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2008,
+        "citations": 60,
+        "authors": "Mitchell J. Schultz, Xiaoyu Zhang, Sakulsuk Unarunotai et al.",
+        "authors_list": [
+            "Mitchell J. Schultz",
+            "Xiaoyu Zhang",
+            "Sakulsuk Unarunotai",
+            "Dahl‐Young Khang",
+            "Qing Cao",
+            "Congjun Wang",
+            "Changhui Lei",
+            "Scott MacLaren",
+            "Julio A. N. T. Soares",
+            "I. Petrov",
+            "Jeffrey S. Moore",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2396712"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1116/1.1601610",
+        "title": "Microstructural evolution during film growth",
+        "journal": "Journal of Vacuum Science &amp; Technology A: Vacuum, Surfaces, and Films",
+        "year": 2003,
+        "citations": 1651,
+        "authors": "I. Petrov, P. B. Barna, L. Hultman et al.",
+        "authors_list": [
+            "I. Petrov",
+            "P. B. Barna",
+            "L. Hultman",
+            "J. E. Greene"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1651
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/ncomms2553",
+        "title": "Stretchable batteries with self-similar serpentine interconnects and integrated wireless recharging systems",
+        "journal": "Nature Communications",
+        "year": null,
+        "citations": 1337,
+        "authors": "Sheng Xu, Yihui Zhang, Jiung Cho et al.",
+        "authors_list": [
+            "Sheng Xu",
+            "Yihui Zhang",
+            "Jiung Cho",
+            "Juhwan Lee",
+            "Xian Huang",
+            "Lin Jia",
+            "Jonathan A. Fan",
+            "Yewang Su",
+            "Jessica Su",
+            "Huigang Zhang",
+            "Huanyu Cheng",
+            "Bingwei Lu",
+            "Cunjiang Yu",
+            "Chi Chuang",
+            "Tae-il Kim",
+            "Taeseup Song",
+            "Kazuyo Shigeta",
+            "Sen Kang",
+            "Canan Dagdeviren",
+            "Ivan Petrov",
+            "Paul V. Braun",
+            "Yonggang Huang",
+            "Ungyu Paik",
+            "John A. Rogers"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1337
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms2553.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s0257-8972(99)00292-3",
+        "title": "A novel pulsed magnetron sputter technique utilizing very high target power densities",
+        "journal": "Surface and Coatings Technology",
+        "year": 1999,
+        "citations": 987,
+        "authors": "Vladimir Kouznetsov, Karol Macák, Jochen M. Schneider et al.",
+        "authors_list": [
+            "Vladimir Kouznetsov",
+            "Karol Macák",
+            "Jochen M. Schneider",
+            "Ulf Helmersson",
+            "Ivan Petrov"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 987
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1063/1.114845",
+        "title": "Development of preferred orientation in polycrystalline TiN layers grown by ultrahigh vacuum reactive magnetron sputtering",
+        "journal": "Applied Physics Letters",
+        "year": 1995,
+        "citations": 378,
+        "authors": "J. E. Greene, J.-E. Sundgren, L. Hultman et al.",
+        "authors_list": [
+            "J. E. Greene",
+            "J.-E. Sundgren",
+            "L. Hultman",
+            "I. Petrov",
+            "D. B. Bergstrom"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 378
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s1388-2481(02)00388-0",
+        "title": "Surface changes on LiNi0.8Co0.2O2 particles during testing of high-power lithium-ion cells",
+        "journal": "Electrochemistry Communications",
+        "year": 2002,
+        "citations": 305,
+        "authors": "D.P Abraham, R.D Twesten, M Balasubramanian et al.",
+        "authors_list": [
+            "D.P Abraham",
+            "R.D Twesten",
+            "M Balasubramanian",
+            "I Petrov",
+            "J McBreen",
+            "K Amine"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 305
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1063/1.2697052",
+        "title": "Interface microstructure engineering by high power impulse magnetron sputtering for the enhancement of adhesion",
+        "journal": "Journal of Applied Physics",
+        "year": 2007,
+        "citations": 273,
+        "authors": "A. P. Ehiasarian, J. G. Wen, I. Petrov",
+        "authors_list": [
+            "A. P. Ehiasarian",
+            "J. G. Wen",
+            "I. Petrov"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 273
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1063/1.359720",
+        "title": "High-flux low-energy (≂20 eV) N+2 ion irradiation during TiN deposition by reactive magnetron sputtering: Effects on microstructure and preferred orientation",
+        "journal": "Journal of Applied Physics",
+        "year": 1995,
+        "citations": 228,
+        "authors": "L. Hultman, J.-E. Sundgren, J. E. Greene et al.",
+        "authors_list": [
+            "L. Hultman",
+            "J.-E. Sundgren",
+            "J. E. Greene",
+            "D. B. Bergstrom",
+            "I. Petrov"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 228
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1149/1.1613291",
+        "title": "Microscopy and Spectroscopy of Lithium Nickel Oxide-Based Particles Used in High Power Lithium-Ion Cells",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 2003,
+        "citations": 231,
+        "authors": "D. P. Abraham, R. D. Twesten, M. Balasubramanian et al.",
+        "authors_list": [
+            "D. P. Abraham",
+            "R. D. Twesten",
+            "M. Balasubramanian",
+            "J. Kropf",
+            "D. Fischer",
+            "J. McBreen",
+            "I. Petrov",
+            "K. Amine"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 231
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1063/1.109742",
+        "title": "Average energy deposited per atom: A universal parameter for describing ion-assisted film growth?",
+        "journal": "Applied Physics Letters",
+        "year": 1993,
+        "citations": 215,
+        "authors": "I. Petrov, F. Adibi, J. E. Greene et al.",
+        "authors_list": [
+            "I. Petrov",
+            "F. Adibi",
+            "J. E. Greene",
+            "L. Hultman",
+            "J.-E. Sundgren"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 215
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/0040-6090(93)90244-j",
+        "title": "Crystal growth and microstructure of polycrystalline Ti1−xAlxN alloy films deposited by ultra-high-vacuum dual-target magnetron sputtering",
+        "journal": "Thin Solid Films",
+        "year": 1993,
+        "citations": 194,
+        "authors": "U. Wahlström, L. Hultman, J.-E. Sundgren et al.",
+        "authors_list": [
+            "U. Wahlström",
+            "L. Hultman",
+            "J.-E. Sundgren",
+            "F. Adibi",
+            "I. Petrov",
+            "J.E. Greene"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 194
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s0257-8972(97)00249-1",
+        "title": "Microstructure and oxidation-resistance of Ti1 − x − y −zAlxCryYzN layers grown by combined steered-arc/unbalanced-magnetron-sputter deposition",
+        "journal": "Surface and Coatings Technology",
+        "year": 1997,
+        "citations": 186,
+        "authors": "L.A. Donohue, I.J. Smith, W.-D. Münz et al.",
+        "authors_list": [
+            "L.A. Donohue",
+            "I.J. Smith",
+            "W.-D. Münz",
+            "I. Petrov",
+            "J.E. Greene"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 186
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/ncomms5035",
+        "title": "Electrochemically tunable thermal conductivity of lithium cobalt oxide",
+        "journal": "Nature Communications",
+        "year": null,
+        "citations": 187,
+        "authors": "Jiung Cho, Mark D. Losego, Hui Gang Zhang et al.",
+        "authors_list": [
+            "Jiung Cho",
+            "Mark D. Losego",
+            "Hui Gang Zhang",
+            "Honggyu Kim",
+            "Jianmin Zuo",
+            "Ivan Petrov",
+            "David G. Cahill",
+            "Paul V. Braun"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 187
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms5035.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1021/cm200250a",
+        "title": "Long-Range and Local Structure in the Layered Oxide Li<sub>1.2</sub>Co<sub>0.4</sub>Mn<sub>0.4</sub>O<sub>2</sub>",
+        "journal": "Chemistry of Materials",
+        "year": 2011,
+        "citations": 190,
+        "authors": "J. Bareño, M. Balasubramanian, S. H. Kang et al.",
+        "authors_list": [
+            "J. Bareño",
+            "M. Balasubramanian",
+            "S. H. Kang",
+            "J. G. Wen",
+            "C. H. Lei",
+            "S. V. Pol",
+            "I. Petrov",
+            "D. P. Abraham"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 190
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1063/1.353388",
+        "title": "Effects of high-flux low-energy (20–100 eV) ion irradiation during deposition on the microstructure and preferred orientation of Ti0.5Al0.5N alloys grown by ultra-high-vacuum reactive magnetron sputtering",
+        "journal": "Journal of Applied Physics",
+        "year": 1993,
+        "citations": 166,
+        "authors": "F. Adibi, I. Petrov, J. E. Greene et al.",
+        "authors_list": [
+            "F. Adibi",
+            "I. Petrov",
+            "J. E. Greene",
+            "L. Hultman",
+            "J.-E. Sundgren"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 166
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.63.125119",
+        "title": "Electronic structure of ScN determined using optical spectroscopy, photoemission, and<i>ab initio</i>calculations",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 155,
+        "authors": "D. Gall, M. Städele, K. Järrendahl et al.",
+        "authors_list": [
+            "D. Gall",
+            "M. Städele",
+            "K. Järrendahl",
+            "I. Petrov",
+            "P. Desjardins",
+            "R. T. Haasch",
+            "T.-Y. Lee",
+            "J. E. Greene"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 155
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

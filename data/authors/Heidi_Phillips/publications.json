@@ -1,0 +1,3994 @@
+[
+    {
+        "doi": "https://doi.org/10.1038/362841a0",
+        "title": "Inhibition of vascular endothelial growth factor-induced angiogenesis suppresses tumour growth in vivo",
+        "journal": "Nature",
+        "year": 1993,
+        "citations": 3612,
+        "authors": "K. Jin Kim, Bing Li, Jane Winer et al.",
+        "authors_list": [
+            "K. Jin Kim",
+            "Bing Li",
+            "Jane Winer",
+            "Mark Armanini",
+            "Nancy A. Gillett",
+            "Heidi Phillips",
+            "Napoleone Ferrara"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 3612,
+            "crossref": 2752
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ccr.2006.02.019",
+        "title": "Molecular subclasses of high-grade glioma predict prognosis, delineate a pattern of disease progression, and resemble stages in neurogenesis",
+        "journal": "Cancer Cell",
+        "year": 2006,
+        "citations": 3193,
+        "authors": "Heidi Phillips, Samir Kharbanda, Ruihuan Chen et al.",
+        "authors_list": [
+            "Heidi Phillips",
+            "Samir Kharbanda",
+            "Ruihuan Chen",
+            "William F. Forrest",
+            "Robert Soriano",
+            "Thomas D. Wu",
+            "Anjan Misra",
+            "Janice Nigro",
+            "Howard Colman",
+            "Liliana Soroceanu",
+            "P. Mickey Williams",
+            "Zora Modrušan",
+            "Burt G. Feuerstein",
+            "Ken Aldape"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 3193,
+            "crossref": 2608
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S1535610806000560/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ccr.2010.03.017",
+        "title": "Identification of a CpG Island Methylator Phenotype that Defines a Distinct Subgroup of Glioma",
+        "journal": "Cancer Cell",
+        "year": 2010,
+        "citations": 2370,
+        "authors": "Houtan Noushmehr, Daniel J. Weisenberger, Kristin Diefes et al.",
+        "authors_list": [
+            "Houtan Noushmehr",
+            "Daniel J. Weisenberger",
+            "Kristin Diefes",
+            "Heidi Phillips",
+            "Kanan Pujara",
+            "Benjamin P. Berman",
+            "Fei Pan",
+            "Christopher E. Pelloski",
+            "Erik P. Sulman",
+            "Krishna Bhat",
+            "Roel G.W. Verhaak",
+            "Katherine A. Hoadley",
+            "D. Neil Hayes",
+            "Charles M. Perou",
+            "Heather K. Schmidt",
+            "Li Ding",
+            "Richard K. Wilson",
+            "David Van Den Berg",
+            "Hui Shen",
+            "Henrik Bengtsson",
+            "Pierre Neuvial",
+            "Leslie Cope",
+            "Jonathan D. Buckley",
+            "James G. Herman",
+            "Stephen B. Baylin",
+            "Peter W. Laird",
+            "Kenneth Aldape"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2370,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S153561081000108X/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0896-6273(00)80886-7",
+        "title": "Mice Lacking α-Synuclein Display Functional Deficits in the Nigrostriatal Dopamine System",
+        "journal": "Neuron",
+        "year": 2000,
+        "citations": 1694,
+        "authors": "Asa Abeliovich, Yvonne Schmitz, Isabel Fariñas et al.",
+        "authors_list": [
+            "Asa Abeliovich",
+            "Yvonne Schmitz",
+            "Isabel Fariñas",
+            "DL Choi-Lundberg",
+            "Wei-Hsien Ho",
+            "Pablo E. Castillo",
+            "Natasha Shinsky",
+            "José Manuel García‐Verdugo",
+            "Mark Armanini",
+            "Anne Ryan",
+            "Mary Hynes",
+            "Heidi Phillips",
+            "David Sulzer",
+            "Arnon Rosenthal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1694,
+            "crossref": 1465
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S0896627300808867/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/382076a0",
+        "title": "Renal and neuronal abnormalities in mice lacking GDNF",
+        "journal": "Nature",
+        "year": 1996,
+        "citations": 1281,
+        "authors": "Mark W. Moore, Robert D. Klein, Isabel Fariñas et al.",
+        "authors_list": [
+            "Mark W. Moore",
+            "Robert D. Klein",
+            "Isabel Fariñas",
+            "H. Sauer",
+            "Mark Armanini",
+            "Heidi Phillips",
+            "Louis F. Reichardt",
+            "Anne Ryan",
+            "Karen Carver-Moore",
+            "Arnon Rosenthal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1281,
+            "crossref": 1071
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.7973664",
+        "title": "GDNF: a Potent Survival Factor for Motoneurons Present in Peripheral Nerve and Muscle",
+        "journal": "Science",
+        "year": 1994,
+        "citations": 1279,
+        "authors": "Christopher E. Henderson, Heidi Phillips, Richard A. Pollock et al.",
+        "authors_list": [
+            "Christopher E. Henderson",
+            "Heidi Phillips",
+            "Richard A. Pollock",
+            "Alun M. Davies",
+            "Corinne Lemeulle",
+            "Mark Armanini",
+            "Laura Simmons",
+            "Barbara Moffet",
+            "Richard Vandlen",
+            "Vassilis E. Koliatsos",
+            "Arnon Rosenthal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1279,
+            "crossref": 1039
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ccr.2013.08.001",
+        "title": "Mesenchymal Differentiation Mediated by NF-κB Promotes Radiation Resistance in Glioblastoma",
+        "journal": "Cancer Cell",
+        "year": 2013,
+        "citations": 1148,
+        "authors": "Krishna Bhat, Veerakumar Balasubramaniyan, Brian Vaillant et al.",
+        "authors_list": [
+            "Krishna Bhat",
+            "Veerakumar Balasubramaniyan",
+            "Brian Vaillant",
+            "Ravesanker Ezhilarasan",
+            "Karlijn Hummelink",
+            "Faith Hollingsworth",
+            "Khalida Wani",
+            "Lindsey Heathcock",
+            "Johanna D. James",
+            "Lindsey D. Goodman",
+            "Siobhan Conroy",
+            "Lihong Long",
+            "Nina Lelic",
+            "Suzhen Wang",
+            "Joy Gumin",
+            "Divya Raj",
+            "Yoshinori Kodama",
+            "Aditya Raghunathan",
+            "Adriana Olar",
+            "Kaushal Joshi",
+            "Christopher E. Pelloski",
+            "Amy B. Heimberger",
+            "Se Hoon Kim",
+            "Daniel P. Cahill",
+            "Ganesh Rao",
+            "Wilfred F.A. den Dunnen",
+            "Hendrikus Boddeke",
+            "Heidi Phillips",
+            "Ichiro Nakano",
+            "Frederick F. Lang",
+            "Howard Colman",
+            "Erik P. Sulman",
+            "Kenneth Aldape"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1148,
+            "crossref": 984
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S1535610813003280/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/384129a0",
+        "title": "The tumour-suppressor gene patched encodes a candidate receptor for Sonic hedgehog",
+        "journal": "Nature",
+        "year": 1996,
+        "citations": 1115,
+        "authors": "Donna M. Stone, Mary Hynes, Mark Armanini et al.",
+        "authors_list": [
+            "Donna M. Stone",
+            "Mary Hynes",
+            "Mark Armanini",
+            "Todd A. Swanson",
+            "Qimin Gu",
+            "Ronald L. Johnson",
+            "Matthew P. Scott",
+            "Diane Pennica",
+            "Audrey D. Goddard",
+            "Heidi Phillips",
+            "Markus Noll",
+            "Joan E. Hooper",
+            "Frédéric J. de Sauvage",
+            "Arnon Rosenthal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1115,
+            "crossref": 934
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/382080a0",
+        "title": "Characterization of a multicomponent receptor for GDNF",
+        "journal": "Nature",
+        "year": 1996,
+        "citations": 1099,
+        "authors": "James Treanor, Laurie J. Goodman, Frédéric J. de Sauvage et al.",
+        "authors_list": [
+            "James Treanor",
+            "Laurie J. Goodman",
+            "Frédéric J. de Sauvage",
+            "Donna M. Stone",
+            "Kris Poulsen",
+            "Claus D. Beck",
+            "Christa L. Gray",
+            "Mark Armanini",
+            "Richard A. Pollock",
+            "Franz Hefti",
+            "Heidi Phillips",
+            "Audry Goddard",
+            "Mark W. Moore",
+            "Anna Buj‐Bello",
+            "Alun M. Davies",
+            "Naoya Asai",
+            "Masahide Takahashi",
+            "Richard Vandlen",
+            "Christopher E. Henderson",
+            "Arnon Rosenthal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1099,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0092-8674(94)90378-6",
+        "title": "Mice lacking nerve growth factor display perinatal loss of sensory and sympathetic neurons yet develop basal forebrain cholinergic neurons",
+        "journal": "Cell",
+        "year": 1994,
+        "citations": 1065,
+        "authors": "Craig Crowley, Susan D. Spencer, Merry Nishimura et al.",
+        "authors_list": [
+            "Craig Crowley",
+            "Susan D. Spencer",
+            "Merry Nishimura",
+            "Karen Chen",
+            "Sharon Pitts-Meek",
+            "Mark P. Armaninl",
+            "Lanway H. Ling",
+            "Stephen B. McMahon",
+            "David L. Shelton",
+            "Arthur D. Levinson",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1065,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.2502842",
+        "title": "Lutropin-Choriogonadotropin Receptor: An Unusual Member of the G Protein-Coupled Receptor Family",
+        "journal": "Science",
+        "year": 1989,
+        "citations": 949,
+        "authors": "Keith McFarland, Rolf Sprengel, Heidi Phillips et al.",
+        "authors_list": [
+            "Keith McFarland",
+            "Rolf Sprengel",
+            "Heidi Phillips",
+            "Martin Köhler",
+            "Nora Rosemblit",
+            "Károly Nikolics",
+            "Deborah L. Segaloff",
+            "Peter H. Seeburg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 949,
+            "crossref": 661
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0896-6273(91)90273-3",
+        "title": "BDNF mRNA is decreased in the hippocampus of individuals with Alzheimer's disease",
+        "journal": "Neuron",
+        "year": 1991,
+        "citations": 927,
+        "authors": "Heidi Phillips, Jeanne M. Hains, Mark Armanini et al.",
+        "authors_list": [
+            "Heidi Phillips",
+            "Jeanne M. Hains",
+            "Mark Armanini",
+            "Gary R. Laramee",
+            "Steve A. Johnson",
+            "John Winslow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 927,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/363266a0",
+        "title": "Neurotrophins promote motor neuron survival and are present in embryonic limb bud",
+        "journal": "Nature",
+        "year": 1993,
+        "citations": 617,
+        "authors": "Christopher E. Henderson, William Camu, Clément Mettling et al.",
+        "authors_list": [
+            "Christopher E. Henderson",
+            "William Camu",
+            "Clément Mettling",
+            "Annie Gouin",
+            "Kris Poulsen",
+            "Mona Karihaloo",
+            "Janette Ruilamas",
+            "Tony Evans",
+            "Stephen B. McMahon",
+            "Mark Armanini",
+            "Lucy R. Berkemeier",
+            "Heidi Phillips",
+            "Arnon Rosenthal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 617,
+            "crossref": 510
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0896-6273(94)90323-9",
+        "title": "Expression and coexpression of Trk receptors in subpopulations of adult primary sensory neurons projecting to identified peripheral targets",
+        "journal": "Neuron",
+        "year": 1994,
+        "citations": 579,
+        "authors": "Stephen B. McMahon, Mark Armanini, Lanway H. Ling et al.",
+        "authors_list": [
+            "Stephen B. McMahon",
+            "Mark Armanini",
+            "Lanway H. Ling",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 579,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0896-6273(00)80514-0",
+        "title": "GFRα1 Is an Essential Receptor Component for GDNF in the Developing Nervous System and Kidney",
+        "journal": "Neuron",
+        "year": 1998,
+        "citations": 564,
+        "authors": "G Cacalano, Isabel Fariñas, Li-Chong Wang et al.",
+        "authors_list": [
+            "G Cacalano",
+            "Isabel Fariñas",
+            "Li-Chong Wang",
+            "Kelly E. Hagler",
+            "Alison Forgie",
+            "Mark W. Moore",
+            "Mark Armanini",
+            "Heidi Phillips",
+            "Anne Ryan",
+            "Louis F. Reichardt",
+            "Mary Hynes",
+            "Alun M. Davies",
+            "Arnon Rosenthal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 564,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S0896627300805140/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ccr.2009.12.049",
+        "title": "A Hierarchy of Self-Renewing Tumor-Initiating Cell Types in Glioblastoma",
+        "journal": "Cancer Cell",
+        "year": 2010,
+        "citations": 543,
+        "authors": "Ruihuan Chen, Merry Nishimura, Stephanie M. Bumbaca et al.",
+        "authors_list": [
+            "Ruihuan Chen",
+            "Merry Nishimura",
+            "Stephanie M. Bumbaca",
+            "Samir Kharbanda",
+            "William F. Forrest",
+            "Ian Kasman",
+            "Joan Greve",
+            "Robert Soriano",
+            "Laurie L. Gilmour",
+            "Celina Sanchez Rivers",
+            "Zora Modrušan",
+            "Şerban Nacu",
+            "Steve Guerrero",
+            "Kyle A. Edgar",
+            "Jeffrey J. Wallin",
+            "Katrin Lamszus",
+            "Manfred Westphal",
+            "Susanne Heim",
+            "C. David James",
+            "Scott R. VandenBerg",
+            "J Costello",
+            "Scott Moorefield",
+            "Cynthia Cowdrey",
+            "Michael D. Prados",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 543,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S1535610810000656/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1688328",
+        "title": "Widespread Expression of BDNF But Not NT3 by Target Areas of Basal Forebrain Cholinergic Neurons",
+        "journal": "Science",
+        "year": 1990,
+        "citations": 533,
+        "authors": "Heidi Phillips, Jeanne M. Hains, Gary R. Laramee et al.",
+        "authors_list": [
+            "Heidi Phillips",
+            "Jeanne M. Hains",
+            "Gary R. Laramee",
+            "Arnon Rosenthal",
+            "John Winslow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 533,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.3024317",
+        "title": "A Deletion Truncating the Gonadotropin-Releasing Hormone Gene Is Responsible for Hypogonadism in the\n            <i>hpg</i>\n            Mouse",
+        "journal": "Science",
+        "year": 1986,
+        "citations": 529,
+        "authors": "Anthony J. Mason, Joel S. Hayflick, R. Thomas Zoeller et al.",
+        "authors_list": [
+            "Anthony J. Mason",
+            "Joel S. Hayflick",
+            "R. Thomas Zoeller",
+            "W. Scott Young",
+            "Heidi Phillips",
+            "Károly Nikolics",
+            "Peter H. Seeburg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 529,
+            "crossref": 419
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0896-6273(00)80453-5",
+        "title": "Persephin, a Novel Neurotrophic Factor Related to GDNF and Neurturin",
+        "journal": "Neuron",
+        "year": 1998,
+        "citations": 499,
+        "authors": "Jeffrey Milbrandt, Frédéric J. de Sauvage, Timothy J. Fahrner et al.",
+        "authors_list": [
+            "Jeffrey Milbrandt",
+            "Frédéric J. de Sauvage",
+            "Timothy J. Fahrner",
+            "Robert H. Baloh",
+            "Melanie Leitner",
+            "Malú G. Tansey",
+            "Patricia A. Lampe",
+            "Robert O. Heuckeroth",
+            "Paul T. Kotzbauer",
+            "K S Simburger",
+            "Judith P. Golden",
+            "Jamie A. Davies",
+            "R. Vejsada",
+            "Ann C. Kato",
+            "Mary Hynes",
+            "Daniel Sherman",
+            "Merry Nishimura",
+            "Li-Chong Wang",
+            "Richard Vandlen",
+            "Barbara Moffat",
+            "Robert D. Klein",
+            "Kris Poulsen",
+            "Christa L. Gray",
+            "Alain Garcès",
+            "Christopher E. Henderson",
+            "Heidi Phillips",
+            "Eugene M. Johnson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 499,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S0896627300804535/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/sj.onc.1210949",
+        "title": "Glioblastoma-derived stem cell-enriched cultures form distinct subgroups according to molecular and phenotypic criteria",
+        "journal": "Oncogene",
+        "year": 2007,
+        "citations": 466,
+        "authors": "Hauke S. Günther, Nils Ole Schmidt, Heidi Phillips et al.",
+        "authors_list": [
+            "Hauke S. Günther",
+            "Nils Ole Schmidt",
+            "Heidi Phillips",
+            "Dirk Kemming",
+            "Samir Kharbanda",
+            "Robert Soriano",
+            "Zora Modrušan",
+            "Hildegard Meissner",
+            "Manfred Westphal",
+            "Katrin Lamszus"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 466,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1200/jco.2010.33.8715",
+        "title": "Evidence for Sequenced Molecular Evolution of <i>IDH1</i> Mutant Glioblastoma From a Distinct Cell of Origin",
+        "journal": "Journal of Clinical Oncology",
+        "year": 2011,
+        "citations": 444,
+        "authors": "Albert Lai, Samir Kharbanda, Whitney B. Pope et al.",
+        "authors_list": [
+            "Albert Lai",
+            "Samir Kharbanda",
+            "Whitney B. Pope",
+            "Anh Tran",
+            "Orestes E. Solis",
+            "Franklin Peale",
+            "William F. Forrest",
+            "Kanan Pujara",
+            "Jose Carrillo",
+            "Ajay Pandita",
+            "Benjamin M. Ellingson",
+            "Chauncey W. Bowers",
+            "Robert Soriano",
+            "Nils Ole Schmidt",
+            "Sankar Mohan",
+            "William H. Yong",
+            "Somasekar Seshagiri",
+            "Zora Modrušan",
+            "Zhaoshi Jiang",
+            "Kenneth Aldape",
+            "Paul S. Mischel",
+            "Linda M. Liau",
+            "Cameron Escovedo",
+            "Weidong Chen",
+            "Phioanh L. Nghiemphu",
+            "C. David James",
+            "Michael D. Prados",
+            "Manfred Westphal",
+            "Katrin Lamszus",
+            "Timothy F. Cloughesy",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 444,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO.2010.33.8715?role=tab"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/42722",
+        "title": "A GPI-linked protein that interacts with Ret to form a candidate neurturin receptor",
+        "journal": "Nature",
+        "year": 1997,
+        "citations": 397,
+        "authors": "Robert D. Klein, Daniel Sherman, Wei-Hsien Ho et al.",
+        "authors_list": [
+            "Robert D. Klein",
+            "Daniel Sherman",
+            "Wei-Hsien Ho",
+            "Donna M. Stone",
+            "Gregory L. Bennett",
+            "Barbara Moffat",
+            "Richard Vandlen",
+            "Laura Simmons",
+            "Qimin Gu",
+            "Jo-Anne Hongo",
+            "Brigitte Devaux",
+            "Kris Poulsen",
+            "Mark Armanini",
+            "Chika Nozaki",
+            "Naoya Asai",
+            "Audrey D. Goddard",
+            "Heidi Phillips",
+            "Christopher E. Henderson",
+            "Masahide Takahashi",
+            "Arnon Rosenthal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 397,
+            "crossref": 308
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/42722.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/neuonc/nop007",
+        "title": "A multigene predictor of outcome in glioblastoma",
+        "journal": "Neuro-Oncology",
+        "year": 2009,
+        "citations": 385,
+        "authors": "Howard Colman, Lin Zhang, Erik P. Sulman et al.",
+        "authors_list": [
+            "Howard Colman",
+            "Lin Zhang",
+            "Erik P. Sulman",
+            "J. Matthew McDonald",
+            "N. L. Shooshtari",
+            "Alicia Rivera",
+            "Steven N. Popoff",
+            "Catherine L. Nutt",
+            "David N. Louis",
+            "J. Gregory Cairncross",
+            "Mark R. Gilbert",
+            "Heidi Phillips",
+            "Minesh P. Mehta",
+            "Arnab Chakravarti",
+            "Christopher E. Pelloski",
+            "Kruttika Bhat",
+            "Burt G. Feuerstein",
+            "Robert B. Jenkins",
+            "K. Aldape"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 385,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/neuro-oncology/article-pdf/12/1/49/16662666/nop007.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1523/jneurosci.18-13-04929.1998",
+        "title": "Neurturin Exerts Potent Actions on Survival and Function of Midbrain Dopaminergic Neurons",
+        "journal": "Journal of Neuroscience",
+        "year": 1998,
+        "citations": 339,
+        "authors": "Brian A. Horger, Merry Nishimura, Mark Armanini et al.",
+        "authors_list": [
+            "Brian A. Horger",
+            "Merry Nishimura",
+            "Mark Armanini",
+            "Li-Chong Wang",
+            "Kris Poulsen",
+            "Carl Rosenblad",
+            "Deniz Kirik",
+            "Barbara Moffat",
+            "Laura Simmons",
+            "Eugene M. Johnson",
+            "Jeffrey Milbrandt",
+            "Arnon Rosenthal",
+            "Anders Björklund",
+            "Richard Vandlen",
+            "Mary Hynes",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 339,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.jneurosci.org/content/jneuro/18/13/4929.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3174/ajnr.a2950",
+        "title": "Relationship between Tumor Enhancement, Edema,<i>IDH1</i>Mutational Status,<i>MGMT</i>Promoter Methylation, and Survival in Glioblastoma",
+        "journal": "American Journal of Neuroradiology",
+        "year": 2012,
+        "citations": 297,
+        "authors": "Jose Carrillo, Albert Lai, Phioanh L. Nghiemphu et al.",
+        "authors_list": [
+            "Jose Carrillo",
+            "Albert Lai",
+            "Phioanh L. Nghiemphu",
+            "H.J. Kim",
+            "Heidi Phillips",
+            "Samir Kharbanda",
+            "Parham Moftakhar",
+            "S. Lalaezari",
+            "W. H. Yong",
+            "Benjamin M. Ellingson",
+            "Jerry J. Lou",
+            "Whitney B. Pope"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 297,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ajnr.org/content/ajnr/33/7/1349.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1200/jco.2015.61.5005",
+        "title": "Patients With Proneural Glioblastoma May Derive Overall Survival Benefit From the Addition of Bevacizumab to First-Line Radiotherapy and Temozolomide: Retrospective Analysis of the AVAglio Trial",
+        "journal": "Journal of Clinical Oncology",
+        "year": 2015,
+        "citations": 294,
+        "authors": "Thomas Sandmann, Richard Bourgon, Josep Garcia et al.",
+        "authors_list": [
+            "Thomas Sandmann",
+            "Richard Bourgon",
+            "Josep Garcia",
+            "Congfen Li",
+            "Timothy F. Cloughesy",
+            "Olivier Chinot",
+            "Wolfgang Wick",
+            "Ryo Nishikawa",
+            "Warren Mason",
+            "Roger Henriksson",
+            "Frank Saran",
+            "Albert Lai",
+            "N. Moore",
+            "Samir Kharbanda",
+            "Franklin Peale",
+            "Priti S. Hegde",
+            "Lauren E. Abrey",
+            "Heidi Phillips",
+            "Carlos Bais"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 294,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO.2015.61.5005?role=tab"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1210/endo-127-2-965",
+        "title": "Vascular Endothelial Growth Factor is Expressed in Rat Corpus Luteum",
+        "journal": "Endocrinology",
+        "year": 1990,
+        "citations": 281,
+        "authors": "Heidi Phillips, Jeanne M. Hains, David W. M. Leung et al.",
+        "authors_list": [
+            "Heidi Phillips",
+            "Jeanne M. Hains",
+            "David W. M. Leung",
+            "Napoleone Ferrara"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 281,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1210/endo.133.2.7688292",
+        "title": "Developmental expression of binding sites and messenger ribonucleic acid for vascular endothelial growth factor suggests a role for this protein in vasculogenesis and angiogenesis.",
+        "journal": "Endocrinology",
+        "year": 1993,
+        "citations": 265,
+        "authors": "Lyn B. Jakeman, Mark Armanini, Heidi Phillips et al.",
+        "authors_list": [
+            "Lyn B. Jakeman",
+            "Mark Armanini",
+            "Heidi Phillips",
+            "Napoleone Ferrara"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 265,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.1460-9568.1999.00566.x",
+        "title": "Protection and regeneration of nigral dopaminergic neurons by neurturin or GDNF in a partial lesion model of Parkinson's disease after administration into the striatum or the lateral ventricle",
+        "journal": "European Journal of Neuroscience",
+        "year": 1999,
+        "citations": 259,
+        "authors": "Carl Rosenblad, Deniz Kirik, Brigitte Devaux et al.",
+        "authors_list": [
+            "Carl Rosenblad",
+            "Deniz Kirik",
+            "Brigitte Devaux",
+            "Barbara Moffat",
+            "Heidi Phillips",
+            "Anders Björklund"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 259,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1210/endo.131.1.1612003",
+        "title": "Vascular endothelial growth factor messenger ribonucleic acid expression in the primate ovary.",
+        "journal": "Endocrinology",
+        "year": 1992,
+        "citations": 255,
+        "authors": "Neelakanta Ravindranath, Lynda Little-Ihrig, Heidi Phillips et al.",
+        "authors_list": [
+            "Neelakanta Ravindranath",
+            "Lynda Little-Ihrig",
+            "Heidi Phillips",
+            "Nicola Ferrara",
+            "Anthony J. Zeleznik"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 255,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0896-6273(94)90062-0",
+        "title": "TGFβ2 and TGFβ3 are potent survival factors for midbrain dopaminergic neurons",
+        "journal": "Neuron",
+        "year": 1994,
+        "citations": 245,
+        "authors": "Kris Poulsen, Mark Armanini, Rüdiger Klein et al.",
+        "authors_list": [
+            "Kris Poulsen",
+            "Mark Armanini",
+            "Rüdiger Klein",
+            "Mary Hynes",
+            "Heidi Phillips",
+            "Arnon Rosenthal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 245,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1302725110",
+        "title": "Monovalent antibody design and mechanism of action of onartuzumab, a MET antagonist with anti-tumor activity as a therapeutic agent",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2013,
+        "citations": 243,
+        "authors": "Mark Merchant, Xiaolei Ma, Henry R. Maun et al.",
+        "authors_list": [
+            "Mark Merchant",
+            "Xiaolei Ma",
+            "Henry R. Maun",
+            "Zhong Zheng",
+            "Jing Peng",
+            "Mally Romero",
+            "Arthur Huang",
+            "Nai-ying Yang",
+            "Merry Nishimura",
+            "Joan Greve",
+            "Lydia Santell",
+            "Yu-Wen Zhang",
+            "Yanli Su",
+            "Dafna Kaufman",
+            "Karen L. Billeci",
+            "Elaine Mai",
+            "Barbara Moffat",
+            "Amy Lim",
+            "Eileen Duenas",
+            "Heidi Phillips",
+            "Hong Xiang",
+            "Judy Young",
+            "George F. Vande Woude",
+            "Mark S. Dennis",
+            "Dorothea Reilly",
+            "Ralph Schwall",
+            "Melissa A. Starovasnik",
+            "Robert A. Lazarus",
+            "Daniel G. Yansura"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 243,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/110/32/E2987.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1056/nejmoa1006312",
+        "title": "<i>NFKBIA</i> Deletion in Glioblastomas",
+        "journal": "New England Journal of Medicine",
+        "year": 2010,
+        "citations": 243,
+        "authors": "Markus Bredel, Denise Scholtens, Ajay K. Yadav et al.",
+        "authors_list": [
+            "Markus Bredel",
+            "Denise Scholtens",
+            "Ajay K. Yadav",
+            "Angel A. Alvarez",
+            "Jaclyn J. Renfrow",
+            "James P. Chandler",
+            "Irene L.Y. Yu",
+            "Maria Stella Carro",
+            "Fangping Dai",
+            "Michael J. Tagge",
+            "Roberto Ferrarese",
+            "Claudia Bredel",
+            "Heidi Phillips",
+            "Paul J. Lukac",
+            "Pierre A. Robe",
+            "Astrid Weyerbrock",
+            "Hannes Vogel",
+            "Steven Dubner",
+            "Bret C. Mobley",
+            "Xiaolin He",
+            "Adrienne C. Scheck",
+            "Branimir I. Šikić",
+            "Kenneth Aldape",
+            "Arnab Chakravarti",
+            "Griffith R. Harsh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 243,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1006312?articleTools=true"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/glia.21165",
+        "title": "Molecular subclassification of diffuse gliomas: Seeing order in the chaos",
+        "journal": "Glia",
+        "year": 2011,
+        "citations": 238,
+        "authors": "Jason T. Huse, Heidi Phillips, Cameron Brennan",
+        "authors_list": [
+            "Jason T. Huse",
+            "Heidi Phillips",
+            "Cameron Brennan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 238,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1523/jneurosci.17-19-07288.1997",
+        "title": "Disruption of a Single Allele of the Nerve Growth Factor Gene Results in Atrophy of Basal Forebrain Cholinergic Neurons and Memory Deficits",
+        "journal": "Journal of Neuroscience",
+        "year": 1997,
+        "citations": 228,
+        "authors": "Karen Chen, Merry Nishimura, Mark P. Armanini et al.",
+        "authors_list": [
+            "Karen Chen",
+            "Merry Nishimura",
+            "Mark P. Armanini",
+            "Craig Crowley",
+            "Susan D. Spencer",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 228,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.jneurosci.org/content/jneuro/17/19/7288.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0896-6273(00)80281-0",
+        "title": "Cardiotrophin-1, a Cytokine Present in Embryonic Muscle, Supports Long-Term Survival of Spinal Motoneurons",
+        "journal": "Neuron",
+        "year": 1996,
+        "citations": 221,
+        "authors": "Diane Pennica, V Arce, T.A. Swanson et al.",
+        "authors_list": [
+            "Diane Pennica",
+            "V Arce",
+            "T.A. Swanson",
+            "R. Vejsada",
+            "Richard A. Pollock",
+            "Mark Armanini",
+            "Keith Dudley",
+            "Heidi Phillips",
+            "Arnon Rosenthal",
+            "Amami Kato",
+            "Christopher E. Henderson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 221,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S0896627300802810/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s12325-011-0007-3",
+        "title": "AVAglio: Phase 3 trial of bevacizumab plus temozolomide and radiotherapy in newly diagnosed glioblastoma multiforme",
+        "journal": "Advances in Therapy",
+        "year": 2011,
+        "citations": 192,
+        "authors": "Olivier Chinot, T. De La Motte Rouge, N. Moore et al.",
+        "authors_list": [
+            "Olivier Chinot",
+            "T. De La Motte Rouge",
+            "N. Moore",
+            "Ali Zeaiter",
+            "Arabinda K. Das",
+            "Heidi Phillips",
+            "Zora Modrušan",
+            "Timothy F. Cloughesy"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 192,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/s12325-011-0007-3.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1523/jneurosci.16-06-02012.1996",
+        "title": "Identification of Gas6 as a growth factor for human Schwann cells",
+        "journal": "Journal of Neuroscience",
+        "year": 1996,
+        "citations": 191,
+        "authors": "Rui Li, Jianjun Chen, R. Glenn Hammonds et al.",
+        "authors_list": [
+            "Rui Li",
+            "Jianjun Chen",
+            "R. Glenn Hammonds",
+            "Heidi Phillips",
+            "Mark Armanini",
+            "Patrick M. Wood",
+            "RP Bunge",
+            "PJ Godowski",
+            "MX Sliwkowski",
+            "JP Mather"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 191,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.jneurosci.org/content/jneuro/16/6/2012.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0896-6273(91)90366-8",
+        "title": "Molecular cloning and expression of a novel adhesion molecule, SC1",
+        "journal": "Neuron",
+        "year": 1991,
+        "citations": 190,
+        "authors": "Hideaki Tanaka, Takabiro Matsui, Akemi Agata et al.",
+        "authors_list": [
+            "Hideaki Tanaka",
+            "Takabiro Matsui",
+            "Akemi Agata",
+            "Masami Tomura",
+            "Ichiro Kubota",
+            "Keith McFarland",
+            "Bill Kohr",
+            "Angela Lee",
+            "Heidi Phillips",
+            "David L. Shelton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 190,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1242/jcs.112.23.4437",
+        "title": "Characterization of the human Suppressor of fused, a negative regulator of the zinc-finger transcription factor Gli",
+        "journal": "Journal of Cell Science",
+        "year": 1999,
+        "citations": 188,
+        "authors": "Donna M. Stone, Maximilien Murone, Shiuh-Ming Luoh et al.",
+        "authors_list": [
+            "Donna M. Stone",
+            "Maximilien Murone",
+            "Shiuh-Ming Luoh",
+            "Weilan Ye",
+            "Mark Armanini",
+            "Austin Gurney",
+            "Heidi Phillips",
+            "Jennifer Brush",
+            "Audrey D. Goddard",
+            "Frédéric J. de Sauvage",
+            "Arnon Rosenthal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 188,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1006/dbio.1997.8658",
+        "title": "Differential Dependency of Cutaneous Mechanoreceptors on Neurotrophins, trk Receptors, and P75 LNGFR",
+        "journal": "Developmental Biology",
+        "year": 1997,
+        "citations": 175,
+        "authors": "Bengt T. Fundín, I. Silos-Santiago, Patrik Ernfors et al.",
+        "authors_list": [
+            "Bengt T. Fundín",
+            "I. Silos-Santiago",
+            "Patrik Ernfors",
+            "Anne M. Fagan",
+            "Håkan Aldskogius",
+            "Thomas M. DeChiara",
+            "Heidi Phillips",
+            "Mariano Barbacid",
+            "George D. Yancopoulos",
+            "Frank L. Rice"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 175,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.270.24.14523",
+        "title": "Sensory and Motor Neuron-derived Factor. A NOVEL HEREGULIN VARIANT HIGHLY EXPRESSED IN SENSORY AND MOTOR NEURONS",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1995,
+        "citations": 169,
+        "authors": "Wei-Hsien Ho, Mark Armanini, Andrew Nuijens et al.",
+        "authors_list": [
+            "Wei-Hsien Ho",
+            "Mark Armanini",
+            "Andrew Nuijens",
+            "Heidi Phillips",
+            "P L Osheroff"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 169,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1074/jbc.270.24.14523"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1523/jneurosci.20-01-00427.2000",
+        "title": "The Glial Cell Line-Derived Neurotrophic Factor Family Receptor Components Are Differentially Regulated within Sensory Neurons after Nerve Injury",
+        "journal": "Journal of Neuroscience",
+        "year": 2000,
+        "citations": 169,
+        "authors": "David Bennett, Timothy J. Boucher, Mark Armanini et al.",
+        "authors_list": [
+            "David Bennett",
+            "Timothy J. Boucher",
+            "Mark Armanini",
+            "Kris Poulsen",
+            "Gregory J. Michael",
+            "John V. Priestley",
+            "Heidi Phillips",
+            "Stephen B. McMahon",
+            "David L. Shelton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 169,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.jneurosci.org/content/jneuro/20/1/427.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ana.23674",
+        "title": "Laminin alpha 2 enables glioblastoma stem cell growth",
+        "journal": "Annals of Neurology",
+        "year": 2012,
+        "citations": 168,
+        "authors": "Justin D. Lathia, Meizhang Li, Peter E. Hall et al.",
+        "authors_list": [
+            "Justin D. Lathia",
+            "Meizhang Li",
+            "Peter E. Hall",
+            "Joseph Gallagher",
+            "James S. Hale",
+            "Qiulian Wu",
+            "Monica Venere",
+            "Emily R. Levy",
+            "M.R. Sandhya Rani",
+            "Ping Huang",
+            "Eunnyung Bae",
+            "Julia M. Selfridge",
+            "Lin Cheng",
+            "Hacer Guvenc",
+            "Roger E. McLendon",
+            "Ichiro Nakano",
+            "Andrew E. Sloan",
+            "Heidi Phillips",
+            "Albert Lai",
+            "Candece L. Gladson",
+            "Markus Bredel",
+            "Shideng Bao",
+            "Anita B. Hjelmeland",
+            "Jeremy N. Rich"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 168,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3615417"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1172/jci116166",
+        "title": "Expression of vascular endothelial growth factor does not promote transformation but confers a growth advantage in vivo to Chinese hamster ovary cells.",
+        "journal": "Journal of Clinical Investigation",
+        "year": 1993,
+        "citations": 167,
+        "authors": "Napoleone Ferrara, Jane Winer, Theresa Burton et al.",
+        "authors_list": [
+            "Napoleone Ferrara",
+            "Jane Winer",
+            "Theresa Burton",
+            "Ann M. Rowland",
+            "Marshall M. Siegel",
+            "Heidi Phillips",
+            "Tori R. Terrell",
+            "G A Keller",
+            "Arthur D. Levinson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 167,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jci.org/articles/view/116166/files/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1006/exnr.2000.7571",
+        "title": "Heparin Coinfusion during Convection-Enhanced Delivery (CED) Increases the Distribution of the Glial-Derived Neurotrophic Factor (GDNF) Ligand Family in Rat Striatum and Enhances the Pharmacological Activity of Neurturin",
+        "journal": "Experimental Neurology",
+        "year": 2001,
+        "citations": 156,
+        "authors": "John F. Hamilton, Paul F. Morrison, Michael Y. Chen et al.",
+        "authors_list": [
+            "John F. Hamilton",
+            "Paul F. Morrison",
+            "Michael Y. Chen",
+            "Judith Harvey‐White",
+            "Rosario Sánchez‐Pernaute",
+            "Heidi Phillips",
+            "Edward H. Oldfield",
+            "Krys S. Bankiewicz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 156,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/0008-5472.can-09-2189",
+        "title": "Reversing <i>HOXA9</i> Oncogene Activation by PI3K Inhibition: Epigenetic Mechanism and Prognostic Significance in Human Glioblastoma",
+        "journal": "Cancer Research",
+        "year": 2010,
+        "citations": 154,
+        "authors": "Bruno M. Costa, Justin S. Smith, Ying Chen et al.",
+        "authors_list": [
+            "Bruno M. Costa",
+            "Justin S. Smith",
+            "Ying Chen",
+            "Justin Chen",
+            "Heidi Phillips",
+            "Kenneth Aldape",
+            "Giuseppe Zardo",
+            "Janice Nigro",
+            "C. David James",
+            "Jane Fridlyand",
+            "Rui Manuel Reis",
+            "Joseph F. Costello"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 154,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aacrjournals.org/cancerres/article-pdf/70/2/453/2640378/453.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/neuonc/nos261",
+        "title": "Overexpression of isocitrate dehydrogenase mutant proteins renders glioma cells more sensitive to radiation",
+        "journal": "Neuro-Oncology",
+        "year": 2012,
+        "citations": 154,
+        "authors": "Sichen Li, Arthur P. Chou, Weidong Chen et al.",
+        "authors_list": [
+            "Sichen Li",
+            "Arthur P. Chou",
+            "Weidong Chen",
+            "Ruihuan Chen",
+            "Yuzhong Deng",
+            "Heidi Phillips",
+            "Julia M. Selfridge",
+            "Mira Zurayk",
+            "Jerry J. Lou",
+            "Richard G. Everson",
+            "Kuan-Chung Wu",
+            "Kym F. Faull",
+            "Timothy F. Cloughesy",
+            "Linda M. Liau",
+            "Albert Lai"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 154,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/neuro-oncology/article-pdf/15/1/57/16855152/nos261.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1523/jneurosci.16-15-04662.1996",
+        "title": "Synchronous Onset of NGF and TrkA Survival Dependence in Developing Dorsal Root Ganglia",
+        "journal": "Journal of Neuroscience",
+        "year": 1996,
+        "citations": 152,
+        "authors": "Fletcher A. White, Inmaculada Silos‐Santiago, Derek C. Molliver et al.",
+        "authors_list": [
+            "Fletcher A. White",
+            "Inmaculada Silos‐Santiago",
+            "Derek C. Molliver",
+            "Merry Nishimura",
+            "Heidi Phillips",
+            "Mariano Barbacid",
+            "William D. Snider"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 152,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.jneurosci.org/content/jneuro/16/15/4662.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.neuroimage.2011.09.076",
+        "title": "Anatomic localization of O6-methylguanine DNA methyltransferase (MGMT) promoter methylated and unmethylated tumors: A radiographic study in 358 de novo human glioblastomas",
+        "journal": "NeuroImage",
+        "year": 2011,
+        "citations": 139,
+        "authors": "Benjamin M. Ellingson, Timothy F. Cloughesy, Whitney B. Pope et al.",
+        "authors_list": [
+            "Benjamin M. Ellingson",
+            "Timothy F. Cloughesy",
+            "Whitney B. Pope",
+            "Taryar Zaw",
+            "Heidi Phillips",
+            "Shadi Lalezari",
+            "Phioanh L. Nghiemphu",
+            "Hassana Ibrahim",
+            "Kourosh M. Naeini",
+            "Robert J. Harris",
+            "Albert Lai"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 139,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.88.15.6413",
+        "title": "Autoradiographic localization of relaxin binding sites in rat brain.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1991,
+        "citations": 138,
+        "authors": "P L Osheroff, Heidi Phillips",
+        "authors_list": [
+            "P L Osheroff",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 138,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ana.410380108",
+        "title": "Neurotrophin‐3 reverses experimental cisplatin‐induced peripheral sensory neuropathy",
+        "journal": "Annals of Neurology",
+        "year": 1995,
+        "citations": 135,
+        "authors": "Wei‐Qiang Gao, Noël Dybdal, Natasha Shinsky et al.",
+        "authors_list": [
+            "Wei‐Qiang Gao",
+            "Noël Dybdal",
+            "Natasha Shinsky",
+            "Amy A. Murnane",
+            "Charles H. Schmelzer",
+            "Mark Siegel",
+            "Gilbert A. Keller",
+            "Franz Hefti",
+            "Heidi Phillips",
+            "John Winslow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 135,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.0953-816x.2001.01724.x",
+        "title": "Impaired water maze learning performance without altered dopaminergic function in mice heterozygous for the GDNF mutation",
+        "journal": "European Journal of Neuroscience",
+        "year": 2001,
+        "citations": 129,
+        "authors": "Robert Gerlai, Alexander McNamara, DL Choi-Lundberg et al.",
+        "authors_list": [
+            "Robert Gerlai",
+            "Alexander McNamara",
+            "DL Choi-Lundberg",
+            "Mark Armanini",
+            "Joshua Ross",
+            "Lyn Powell-Braxton",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 129,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://figshare.com/articles/journal_contribution/Impaired_water_maze_learning_performance_without_altered_dopaminergic_function_in_mice_heterozygous_for_the_GDNF_mutation/22848953"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1460-9568.1995.tb01132.x",
+        "title": "Truncated and Catalytic Isoforms of trkB are Co‐expressed in Neurons of Rat and Mouse CNS",
+        "journal": "European Journal of Neuroscience",
+        "year": 1995,
+        "citations": 127,
+        "authors": "Mark Armanini, Stephen B. McMahon, Jason S. Sutherland et al.",
+        "authors_list": [
+            "Mark Armanini",
+            "Stephen B. McMahon",
+            "Jason S. Sutherland",
+            "David L. Shelton",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 127,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Differential dependency of unmyelinated and A delta epidermal and upper dermal innervation on neurotrophins, trk receptors, and p75LNGFR.",
+        "journal": "PubMed",
+        "year": 1998,
+        "citations": 122,
+        "authors": "Frank L. Rice, Kathryn M. Albers, Brian M. Davis et al.",
+        "authors_list": [
+            "Frank L. Rice",
+            "Kathryn M. Albers",
+            "Brian M. Davis",
+            "Inmaculada Silos‐Santiago",
+            "George A. Wilkinson",
+            "Ann M. LeMaster",
+            "Patrik Ernfors",
+            "RJ Smeyne",
+            "Håkan Aldskogius",
+            "Heidi Phillips",
+            "Mariano Barbacid",
+            "Thomas M. DeChiara",
+            "George D. Yancopoulos",
+            "C.E. Dunne",
+            "Bengt T. Fundín"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 122,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/1078-0432.ccr-16-1327",
+        "title": "Impact of Blood–Brain Barrier Integrity on Tumor Growth and Therapy Response in Brain Metastases",
+        "journal": "Clinical Cancer Research",
+        "year": 2016,
+        "citations": 122,
+        "authors": "Matthias Osswald, Jonas Blaes, Yunxiang Liao et al.",
+        "authors_list": [
+            "Matthias Osswald",
+            "Jonas Blaes",
+            "Yunxiang Liao",
+            "Gergely Solecki",
+            "Miriam Gömmel",
+            "Anna S. Berghoff",
+            "Laurent Salphati",
+            "Jeffrey J. Wallin",
+            "Heidi Phillips",
+            "Wolfgang Wick",
+            "Frank Winkler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 122,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://clincancerres.aacrjournals.org/content/clincanres/22/24/6078.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00401-013-1173-y",
+        "title": "Hypoxia and oxygenation induce a metabolic switch between pentose phosphate pathway and glycolysis in glioma stem-like cells",
+        "journal": "Acta Neuropathologica",
+        "year": 2013,
+        "citations": 120,
+        "authors": "Annegret Kathagen, Alexander Schulte, Gerd Ulrich Balcke et al.",
+        "authors_list": [
+            "Annegret Kathagen",
+            "Alexander Schulte",
+            "Gerd Ulrich Balcke",
+            "Heidi Phillips",
+            "Tobias Martens",
+            "Jakob Matschke",
+            "Hauke S. Günther",
+            "Robert Soriano",
+            "Zora Modrušan",
+            "Thomas Sandmann",
+            "Carsten Kuhl",
+            "Alain Tissier",
+            "Mareike Holz",
+            "Lutz A. Krawinkel",
+            "Markus Glatzel",
+            "Manfred Westphal",
+            "Katrin Lamszus"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1409653111",
+        "title": "Hominoid-specific enzyme GLUD2 promotes growth of <i>IDH1</i> <sup> <i>R132H</i> </sup> glioma",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2014,
+        "citations": 119,
+        "authors": "Ruihuan Chen, Merry Nishimura, Samir Kharbanda et al.",
+        "authors_list": [
+            "Ruihuan Chen",
+            "Merry Nishimura",
+            "Samir Kharbanda",
+            "Frank Peale",
+            "Yuzhong Deng",
+            "Anneleen Daemen",
+            "William F. Forrest",
+            "Mandy Kwong",
+            "Maj Hedehus",
+            "Georgia Hatzivassiliou",
+            "Lori S. Friedman",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 119,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/111/39/14217.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.0611271104",
+        "title": "Identification of IGF2 signaling through phosphoinositide-3-kinase regulatory subunit 3 as a growth-promoting axis in glioblastoma",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2007,
+        "citations": 113,
+        "authors": "Liliana Soroceanu, Samir Kharbanda, Ruihuan Chen et al.",
+        "authors_list": [
+            "Liliana Soroceanu",
+            "Samir Kharbanda",
+            "Ruihuan Chen",
+            "Robert Soriano",
+            "Ken Aldape",
+            "Anjan Misra",
+            "Jiping Zha",
+            "William F. Forrest",
+            "Janice Nigro",
+            "Zora Modrušan",
+            "Burt G. Feuerstein",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 113,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/1802005"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/glia.21127",
+        "title": "A distinct subset of glioma cell lines with stem cell‐like properties reflects the transcriptional phenotype of glioblastomas and overexpresses CXCR4 as therapeutic target",
+        "journal": "Glia",
+        "year": 2011,
+        "citations": 113,
+        "authors": "Alexander Schulte, Hauke S. Günther, Heidi Phillips et al.",
+        "authors_list": [
+            "Alexander Schulte",
+            "Hauke S. Günther",
+            "Heidi Phillips",
+            "Dirk Kemming",
+            "Tobias Martens",
+            "Samir Kharbanda",
+            "Robert Soriano",
+            "Zora Modrušan",
+            "Svenja Zapf",
+            "Manfred Westphal",
+            "Katrin Lamszus"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 113,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.17615/gb7y-mv12",
+        "title": "Identification of a CpG Island Methylator Phenotype that Defines a Distinct Subgroup of Glioma",
+        "journal": "UNC Libraries",
+        "year": 2020,
+        "citations": 113,
+        "authors": "Jonathan D. Buckley, Li Ding, Fei Pan et al.",
+        "authors_list": [
+            "Jonathan D. Buckley",
+            "Li Ding",
+            "Fei Pan",
+            "Leslie Cope",
+            "Christopher E. Pelloski",
+            "Kristin Diefes",
+            "Katherine A. Hoadley",
+            "Benjamin P. Berman",
+            "Stephen B. Baylin",
+            "Peter W. Laird",
+            "Hui Shen",
+            "Kanan Pujara",
+            "Roel G.W. Verhaak",
+            "Henrik Bengtsson",
+            "Daniel J. Weisenberger",
+            "David Van Den Berg",
+            "Heather K. Schmidt",
+            "Krishna Bhat",
+            "Charles M. Perou",
+            "D Neil Hayes",
+            "Richard K. Wilson",
+            "James G. Herman",
+            "Houtan Noushmehr",
+            "Erik P. Sulman",
+            "Kenneth Aldape",
+            "Pierre Neuvial",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 113,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/jnr.490370118",
+        "title": "Neurotrophic‐4/5 is a survival factor for embryonic midbrain dopaminergic neurons in enriched cultures",
+        "journal": "Journal of Neuroscience Research",
+        "year": 1994,
+        "citations": 108,
+        "authors": "Mary Hynes, Kris Poulsen, Mark Armanini et al.",
+        "authors_list": [
+            "Mary Hynes",
+            "Kris Poulsen",
+            "Mark Armanini",
+            "Lucy R. Berkemeier",
+            "Heidi Phillips",
+            "Arnon Rosenthal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 108,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/bpa.12043",
+        "title": "<scp><i>PDGFRA</i></scp> Amplification is Common in Pediatric and Adult High‐Grade Astrocytomas and Identifies a Poor Prognostic Group in <scp>IDH</scp>1 Mutant Glioblastoma",
+        "journal": "Brain Pathology",
+        "year": 2013,
+        "citations": 107,
+        "authors": "Joanna J. Phillips, Derick Aranda, David W. Ellison et al.",
+        "authors_list": [
+            "Joanna J. Phillips",
+            "Derick Aranda",
+            "David W. Ellison",
+            "Alexander R. Judkins",
+            "Sidney Croul",
+            "Daniel J. Brat",
+            "Keith L. Ligon",
+            "Craig Horbinski",
+            "Sriram Venneti",
+            "Gelareh Zadeh",
+            "Mariarita Santi",
+            "Shengmei Zhou",
+            "Christina Appin",
+            "Stefano Sioletic",
+            "Lisa Sullivan",
+            "Maria Martinez‐Lage",
+            "Aaron E. Robinson",
+            "William H. Yong",
+            "Timothy F. Cloughesy",
+            "Albert Lai",
+            "Heidi Phillips",
+            "Roxanne Marshall",
+            "Sabine Mueller",
+            "Daphne A. Haas‐Kogan",
+            "Annette M. Molinaro",
+            "Arie Perry"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 107,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bpa.12043?download=true"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jneumeth.2008.03.006",
+        "title": "3D micro-CT imaging of the postmortem brain",
+        "journal": "Journal of Neuroscience Methods",
+        "year": 2008,
+        "citations": 104,
+        "authors": "Alex de Crespigny, Hani Bou-Reslan, Merry Nishimura et al.",
+        "authors_list": [
+            "Alex de Crespigny",
+            "Hani Bou-Reslan",
+            "Merry Nishimura",
+            "Heidi Phillips",
+            "Richard A.D. Carano",
+            "Helen D’Arceuil"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2693019"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/neuonc/not008",
+        "title": "Identifying the mesenchymal molecular subtype of glioblastoma using quantitative volumetric analysis of anatomic magnetic resonance images",
+        "journal": "Neuro-Oncology",
+        "year": 2013,
+        "citations": 103,
+        "authors": "Kourosh M. Naeini, Whitney B. Pope, Timothy F. Cloughesy et al.",
+        "authors_list": [
+            "Kourosh M. Naeini",
+            "Whitney B. Pope",
+            "Timothy F. Cloughesy",
+            "Robert J. Harris",
+            "Albert Lai",
+            "Ascia Eskin",
+            "Reshmi Chowdhury",
+            "Heidi Phillips",
+            "Phioanh L. Nghiemphu",
+            "Yalda Behbahanian",
+            "Benjamin M. Ellingson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/neuro-oncology/article-pdf/15/5/626/24718207/not008.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/316542a0",
+        "title": "Immunocytochemical localization in rat brain of a prolactin release-inhibiting sequence of gonadotropin-releasing hormone prohormone",
+        "journal": "Nature",
+        "year": 1985,
+        "citations": 101,
+        "authors": "Heidi Phillips, Károly Nikolics, Dale Branton et al.",
+        "authors_list": [
+            "Heidi Phillips",
+            "Károly Nikolics",
+            "Dale Branton",
+            "Peter H. Seeburg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1523/jneurosci.19-21-09538.1999",
+        "title": "Regulation of Learning by EphA Receptors: a Protein Targeting Study",
+        "journal": "Journal of Neuroscience",
+        "year": 1999,
+        "citations": 101,
+        "authors": "Robert Gerlai, Natasha Shinsky, Ai Shih et al.",
+        "authors_list": [
+            "Robert Gerlai",
+            "Natasha Shinsky",
+            "Ai Shih",
+            "P. Williams",
+            "Jane Winer",
+            "Mark Armanini",
+            "Bradley R. Cairns",
+            "John Winslow",
+            "W.-Q. Gao",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jneurosci.org/content/jneuro/19/21/9538.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0896-6273(89)90245-6",
+        "title": "Spider toxins selectively block calcium currents in drosophila",
+        "journal": "Neuron",
+        "year": 1989,
+        "citations": 78,
+        "authors": "Hung‐Tat Leung, W. Dale Branton, Heidi Phillips et al.",
+        "authors_list": [
+            "Hung‐Tat Leung",
+            "W. Dale Branton",
+            "Heidi Phillips",
+            "Lily Yeh Jan",
+            "L Byerly"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1006/mcne.1998.0696",
+        "title": "Regulation of Hippocampal Synaptic Plasticity by the Tyrosine Kinase Receptor, REK7/EphA5, and its Ligand, AL-1/Ephrin-A5",
+        "journal": "Molecular and Cellular Neuroscience",
+        "year": 1998,
+        "citations": 74,
+        "authors": "Wei‐Qiang Gao, Natasha Shinsky, Mark Armanini et al.",
+        "authors_list": [
+            "Wei‐Qiang Gao",
+            "Natasha Shinsky",
+            "Mark Armanini",
+            "Paul Moran",
+            "Jie-Yan Zheng",
+            "José-Luis Mendoza-Ramírez",
+            "Heidi Phillips",
+            "John Winslow",
+            "Ingrid W. Caras"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3174/ajnr.a2917",
+        "title": "Differential Gene Expression in Glioblastoma Defined by ADC Histogram Analysis: Relationship to Extracellular Matrix Molecules and Survival",
+        "journal": "American Journal of Neuroradiology",
+        "year": 2012,
+        "citations": 73,
+        "authors": "Whitney B. Pope, Leili Mirsadraei, Albert Lai et al.",
+        "authors_list": [
+            "Whitney B. Pope",
+            "Leili Mirsadraei",
+            "Albert Lai",
+            "Ascia Eskin",
+            "Joe X Qiao",
+            "Han Jo Kim",
+            "Benjamin M. Ellingson",
+            "Phioanh L. Nghiemphu",
+            "Samir Kharbanda",
+            "Robert Soriano",
+            "Stanley F. Nelson",
+            "W. H. Yong",
+            "Heidi Phillips",
+            "Timothy F. Cloughesy"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.ajnr.org/content/ajnr/33/6/1059.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/1078-0432.ccr-12-0720",
+        "title": "Targeting the PI3K Pathway in the Brain—Efficacy of a PI3K Inhibitor Optimized to Cross the Blood–Brain Barrier",
+        "journal": "Clinical Cancer Research",
+        "year": 2012,
+        "citations": 72,
+        "authors": "Laurent Salphati, Timothy P. Heffron, Bruno Alicke et al.",
+        "authors_list": [
+            "Laurent Salphati",
+            "Timothy P. Heffron",
+            "Bruno Alicke",
+            "Merry Nishimura",
+            "Kai Barck",
+            "Richard A.D. Carano",
+            "Jonathan Cheong",
+            "Kyle A. Edgar",
+            "Joan Greve",
+            "Samir Kharbanda",
+            "Hartmut Koeppen",
+            "Shari Lau",
+            "Leslie B. Lee",
+            "Jodie Pang",
+            "Emile G. Plise",
+            "Jenny L. Pokorny",
+            "Hani Bou Reslan",
+            "Jann N. Sarkaria",
+            "Jeffrey J. Wallin",
+            "Xiaolin Zhang",
+            "Stephen E. Gould",
+            "Alan G. Olivero",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.0700683104",
+        "title": "Epigenome scans and cancer genome sequencing converge on <i>WNK2</i> , a kinase-independent suppressor of cell growth",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2007,
+        "citations": 69,
+        "authors": "Chibo Hong, K. Scott Moorefield, Peter Jun et al.",
+        "authors_list": [
+            "Chibo Hong",
+            "K. Scott Moorefield",
+            "Peter Jun",
+            "Kenneth Aldape",
+            "Samir Kharbanda",
+            "Heidi Phillips",
+            "J Costello"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/1904113"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0006-8993(80)90192-4",
+        "title": "Immunocytochemical localization of LHRH in central olfactory pathways of hamster",
+        "journal": "Brain Research",
+        "year": 1980,
+        "citations": 67,
+        "authors": "Heidi Phillips, Gayle Hostetter, Bernard Kerdelhué et al.",
+        "authors_list": [
+            "Heidi Phillips",
+            "Gayle Hostetter",
+            "Bernard Kerdelhué",
+            "Gerald P. Kozlowski"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0012-1606(98)80029-8",
+        "title": "Differential dependency of unmyelinated and Aδ epidermal and upper dermal innervation on neurotrophins, trk receptors, and p75LNGFR",
+        "journal": "Developmental Biology",
+        "year": 1998,
+        "citations": 64,
+        "authors": "Frank L. Rice, Kathryn M. Albers, Brian M. Davis et al.",
+        "authors_list": [
+            "Frank L. Rice",
+            "Kathryn M. Albers",
+            "Brian M. Davis",
+            "Inmaculada Silos‐Santiago",
+            "George A. Wilkinson",
+            "Ann M. LeMaster",
+            "Patrik Ernfors",
+            "Richard J. Smeyne",
+            "Håkan Aldskogius",
+            "Heidi Phillips",
+            "Mariano Barbacid",
+            "Thomas M. DeChiara",
+            "George D. Yancopoulos",
+            "C.E. Dunne",
+            "Bengt T. Fundín"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10549-017-4279-4",
+        "title": "Trastuzumab uptake and its relation to efficacy in an animal model of HER2-positive breast cancer brain metastasis",
+        "journal": "Breast Cancer Research and Treatment",
+        "year": 2017,
+        "citations": 64,
+        "authors": "Gail D. Lewis Phillips, Merry Nishimura, Jennifer A. Lacap et al.",
+        "authors_list": [
+            "Gail D. Lewis Phillips",
+            "Merry Nishimura",
+            "Jennifer A. Lacap",
+            "Samir Kharbanda",
+            "Elaine Mai",
+            "Janet Tien",
+            "Kimberly Malesky",
+            "Simon P. Williams",
+            "Jan Mařı́k",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2Fs10549-017-4279-4.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/1078-0432.ccr-12-3635",
+        "title": "Identification and Analysis of <i>In Vivo</i> VEGF Downstream Markers Link VEGF Pathway Activity with Efficacy of Anti-VEGF Therapies",
+        "journal": "Clinical Cancer Research",
+        "year": 2013,
+        "citations": 61,
+        "authors": "Matthew J. Brauer, Guanglei Zhuang, Maike Schmidt et al.",
+        "authors_list": [
+            "Matthew J. Brauer",
+            "Guanglei Zhuang",
+            "Maike Schmidt",
+            "Jenny Yao",
+            "Xiumin Wu",
+            "Joshua S. Kaminker",
+            "Stefanie S. Jurinka",
+            "Ganesh Kolumam",
+            "Alicia S. Chung",
+            "Adrian M. Jubb",
+            "Zora Modrušan",
+            "Tomoko Ozawa",
+            "C. David James",
+            "Heidi Phillips",
+            "Benjamin Haley",
+            "Rachel N. Tam",
+            "Anne C. Clermont",
+            "Jason Cheng",
+            "Sherry X. Yang",
+            "Sandra M. Swain",
+            "Daniel S. Chen",
+            "Stefan Scherer",
+            "Hartmut Koeppen",
+            "Ru-Fang Yeh",
+            "Peng Yue",
+            "Jean-Philippe Stéphan",
+            "Priti S. Hegde",
+            "Napoleone Ferrara",
+            "Mallika Singh",
+            "Carlos Bais"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://clincancerres.aacrjournals.org/content/clincanres/19/13/3681.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0361-9230(01)00630-x",
+        "title": "Hippocampal dysfunction and behavioral deficit in the water maze in mice: An unresolved issue?",
+        "journal": "Brain Research Bulletin",
+        "year": 2002,
+        "citations": 54,
+        "authors": "Robert Gerlai, Alexander McNamara, Simon P. Williams et al.",
+        "authors_list": [
+            "Robert Gerlai",
+            "Alexander McNamara",
+            "Simon P. Williams",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1124/dmd.116.071423",
+        "title": "Brain Distribution and Efficacy of the Brain Penetrant PI3K Inhibitor GDC-0084 in Orthotopic Mouse Models of Human Glioblastoma",
+        "journal": "Drug Metabolism and Disposition",
+        "year": 2016,
+        "citations": 53,
+        "authors": "Laurent Salphati, Bruno Alicke, Timothy P. Heffron et al.",
+        "authors_list": [
+            "Laurent Salphati",
+            "Bruno Alicke",
+            "Timothy P. Heffron",
+            "Sheerin Shahidi-Latham",
+            "Merry Nishimura",
+            "Tim C. Cao",
+            "Richard A.D. Carano",
+            "Jonathan Cheong",
+            "Joan Greve",
+            "Hartmut Koeppen",
+            "Shari Lau",
+            "Leslie B. Lee",
+            "Michelle Nannini-Pepe",
+            "Jodie Pang",
+            "Emile G. Plise",
+            "Cristine Quiason",
+            "Linda Rangell",
+            "Xiaolin Zhang",
+            "Stephen E. Gould",
+            "Heidi Phillips",
+            "Alan G. Olivero"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.84.10.3506",
+        "title": "Identification and purification of an irreversible presynaptic neurotoxin from the venom of the spider Hololena curta.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1987,
+        "citations": 50,
+        "authors": "C W Bowers, Heidi Phillips, Peter Lee et al.",
+        "authors_list": [
+            "C W Bowers",
+            "Heidi Phillips",
+            "Peter Lee",
+            "Yuh Nung Jan",
+            "Lily Yeh Jan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/304900"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1532-950x.2007.00262.x",
+        "title": "In Vitro Elution Studies of Amikacin and Cefazolin from Polymethylmethacrylate",
+        "journal": "Veterinary Surgery",
+        "year": 2007,
+        "citations": 49,
+        "authors": "Heidi Phillips, Dawn M. Boothe, Frances S. Shofer et al.",
+        "authors_list": [
+            "Heidi Phillips",
+            "Dawn M. Boothe",
+            "Frances S. Shofer",
+            "Jeffrey S. Davidson",
+            "R. Avery Bennett"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/jnr.490380613",
+        "title": "Identification and characterization of batk, a predominantly brain‐specific non‐receptor protein tyrosine kinase related to Csk",
+        "journal": "Journal of Neuroscience Research",
+        "year": 1994,
+        "citations": 46,
+        "authors": "S. S. Kuo, Paul Moran, J.T Gripp et al.",
+        "authors_list": [
+            "S. S. Kuo",
+            "Paul Moran",
+            "J.T Gripp",
+            "Mark Armanini",
+            "Heidi Phillips",
+            "Audrey D. Goddard",
+            "Ingrid W. Caras"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 46,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0018608",
+        "title": "TMEFF2 Is a PDGF-AA Binding Protein with Methylation-Associated Gene Silencing in Multiple Cancer Types Including Glioma",
+        "journal": "PLoS ONE",
+        "year": 2011,
+        "citations": 46,
+        "authors": "Kui Lin, James R. Taylor, Thomas D. Wu et al.",
+        "authors_list": [
+            "Kui Lin",
+            "James R. Taylor",
+            "Thomas D. Wu",
+            "Johnny Gutierrez",
+            "J. Michael Elliott",
+            "Jean-Michel Vernes",
+            "Hartmut Koeppen",
+            "Heidi Phillips",
+            "Frédéric J. de Sauvage",
+            "Y. Gloria Meng"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 46,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0018608&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1124/dmd.114.057513",
+        "title": "Distribution of the Phosphatidylinositol 3-Kinase Inhibitors Pictilisib (GDC-0941) and GNE-317 in U87 and GS2 Intracranial Glioblastoma Models—Assessment by Matrix-Assisted Laser Desorption Ionization Imaging",
+        "journal": "Drug Metabolism and Disposition",
+        "year": 2014,
+        "citations": 45,
+        "authors": "Laurent Salphati, Sheerin Shahidi-Latham, Cristine Quiason et al.",
+        "authors_list": [
+            "Laurent Salphati",
+            "Sheerin Shahidi-Latham",
+            "Cristine Quiason",
+            "Kai Barck",
+            "Merry Nishimura",
+            "Bruno Alicke",
+            "Jodie Pang",
+            "Richard A.D. Carano",
+            "Alan G. Olivero",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1098/rstb.1996.0036",
+        "title": "Expression of the trk family of neurotrophin receptors in developing and adult dorsal root ganglion neurons",
+        "journal": "Philosophical Transactions of the Royal Society B Biological Sciences",
+        "year": 1996,
+        "citations": 39,
+        "authors": "Heidi Phillips, Mark Armanini",
+        "authors_list": [
+            "Heidi Phillips",
+            "Mark Armanini"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 39,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.5326/0420218",
+        "title": "Surgical Revision of the Urethral Stoma Following Perineal Urethrostomy in 11 Cats: (1998–2004)",
+        "journal": "Journal of the American Animal Hospital Association",
+        "year": 2006,
+        "citations": 37,
+        "authors": "Heidi Phillips, David E. Holt",
+        "authors_list": [
+            "Heidi Phillips",
+            "David E. Holt"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 37,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.5326/0420312",
+        "title": "Treatment of Severe Adverse Cutaneous Drug Reactions With Human Intravenous Immunoglobulin in Two Dogs",
+        "journal": "Journal of the American Animal Hospital Association",
+        "year": 2006,
+        "citations": 35,
+        "authors": "Tara K. Trotman, Heidi Phillips, Hilary Fordyce et al.",
+        "authors_list": [
+            "Tara K. Trotman",
+            "Heidi Phillips",
+            "Hilary Fordyce",
+            "Lesley G. King",
+            "Daniel O. Morris",
+            "Urs Giger"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 35,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2460/javma.249.7.787",
+        "title": "Perioperative morbidity and outcome of esophageal surgery in dogs and cats: 72 cases (1993–2013)",
+        "journal": "Journal of the American Veterinary Medical Association",
+        "year": 2016,
+        "citations": 31,
+        "authors": "Jessie S. Sutton, William T. N. Culp, Katherine Maria Scotti et al.",
+        "authors_list": [
+            "Jessie S. Sutton",
+            "William T. N. Culp",
+            "Katherine Maria Scotti",
+            "Rachel Seibert",
+            "Cassie N. Lux",
+            "Ameet Singh",
+            "Chloe Wormser",
+            "Jeffrey J. Runge",
+            "Chad W. Schmiedt",
+            "Jessica Corrie",
+            "Heidi Phillips",
+            "Laura E. Selmic",
+            "Daniel J. Nucci",
+            "Philipp D. Mayhew",
+            "Philip H. Kass"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 31,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2460/javma.246.5.530",
+        "title": "Risk factors for urolithiasis in dogs with congenital extrahepatic portosystemic shunts: 95 cases (1999–2013)",
+        "journal": "Journal of the American Veterinary Medical Association",
+        "year": 2015,
+        "citations": 31,
+        "authors": "Evelyn Hasegawa Gonçalves Caporali, Heidi Phillips, Lucy Underwood et al.",
+        "authors_list": [
+            "Evelyn Hasegawa Gonçalves Caporali",
+            "Heidi Phillips",
+            "Lucy Underwood",
+            "Laura E. Selmic"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 31,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41598-020-79602-6",
+        "title": "An optomechanogram for assessment of the structural and mechanical properties of tissues",
+        "journal": "Scientific Reports",
+        "year": 2021,
+        "citations": 29,
+        "authors": "W. Lee, Amir Ostadi Moghaddam, S.C. Shen et al.",
+        "authors_list": [
+            "W. Lee",
+            "Amir Ostadi Moghaddam",
+            "S.C. Shen",
+            "Heidi Phillips",
+            "Barbara L. McFarlin",
+            "Amy J. Wagoner Johnson",
+            "Kimani C. Toussaint"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 29,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41598-020-79602-6.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0006-8993(82)91167-2",
+        "title": "Ultrastructural localization of LH-RH-immunoreactive synapses in the hamster accessory olfactory bulb",
+        "journal": "Brain Research",
+        "year": 1982,
+        "citations": 29,
+        "authors": "Heidi Phillips, Beng T. Ho, J.G. Linner",
+        "authors_list": [
+            "Heidi Phillips",
+            "Beng T. Ho",
+            "J.G. Linner"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 29,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1006/dbio.1995.1293",
+        "title": "NGF Receptor Expression in Sensory Neurons Develops Normally in Embryos Lacking NGF",
+        "journal": "Developmental Biology",
+        "year": 1995,
+        "citations": 29,
+        "authors": "Alun M. Davies, Séan Wyatt, Merry Nishimura et al.",
+        "authors_list": [
+            "Alun M. Davies",
+            "Séan Wyatt",
+            "Merry Nishimura",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 29,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/neuonc/noaa157",
+        "title": "Development of a gene expression–based prognostic signature for <i>IDH</i> wild-type glioblastoma",
+        "journal": "Neuro-Oncology",
+        "year": 2020,
+        "citations": 26,
+        "authors": "Radia Marie Johnson, Heidi Phillips, Carlos Bais et al.",
+        "authors_list": [
+            "Radia Marie Johnson",
+            "Heidi Phillips",
+            "Carlos Bais",
+            "Cameron Brennan",
+            "Timothy F. Cloughesy",
+            "Anneleen Daemen",
+            "Ulrich Herrlinger",
+            "Robert B. Jenkins",
+            "Albert Lai",
+            "Christoph Mancao",
+            "Michael Weller",
+            "Wolfgang Wick",
+            "Richard Bourgon",
+            "Josep Garcia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 26,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/neuro-oncology/article-pdf/22/12/1742/34948501/noaa157.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/jvim.15583",
+        "title": "Clinical findings, diagnostic test results, and treatment outcome in cats with hiatal hernia: 31 cases (1995-2018)",
+        "journal": "Journal of Veterinary Internal Medicine",
+        "year": 2019,
+        "citations": 24,
+        "authors": "Heidi Phillips, Jessica Corrie, Danielle M. Engel et al.",
+        "authors_list": [
+            "Heidi Phillips",
+            "Jessica Corrie",
+            "Danielle M. Engel",
+            "Daniel J. Duffy",
+            "David E. Holt",
+            "A. Richard Kendall",
+            "Chad W. Schmiedt",
+            "Autumn Vetter",
+            "Ilyssa L. Meren",
+            "Christelle M. Follette",
+            "David J. Schaeffer",
+            "Philipp D. Mayhew",
+            "Stanley L. Marks"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jvim.15583"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0006-2952(79)90622-1",
+        "title": "Dopamine receptor topography",
+        "journal": "Biochemical Pharmacology",
+        "year": 1979,
+        "citations": 24,
+        "authors": "Yvonne C. Clement‐Cormier, Laurence R. Meyerson, Heidi Phillips et al.",
+        "authors_list": [
+            "Yvonne C. Clement‐Cormier",
+            "Laurence R. Meyerson",
+            "Heidi Phillips",
+            "Virginia E. Davis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.actbio.2021.12.025",
+        "title": "Heterogeneous microstructural changes of the cervix influence cervical funneling",
+        "journal": "Acta Biomaterialia",
+        "year": 2021,
+        "citations": 24,
+        "authors": "Amir Ostadi Moghaddam, Zixi Lin, Mayandi Sivaguru et al.",
+        "authors_list": [
+            "Amir Ostadi Moghaddam",
+            "Zixi Lin",
+            "Mayandi Sivaguru",
+            "Heidi Phillips",
+            "Barbara L. McFarlin",
+            "Kimani C. Toussaint",
+            "Amy J. Wagoner Johnson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/8828692"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.autneu.2020.102656",
+        "title": "Central sensory-motor crosstalk in the neural gut-brain axis",
+        "journal": "Autonomic Neuroscience",
+        "year": 2020,
+        "citations": 22,
+        "authors": "Coltan G. Parker, Megan J. Dailey, Heidi Phillips et al.",
+        "authors_list": [
+            "Coltan G. Parker",
+            "Megan J. Dailey",
+            "Heidi Phillips",
+            "Elizabeth A. Davis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.molbrainres.2003.12.004",
+        "title": "Rescue of NGF-deficient mice I: transgenic expression of NGF in skin rescues mice lacking endogenous NGF",
+        "journal": "Molecular Brain Research",
+        "year": 2004,
+        "citations": 20,
+        "authors": "Susan M. Harrison, Brian M. Davis, Merry Nishimura et al.",
+        "authors_list": [
+            "Susan M. Harrison",
+            "Brian M. Davis",
+            "Merry Nishimura",
+            "Kathryn M. Albers",
+            "Marc E. H. Jones",
+            "Heidi Phillips"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 20,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/jstqe.2021.3054578",
+        "title": "Intraoperative Label-Free Multimodal Nonlinear Optical Imaging for Point-of-Procedure Cancer Diagnostics",
+        "journal": "IEEE Journal of Selected Topics in Quantum Electronics",
+        "year": 2021,
+        "citations": 20,
+        "authors": "Lingxiao Yang, Jaena Park, Marina Marjanović et al.",
+        "authors_list": [
+            "Lingxiao Yang",
+            "Jaena Park",
+            "Marina Marjanović",
+            "Eric J. Chaney",
+            "Darold R. Spillman",
+            "Heidi Phillips",
+            "Stephen A. Boppart"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 20,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ieeexplore.ieee.org/ielx7/2944/9114338/09336224.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/382080a0",
+        "title": "Characterization of a multicomponent receptor for GDNF",
+        "journal": "Nature",
+        "year": 1996,
+        "citations": 886,
+        "authors": "James J. S. Treanor, Laurie Goodman, Frederic de Sauvage et al.",
+        "authors_list": [
+            "James J. S. Treanor",
+            "Laurie Goodman",
+            "Frederic de Sauvage",
+            "Donna M. Stone",
+            "Kris T. Poulsen",
+            "Claus D. Beck",
+            "Christa Gray",
+            "Mark P. Armanini",
+            "Richard A. Pollock",
+            "Franz Hefti",
+            "Heidi S. Phillips",
+            "Audry Goddard",
+            "Mark W. Moore",
+            "Anna Buj-Bello",
+            "Alun M. Davies",
+            "Naoya Asai",
+            "Masahide Takahashi",
+            "Richard Vandlen",
+            "Christopher E. Henderson",
+            "Arnon Rosenthal"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 886
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/0896-6273(91)90273-3",
+        "title": "BDNF mRNA is decreased in the hippocampus of individuals with Alzheimer's disease",
+        "journal": "Neuron",
+        "year": 1991,
+        "citations": 791,
+        "authors": "Heidi S. Phillips, Jeanne M. Hains, Mark Armanini et al.",
+        "authors_list": [
+            "Heidi S. Phillips",
+            "Jeanne M. Hains",
+            "Mark Armanini",
+            "Gary R. Laramee",
+            "Steven A. Johnson",
+            "John W. Winslow"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 791
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1126/science.1688328",
+        "title": "Widespread Expression of BDNF But Not NT3 by Target Areas of Basal Forebrain Cholinergic Neurons",
+        "journal": "Science",
+        "year": 1990,
+        "citations": 431,
+        "authors": "Heidi S. Phillips, Jeanne M. Hains, Gary R. Laramee et al.",
+        "authors_list": [
+            "Heidi S. Phillips",
+            "Jeanne M. Hains",
+            "Gary R. Laramee",
+            "Arnon Rosenthal",
+            "John W. Winslow"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 431
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s0896-6273(00)80453-5",
+        "title": "Persephin, a Novel Neurotrophic Factor Related to GDNF and Neurturin",
+        "journal": "Neuron",
+        "year": 1998,
+        "citations": 382,
+        "authors": "Jeffrey Milbrandt, Frederic J de Sauvage, Timothy J Fahrner et al.",
+        "authors_list": [
+            "Jeffrey Milbrandt",
+            "Frederic J de Sauvage",
+            "Timothy J Fahrner",
+            "Robert H Baloh",
+            "Melanie L Leitner",
+            "Malú G Tansey",
+            "Patricia A Lampe",
+            "Robert O Heuckeroth",
+            "Paul T Kotzbauer",
+            "Kelli S Simburger",
+            "Judith P Golden",
+            "Jamie A Davies",
+            "Richard Vejsada",
+            "Ann C Kato",
+            "Mary Hynes",
+            "Daniel Sherman",
+            "Merry Nishimura",
+            "Li-Chong Wang",
+            "Richard Vandlen",
+            "Barbara Moffat",
+            "Robert D Klein",
+            "Kris Poulsen",
+            "Christa Gray",
+            "Alain Garces",
+            "Christopher E Henderson",
+            "Heidi S Phillips",
+            "Eugene M Johnson"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 382
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S0896627300804535/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1093/neuonc/nop007",
+        "title": "A multigene predictor of outcome in glioblastoma",
+        "journal": "Neuro-Oncology",
+        "year": 2010,
+        "citations": 300,
+        "authors": "H. Colman, L. Zhang, E. P. Sulman et al.",
+        "authors_list": [
+            "H. Colman",
+            "L. Zhang",
+            "E. P. Sulman",
+            "J. M. McDonald",
+            "N. L. Shooshtari",
+            "A. Rivera",
+            "S. Popoff",
+            "C. L. Nutt",
+            "D. N. Louis",
+            "J. G. Cairncross",
+            "M. R. Gilbert",
+            "H. S. Phillips",
+            "M. P. Mehta",
+            "A. Chakravarti",
+            "C. E. Pelloski",
+            "K. Bhat",
+            "B. G. Feuerstein",
+            "R. B. Jenkins",
+            "K. Aldape"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 300
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/neuro-oncology/article-pdf/12/1/49/16662666/nop007.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1523/jneurosci.18-13-04929.1998",
+        "title": "Neurturin Exerts Potent Actions on Survival and Function of Midbrain Dopaminergic Neurons",
+        "journal": "The Journal of Neuroscience",
+        "year": 1998,
+        "citations": 268,
+        "authors": "Brian A. Horger, Merry C. Nishimura, Mark P. Armanini et al.",
+        "authors_list": [
+            "Brian A. Horger",
+            "Merry C. Nishimura",
+            "Mark P. Armanini",
+            "Li-Chong Wang",
+            "Kris T. Poulsen",
+            "Carl Rosenblad",
+            "Deniz Kirik",
+            "Barbara Moffat",
+            "Laura Simmons",
+            "Eugene Johnson",
+            "Jeff Milbrandt",
+            "Arnon Rosenthal",
+            "Anders Bjorklund",
+            "Richard A. Vandlen",
+            "Mary A. Hynes",
+            "Heidi S. Phillips"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 268
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.jneurosci.org/content/jneuro/18/13/4929.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.3174/ajnr.a2950",
+        "title": "Relationship between Tumor Enhancement, Edema,<i>IDH1</i>Mutational Status,<i>MGMT</i>Promoter Methylation, and Survival in Glioblastoma",
+        "journal": "American Journal of Neuroradiology",
+        "year": 2012,
+        "citations": 272,
+        "authors": "J.A. Carrillo, A. Lai, P.L. Nghiemphu et al.",
+        "authors_list": [
+            "J.A. Carrillo",
+            "A. Lai",
+            "P.L. Nghiemphu",
+            "H.J. Kim",
+            "H.S. Phillips",
+            "S. Kharbanda",
+            "P. Moftakhar",
+            "S. Lalaezari",
+            "W. Yong",
+            "B.M. Ellingson",
+            "T.F. Cloughesy",
+            "W.B. Pope"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 272
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ajnr.org/content/ajnr/33/7/1349.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1210/endo-127-2-965",
+        "title": "Vascular Endothelial Growth Factor is Expressed in Rat Corpus Luteum",
+        "journal": "Endocrinology",
+        "year": 1990,
+        "citations": 201,
+        "authors": "HEIDI S. PHILLIPS, JEANNE HAINS, DAVID W. LEUNG et al.",
+        "authors_list": [
+            "HEIDI S. PHILLIPS",
+            "JEANNE HAINS",
+            "DAVID W. LEUNG",
+            "NAPOLEONE FERRARA"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 201
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1210/endo.133.2.7688292",
+        "title": "Developmental expression of binding sites and messenger ribonucleic acid for vascular endothelial growth factor suggests a role for this protein in vasculogenesis and angiogenesis.",
+        "journal": "Endocrinology",
+        "year": 1993,
+        "citations": 206,
+        "authors": "L B Jakeman, M Armanini, H S Phillips et al.",
+        "authors_list": [
+            "L B Jakeman",
+            "M Armanini",
+            "H S Phillips",
+            "N Ferrara"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 206
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1210/endo.131.1.1612003",
+        "title": "Vascular endothelial growth factor messenger ribonucleic acid expression in the primate ovary.",
+        "journal": "Endocrinology",
+        "year": 1992,
+        "citations": 199,
+        "authors": "N Ravindranath, L Little-Ihrig, H S Phillips et al.",
+        "authors_list": [
+            "N Ravindranath",
+            "L Little-Ihrig",
+            "H S Phillips",
+            "N Ferrara",
+            "A J Zeleznik"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 199
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

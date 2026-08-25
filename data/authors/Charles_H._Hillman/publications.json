@@ -1,0 +1,3684 @@
+[
+    {
+        "doi": "https://doi.org/10.1038/nrn2298",
+        "title": "Be smart, exercise your heart: exercise effects on brain and cognition",
+        "journal": "Nature reviews. Neuroscience",
+        "year": 2007,
+        "citations": 3555,
+        "authors": "Charles H. Hillman, Kirk I. Erickson, Arthur F. Kramer",
+        "authors_list": [
+            "Charles H. Hillman",
+            "Kirk I. Erickson",
+            "Arthur F. Kramer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 3555,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.82992/intellectum/handle.10818.4470"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1249/mss.0000000000000901",
+        "title": "Physical Activity, Fitness, Cognitive Function, and Academic Achievement in Children",
+        "journal": "Medicine & Science in Sports & Exercise",
+        "year": 2016,
+        "citations": 1841,
+        "authors": "Joseph E. Donnelly, Charles H. Hillman, Darla M. Castelli et al.",
+        "authors_list": [
+            "Joseph E. Donnelly",
+            "Charles H. Hillman",
+            "Darla M. Castelli",
+            "Jennifer L. Etnier",
+            "Sarah Lee",
+            "Phillip D. Tomporowski",
+            "Kate Lambourne",
+            "Amanda N. Szabo‐Reed"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1841,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/4874515"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1542/peds.2016-1642",
+        "title": "Physical Activity for Cognitive and Mental Health in Youth: A Systematic Review of Mechanisms",
+        "journal": "PEDIATRICS",
+        "year": 2016,
+        "citations": 1495,
+        "authors": "David R. Lubans, Justin Richards, Charles H. Hillman et al.",
+        "authors_list": [
+            "David R. Lubans",
+            "Justin Richards",
+            "Charles H. Hillman",
+            "Guy Faulkner",
+            "Mark R. Beauchamp",
+            "Michael Nilsson",
+            "Paul Kelly",
+            "Jordan Smith",
+            "Lauren B. Raine",
+            "Stuart Biddle"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1495,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pediatrics.aappublications.org/content/pediatrics/138/3/e20161642.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1249/mss.0000000000001936",
+        "title": "Physical Activity, Cognition, and Brain Outcomes: A Review of the 2018 Physical Activity Guidelines",
+        "journal": "Medicine & Science in Sports & Exercise",
+        "year": 2019,
+        "citations": 1194,
+        "authors": "Kirk I. Erickson, Charles H. Hillman, Chelsea M. Stillman et al.",
+        "authors_list": [
+            "Kirk I. Erickson",
+            "Charles H. Hillman",
+            "Chelsea M. Stillman",
+            "Rachel Ballard",
+            "Bonny Bloodgood",
+            "David E. Conroy",
+            "Richard F. Macko",
+            "David X. Márquez",
+            "Steven J. Petruzzello",
+            "Kenneth E. Powell"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1194,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/6527141"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/oby.2006.46",
+        "title": "Neurobiology of Exercise",
+        "journal": "Obesity",
+        "year": 2006,
+        "citations": 944,
+        "authors": "Rod K. Dishman, Hans‐Rudolf Berthoud, Frank W. Booth et al.",
+        "authors_list": [
+            "Rod K. Dishman",
+            "Hans‐Rudolf Berthoud",
+            "Frank W. Booth",
+            "Carl W. Cotman",
+            "V. Reggie Edgerton",
+            "Monika Fleshner",
+            "Simon C. Gandevia",
+            "Fernando Gómez‐Pinilla",
+            "Benjamin N. Greenwood",
+            "Charles H. Hillman",
+            "Arthur F. Kramer",
+            "Barry E. Levin",
+            "Timothy H. Moran",
+            "Amelia Russo‐Neustadt",
+            "John D. Salamone",
+            "Jacqueline D. Van Hoomissen",
+            "Charles E. Wade",
+            "David A. York",
+            "Michael J. Zigmond"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 944,
+            "crossref": 731
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1038/oby.2006.46"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jsep.29.2.239",
+        "title": "Physical Fitness and Academic Achievement in Third- and Fifth-Grade Students",
+        "journal": "Journal of Sport and Exercise Psychology",
+        "year": 2007,
+        "citations": 866,
+        "authors": "Darla M. Castelli, Charles H. Hillman, Sarah Buck et al.",
+        "authors_list": [
+            "Darla M. Castelli",
+            "Charles H. Hillman",
+            "Sarah Buck",
+            "Heather Erwin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 866,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.neuroscience.2009.01.057",
+        "title": "The effect of acute treadmill walking on cognitive control and academic achievement in preadolescent children",
+        "journal": "Neuroscience",
+        "year": 2009,
+        "citations": 846,
+        "authors": "Charles H. Hillman, Matthew B. Pontifex, Lauren B. Raine et al.",
+        "authors_list": [
+            "Charles H. Hillman",
+            "Matthew B. Pontifex",
+            "Lauren B. Raine",
+            "Darla M. Castelli",
+            "Eric E. Hall",
+            "Arthur F. Kramer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 846,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2667807"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.brainres.2010.08.049",
+        "title": "A neuroimaging investigation of the association between aerobic fitness, hippocampal volume, and memory performance in preadolescent children",
+        "journal": "Brain Research",
+        "year": 2010,
+        "citations": 691,
+        "authors": "Laura Chaddock, Kirk I. Erickson, Ruchika Shaurya Prakash et al.",
+        "authors_list": [
+            "Laura Chaddock",
+            "Kirk I. Erickson",
+            "Ruchika Shaurya Prakash",
+            "Jennifer Kim",
+            "Michelle W. Voss",
+            "Matt VanPatter",
+            "Matthew B. Pontifex",
+            "Lauren B. Raine",
+            "Alex Konkel",
+            "Charles H. Hillman",
+            "Neal J. Cohen",
+            "Arthur F. Kramer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 691,
+            "crossref": 513
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3953557"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1542/peds.2013-3219",
+        "title": "Effects of the FITKids Randomized Controlled Trial on Executive Control and Brain Function",
+        "journal": "PEDIATRICS",
+        "year": 2014,
+        "citations": 649,
+        "authors": "Charles H. Hillman, Matthew B. Pontifex, Darla M. Castelli et al.",
+        "authors_list": [
+            "Charles H. Hillman",
+            "Matthew B. Pontifex",
+            "Darla M. Castelli",
+            "Naiman A. Khan",
+            "Lauren B. Raine",
+            "Mark R. Scudder",
+            "Eric S. Drollette",
+            "Robert Davis Moore",
+            "Chien-Ting Wu",
+            "Keita Kamijo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 649,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pediatrics.aappublications.org/content/pediatrics/134/4/e1063.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/cphy.c110063",
+        "title": "The Influence of Exercise on Cognitive Abilities",
+        "journal": "Comprehensive physiology",
+        "year": 2012,
+        "citations": 601,
+        "authors": "Fernando Gómez‐Pinilla, Charles H. Hillman",
+        "authors_list": [
+            "Fernando Gómez‐Pinilla",
+            "Charles H. Hillman"
+        ],
+        "type": "other",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 601,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3951958"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/tbm/ibz198",
+        "title": "A systematic review of physical activity and quality of life and well-being",
+        "journal": "Translational Behavioral Medicine",
+        "year": 2020,
+        "citations": 597,
+        "authors": "David X. Márquez, Susan Aguiñaga, Priscilla M. Vásquez et al.",
+        "authors_list": [
+            "David X. Márquez",
+            "Susan Aguiñaga",
+            "Priscilla M. Vásquez",
+            "David E. Conroy",
+            "Kirk I. Erickson",
+            "Charles H. Hillman",
+            "Chelsea M. Stillman",
+            "Rachel Ballard",
+            "Bonny Bloodgood Sheppard",
+            "Steven J. Petruzzello",
+            "­Abby C. King",
+            "Kenneth E. Powell"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 597,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/tbm/article-pdf/10/5/1098/35054899/ibz198.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1136/bjsports-2017-098136",
+        "title": "Effects of physical activity interventions on cognitive and academic performance in children and adolescents: a novel combination of a systematic review and recommendations from an expert panel",
+        "journal": "British Journal of Sports Medicine",
+        "year": 2018,
+        "citations": 585,
+        "authors": "Amika Singh, Emi Saliasi, Vera van den Berg et al.",
+        "authors_list": [
+            "Amika Singh",
+            "Emi Saliasi",
+            "Vera van den Berg",
+            "Léonie Uijtdewilligen",
+            "Renate H. M. de Groot",
+            "Jelle Jolles",
+            "Lars Bo Andersen",
+            "Richard Bailey",
+            "Yu‐Kai Chang",
+            "Adele Diamond",
+            "Ingegerd Ericsson",
+            "Jennifer L. Etnier",
+            "Alicia L. Fedewa",
+            "Charles H. Hillman",
+            "Terry McMorris",
+            "Caterina Pesce",
+            "Uwe Pühse",
+            "Phillip D. Tomporowski",
+            "Mai J. M. Chinapaw"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 585,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bjsm.bmj.com/content/bjsports/53/10/640.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/02699930341000239",
+        "title": "Brain processes in emotional perception: Motivated attention",
+        "journal": "Cognition & Emotion",
+        "year": 2004,
+        "citations": 515,
+        "authors": "Harald T. Schupp, Bruce N. Cuthbert, Margaret M. Bradley et al.",
+        "authors_list": [
+            "Harald T. Schupp",
+            "Bruce N. Cuthbert",
+            "Margaret M. Bradley",
+            "Charles H. Hillman",
+            "Alfons O. Hamm",
+            "Peter J. Lang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 515,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://kops.uni-konstanz.de/server/api/core/bitstreams/0678c66b-174f-4081-a0a1-4d1111860b4b/content"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1249/01.mss.0000176680.79702.ce",
+        "title": "Aerobic Fitness and Neurocognitive Function in Healthy Preadolescent Children",
+        "journal": "Medicine & Science in Sports & Exercise",
+        "year": 2005,
+        "citations": 499,
+        "authors": "Charles H. Hillman, Darla M. Castelli, Sarah Buck",
+        "authors_list": [
+            "Charles H. Hillman",
+            "Darla M. Castelli",
+            "Sarah Buck"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 499,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/a0014437",
+        "title": "Aerobic fitness and cognitive development: Event-related brain potential and task performance indices of executive control in preadolescent children.",
+        "journal": "Developmental Psychology",
+        "year": 2009,
+        "citations": 441,
+        "authors": "Charles H. Hillman, Sarah Buck, Jason R. Themanson et al.",
+        "authors_list": [
+            "Charles H. Hillman",
+            "Sarah Buck",
+            "Jason R. Themanson",
+            "Matthew B. Pontifex",
+            "Darla M. Castelli"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 441,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0167-8760(03)00080-1",
+        "title": "Acute cardiovascular exercise and executive control function",
+        "journal": "International Journal of Psychophysiology",
+        "year": 2003,
+        "citations": 438,
+        "authors": "Charles H. Hillman, Erin M. Snook, Gerald J. Jerome",
+        "authors_list": [
+            "Charles H. Hillman",
+            "Erin M. Snook",
+            "Gerald J. Jerome"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 438,
+            "crossref": 310
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jpeds.2012.08.036",
+        "title": "Exercise Improves Behavioral, Neurocognitive, and Scholastic Performance in Children with Attention-Deficit/Hyperactivity Disorder",
+        "journal": "The Journal of Pediatrics",
+        "year": 2012,
+        "citations": 417,
+        "authors": "Matthew B. Pontifex, Brian J. Saliba, Lauren B. Raine et al.",
+        "authors_list": [
+            "Matthew B. Pontifex",
+            "Brian J. Saliba",
+            "Lauren B. Raine",
+            "Daniel L. Picchietti",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 417,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cobeha.2015.01.005",
+        "title": "Physical activity, brain, and cognition",
+        "journal": "Current Opinion in Behavioral Sciences",
+        "year": 2015,
+        "citations": 406,
+        "authors": "Kirk I. Erickson, Charles H. Hillman, Arthur F. Kramer",
+        "authors_list": [
+            "Kirk I. Erickson",
+            "Charles H. Hillman",
+            "Arthur F. Kramer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 406,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1249/mss.0b013e3181907d69",
+        "title": "The Effect of Acute Aerobic and Resistance Exercise on Working Memory",
+        "journal": "Medicine & Science in Sports & Exercise",
+        "year": 2009,
+        "citations": 389,
+        "authors": "Matthew B. Pontifex, Charles H. Hillman, Bo Fernhall et al.",
+        "authors_list": [
+            "Matthew B. Pontifex",
+            "Charles H. Hillman",
+            "Bo Fernhall",
+            "Kelli M. Thompson",
+            "Teresa A. Valentini"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 389,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1017/s1355617711000567",
+        "title": "A Review of the Relation of Aerobic Fitness and Physical Activity to Brain Structure and Function in Children",
+        "journal": "Journal of the International Neuropsychological Society",
+        "year": 2011,
+        "citations": 373,
+        "authors": "Laura Chaddock, Matthew B. Pontifex, Charles H. Hillman et al.",
+        "authors_list": [
+            "Laura Chaddock",
+            "Matthew B. Pontifex",
+            "Charles H. Hillman",
+            "Arthur F. Kramer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 373,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1467-7687.2011.01054.x",
+        "title": "The effects of an afterschool physical activity program on working memory in preadolescent children",
+        "journal": "Developmental Science",
+        "year": 2011,
+        "citations": 363,
+        "authors": "Keita Kamijo, Matthew B. Pontifex, Kevin O’Leary et al.",
+        "authors_list": [
+            "Keita Kamijo",
+            "Matthew B. Pontifex",
+            "Kevin O’Leary",
+            "Mark R. Scudder",
+            "Chien-Ting Wu",
+            "Darla M. Castelli",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 363,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1467-7687.2011.01054.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.10.3.289",
+        "title": "Physical Activity: An Underestimated Investment in Human Capital?",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2013,
+        "citations": 361,
+        "authors": "Richard Bailey, Charles H. Hillman, Shawn M. Arent et al.",
+        "authors_list": [
+            "Richard Bailey",
+            "Charles H. Hillman",
+            "Shawn M. Arent",
+            "Albert J. Petitpas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 361,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1159/000316648",
+        "title": "Basal Ganglia Volume Is Associated with Aerobic Fitness in Preadolescent Children",
+        "journal": "Developmental Neuroscience",
+        "year": 2010,
+        "citations": 358,
+        "authors": "Laura Chaddock, Kirk I. Erickson, Ruchika Shaurya Prakash et al.",
+        "authors_list": [
+            "Laura Chaddock",
+            "Kirk I. Erickson",
+            "Ruchika Shaurya Prakash",
+            "Matt VanPatter",
+            "Michelle W. Voss",
+            "Matthew B. Pontifex",
+            "Lauren B. Raine",
+            "Charles H. Hillman",
+            "Arthur F. Kramer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 358,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.2018-0618",
+        "title": "The Scientific Foundation for the <i>Physical Activity Guidelines for Americans</i>, 2nd Edition",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2018,
+        "citations": 348,
+        "authors": "Kenneth E. Powell, ­Abby C. King, David M. Büchner et al.",
+        "authors_list": [
+            "Kenneth E. Powell",
+            "­Abby C. King",
+            "David M. Büchner",
+            "W. W. Campbell",
+            "Loretta DiPietro",
+            "Kirk I. Erickson",
+            "Charles H. Hillman",
+            "John M. Jakicic",
+            "Kathleen F. Janz",
+            "Peter T. Katzmarzyk",
+            "William E. Kraus",
+            "Richard F. Macko",
+            "David X. Márquez",
+            "Anne McTiernan",
+            "Russell R. Pate",
+            "Linda S. Pescatello",
+            "Melicia C. Whitt‐Glover"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 348,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.humankinetics.com/downloadpdf/journals/jpah/16/1/article-p1.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/pes.2013-0125",
+        "title": "The Relation of Childhood Physical Activity and Aerobic Fitness to Brain Function and Cognition: A Review",
+        "journal": "Pediatric Exercise Science",
+        "year": 2014,
+        "citations": 332,
+        "authors": "Naiman A. Khan, Charles H. Hillman",
+        "authors_list": [
+            "Naiman A. Khan",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 332,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1162/jocn.2010.21528",
+        "title": "Cardiorespiratory Fitness and the Flexible Modulation of Cognitive Control in Preadolescent Children",
+        "journal": "Journal of Cognitive Neuroscience",
+        "year": 2010,
+        "citations": 331,
+        "authors": "Matthew B. Pontifex, Lauren B. Raine, Christopher R. Johnson et al.",
+        "authors_list": [
+            "Matthew B. Pontifex",
+            "Lauren B. Raine",
+            "Christopher R. Johnson",
+            "Laura Chaddock",
+            "Michelle W. Voss",
+            "Neal J. Cohen",
+            "Arthur F. Kramer",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 331,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3389/fnhum.2013.00072",
+        "title": "The effects of physical activity on functional MRI activation associated with cognitive control in children: a randomized controlled intervention",
+        "journal": "Frontiers in Human Neuroscience",
+        "year": 2013,
+        "citations": 303,
+        "authors": "Laura Chaddock‐Heyman, Kirk I. Erickson, Michelle W. Voss et al.",
+        "authors_list": [
+            "Laura Chaddock‐Heyman",
+            "Kirk I. Erickson",
+            "Michelle W. Voss",
+            "Anya M. Knecht",
+            "Matthew B. Pontifex",
+            "Darla M. Castelli",
+            "Charles H. Hillman",
+            "Arthur F. Kramer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 303,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.frontiersin.org/articles/10.3389/fnhum.2013.00072/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.dcn.2013.11.001",
+        "title": "Acute exercise facilitates brain function and cognition in children who need it most: An ERP study of individual differences in inhibitory control capacity",
+        "journal": "Developmental Cognitive Neuroscience",
+        "year": 2013,
+        "citations": 298,
+        "authors": "Eric S. Drollette, Mark R. Scudder, Lauren B. Raine et al.",
+        "authors_list": [
+            "Eric S. Drollette",
+            "Mark R. Scudder",
+            "Lauren B. Raine",
+            "Robert Davis Moore",
+            "Brian J. Saliba",
+            "Matthew B. Pontifex",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 298,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1878929313000911/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0278-6133.25.6.678",
+        "title": "Physical activity and cognitive function in a cross-section of younger and older community-dwelling individuals.",
+        "journal": "Health Psychology",
+        "year": 2006,
+        "citations": 288,
+        "authors": "Charles H. Hillman, Robert W. Motl, Matthew B. Pontifex et al.",
+        "authors_list": [
+            "Charles H. Hillman",
+            "Robert W. Motl",
+            "Matthew B. Pontifex",
+            "Daniëlle Posthuma",
+            "Janine H. Stubbe",
+            "Dorret I. Boomsma",
+            "Eco J. C. de Geus"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 288,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://research.vu.nl/ws/files/2241610/Hillman%20Health%20Psychology%2025(6)%202006%20u.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1249/mss.0b013e318159b035",
+        "title": "The Relation of Aerobic Fitness to Stroop Task Performance in Preadolescent Children",
+        "journal": "Medicine & Science in Sports & Exercise",
+        "year": 2008,
+        "citations": 287,
+        "authors": "Sarah Buck, Charles H. Hillman, Darla M. Castelli",
+        "authors_list": [
+            "Sarah Buck",
+            "Charles H. Hillman",
+            "Darla M. Castelli"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 287,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ypmed.2011.01.024",
+        "title": "A review of chronic and acute physical activity participation on neuroelectric measures of brain health and cognition during childhood",
+        "journal": "Preventive Medicine",
+        "year": 2011,
+        "citations": 274,
+        "authors": "Charles H. Hillman, Keita Kamijo, Mark R. Scudder",
+        "authors_list": [
+            "Charles H. Hillman",
+            "Keita Kamijo",
+            "Mark R. Scudder"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 274,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s41465-018-0115-y",
+        "title": "Improving Methodological Standards in Behavioral Interventions for Cognitive Enhancement",
+        "journal": "Journal of Cognitive Enhancement",
+        "year": 2019,
+        "citations": 240,
+        "authors": "C. Shawn Green, Daphné Bavelier, Arthur F. Kramer et al.",
+        "authors_list": [
+            "C. Shawn Green",
+            "Daphné Bavelier",
+            "Arthur F. Kramer",
+            "Sophia Vinogradov",
+            "Ulrich Ansorge",
+            "Karlene Ball",
+            "Ulrike Bingel",
+            "Jason Chein",
+            "Lorenza S. Colzato",
+            "Jerri D. Edwards",
+            "Andrea Facoetti",
+            "Adam Gazzaley",
+            "Susan E. Gathercole",
+            "Paolo Ghisletta",
+            "Simone Gori",
+            "Isabela Granic",
+            "Charles H. Hillman",
+            "Bernhard Hommel",
+            "Susanne M. Jaeggi",
+            "Philipp Kanske",
+            "Julia Karbach",
+            "Alan Kingstone",
+            "Matthias Kliegel",
+            "Torkel Klingberg",
+            "Simone Kühn",
+            "Dennis M. Levi",
+            "Richard E. Mayer",
+            "Anne Collins McLaughlin",
+            "Danielle S. McNamara",
+            "Martha Clare Morris",
+            "Mor Nahum",
+            "Nora S. Newcombe",
+            "Rogério Panizzutti",
+            "Ruchika Shaurya Prakash",
+            "Albert Rizzo",
+            "Torsten Schubert",
+            "Aaron R. Seitz",
+            "Sarah J. Short",
+            "Ilina Singh",
+            "James D. Slotta",
+            "Tilo Strobach",
+            "Michael S. C. Thomas",
+            "Elizabeth Tipton",
+            "Xin Tong",
+            "Haley A. Vlach",
+            "Julie Loebach Wetherell",
+            "Anna Wexler",
+            "Claudia M. Witt"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 240,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://hdl.handle.net/1887/80717"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1249/mss.0000000000000993",
+        "title": "High-Intensity Interval Training for Cognitive and Mental Health in Adolescents",
+        "journal": "Medicine & Science in Sports & Exercise",
+        "year": 2016,
+        "citations": 237,
+        "authors": "Sarah A. Costigan, Narelle Eather, Ronald C. Plotnikoff et al.",
+        "authors_list": [
+            "Sarah A. Costigan",
+            "Narelle Eather",
+            "Ronald C. Plotnikoff",
+            "Charles H. Hillman",
+            "David R. Lubans"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 237,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://figshare.com/articles/journal_contribution/High-Intensity_Interval_Training_for_Cognitive_and_Mental_Health_in_Adolescents/20881540"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/oby.2012.112",
+        "title": "The Relation of Adiposity to Cognitive Control and Scholastic Achievement in Preadolescent Children",
+        "journal": "Obesity",
+        "year": 2012,
+        "citations": 231,
+        "authors": "Keita Kamijo, Naiman A. Khan, Matthew B. Pontifex et al.",
+        "authors_list": [
+            "Keita Kamijo",
+            "Naiman A. Khan",
+            "Matthew B. Pontifex",
+            "Mark R. Scudder",
+            "Eric S. Drollette",
+            "Lauren B. Raine",
+            "Ellen M. Evans",
+            "Darla M. Castelli",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 231,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1038/oby.2012.112"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jsep.22.2.167",
+        "title": "Expertise Differences in Cortical Activation and Gaze Behavior during Rifle Shooting",
+        "journal": "Journal of Sport and Exercise Psychology",
+        "year": 2000,
+        "citations": 220,
+        "authors": "Christopher M. Janelle, Charles H. Hillman, Ross J. Apparies et al.",
+        "authors_list": [
+            "Christopher M. Janelle",
+            "Charles H. Hillman",
+            "Ross J. Apparies",
+            "Nicholas P. Murray",
+            "Launi Meili",
+            "Elizabeth A. Fallon",
+            "Bradley D. Hatfield"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 220,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1136/bjsports-2016-097361",
+        "title": "How does academic achievement relate to cardiorespiratory fitness, self-reported physical activity and objectively reported physical activity: a systematic review in children and adolescents aged 6–18 years",
+        "journal": "British Journal of Sports Medicine",
+        "year": 2017,
+        "citations": 219,
+        "authors": "Adilson Marques, Diana A. Santos, Charles H. Hillman et al.",
+        "authors_list": [
+            "Adilson Marques",
+            "Diana A. Santos",
+            "Charles H. Hillman",
+            "Luís B. Sardinha"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 219,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://hdl.handle.net/10362/30515"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.neuroscience.2011.10.009",
+        "title": "Aerobic fitness is associated with greater efficiency of the network underlying cognitive control in preadolescent children",
+        "journal": "Neuroscience",
+        "year": 2011,
+        "citations": 215,
+        "authors": "M.W. Voss, Laura Chaddock, J. S. Kim et al.",
+        "authors_list": [
+            "M.W. Voss",
+            "Laura Chaddock",
+            "J. S. Kim",
+            "Matt VanPatter",
+            "Matthew B. Pontifex",
+            "Lauren B. Raine",
+            "Neal J. Cohen",
+            "Charles H. Hillman",
+            "Arthur F. Kramer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 215,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1469-8986.2010.00974.x",
+        "title": "On the number of trials necessary for stabilization of error-related brain activity across the life span",
+        "journal": "Psychophysiology",
+        "year": 2010,
+        "citations": 209,
+        "authors": "Matthew B. Pontifex, Mark R. Scudder, Michael L. Brown et al.",
+        "authors_list": [
+            "Matthew B. Pontifex",
+            "Mark R. Scudder",
+            "Michael L. Brown",
+            "Kevin O’Leary",
+            "Chien-Ting Wu",
+            "Jason R. Themanson",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 209,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1249/mss.0b013e3181e9af48",
+        "title": "Aerobic Fitness and Executive Control of Relational Memory in Preadolescent Children",
+        "journal": "Medicine & Science in Sports & Exercise",
+        "year": 2010,
+        "citations": 208,
+        "authors": "Laura Chaddock, Charles H. Hillman, Sarah Buck et al.",
+        "authors_list": [
+            "Laura Chaddock",
+            "Charles H. Hillman",
+            "Sarah Buck",
+            "Neal J. Cohen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 208,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijpsycho.2005.04.009",
+        "title": "A cross-sectional examination of age and physical activity on performance and event-related brain potentials in a task switching paradigm",
+        "journal": "International Journal of Psychophysiology",
+        "year": 2006,
+        "citations": 206,
+        "authors": "Charles H. Hillman, Arthur F. Kramer, Artem V. Belopolsky et al.",
+        "authors_list": [
+            "Charles H. Hillman",
+            "Arthur F. Kramer",
+            "Artem V. Belopolsky",
+            "Denise L. Smith"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 206,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/02640414.2011.647706",
+        "title": "Childhood aerobic fitness predicts cognitive performance one year later",
+        "journal": "Journal of Sports Sciences",
+        "year": 2012,
+        "citations": 205,
+        "authors": "Laura Chaddock, Charles H. Hillman, Matthew B. Pontifex et al.",
+        "authors_list": [
+            "Laura Chaddock",
+            "Charles H. Hillman",
+            "Matthew B. Pontifex",
+            "Christopher R. Johnson",
+            "Lauren B. Raine",
+            "Arthur F. Kramer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 205,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3389/fnhum.2014.00584",
+        "title": "Aerobic fitness is associated with greater white matter integrity in children",
+        "journal": "Frontiers in Human Neuroscience",
+        "year": 2014,
+        "citations": 205,
+        "authors": "Laura Chaddock‐Heyman, Kirk I. Erickson, Joseph L. Holtrop et al.",
+        "authors_list": [
+            "Laura Chaddock‐Heyman",
+            "Kirk I. Erickson",
+            "Joseph L. Holtrop",
+            "Michelle W. Voss",
+            "Matthew B. Pontifex",
+            "Lauren B. Raine",
+            "Charles H. Hillman",
+            "Arthur F. Kramer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 205,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.frontiersin.org/articles/10.3389/fnhum.2014.00584/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jsep.25.2.188",
+        "title": "Cortico-cortical Communication and Superior Performance in Skilled Marksmen: An EEG Coherence Analysis",
+        "journal": "Journal of Sport and Exercise Psychology",
+        "year": 2003,
+        "citations": 200,
+        "authors": "Sean P. Deeny, Charles H. Hillman, Christopher M. Janelle et al.",
+        "authors_list": [
+            "Sean P. Deeny",
+            "Charles H. Hillman",
+            "Christopher M. Janelle",
+            "Bradley D. Hatfield"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 200,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.biopsycho.2011.10.017",
+        "title": "A functional MRI investigation of the association between childhood aerobic fitness and neurocognitive control",
+        "journal": "Biological Psychology",
+        "year": 2011,
+        "citations": 199,
+        "authors": "Laura Chaddock, Kirk I. Erickson, Ruchika Shaurya Prakash et al.",
+        "authors_list": [
+            "Laura Chaddock",
+            "Kirk I. Erickson",
+            "Ruchika Shaurya Prakash",
+            "Michelle W. Voss",
+            "Matt VanPatter",
+            "Matthew B. Pontifex",
+            "Charles H. Hillman",
+            "Arthur F. Kramer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 199,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/02701367.2004.10609149",
+        "title": "Physical Activity and Executive Control: Implications for Increased Cognitive Health during Older Adulthood",
+        "journal": "Research Quarterly for Exercise and Sport",
+        "year": 2004,
+        "citations": 196,
+        "authors": "Charles H. Hillman, Artem V. Belopolsky, Erin M. Snook et al.",
+        "authors_list": [
+            "Charles H. Hillman",
+            "Artem V. Belopolsky",
+            "Erin M. Snook",
+            "Arthur F. Kramer",
+            "Edward McAuley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 196,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1542/peds.2018-4032",
+        "title": "The Impact of Physical Activity on Brain Structure and Function in Youth: A Systematic Review",
+        "journal": "PEDIATRICS",
+        "year": 2019,
+        "citations": 193,
+        "authors": "Sarah R. Valkenborghs, Michael Noetel, Charles H. Hillman et al.",
+        "authors_list": [
+            "Sarah R. Valkenborghs",
+            "Michael Noetel",
+            "Charles H. Hillman",
+            "Michael Nilsson",
+            "Jordan Smith",
+            "Francisco B. Ortega",
+            "David R. Lubans"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 193,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.biopsycho.2003.07.005",
+        "title": "Emotion and motivated behavior: postural adjustments to affective picture viewing",
+        "journal": "Biological Psychology",
+        "year": 2003,
+        "citations": 184,
+        "authors": "Charles H. Hillman, Karl S. Rosengren, Darin Smith",
+        "authors_list": [
+            "Charles H. Hillman",
+            "Karl S. Rosengren",
+            "Darin Smith"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 184,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.neuroscience.2006.04.004",
+        "title": "Cardiorespiratory fitness and acute aerobic exercise effects on neuroelectric and behavioral measures of action monitoring",
+        "journal": "Neuroscience",
+        "year": 2006,
+        "citations": 178,
+        "authors": "Jason R. Themanson, Charles H. Hillman",
+        "authors_list": [
+            "Jason R. Themanson",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 178,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0301-0511(01)00093-x",
+        "title": "Food deprivation and emotional reactions to food cues: implications for eating disorders",
+        "journal": "Biological Psychology",
+        "year": 2001,
+        "citations": 177,
+        "authors": "David J. Drobes, Erica J Miller, Charles H. Hillman et al.",
+        "authors_list": [
+            "David J. Drobes",
+            "Erica J Miller",
+            "Charles H. Hillman",
+            "Margaret M. Bradley",
+            "Bruce N. Cuthbert",
+            "Peter J. Lang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 177,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.10.4.488",
+        "title": "The Acute Effects of Yoga on Executive Function",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2013,
+        "citations": 176,
+        "authors": "Neha P. Gothe, Matthew B. Pontifex, Charles H. Hillman et al.",
+        "authors_list": [
+            "Neha P. Gothe",
+            "Matthew B. Pontifex",
+            "Charles H. Hillman",
+            "Edward McAuley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 176,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1469-8986.2008.00782.x",
+        "title": "Age, physical fitness, and attention: P3a and P3b",
+        "journal": "Psychophysiology",
+        "year": 2009,
+        "citations": 168,
+        "authors": "Matthew B. Pontifex, Charles H. Hillman, John Polich",
+        "authors_list": [
+            "Matthew B. Pontifex",
+            "Charles H. Hillman",
+            "John Polich"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 168,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-8986.2008.00782.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1017/s0048577201393058",
+        "title": "The relationship of age and cardiovascular fitness to cognitive and motor processes",
+        "journal": "Psychophysiology",
+        "year": 2002,
+        "citations": 164,
+        "authors": "Charles H. Hillman, Edward P. Weiss, James M. Hagberg et al.",
+        "authors_list": [
+            "Charles H. Hillman",
+            "Edward P. Weiss",
+            "James M. Hagberg",
+            "Bradley D. Hatfield"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 164,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1089/neu.2008.0766",
+        "title": "The Persistent Effects of Concussion on Neuroelectric Indices of Attention",
+        "journal": "Journal of Neurotrauma",
+        "year": 2009,
+        "citations": 158,
+        "authors": "Steven P. Broglio, Matthew B. Pontifex, PHILIP L. O'CONNOR et al.",
+        "authors_list": [
+            "Steven P. Broglio",
+            "Matthew B. Pontifex",
+            "PHILIP L. O'CONNOR",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 158,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/psyp.12889",
+        "title": "Comparison of the acute effects of high‐intensity interval training and continuous aerobic walking on inhibitory control",
+        "journal": "Psychophysiology",
+        "year": 2017,
+        "citations": 154,
+        "authors": "Shih‐Chun Kao, Daniel R. Westfall, Jack Soneson et al.",
+        "authors_list": [
+            "Shih‐Chun Kao",
+            "Daniel R. Westfall",
+            "Jack Soneson",
+            "Brendon J. Gurd",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 154,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/mono.12129",
+        "title": "III. THE IMPORTANCE OF PHYSICAL ACTIVITY AND AEROBIC FITNESS FOR COGNITIVE CONTROL AND MEMORY IN CHILDREN",
+        "journal": "Monographs of the Society for Research in Child Development",
+        "year": 2014,
+        "citations": 152,
+        "authors": "Laura Chaddock‐Heyman, Charles H. Hillman, Neal J. Cohen et al.",
+        "authors_list": [
+            "Laura Chaddock‐Heyman",
+            "Charles H. Hillman",
+            "Neal J. Cohen",
+            "Arthur F. Kramer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 152,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1249/mss.0000000000001940",
+        "title": "Physical Activity and Health in Children Younger than 6 Years: A Systematic Review",
+        "journal": "Medicine & Science in Sports & Exercise",
+        "year": 2019,
+        "citations": 152,
+        "authors": "Russell R. Pate, Charles H. Hillman, Kathleen F. Janz et al.",
+        "authors_list": [
+            "Russell R. Pate",
+            "Charles H. Hillman",
+            "Kathleen F. Janz",
+            "Peter T. Katzmarzyk",
+            "Kenneth E. Powell",
+            "Andrea Torres",
+            "Melicia C. Whitt‐Glover"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 152,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/6527328"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.neurobiolaging.2005.07.002",
+        "title": "Age and physical activity influences on action monitoring during task switching",
+        "journal": "Neurobiology of Aging",
+        "year": 2005,
+        "citations": 149,
+        "authors": "Jason R. Themanson, Charles H. Hillman, John J. Curtin",
+        "authors_list": [
+            "Jason R. Themanson",
+            "Charles H. Hillman",
+            "John J. Curtin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 149,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1136/bjsports-2016-096325",
+        "title": "The Copenhagen Consensus Conference 2016: children, youth, and physical activity in schools and during leisure time",
+        "journal": "British Journal of Sports Medicine",
+        "year": 2016,
+        "citations": 148,
+        "authors": "Jens Bangsbo, Peter Krustrup, Joan L. Duda et al.",
+        "authors_list": [
+            "Jens Bangsbo",
+            "Peter Krustrup",
+            "Joan L. Duda",
+            "Charles H. Hillman",
+            "Lars Bo Andersen",
+            "Maureen R. Weiss",
+            "Craig A. Williams",
+            "Taru Lintunen",
+            "Ken Green",
+            "Peter Riis Hansen",
+            "Patti-Jean Naylor",
+            "Ingegerd Ericsson",
+            "Glen Nielsen",
+            "Karsten Froberg",
+            "Anna Bugge",
+            "Jesper Lundbye‐Jensen",
+            "Jasper Schipperijn",
+            "S. Dagkas",
+            "Sine Agergaard",
+            "Jesper von Seelen",
+            "Charlotte Østergaard",
+            "Thomas Skovgaard",
+            "Henrik Busch",
+            "Anne‐Marie Elbe"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 148,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bjsm.bmj.com/content/bjsports/50/19/1177.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.clinph.2006.09.029",
+        "title": "Neuroelectric and behavioral indices of interference control during acute cycling",
+        "journal": "Clinical Neurophysiology",
+        "year": 2006,
+        "citations": 145,
+        "authors": "Matthew B. Pontifex, Charles H. Hillman",
+        "authors_list": [
+            "Matthew B. Pontifex",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 145,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.smrv.2021.101489",
+        "title": "Physical activity and sleep: An updated umbrella review of the 2018 Physical Activity Guidelines Advisory Committee report",
+        "journal": "Sleep Medicine Reviews",
+        "year": 2021,
+        "citations": 144,
+        "authors": "Christopher E. Kline, Charles H. Hillman, Bonny Bloodgood Sheppard et al.",
+        "authors_list": [
+            "Christopher E. Kline",
+            "Charles H. Hillman",
+            "Bonny Bloodgood Sheppard",
+            "Bethany Tennant",
+            "David E. Conroy",
+            "Richard F. Macko",
+            "David X. Márquez",
+            "Steven J. Petruzzello",
+            "Kenneth E. Powell",
+            "Kirk I. Erickson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 144,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/8338757"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.neubiorev.2021.06.026",
+        "title": "The effects of acute aerobic exercise on executive function: A systematic review and meta-analysis of individual participant data",
+        "journal": "Neuroscience & Biobehavioral Reviews",
+        "year": 2021,
+        "citations": 140,
+        "authors": "Toru Ishihara, Eric S. Drollette, Sebastian Ludyga et al.",
+        "authors_list": [
+            "Toru Ishihara",
+            "Eric S. Drollette",
+            "Sebastian Ludyga",
+            "Charles H. Hillman",
+            "Keita Kamijo"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 140,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.neubiorev.2021.06.026"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ypmed.2017.02.006",
+        "title": "Physical activity and academic achievement across the curriculum: Results from a 3-year cluster-randomized trial",
+        "journal": "Preventive Medicine",
+        "year": 2017,
+        "citations": 137,
+        "authors": "Joseph E. Donnelly, Charles H. Hillman, Jerry L. Greene et al.",
+        "authors_list": [
+            "Joseph E. Donnelly",
+            "Charles H. Hillman",
+            "Jerry L. Greene",
+            "David M. Hansen",
+            "Cheryl Gibson",
+            "Debra K. Sullivan",
+            "John P. Poggio",
+            "Matthew S. Mayo",
+            "Kate Lambourne",
+            "Amanda N. Szabo‐Reed",
+            "Stephen D. Herrmann",
+            "Jeffery J. Honas",
+            "Mark R. Scudder",
+            "Jessica L. Betts",
+            "Katherine Henley",
+            "Suzanne Hunt",
+            "Richard A. Washburn"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 137,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://hdl.handle.net/1808/31900"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3945/an.111.000331",
+        "title": "A Narrative Review of Physical Activity, Nutrition, and Obesity to Cognition and Scholastic Performance across the Human Lifespan",
+        "journal": "Advances in Nutrition",
+        "year": 2011,
+        "citations": 136,
+        "authors": "Toni M. Burkhalter, Charles H. Hillman",
+        "authors_list": [
+            "Toni M. Burkhalter",
+            "Charles H. Hillman"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 136,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S216183132200583X/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.clinph.2011.01.049",
+        "title": "The effects of single bouts of aerobic exercise, exergaming, and videogame play on cognitive control",
+        "journal": "Clinical Neurophysiology",
+        "year": 2011,
+        "citations": 135,
+        "authors": "Kevin O’Leary, Matthew B. Pontifex, Mark R. Scudder et al.",
+        "authors_list": [
+            "Kevin O’Leary",
+            "Matthew B. Pontifex",
+            "Mark R. Scudder",
+            "Michael L. Brown",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 135,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1249/mss.0000000000002359",
+        "title": "Review of High-Intensity Interval Training for Cognitive and Mental Health in Youth",
+        "journal": "Medicine & Science in Sports & Exercise",
+        "year": 2020,
+        "citations": 130,
+        "authors": "Angus A. Leahy, Myrto F. Mavilidi, Jordan Smith et al.",
+        "authors_list": [
+            "Angus A. Leahy",
+            "Myrto F. Mavilidi",
+            "Jordan Smith",
+            "Charles H. Hillman",
+            "Narelle Eather",
+            "Daniel Barker",
+            "David R. Lubans"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.neuropsychologia.2009.07.021",
+        "title": "The association between mild traumatic brain injury history and cognitive control",
+        "journal": "Neuropsychologia",
+        "year": 2009,
+        "citations": 130,
+        "authors": "Matthew B. Pontifex, Phillip M. O’Connor, Steven P. Broglio et al.",
+        "authors_list": [
+            "Matthew B. Pontifex",
+            "Phillip M. O’Connor",
+            "Steven P. Broglio",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/psyp.13425",
+        "title": "A systematic review of physical activity and cardiorespiratory fitness on P3b",
+        "journal": "Psychophysiology",
+        "year": 2019,
+        "citations": 128,
+        "authors": "Shih‐Chun Kao, Cristina Cadenas‐Sánchez, Tatsuya T. Shigeta et al.",
+        "authors_list": [
+            "Shih‐Chun Kao",
+            "Cristina Cadenas‐Sánchez",
+            "Tatsuya T. Shigeta",
+            "Anne M. Walk",
+            "Yu‐Kai Chang",
+            "Matthew B. Pontifex",
+            "Charles H. Hillman"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/cercor/bhs349",
+        "title": "The Negative Association of Childhood Obesity to Cognitive Control of Action Monitoring",
+        "journal": "Cerebral Cortex",
+        "year": 2012,
+        "citations": 128,
+        "authors": "Keita Kamijo, Matthew B. Pontifex, Naiman A. Khan et al.",
+        "authors_list": [
+            "Keita Kamijo",
+            "Matthew B. Pontifex",
+            "Naiman A. Khan",
+            "Lauren B. Raine",
+            "Mark R. Scudder",
+            "Eric S. Drollette",
+            "Ellen M. Evans",
+            "D. M. Castelli",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/cercor/article-pdf/24/3/654/1106411/bhs349.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0134115",
+        "title": "The Role of Aerobic Fitness in Cortical Thickness and Mathematics Achievement in Preadolescent Children",
+        "journal": "PLoS ONE",
+        "year": 2015,
+        "citations": 126,
+        "authors": "Laura Chaddock‐Heyman, Kirk I. Erickson, Caitlin Kienzler et al.",
+        "authors_list": [
+            "Laura Chaddock‐Heyman",
+            "Kirk I. Erickson",
+            "Caitlin Kienzler",
+            "Matthew King",
+            "Matthew B. Pontifex",
+            "Lauren B. Raine",
+            "Charles H. Hillman",
+            "Arthur F. Kramer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 126,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0134115&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.tics.2024.02.003",
+        "title": "Sedentary behavior and lifespan brain health",
+        "journal": "Trends in Cognitive Sciences",
+        "year": 2024,
+        "citations": 124,
+        "authors": "Liye Zou, Fabian Herold, Boris Cheval et al.",
+        "authors_list": [
+            "Liye Zou",
+            "Fabian Herold",
+            "Boris Cheval",
+            "Michael J. Wheeler",
+            "Dominika M. Pindus",
+            "Kirk I. Erickson",
+            "David A. Raichlen",
+            "Gene E. Alexander",
+            "Notger G. Müller",
+            "David W. Dunstan",
+            "Arthur F. Kramer",
+            "Charles H. Hillman",
+            "Mats Hallgren",
+            "Ulf Ekelund",
+            "Silvio Maltagliati",
+            "Neville Owen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 124,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11778811/pdf/nihms-2040724.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/02640414.2020.1720496",
+        "title": "Aerobic fitness and academic achievement: A systematic review and meta-analysis",
+        "journal": "Journal of Sports Sciences",
+        "year": 2020,
+        "citations": 124,
+        "authors": "Celia Álvarez‐Bueno, Charles H. Hillman, Iván Cavero‐Redondo et al.",
+        "authors_list": [
+            "Celia Álvarez‐Bueno",
+            "Charles H. Hillman",
+            "Iván Cavero‐Redondo",
+            "Mairena Sánchez‐López",
+            "Diana P. Pozuelo‐Carrascosa",
+            "Vicente Martínez‐Vizcaíno"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 124,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3945/jn.114.198457",
+        "title": "Dietary Fiber Is Positively Associated with Cognitive Control among Prepubertal Children ,",
+        "journal": "Journal of Nutrition",
+        "year": 2014,
+        "citations": 122,
+        "authors": "Naiman A. Khan, Lauren B. Raine, Eric S. Drollette et al.",
+        "authors_list": [
+            "Naiman A. Khan",
+            "Lauren B. Raine",
+            "Eric S. Drollette",
+            "Mark R. Scudder",
+            "Arthur F. Kramer",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 122,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316622085984/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3945/ajcn.113.079624",
+        "title": "Dietary lipids are differentially associated with hippocampal-dependent relational memory in prepubescent children",
+        "journal": "American Journal of Clinical Nutrition",
+        "year": 2014,
+        "citations": 119,
+        "authors": "Carol L. Baym, Naiman A. Khan, Jim M. Monti et al.",
+        "authors_list": [
+            "Carol L. Baym",
+            "Naiman A. Khan",
+            "Jim M. Monti",
+            "Lauren B. Raine",
+            "Eric S. Drollette",
+            "Robert Davis Moore",
+            "Mark R. Scudder",
+            "Arthur F. Kramer",
+            "Charles H. Hillman",
+            "Neal J. Cohen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 119,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/ajcn/article-pdf/99/5/1026/23831352/1026.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.neuroscience.2008.09.014",
+        "title": "Fitness and action monitoring: Evidence for improved cognitive flexibility in young adults",
+        "journal": "Neuroscience",
+        "year": 2008,
+        "citations": 117,
+        "authors": "Jason R. Themanson, Matthew B. Pontifex, Charles H. Hillman",
+        "authors_list": [
+            "Jason R. Themanson",
+            "Matthew B. Pontifex",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2657808"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1469-8986.2012.01459.x",
+        "title": "The association of childhood obesity to neuroelectric indices of inhibition",
+        "journal": "Psychophysiology",
+        "year": 2012,
+        "citations": 116,
+        "authors": "Keita Kamijo, Matthew B. Pontifex, Naiman A. Khan et al.",
+        "authors_list": [
+            "Keita Kamijo",
+            "Matthew B. Pontifex",
+            "Naiman A. Khan",
+            "Lauren B. Raine",
+            "Mark R. Scudder",
+            "Eric S. Drollette",
+            "Ellen M. Evans",
+            "Darla M. Castelli",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1136/bjsports-2020-103277",
+        "title": "Time-efficient intervention to improve older adolescents’ cardiorespiratory fitness: findings from the ‘Burn 2 Learn’ cluster randomised controlled trial",
+        "journal": "British Journal of Sports Medicine",
+        "year": 2020,
+        "citations": 114,
+        "authors": "David R. Lubans, Jordan Smith, Narelle Eather et al.",
+        "authors_list": [
+            "David R. Lubans",
+            "Jordan Smith",
+            "Narelle Eather",
+            "Angus A. Leahy",
+            "Philip J. Morgan",
+            "Chris Lonsdale",
+            "Ronald C. Plotnikoff",
+            "Michael Nilsson",
+            "Sarah G. Kennedy",
+            "Elizabeth Holliday",
+            "Natasha Weaver",
+            "Michael Noetel",
+            "Tatsuya T. Shigeta",
+            "Myrto F. Mavilidi",
+            "Sarah R. Valkenborghs",
+            "Prajwal Gyawali",
+            "Frederick R. Walker",
+            "Sarah A. Costigan",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 114,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bjsm.bmj.com/content/bjsports/55/13/751.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1249/mss.0b013e318258bcd5",
+        "title": "Maintenance of Cognitive Control during and after Walking in Preadolescent Children",
+        "journal": "Medicine & Science in Sports & Exercise",
+        "year": 2012,
+        "citations": 114,
+        "authors": "Eric S. Drollette, Takayuki Shishido, Matthew B. Pontifex et al.",
+        "authors_list": [
+            "Eric S. Drollette",
+            "Takayuki Shishido",
+            "Matthew B. Pontifex",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 114,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3389/fnins.2018.00950",
+        "title": "Physical Activity Increases White Matter Microstructure in Children",
+        "journal": "Frontiers in Neuroscience",
+        "year": 2018,
+        "citations": 110,
+        "authors": "Laura Chaddock‐Heyman, Kirk I. Erickson, Caitlin Kienzler et al.",
+        "authors_list": [
+            "Laura Chaddock‐Heyman",
+            "Kirk I. Erickson",
+            "Caitlin Kienzler",
+            "Eric S. Drollette",
+            "Lauren B. Raine",
+            "Shih‐Chun Kao",
+            "Jeanine Bensken",
+            "Robert Weisshappel",
+            "Darla M. Castelli",
+            "Charles H. Hillman",
+            "Arthur F. Kramer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 110,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.frontiersin.org/articles/10.3389/fnins.2018.00950/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.neuroimage.2017.03.061",
+        "title": "Aerobic fitness, hippocampal viscoelasticity, and relational memory performance",
+        "journal": "NeuroImage",
+        "year": 2017,
+        "citations": 110,
+        "authors": "Hillary Schwarb, Curtis L. Johnson, Ana M. Daugherty et al.",
+        "authors_list": [
+            "Hillary Schwarb",
+            "Curtis L. Johnson",
+            "Ana M. Daugherty",
+            "Charles H. Hillman",
+            "Arthur F. Kramer",
+            "Neal J. Cohen",
+            "Aron K. Barbey"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 110,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.neuroimage.2017.03.061"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1249/mss.0000000000000199",
+        "title": "Aerobic Capacity and Cognitive Control in Elementary School-Age Children",
+        "journal": "Medicine & Science in Sports & Exercise",
+        "year": 2014,
+        "citations": 105,
+        "authors": "Mark R. Scudder, Kate Lambourne, Eric S. Drollette et al.",
+        "authors_list": [
+            "Mark R. Scudder",
+            "Kate Lambourne",
+            "Eric S. Drollette",
+            "Stephen D. Herrmann",
+            "Richard A. Washburn",
+            "Joseph E. Donnelly",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/4261924"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/geronb/60.1.p49",
+        "title": "Influences of Age on Emotional Reactivity During Picture Processing",
+        "journal": "The Journals of Gerontology Series B",
+        "year": 2005,
+        "citations": 105,
+        "authors": "David P. Smith, Charles H. Hillman, Aaron R. Duley",
+        "authors_list": [
+            "David P. Smith",
+            "Charles H. Hillman",
+            "Aaron R. Duley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/psychsocgerontology/article-pdf/60/1/P49/1705432/P49.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1249/mss.0000000000001132",
+        "title": "Muscular and Aerobic Fitness, Working Memory, and Academic Achievement in Children",
+        "journal": "Medicine & Science in Sports & Exercise",
+        "year": 2016,
+        "citations": 104,
+        "authors": "Shih‐Chun Kao, Daniel R. Westfall, Andrew C. Parks et al.",
+        "authors_list": [
+            "Shih‐Chun Kao",
+            "Daniel R. Westfall",
+            "Andrew C. Parks",
+            "Matthew B. Pontifex",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0301-0511(99)00021-6",
+        "title": "An electrocortical comparison of executed and rejected shots in skilled marksmen",
+        "journal": "Biological Psychology",
+        "year": 2000,
+        "citations": 100,
+        "authors": "Charles H. Hillman, Ross J Apparies, Christopher M. Janelle et al.",
+        "authors_list": [
+            "Charles H. Hillman",
+            "Ross J Apparies",
+            "Christopher M. Janelle",
+            "Bradley D. Hatfield"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 100,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/02640414.2020.1803630",
+        "title": "Systematic review of the acute and chronic effects of high-intensity interval training on executive function across the lifespan",
+        "journal": "Journal of Sports Sciences",
+        "year": 2020,
+        "citations": 99,
+        "authors": "Shu‐Shih Hsieh, Ting‐Yu Chueh, Chung-Ju Huang et al.",
+        "authors_list": [
+            "Shu‐Shih Hsieh",
+            "Ting‐Yu Chueh",
+            "Chung-Ju Huang",
+            "Shih‐Chun Kao",
+            "Charles H. Hillman",
+            "Yu‐Kai Chang",
+            "Tsung‐Min Hung"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/02640414.2020.1803630?needAccess=true"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.dcn.2016.07.001",
+        "title": "Aerobic fitness is associated with greater hippocampal cerebral blood flow in children",
+        "journal": "Developmental Cognitive Neuroscience",
+        "year": 2016,
+        "citations": 97,
+        "authors": "Laura Chaddock‐Heyman, Kirk I. Erickson, Michael A. Chappell et al.",
+        "authors_list": [
+            "Laura Chaddock‐Heyman",
+            "Kirk I. Erickson",
+            "Michael A. Chappell",
+            "Curtis L. Johnson",
+            "Caitlin Kienzler",
+            "Anya M. Knecht",
+            "Eric S. Drollette",
+            "Lauren B. Raine",
+            "Mark R. Scudder",
+            "Shih‐Chun Kao",
+            "Charles H. Hillman",
+            "Arthur F. Kramer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1878929315300773/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/hipo.22023",
+        "title": "Aerobic fitness enhances relational memory in preadolescent children: The FITKids randomized control trial",
+        "journal": "Hippocampus",
+        "year": 2012,
+        "citations": 95,
+        "authors": "Jim M. Monti, Charles H. Hillman, Neal J. Cohen",
+        "authors_list": [
+            "Jim M. Monti",
+            "Charles H. Hillman",
+            "Neal J. Cohen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jpeds.2014.10.008",
+        "title": "Central Adiposity Is Negatively Associated with Hippocampal-Dependent Relational Memory among Overweight and Obese Children",
+        "journal": "The Journal of Pediatrics",
+        "year": 2014,
+        "citations": 94,
+        "authors": "Naiman A. Khan, Carol L. Baym, Jim M. Monti et al.",
+        "authors_list": [
+            "Naiman A. Khan",
+            "Carol L. Baym",
+            "Jim M. Monti",
+            "Lauren B. Raine",
+            "Eric S. Drollette",
+            "Mark R. Scudder",
+            "Robert Davis Moore",
+            "Arthur F. Kramer",
+            "Charles H. Hillman",
+            "Neal J. Cohen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 94,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/4308543"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/hbm.25192",
+        "title": "Standard‐space atlas of the viscoelastic properties of the human brain",
+        "journal": "Human Brain Mapping",
+        "year": 2020,
+        "citations": 92,
+        "authors": "Lucy V. Hiscox, Matthew McGarry, Hillary Schwarb et al.",
+        "authors_list": [
+            "Lucy V. Hiscox",
+            "Matthew McGarry",
+            "Hillary Schwarb",
+            "Elijah Van Houten",
+            "Ryan T. Pohlig",
+            "Neil Roberts",
+            "Graham Huesmann",
+            "Agnieszka Z. Burzynska",
+            "Bradley P. Sutton",
+            "Charles H. Hillman",
+            "Arthur F. Kramer",
+            "Neal J. Cohen",
+            "Aron K. Barbey",
+            "Keith D. Paulsen",
+            "Curtis L. Johnson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 92,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.25192"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1249/tjx.0000000000000101",
+        "title": "A Review of Acute Physical Activity Effects on Brain and Cognition in Children",
+        "journal": "Translational Journal of the American College of Sports Medicine",
+        "year": 2019,
+        "citations": 92,
+        "authors": "Charles H. Hillman, Nicole E. Logan, Tatsuya T. Shigeta",
+        "authors_list": [
+            "Charles H. Hillman",
+            "Nicole E. Logan",
+            "Tatsuya T. Shigeta"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 92,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2672.2009.04243.x",
+        "title": "Preliminary assessment of safety and effectiveness in humans of ProBiora<sup>3</sup> ™, a probiotic mouthwash",
+        "journal": "Journal of Applied Microbiology",
+        "year": 2009,
+        "citations": 92,
+        "authors": "R.T. Zahradnik, I. Magnusson, Clay Walker et al.",
+        "authors_list": [
+            "R.T. Zahradnik",
+            "I. Magnusson",
+            "Clay Walker",
+            "E. McDonell",
+            "Charles H. Hillman",
+            "J.D. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 92,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ypmed.2011.01.019",
+        "title": "FIT Kids: Time in target heart zone and cognitive performance",
+        "journal": "Preventive Medicine",
+        "year": 2011,
+        "citations": 90,
+        "authors": "Darla M. Castelli, Charles H. Hillman, Jennifer S. Hirsch et al.",
+        "authors_list": [
+            "Darla M. Castelli",
+            "Charles H. Hillman",
+            "Jennifer S. Hirsch",
+            "Alayna Hirsch",
+            "Eric S. Drollette"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/jcm9040914",
+        "title": "The Effect of Exercise Training on Brain Structure and Function in Older Adults: A Systematic Review Based on Evidence from Randomized Control Trials",
+        "journal": "Journal of Clinical Medicine",
+        "year": 2020,
+        "citations": 90,
+        "authors": "Feng-Tzu Chen, Rachel J. Hopman, Chung-Ju Huang et al.",
+        "authors_list": [
+            "Feng-Tzu Chen",
+            "Rachel J. Hopman",
+            "Chung-Ju Huang",
+            "Chien‐Heng Chu",
+            "Charles H. Hillman",
+            "Tsung‐Min Hung",
+            "Yu‐Kai Chang"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/2077-0383/9/4/914/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0158087",
+        "title": "Effectiveness of a School-Based Physical Activity Intervention on Cognitive Performance in Danish Adolescents: LCoMotion—Learning, Cognition and Motion – A Cluster Randomized Controlled Trial",
+        "journal": "PLoS ONE",
+        "year": 2016,
+        "citations": 90,
+        "authors": "Jakob Tarp, Sidsel L. Domazet, Karsten Froberg et al.",
+        "authors_list": [
+            "Jakob Tarp",
+            "Sidsel L. Domazet",
+            "Karsten Froberg",
+            "Charles H. Hillman",
+            "Lars Bo Andersen",
+            "Anna Bugge"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0158087&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.biopsycho.2013.05.008",
+        "title": "White matter microstructure is associated with cognitive control in children",
+        "journal": "Biological Psychology",
+        "year": 2013,
+        "citations": 88,
+        "authors": "Laura Chaddock‐Heyman, Kirk I. Erickson, Michelle W. Voss et al.",
+        "authors_list": [
+            "Laura Chaddock‐Heyman",
+            "Kirk I. Erickson",
+            "Michelle W. Voss",
+            "John Powers",
+            "Anya M. Knecht",
+            "Matthew B. Pontifex",
+            "Eric S. Drollette",
+            "Robert Davis Moore",
+            "Lauren B. Raine",
+            "Mark R. Scudder",
+            "Charles H. Hillman",
+            "Arthur F. Kramer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/a0022167",
+        "title": "Aerobic fitness and response variability in preadolescent children performing a cognitive control task.",
+        "journal": "Neuropsychology",
+        "year": 2011,
+        "citations": 88,
+        "authors": "Chien-Ting Wu, Matthew B. Pontifex, Lauren B. Raine et al.",
+        "authors_list": [
+            "Chien-Ting Wu",
+            "Matthew B. Pontifex",
+            "Lauren B. Raine",
+            "Laura Chaddock",
+            "Michelle W. Voss",
+            "Arthur F. Kramer",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://repositorio.unal.edu.co/bitstreams/de8264eb-344c-4cbd-b106-eeda12ece797/download"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/sms.13456",
+        "title": "Fitness, physical activity, working memory, and neuroelectric activity in children with overweight/obesity",
+        "journal": "Scandinavian Journal of Medicine and Science in Sports",
+        "year": 2019,
+        "citations": 82,
+        "authors": "José Mora-González, Irene Esteban‐Cornejo, Cristina Cadenas‐Sánchez et al.",
+        "authors_list": [
+            "José Mora-González",
+            "Irene Esteban‐Cornejo",
+            "Cristina Cadenas‐Sánchez",
+            "Jairo H. Migueles",
+            "María Rodríguez‐Ayllón",
+            "Pablo Molina‐García",
+            "Charles H. Hillman",
+            "Andrés Catena",
+            "Matthew B. Pontifex",
+            "Francisco B. Ortega"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41598-017-06237-5",
+        "title": "Enhanced Learning through Multimodal Training: Evidence from a Comprehensive Cognitive, Physical Fitness, and Neuroscience Intervention",
+        "journal": "Scientific Reports",
+        "year": 2017,
+        "citations": 82,
+        "authors": "Nathan Ward, Erick J. Paul, Patrick D. Watson et al.",
+        "authors_list": [
+            "Nathan Ward",
+            "Erick J. Paul",
+            "Patrick D. Watson",
+            "Gillian E. Cooke",
+            "Charles H. Hillman",
+            "Neal J. Cohen",
+            "Arthur F. Kramer",
+            "Aron K. Barbey"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41598-017-06237-5.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/pes.2018-0039",
+        "title": "Feasibility and Preliminary Efficacy of a Teacher-Facilitated High-Intensity Interval Training Intervention for Older Adolescents",
+        "journal": "Pediatric Exercise Science",
+        "year": 2018,
+        "citations": 80,
+        "authors": "Angus A. Leahy, Narelle Eather, Jordan Smith et al.",
+        "authors_list": [
+            "Angus A. Leahy",
+            "Narelle Eather",
+            "Jordan Smith",
+            "Charles H. Hillman",
+            "Philip J. Morgan",
+            "Ronald C. Plotnikoff",
+            "Michael Nilsson",
+            "Sarah A. Costigan",
+            "Michael Noetel",
+            "David R. Lubans"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://figshare.com/articles/journal_contribution/Feasibility_and_preliminary_efficacy_of_a_teacher-facilitated_high-intensity_interval_training_intervention_for_older_adolescents/20792878"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/j.2040-4603.2013.tb00485.x",
+        "title": "The Influence of Exercise on Cognitive Abilities",
+        "journal": "Comprehensive physiology",
+        "year": 2013,
+        "citations": 80,
+        "authors": "Fernando Gómez‐Pinilla, Charles H. Hillman",
+        "authors_list": [
+            "Fernando Gómez‐Pinilla",
+            "Charles H. Hillman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/nrn2298",
+        "title": "Be smart, exercise your heart: exercise effects on brain and cognition",
+        "journal": "Nature Reviews Neuroscience",
+        "year": 2008,
+        "citations": 2677,
+        "authors": "Charles H. Hillman, Kirk I. Erickson, Arthur F. Kramer",
+        "authors_list": [
+            "Charles H. Hillman",
+            "Kirk I. Erickson",
+            "Arthur F. Kramer"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 2677
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.82992/intellectum/handle.10818.4470"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1249/mss.0000000000000901",
+        "title": "Physical Activity, Fitness, Cognitive Function, and Academic Achievement in Children",
+        "journal": "Medicine &amp; Science in Sports &amp; Exercise",
+        "year": 2016,
+        "citations": 1458,
+        "authors": "Joseph E. Donnelly, Charles H. Hillman, Darla Castelli et al.",
+        "authors_list": [
+            "Joseph E. Donnelly",
+            "Charles H. Hillman",
+            "Darla Castelli",
+            "Jennifer L. Etnier",
+            "Sarah Lee",
+            "Phillip Tomporowski",
+            "Kate Lambourne",
+            "Amanda N. Szabo-Reed"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1458
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/4874515"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1542/peds.2016-1642",
+        "title": "Physical Activity for Cognitive and Mental Health in Youth: A Systematic Review of Mechanisms",
+        "journal": "Pediatrics",
+        "year": 2016,
+        "citations": 1097,
+        "authors": "David Lubans, Justin Richards, Charles Hillman et al.",
+        "authors_list": [
+            "David Lubans",
+            "Justin Richards",
+            "Charles Hillman",
+            "Guy Faulkner",
+            "Mark Beauchamp",
+            "Michael Nilsson",
+            "Paul Kelly",
+            "Jordan Smith",
+            "Lauren Raine",
+            "Stuart Biddle"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1097
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pediatrics.aappublications.org/content/pediatrics/138/3/e20161642.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1249/mss.0000000000001936",
+        "title": "Physical Activity, Cognition, and Brain Outcomes: A Review of the 2018 Physical Activity Guidelines",
+        "journal": "Medicine &amp; Science in Sports &amp; Exercise",
+        "year": 2019,
+        "citations": 1071,
+        "authors": "KIRK I. ERICKSON, CHARLES HILLMAN, CHELSEA M. STILLMAN et al.",
+        "authors_list": [
+            "KIRK I. ERICKSON",
+            "CHARLES HILLMAN",
+            "CHELSEA M. STILLMAN",
+            "RACHEL M. BALLARD",
+            "BONNY BLOODGOOD",
+            "DAVID E. CONROY",
+            "RICHARD MACKO",
+            "DAVID X. MARQUEZ",
+            "STEVEN J. PETRUZZELLO",
+            "KENNETH E. POWELL"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1071
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/6527141"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1123/jsep.29.2.239",
+        "title": "Physical Fitness and Academic Achievement in Third- and Fifth-Grade Students",
+        "journal": "Journal of Sport and Exercise Psychology",
+        "year": 2007,
+        "citations": 544,
+        "authors": "Darla M. Castelli, Charles H. Hillman, Sarah M. Buck et al.",
+        "authors_list": [
+            "Darla M. Castelli",
+            "Charles H. Hillman",
+            "Sarah M. Buck",
+            "Heather E. Erwin"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 544
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.neuroscience.2009.01.057",
+        "title": "The effect of acute treadmill walking on cognitive control and academic achievement in preadolescent children",
+        "journal": "Neuroscience",
+        "year": 2009,
+        "citations": 609,
+        "authors": "C.H. Hillman, M.B. Pontifex, L.B. Raine et al.",
+        "authors_list": [
+            "C.H. Hillman",
+            "M.B. Pontifex",
+            "L.B. Raine",
+            "D.M. Castelli",
+            "E.E. Hall",
+            "A.F. Kramer"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 609
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2667807"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1002/cphy.c110063",
+        "title": "The Influence of Exercise on Cognitive Abilities",
+        "journal": "Comprehensive Physiology",
+        "year": null,
+        "citations": 337,
+        "authors": "Fernando Gomez‐Pinilla, Charles Hillman",
+        "authors_list": [
+            "Fernando Gomez‐Pinilla",
+            "Charles Hillman"
+        ],
+        "type": "other",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 337
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3951958"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1080/02699930341000239",
+        "title": "Brain processes in emotional perception: Motivated attention",
+        "journal": "Cognition &amp; Emotion",
+        "year": 2004,
+        "citations": 370,
+        "authors": "Harald Schupp, Bruce Cuthbert, Margaret Bradley et al.",
+        "authors_list": [
+            "Harald Schupp",
+            "Bruce Cuthbert",
+            "Margaret Bradley",
+            "Charles Hillman",
+            "Alfons Hamm",
+            "Peter Lang"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 370
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://kops.uni-konstanz.de/server/api/core/bitstreams/0678c66b-174f-4081-a0a1-4d1111860b4b/content"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1249/01.mss.0000176680.79702.ce",
+        "title": "Aerobic Fitness and Neurocognitive Function in Healthy Preadolescent Children",
+        "journal": "Medicine &amp; Science in Sports &amp; Exercise",
+        "year": 2005,
+        "citations": 341,
+        "authors": "CHARLES H. HILLMAN, DARLA M. CASTELLI, SARAH M. BUCK",
+        "authors_list": [
+            "CHARLES H. HILLMAN",
+            "DARLA M. CASTELLI",
+            "SARAH M. BUCK"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 341
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.jpeds.2012.08.036",
+        "title": "Exercise Improves Behavioral, Neurocognitive, and Scholastic Performance in Children with Attention-Deficit/Hyperactivity Disorder",
+        "journal": "The Journal of Pediatrics",
+        "year": 2013,
+        "citations": 323,
+        "authors": "Matthew B. Pontifex, Brian J. Saliba, Lauren B. Raine et al.",
+        "authors_list": [
+            "Matthew B. Pontifex",
+            "Brian J. Saliba",
+            "Lauren B. Raine",
+            "Daniel L. Picchietti",
+            "Charles H. Hillman"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 323
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1123/jpah.2018-0618",
+        "title": "The Scientific Foundation for the <i>Physical Activity Guidelines for Americans</i>, 2nd Edition",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2019,
+        "citations": 262,
+        "authors": "Kenneth E. Powell, Abby C. King, David M. Buchner et al.",
+        "authors_list": [
+            "Kenneth E. Powell",
+            "Abby C. King",
+            "David M. Buchner",
+            "Wayne W. Campbell",
+            "Loretta DiPietro",
+            "Kirk I. Erickson",
+            "Charles H. Hillman",
+            "John M. Jakicic",
+            "Kathleen F. Janz",
+            "Peter T. Katzmarzyk",
+            "William E. Kraus",
+            "Richard F. Macko",
+            "David X. Marquez",
+            "Anne McTiernan",
+            "Russell R. Pate",
+            "Linda S. Pescatello",
+            "Melicia C. Whitt-Glover"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 262
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.humankinetics.com/downloadpdf/journals/jpah/16/1/article-p1.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1162/jocn.2010.21528",
+        "title": "Cardiorespiratory Fitness and the Flexible Modulation of Cognitive Control in Preadolescent Children",
+        "journal": "Journal of Cognitive Neuroscience",
+        "year": 2011,
+        "citations": 245,
+        "authors": "Matthew B. Pontifex, Lauren B. Raine, Christopher R. Johnson et al.",
+        "authors_list": [
+            "Matthew B. Pontifex",
+            "Lauren B. Raine",
+            "Christopher R. Johnson",
+            "Laura Chaddock",
+            "Michelle W. Voss",
+            "Neal J. Cohen",
+            "Arthur F. Kramer",
+            "Charles H. Hillman"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 245
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1249/mss.0b013e318159b035",
+        "title": "The Relation of Aerobic Fitness to Stroop Task Performance in Preadolescent Children",
+        "journal": "Medicine &amp; Science in Sports &amp; Exercise",
+        "year": 2008,
+        "citations": 204,
+        "authors": "SARAH M. BUCK, CHARLES H. HILLMAN, DARLA M. CASTELLI",
+        "authors_list": [
+            "SARAH M. BUCK",
+            "CHARLES H. HILLMAN",
+            "DARLA M. CASTELLI"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 204
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

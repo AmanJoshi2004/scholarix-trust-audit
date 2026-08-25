@@ -1,0 +1,37 @@
+[
+    {
+        "url": "https://scholar.google.com/citations?user=5ZpsRswAAAAJ&hl=en",
+        "snippet": "... Microbial Ecology - ‪Environmental Engineering‬ ... Potential impacts of changing supply-water quality on drinking water distribution: A review.",
+        "category": "Publication",
+        "relevance_score": 98,
+        "reasoning": "This URL appears to be a Google Scholar profile, which lists publications by the author."
+    },
+    {
+        "url": "https://loop.frontiersin.org/people/455062/overview",
+        "snippet": "Impact of drinking water treatment and distribution on the microbiome continuum: an ecological disturbance's perspective. Ya Zhang; Seungdae Oh; Wen-Tso Liu.",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL appears to be a researcher's profile page on the Frontiers in Science platform, which is a peer-reviewed publication platform."
+    },
+    {
+        "url": "https://www.researchgate.net/scientific-contributions/Wen-Tso-Liu-38226373",
+        "snippet": "... drinking water, aquatic environments, and soil). The 16S rRNA gene-based ... Tzu-Yu Lin. ·. Wen-Tso Liu. To quantitatively evaluate the impact of microbial ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The URL is a ResearchGate page listing scientific contributions, indicating it's likely an academic publication or research output."
+    },
+    {
+        "url": "https://energy.nd.edu/about/events/2019/09/02/dissecting-anaerobic-digester-microbiome-by-wen-tso-liu/",
+        "snippet": "Events ›; \"Dissecting Anaerobic Digester Microbiome,\" by Wen-Tso Liu. \"Dissecting Anaerobic Digester Microbiome,\" by Wen-Tso Liu. Mon Sep 2, 2019, 4:00 pm - 5 ...",
+        "category": "Conference",
+        "relevance_score": 85,
+        "reasoning": "The URL appears to be an event listing for a conference, and the presence of a specific date (Sept. 2, 2019) suggests it's related to academic or professional events rather than general news."
+    },
+    {
+        "url": "https://enve.ntu.edu.tw/web/news/news_in.jsp?np_id=NP1743987204155&lang=en",
+        "snippet": "Speaker: Prof. Wen-Tso Liu. Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign, Illinois, USA.",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The snippet mentions a news article with the speaker's information, indicating it is a news publication."
+    }
+]

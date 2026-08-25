@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2745920/",
+        "snippet": "Together these studies suggest lycopene moderately alters prostate cancer development and/or tumor growth in experimental animals. ... Dietary intake of lycopene ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is a PMC article ID, indicating a scientific publication."
+    },
+    {
+        "url": "https://www.researchgate.net/profile/John-Erdman-Jr",
+        "snippet": "John W Erdman Jr. Background: Dietary tomato products or lycopene protect against prostate carcinogenesis, but their impact on the emergence of castration- ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet appears to be a short bio and research summary on ResearchGate, a platform for academics to share their work."
+    },
+    {
+        "url": "https://digitalcommons.library.tmc.edu/cgi/viewcontent.cgi?article=1076&context=staff_pub",
+        "snippet": "... John W Erdman, and Steven K ... beta-Carotene 9 ,10 oxygenase modulates the anticancer activity of dietary tomato or lycopene on prostate ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL points to a digital commons repository, indicating an academic publication."
+    },
+    {
+        "url": "https://www.urologic.theclinics.com/article/S0094-0143(02)00020-4/abstract",
+        "snippet": "... dietary lycopene concentration in male F344 rats. J Nutr. 2000; 130:1613. Full ... 31. Norrish, A ∙ Jackson, R ∙ Sharpe, S ... Prostate cancer and dietary ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL points to a specific article abstract on a medical journal's website, and the snippet appears to be a citation from a research paper."
+    },
+    {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022316623032054",
+        "snippet": "International Research Conference on Food, Nutrition, and Cancer Conference Speakers ... John W. Erdman, Jr., Ph.D. Professor. University of Illinois. Department ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL is from a scientific publication database and the snippet mentions an academic speaker with credentials, indicating a scholarly article or proceedings."
+    },
+    {
+        "url": "https://www.aicr.org/news/tomatoes-other-foods-containing-lycopene-may-protect-against-prostate-cancer-study-finds/",
+        "snippet": "The study found that men who consumed higher amounts of lycopene had an 11 percent reduced risk of prostate cancer compared to those who consumed the least; ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The URL is from a non-academic organization (American Institute for Cancer Research) and the snippet reports on a study's findings, typical of news articles."
+    },
+    {
+        "url": "https://news.illinois.edu/john-w-erdman-elected-to-institute-of-medicine-of-national-academies/",
+        "snippet": "– John W. Erdman Jr., a professor of nutrition at the University of Illinois at Urbana-Champaign, was elected today to the Institute of Medicine ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The URL is from a news section of a university website, and the snippet is a press release announcing a professor's election to a prestigious institution."
+    },
+    {
+        "url": "https://www.facebook.com/DNSatUofI/posts/nancy-engelmann-moran-advisor-john-w-erdman-jr-a-dns-phd-alumna-from-the-class-o/2036804713015999/",
+        "snippet": "Nancy Engelmann Moran (Advisor: John W. Erdman Jr.), a DNS PhD alumna from the class of 2010, is an Assistant Professor at Baylor College of Medicine/USDA ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "Facebook post announcing a PhD alumna's achievement in academia."
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "url": "https://scholar.google.fr/citations?user=13JA0BIAAAAJ&hl=fr",
+        "snippet": "Nanoscale thermal transport. DG Cahill, WK Ford, KE Goodson, GD Mahan, A ... Thermal conductivity measurement from 30 to 750 K: the 3ω method. DG Cahill.",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet describes a specific research paper with authors and a reference to the 3ω method, indicating a scholarly publication."
+    },
+    {
+        "url": "https://www.amacad.org/person/david-g-cahill",
+        "snippet": "... thermal transport at the nanoscale; extremes of low and high thermal conductivity in materials; the interactions between phonons, electrons ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet is a brief description of Dr. Cahill's research interests, likely from his academic profile page."
+    },
+    {
+        "url": "https://pubs.aip.org/aip/apr/article/1/1/011305/123940/Nanoscale-thermal-transport-II-2003-2012",
+        "snippet": "2003–2012 Open Access. David G. Cahill;. David G. Cahill a). 1. Department of ... Topics First-principle calculations, Thermal conductivity, Thermal transport ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "This is a link to an academic publication from the American Institute of Physics, suggesting a peer-reviewed journal article."
+    },
+    {
+        "url": "https://www.photon.t.u-tokyo.ac.jp/~maruyama/visitors/Cahill/Cahill.files/frame.htm",
+        "snippet": "Thermal conductance of solid-solid and solid-liquid interfaces. David G. Cahill,. Zhenbin Ge, Ho-Ki Lyeo, Xuan Zheng, Paul Braun. Frederick Seitz Materials ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL appears to be a webpage for a research paper, with an author's name and affiliation listed in the snippet."
+    },
+    {
+        "url": "https://www.researchgate.net/profile/David-Cahill-6/2",
+        "snippet": "... thermal conductivity was demonstrated by physical vapor transport (PVT). ... David G Cahill; [...] David C. Johnson. We ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The snippet appears to be an excerpt from a research article, specifically mentioning authors and their contributions to the study of thermal conductivity."
+    },
+    {
+        "url": "https://cahill.matse.illinois.edu/david-cahill/",
+        "snippet": "David G. Cahill. full CV. David Cahill is the Grainger Distinguished Chair in ... Conference, 1989. NSF Graduate Fellow, 1984-1987. Department of ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "This appears to be a personal webpage, likely part of a faculty member's official online presence, which often includes their CV and academic background."
+    },
+    {
+        "url": "https://orcid.org/0000-0001-5969-3460",
+        "snippet": "David G. Cahill; Satish Kumar. Show more detail. Source: check_circle. Crossref ... Conference paper. Contributors: Sederholm, Jarom Glen; Ahmari ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The snippet appears to be a reference to a specific conference paper, with contributor and source information provided."
+    }
+]

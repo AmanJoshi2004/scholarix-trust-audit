@@ -1,0 +1,4356 @@
+[
+    {
+        "doi": "https://doi.org/10.1161/cir.0b013e31823ba622",
+        "title": "2011 ACCF/AHA/SCAI Guideline for Percutaneous Coronary Intervention",
+        "journal": "Circulation",
+        "year": 2011,
+        "citations": 3302,
+        "authors": "Glenn N. Levine, Eric Bates, James C. Blankenship et al.",
+        "authors_list": [
+            "Glenn N. Levine",
+            "Eric Bates",
+            "James C. Blankenship",
+            "Steven R. Bailey",
+            "John A. Bittl",
+            "Bojan Cercek",
+            "Charles E. Chambers",
+            "Stephen G. Ellis",
+            "Robert A. Guyton",
+            "Steven M. Hollenberg",
+            "Umesh N. Khot",
+            "Richard A. Lange",
+            "Laura Mauri",
+            "Roxana Mehran",
+            "Issam Moussa",
+            "Debabrata Mukherjee",
+            "Brahmajee K. Nallamothu",
+            "Henry H. Ting"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 3302,
+            "crossref": 846
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ahajournals.org/doi/pdf/10.1161/CIR.0b013e31823ba622"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jacc.2011.08.007",
+        "title": "2011 ACCF/AHA/SCAI Guideline for Percutaneous Coronary Intervention",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2011,
+        "citations": 2166,
+        "authors": "Glenn N. Levine, Eric Bates, James C. Blankenship et al.",
+        "authors_list": [
+            "Glenn N. Levine",
+            "Eric Bates",
+            "James C. Blankenship",
+            "Steven R. Bailey",
+            "John A. Bittl",
+            "Bojan Cercek",
+            "Charles E. Chambers",
+            "Stephen G. Ellis",
+            "Robert A. Guyton",
+            "Steven M. Hollenberg",
+            "Umesh N. Khot",
+            "Richard A. Lange",
+            "Laura Mauri",
+            "Roxana Mehran",
+            "Issam Moussa",
+            "Debabrata Mukherjee",
+            "Brahmajee K. Nallamothu",
+            "Henry H. Ting"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 2166,
+            "crossref": 1795
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jacc.2015.10.005",
+        "title": "2015 ACC/AHA/SCAI Focused Update on Primary Percutaneous Coronary Intervention for Patients With ST-Elevation Myocardial Infarction",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2015,
+        "citations": 830,
+        "authors": "Glenn N. Levine, Eric Bates, James C. Blankenship et al.",
+        "authors_list": [
+            "Glenn N. Levine",
+            "Eric Bates",
+            "James C. Blankenship",
+            "Steven R. Bailey",
+            "John A. Bittl",
+            "Bojan Cercek",
+            "Charles E. Chambers",
+            "Stephen G. Ellis",
+            "Robert A. Guyton",
+            "Steven M. Hollenberg",
+            "Umesh N. Khot",
+            "Richard A. Lange",
+            "Laura Mauri",
+            "Roxana Mehran",
+            "Issam Moussa",
+            "Debabrata Mukherjee",
+            "Henry H. Ting",
+            "Patrick T. O’Gara",
+            "Frederick G. Kushner",
+            "Deborah D. Ascheim",
+            "Ralph G. Brindis",
+            "Donald E. Casey",
+            "Mina K. Chung",
+            "James A. de Lemos",
+            "Deborah B. Diercks",
+            "James C. Fang",
+            "Barry A. Franklin",
+            "Christopher B. Granger",
+            "Harlan M. Krumholz",
+            "Jane A. Linderbaum",
+            "David A. Morrow",
+            "L. Kristin Newby",
+            "Joseph P. Ornato",
+            "Narith N. Ou",
+            "Martha J. Radford",
+            "Jacqueline E. Tamis‐Holland",
+            "Carl L. Tommaso",
+            "Cynthia M. Tracy",
+            "Y. Joseph Woo",
+            "David Zhao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 830,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jacc.2004.12.066",
+        "title": "Stent underexpansion and residual reference segment stenosis are related to stent thrombosis after sirolimus-eluting stent implantation",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2005,
+        "citations": 764,
+        "authors": "Kenichi Fujii, Stéphane Carlier, Gary S. Mintz et al.",
+        "authors_list": [
+            "Kenichi Fujii",
+            "Stéphane Carlier",
+            "Gary S. Mintz",
+            "Yiming Yang",
+            "Issam Moussa",
+            "Giora Weisz",
+            "George Dangas",
+            "Roxana Mehran",
+            "Alexandra J. Lansky",
+            "Edward M. Kreps",
+            "Michael Collins",
+            "Gregg W. Stone",
+            "Jeffrey W. Moses",
+            "Martin B. Leon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 764,
+            "crossref": 670
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jacc.2013.08.720",
+        "title": "Consideration of a New Definition of Clinically Relevant Myocardial Infarction After Coronary Revascularization",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2013,
+        "citations": 643,
+        "authors": "Issam Moussa, Lloyd W. Klein, Binita Shah et al.",
+        "authors_list": [
+            "Issam Moussa",
+            "Lloyd W. Klein",
+            "Binita Shah",
+            "Roxana Mehran",
+            "Michael J. Mack",
+            "Emmanouil S. Brilakis",
+            "John P. Reilly",
+            "Gilbert J. Zoghbi",
+            "Elizabeth M. Holper",
+            "Gregg W. Stone"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 643,
+            "crossref": 602
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3890321"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/cir.0b013e31823a5596",
+        "title": "2011 ACCF/AHA/SCAI Guideline for Percutaneous Coronary Intervention: Executive Summary",
+        "journal": "Circulation",
+        "year": 2011,
+        "citations": 633,
+        "authors": "Glenn N. Levine, Eric Bates, James C. Blankenship et al.",
+        "authors_list": [
+            "Glenn N. Levine",
+            "Eric Bates",
+            "James C. Blankenship",
+            "Steven R. Bailey",
+            "John A. Bittl",
+            "Bojan Cercek",
+            "Charles E. Chambers",
+            "Stephen G. Ellis",
+            "Robert A. Guyton",
+            "Steven M. Hollenberg",
+            "Umesh N. Khot",
+            "Richard A. Lange",
+            "Laura Mauri",
+            "Roxana Mehran",
+            "Issam Moussa",
+            "Debabrata Mukherjee",
+            "Brahmajee K. Nallamothu",
+            "Henry H. Ting"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 633,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/cir.0000000000000336",
+        "title": "2015 ACC/AHA/SCAI Focused Update on Primary Percutaneous Coronary Intervention for Patients With ST-Elevation Myocardial Infarction: An Update of the 2011 ACCF/AHA/SCAI Guideline for Percutaneous Coronary Intervention and the 2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction",
+        "journal": "Circulation",
+        "year": 2016,
+        "citations": 625,
+        "authors": "Glenn N. Levine, Eric Bates, James C. Blankenship et al.",
+        "authors_list": [
+            "Glenn N. Levine",
+            "Eric Bates",
+            "James C. Blankenship",
+            "Steven R. Bailey",
+            "John A. Bittl",
+            "Bojan Cercek",
+            "Charles E. Chambers",
+            "Stephen G. Ellis",
+            "Robert A. Guyton",
+            "Steven M. Hollenberg",
+            "Umesh N. Khot",
+            "Richard A. Lange",
+            "Laura Mauri",
+            "Roxana Mehran",
+            "Issam Moussa",
+            "Debabrata Mukherjee",
+            "Henry H. Ting",
+            "Patrick T. O’Gara",
+            "Frederick G. Kushner",
+            "Deborah D. Ascheim",
+            "Ralph G. Brindis",
+            "Donald E. Casey",
+            "Mina K. Chung",
+            "James A. de Lemos",
+            "Deborah B. Diercks",
+            "James C. Fang",
+            "Barry A. Franklin",
+            "Christopher B. Granger",
+            "Harlan M. Krumholz",
+            "Jane A. Linderbaum",
+            "David A. Morrow",
+            "L. Kristin Newby",
+            "Joseph P. Ornato",
+            "Narith N. Ou",
+            "Martha J. Radford",
+            "Jacqueline E. Tamis‐Holland",
+            "Carl L. Tommaso",
+            "Cynthia M. Tracy",
+            "Y. Joseph Woo",
+            "David Zhao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 625,
+            "crossref": 392
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ahajournals.org/history/a00befcb-68aa-444f-821c-85bfb0104012/cir.0000000000000336v1..pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1056/nejmoa1110717",
+        "title": "Comparative Effectiveness of Revascularization Strategies",
+        "journal": "New England Journal of Medicine",
+        "year": 2012,
+        "citations": 611,
+        "authors": "William S. Weintraub, Maria V. Grau‐Sepulveda, Jocelyn M. Weiss et al.",
+        "authors_list": [
+            "William S. Weintraub",
+            "Maria V. Grau‐Sepulveda",
+            "Jocelyn M. Weiss",
+            "Sean M. O’Brien",
+            "Eric D. Peterson",
+            "Paul Kolm",
+            "Zugui Zhang",
+            "Lloyd W. Klein",
+            "Richard E. Shaw",
+            "Charles R. McKay",
+            "Laura L. Ritzenthaler",
+            "Jeffrey J. Popma",
+            "John C. Messenger",
+            "David M. Shahian",
+            "Frederick L. Grover",
+            "John E. Mayer",
+            "Cynthia M. Shewan",
+            "Kirk N. Garratt",
+            "Issam Moussa",
+            "George Dangas",
+            "Fred H. Edwards"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 611,
+            "crossref": 478
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1110717?articleTools=true"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2004.08.056",
+        "title": "Contrast-Induced nephropathy after percutaneous coronary interventions in relation to chronic kidney disease and hemodynamic variables",
+        "journal": "The American Journal of Cardiology",
+        "year": 2004,
+        "citations": 603,
+        "authors": "George Dangas, Ιoannis Iakovou, Eugenia Nikolsky et al.",
+        "authors_list": [
+            "George Dangas",
+            "Ιoannis Iakovou",
+            "Eugenia Nikolsky",
+            "Eve Aymong",
+            "Gary S. Mintz",
+            "Nicholas Kipshidze",
+            "Alexandra J. Lansky",
+            "Issam Moussa",
+            "Gregg W. Stone",
+            "Jeffrey W. Moses",
+            "Martin B. Leon",
+            "Roxana Mehran"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 603,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/circulationaha.104.481283",
+        "title": "Percutaneous Recanalization of Chronically Occluded Coronary Arteries",
+        "journal": "Circulation",
+        "year": 2005,
+        "citations": 526,
+        "authors": "Gregg W. Stone, David E. Kandzari, Roxana Mehran et al.",
+        "authors_list": [
+            "Gregg W. Stone",
+            "David E. Kandzari",
+            "Roxana Mehran",
+            "Antonio Colombo",
+            "Robert S. Schwartz",
+            "Steven R. Bailey",
+            "Issam Moussa",
+            "Paul S. Teirstein",
+            "George Dangas",
+            "Donald S. Baim",
+            "Matthew R. Selmon",
+            "Bradley H. Strauss",
+            "Hideo Tamai",
+            "Takahiko Suzuki",
+            "Kazuaki Mitsudo",
+            "Osamu Katoh",
+            "David A. Cox",
+            "Angela Hoye",
+            "Gary S. Mintz",
+            "Eberhard Grube",
+            "Louis Cannon",
+            "Nicolaus Reifart",
+            "Mark Reisman",
+            "Alexandre Abizaid",
+            "Jeffrey W. Moses",
+            "Martin B. Leon",
+            "Patrick W. Serruys"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 526,
+            "crossref": 495
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.104.481283"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/circulationaha.112.000536",
+        "title": "Adoption of Radial Access and Comparison of Outcomes to Femoral Access in Percutaneous Coronary Intervention",
+        "journal": "Circulation",
+        "year": 2013,
+        "citations": 468,
+        "authors": "Dmitriy N. Feldman, Rajesh V. Swaminathan, Lisa A. Kaltenbach et al.",
+        "authors_list": [
+            "Dmitriy N. Feldman",
+            "Rajesh V. Swaminathan",
+            "Lisa A. Kaltenbach",
+            "Dmitri Baklanov",
+            "Luke K. Kim",
+            "S. Chiu Wong",
+            "Robert M. Minutello",
+            "John C. Messenger",
+            "Issam Moussa",
+            "Kirk N. Garratt",
+            "Robert N. Piana",
+            "William B. Hillegass",
+            "Mauricio G. Cohen",
+            "Ian C. Gilchrist",
+            "Sunil V. Rao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 468,
+            "crossref": 417
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jacc.2004.06.048",
+        "title": "Vascular complications associated with arteriotomy closure devices in patients undergoing percutaneous coronary procedures",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2004,
+        "citations": 441,
+        "authors": "Eugenia Nikolsky, Roxana Mehran, Amir Halkin et al.",
+        "authors_list": [
+            "Eugenia Nikolsky",
+            "Roxana Mehran",
+            "Amir Halkin",
+            "Eve Aymong",
+            "Gary S. Mintz",
+            "Zoran Lasić",
+            "Manuela Negoita",
+            "Martin Fahy",
+            "Shoshana Krieger",
+            "Issam Moussa",
+            "Jeffrey W. Moses",
+            "Gregg W. Stone",
+            "Martin B. Leon",
+            "Stuart Pocock",
+            "George Dangas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 441,
+            "crossref": 104
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/01.cir.0000129767.45513.71",
+        "title": "Impact of Sirolimus-Eluting Stents on Outcome in Diabetic Patients",
+        "journal": "Circulation",
+        "year": 2004,
+        "citations": 398,
+        "authors": "Issam Moussa, Martin B. Leon, Donald S. Baim et al.",
+        "authors_list": [
+            "Issam Moussa",
+            "Martin B. Leon",
+            "Donald S. Baim",
+            "William W. O’Neill",
+            "Jeffery J. Popma",
+            "Maurice Buchbinder",
+            "Jay Midwall",
+            "Charles A. Simonton",
+            "Emily Keim",
+            "Patrick Wang",
+            "Richard E. Kuntz",
+            "Jeffrey W. Moses"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 398,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0735-1097(96)00452-4",
+        "title": "Subacute Stent Thrombosis in the Era of Intravascular Ultrasound-Guided Coronary Stenting Without Anticoagulation: Frequency, Predictors and Clinical Outcome",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 1997,
+        "citations": 296,
+        "authors": "Issam Moussa, Carlo Di Mario, Bernhard Reimers et al.",
+        "authors_list": [
+            "Issam Moussa",
+            "Carlo Di Mario",
+            "Bernhard Reimers",
+            "Tatsuro Akiyama",
+            "Jonathan M. Tobis",
+            "Antonio Colombo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 296,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0735109796004524/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/01.cir.0000121327.67756.19",
+        "title": "Contribution of Stent Underexpansion to Recurrence After Sirolimus-Eluting Stent Implantation for In-Stent Restenosis",
+        "journal": "Circulation",
+        "year": 2004,
+        "citations": 293,
+        "authors": "Kenichi Fujii, Gary S. Mintz, Yoshio Kobayashi et al.",
+        "authors_list": [
+            "Kenichi Fujii",
+            "Gary S. Mintz",
+            "Yoshio Kobayashi",
+            "Stéphane Carlier",
+            "Hideo Takebayashi",
+            "Takenori Yasuda",
+            "Issam Moussa",
+            "George Dangas",
+            "Roxana Mehran",
+            "Alexandra J. Lansky",
+            "Arlene Reyes",
+            "Edward M. Kreps",
+            "Michael J. Collins",
+            "Antonio Colombo",
+            "Gregg W. Stone",
+            "Paul S. Teirstein",
+            "Martin B. Leon",
+            "Jeffrey W. Moses"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 293,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jacc.2012.08.966",
+        "title": "A Contemporary View of Diagnostic Cardiac Catheterization and Percutaneous Coronary Intervention in the United States",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2012,
+        "citations": 290,
+        "authors": "Gregory Dehmer, Douglas Weaver, Matthew T. Roe et al.",
+        "authors_list": [
+            "Gregory Dehmer",
+            "Douglas Weaver",
+            "Matthew T. Roe",
+            "Sarah Milford–Beland",
+            "Susan Fitzgerald",
+            "Anthony Hermann",
+            "John C. Messenger",
+            "Issam Moussa",
+            "Kirk N. Garratt",
+            "John Rumsfeld",
+            "Ralph G. Brindis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 290,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jacc.2020.08.002",
+        "title": "Trends and Outcomes of Restenosis After Coronary Stent Implantation in the United States",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2020,
+        "citations": 280,
+        "authors": "Issam Moussa, Divyanshu Mohananey, Jorge Saucedo et al.",
+        "authors_list": [
+            "Issam Moussa",
+            "Divyanshu Mohananey",
+            "Jorge Saucedo",
+            "Gregg W. Stone",
+            "Robert W. Yeh",
+            "Kevin F. Kennedy",
+            "Ron Waksman",
+            "Paul Teirstein",
+            "Jeffrey W. Moses",
+            "Chuck Simonton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 280,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S073510972036229X/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/circulationaha.111.066902",
+        "title": "Predictors of Long-Term Survival After Coronary Artery Bypass Grafting Surgery",
+        "journal": "Circulation",
+        "year": 2012,
+        "citations": 254,
+        "authors": "David M. Shahian, Sean M. O’Brien, Shubin Sheng et al.",
+        "authors_list": [
+            "David M. Shahian",
+            "Sean M. O’Brien",
+            "Shubin Sheng",
+            "Frederick L. Grover",
+            "John E. Mayer",
+            "Jeffrey P. Jacobs",
+            "Jocelyn M. Weiss",
+            "Elizabeth R. DeLong",
+            "Eric D. Peterson",
+            "William S. Weintraub",
+            "Maria V. Grau‐Sepulveda",
+            "Lloyd W. Klein",
+            "Richard E. Shaw",
+            "Kirk N. Garratt",
+            "Issam Moussa",
+            "Cynthia M. Shewan",
+            "George Dangas",
+            "Fred H. Edwards"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 254,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.111.066902"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jacc.2016.12.005",
+        "title": "Trends in U.S. Cardiovascular Care",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2016,
+        "citations": 241,
+        "authors": "Frederick A. Masoudi, Angelo Ponirakis, James A. de Lemos et al.",
+        "authors_list": [
+            "Frederick A. Masoudi",
+            "Angelo Ponirakis",
+            "James A. de Lemos",
+            "James G. Jollis",
+            "Mark S. Kremers",
+            "John C. Messenger",
+            "John W. Moore",
+            "Issam Moussa",
+            "William J. Oetgen",
+            "Paul D. Varosy",
+            "Robert Vincent",
+            "Jessica Wei",
+            "Jeptha P. Curtis",
+            "Matthew T. Roe",
+            "John A. Spertus"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 241,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0735109716373387/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/01.cir.0000097121.95451.39",
+        "title": "Intravascular Ultrasound Assessment of Ulcerated Ruptured Plaques",
+        "journal": "Circulation",
+        "year": 2003,
+        "citations": 230,
+        "authors": "Kenichi Fujii, Yoshio Kobayashi, Gary S. Mintz et al.",
+        "authors_list": [
+            "Kenichi Fujii",
+            "Yoshio Kobayashi",
+            "Gary S. Mintz",
+            "Hideo Takebayashi",
+            "George Dangas",
+            "Issam Moussa",
+            "Roxana Mehran",
+            "Alexandra J. Lansky",
+            "Edward M. Kreps",
+            "Michael Collins",
+            "Antonio Colombo",
+            "Gregg W. Stone",
+            "Martin B. Leon",
+            "Jeffrey W. Moses"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 230,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ccd.26325",
+        "title": "2015 ACC/AHA/SCAI focused update on primary percutaneous coronary intervention for patients with ST‐elevation myocardial Infarction: An update of the 2011 ACCF/AHA/SCAI guideline for percutaneous coronary intervention and the 2013 ACCF/AHA guideline for the management of ST‐elevation myocardial infarction: A report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Society for Cardiovascular Angiography and Interventions",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 2015,
+        "citations": 219,
+        "authors": "Endorsed by the Latin American Society of Interventional Cardiology, Glenn N. Levine, Eric Bates et al.",
+        "authors_list": [
+            "Endorsed by the Latin American Society of Interventional Cardiology",
+            "Glenn N. Levine",
+            "Eric Bates",
+            "James C. Blankenship",
+            "Steven R. Bailey",
+            "John A. Bittl",
+            "Bojan Cercek",
+            "Charles E. Chambers",
+            "Stephen G. Ellis",
+            "Robert A. Guyton",
+            "Steven M. Hollenberg",
+            "Umesh N. Khot",
+            "Richard A. Lange",
+            "Laura Mauri",
+            "Roxana Mehran",
+            "Issam Moussa",
+            "Debabrata Mukherjee",
+            "Henry H. Ting",
+            "Patrick T. O’Gara",
+            "Frederick G. Kushner",
+            "Deborah D. Ascheim",
+            "Ralph G. Brindis",
+            "Donald E. Casey",
+            "Mina K. Chung",
+            "James A. de Lemos",
+            "Deborah B. Diercks",
+            "James C. Fang",
+            "Barry A. Franklin",
+            "Christopher B. Granger",
+            "Harlan M. Krumholz",
+            "Jane A. Linderbaum",
+            "David A. Morrow",
+            "L. Kristin Newby",
+            "Joseph P. Ornato",
+            "Narith N. Ou",
+            "Martha J. Radford",
+            "Jacqueline E. Tamis‐Holland",
+            "Carl L. Tommaso",
+            "Cynthia M. Tracy",
+            "Y. Joseph Woo",
+            "David Zhao",
+            "ACC/AHA TASK FORCE MEMBERS",
+            "Jonathan L. Halperin",
+            "Glenn N. Levine",
+            "Jeffrey L. Anderson",
+            "Nancy M. Albert",
+            "Sana M. Al‐Khatib",
+            "Kim K. Birtcher",
+            "Biykem Bozkurt",
+            "Ralph G. Brindis",
+            "Joaquin E. Cigarroa",
+            "Lesley H. Curtis",
+            "Lee A. Fleisher",
+            "Federico Gentile",
+            "Samuel S. Gidding",
+            "Mark A. Hlatky",
+            "John S. Ikonomidis",
+            "José A. Joglar",
+            "Richard J. Kovacs",
+            "E. Magnus Ohman",
+            "Susan J. Pressler",
+            "Frank W. Sellke",
+            "Win‐Kuang Shen",
+            "Duminda N. Wijeysundera"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 219,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ccd.26325"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1523-1755.2005.67131.x",
+        "title": "Low hematocrit predicts contrast-induced nephropathy after percutaneous coronary interventions",
+        "journal": "Kidney International",
+        "year": 2005,
+        "citations": 216,
+        "authors": "Eugenia Nikolsky, Roxana Mehran, Zoran Lasić et al.",
+        "authors_list": [
+            "Eugenia Nikolsky",
+            "Roxana Mehran",
+            "Zoran Lasić",
+            "Gary S. Mintz",
+            "Alexandra J. Lansky",
+            "Yingbo Na",
+            "Stuart Pocock",
+            "Manuela Negoita",
+            "Issam Moussa",
+            "Gregg W. Stone",
+            "Jeffrey W. Moses",
+            "Martin B. Leon",
+            "George Dangas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 216,
+            "crossref": 158
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jacc.2005.05.034",
+        "title": "Bifurcation Coronary Lesions Treated With the “Crush” Technique",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2005,
+        "citations": 208,
+        "authors": "Ricardo A. Costa, Gary S. Mintz, Stéphane Carlier et al.",
+        "authors_list": [
+            "Ricardo A. Costa",
+            "Gary S. Mintz",
+            "Stéphane Carlier",
+            "Alexandra J. Lansky",
+            "Issam Moussa",
+            "Kenichi Fujii",
+            "Hideo Takebayashi",
+            "Takenori Yasuda",
+            "J. Ribamar Costa",
+            "Yoshihiro Tsuchiya",
+            "Lisette Okkels Jensen",
+            "Ecaterina Cristea",
+            "Roxana Mehran",
+            "George Dangas",
+            "Sriram S. Iyer",
+            "Michael Collins",
+            "Edward M. Kreps",
+            "Antonio Colombo",
+            "Gregg W. Stone",
+            "Martin B. Leon",
+            "Jeffrey W. Moses"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 208,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jacc.2013.05.002",
+        "title": "ACCF/AHA/SCAI 2013 Update of the Clinical Competence Statement on Coronary Artery Interventional Procedures",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2013,
+        "citations": 188,
+        "authors": "John Harold, Theodore A. Bass, Thomas M. Bashore et al.",
+        "authors_list": [
+            "John Harold",
+            "Theodore A. Bass",
+            "Thomas M. Bashore",
+            "Ralph G. Brindis",
+            "John E. Brush",
+            "James A. Burke",
+            "Gregory Dehmer",
+            "Yuri A. Deychak",
+            "Hani Jneid",
+            "James G. Jollis",
+            "Joel S. Landzberg",
+            "Glenn N. Levine",
+            "James B. McClurken",
+            "John C. Messenger",
+            "Issam Moussa",
+            "J. Brent Muhlestein",
+            "Richard M. Pomerantz",
+            "Timothy A. Sanborn",
+            "Chittur A. Sivaram",
+            "Christopher J. White",
+            "Eric S. Williams",
+            "Jonathan L. Halperin",
+            "Joshua A. Beckman",
+            "Ann F. Bolger",
+            "John G. Byrne",
+            "Steven J. Lester",
+            "Geno J. Merli",
+            "J. Brent Muhlestein",
+            "Ileana L. Piña",
+            "Andrew Wang",
+            "Howard H. Weitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 188,
+            "crossref": 124
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0735109713017555/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/circulationaha.113.006518",
+        "title": "Trends in Cause of Death After Percutaneous Coronary Intervention",
+        "journal": "Circulation",
+        "year": 2014,
+        "citations": 186,
+        "authors": "Daniel B. Spoon, Peter J. Psaltis, Mandeep Singh et al.",
+        "authors_list": [
+            "Daniel B. Spoon",
+            "Peter J. Psaltis",
+            "Mandeep Singh",
+            "David R. Holmes",
+            "Bernard J. Gersh",
+            "Charanjit S. Rihal",
+            "Ryan J. Lennon",
+            "Issam Moussa",
+            "Robert D. Simari",
+            "Rajiv Gulati"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 186,
+            "crossref": 161
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.113.006518"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jcin.2011.10.013",
+        "title": "Clinical Presentation, Management, and Outcomes of Angiographically Documented Early, Late, and Very Late Stent Thrombosis",
+        "journal": "JACC: Cardiovascular Interventions",
+        "year": 2012,
+        "citations": 182,
+        "authors": "Ehrin J. Armstrong, Dmitriy N. Feldman, Tracy Y. Wang et al.",
+        "authors_list": [
+            "Ehrin J. Armstrong",
+            "Dmitriy N. Feldman",
+            "Tracy Y. Wang",
+            "Lisa A. Kaltenbach",
+            "Khung Keong Yeo",
+            "S. Chiu Wong",
+            "John A. Spertus",
+            "Richard E. Shaw",
+            "Robert M. Minutello",
+            "Issam Moussa",
+            "Kalon K.L. Ho",
+            "Jason H. Rogers",
+            "Kendrick Shunk"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 182,
+            "crossref": 160
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1936879811009216/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0140-6736(22)01787-1",
+        "title": "Long-term outcomes after catheter-based renal artery denervation for resistant hypertension: final follow-up of the randomised SYMPLICITY HTN-3 Trial",
+        "journal": "The Lancet",
+        "year": 2022,
+        "citations": 181,
+        "authors": "Deepak L. Bhatt, Muthiah Vaduganathan, David E. Kandzari et al.",
+        "authors_list": [
+            "Deepak L. Bhatt",
+            "Muthiah Vaduganathan",
+            "David E. Kandzari",
+            "Martin B. Leon",
+            "Krishna J. Rocha‐Singh",
+            "Raymond R. Townsend",
+            "Barry T. Katzen",
+            "Suzanne Oparil",
+            "Sandeep Brar",
+            "Vanessa DeBruin",
+            "Martin Fahy",
+            "George L. Bakris",
+            "Deepak L. Bhatt",
+            "George L. Bakris",
+            "Sidney A. Cohen",
+            "Ralph B. D’Agostino",
+            "Murray Esler",
+            "John M. Flack",
+            "David E. Kandzari",
+            "Barry T. Katzen",
+            "Martin B. Leon",
+            "Laura Mauri",
+            "Manuela Negoita",
+            "Suzanne Oparil",
+            "Krishna J. Rocha‐Singh",
+            "Ray Townsend",
+            "Ziad Abbud",
+            "Tayo Addo",
+            "David Anderson",
+            "John F. Angle",
+            "Herbert D. Aronow",
+            "Anvar Babaev",
+            "Keith Benzuly",
+            "Somjot Brar",
+            "David L. Brown",
+            "David A. Calhoun",
+            "Paul N. Casale",
+            "Sheldon Chaffer",
+            "James W. Choi",
+            "Eugene H. Chung",
+            "Debbie L. Cohen",
+            "Mark A. Creager",
+            "George Dangas",
+            "Harold L. Dauerman",
+            "Shukri David",
+            "Mark G. Davies",
+            "Eduardo de Marchena",
+            "Ali E. Denktas",
+            "Chandan Devireddy",
+            "William Downey",
+            "Mark E. Dunlap",
+            "Daniel S. Fisher",
+            "John M. Flack",
+            "Magdi Ghali",
+            "Eric Gnall",
+            "Raghava Gollapudi",
+            "Mark A. Goodwin",
+            "Nilesh Goswami",
+            "Luis Gruberg",
+            "Rajiv Gulati",
+            "Anuj Gupta",
+            "Anjan Gupta",
+            "Hitinder S. Gurm",
+            "Jeffrey L. Hastings",
+            "Scott Kinlay",
+            "Robert Kipperman",
+            "Maurice Buchbinder",
+            "Ajay J. Kirtane",
+            "Richard Kovach",
+            "David Lee",
+            "Samuel J. Mann",
+            "Steven P. Marso",
+            "Fadi Matar",
+            "Ernest L. Mazzaferri",
+            "Farrel Mandelsohn",
+            "Issam Moussa",
+            "Timothy F. Murphy",
+            "Sandeep Nathan",
+            "B J Negus",
+            "Sahil A. Parikh",
+            "Manesh R. Patel",
+            "Kirikumar Patel",
+            "Basil Paulus",
+            "George Petrossian",
+            "Alex Powell",
+            "J Preibisz",
+            "Florian Rader",
+            "Otelio S. Randall",
+            "Mahmood K. Razavi",
+            "John P. Reilly",
+            "Jonathan Reiner",
+            "Michael Ring",
+            "Mark Robbins",
+            "Kevin Rogers",
+            "Nicolas Ruggiero",
+            "Renato Nakagawa Santos",
+            "William C. Little",
+            "John Schindler",
+            "T Scott",
+            "Thomas Shimshak"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 181,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ccd.25135",
+        "title": "Consideration of a new definition of clinically relevant myocardial infarction after coronary revascularization: An expert consensus document from the society for cardiovascular angiography and interventions (SCAI)",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 2013,
+        "citations": 175,
+        "authors": "Issam Moussa, Lloyd W. Klein, Binita Shah et al.",
+        "authors_list": [
+            "Issam Moussa",
+            "Lloyd W. Klein",
+            "Binita Shah",
+            "Roxana Mehran",
+            "Michael J. Mack",
+            "Emmanouil S. Brilakis",
+            "John P. Reilly",
+            "Gilbert J. Zoghbi",
+            "Elizabeth M. Holper",
+            "Gregg W. Stone"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 175,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ccd.23438",
+        "title": "2011 ACCF/AHA/SCAI guideline for percutaneous coronary intervention: Executive Summary",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 2012,
+        "citations": 165,
+        "authors": "Glenn N. Levine, Eric Bates, James C. Blankenship et al.",
+        "authors_list": [
+            "Glenn N. Levine",
+            "Eric Bates",
+            "James C. Blankenship",
+            "Steven R. Bailey",
+            "John A. Bittl",
+            "Bojan Cercek",
+            "Charles E. Chambers",
+            "Stephen G. Ellis",
+            "Robert A. Guyton",
+            "Steven M. Hollenberg",
+            "Umesh N. Khot",
+            "Richard A. Lange",
+            "Laura Mauri",
+            "Roxana Mehran",
+            "Issam Moussa",
+            "Debabrata Mukherjee",
+            "Brahmajee K. Nallamothu",
+            "Henry H. Ting",
+            "Alice K. Jacobs",
+            "Jeffrey L. Anderson",
+            "Nancy M. Albert",
+            "Mark A. Creager",
+            "Steven M. Ettinger",
+            "Robert A. Guyton",
+            "Jonathan L. Halperin",
+            "Judith S. Hochman",
+            "Frederick G. Kushner",
+            "E. Magnus Ohman",
+            "William G. Stevenson",
+            "Clyde W. Yancy"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 165,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jacc.2013.05.099",
+        "title": "Cardiovascular Care Facts",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2013,
+        "citations": 147,
+        "authors": "Frederick A. Masoudi, Angelo Ponirakis, Robert W. Yeh et al.",
+        "authors_list": [
+            "Frederick A. Masoudi",
+            "Angelo Ponirakis",
+            "Robert W. Yeh",
+            "Thomas M. Maddox",
+            "Jim Beachy",
+            "Paul N. Casale",
+            "Jeptha P. Curtis",
+            "James A. de Lemos",
+            "Gregg C. Fonarow",
+            "Paul A. Heidenreich",
+            "Christina Koutras",
+            "Mark S. Kremers",
+            "John C. Messenger",
+            "Issam Moussa",
+            "William J. Oetgen",
+            "Matthew T. Roe",
+            "Kenneth Rosenfield",
+            "Thomas P. Shields",
+            "John A. Spertus",
+            "Jessica Wei",
+            "Christopher White",
+            "Christopher Young",
+            "John S. Rumsfeld"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 147,
+            "crossref": 131
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0735109713050882/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ccd.23390",
+        "title": "2011 ACCF/AHA/SCAI guideline for percutaneous coronary intervention",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 2011,
+        "citations": 145,
+        "authors": "Glenn N. Levine, Eric Bates, James C. Blankenship et al.",
+        "authors_list": [
+            "Glenn N. Levine",
+            "Eric Bates",
+            "James C. Blankenship",
+            "Steven R. Bailey",
+            "John A. Bittl",
+            "Bojan Cercek",
+            "Charles E. Chambers",
+            "Stephen G. Ellis",
+            "Robert A. Guyton",
+            "Steven M. Hollenberg",
+            "Umesh N. Khot",
+            "Richard A. Lange",
+            "Laura Mauri",
+            "Roxana Mehran",
+            "Issam Moussa",
+            "Debabrata Mukherjee",
+            "Brahmajee K. Nallamothu",
+            "Henry H. Ting",
+            "Alice K. Jacobs",
+            "Jeffrey L. Anderson",
+            "Nancy M. Albert",
+            "Mark A. Creager",
+            "Steven M. Ettinger",
+            "Robert A. Guyton",
+            "Jonathan L. Halperin",
+            "Judith S. Hochman",
+            "Frederick G. Kushner",
+            "E. Magnus Ohman",
+            "William G. Stevenson",
+            "Clyde W. Yancy"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 145,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2005.06.064",
+        "title": "Impact of Coronary Culprit Lesion Calcium in Patients Undergoing Paclitaxel-Eluting Stent Implantation (a TAXUS-IV Sub Study)",
+        "journal": "The American Journal of Cardiology",
+        "year": 2005,
+        "citations": 139,
+        "authors": "Issam Moussa, Stephen G. Ellis, Michael R. Jones et al.",
+        "authors_list": [
+            "Issam Moussa",
+            "Stephen G. Ellis",
+            "Michael R. Jones",
+            "Dean J. Kereiakes",
+            "Daniel E. McMartin",
+            "Barry D. Rutherford",
+            "Roxana Mehran",
+            "Michael Collins",
+            "Martin B. Leon",
+            "Jeffrey J. Popma",
+            "Mary E. Russell",
+            "Gregg W. Stone"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 139,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1136/heartjnl-2012-303379",
+        "title": "The NCDR CathPCI Registry: a US national perspective on care and outcomes for percutaneous coronary intervention",
+        "journal": "Heart",
+        "year": 2013,
+        "citations": 132,
+        "authors": "Issam Moussa, Anthony Hermann, John C. Messenger et al.",
+        "authors_list": [
+            "Issam Moussa",
+            "Anthony Hermann",
+            "John C. Messenger",
+            "Gregory Dehmer",
+            "W. Douglas Weaver",
+            "John S. Rumsfeld",
+            "Frederick A. Masoudi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 132,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ccd.20489",
+        "title": "Percutaneous recanalization of chronically occluded coronary arteries: Procedural techniques, devices, and results",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 2005,
+        "citations": 129,
+        "authors": "Gregg W. Stone, Antonio Colombo, Paul S. Teirstein et al.",
+        "authors_list": [
+            "Gregg W. Stone",
+            "Antonio Colombo",
+            "Paul S. Teirstein",
+            "Jeffrey W. Moses",
+            "Martin B. Leon",
+            "Nicolaus Reifart",
+            "Gary S. Mintz",
+            "Angela Hoye",
+            "David A. Cox",
+            "Donald S. Baim",
+            "Bradley H. Strauss",
+            "Matthew R. Selmon",
+            "Issam Moussa",
+            "Takahiko Suzuki",
+            "Hideo Tamai",
+            "Osamu Katoh",
+            "Kazuaki Mitsudo",
+            "Eberhard Grube",
+            "Louis Cannon",
+            "David E. Kandzari",
+            "Mark Reisman",
+            "Robert S. Schwartz",
+            "Steven R. Bailey",
+            "George Dangas",
+            "Roxana Mehran",
+            "Alexandre Abizaid",
+            "Patrick W. Serruys"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 129,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ccd.20489"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/01.cir.0000148371.53174.05",
+        "title": "Nonuniform Strut Distribution Correlates With More Neointimal Hyperplasia After Sirolimus-Eluting Stent Implantation",
+        "journal": "Circulation",
+        "year": 2004,
+        "citations": 126,
+        "authors": "Hideo Takebayashi, Gary S. Mintz, Stéphane Carlier et al.",
+        "authors_list": [
+            "Hideo Takebayashi",
+            "Gary S. Mintz",
+            "Stéphane Carlier",
+            "Yoshio Kobayashi",
+            "Kenichi Fujii",
+            "Takenori Yasuda",
+            "Ricardo A. Costa",
+            "Issam Moussa",
+            "George Dangas",
+            "Roxana Mehran",
+            "Alexandra J. Lansky",
+            "Edward M. Kreps",
+            "Michael Collins",
+            "Antonio Colombo",
+            "Gregg W. Stone",
+            "Martin B. Leon",
+            "Jeffrey W. Moses"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 126,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.hrthm.2023.01.007",
+        "title": "SCAI/HRS expert consensus statement on transcatheter left atrial appendage closure",
+        "journal": "Heart Rhythm",
+        "year": 2023,
+        "citations": 120,
+        "authors": "Jacqueline Saw, David R. Holmes, João L. Cavalcante et al.",
+        "authors_list": [
+            "Jacqueline Saw",
+            "David R. Holmes",
+            "João L. Cavalcante",
+            "James V. Freeman",
+            "Andrew M. Goldsweig",
+            "Clifford J. Kavinsky",
+            "Issam Moussa",
+            "Thomas M. Munger",
+            "Matthew J. Price",
+            "Mark Reisman",
+            "Matthew W. Sherwood",
+            "Zoltan G. Turi",
+            "Dee Dee Wang",
+            "Brian Whisenant"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.heartrhythmjournal.com/article/S1547527123000115/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jacc.2011.08.006",
+        "title": "2011 ACCF/AHA/SCAI Guideline for Percutaneous Coronary Intervention: Executive Summary",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2011,
+        "citations": 106,
+        "authors": "Glenn N. Levine, Eric Bates, James C. Blankenship et al.",
+        "authors_list": [
+            "Glenn N. Levine",
+            "Eric Bates",
+            "James C. Blankenship",
+            "Steven R. Bailey",
+            "John A. Bittl",
+            "Bojan Cercek",
+            "Charles E. Chambers",
+            "Stephen G. Ellis",
+            "Robert A. Guyton",
+            "Steven M. Hollenberg",
+            "Umesh N. Khot",
+            "Richard A. Lange",
+            "Laura Mauri",
+            "Roxana Mehran",
+            "Issam Moussa",
+            "Debabrata Mukherjee",
+            "Brahmajee K. Nallamothu",
+            "Henry H. Ting"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2004.10.020",
+        "title": "Intravascular ultrasound assessment of lesions with target vessel failure after sirolimus-eluting stent implantation",
+        "journal": "The American Journal of Cardiology",
+        "year": 2005,
+        "citations": 103,
+        "authors": "Hideo Takebayashi, Yoshio Kobayashi, Gary S. Mintz et al.",
+        "authors_list": [
+            "Hideo Takebayashi",
+            "Yoshio Kobayashi",
+            "Gary S. Mintz",
+            "Stéphane Carlier",
+            "Kenichi Fujii",
+            "Takenori Yasuda",
+            "Issam Moussa",
+            "Roxana Mehran",
+            "George Dangas",
+            "Michael Collins",
+            "Edward M. Kreps",
+            "Alexandra J. Lansky",
+            "Gregg W. Stone",
+            "Martin B. Leon",
+            "Jeffrey W. Moses"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2007.03.100",
+        "title": "Nonrandomized Comparison of Coronary Stenting Under Intravascular Ultrasound Guidance of Direct Stenting Without Predilation Versus Conventional Predilation With a Semi-Compliant Balloon Versus Predilation With a New Scoring Balloon",
+        "journal": "The American Journal of Cardiology",
+        "year": 2007,
+        "citations": 100,
+        "authors": "J. Ribamar Costa, Gary S. Mintz, Stéphane Carlier et al.",
+        "authors_list": [
+            "J. Ribamar Costa",
+            "Gary S. Mintz",
+            "Stéphane Carlier",
+            "Roxana Mehran",
+            "Paul Teirstein",
+            "Koichi Sano",
+            "Xuebo Liu",
+            "Joanna Lui",
+            "Yingbo Na",
+            "Celia Castellanos",
+            "Sinan Biro",
+            "Lockeshi Dani",
+            "J. Robert Rinker",
+            "Issam Moussa",
+            "George Dangas",
+            "Alexandra J. Lansky",
+            "Edward M. Kreps",
+            "Michael Collins",
+            "Gregg W. Stone",
+            "Jeffrey W. Moses",
+            "Martin B. Leon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 100,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/circulationaha.111.066969",
+        "title": "Prediction of Long-Term Mortality After Percutaneous Coronary Intervention in Older Adults",
+        "journal": "Circulation",
+        "year": 2012,
+        "citations": 100,
+        "authors": "William S. Weintraub, Maria V. Grau‐Sepulveda, Jocelyn M. Weiss et al.",
+        "authors_list": [
+            "William S. Weintraub",
+            "Maria V. Grau‐Sepulveda",
+            "Jocelyn M. Weiss",
+            "Elizabeth R. DeLong",
+            "Eric D. Peterson",
+            "Sean M. O’Brien",
+            "Paul Kolm",
+            "Lloyd W. Klein",
+            "Richard E. Shaw",
+            "Charles R. McKay",
+            "Laura L. Ritzenthaler",
+            "Jeffrey J. Popma",
+            "John C. Messenger",
+            "David M. Shahian",
+            "Frederick L. Grover",
+            "John E. Mayer",
+            "Kirk N. Garratt",
+            "Issam Moussa",
+            "Fred H. Edwards",
+            "George Dangas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 100,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.111.066969"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ccd.10494",
+        "title": "Impact of angina class on inhibition of platelet aggregation following clopidogrel loading in patients undergoing coronary intervention: Do we need more aggressive dosing regimens in unstable angina?",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 2003,
+        "citations": 99,
+        "authors": "Daniel Soffer, Issam Moussa, Kishore J. Harjai et al.",
+        "authors_list": [
+            "Daniel Soffer",
+            "Issam Moussa",
+            "Kishore J. Harjai",
+            "Judith Boura",
+            "Simon Dixon",
+            "Cindy L. Grines",
+            "William W. O’Neill",
+            "Gary S. Roubin",
+            "Jeffrey W. Moses"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ahj.2007.07.001",
+        "title": "Assessing intermediate left main coronary lesions using intravascular ultrasound",
+        "journal": "American Heart Journal",
+        "year": 2007,
+        "citations": 91,
+        "authors": "Koichi Sano, Gary S. Mintz, Stéphane Carlier et al.",
+        "authors_list": [
+            "Koichi Sano",
+            "Gary S. Mintz",
+            "Stéphane Carlier",
+            "J. Ribamar Costa",
+            "Jie Qian",
+            "Eduardo Missel",
+            "Shoujie Shan",
+            "Theresa Franklin-Bond",
+            "Paul Boland",
+            "Giora Weisz",
+            "Issam Moussa",
+            "George Dangas",
+            "Roxana Mehran",
+            "Alexandra J. Lansky",
+            "Edward M. Kreps",
+            "Michael Collins",
+            "Gregg W. Stone",
+            "Martin B. Leon",
+            "Jeffrey W. Moses"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 91,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/cir.0b013e318299cd8a",
+        "title": "ACCF/AHA/SCAI 2013 Update of the Clinical Competence Statement on Coronary Artery Interventional Procedures",
+        "journal": "Circulation",
+        "year": 2013,
+        "citations": 90,
+        "authors": "John Harold, Theodore A. Bass, Thomas M. Bashore et al.",
+        "authors_list": [
+            "John Harold",
+            "Theodore A. Bass",
+            "Thomas M. Bashore",
+            "Ralph G. Brindis",
+            "John E. Brush",
+            "James A. Burke",
+            "Gregory Dehmer",
+            "Yuri A. Deychak",
+            "Hani Jneid",
+            "James G. Jollis",
+            "Joel S. Landzberg",
+            "Glenn N. Levine",
+            "James B. McClurken",
+            "John C. Messenger",
+            "Issam Moussa",
+            "J. Brent Muhlestein",
+            "Richard M. Pomerantz",
+            "Timothy A. Sanborn",
+            "Chittur A. Sivaram",
+            "Christopher J. White",
+            "Eric S. Williams",
+            "Presidents and Staff",
+            "John Harold",
+            "Shalom Jacobovitz",
+            "William J. Oetgen",
+            "Charlene May",
+            "Dawn R. Phoubandith",
+            "Grace D. Ronan",
+            "Erin A. Barrett",
+            "Donna K. Arnett",
+            "Nancy Brown",
+            "Rose Marie Robertson",
+            "Gayle R. Whitman",
+            "Judy L. Bezanson",
+            "Society of Cardiovascular Angiography and Interventions",
+            "Theodore A. Bass",
+            "Norm Linsky",
+            "Joel Harder"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ahajournals.org/doi/pdf/10.1161/CIR.0b013e318299cd8a"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jcin.2023.01.011",
+        "title": "SCAI/HRS Expert Consensus Statement on Transcatheter Left Atrial Appendage Closure",
+        "journal": "JACC: Cardiovascular Interventions",
+        "year": 2023,
+        "citations": 90,
+        "authors": "Jacqueline Saw, David R. Holmes, João L. Cavalcante et al.",
+        "authors_list": [
+            "Jacqueline Saw",
+            "David R. Holmes",
+            "João L. Cavalcante",
+            "James V. Freeman",
+            "Andrew M. Goldsweig",
+            "Clifford J. Kavinsky",
+            "Issam Moussa",
+            "Thomas M. Munger",
+            "Matthew J. Price",
+            "Mark Reisman",
+            "Matthew W. Sherwood",
+            "Zoltan G. Turi",
+            "Dee Dee Wang",
+            "Brian Whisenant"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1056/nejmoa1516333",
+        "title": "Registry-Based Prospective, Active Surveillance of Medical-Device Safety",
+        "journal": "New England Journal of Medicine",
+        "year": 2017,
+        "citations": 83,
+        "authors": "Frederic S. Resnic, Arjun Majithia, Danica Marinac‐Dabic et al.",
+        "authors_list": [
+            "Frederic S. Resnic",
+            "Arjun Majithia",
+            "Danica Marinac‐Dabic",
+            "Susan Robbins",
+            "Henry Ssemaganda",
+            "Kathleen Hewitt",
+            "Angelo Ponirakis",
+            "Nilsa Loyo‐Berríos",
+            "Issam Moussa",
+            "Joseph P. Drozda",
+            "Sharon‐Lise T. Normand",
+            "Michael E. Matheny"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 83,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1516333?articleTools=true"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ahj.2006.08.026",
+        "title": "Intravascular ultrasound assessment of drug-eluting stent expansion",
+        "journal": "American Heart Journal",
+        "year": 2007,
+        "citations": 81,
+        "authors": "J. Ribamar Costa, Gary S. Mintz, Stéphane Carlier et al.",
+        "authors_list": [
+            "J. Ribamar Costa",
+            "Gary S. Mintz",
+            "Stéphane Carlier",
+            "Kenichi Fujii",
+            "Koichi Sano",
+            "Masashi Kimura",
+            "Kaoru Tanaka",
+            "Ricardo A. Costa",
+            "Joanna Lui",
+            "Yingbo Na",
+            "Celia Castellanos",
+            "Sinan Biro",
+            "Issam Moussa",
+            "Gregg W. Stone",
+            "Jeffrey W. Moses",
+            "Martin B. Leon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4244/eij-d-19-01031",
+        "title": "Long-term outcomes of percutaneous coronary intervention for in-stent restenosis among Medicare beneficiaries",
+        "journal": "EuroIntervention",
+        "year": 2021,
+        "citations": 78,
+        "authors": "Hector Tamez, Eric A. Secemsky, Linda R. Valsdottir et al.",
+        "authors_list": [
+            "Hector Tamez",
+            "Eric A. Secemsky",
+            "Linda R. Valsdottir",
+            "Issam Moussa",
+            "Yang Song",
+            "Charles A. Simonton",
+            "C. Michael Gibson",
+            "Jeffrey J. Popma",
+            "Robert W. Yeh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/9724866"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ccd.21969",
+        "title": "Prevalence and prediction of previously unrecognized peripheral arterial disease in patients with coronary artery disease: The peripheral arterial disease in Interventional Patients Study",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 2009,
+        "citations": 76,
+        "authors": "Issam Moussa, Michael R. Jaff, Roxana Mehran et al.",
+        "authors_list": [
+            "Issam Moussa",
+            "Michael R. Jaff",
+            "Roxana Mehran",
+            "William A. Gray",
+            "George Dangas",
+            "Zoran Lazić",
+            "Jeffery W. Moses"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2005.11.072",
+        "title": "A Prospective Registry to Evaluate Sirolimus-Eluting Stents Implanted at Coronary Bifurcation Lesions Using the “Crush Technique”",
+        "journal": "The American Journal of Cardiology",
+        "year": 2006,
+        "citations": 75,
+        "authors": "Issam Moussa, Ricardo A. Costa, Martin B. Leon et al.",
+        "authors_list": [
+            "Issam Moussa",
+            "Ricardo A. Costa",
+            "Martin B. Leon",
+            "Alexandra J. Lansky",
+            "Zoran Lasić",
+            "Ecaterina Cristea",
+            "Nenad Trubelja",
+            "Stéphane Carlier",
+            "Roxana Mehran",
+            "George Dangas",
+            "Giora Weisz",
+            "Edward M. Kreps",
+            "Michael Collins",
+            "Gregg W. Stone",
+            "Jeffrey W. Moses"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2005.03.074",
+        "title": "Intravascular Ultrasound Study of Patterns of Calcium in Ruptured Coronary Plaques",
+        "journal": "The American Journal of Cardiology",
+        "year": 2005,
+        "citations": 73,
+        "authors": "Kenichi Fujii, Stéphane Carlier, Gary S. Mintz et al.",
+        "authors_list": [
+            "Kenichi Fujii",
+            "Stéphane Carlier",
+            "Gary S. Mintz",
+            "Hideo Takebayashi",
+            "Takenori Yasuda",
+            "Ricardo A. Costa",
+            "Issam Moussa",
+            "George Dangas",
+            "Roxana Mehran",
+            "Alexandra J. Lansky",
+            "Edward M. Kreps",
+            "Michael Collins",
+            "Gregg W. Stone",
+            "Jeffrey W. Moses",
+            "Martin B. Leon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2006.02.050",
+        "title": "Outcome After Acute Incomplete Sirolimus-Eluting Stent Apposition as Assessed by Serial Intravascular Ultrasound",
+        "journal": "The American Journal of Cardiology",
+        "year": 2006,
+        "citations": 71,
+        "authors": "Masashi Kimura, Gary S. Mintz, Stéphane Carlier et al.",
+        "authors_list": [
+            "Masashi Kimura",
+            "Gary S. Mintz",
+            "Stéphane Carlier",
+            "Hideo Takebayashi",
+            "Kenichi Fujii",
+            "Koichi Sano",
+            "Takenori Yasuda",
+            "Ricardo A. Costa",
+            "J. Ribamar Costa",
+            "Jie Quen",
+            "Kaoru Tanaka",
+            "Joanna Lui",
+            "Giora Weisz",
+            "Issam Moussa",
+            "George Dangas",
+            "Roxana Mehran",
+            "Alexandra J. Lansky",
+            "Edward M. Kreps",
+            "Michael Collins",
+            "Gregg W. Stone",
+            "Jeffrey W. Moses",
+            "Martin B. Leon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1474-4422(10)70027-2",
+        "title": "Carotid artery stenting versus surgery: adequate comparisons?",
+        "journal": "The Lancet Neurology",
+        "year": 2010,
+        "citations": 68,
+        "authors": "Marco Roffi, Horst Sievert, William A. Gray et al.",
+        "authors_list": [
+            "Marco Roffi",
+            "Horst Sievert",
+            "William A. Gray",
+            "Christopher J. White",
+            "Giovanni Torsello",
+            "Piergiorgio Cao",
+            "Bernhard Reimers",
+            "Klaus Mathias",
+            "Carlo Setacci",
+            "Claudio Schönholz",
+            "Daniel G. Clair",
+            "Martin Schillinger",
+            "Iris Q. Grunwald",
+            "Marc Bosiers",
+            "Alex Abou‐Chebl",
+            "Issam Moussa",
+            "Harald Mudra",
+            "Sriram S. Iyer",
+            "Dierk Scheinert",
+            "Jay S. Yadav",
+            "M.R. van Sambeek",
+            "David R. Holmes",
+            "Alberto Cremonesi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1001/jamacardio.2018.4376",
+        "title": "Contemporary Use and Trends in Unprotected Left Main Coronary Artery Percutaneous Coronary Intervention in the United States",
+        "journal": "JAMA Cardiology",
+        "year": 2019,
+        "citations": 67,
+        "authors": "Javier A. Valle, Hector Tamez, J. Dawn Abbott et al.",
+        "authors_list": [
+            "Javier A. Valle",
+            "Hector Tamez",
+            "J. Dawn Abbott",
+            "Issam Moussa",
+            "John C. Messenger",
+            "Stephen W. Waldo",
+            "Kevin F. Kennedy",
+            "Frederick A. Masoudi",
+            "Robert W. Yeh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2719216/jamacardiology_valle_2019_oi_180066.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2007.10.052",
+        "title": "Effectiveness of Drug-Eluting Stent Implantation for Patients With Unprotected Left Main Coronary Artery Stenosis",
+        "journal": "The American Journal of Cardiology",
+        "year": 2008,
+        "citations": 64,
+        "authors": "Young‐Hak Kim, George Dangas, Emilia Solinas et al.",
+        "authors_list": [
+            "Young‐Hak Kim",
+            "George Dangas",
+            "Emilia Solinas",
+            "Jiro Aoki",
+            "Helen Parise",
+            "Masashi Kimura",
+            "Theresa Franklin-Bond",
+            "Neil Dasgupta",
+            "Ajay J. Kirtane",
+            "Issam Moussa",
+            "Alexandra J. Lansky",
+            "Michael Collins",
+            "Gregg W. Stone",
+            "Martin B. Leon",
+            "Jeffrey W. Moses",
+            "Roxana Mehran"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ccd.24311",
+        "title": "Clinical expert consensus statement on best practices in the cardiac catheterization laboratory: Society for cardiovascular angiography and interventions",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 2012,
+        "citations": 63,
+        "authors": "Srihari S. Naidu, Sunil V. Rao, James C. Blankenship et al.",
+        "authors_list": [
+            "Srihari S. Naidu",
+            "Sunil V. Rao",
+            "James C. Blankenship",
+            "Jeffrey J. Cavendish",
+            "Tony Farah",
+            "Issam Moussa",
+            "Charanjit S. Rihal",
+            "Vankeepuram Srinivas",
+            "Steven J. Yakubov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ccd.24311"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1666/0094-8373(2001)027<0311:ropabi>2.0.co;2",
+        "title": "Role of photosymbiosis and biogeography in the diversification of early Paleogene acarininids (planktonic foraminifera)",
+        "journal": "Paleobiology",
+        "year": 2001,
+        "citations": 63,
+        "authors": "Frédéric Quillévéré, Richard D. Norris, Issam Moussa et al.",
+        "authors_list": [
+            "Frédéric Quillévéré",
+            "Richard D. Norris",
+            "Issam Moussa",
+            "William A. Berggren"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jacc.2016.12.004",
+        "title": "Executive Summary: Trends in U.S. Cardiovascular Care",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2016,
+        "citations": 61,
+        "authors": "Frederick A. Masoudi, Angelo Ponirakis, James A. de Lemos et al.",
+        "authors_list": [
+            "Frederick A. Masoudi",
+            "Angelo Ponirakis",
+            "James A. de Lemos",
+            "James G. Jollis",
+            "Mark S. Kremers",
+            "John C. Messenger",
+            "John W. Moore",
+            "Issam Moussa",
+            "William J. Oetgen",
+            "Paul D. Varosy",
+            "Robert Vincent",
+            "Jessica Wei",
+            "Jeptha P. Curtis",
+            "Matthew T. Roe",
+            "John A. Spertus"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0735109716373375/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2009.06.032",
+        "title": "Relation of Troponin I Levels Following Nonemergent Percutaneous Coronary Intervention to Short- and Long-Term Outcomes",
+        "journal": "The American Journal of Cardiology",
+        "year": 2009,
+        "citations": 59,
+        "authors": "Dmitriy N. Feldman, Robert M. Minutello, Geoffrey Bergman et al.",
+        "authors_list": [
+            "Dmitriy N. Feldman",
+            "Robert M. Minutello",
+            "Geoffrey Bergman",
+            "Issam Moussa",
+            "S. Chiu Wong"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2005.02.049",
+        "title": "Intravascular Ultrasonic Assessment of Stent Diameters Derived from Manufacturer’s Compliance Charts",
+        "journal": "The American Journal of Cardiology",
+        "year": 2005,
+        "citations": 53,
+        "authors": "J. Ribamar Costa, Gary S. Mintz, Stéphane Carlier et al.",
+        "authors_list": [
+            "J. Ribamar Costa",
+            "Gary S. Mintz",
+            "Stéphane Carlier",
+            "Ricardo A. Costa",
+            "Kenichi Fujii",
+            "Koichi Sano",
+            "Masashi Kimura",
+            "Joanna Lui",
+            "Giora Weisz",
+            "Issam Moussa",
+            "George Dangas",
+            "Roxana Mehran",
+            "Alexandra J. Lansky",
+            "Edward M. Kreps",
+            "Michael Collins",
+            "Gregg W. Stone",
+            "Jeffrey W. Moses",
+            "Martin B. Leon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1681/asn.2006010061",
+        "title": "Radiocontrast-Induced Acute Renal Failure—Impact beyond the Acute Phase",
+        "journal": "Journal of the American Society of Nephrology",
+        "year": 2006,
+        "citations": 50,
+        "authors": "George Dangas, Ιoannis Iakovou, Eugenia Nikolsky et al.",
+        "authors_list": [
+            "George Dangas",
+            "Ιoannis Iakovou",
+            "Eugenia Nikolsky",
+            "Aymong E.D.",
+            "Mintz G.S.",
+            "Kipshidze N.N.",
+            "Lansky A.J.",
+            "Issam Moussa",
+            "Stone G.W.",
+            "Moses J.W.",
+            "Leon M.B.",
+            "R. Mehran"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/152660280401100108",
+        "title": "Impact of Symptomatic Peripheral Arterial Disease on 1-Year Mortality in Patients Undergoing Percutaneous Coronary Interventions",
+        "journal": "Journal of Endovascular Therapy",
+        "year": 2004,
+        "citations": 48,
+        "authors": "Eugenia Nikolsky, Roxana Mehran, Gary S. Mintz et al.",
+        "authors_list": [
+            "Eugenia Nikolsky",
+            "Roxana Mehran",
+            "Gary S. Mintz",
+            "George Dangas",
+            "Alexandra J. Lansky",
+            "Eve Aymong",
+            "Manuela Negoita",
+            "Martin Fahy",
+            "Issam Moussa",
+            "Gary S. Roubin",
+            "Jeffrey W. Moses",
+            "Gregg W. Stone",
+            "Martin B. Leon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/hcq.0000000000000112",
+        "title": "2022 ACC/AHA Key Data Elements and Definitions for Chest Pain and Acute Myocardial Infarction: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Data Standards",
+        "journal": "Circulation Cardiovascular Quality and Outcomes",
+        "year": 2022,
+        "citations": 48,
+        "authors": "H. Vernon Anderson, Sofia Carolina Masri, Mouin Abdallah et al.",
+        "authors_list": [
+            "H. Vernon Anderson",
+            "Sofia Carolina Masri",
+            "Mouin Abdallah",
+            "Anna Marie Chang",
+            "Mauricio G. Cohen",
+            "Islam Y. Elgendy",
+            "Martha Gulati",
+            "Kathleen LaPoint",
+            "Nidhi Madan",
+            "Issam Moussa",
+            "Jorge Ramirez",
+            "April W. Simon",
+            "Vikas Singh",
+            "Stephen W. Waldo",
+            "Marlene S. Williams"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2007.07.048",
+        "title": "Short- and Long-Term Outcomes After Stent-Assisted Percutaneous Treatment of Saphenous Vein Grafts in the Drug-Eluting Stent Era",
+        "journal": "The American Journal of Cardiology",
+        "year": 2007,
+        "citations": 47,
+        "authors": "Tereza Pučelíková, Roxana Mehran, Ajay J. Kirtane et al.",
+        "authors_list": [
+            "Tereza Pučelíková",
+            "Roxana Mehran",
+            "Ajay J. Kirtane",
+            "Young‐Hak Kim",
+            "Martin Fahy",
+            "Giora Weisz",
+            "Alexandra J. Lansky",
+            "Issam Moussa",
+            "William A. Gray",
+            "Michael Collins",
+            "Susheel Kodali",
+            "Gregg W. Stone",
+            "Jeffrey W. Moses",
+            "Martin B. Leon",
+            "George Dangas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ccd.22167",
+        "title": "Antiplatelet therapy discontinuation following drug‐eluting stent placement: Dangers, reasons, and management recommendations",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 2009,
+        "citations": 40,
+        "authors": "Issam Moussa, Antonio Colombo",
+        "authors_list": [
+            "Issam Moussa",
+            "Antonio Colombo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 40,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ccd.22865",
+        "title": "Coronary artery bifurcation interventions: The disconnect between randomized clinical trials and patient centered decision‐making",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 2011,
+        "citations": 39,
+        "authors": "Issam Moussa",
+        "authors_list": [
+            "Issam Moussa"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 39,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1179/1743132811y.0000000039",
+        "title": "The short-term effect of atorvastatin on carotid plaque morphology assessed by computer-assisted gray-scale densitometry: a pilot study",
+        "journal": "Neurological Research",
+        "year": 2011,
+        "citations": 38,
+        "authors": "David Della‐Morte, Issam Moussa, Mitchell S.V. Elkind et al.",
+        "authors_list": [
+            "David Della‐Morte",
+            "Issam Moussa",
+            "Mitchell S.V. Elkind",
+            "Ralph L. Sacco",
+            "Tatjana Rundek"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 38,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0002-9149(03)00663-5",
+        "title": "Comparison of in-hospital and one-year outcomes after multiple coronary arterial stenting in patients ≥80 years old versus those &lt;80 years old",
+        "journal": "The American Journal of Cardiology",
+        "year": 2003,
+        "citations": 36,
+        "authors": "Yoshio Kobayashi, Roxana Mehran, Gary S. Mintz et al.",
+        "authors_list": [
+            "Yoshio Kobayashi",
+            "Roxana Mehran",
+            "Gary S. Mintz",
+            "George Dangas",
+            "Issam Moussa",
+            "Alexandra J. Lansky",
+            "Gregg W. Stone",
+            "Jeffrey W. Moses",
+            "Martin B. Leon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 36,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2007.07.049",
+        "title": "Clinical Outcomes After Heterogeneous Overlap Stenting With Drug-Eluting Stents and Bare-Metal Stents for de Novo Coronary Artery Narrowings",
+        "journal": "The American Journal of Cardiology",
+        "year": 2007,
+        "citations": 35,
+        "authors": "Jiro Aoki, Ajay J. Kirtane, George Dangas et al.",
+        "authors_list": [
+            "Jiro Aoki",
+            "Ajay J. Kirtane",
+            "George Dangas",
+            "Alexandra J. Lansky",
+            "Andy Morales",
+            "Masashi Kimura",
+            "Young‐Hak Kim",
+            "Issam Moussa",
+            "Giora Weisz",
+            "Edward M. Kreps",
+            "Michael Collins",
+            "Theresa Frankin-Bond",
+            "Gregg W. Stone",
+            "Jeffrey W. Moses",
+            "Martin B. Leon",
+            "Roxana Mehran"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 35,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jacc.2015.12.001",
+        "title": "SCAI/ACC/HRS Institutional and Operator Requirements for Left Atrial Appendage Occlusion",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2015,
+        "citations": 35,
+        "authors": "Clifford J. Kavinsky, Fred Kusumoto, Anthony A. Bavry et al.",
+        "authors_list": [
+            "Clifford J. Kavinsky",
+            "Fred Kusumoto",
+            "Anthony A. Bavry",
+            "Steven R. Bailey",
+            "Kenneth A. Ellenbogen",
+            "Paul L. Hess",
+            "Daniel L. Lustgarten",
+            "Issam Moussa",
+            "Christian Spies"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 35,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0735109715075506/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jacc.2022.05.012",
+        "title": "2022 ACC/AHA Key Data Elements and Definitions for Chest Pain and Acute Myocardial Infarction",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2022,
+        "citations": 31,
+        "authors": "H. Vernon Anderson, Sofia Carolina Masri, Mouin Abdallah et al.",
+        "authors_list": [
+            "H. Vernon Anderson",
+            "Sofia Carolina Masri",
+            "Mouin Abdallah",
+            "Anna Marie Chang",
+            "Mauricio G. Cohen",
+            "Islam Y. Elgendy",
+            "Martha Gulati",
+            "Kathleen LaPoint",
+            "Nidhi Madan",
+            "Issam Moussa",
+            "Jorge Ramirez",
+            "April W. Simon",
+            "Vikas Singh",
+            "Stephen W. Waldo",
+            "Marlene S. Williams"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 31,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/jth.12780",
+        "title": "Remission of recurrent gastrointestinal bleeding after septal reduction therapy in patients with hypertrophic obstructive cardiomyopathy‐associated acquired von Willebrand syndrome",
+        "journal": "Journal of Thrombosis and Haemostasis",
+        "year": 2014,
+        "citations": 30,
+        "authors": "Joseph L. Blackshear, Mark E. Stark, Richard C. Agnew et al.",
+        "authors_list": [
+            "Joseph L. Blackshear",
+            "Mark E. Stark",
+            "Richard C. Agnew",
+            "Issam Moussa",
+            "Robert E. Safford",
+            "Brian P. Shapiro",
+            "Oral Waldo",
+            "Dong Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 30,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jthjournal.org/article/S1538783622085671/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0002-9149(02)02462-1",
+        "title": "Effect of catheter-based iridium-192 gamma brachytherapy on the added risk of restenosis from diabetes mellitus after intervention for in-stent restenosis (subanalysis of the GAMMA I Randomized Trial)",
+        "journal": "The American Journal of Cardiology",
+        "year": 2002,
+        "citations": 28,
+        "authors": "Jeffrey W. Moses, Issam Moussa, Martin B. Leon et al.",
+        "authors_list": [
+            "Jeffrey W. Moses",
+            "Issam Moussa",
+            "Martin B. Leon",
+            "Paul S. Teirstein",
+            "R. David Fish",
+            "Stephen G. Ellis",
+            "Dilsher Nawas",
+            "Bryan Kluck",
+            "Joseph Giorgianni",
+            "Dennis Donohoe",
+            "Richard E. Kuntz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 28,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/(sici)1522-726x(199904)46:4<406::aid-ccd4>3.0.co;2-z",
+        "title": "Lower restenosis rate with stenting following aggressive versus less aggressive rotational atherectomy",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 1999,
+        "citations": 28,
+        "authors": "Yoshio Kobayashi, Joseph De Gregorio, Nobuyuki Kobayashi et al.",
+        "authors_list": [
+            "Yoshio Kobayashi",
+            "Joseph De Gregorio",
+            "Nobuyuki Kobayashi",
+            "Tatsuro Akiyama",
+            "Bernhard Reimers",
+            "Issam Moussa",
+            "Carlo Di Mario",
+            "Léo Finci",
+            "Antonio Colombo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 28,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/%28SICI%291522-726X%28199904%2946%3A4%3C406%3A%3AAID-CCD4%3E3.0.CO%3B2-Z"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ccd.23353",
+        "title": "Staging of multivessel percutaneous coronary interventions: An expert consensus statement from the Society for Cardiovascular Angiography and Interventions",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 2011,
+        "citations": 27,
+        "authors": "James C. Blankenship, Issam Moussa, Charles C. Chambers et al.",
+        "authors_list": [
+            "James C. Blankenship",
+            "Issam Moussa",
+            "Charles C. Chambers",
+            "Emmanouil S. Brilakis",
+            "Thomas Haldis",
+            "Douglas A. Morrison",
+            "Gregory Dehmer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 27,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2004.03.010",
+        "title": "Prognostic significance of cerebrovascular and peripheral arterial disease in patients having percutaneous coronary interventions",
+        "journal": "The American Journal of Cardiology",
+        "year": 2004,
+        "citations": 27,
+        "authors": "Eugenia Nikolsky, Roxana Mehran, George Dangas et al.",
+        "authors_list": [
+            "Eugenia Nikolsky",
+            "Roxana Mehran",
+            "George Dangas",
+            "Zoran Lasić",
+            "Gary S. Mintz",
+            "Manuela Negoita",
+            "Alexandra J. Lansky",
+            "Gregg W. Stone",
+            "Issam Moussa",
+            "Sriram S. Iyer",
+            "Yingbo Na",
+            "Jeffrey W. Moses",
+            "Martin B. Leon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 27,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2009.09.034",
+        "title": "Efficacy of High-Dose Clopidogrel Treatment (600 mg) Less Than Two Hours Before Percutaneous Coronary Intervention in Patients With Non–ST-Segment Elevation Acute Coronary Syndromes",
+        "journal": "The American Journal of Cardiology",
+        "year": 2009,
+        "citations": 26,
+        "authors": "Dmitriy N. Feldman, Foluso Fakorede, Robert M. Minutello et al.",
+        "authors_list": [
+            "Dmitriy N. Feldman",
+            "Foluso Fakorede",
+            "Robert M. Minutello",
+            "Geoffrey Bergman",
+            "Issam Moussa",
+            "S. Chiu Wong"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 26,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jacadv.2024.101330",
+        "title": "Prevalence, Management, and Comorbidities of Adults With Atrial Fibrillation in the United States, 2019 to 2023",
+        "journal": "JACC Advances",
+        "year": 2024,
+        "citations": 26,
+        "authors": "Connor Oltman, Tae‐Hyung Kim, James W.Y. Lee et al.",
+        "authors_list": [
+            "Connor Oltman",
+            "Tae‐Hyung Kim",
+            "James W.Y. Lee",
+            "John D Lupu",
+            "Ruoqing Zhu",
+            "Issam Moussa"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 26,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.jacadv.2024.101330"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ccd.28991",
+        "title": "<scp>SCAI</scp> position statement on the performance of percutaneous coronary intervention in ambulatory surgical centers",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 2020,
+        "citations": 25,
+        "authors": "Lyndon C. Box, James C. Blankenship, Timothy D. Henry et al.",
+        "authors_list": [
+            "Lyndon C. Box",
+            "James C. Blankenship",
+            "Timothy D. Henry",
+            "John C. Messenger",
+            "Joaquin E. Cigarroa",
+            "Issam Moussa",
+            "Richard W. Snyder",
+            "Peter L. Duffy",
+            "Jeffrey G. Carr",
+            "Deepali Tukaye",
+            "Lawrence Ang",
+            "Binita Shah",
+            "Sunil V. Rao",
+            "Ehtisham Mahmud"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 25,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ccd.28991"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0735-1097(02)80001-8",
+        "title": "The role of mucomyst administration prior to percutaneous interventions on renal function in patients with chronic renal failure",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2002,
+        "citations": 25,
+        "authors": "Milena G. Adamjan, Issam Moussa, Roxana Mehran et al.",
+        "authors_list": [
+            "Milena G. Adamjan",
+            "Issam Moussa",
+            "Roxana Mehran",
+            "George Dangas",
+            "Michael Farkhou",
+            "Yullya Adamyan",
+            "Mohamed Mohamed",
+            "Andrei Negoiță",
+            "Arlene Reyes",
+            "Monica Losquadro",
+            "Michael G. Collins",
+            "Edward M. Kreps",
+            "Jeffrey W. Moses",
+            "Gregg W. Stone",
+            "Martin B. Leon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 25,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0735109702800018/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.15420/icr.2014.9.3.201",
+        "title": "Percutaneous Treatment of Coronary Chronic Total Occlusion Part 2: Technical Approach",
+        "journal": "Interventional Cardiology Reviews Research Resources",
+        "year": 2014,
+        "citations": 24,
+        "authors": "Alfredo R. Galassi, Aaron Grantham, David E. Kandzari et al.",
+        "authors_list": [
+            "Alfredo R. Galassi",
+            "Aaron Grantham",
+            "David E. Kandzari",
+            "William Lombardi",
+            "Issam Moussa",
+            "Craig A. Thompson",
+            "Gerald S. Werner",
+            "Charles E. Chambers",
+            "Emmanouil S. Brilakis",
+            "Boston Scientific, Natick, Massachusetts, US"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://assets.radcliffecardiology.com/s3fs-public/article-pdf/2020-12/chambers.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jscai.2022.100577",
+        "title": "SCAI/HRS Expert Consensus Statement on Transcatheter Left Atrial Appendage Closure",
+        "journal": "Journal of the Society for Cardiovascular Angiography & Interventions",
+        "year": 2023,
+        "citations": 24,
+        "authors": "Jacqueline Saw, David R. Holmes, João L. Cavalcante et al.",
+        "authors_list": [
+            "Jacqueline Saw",
+            "David R. Holmes",
+            "João L. Cavalcante",
+            "James V. Freeman",
+            "Andrew M. Goldsweig",
+            "Clifford J. Kavinsky",
+            "Issam Moussa",
+            "Thomas M. Munger",
+            "Matthew J. Price",
+            "Mark Reisman",
+            "Matthew W. Sherwood",
+            "Zoltan G. Turi",
+            "Dee Dee Wang",
+            "Brian Whisenant"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.jscai.2022.100577"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10554-011-9846-x",
+        "title": "Bifurcation lesion morphology and intravascular ultrasound assessment",
+        "journal": "International journal of cardiac imaging",
+        "year": 2011,
+        "citations": 23,
+        "authors": "Ricardo A. Costa, Marco A. Costa, Issam Moussa",
+        "authors_list": [
+            "Ricardo A. Costa",
+            "Marco A. Costa",
+            "Issam Moussa"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 23,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2004.09.033",
+        "title": "Creatine kinase-MB enzyme elevation and long-term clinical events after successful coronary stenting in lesions with ruptured plaque",
+        "journal": "The American Journal of Cardiology",
+        "year": 2005,
+        "citations": 23,
+        "authors": "Kenichi Fujii, Stéphane Carlier, Gary S. Mintz et al.",
+        "authors_list": [
+            "Kenichi Fujii",
+            "Stéphane Carlier",
+            "Gary S. Mintz",
+            "Yoshio Kobayashi",
+            "David Jacoboff",
+            "H. Nierenberg",
+            "Hideo Takebayashi",
+            "Takenori Yasuda",
+            "Issam Moussa",
+            "George Dangas",
+            "Roxana Mehran",
+            "Alexandra J. Lansky",
+            "Edward M. Kreps",
+            "Michael Collins",
+            "Gregg W. Stone",
+            "Martin B. Leon",
+            "Jeffrey W. Moses"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 23,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2015.11.016",
+        "title": "Usefulness of Von Willebrand Factor Activity Indexes to Predict Therapeutic Response in Hypertrophic Cardiomyopathy",
+        "journal": "The American Journal of Cardiology",
+        "year": 2015,
+        "citations": 22,
+        "authors": "Joseph L. Blackshear, Hana Kusumoto, Robert E. Safford et al.",
+        "authors_list": [
+            "Joseph L. Blackshear",
+            "Hana Kusumoto",
+            "Robert E. Safford",
+            "Ewa Wysokinska",
+            "Colleen S. Thomas",
+            "Oral Waldo",
+            "Mark E. Stark",
+            "Brian P. Shapiro",
+            "Steven Ung",
+            "Issam Moussa",
+            "Richard C. Agnew",
+            "Kevin Landolfo",
+            "Dong Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0002-9149(03)00467-3",
+        "title": "Dominant contribution of negative remodeling to development of significant coronary bifurcation narrowing",
+        "journal": "The American Journal of Cardiology",
+        "year": 2003,
+        "citations": 21,
+        "authors": "Kenichi Fujii, Yoshio Kobayashi, Gary S. Mintz et al.",
+        "authors_list": [
+            "Kenichi Fujii",
+            "Yoshio Kobayashi",
+            "Gary S. Mintz",
+            "Makoto Hirose",
+            "Issam Moussa",
+            "Roxana Mehran",
+            "George Dangas",
+            "Alexandra J. Lansky",
+            "Edward M. Kreps",
+            "Michael Collins",
+            "Antonio Colombo",
+            "Gregg W. Stone",
+            "Martin B. Leon",
+            "Jeffrey W. Moses"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 21,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1098/rsif.2011.0675",
+        "title": "Impact of main branch stenting on endothelial shear stress: role of side branch diameter, angle and lesion",
+        "journal": "Journal of The Royal Society Interface",
+        "year": 2011,
+        "citations": 21,
+        "authors": "Henry Y. Chen, Issam Moussa, Charles J. Davidson et al.",
+        "authors_list": [
+            "Henry Y. Chen",
+            "Issam Moussa",
+            "Charles J. Davidson",
+            "Ghassan S. Kassab"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 21,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3350730"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2005.11.080",
+        "title": "Intravascular Ultrasonic Differences Between Aorto-Ostial and Shaft Narrowing in Saphenous Veins Used as Aortocoronary Bypass Grafts",
+        "journal": "The American Journal of Cardiology",
+        "year": 2006,
+        "citations": 20,
+        "authors": "Koichi Sano, Gary S. Mintz, Stéphane Carlier et al.",
+        "authors_list": [
+            "Koichi Sano",
+            "Gary S. Mintz",
+            "Stéphane Carlier",
+            "Kenichi Fujii",
+            "Takenori Yasuda",
+            "Masashi Kimura",
+            "J. Ribamar Costa",
+            "Ricardo A. Costa",
+            "Joanna Lui",
+            "Giora Weisz",
+            "Issam Moussa",
+            "George Dangas",
+            "Roxana Mehran",
+            "Alexandra J. Lansky",
+            "Edward M. Kreps",
+            "Michael Collins",
+            "Gregg W. Stone",
+            "Jeffrey W. Moses",
+            "Martin B. Leon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 20,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0002-9149(03)00118-8",
+        "title": "Comparison of outcomes in men versus women having percutaneous coronary interventions in small coronary arteries",
+        "journal": "The American Journal of Cardiology",
+        "year": 2003,
+        "citations": 18,
+        "authors": "Dale T. Ashby, Roxana Mehran, Eve Aymong et al.",
+        "authors_list": [
+            "Dale T. Ashby",
+            "Roxana Mehran",
+            "Eve Aymong",
+            "Alexandra J. Lansky",
+            "Ιoannis Iakovou",
+            "Giora Weisz",
+            "Gishel New",
+            "Issam Moussa",
+            "George Dangas",
+            "Jeffery W. Moses",
+            "Gregg W. Stone",
+            "Martin B. Leon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 18,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ccd.22029",
+        "title": "Automated contrast injectors for angiography: Devices, methodology, and safety",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 2009,
+        "citations": 17,
+        "authors": "Edo Kaluski, Issam Moussa, Richard R. Heuser et al.",
+        "authors_list": [
+            "Edo Kaluski",
+            "Issam Moussa",
+            "Richard R. Heuser",
+            "Morton J. Kern",
+            "Giora Weisz",
+            "Marc Klapholz",
+            "Christine Gerula"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 17,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/1522-726x(200011)51:3<347::aid-ccd25>3.0.co;2-p",
+        "title": "The skirt technique: A stenting technique to treat a lesion immediately proximal to the bifurcation (pseudobifurcation)",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 2000,
+        "citations": 16,
+        "authors": "Yoshio Kobayashi, Antonio Colombo, Milena Adamian et al.",
+        "authors_list": [
+            "Yoshio Kobayashi",
+            "Antonio Colombo",
+            "Milena Adamian",
+            "Takahiro Nishida",
+            "Issam Moussa",
+            "Jeffrey W. Moses"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 16,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0002-9149(02)03114-4",
+        "title": "Usefulness of atrial fibrillation as a marker of outcome after percutaneous coronary intervention",
+        "journal": "The American Journal of Cardiology",
+        "year": 2003,
+        "citations": 16,
+        "authors": "Magdi El‐Omar, George Dangas, Roxana Mehran et al.",
+        "authors_list": [
+            "Magdi El‐Omar",
+            "George Dangas",
+            "Roxana Mehran",
+            "Alexandra J. Lansky",
+            "Nicholas Kipshidze",
+            "Sotir Polena",
+            "Martin Fahy",
+            "Issam Moussa",
+            "Lynne A. Glasser",
+            "Jeffrey W. Moses",
+            "Gregg W. Stone",
+            "Martin B. Leon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 16,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0022-0736(92)90061-4",
+        "title": "Prediction of severe coronary artery disease using computerized ECG measurements and discriminant function analysis",
+        "journal": "Journal of Electrocardiology",
+        "year": 1992,
+        "citations": 15,
+        "authors": "Issam Moussa, Michael Rodriguez, Jeffrey Froning et al.",
+        "authors_list": [
+            "Issam Moussa",
+            "Michael Rodriguez",
+            "Jeffrey Froning",
+            "Victor F. Froelicher"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 15,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jcin.2017.03.021",
+        "title": "Outcomes in Patients Undergoing Primary Percutaneous Coronary Intervention for ST-Segment Elevation Myocardial Infarction Via Radial Access Anticoagulated With Bivalirudin Versus Heparin",
+        "journal": "JACC: Cardiovascular Interventions",
+        "year": 2017,
+        "citations": 15,
+        "authors": "Ion S. Jovin, Rachit Shah, Dhavalkumar Patel et al.",
+        "authors_list": [
+            "Ion S. Jovin",
+            "Rachit Shah",
+            "Dhavalkumar Patel",
+            "Sunil V. Rao",
+            "Dmitri Baklanov",
+            "Issam Moussa",
+            "Kevin F. Kennedy",
+            "Eric A. Secemsky",
+            "Robert W. Yeh",
+            "Michael C. Kontos",
+            "George W. Vetrovec"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 15,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1936879817305599/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0002-9149(01)01650-2",
+        "title": "Frequency of early occlusion and stenosis in bypass grafts after minimally invasive direct coronary arterial bypass surgery",
+        "journal": "The American Journal of Cardiology",
+        "year": 2001,
+        "citations": 15,
+        "authors": "Issam Moussa, Mathew Oetgen, V A Subramanian et al.",
+        "authors_list": [
+            "Issam Moussa",
+            "Mathew Oetgen",
+            "V A Subramanian",
+            "Yoshio Kobayashi",
+            "Nilesh B. Patel",
+            "Jeffrey W. Moses"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 15,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2005.12.048",
+        "title": "The Fate of Patients With Clinical Recurrence After Sirolimus-Eluting Stent Implantation (a Two-Year Follow-Up Analysis from the SIRIUS Trial)",
+        "journal": "The American Journal of Cardiology",
+        "year": 2006,
+        "citations": 15,
+        "authors": "Issam Moussa, Jeffrey W. Moses, Richard E. Kuntz et al.",
+        "authors_list": [
+            "Issam Moussa",
+            "Jeffrey W. Moses",
+            "Richard E. Kuntz",
+            "David R. Holmes",
+            "Jeffrey J. Popma",
+            "Paul S. Teirstein",
+            "S. Chiu Wong",
+            "Martin B. Leon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 15,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2013.02.069",
+        "title": "Objective Simulator-Based Evaluation of Carotid Artery Stenting Proficiency (from Assessment of Operator Performance by the Carotid Stenting Simulator Study [ASSESS])",
+        "journal": "The American Journal of Cardiology",
+        "year": 2013,
+        "citations": 14,
+        "authors": "Giora Weisz, Nathaniel R. Smilowitz, Helen Parise et al.",
+        "authors_list": [
+            "Giora Weisz",
+            "Nathaniel R. Smilowitz",
+            "Helen Parise",
+            "Jacques Devaud",
+            "Issam Moussa",
+            "Stephen R. Ramee",
+            "Mark Reisman",
+            "Christopher J. White",
+            "William A. Gray"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 14,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amjcard.2006.07.030",
+        "title": "Volumetric Intravascular Ultrasound Assessment of Neointimal Hyperplasia and Nonuniform Stent Strut Distribution in Sirolimus-Eluting Stent Restenosis",
+        "journal": "The American Journal of Cardiology",
+        "year": 2006,
+        "citations": 14,
+        "authors": "Koichi Sano, Gary S. Mintz, Stéphane Carlier et al.",
+        "authors_list": [
+            "Koichi Sano",
+            "Gary S. Mintz",
+            "Stéphane Carlier",
+            "Kenichi Fujii",
+            "Hideo Takebayashi",
+            "Masashi Kimura",
+            "J. Ribamar Costa",
+            "Kaoru Tanaka",
+            "Ricardo A. Costa",
+            "Joanna Lui",
+            "Giora Weisz",
+            "Issam Moussa",
+            "George Dangas",
+            "Roxana Mehran",
+            "Alexandra J. Lansky",
+            "Edward M. Kreps",
+            "Michael J. Collins",
+            "Gregg W. Stone",
+            "Jeffrey W. Moses",
+            "Martin B. Leon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 14,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ccd.20138",
+        "title": "Luminal narrowing due to intramural hematoma shift from left anterior descending coronary artery to left circumflex artery",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 2004,
+        "citations": 13,
+        "authors": "Makoto Hirose, Yoshio Kobayashi, Edward M. Kreps et al.",
+        "authors_list": [
+            "Makoto Hirose",
+            "Yoshio Kobayashi",
+            "Edward M. Kreps",
+            "Gregg W. Stone",
+            "Issam Moussa",
+            "Martin B. Leon",
+            "Jeffrey W. Moses"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 13,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Asymptomatic carotid artery stenosis: Risk stratification and management",
+        "journal": "",
+        "year": 2007,
+        "citations": 12,
+        "authors": "Issam Moussa, Tatjana Rundek, J.P. Mohr",
+        "authors_list": [
+            "Issam Moussa",
+            "Tatjana Rundek",
+            "J.P. Mohr"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 12,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2230.2007.02541.x",
+        "title": "Acroangiodermatitis Mali resulting from arteriovenous malformation: report of a case of Stewart–Bluefarb syndrome",
+        "journal": "Clinical and Experimental Dermatology",
+        "year": 2007,
+        "citations": 12,
+        "authors": "Markus Zutt, Steffen Emmert, Issam Moussa et al.",
+        "authors_list": [
+            "Markus Zutt",
+            "Steffen Emmert",
+            "Issam Moussa",
+            "Ellen de Haas",
+            "Christina Mitteldorf",
+            "Hans Peter Bertsch",
+            "C. Neumann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 12,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.jacc.2015.10.005",
+        "title": "2015 ACC/AHA/SCAI Focused Update on Primary Percutaneous Coronary Intervention for Patients With ST-Elevation Myocardial Infarction",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2016,
+        "citations": 670,
+        "authors": "Glenn N. Levine, Eric R. Bates, James C. Blankenship et al.",
+        "authors_list": [
+            "Glenn N. Levine",
+            "Eric R. Bates",
+            "James C. Blankenship",
+            "Steven R. Bailey",
+            "John A. Bittl",
+            "Bojan Cercek",
+            "Charles E. Chambers",
+            "Stephen G. Ellis",
+            "Robert A. Guyton",
+            "Steven M. Hollenberg",
+            "Umesh N. Khot",
+            "Richard A. Lange",
+            "Laura Mauri",
+            "Roxana Mehran",
+            "Issam D. Moussa",
+            "Debabrata Mukherjee",
+            "Henry H. Ting",
+            "Patrick T. O’Gara",
+            "Frederick G. Kushner",
+            "Deborah D. Ascheim",
+            "Ralph G. Brindis",
+            "Donald E. Casey",
+            "Mina K. Chung",
+            "James A. de Lemos",
+            "Deborah B. Diercks",
+            "James C. Fang",
+            "Barry A. Franklin",
+            "Christopher B. Granger",
+            "Harlan M. Krumholz",
+            "Jane A. Linderbaum",
+            "David A. Morrow",
+            "L. Kristin Newby",
+            "Joseph P. Ornato",
+            "Narith Ou",
+            "Martha J. Radford",
+            "Jacqueline E. Tamis-Holland",
+            "Carl L. Tommaso",
+            "Cynthia M. Tracy",
+            "Y. Joseph Woo",
+            "David X. Zhao"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 670
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.amjcard.2004.08.056",
+        "title": "Contrast-Induced nephropathy after percutaneous coronary interventions in relation to chronic kidney disease and hemodynamic variables",
+        "journal": "The American Journal of Cardiology",
+        "year": 2005,
+        "citations": 461,
+        "authors": "George Dangas, Ioannis Iakovou, Eugenia Nikolsky et al.",
+        "authors_list": [
+            "George Dangas",
+            "Ioannis Iakovou",
+            "Eugenia Nikolsky",
+            "Eve D. Aymong",
+            "Gary S. Mintz",
+            "Nicholas N. Kipshidze",
+            "Alexandra J. Lansky",
+            "Issam Moussa",
+            "Gregg W. Stone",
+            "Jeffrey W. Moses",
+            "Martin B. Leon",
+            "Roxana Mehran"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 461
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s0140-6736(22)01787-1",
+        "title": "Long-term outcomes after catheter-based renal artery denervation for resistant hypertension: final follow-up of the randomised SYMPLICITY HTN-3 Trial",
+        "journal": "The Lancet",
+        "year": 2022,
+        "citations": 168,
+        "authors": "Deepak L Bhatt, Muthiah Vaduganathan, David E Kandzari et al.",
+        "authors_list": [
+            "Deepak L Bhatt",
+            "Muthiah Vaduganathan",
+            "David E Kandzari",
+            "Martin B Leon",
+            "Krishna Rocha-Singh",
+            "Raymond R Townsend",
+            "Barry T Katzen",
+            "Suzanne Oparil",
+            "Sandeep Brar",
+            "Vanessa DeBruin",
+            "Martin Fahy",
+            "George L Bakris",
+            "Deepak L Bhatt",
+            "George Bakris",
+            "Sidney A Cohen",
+            "Ralph D'Agostino",
+            "Murray Esler",
+            "John Flack",
+            "David E Kandzari",
+            "Barry Katzen",
+            "Martin Leon",
+            "Laura Mauri",
+            "Manuela Negoita",
+            "Suzanne Oparil",
+            "Krishna Rocha-Singh",
+            "Ray Townsend",
+            "Ziad Abbud",
+            "Tayo Addo",
+            "David Anderson",
+            "John Angle",
+            "Herbert Aronow",
+            "Anvar Babaev",
+            "Keith Benzuly",
+            "Somjot Brar",
+            "David Brown",
+            "David Calhoun",
+            "Paul Casale",
+            "Sheldon Chaffer",
+            "James Choi",
+            "Eugene Chung",
+            "Debbie L Cohen",
+            "Mark Creager",
+            "George Dangas",
+            "Harold Dauerman",
+            "Shukri David",
+            "Mark Davies",
+            "Eduardo de Marchena",
+            "Ali E Denktas",
+            "Chandan Devireddy",
+            "William Downey",
+            "Mark Dunlap",
+            "Daniel Fisher",
+            "John Flack",
+            "Magdi Ghali",
+            "Eric Gnall",
+            "Raghava Gollapudi",
+            "Mark Goodwin",
+            "Nilesh Goswami",
+            "Luis Gruberg",
+            "Rajiv Gulati",
+            "Anuj Gupta",
+            "Anjan Gupta",
+            "Hitinder Gurm",
+            "Jeffrey Hastings",
+            "Scott Kinlay",
+            "Robert Kipperman",
+            "Maurice Buchbinder",
+            "Ajay Kirtane",
+            "Richard Kovach",
+            "David Lee",
+            "Samuel Mann",
+            "Steven Marso",
+            "Fadi Matar",
+            "Ernest Mazzaferri",
+            "Farrel Mandelsohn",
+            "Issam Moussa",
+            "Timothy Murphy",
+            "Sandeep Nathan",
+            "Brian Negus",
+            "Sahil Parikh",
+            "Manesh Patel",
+            "Kirikumar Patel",
+            "Basil Paulus",
+            "George Petrossian",
+            "Alex Powell",
+            "Jacek Preibisz",
+            "Florian Rader",
+            "Otelio Randall",
+            "Mahmood Razavi",
+            "John Reilly",
+            "Jonathan Reiner",
+            "Michael Ring",
+            "Mark Robbins",
+            "Kevin Rogers",
+            "Nicolas Ruggiero",
+            "Renato Santos",
+            "William Little",
+            "John Schindler",
+            "Thomas Scott",
+            "Thomas Shimshak",
+            "Mehdi Shishehbor",
+            "Mitchel Silver",
+            "Jasvindar Singh",
+            "Kanwar Singh",
+            "David Slovut",
+            "Rick G Stoufer",
+            "Paul Teirsten",
+            "Thomas Todoran",
+            "George Vetrovec",
+            "Ron Waksman",
+            "Yale Wang",
+            "Sergio Waxman",
+            "Robert Wilkins",
+            "Khaled Ziada",
+            "Frank Zidar"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 168
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1002/ccd.25135",
+        "title": "Consideration of a new definition of clinically relevant myocardial infarction after coronary revascularization: An expert consensus document from the society for cardiovascular angiography and interventions (SCAI)",
+        "journal": "Catheterization and Cardiovascular Interventions",
+        "year": 2014,
+        "citations": 53,
+        "authors": "Issam D. Moussa, Lloyd W. Klein, Binita Shah et al.",
+        "authors_list": [
+            "Issam D. Moussa",
+            "Lloyd W. Klein",
+            "Binita Shah",
+            "Roxana Mehran",
+            "Michael J. Mack",
+            "Emmanouil S. Brilakis",
+            "John P. Reilly",
+            "Gilbert Zoghbi",
+            "Elizabeth Holper",
+            "Gregg W. Stone"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 53
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

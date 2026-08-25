@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://chemistry.illinois.edu/agewirth",
+        "snippet": "Andrew A. Gewirth. Andrew A. Gewirth. Contact ... High entropy perovskite electrocatalyst with optimal orthorhombicity for oxygen evolution reaction.",
+        "category": "Publication",
+        "relevance_score": 100,
+        "reasoning": "The snippet appears to be a research publication abstract, likely from a university's chemistry department website."
+    },
+    {
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.7b00335",
+        "snippet": "How Ligand Protonation and Hydrogen Bonding Govern Oxygen Reduction Reaction Selectivity by a Dinuclear Copper Catalyst: Insights from DFT ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL points to an academic publication on the ACS website, indicating a scientific article."
+    },
+    {
+        "url": "https://research.com/u/andrew-a-gewirth",
+        "snippet": "... copper in plating baths: A surface-enhanced Raman study. Z. Vivian Feng;Xiao Li;Andrew A. Gewirth. 358. Citations. Poisoning the Oxygen Reduction Reaction on ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet describes a research study with authors listed and citations, suggesting a publication result from a search of an academic database or platform."
+    },
+    {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19035597/",
+        "snippet": "Oxygen reduction activity of a copper complex of 3 ... Andrew A Gewirth. Affiliation. 1 Department of Chemistry, University of ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL points to a PubMed publication with an article title, author, and affiliation information."
+    },
+    {
+        "url": "https://www.researchgate.net/profile/Andrew-Gewirth-2",
+        "snippet": "We report the oxygen reduction reaction (ORR) activity in acid of an Fe ... (Invited) Nanostructured Copper and Copper Alloys for CO2 Reduction. Article.",
+        "category": "Publication",
+        "relevance_score": 92,
+        "reasoning": "The snippet refers to an article on ResearchGate, a platform for academics to share research papers and articles."
+    },
+    {
+        "url": "https://experts.illinois.edu/en/persons/andrew-a-gewirth/",
+        "snippet": "Professor Andrew A. Gewirth received his A.B. from Princeton University in 1981 and his Ph.D. from Stanford University in 1987.",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The snippet appears to be a biographical summary, likely from an academic publication or directory."
+    },
+    {
+        "url": "https://scispace.com/authors/andrew-a-gewirth-2k6m5dp11s?papers_page=50",
+        "snippet": "Andrew A. Gewirth is an academic researcher from University of Illinois at Urbana–Champaign. The author has contributed to research in topics: Chemistry ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "Author's publication list is accessible through the provided link."
+    },
+    {
+        "url": "https://electrochemistry.uoregon.edu/annual-conference/2024-annual-conference/program/",
+        "snippet": "Keynote Speaker: Chris Reynolds. VP of R&D Form Energy Inc. WIL 100. 6:20 pm, Keynote Speaker: Prof. Andrew A. Gewirth. University of Illinois, Urbana-Champagne.",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The snippet appears to be a program for an upcoming conference, which is related to the field of electrochemistry."
+    }
+]

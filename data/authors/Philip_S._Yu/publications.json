@@ -1,0 +1,3577 @@
+[
+    {
+        "doi": "https://doi.org/10.1007/s10115-007-0114-2",
+        "title": "Top 10 algorithms in data mining",
+        "journal": "Knowledge and Information Systems",
+        "year": 2007,
+        "citations": 5700,
+        "authors": "Xindong Wu, Vipin Kumar, J. R. Quinlan et al.",
+        "authors_list": [
+            "Xindong Wu",
+            "Vipin Kumar",
+            "J. R. Quinlan",
+            "Joydeep Ghosh",
+            "Qiang Yang",
+            "Hiroshi Motoda",
+            "Geoffrey J. McLachlan",
+            "Shu‐Kay Ng",
+            "Bing Liu",
+            "Philip S. Yu",
+            "Zhi‐Hua Zhou",
+            "Michael Steinbach",
+            "David J. Hand",
+            "Dan Steinberg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 5700,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3308558.3313562",
+        "title": "Heterogeneous Graph Attention Network",
+        "journal": "",
+        "year": 2019,
+        "citations": 2929,
+        "authors": "Xiao Wang, Houye Ji, Chuan Shi et al.",
+        "authors_list": [
+            "Xiao Wang",
+            "Houye Ji",
+            "Chuan Shi",
+            "Bai Wang",
+            "Yanfang Ye",
+            "Peng Cui",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2929,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1145/3308558.3313562"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tnnls.2021.3070843",
+        "title": "A Survey on Knowledge Graphs: Representation, Acquisition, and Applications",
+        "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+        "year": 2021,
+        "citations": 2775,
+        "authors": "Shaoxiong Ji, Shirui Pan, Erik Cambria et al.",
+        "authors_list": [
+            "Shaoxiong Ji",
+            "Shirui Pan",
+            "Erik Cambria",
+            "Pekka Marttinen",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2775,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/2002.00388"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3641289",
+        "title": "A Survey on Evaluation of Large Language Models",
+        "journal": "ACM Transactions on Intelligent Systems and Technology",
+        "year": 2024,
+        "citations": 2672,
+        "authors": "Yupeng Chang, Xu Wang, Jindong Wang et al.",
+        "authors_list": [
+            "Yupeng Chang",
+            "Xu Wang",
+            "Jindong Wang",
+            "Yuan Wu",
+            "Linyi Yang",
+            "Kaijie Zhu",
+            "Hao Chen",
+            "Xiaoyuan Yi",
+            "Cunxiang Wang",
+            "Yidong Wang",
+            "Wei Ye",
+            "Yue Zhang",
+            "Yi Chang",
+            "Philip S. Yu",
+            "Qiang Yang",
+            "Xing Xie"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 2608,
+            "crossref": 2672
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/69.553155",
+        "title": "Data mining: an overview from a database perspective",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 1996,
+        "citations": 2237,
+        "authors": "Ming-Syan Chen⋆, Jiawei Han, Philip S. Yu",
+        "authors_list": [
+            "Ming-Syan Chen⋆",
+            "Jiawei Han",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2237,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/iccv.2013.274",
+        "title": "Transfer Feature Learning with Joint Distribution Adaptation",
+        "journal": "",
+        "year": 2013,
+        "citations": 2025,
+        "authors": "Mingsheng Long, Jianmin Wang, Guiguang Ding et al.",
+        "authors_list": [
+            "Mingsheng Long",
+            "Jianmin Wang",
+            "Guiguang Ding",
+            "Jiaguang Sun",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2025,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.14778/3402707.3402736",
+        "title": "PathSim",
+        "journal": "Proceedings of the VLDB Endowment",
+        "year": 2011,
+        "citations": 1902,
+        "authors": "Yizhou Sun, Jiawei Han, Xifeng Yan et al.",
+        "authors_list": [
+            "Yizhou Sun",
+            "Jiawei Han",
+            "Xifeng Yan",
+            "Philip S. Yu",
+            "Tianyi Wu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1902,
+            "crossref": 1459
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/b978-012722442-8/50016-1",
+        "title": "A Framework for Clustering Evolving Data Streams",
+        "journal": "Elsevier eBooks",
+        "year": 2003,
+        "citations": 1799,
+        "authors": "Charų C. Aggarwal, Philip S. Yu, Jiawei Han et al.",
+        "authors_list": [
+            "Charų C. Aggarwal",
+            "Philip S. Yu",
+            "Jiawei Han",
+            "Jianyong Wang"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1799,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1749603.1749605",
+        "title": "Privacy-preserving data publishing",
+        "journal": "ACM Computing Surveys",
+        "year": 2010,
+        "citations": 1645,
+        "authors": "Benjamin C. M. Fung, Ke Wang, Rui Chen et al.",
+        "authors_list": [
+            "Benjamin C. M. Fung",
+            "Ke Wang",
+            "Rui Chen",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1645,
+            "crossref": 1213
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://summit.sfu.ca/_flysystem/fedora/sfu_migrate/8060/etd2942.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/bioinformatics/btm087",
+        "title": "A new method to measure the semantic similarity of GO terms",
+        "journal": "Bioinformatics",
+        "year": 2007,
+        "citations": 1461,
+        "authors": "James Z. Wang, Zhidian Du, Rapeeporn Payattakool et al.",
+        "authors_list": [
+            "James Z. Wang",
+            "Zhidian Du",
+            "Rapeeporn Payattakool",
+            "Philip S. Yu",
+            "Chin‐Fu Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1461,
+            "crossref": 1134
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/bioinformatics/article-pdf/23/10/1274/49812526/bioinformatics_23_10_1274.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/223784.223813",
+        "title": "An effective hash-based algorithm for mining association rules",
+        "journal": "",
+        "year": 1995,
+        "citations": 1412,
+        "authors": "Jong Soo Park, Ming-Syan Chen⋆, Philip S. Yu",
+        "authors_list": [
+            "Jong Soo Park",
+            "Ming-Syan Chen⋆",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1412,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/223784.223813"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1341531.1341561",
+        "title": "A holistic lexicon-based approach to opinion mining",
+        "journal": "",
+        "year": 2008,
+        "citations": 1393,
+        "authors": "Xiaowen Ding, Bing Liu, Philip S. Yu",
+        "authors_list": [
+            "Xiaowen Ding",
+            "Bing Liu",
+            "Philip S. Yu"
+        ],
+        "type": "conference-abstract",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1393,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/956750.956778",
+        "title": "Mining concept-drifting data streams using ensemble classifiers",
+        "journal": "",
+        "year": 2003,
+        "citations": 1268,
+        "authors": "Haixun Wang, Wei Fan, Philip S. Yu et al.",
+        "authors_list": [
+            "Haixun Wang",
+            "Wei Fan",
+            "Philip S. Yu",
+            "Jiawei Han"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1268,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tkde.2018.2833443",
+        "title": "Heterogeneous Information Network Embedding for Recommendation",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2018,
+        "citations": 1233,
+        "authors": "Chuan Shi, Binbin Hu, Wayne Xin Zhao et al.",
+        "authors_list": [
+            "Chuan Shi",
+            "Binbin Hu",
+            "Wayne Xin Zhao",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1233,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tkde.2016.2598561",
+        "title": "A survey of heterogeneous information network analysis",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2016,
+        "citations": 1129,
+        "authors": "Chuan Shi, Yitong Li, Jiawei Zhang et al.",
+        "authors_list": [
+            "Chuan Shi",
+            "Yitong Li",
+            "Jiawei Zhang",
+            "Yizhou Sun",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1129,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/375663.375668",
+        "title": "Outlier detection for high dimensional data",
+        "journal": "",
+        "year": 2001,
+        "citations": 1038,
+        "authors": "Charų C. Aggarwal, Philip S. Yu",
+        "authors_list": [
+            "Charų C. Aggarwal",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1038,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3018661.3018665",
+        "title": "Joint Deep Modeling of Users and Items Using Reviews for Recommendation",
+        "journal": "",
+        "year": 2017,
+        "citations": 1032,
+        "authors": "Lei Zheng, Vahid Noroozi, Philip S. Yu",
+        "authors_list": [
+            "Lei Zheng",
+            "Vahid Noroozi",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1032,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://dl.acm.org/ft_gateway.cfm?id=3018665&type=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tkde.2022.3178128",
+        "title": "Generalizing to Unseen Domains: A Survey on Domain Generalization",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2022,
+        "citations": 932,
+        "authors": "Jindong Wang, Cuiling Lan, Chang Liu et al.",
+        "authors_list": [
+            "Jindong Wang",
+            "Cuiling Lan",
+            "Chang Liu",
+            "Yidong Ouyang",
+            "Tao Qin",
+            "Lu Wang",
+            "Yiqiang Chen",
+            "Wenjun Zeng",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 932,
+            "crossref": 721
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/304181.304188",
+        "title": "Fast algorithms for projected clustering",
+        "journal": "ACM SIGMOD Record",
+        "year": 1999,
+        "citations": 904,
+        "authors": "Charų C. Aggarwal, Joel L. Wolf, Philip S. Yu et al.",
+        "authors_list": [
+            "Charų C. Aggarwal",
+            "Joel L. Wolf",
+            "Philip S. Yu",
+            "Cecilia M. Procopiuc",
+            "Jong Soo Park"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 904,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/304181.304188"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tkde.2020.3025580",
+        "title": "Deep Learning for Spatio-Temporal Data Mining: A Survey",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2020,
+        "citations": 784,
+        "authors": "Senzhang Wang, Jiannong Cao, Philip S. Yu",
+        "authors_list": [
+            "Senzhang Wang",
+            "Jiannong Cao",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 784,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/cvpr.2014.183",
+        "title": "Transfer Joint Matching for Unsupervised Domain Adaptation",
+        "journal": "",
+        "year": 2014,
+        "citations": 754,
+        "authors": "Mingsheng Long, Jianmin Wang, Guiguang Ding et al.",
+        "authors_list": [
+            "Mingsheng Long",
+            "Jianmin Wang",
+            "Guiguang Ding",
+            "Jiaguang Sun",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 754,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/iccv.2017.598",
+        "title": "HashNet: Deep Learning to Hash by Continuation",
+        "journal": "",
+        "year": 2017,
+        "citations": 722,
+        "authors": "Zhangjie Cao, Mingsheng Long, Jianmin Wang et al.",
+        "authors_list": [
+            "Zhangjie Cao",
+            "Mingsheng Long",
+            "Jianmin Wang",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 722,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3219819.3219965",
+        "title": "Leveraging Meta-path based Context for Top- N Recommendation with A Neural Co-Attention Model",
+        "journal": "",
+        "year": 2018,
+        "citations": 699,
+        "authors": "Binbin Hu, Chuan Shi, Wayne Xin Zhao et al.",
+        "authors_list": [
+            "Binbin Hu",
+            "Chuan Shi",
+            "Wayne Xin Zhao",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 699,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icdm.2003.1250918",
+        "title": "Building text classifiers using positive and unlabeled examples",
+        "journal": "",
+        "year": 2004,
+        "citations": 678,
+        "authors": "B. Liu, Y. Dai, Xiaoli Li et al.",
+        "authors_list": [
+            "B. Liu",
+            "Y. Dai",
+            "Xiaoli Li",
+            "W.S. Lee",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 678,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tkde.2007.190745",
+        "title": "Truth Discovery with Multiple Conflicting Information Providers on the Web",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2008,
+        "citations": 669,
+        "authors": "Xiaoxin Yin, Jiawei Han, Philip S. Yu",
+        "authors_list": [
+            "Xiaoxin Yin",
+            "Jiawei Han",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 669,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3240508.3240512",
+        "title": "Visual Domain Adaptation with Manifold Embedded Distribution Alignment",
+        "journal": "",
+        "year": 2018,
+        "citations": 660,
+        "authors": "Jindong Wang, Wenjie Feng, Yiqiang Chen et al.",
+        "authors_list": [
+            "Jindong Wang",
+            "Wenjie Feng",
+            "Yiqiang Chen",
+            "Han Yu",
+            "Meiyu Huang",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 660,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3240508.3240512"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1007568.1007607",
+        "title": "Graph indexing",
+        "journal": "",
+        "year": 2004,
+        "citations": 643,
+        "authors": "Xifeng Yan, Philip S. Yu, Jiawei Han",
+        "authors_list": [
+            "Xifeng Yan",
+            "Philip S. Yu",
+            "Jiawei Han"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 643,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tkde.2013.111",
+        "title": "Adaptation Regularization: A General Framework for Transfer Learning",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2013,
+        "citations": 631,
+        "authors": "Mingsheng Long, Jianmin Wang, Guiguang Ding et al.",
+        "authors_list": [
+            "Mingsheng Long",
+            "Jianmin Wang",
+            "Guiguang Ding",
+            "Sinno Jialin Pan",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 631,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "PredRNN: recurrent neural networks for predictive learning using spatiotemporal LSTMs",
+        "journal": "Neural Information Processing Systems",
+        "year": 2017,
+        "citations": 609,
+        "authors": "Yunbo Wang, Mingsheng Long, Jianmin Wang et al.",
+        "authors_list": [
+            "Yunbo Wang",
+            "Mingsheng Long",
+            "Jianmin Wang",
+            "Zhifeng Gao",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 609,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tpami.2022.3165153",
+        "title": "PredRNN: A Recurrent Neural Network for Spatiotemporal Predictive Learning",
+        "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 2022,
+        "citations": 604,
+        "authors": "Yunbo Wang, Haixu Wu, Jianjin Zhang et al.",
+        "authors_list": [
+            "Yunbo Wang",
+            "Haixu Wu",
+            "Jianjin Zhang",
+            "Zhifeng Gao",
+            "Jianmin Wang",
+            "Philip S. Yu",
+            "Mingsheng Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 604,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3340531.3411903",
+        "title": "Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters",
+        "journal": "",
+        "year": 2020,
+        "citations": 579,
+        "authors": "Yingtong Dou, Zhiwei Liu, Li Sun et al.",
+        "authors_list": [
+            "Yingtong Dou",
+            "Zhiwei Liu",
+            "Li Sun",
+            "Yutong Deng",
+            "Hao Peng",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 579,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/2008.08692"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icde.2005.143",
+        "title": "Top-Down Specialization for Information and Privacy Preservation",
+        "journal": "",
+        "year": 2005,
+        "citations": 577,
+        "authors": "Benjamin C. M. Fung, Ke Wang, Philip S. Yu",
+        "authors_list": [
+            "Benjamin C. M. Fung",
+            "Ke Wang",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 577,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tkde.2012.59",
+        "title": "Efficient Algorithms for Mining High Utility Itemsets from Transactional Databases",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2012,
+        "citations": 572,
+        "authors": "Vincent S. Tseng, Bai-En Shie, Chengwei Wu et al.",
+        "authors_list": [
+            "Vincent S. Tseng",
+            "Bai-En Shie",
+            "Chengwei Wu",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 572,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/4236.769420",
+        "title": "Dynamic load balancing on Web-server systems",
+        "journal": "IEEE Internet Computing",
+        "year": 1999,
+        "citations": 559,
+        "authors": "Valeria Cardellini, Michele Colajanni, Philip S. Yu",
+        "authors_list": [
+            "Valeria Cardellini",
+            "Michele Colajanni",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 559,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://hdl.handle.net/11380/768916"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1281192.1281266",
+        "title": "GraphScope",
+        "journal": "",
+        "year": 2007,
+        "citations": 546,
+        "authors": "Jimeng Sun, Christos Faloutsos, Spiros Papadimitriou et al.",
+        "authors_list": [
+            "Jimeng Sun",
+            "Christos Faloutsos",
+            "Spiros Papadimitriou",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 546,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1247480.1247516",
+        "title": "BLINKS",
+        "journal": "",
+        "year": 2007,
+        "citations": 545,
+        "authors": "Hao He, Haixun Wang, Jun Yang et al.",
+        "authors_list": [
+            "Hao He",
+            "Haixun Wang",
+            "Jun Yang",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 545,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tap.2018.2874430",
+        "title": "Direction-of-Arrival Estimation Based on Deep Neural Networks With Robustness to Array Imperfections",
+        "journal": "IEEE Transactions on Antennas and Propagation",
+        "year": 2018,
+        "citations": 543,
+        "authors": "Zhangmeng Liu, Chenwei Zhang, Philip S. Yu",
+        "authors_list": [
+            "Zhangmeng Liu",
+            "Chenwei Zhang",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 543,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ieeexplore.ieee.org/ielx7/8/8552699/08485631.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/69.683753",
+        "title": "Efficient data mining for path traversal patterns",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 1998,
+        "citations": 542,
+        "authors": "Ming-Syan Chen⋆, Jong Soo Park, Philip S. Yu",
+        "authors_list": [
+            "Ming-Syan Chen⋆",
+            "Jong Soo Park",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 542,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/335191.335383",
+        "title": "Finding generalized projected clusters in high dimensional spaces",
+        "journal": "ACM SIGMOD Record",
+        "year": 2000,
+        "citations": 532,
+        "authors": "Charų C. Aggarwal, Philip S. Yu",
+        "authors_list": [
+            "Charų C. Aggarwal",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 532,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Partially Supervised Classification of Text Documents",
+        "journal": "",
+        "year": 2002,
+        "citations": 517,
+        "authors": "Bing Liu, Wee Sun Lee, Philip S. Yu et al.",
+        "authors_list": [
+            "Bing Liu",
+            "Wee Sun Lee",
+            "Philip S. Yu",
+            "Xiaoli Li"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 517,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1341531.1341559",
+        "title": "Identifying the influential bloggers in a community",
+        "journal": "",
+        "year": 2008,
+        "citations": 512,
+        "authors": "Nitin Agarwal, Huan Liu, Lei Tang et al.",
+        "authors_list": [
+            "Nitin Agarwal",
+            "Huan Liu",
+            "Lei Tang",
+            "Philip S. Yu"
+        ],
+        "type": "conference-abstract",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 512,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-0-387-70992-5",
+        "title": "Privacy-Preserving Data Mining: Models and Algorithms",
+        "journal": "",
+        "year": 2008,
+        "citations": 510,
+        "authors": "Charų C. Aggarwal, Philip S. Yu",
+        "authors_list": [
+            "Charų C. Aggarwal",
+            "Philip S. Yu"
+        ],
+        "type": "other",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 510,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tkde.2022.3172903",
+        "title": "Graph Self-Supervised Learning: A Survey",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2022,
+        "citations": 504,
+        "authors": "Yixin Liu, Ming Jin, Shirui Pan et al.",
+        "authors_list": [
+            "Yixin Liu",
+            "Ming Jin",
+            "Shirui Pan",
+            "Chuan Zhou",
+            "Yu Zheng",
+            "Feng Xia",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 504,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/2103.00111"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3523273",
+        "title": "Membership Inference Attacks on Machine Learning: A Survey",
+        "journal": "ACM Computing Surveys",
+        "year": 2022,
+        "citations": 502,
+        "authors": "Hongsheng Hu, Zoran Salčić, Lichao Sun et al.",
+        "authors_list": [
+            "Hongsheng Hu",
+            "Zoran Salčić",
+            "Lichao Sun",
+            "Gillian Dobbie",
+            "Philip S. Yu",
+            "Xuyun Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 502,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3523273"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Mining Frequent Patterns in Data Streams at Multiple Time Granularities",
+        "journal": "",
+        "year": 2002,
+        "citations": 501,
+        "authors": "Chris Giannella, Jiawei Han, Xifeng Yan et al.",
+        "authors_list": [
+            "Chris Giannella",
+            "Jiawei Han",
+            "Xifeng Yan",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 501,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/b978-012088469-8.50075-9",
+        "title": "A Framework for Projected Clustering of High Dimensional Data Streams",
+        "journal": "Elsevier eBooks",
+        "year": 2004,
+        "citations": 493,
+        "authors": "Charų C. Aggarwal, Jiawei Han, Jianyong Wang et al.",
+        "authors_list": [
+            "Charų C. Aggarwal",
+            "Jiawei Han",
+            "Jianyong Wang",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 493,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/568271.223813",
+        "title": "An effective hash-based algorithm for mining association rules",
+        "journal": "ACM SIGMOD Record",
+        "year": 1995,
+        "citations": 487,
+        "authors": "Jong Soo Park, Ming-Syan Chen⋆, Philip S. Yu",
+        "authors_list": [
+            "Jong Soo Park",
+            "Ming-Syan Chen⋆",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 487,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/568271.223813"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/564691.564737",
+        "title": "Clustering by pattern similarity in large data sets",
+        "journal": "",
+        "year": 2002,
+        "citations": 484,
+        "authors": "Haixun Wang, Wei Wang, Jiong Yang et al.",
+        "authors_list": [
+            "Haixun Wang",
+            "Wei Wang",
+            "Jiong Yang",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 484,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/304182.304188",
+        "title": "Fast algorithms for projected clustering",
+        "journal": "",
+        "year": 1999,
+        "citations": 483,
+        "authors": "Charų C. Aggarwal, Joel L. Wolf, Philip S. Yu et al.",
+        "authors_list": [
+            "Charų C. Aggarwal",
+            "Joel L. Wolf",
+            "Philip S. Yu",
+            "Cecilia M. Procopiuc",
+            "Jong Soo Park"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 483,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/304182.304188"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3495162",
+        "title": "A Survey on Text Classification: From Traditional to Deep Learning",
+        "journal": "ACM Transactions on Intelligent Systems and Technology",
+        "year": 2022,
+        "citations": 476,
+        "authors": "Qian Li, Hao Peng, Jianxin Li et al.",
+        "authors_list": [
+            "Qian Li",
+            "Hao Peng",
+            "Jianxin Li",
+            "Congying Xia",
+            "Renyu Yang",
+            "Lichao Sun",
+            "Philip S. Yu",
+            "Lifang He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 476,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tnnls.2022.3216981",
+        "title": "Privacy and Robustness in Federated Learning: Attacks and Defenses",
+        "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+        "year": 2022,
+        "citations": 473,
+        "authors": "Lingjuan Lyu, Han Yu, Xingjun Ma et al.",
+        "authors_list": [
+            "Lingjuan Lyu",
+            "Han Yu",
+            "Xingjun Ma",
+            "Chen Chen",
+            "Lichao Sun",
+            "Jun Zhao",
+            "Qiang Yang",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 473,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tkde.2008.190",
+        "title": "A Survey of Uncertain Data Algorithms and Applications",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2008,
+        "citations": 471,
+        "authors": "Charų C. Aggarwal, Philip S. Yu",
+        "authors_list": [
+            "Charų C. Aggarwal",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 471,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-0-387-70992-5_2",
+        "title": "A General Survey of Privacy-Preserving Data Mining Models and Algorithms",
+        "journal": "The Kluwer international series on advances in database systems",
+        "year": 2008,
+        "citations": 470,
+        "authors": "Charų C. Aggarwal, Philip S. Yu",
+        "authors_list": [
+            "Charų C. Aggarwal",
+            "Philip S. Yu"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 470,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/cvpr.2019.00937",
+        "title": "Memory in Memory: A Predictive Neural Network for Learning Higher-Order Non-Stationarity From Spatiotemporal Dynamics",
+        "journal": "",
+        "year": 2019,
+        "citations": 466,
+        "authors": "Yunbo Wang, Jianjin Zhang, Hongyu Zhu et al.",
+        "authors_list": [
+            "Yunbo Wang",
+            "Jianjin Zhang",
+            "Hongyu Zhu",
+            "Mingsheng Long",
+            "Jianmin Wang",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 466,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/508352.508355",
+        "title": "The state of the art in locally distributed Web-server systems",
+        "journal": "ACM Computing Surveys",
+        "year": 2002,
+        "citations": 460,
+        "authors": "Valeria Cardellini, Emiliano Casalicchio, Michele Colajanni et al.",
+        "authors_list": [
+            "Valeria Cardellini",
+            "Emiliano Casalicchio",
+            "Michele Colajanni",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 460,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://hdl.handle.net/11380/449889"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1835804.1835839",
+        "title": "UP-Growth",
+        "journal": "",
+        "year": 2010,
+        "citations": 447,
+        "authors": "Vincent S. Tseng, Chengwei Wu, Bai-En Shie et al.",
+        "authors_list": [
+            "Vincent S. Tseng",
+            "Chengwei Wu",
+            "Bai-En Shie",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 447,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2093973.2093982",
+        "title": "Transportation mode detection using mobile phones and GIS information",
+        "journal": "",
+        "year": 2011,
+        "citations": 445,
+        "authors": "Leon Stenneth, Ouri Wolfson, Philip S. Yu et al.",
+        "authors_list": [
+            "Leon Stenneth",
+            "Ouri Wolfson",
+            "Philip S. Yu",
+            "Bo Xu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 445,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/69.634757",
+        "title": "Using a hash-based method with transaction trimming for mining association rules",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 1997,
+        "citations": 444,
+        "authors": "Jong Soo Park, Ming-Syan Chen⋆, Philip S. Yu",
+        "authors_list": [
+            "Jong Soo Park",
+            "Ming-Syan Chen⋆",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 444,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/376284.375668",
+        "title": "Outlier detection for high dimensional data",
+        "journal": "ACM SIGMOD Record",
+        "year": 2001,
+        "citations": 436,
+        "authors": "Charų C. Aggarwal, Philip S. Yu",
+        "authors_list": [
+            "Charų C. Aggarwal",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 436,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1150402.1150522",
+        "title": "GPLAG",
+        "journal": "",
+        "year": 2006,
+        "citations": 425,
+        "authors": "Chao Liu, Chen Chen, Jiawei Han et al.",
+        "authors_list": [
+            "Chao Liu",
+            "Chen Chen",
+            "Jiawei Han",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 425,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1376616.1376729",
+        "title": "SPADE",
+        "journal": "",
+        "year": 2008,
+        "citations": 423,
+        "authors": "Buğra Gedik, Henrique Andrade, Kun‐Lung Wu et al.",
+        "authors_list": [
+            "Buğra Gedik",
+            "Henrique Andrade",
+            "Kun‐Lung Wu",
+            "Philip S. Yu",
+            "Myungcheol Doo"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 423,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.18653/v1/p18-2094",
+        "title": "Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction",
+        "journal": "",
+        "year": 2018,
+        "citations": 420,
+        "authors": "Hu Xu, Bing Liu, Lei Shu et al.",
+        "authors_list": [
+            "Hu Xu",
+            "Bing Liu",
+            "Lei Shu",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 420,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.aclweb.org/anthology/P18-2094.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3238147.3238206",
+        "title": "Improving automatic source code summarization via deep reinforcement learning",
+        "journal": "",
+        "year": 2018,
+        "citations": 412,
+        "authors": "Yao Wan, Zhou Zhao, Min Yang et al.",
+        "authors_list": [
+            "Yao Wan",
+            "Zhou Zhao",
+            "Min Yang",
+            "Guandong Xu",
+            "Haochao Ying",
+            "Jian Wu",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 412,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://opus.lib.uts.edu.au/bitstream/10453/126042/4/OCC-121665_AM.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.48550/arxiv.2303.04226",
+        "title": "A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT",
+        "journal": "arXiv (Cornell University)",
+        "year": 2023,
+        "citations": 407,
+        "authors": "Yihan Cao, Siyu Li, Yixin Liu et al.",
+        "authors_list": [
+            "Yihan Cao",
+            "Siyu Li",
+            "Yixin Liu",
+            "Zhiling Yan",
+            "Yutong Dai",
+            "Philip S. Yu",
+            "Lichao Sun"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 407,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2339530.2339662",
+        "title": "Review spam detection via temporal pattern discovery",
+        "journal": "",
+        "year": 2012,
+        "citations": 403,
+        "authors": "Sihong Xie, Guan Wang, Shuyang Lin et al.",
+        "authors_list": [
+            "Sihong Xie",
+            "Guan Wang",
+            "Shuyang Lin",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 403,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/956755.956778",
+        "title": "Mining concept-drifting data streams using ensemble classifiers",
+        "journal": "",
+        "year": 2003,
+        "citations": 396,
+        "authors": "Haixun Wang, Wei Fan, Philip S. Yu et al.",
+        "authors_list": [
+            "Haixun Wang",
+            "Wei Fan",
+            "Philip S. Yu",
+            "Jiawei Han"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 396,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tbdata.2022.3177455",
+        "title": "A Survey on Heterogeneous Graph Embedding: Methods, Techniques, Applications and Sources",
+        "journal": "IEEE Transactions on Big Data",
+        "year": 2022,
+        "citations": 391,
+        "authors": "Xiao Wang, Deyu Bo, Chuan Shi et al.",
+        "authors_list": [
+            "Xiao Wang",
+            "Deyu Bo",
+            "Chuan Shi",
+            "Shaohua Fan",
+            "Yanfang Ye",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 391,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/312129.312230",
+        "title": "Horting hatches an egg",
+        "journal": "",
+        "year": 1999,
+        "citations": 388,
+        "authors": "Charų C. Aggarwal, Joel L. Wolf, Kun‐Lung Wu et al.",
+        "authors_list": [
+            "Charų C. Aggarwal",
+            "Joel L. Wolf",
+            "Kun‐Lung Wu",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 388,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icdm.2011.124",
+        "title": "Review Graph Based Online Store Review Spammer Detection",
+        "journal": "",
+        "year": 2011,
+        "citations": 383,
+        "authors": "Guan Wang, Sihong Xie, Bing Liu et al.",
+        "authors_list": [
+            "Guan Wang",
+            "Sihong Xie",
+            "Bing Liu",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 383,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s13042-024-02443-6",
+        "title": "A comprehensive survey on pretrained foundation models: a history from BERT to ChatGPT",
+        "journal": "International Journal of Machine Learning and Cybernetics",
+        "year": 2024,
+        "citations": 382,
+        "authors": "Ce Zhou, Qian Li, Chen Li et al.",
+        "authors_list": [
+            "Ce Zhou",
+            "Qian Li",
+            "Chen Li",
+            "Jun Yu",
+            "Yixin Liu",
+            "Guangjing Wang",
+            "Kai Zhang",
+            "Cheng Ji",
+            "Qiben Yan",
+            "Lifang He",
+            "Hao Peng",
+            "Jianxin Li",
+            "Jia Wu",
+            "Ziwei Liu",
+            "Pengtao Xie",
+            "Caiming Xiong",
+            "Jian Pei",
+            "Philip S. Yu",
+            "Lichao Sun"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 382,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2505515.2505531",
+        "title": "Inferring anchor links across multiple heterogeneous social networks",
+        "journal": "",
+        "year": 2013,
+        "citations": 372,
+        "authors": "Xiangnan Kong, Jiawei Zhang, Philip S. Yu",
+        "authors_list": [
+            "Xiangnan Kong",
+            "Jiawei Zhang",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 372,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-540-24741-8_12",
+        "title": "A Condensation Approach to Privacy Preserving Data Mining",
+        "journal": "Lecture notes in computer science",
+        "year": 2004,
+        "citations": 369,
+        "authors": "Charų C. Aggarwal, Philip S. Yu",
+        "authors_list": [
+            "Charų C. Aggarwal",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 369,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.48550/arxiv.1904.02232",
+        "title": "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis",
+        "journal": "arXiv (Cornell University)",
+        "year": 2019,
+        "citations": 360,
+        "authors": "Hu Xu, Bing Liu, Lei Shu et al.",
+        "authors_list": [
+            "Hu Xu",
+            "Bing Liu",
+            "Lei Shu",
+            "Philip S. Yu"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 360,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/69.755618",
+        "title": "Caching on the World Wide Web",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 1999,
+        "citations": 352,
+        "authors": "Charų C. Aggarwal, Joel L. Wolf, Philip S. Yu",
+        "authors_list": [
+            "Charų C. Aggarwal",
+            "Joel L. Wolf",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 352,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tkde.2013.2297920",
+        "title": "HeteSim: A General Framework for Relevance Measure in Heterogeneous Networks",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2014,
+        "citations": 350,
+        "authors": "Chuan Shi, Xiangnan Kong, Yue Huang et al.",
+        "authors_list": [
+            "Chuan Shi",
+            "Xiangnan Kong",
+            "Yue Huang",
+            "Philip S. Yu",
+            "Bin Wu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 350,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tkde.2007.1015",
+        "title": "Anonymizing Classification Data for Privacy Preservation",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2007,
+        "citations": 348,
+        "authors": "Benjamin C. M. Fung, Ke Wang, Philip S. Yu",
+        "authors_list": [
+            "Benjamin C. M. Fung",
+            "Ke Wang",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 348,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tkde.2017.2697856",
+        "title": "Differentially Private Data Publishing and Analysis: A Survey",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2017,
+        "citations": 339,
+        "authors": "Tianqing Zhu, Gang Li, Wanlei Zhou et al.",
+        "authors_list": [
+            "Tianqing Zhu",
+            "Gang Li",
+            "Wanlei Zhou",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 339,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://figshare.com/articles/journal_contribution/Differentially_private_data_publishing_and_analysis_a_survey/20835385"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ins.2020.01.043",
+        "title": "Spatial temporal incidence dynamic graph neural networks for traffic flow forecasting",
+        "journal": "Information Sciences",
+        "year": 2020,
+        "citations": 338,
+        "authors": "Hao Peng, Hongfei Wang, Bowen Du et al.",
+        "authors_list": [
+            "Hao Peng",
+            "Hongfei Wang",
+            "Bowen Du",
+            "Md Zakirul Alam Bhuiyan",
+            "Hongyuan Ma",
+            "Jianwei Liu",
+            "Lihong Wang",
+            "Zeyu Yang",
+            "Linfeng Du",
+            "Senzhang Wang",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 338,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2020408.2020487",
+        "title": "Differentially private data release for data mining",
+        "journal": "",
+        "year": 2011,
+        "citations": 335,
+        "authors": "Noman Mohammed, Rui Chen, Benjamin C. M. Fung et al.",
+        "authors_list": [
+            "Noman Mohammed",
+            "Rui Chen",
+            "Benjamin C. M. Fung",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 335,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icdcs.1996.507986",
+        "title": "Data mining for path traversal patterns in a web environment",
+        "journal": "",
+        "year": 2002,
+        "citations": 331,
+        "authors": "Ming-Syan Chen⋆, Jong Soo Park, Philip S. Yu",
+        "authors_list": [
+            "Ming-Syan Chen⋆",
+            "Jong Soo Park",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 331,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1066157.1066244",
+        "title": "Substructure similarity search in graph databases",
+        "journal": "",
+        "year": 2005,
+        "citations": 318,
+        "authors": "Xifeng Yan, Philip S. Yu, Jiawei Han",
+        "authors_list": [
+            "Xifeng Yan",
+            "Philip S. Yu",
+            "Jiawei Han"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 318,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.48550/arxiv.1804.06300",
+        "title": "PredRNN++: Towards A Resolution of the Deep-in-Time Dilemma in Spatiotemporal Predictive Learning",
+        "journal": "arXiv (Cornell University)",
+        "year": 2018,
+        "citations": 317,
+        "authors": "Yunbo Wang, Zhifeng Gao, Mingsheng Long et al.",
+        "authors_list": [
+            "Yunbo Wang",
+            "Zhifeng Gao",
+            "Mingsheng Long",
+            "Jianmin Wang",
+            "Philip S. Yu"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 317,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icdm.2004.10110",
+        "title": "Bottom-Up Generalization: A Data Mining Solution to Privacy Protection",
+        "journal": "",
+        "year": 2005,
+        "citations": 314,
+        "authors": "Ke Wang, Philip S. Yu, Saptarshi Chakraborty",
+        "authors_list": [
+            "Ke Wang",
+            "Philip S. Yu",
+            "Saptarshi Chakraborty"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 314,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.18653/v1/n19-1242",
+        "title": "Untitled",
+        "journal": "",
+        "year": 2019,
+        "citations": 314,
+        "authors": "Hu Xu, Bing Liu, Lei Shu et al.",
+        "authors_list": [
+            "Hu Xu",
+            "Bing Liu",
+            "Lei Shu",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 314,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.18653/v1/n19-1242"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icde.2002.994771",
+        "title": "δ-clusters: capturing subspace correlation in a large data set",
+        "journal": "",
+        "year": 2003,
+        "citations": 301,
+        "authors": "Jiong Yang, Wei Wang, Haixun Wang et al.",
+        "authors_list": [
+            "Jiong Yang",
+            "Wei Wang",
+            "Haixun Wang",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 301,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/bibe.2003.1188969",
+        "title": "Enhanced biclustering on expression data",
+        "journal": "",
+        "year": 2003,
+        "citations": 300,
+        "authors": "Jiong Yang, Haixun Wang, Wei Wang et al.",
+        "authors_list": [
+            "Jiong Yang",
+            "Haixun Wang",
+            "Wei Wang",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 300,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2806416.2806528",
+        "title": "Semantic Path based Personalized Recommendation on Weighted Heterogeneous Information Networks",
+        "journal": "",
+        "year": 2015,
+        "citations": 299,
+        "authors": "Chuan Shi, Zhiqiang Zhang, Ping Luo et al.",
+        "authors_list": [
+            "Chuan Shi",
+            "Zhiqiang Zhang",
+            "Ping Luo",
+            "Philip S. Yu",
+            "Yading Yue",
+            "Bin Wu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 299,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icdm.2004.10084",
+        "title": "Moment: Maintaining Closed Frequent Itemsets over a Stream Sliding Window",
+        "journal": "",
+        "year": 2005,
+        "citations": 298,
+        "authors": "Yün Chi, Haixun Wang, Philip S. Yu et al.",
+        "authors_list": [
+            "Yün Chi",
+            "Haixun Wang",
+            "Philip S. Yu",
+            "Richard R. Muntz"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 298,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/342009.335383",
+        "title": "Finding generalized projected clusters in high dimensional spaces",
+        "journal": "",
+        "year": 2000,
+        "citations": 293,
+        "authors": "Charų C. Aggarwal, Philip S. Yu",
+        "authors_list": [
+            "Charų C. Aggarwal",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 293,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/342009.335383"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1376616.1376662",
+        "title": "Mining significant graph patterns by leap search",
+        "journal": "",
+        "year": 2008,
+        "citations": 292,
+        "authors": "Xifeng Yan, Hong Cheng, Jiawei Han et al.",
+        "authors_list": [
+            "Xifeng Yan",
+            "Hong Cheng",
+            "Jiawei Han",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 292,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2783258.2783268",
+        "title": "COSNET",
+        "journal": "",
+        "year": 2015,
+        "citations": 292,
+        "authors": "Yutao Zhang, Jie Tang, Zhilin Yang et al.",
+        "authors_list": [
+            "Yutao Zhang",
+            "Jie Tang",
+            "Zhilin Yang",
+            "Jian Pei",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 292,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/872757.872774",
+        "title": "ViST",
+        "journal": "",
+        "year": 2003,
+        "citations": 291,
+        "authors": "Haixun Wang, Sanghyun Park, Wei Fan et al.",
+        "authors_list": [
+            "Haixun Wang",
+            "Sanghyun Park",
+            "Wei Fan",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 291,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tifs.2018.2812146",
+        "title": "&lt;inline-formula&gt; &lt;tex-math notation=\"LaTeX\"&gt;$\\textsf{LoPub}$ &lt;/tex-math&gt; &lt;/inline-formula&gt;: High-Dimensional Crowdsourced Data Publication With Local Differential Privacy",
+        "journal": "IEEE Transactions on Information Forensics and Security",
+        "year": 2018,
+        "citations": 288,
+        "authors": "Xuebin Ren, Chia-Mu Yu, Weiren Yu et al.",
+        "authors_list": [
+            "Xuebin Ren",
+            "Chia-Mu Yu",
+            "Weiren Yu",
+            "Shusen Yang",
+            "Xinyu Yang",
+            "Julie A. McCann",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 288,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1612.04350"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/cvpr.2017.226",
+        "title": "Spatiotemporal Pyramid Network for Video Action Recognition",
+        "journal": "",
+        "year": 2017,
+        "citations": 284,
+        "authors": "Yunbo Wang, Mingsheng Long, Jianmin Wang et al.",
+        "authors_list": [
+            "Yunbo Wang",
+            "Mingsheng Long",
+            "Jianmin Wang",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 284,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-319-23528-8_20",
+        "title": "Multiple Incomplete Views Clustering via Weighted Nonnegative Matrix Factorization with $$L_{2,1}$$ Regularization",
+        "journal": "Lecture notes in computer science",
+        "year": 2015,
+        "citations": 283,
+        "authors": "Weixiang Shao, Lifang He, Philip S. Yu",
+        "authors_list": [
+            "Weixiang Shao",
+            "Lifang He",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 283,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2939672.2939812",
+        "title": "Deep Visual-Semantic Hashing for Cross-Modal Retrieval",
+        "journal": "",
+        "year": 2016,
+        "citations": 268,
+        "authors": "Yue Cao, Mingsheng Long, Jianmin Wang et al.",
+        "authors_list": [
+            "Yue Cao",
+            "Mingsheng Long",
+            "Jianmin Wang",
+            "Qiang Yang",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 268,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://dl.acm.org/ft_gateway.cfm?id=2939812&type=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/cvpr.2019.00089",
+        "title": "Generative Dual Adversarial Network for Generalized Zero-Shot Learning",
+        "journal": "",
+        "year": 2019,
+        "citations": 263,
+        "authors": "He Huang, Changhu Wang, Philip S. Yu et al.",
+        "authors_list": [
+            "He Huang",
+            "Changhu Wang",
+            "Philip S. Yu",
+            "Chang‐Dong Wang"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 263,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tii.2019.2909473",
+        "title": "Distributed Deep Learning Model for Intelligent Video Surveillance Systems with Edge Computing",
+        "journal": "IEEE Transactions on Industrial Informatics",
+        "year": 2019,
+        "citations": 261,
+        "authors": "Jianguo Chen, Kenli Li, Qingying Deng et al.",
+        "authors_list": [
+            "Jianguo Chen",
+            "Kenli Li",
+            "Qingying Deng",
+            "Keqin Li",
+            "Philip S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 261,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1904.06400"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1014052.1014110",
+        "title": "On demand classification of data streams",
+        "journal": "",
+        "year": 2004,
+        "citations": 260,
+        "authors": "Charų C. Aggarwal, Jiawei Han, Jianyong Wang et al.",
+        "authors_list": [
+            "Charų C. Aggarwal",
+            "Jiawei Han",
+            "Jianyong Wang",
+            "Philip S. Yu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 260,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3404835.3462990",
+        "title": "User Preference-aware Fake News Detection",
+        "journal": "",
+        "year": 2021,
+        "citations": 259,
+        "authors": "Yingtong Dou, Kai Shu, Congying Xia et al.",
+        "authors_list": [
+            "Yingtong Dou",
+            "Kai Shu",
+            "Congying Xia",
+            "Philip S. Yu",
+            "Lichao Sun"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 259,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3404835.3462990"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1007/s10115-007-0114-2",
+        "title": "Top 10 algorithms in data mining",
+        "journal": "Knowledge and Information Systems",
+        "year": 2008,
+        "citations": 4171,
+        "authors": "Xindong Wu, Vipin Kumar, J. Ross Quinlan et al.",
+        "authors_list": [
+            "Xindong Wu",
+            "Vipin Kumar",
+            "J. Ross Quinlan",
+            "Joydeep Ghosh",
+            "Qiang Yang",
+            "Hiroshi Motoda",
+            "Geoffrey J. McLachlan",
+            "Angus Ng",
+            "Bing Liu",
+            "Philip S. Yu",
+            "Zhi-Hua Zhou",
+            "Michael Steinbach",
+            "David J. Hand",
+            "Dan Steinberg"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 4171
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/3308558.3313562",
+        "title": "Heterogeneous Graph Attention Network",
+        "journal": "The World Wide Web Conference",
+        "year": 2019,
+        "citations": 2456,
+        "authors": "Xiao Wang, Houye Ji, Chuan Shi et al.",
+        "authors_list": [
+            "Xiao Wang",
+            "Houye Ji",
+            "Chuan Shi",
+            "Bai Wang",
+            "Yanfang Ye",
+            "Peng Cui",
+            "Philip S Yu"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 2456
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1145/3308558.3313562"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/tnnls.2021.3070843",
+        "title": "A Survey on Knowledge Graphs: Representation, Acquisition, and Applications",
+        "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+        "year": 2022,
+        "citations": 2182,
+        "authors": "Shaoxiong Ji, Shirui Pan, Erik Cambria et al.",
+        "authors_list": [
+            "Shaoxiong Ji",
+            "Shirui Pan",
+            "Erik Cambria",
+            "Pekka Marttinen",
+            "Philip S. Yu"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 2182
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/2002.00388"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/69.553155",
+        "title": "Data mining: an overview from a database perspective",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 1996,
+        "citations": 1302,
+        "authors": "P.S. Yu",
+        "authors_list": [
+            "P.S. Yu"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1302
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/iccv.2013.274",
+        "title": "Transfer Feature Learning with Joint Distribution Adaptation",
+        "journal": "2013 IEEE International Conference on Computer Vision",
+        "year": 2013,
+        "citations": 1516,
+        "authors": "Mingsheng Long, Jianmin Wang, Guiguang Ding et al.",
+        "authors_list": [
+            "Mingsheng Long",
+            "Jianmin Wang",
+            "Guiguang Ding",
+            "Jiaguang Sun",
+            "Philip S. Yu"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1516
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/b978-012722442-8/50016-1",
+        "title": "A Framework for Clustering Evolving Data Streams",
+        "journal": "Proceedings 2003 VLDB Conference",
+        "year": 2003,
+        "citations": 1073,
+        "authors": "Charu C. Aggarwal, Philip S. Yu, Jiawei Han et al.",
+        "authors_list": [
+            "Charu C. Aggarwal",
+            "Philip S. Yu",
+            "Jiawei Han",
+            "Jianyong Wang"
+        ],
+        "type": "book-chapter",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1073
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/956750.956778",
+        "title": "Mining concept-drifting data streams using ensemble classifiers",
+        "journal": "Proceedings of the ninth ACM SIGKDD international conference on Knowledge discovery and data mining",
+        "year": 2003,
+        "citations": 812,
+        "authors": "Haixun Wang, Wei Fan, Philip S. Yu et al.",
+        "authors_list": [
+            "Haixun Wang",
+            "Wei Fan",
+            "Philip S. Yu",
+            "Jiawei Han"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 812
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/tkde.2016.2598561",
+        "title": "A survey of heterogeneous information network analysis",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2017,
+        "citations": 884,
+        "authors": "Chuan Shi, Yitong Li, Jiawei Zhang et al.",
+        "authors_list": [
+            "Chuan Shi",
+            "Yitong Li",
+            "Jiawei Zhang",
+            "Yizhou Sun",
+            "Philip S. Yu"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 884
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/375663.375668",
+        "title": "Outlier detection for high dimensional data",
+        "journal": "Proceedings of the 2001 ACM SIGMOD international conference on Management of data",
+        "year": 2001,
+        "citations": 426,
+        "authors": "Charu C. Aggarwal, Philip S. Yu",
+        "authors_list": [
+            "Charu C. Aggarwal",
+            "Philip S. Yu"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 426
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/304181.304188",
+        "title": "Fast algorithms for projected clustering",
+        "journal": "ACM SIGMOD Record",
+        "year": 1999,
+        "citations": 241,
+        "authors": "Charu C. Aggarwal, Joel L. Wolf, Philip S. Yu et al.",
+        "authors_list": [
+            "Charu C. Aggarwal",
+            "Joel L. Wolf",
+            "Philip S. Yu",
+            "Cecilia Procopiuc",
+            "Jong Soo Park"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 241
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/304181.304188"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/tkde.2020.3025580",
+        "title": "Deep Learning for Spatio-Temporal Data Mining: A Survey",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2022,
+        "citations": 636,
+        "authors": "Senzhang Wang, Jiannong Cao, Philip S. Yu",
+        "authors_list": [
+            "Senzhang Wang",
+            "Jiannong Cao",
+            "Philip S. Yu"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 636
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/cvpr.2014.183",
+        "title": "Transfer Joint Matching for Unsupervised Domain Adaptation",
+        "journal": "2014 IEEE Conference on Computer Vision and Pattern Recognition",
+        "year": 2014,
+        "citations": 557,
+        "authors": "Mingsheng Long, Jianmin Wang, Guiguang Ding et al.",
+        "authors_list": [
+            "Mingsheng Long",
+            "Jianmin Wang",
+            "Guiguang Ding",
+            "Jiaguang Sun",
+            "Philip S. Yu"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 557
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/iccv.2017.598",
+        "title": "HashNet: Deep Learning to Hash by Continuation",
+        "journal": "2017 IEEE International Conference on Computer Vision (ICCV)",
+        "year": 2017,
+        "citations": 595,
+        "authors": "Zhangjie Cao, Mingsheng Long, Jianmin Wang et al.",
+        "authors_list": [
+            "Zhangjie Cao",
+            "Mingsheng Long",
+            "Jianmin Wang",
+            "Philip S. Yu"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 595
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/icdm.2003.1250918",
+        "title": "Building text classifiers using positive and unlabeled examples",
+        "journal": "Third IEEE International Conference on Data Mining",
+        "year": null,
+        "citations": 340,
+        "authors": "B. Liu, Y. Dai, X. Li et al.",
+        "authors_list": [
+            "B. Liu",
+            "Y. Dai",
+            "X. Li",
+            "W.S. Lee",
+            "P.S. Yu"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 340
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/3240508.3240512",
+        "title": "Visual Domain Adaptation with Manifold Embedded Distribution Alignment",
+        "journal": "Proceedings of the 26th ACM international conference on Multimedia",
+        "year": 2018,
+        "citations": 542,
+        "authors": "Jindong Wang, Wenjie Feng, Yiqiang Chen et al.",
+        "authors_list": [
+            "Jindong Wang",
+            "Wenjie Feng",
+            "Yiqiang Chen",
+            "Han Yu",
+            "Meiyu Huang",
+            "Philip S. Yu"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 542
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3240508.3240512"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/1007568.1007607",
+        "title": "Graph indexing",
+        "journal": "Proceedings of the 2004 ACM SIGMOD international conference on Management of data",
+        "year": 2004,
+        "citations": 443,
+        "authors": "Xifeng Yan, Philip S. Yu, Jiawei Han",
+        "authors_list": [
+            "Xifeng Yan",
+            "Philip S. Yu",
+            "Jiawei Han"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 443
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/tkde.2013.111",
+        "title": "Adaptation Regularization: A General Framework for Transfer Learning",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2014,
+        "citations": 544,
+        "authors": "Mingsheng Long, Jianmin Wang, Guiguang Ding et al.",
+        "authors_list": [
+            "Mingsheng Long",
+            "Jianmin Wang",
+            "Guiguang Ding",
+            "Sinno Jialin Pan",
+            "Philip S. Yu"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 544
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/tpami.2022.3165153",
+        "title": "PredRNN: A Recurrent Neural Network for Spatiotemporal Predictive Learning",
+        "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 2023,
+        "citations": 560,
+        "authors": "Yunbo Wang, Haixu Wu, Jianjin Zhang et al.",
+        "authors_list": [
+            "Yunbo Wang",
+            "Haixu Wu",
+            "Jianjin Zhang",
+            "Zhifeng Gao",
+            "Jianmin Wang",
+            "Philip S. Yu",
+            "Mingsheng Long"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 560
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/3340531.3411903",
+        "title": "Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters",
+        "journal": "Proceedings of the 29th ACM International Conference on Information &amp; Knowledge Management",
+        "year": 2020,
+        "citations": 547,
+        "authors": "Yingtong Dou, Zhiwei Liu, Li Sun et al.",
+        "authors_list": [
+            "Yingtong Dou",
+            "Zhiwei Liu",
+            "Li Sun",
+            "Yutong Deng",
+            "Hao Peng",
+            "Philip S. Yu"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 547
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/2008.08692"
+        }
+    }
+]

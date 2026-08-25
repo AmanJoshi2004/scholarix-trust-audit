@@ -1,0 +1,30 @@
+[
+    {
+        "url": "https://www.grapheneforus.com/2022/speakers_info.php",
+        "snippet": "Has been invited to more than 200 conferences and workshops in the last 10-15 years as a plenary or keynote ... Arend M. van der Zande is an Associate Professor ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet appears to be a brief biography of the author, possibly from a publication or academic website."
+    },
+    {
+        "url": "https://foundry.lbl.gov/2021/09/07/arend-m-van-der-zande-university-of-illinois-urbana-champaign/",
+        "snippet": "Arend M. van der Zande is an Associate Professor in Mechanical Engineering at University of Illinois at Urbana-Champaign. His research ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The snippet appears to be a publication or bio page for an academic, providing information about their role and research."
+    },
+    {
+        "url": "https://www.researchgate.net/scientific-contributions/Arend-M-van-der-Zande-13255049",
+        "snippet": "Arend M. van der Zande's 173 research items with 27118 citations and 10622 reads, including: Enhancing Hole Mobility in Monolayer WSe 2 p-Type Field-Effect ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "This is a profile page on ResearchGate, listing the author's research contributions with citations and reads."
+    },
+    {
+        "url": "https://pubs.acs.org/nalefd/article/25/34/12789/3752635/The-Next-25-Years-of-Nanoscience-and",
+        "snippet": "Arend M. van der Zande;. Arend M. van der Zande. Search for other ... events unfolding within ps. Applications will span from ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "It is a snippet from an academic publication hosted by the American Chemical Society (ACS)"
+    }
+]

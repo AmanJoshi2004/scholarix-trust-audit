@@ -1,0 +1,51 @@
+[
+    {
+        "url": "https://chbe.illinois.edu/people/profile/kenis",
+        "snippet": "... Microfluidic Fuel Cell\", J. Am. Chem. Soc., 127(48), 16758-16759 (2005). Click for more. Honors. Fellow, Electrochemical Society, 2019; University Scholar ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "This result shows a profile of an individual with a publication list, indicating it is likely related to their academic work."
+    },
+    {
+        "url": "https://pubs.acs.org/doi/10.1021/la063673p",
+        "snippet": "Stevenson, Paul J. A. Kenis. Combining Structural and Electrochemical Analysis of Electrodes Using Micro-Computed Tomography and a Microfluidic Fuel Cell.",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is a publication page on the ACS website, and the snippet describes a research paper."
+    },
+    {
+        "url": "https://www.researchgate.net/scientific-contributions/Paul-JA-Kenis-2333290425",
+        "snippet": "Paul JA Kenis's 7 research items with 836 citations and 1003 reads, including: Distinct responses of compartmentalized glutathione redox potentials to ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "Author's research contributions are listed on a academic networking platform, indicating a publication-related record."
+    },
+    {
+        "url": "https://cne.ucsd.edu/seminars/electrochemical-co2-reduction-path-towards-carbon-neutral-chemical-industry-dr-paul-ja",
+        "snippet": "Seminar Presentation: 11:00am – 12:00pm. SME room 248. “ ... Paul J.A. Kenis Ph.D. Elio E. Tarika Endowed Chair, Professor, and ...",
+        "category": "Conference",
+        "relevance_score": 90,
+        "reasoning": "The snippet appears to be a seminar announcement, indicating an upcoming event."
+    },
+    {
+        "url": "https://pme.uchicago.edu/event/uchicago-pme-materials-seminar-paul-ja-kenis",
+        "snippet": "Paul J.A. Kenis is a Professor of ... He is the technical editor for Electrochemical Engineering for the Journal of the Electrochemical ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "Author's academic profile is relevant to the field of Materials Science and related publications."
+    },
+    {
+        "url": "https://www.electrochem.org/248/society-awards",
+        "snippet": "Carl Wagner Memorial Award. Paul J. A. Kenis. Tuesday, October 14 | 1600h. Conference Room 4C (Fourth Floor, Hilton Chicago).",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "It is a short description of an event, likely from a conference program or proceedings."
+    },
+    {
+        "url": "https://www.linkedin.com/posts/ryan-l-hartman-7ab91a8_nascre5-chemicalengineering-electrolysis-activity-7284596363860865025-U8CO",
+        "snippet": "Excited to announce Paul J. A. Kenis (Chemical and Biomolecular Engineering, University of Illinois Urbana-Champaign) as a plenary speaker ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The post announces a plenary speaker for an event, indicating news about an upcoming conference or talk."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://scholar.google.com/citations?user=i4giqlkAAAAJ&hl=en",
+        "snippet": "A colorimetric sensor array for odour visualization. NA Rakow, KS Suslick ... Sonochemical synthesis of nanomaterials. H Xu, BW Zeiger, KS Suslick.",
+        "category": "Publication",
+        "relevance_score": 100,
+        "reasoning": "The snippet lists publications of the user, indicating a database or search result of academic work."
+    },
+    {
+        "url": "https://www.sciencedirect.com/author/7004969849/kenneth-s-suslick",
+        "snippet": "Read articles by Kenneth S. Suslick on ScienceDirect, the world's leading source for scientific, technical, and medical research.",
+        "category": "Publication",
+        "relevance_score": 100,
+        "reasoning": "The snippet describes an author's publication list on a reputable academic website."
+    },
+    {
+        "url": "https://suslick.scs.illinois.edu/",
+        "snippet": "Kenneth S. Suslick. Marvin T. Schmidt Research Professor of Chemistry ... colorimetric sensor arrays for the detection of VOCs). The latter project in ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL appears to be a faculty profile page, which typically lists publications and research interests."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Kenneth_S._Suslick",
+        "snippet": "... sensor arrays, and the use of colorimetric sensor arrays as an optoelectronic nose. Kenneth S. Suslick. Suslick in 2000. Born, 1952 (age 73–74). Chicago ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is a Wikipedia page, which is a type of publication."
+    },
+    {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16104700/",
+        "snippet": "doi: 10.1021/ja052606z. Authors. Chen Zhang , Kenneth S Suslick ... Here we present a simple colorimetric sensor array that probes a wide range of chemical ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is a PubMed link, and the snippet appears to be an abstract of a research paper."
+    },
+    {
+        "url": "https://www.researchgate.net/scientific-contributions/Kenneth-S-Suslick-5681438",
+        "snippet": "Kenneth S. Suslick's 506 research items with 54815 citations and 30297 reads, including: Cavitation‐Mediated Transcutaneous Delivery of Protein and ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "ResearchGate profile page with researcher's scientific contributions"
+    },
+    {
+        "url": "https://heritageproject.caltech.edu/interviews/ken-suslick",
+        "snippet": "It is Friday, June 30th, 2023. I am delighted to be here with Professor Kenneth S. Suslick. Ken, it's great to be with you. Thank you so much for joining me ...",
+        "category": "Media/Video",
+        "relevance_score": 90,
+        "reasoning": "The snippet is an excerpt from a video interview with a professor, indicating it's a media/video content."
+    },
+    {
+        "url": "https://www.nasonline.org/directory-entry/kenneth-s-suslick-oqgzho/",
+        "snippet": "Kenneth S. Suslick is the Marvin T. Schmidt Professor, Emeritus, at ... Most recently, Suslick invented colorimetric sensor arrays and developed and ...",
+        "category": "Publication",
+        "relevance_score": 80,
+        "reasoning": "This appears to be a biographical entry in the directory of the National Academy of Sciences, indicating that Kenneth S. Suslick is a member or fellow."
+    }
+]

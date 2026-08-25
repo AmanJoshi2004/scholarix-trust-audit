@@ -1,0 +1,2883 @@
+[
+    {
+        "doi": "https://doi.org/10.1046/j.1365-313x.1998.00343.x",
+        "title": "<b>Floral dip: a simplified method for</b><i><b>Agrobacterium</b></i><b>‐mediated transformation of</b><i><b>Arabidopsis thaliana</b></i>",
+        "journal": "The Plant Journal",
+        "year": 1998,
+        "citations": 22578,
+        "authors": "Steven J. Clough, Andrew F. Bent",
+        "authors_list": [
+            "Steven J. Clough",
+            "Andrew F. Bent"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 22578,
+            "crossref": 19469
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1365-313x.1998.00343.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2010.02167.x",
+        "title": "Biotic stress globally downregulates photosynthesis genes",
+        "journal": "Plant Cell & Environment",
+        "year": 2010,
+        "citations": 593,
+        "authors": "Damla D. Bilgin, Jorge A. Zavala, Jin Zhu et al.",
+        "authors_list": [
+            "Damla D. Bilgin",
+            "Jorge A. Zavala",
+            "Jin Zhu",
+            "Steven J. Clough",
+            "Donald R. Ort",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 593,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2010.02167.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.150005697",
+        "title": "The\n                    <i>Arabidopsis dnd1</i>\n                    “defense, no death” gene encodes a mutated cyclic nucleotide-gated ion channel",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2000,
+        "citations": 565,
+        "authors": "Steven J. Clough, Kevin Fengler, I-ching Yu et al.",
+        "authors_list": [
+            "Steven J. Clough",
+            "Kevin Fengler",
+            "I-ching Yu",
+            "Bernadette Lippok",
+            "Roger K. Smith",
+            "Andrew F. Bent"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 565,
+            "crossref": 482
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/16866"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3835/plantgenome2008.02.0091",
+        "title": "Identification of Four Soybean Reference Genes for Gene Expression Normalization",
+        "journal": "The Plant Genome",
+        "year": 2008,
+        "citations": 350,
+        "authors": "Marc Libault, Sandra Thibivilliers, Damla D. Bilgin et al.",
+        "authors_list": [
+            "Marc Libault",
+            "Sandra Thibivilliers",
+            "Damla D. Bilgin",
+            "Osman Radwan",
+            "Mariana Benítez",
+            "Steven J. Clough",
+            "Gary Stacey"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 350,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.3835/plantgenome2008.02.0091"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.1365-2958.1997.5661945.x",
+        "title": "Identification of 3‐hydroxypalmitic acid methyl ester as a novel autoregulator controlling virulence in <i>Ralstonia solanacearum</i>",
+        "journal": "Molecular Microbiology",
+        "year": 1997,
+        "citations": 306,
+        "authors": "Albert B. Flavier, Steven J. Clough, Mark A. Schell et al.",
+        "authors_list": [
+            "Albert B. Flavier",
+            "Steven J. Clough",
+            "Mark A. Schell",
+            "Timothy P. Denny"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 306,
+            "crossref": 275
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1365-2958.1997.5661945.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.109.148379",
+        "title": "Complete Transcriptome of the Soybean Root Hair Cell, a Single-Cell Model, and Its Alteration in Response to<i>Bradyrhizobium japonicum</i>Infection      ",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 2009,
+        "citations": 303,
+        "authors": "Marc Libault, Andrew Farmer, Laurent Brechenmacher et al.",
+        "authors_list": [
+            "Marc Libault",
+            "Andrew Farmer",
+            "Laurent Brechenmacher",
+            "Jenny Drnevich",
+            "Raymond J. Langley",
+            "Damla D. Bilgin",
+            "Osman Radwan",
+            "David J. Neece",
+            "Steven J. Clough",
+            "Gregory D. May",
+            "Gary Stacey"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 303,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/152/2/541/38106306/plphys_v152_2_541.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.123.3.895",
+        "title": "Female Reproductive Tissues Are the Primary Target of<i>Agrobacterium</i>-Mediated Transformation by the Arabidopsis Floral-Dip Method",
+        "journal": "Plant Physiology",
+        "year": 2000,
+        "citations": 286,
+        "authors": "Christine Desfeux, Steven J. Clough, Andrew F. Bent",
+        "authors_list": [
+            "Christine Desfeux",
+            "Steven J. Clough",
+            "Andrew F. Bent"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 286,
+            "crossref": 216
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/123/3/895/38673784/plphys_v123_3_895.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1105/tpc.021352",
+        "title": "Tissue-Specific Gene Silencing Mediated by a Naturally Occurring Chalcone Synthase Gene Cluster in<i>Glycine max</i> [W]",
+        "journal": "The Plant Cell",
+        "year": 2004,
+        "citations": 218,
+        "authors": "Jigyasa H. Tuteja, Steven J. Clough, Wan-Ching Chan et al.",
+        "authors_list": [
+            "Jigyasa H. Tuteja",
+            "Steven J. Clough",
+            "Wan-Ching Chan",
+            "Lila O. Vodkin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 218,
+            "crossref": 189
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plcell/article-pdf/16/4/819/36876622/plcell_v16_4_819.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1094/mpmi-18-1161",
+        "title": "Expression Profiling Soybean Response to<i>Pseudomonas syringae</i>Reveals New Defense-Related Genes and Rapid HR-Specific Downregulation of Photosynthesis",
+        "journal": "Molecular Plant-Microbe Interactions",
+        "year": 2005,
+        "citations": 210,
+        "authors": "Jijun Zou, Sandra L. Rodriguez‐Zas, Mihai Aldea et al.",
+        "authors_list": [
+            "Jijun Zou",
+            "Sandra L. Rodriguez‐Zas",
+            "Mihai Aldea",
+            "Min Li",
+            "Jin Zhu",
+            "Delkin O. Gonzalez",
+            "Lila O. Vodkin",
+            "Evan H. DeLucia",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 210,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doaj.org/article/ecff8f0f9f3c4d3b8267fbad561b75db"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/1471-2229-6-26",
+        "title": "Transcriptome changes in the phenylpropanoid pathway of Glycine max in response to Pseudomonas syringaeinfection",
+        "journal": "BMC Plant Biology",
+        "year": 2006,
+        "citations": 180,
+        "authors": "Gracia Zabala, Jijun Zou, Jigyasa H. Tuteja et al.",
+        "authors_list": [
+            "Gracia Zabala",
+            "Jijun Zou",
+            "Jigyasa H. Tuteja",
+            "Delkin O. Gonzalez",
+            "Steven J. Clough",
+            "Lila O. Vodkin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 180,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bmcplantbiol.biomedcentral.com/counter/pdf/10.1186/1471-2229-6-26"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/jb.179.11.3639-3648.1997",
+        "title": "A two-component system in Ralstonia (Pseudomonas) solanacearum modulates production of PhcA-regulated virulence factors in response to 3-hydroxypalmitic acid methyl ester",
+        "journal": "Journal of Bacteriology",
+        "year": 1997,
+        "citations": 143,
+        "authors": "Steven J. Clough, K E Lee, Mark A. Schell et al.",
+        "authors_list": [
+            "Steven J. Clough",
+            "K E Lee",
+            "Mark A. Schell",
+            "Timothy P. Denny"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 143,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1469-8137.2008.02443.x",
+        "title": "Soybean defense responses to the soybean aphid",
+        "journal": "New Phytologist",
+        "year": 2008,
+        "citations": 128,
+        "authors": "Yan Li, Jijun Zou, Min Li et al.",
+        "authors_list": [
+            "Yan Li",
+            "Jijun Zou",
+            "Min Li",
+            "Damla D. Bilgin",
+            "Lila O. Vodkin",
+            "G. L. Hartman",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 103
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-8137.2008.02443.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1094/mpmi-21-5-0631",
+        "title": "Transcription Profiling of Soybean Nodulation by<i>Bradyrhizobium japonicum</i>",
+        "journal": "Molecular Plant-Microbe Interactions®",
+        "year": 2008,
+        "citations": 108,
+        "authors": "Laurent Brechenmacher, Moon‐Young Kim, Marisol Benitez et al.",
+        "authors_list": [
+            "Laurent Brechenmacher",
+            "Moon‐Young Kim",
+            "Marisol Benitez",
+            "Min Li",
+            "Trupti Joshi",
+            "Bernarda Calla",
+            "Mei Phing Lee",
+            "Marc Libault",
+            "Lila O. Vodkin",
+            "Dong Xu",
+            "Suk‐Ha Lee",
+            "Steven J. Clough",
+            "Gary Stacey"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 108,
+            "crossref": 96
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doaj.org/article/6635bf71b053468ba8fb4033d803b7d9"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/1471-2164-5-73",
+        "title": "Microarrays for global expression constructed with a low redundancy set of 27,500 sequenced cDNAs representing an array of developmental stages and physiological conditions of the soybean plant",
+        "journal": "BMC Genomics",
+        "year": 2004,
+        "citations": 106,
+        "authors": "Lila O. Vodkin, Anupama Khanna, Robin T. Shealy et al.",
+        "authors_list": [
+            "Lila O. Vodkin",
+            "Anupama Khanna",
+            "Robin T. Shealy",
+            "Steven J. Clough",
+            "Delkin O. Gonzalez",
+            "Reena Philip",
+            "Gracia Zabala",
+            "Françoise Thibaud‐Nissen",
+            "Mark Sidarous",
+            "Martina V. Strömvik",
+            "Elizabeth Shoop",
+            "Christina Schmidt",
+            "Ernest F. Retzel",
+            "John E. Erpelding",
+            "Randy C. Shoemaker",
+            "Alicia Rodríguez‐Huete",
+            "Joseph C. Polacco",
+            "Virginia H. Coryell",
+            "Paul Keim",
+            "George Gong",
+            "Lei Liu",
+            "José R. Pardinas",
+            "Peter A. Schweitzer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/1471-2164-5-73"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1385/1-59259-827-7:091",
+        "title": "Floral Dip: &lt;i&gt;Agrobacterium&lt;/I&gt;-Mediated Germ Line Transformation",
+        "journal": "Humana Press eBooks",
+        "year": 2004,
+        "citations": 102,
+        "authors": "Steven J. Clough",
+        "authors_list": [
+            "Steven J. Clough"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.63.3.844-850.1997",
+        "title": "Differential Expression of Virulence Genes and Motility in Ralstonia (Pseudomonas) solanacearum during Exponential Growth",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 1997,
+        "citations": 101,
+        "authors": "Steven J. Clough, Albert B. Flavier, Mark A. Schell et al.",
+        "authors_list": [
+            "Steven J. Clough",
+            "Albert B. Flavier",
+            "Mark A. Schell",
+            "Timothy P. Denny"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/63/3/844.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1139/g04-049",
+        "title": "Features of a 103-kb gene-rich region in soybean include an inverted perfect repeat cluster of<i>CHS</i>genes comprising the<i>I</i>locus",
+        "journal": "Genome",
+        "year": 2004,
+        "citations": 87,
+        "authors": "Steven J. Clough, Jigyasa H. Tuteja, Min Li et al.",
+        "authors_list": [
+            "Steven J. Clough",
+            "Jigyasa H. Tuteja",
+            "Min Li",
+            "Laura F. Marek",
+            "Randy C. Shoemaker",
+            "Lila O. Vodkin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3835/plantgenome2009.02.0010",
+        "title": "Effects of Photosystem‐II‐Interfering Herbicides Atrazine and Bentazon on the Soybean Transcriptome",
+        "journal": "The Plant Genome",
+        "year": 2009,
+        "citations": 83,
+        "authors": "Jin Zhu, William L. Patzoldt, Osman Radwan et al.",
+        "authors_list": [
+            "Jin Zhu",
+            "William L. Patzoldt",
+            "Osman Radwan",
+            "Patrick J. Tranel",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 83,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.3835/plantgenome2009.02.0010"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-94-011-5242-6_2",
+        "title": "Agrobacterium Germ-Line Transformation: Transformation of Arabidopsis without Tissue Culture",
+        "journal": "",
+        "year": 1998,
+        "citations": 76,
+        "authors": "Andrew F. Bent, Steven J. Clough",
+        "authors_list": [
+            "Andrew F. Bent",
+            "Steven J. Clough"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nprot.2008.249",
+        "title": "A robust plant RNA isolation method suitable for Affymetrix GeneChip analysis and quantitative real-time RT-PCR",
+        "journal": "Nature Protocols",
+        "year": 2009,
+        "citations": 70,
+        "authors": "Damla D. Bilgin, Evan H. DeLucia, Steven J. Clough",
+        "authors_list": [
+            "Damla D. Bilgin",
+            "Evan H. DeLucia",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf801254e",
+        "title": "Transcriptome Response to Glyphosate in Sensitive and Resistant Soybean",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2008,
+        "citations": 69,
+        "authors": "Jin Zhu, William L. Patzoldt, Robin T. Shealy et al.",
+        "authors_list": [
+            "Jin Zhu",
+            "William L. Patzoldt",
+            "Robin T. Shealy",
+            "Lila O. Vodkin",
+            "Steven J. Clough",
+            "Patrick J. Tranel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 58
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1094/mpmi-11-10-0271",
+        "title": "Transcriptional Analysis of Soybean Root Response to <i>Fusarium virguliforme</i>, the Causal Agent of Sudden Death Syndrome",
+        "journal": "Molecular Plant-Microbe Interactions",
+        "year": 2011,
+        "citations": 64,
+        "authors": "Osman Radwan, Yu Liu, Steven J. Clough",
+        "authors_list": [
+            "Osman Radwan",
+            "Yu Liu",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s12864-017-4160-1",
+        "title": "Genome-wide association mapping of resistance to a Brazilian isolate of Sclerotinia sclerotiorum in soybean genotypes mostly from Brazil",
+        "journal": "BMC Genomics",
+        "year": 2017,
+        "citations": 64,
+        "authors": "Wei Wei, Ana Carolina Oliveira Mesquita, Adriana de Andrade Figueiró et al.",
+        "authors_list": [
+            "Wei Wei",
+            "Ana Carolina Oliveira Mesquita",
+            "Adriana de Andrade Figueiró",
+            "Xing Wu",
+            "Shilpa Manjunatha",
+            "Daniel P. Wickland",
+            "Matthew E. Hudson",
+            "Fernando Cézar Juliatti",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-017-4160-1"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1094/mpmi.2000.13.10.1081",
+        "title": "A Second T-Region of the Soybean-Supervirulent Chrysopine-Type Ti Plasmid pTiChry5, and Construction of a Fully Disarmed <i>vir</i> Helper Plasmid",
+        "journal": "Molecular Plant-Microbe Interactions®",
+        "year": 2000,
+        "citations": 59,
+        "authors": "Karuppaiah Palanichelvam, Philippe Oger, Steven J. Clough et al.",
+        "authors_list": [
+            "Karuppaiah Palanichelvam",
+            "Philippe Oger",
+            "Steven J. Clough",
+            "C. Cha",
+            "Andrew F. Bent",
+            "S. K. Farrand"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 49
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1094/mpmi.2000.13.3.277",
+        "title": "Identification of Arabidopsis Mutants Exhibiting an Altered Hypersensitive Response in Gene-for-Gene Disease Resistance",
+        "journal": "Molecular Plant-Microbe Interactions®",
+        "year": 2000,
+        "citations": 59,
+        "authors": "I-ching Yu, Kevin Fengler, Steven J. Clough et al.",
+        "authors_list": [
+            "I-ching Yu",
+            "Kevin Fengler",
+            "Steven J. Clough",
+            "Andrew F. Bent"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 45
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.112.207027",
+        "title": "14-3-3 Proteins SGF14c and SGF14l Play Critical Roles during Soybean Nodulation",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 2012,
+        "citations": 57,
+        "authors": "Osman Radwan, Xia Wu, Manjula Govindarajulu et al.",
+        "authors_list": [
+            "Osman Radwan",
+            "Xia Wu",
+            "Manjula Govindarajulu",
+            "Marc Libault",
+            "David J. Neece",
+            "Man‐Ho Oh",
+            "R. Howard Berg",
+            "Gary Stacey",
+            "Christopher G. Taylor",
+            "Steven C. Huber",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.plantphysiol.org/content/plantphysiol/160/4/2125.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1094/mpmi-08-11-0207",
+        "title": "Genome-Wide Identification of Genes Regulated by the Rcs Phosphorelay System in <i>Erwinia amylovora</i>",
+        "journal": "Molecular Plant-Microbe Interactions",
+        "year": 2011,
+        "citations": 57,
+        "authors": "Dongping Wang, Mingsheng Qi, Bernarda Calla et al.",
+        "authors_list": [
+            "Dongping Wang",
+            "Mingsheng Qi",
+            "Bernarda Calla",
+            "Schuyler S. Korban",
+            "Steven J. Clough",
+            "Peter Cock",
+            "George W. Sundin",
+            "Ian K. Toth",
+            "Youfu Zhao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doaj.org/article/06f031d0f9674a01b465f9792b51ba94"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1094/mpmi-21-10-1297",
+        "title": "Elevated Ozone Alters Soybean-Virus Interaction",
+        "journal": "Molecular Plant-Microbe Interactions",
+        "year": 2008,
+        "citations": 56,
+        "authors": "Damla D. Bilgin, Mihai Aldea, Bridget F. O’Neill et al.",
+        "authors_list": [
+            "Damla D. Bilgin",
+            "Mihai Aldea",
+            "Bridget F. O’Neill",
+            "Marisol Benitez",
+            "Min Li",
+            "Steven J. Clough",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1094/mpmi-7-0621",
+        "title": "Evidence for Involvement of a Volatile Extracellular Factor in<i>Pseudomonas solanacearum</i>Virulence Gene Expression",
+        "journal": "Molecular Plant-Microbe Interactions",
+        "year": 1994,
+        "citations": 56,
+        "authors": "Steven J. Clough",
+        "authors_list": [
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 48
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0025293",
+        "title": "The Orphan Gene ybjN Conveys Pleiotropic Effects on Multicellular Behavior and Survival of Escherichia coli",
+        "journal": "PLoS ONE",
+        "year": 2011,
+        "citations": 44,
+        "authors": "Dongping Wang, Bernarda Calla, Sornkanok Vimolmangkang et al.",
+        "authors_list": [
+            "Dongping Wang",
+            "Bernarda Calla",
+            "Sornkanok Vimolmangkang",
+            "Xia Wu",
+            "Schuyler S. Korban",
+            "Steven C. Huber",
+            "Steven J. Clough",
+            "Youfu Zhao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 44,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0025293&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3835/plantgenome2008.02.0008",
+        "title": "Gene Expression Profiling Soybean Stem Tissue Early Response to <i>Sclerotinia sclerotiorum</i> and In Silico Mapping in Relation to Resistance Markers",
+        "journal": "The Plant Genome",
+        "year": 2009,
+        "citations": 41,
+        "authors": "Bernarda Calla, Tri D. Vuong, Osman Radwan et al.",
+        "authors_list": [
+            "Bernarda Calla",
+            "Tri D. Vuong",
+            "Osman Radwan",
+            "G. L. Hartman",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 41,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.3835/plantgenome2008.02.0008"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0220031",
+        "title": "Diatraea saccharalis history of colonization in the Americas. The case for human-mediated dispersal",
+        "journal": "PLoS ONE",
+        "year": 2019,
+        "citations": 35,
+        "authors": "Fabricio José Biasotto Francischini, Erick M. G. Cordeiro, J.B. Campos et al.",
+        "authors_list": [
+            "Fabricio José Biasotto Francischini",
+            "Erick M. G. Cordeiro",
+            "J.B. Campos",
+            "Alessandro Alves‐Pereira",
+            "João Paulo Gomes Viana",
+            "Xing Wu",
+            "Wei Wei",
+            "Patrick J. Brown",
+            "Andrea L. Joyce",
+            "Gabriela Murúa",
+            "Sofía Victoria Fogliata",
+            "Steven J. Clough",
+            "Maria Imaculada Zucchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 35,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0220031&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/1471-2229-12-177",
+        "title": "Divergent patterns of endogenous small RNA populations from seed and vegetative tissues of Glycine max",
+        "journal": "BMC Plant Biology",
+        "year": 2012,
+        "citations": 35,
+        "authors": "Gracia Zabala, Edhilvia J. Campos, Kranthi Varala et al.",
+        "authors_list": [
+            "Gracia Zabala",
+            "Edhilvia J. Campos",
+            "Kranthi Varala",
+            "Sean Bloomfield",
+            "Sarah I. Jones",
+            "Hlaing Win",
+            "Jigyasa H. Tuteja",
+            "Bernarda Calla",
+            "Steven J. Clough",
+            "Matthew E. Hudson",
+            "Lila O. Vodkin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 35,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bmcplantbiol.biomedcentral.com/counter/pdf/10.1186/1471-2229-12-177"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3389/fgene.2019.01035",
+        "title": "Population Genomics of the Neotropical Brown Stink Bug, Euschistus heros: The Most Important Emerging Insect Pest to Soybean in Brazil",
+        "journal": "Frontiers in Genetics",
+        "year": 2019,
+        "citations": 30,
+        "authors": "Maria Imaculada Zucchi, Erick M. G. Cordeiro, Xing Wu et al.",
+        "authors_list": [
+            "Maria Imaculada Zucchi",
+            "Erick M. G. Cordeiro",
+            "Xing Wu",
+            "Letícia Marise Lamana",
+            "Patrick J. Brown",
+            "Shilpa Manjunatha",
+            "João Paulo Gomes Viana",
+            "Celso Omoto",
+            "José Baldin Pinheiro",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 30,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2019.01035/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/15427528.2017.1370404",
+        "title": "Heritability of agronomic traits correlated with reduced stink bug damage in an F<sub>2:3</sub>soybean population derived from IAC-100",
+        "journal": "Journal of Crop Improvement",
+        "year": 2017,
+        "citations": 22,
+        "authors": "Michelle da Fonseca Santos, Milene Möller, Steven J. Clough et al.",
+        "authors_list": [
+            "Michelle da Fonseca Santos",
+            "Milene Möller",
+            "Steven J. Clough",
+            "José Baldin Pinheiro"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dx.doi.org/10.1080/15427528.2017.1370404"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.plaphy.2019.11.021",
+        "title": "Genome-wide expression of low temperature response genes in Rosa hybrida L.",
+        "journal": "Plant Physiology and Biochemistry",
+        "year": 2019,
+        "citations": 22,
+        "authors": "Michele Valquíria dos Reis, Laura Vaughn Rouhana, Ahmed Sadeque et al.",
+        "authors_list": [
+            "Michele Valquíria dos Reis",
+            "Laura Vaughn Rouhana",
+            "Ahmed Sadeque",
+            "Lucimara Koga",
+            "Steven J. Clough",
+            "Bernanda Calla",
+            "Patrícia Duarte de Oliveira Paiva",
+            "Schuyler S. Korban"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/tpj.16038",
+        "title": "An <scp>NBS‐LRR</scp> protein in the <i>Rpp1</i> locus negates the dominance of <i>Rpp1</i>‐mediated resistance against <i>Phakopsora pachyrhizi</i> in soybean",
+        "journal": "The Plant Journal",
+        "year": 2022,
+        "citations": 21,
+        "authors": "Wei Wei, Xing Wu, Alexandre Garcia et al.",
+        "authors_list": [
+            "Wei Wei",
+            "Xing Wu",
+            "Alexandre Garcia",
+            "Nancy K. McCoppin",
+            "João Paulo Gomes Viana",
+            "Praerona S. Murad",
+            "David R. Walker",
+            "G. L. Hartman",
+            "Leslie L. Domier",
+            "Matthew E. Hudson",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 21,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tpj.16038"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41598-019-50999-z",
+        "title": "Patterns of Genome-Wide Variation, Population Differentiation and SNP Discovery of the Red Banded Stink Bug (Piezodorus guildinii)",
+        "journal": "Scientific Reports",
+        "year": 2019,
+        "citations": 20,
+        "authors": "Maria Imaculada Zucchi, Erick M. G. Cordeiro, K. Clint Allen et al.",
+        "authors_list": [
+            "Maria Imaculada Zucchi",
+            "Erick M. G. Cordeiro",
+            "K. Clint Allen",
+            "Mariana Novello",
+            "João Paulo Gomes Viana",
+            "Patrick J. Brown",
+            "Shilpa Manjunatha",
+            "Celso Omoto",
+            "José Baldin Pinheiro",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 20,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41598-019-50999-z.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/mpp.12113",
+        "title": "Transcriptome analyses suggest a disturbance of iron homeostasis in soybean leaves during white mould disease establishment",
+        "journal": "Molecular Plant Pathology",
+        "year": 2013,
+        "citations": 19,
+        "authors": "Bernarda Calla, Laureen Blahut‐Beatty, Lisa Koziol et al.",
+        "authors_list": [
+            "Bernarda Calla",
+            "Laureen Blahut‐Beatty",
+            "Lisa Koziol",
+            "Daina H. Simmonds",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 19,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mpp.12113"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0186266",
+        "title": "Morphological and molecular characterization of Brazilian populations of Diatraea saccharalis (Fabricius, 1794) (Lepidoptera: Crambidae) and the evolutionary relationship among species of Diatraea Guilding",
+        "journal": "PLoS ONE",
+        "year": 2017,
+        "citations": 18,
+        "authors": "Fabricio José Biasotto Francischini, J.B. Campos, Alessandro Alves‐Pereira et al.",
+        "authors_list": [
+            "Fabricio José Biasotto Francischini",
+            "J.B. Campos",
+            "Alessandro Alves‐Pereira",
+            "João Paulo Gomes Viana",
+            "Christopher C Grinter",
+            "Steven J. Clough",
+            "Maria Imaculada Zucchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 18,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0186266&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s12870-015-0655-6",
+        "title": "The role of invertases in plant compensatory responses to simulated herbivory",
+        "journal": "BMC Plant Biology",
+        "year": 2015,
+        "citations": 18,
+        "authors": "Madhura Siddappaji, Daniel R. Scholes, Sindhu M. Krishnankutty et al.",
+        "authors_list": [
+            "Madhura Siddappaji",
+            "Daniel R. Scholes",
+            "Sindhu M. Krishnankutty",
+            "Bernarda Calla",
+            "Steven J. Clough",
+            "Raymond E. Zielinski",
+            "Ken N. Paige"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 18,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bmcplantbiol.biomedcentral.com/counter/pdf/10.1186/s12870-015-0655-6"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Phenotype conversion of Pseudomonas solanacearum: its molecular basis and potential function.",
+        "journal": "",
+        "year": 1994,
+        "citations": 17,
+        "authors": "Timothy P. Denny, Stevens M. Brumbley, Bridget Carney et al.",
+        "authors_list": [
+            "Timothy P. Denny",
+            "Stevens M. Brumbley",
+            "Bridget Carney",
+            "Steven J. Clough",
+            "Mark A. Schell",
+            "Andrew Hayward",
+            "G. L. Hartman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 17,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/mpp.12006",
+        "title": "Effect of <i> <scp>F</scp> usarium virguliforme </i> phytotoxin on soybean gene expression suggests a role in multidimensional defence",
+        "journal": "Molecular Plant Pathology",
+        "year": 2012,
+        "citations": 15,
+        "authors": "Osman Radwan, Min Li, Bernarda Calla et al.",
+        "authors_list": [
+            "Osman Radwan",
+            "Min Li",
+            "Bernarda Calla",
+            "Shuxian Li",
+            "G. L. Hartman",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 15,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mpp.12006"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0162327",
+        "title": "Investigating the Control of Chlorophyll Degradation by Genomic Correlation Mining",
+        "journal": "PLoS ONE",
+        "year": 2016,
+        "citations": 15,
+        "authors": "Frederick Pejman Ghandchi, Gustavo Caetano‐Anollés, Steven J. Clough et al.",
+        "authors_list": [
+            "Frederick Pejman Ghandchi",
+            "Gustavo Caetano‐Anollés",
+            "Steven J. Clough",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 15,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0162327&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/mpp.12115",
+        "title": "Genomic evaluation of oxalate‐degrading transgenic soybean in response to <i> <scp>S</scp> clerotinia sclerotiorum </i> infection",
+        "journal": "Molecular Plant Pathology",
+        "year": 2014,
+        "citations": 15,
+        "authors": "Bernarda Calla, Laureen Blahut‐Beatty, Lisa Koziol et al.",
+        "authors_list": [
+            "Bernarda Calla",
+            "Laureen Blahut‐Beatty",
+            "Lisa Koziol",
+            "Yunfang Zhang",
+            "David J. Neece",
+            "Doris H. Carbajulca",
+            "Alexandre Garcia",
+            "Daina H. Simmonds",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 15,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mpp.12115"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1094/mpmi-07-22-0157-r",
+        "title": "The Role of a Soybean 14-3-3 Gene (<i>Glyma05g29080</i>) on White Mold Resistance and Nodulation Investigations Using CRISPR-Cas9 Editing and RNA Silencing",
+        "journal": "Molecular Plant-Microbe Interactions",
+        "year": 2022,
+        "citations": 13,
+        "authors": "Yunfang Zhang, Laureen Blahut‐Beatty, Suqin Zheng et al.",
+        "authors_list": [
+            "Yunfang Zhang",
+            "Laureen Blahut‐Beatty",
+            "Suqin Zheng",
+            "Steven J. Clough",
+            "Daina H. Simmonds"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 13,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1094/mpmi-07-22-0157-r"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3389/fmicb.2021.769965",
+        "title": "Characterization and Comparison of Intestinal Bacterial Microbiomes of Euschistus heros and Piezodorus guildinii Collected in Brazil and the United States",
+        "journal": "Frontiers in Microbiology",
+        "year": 2021,
+        "citations": 12,
+        "authors": "Matheus Sartori Moro, Xing Wu, Wei Wei et al.",
+        "authors_list": [
+            "Matheus Sartori Moro",
+            "Xing Wu",
+            "Wei Wei",
+            "Lucas William Mendes",
+            "Kerry C. Allen",
+            "José Baldin Pinheiro",
+            "Steven J. Clough",
+            "Maria Imaculada Zucchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 12,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.3389/fmicb.2021.769965"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-94-017-0651-3_25",
+        "title": "Further Characterization of Genes Encoding Extracellular Polysaccharide of Pseudomonas solanacearum and their Regulation",
+        "journal": "Current plant science and biotechnology in agriculture",
+        "year": 1993,
+        "citations": 12,
+        "authors": "Mark A. Schell, Timothy P. Denny, Steven J. Clough et al.",
+        "authors_list": [
+            "Mark A. Schell",
+            "Timothy P. Denny",
+            "Steven J. Clough",
+            "Jianzhong Huang"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 12,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.13102/sociobiology.v65i4.3464",
+        "title": "Two Colors, One Species: The Case of Melissodes nigroaenea (Apidae: Eucerini), an Important Pollinator of Cotton Fields in Brazil",
+        "journal": "Sociobiology",
+        "year": 2018,
+        "citations": 11,
+        "authors": "Carolina Grando, Nolan D. Amon, Steven J. Clough et al.",
+        "authors_list": [
+            "Carolina Grando",
+            "Nolan D. Amon",
+            "Steven J. Clough",
+            "Na Guo",
+            "Wei Wei",
+            "Patricia Azevedo",
+            "Margarita M. López‐Uribe",
+            "Maria Imaculada Zucchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 11,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://periodicos.uefs.br/index.php/sociobiology/article/view/3464/2988"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/tpg2.20516",
+        "title": "Soybean genomics research community strategic plan: A vision for 2024–2028",
+        "journal": "The Plant Genome",
+        "year": 2024,
+        "citations": 8,
+        "authors": "Robert M. Stupar, Anna M. Locke, Doug K. Allen et al.",
+        "authors_list": [
+            "Robert M. Stupar",
+            "Anna M. Locke",
+            "Doug K. Allen",
+            "Minviluz G. Stacey",
+            "Jianxin Ma",
+            "Jackie Weiss",
+            "Rex T. Nelson",
+            "Matthew E. Hudson",
+            "Trupti Joshi",
+            "Zenglu Li",
+            "Qijian Song",
+            "Joseph Jedlicka",
+            "Gustavo C. MacIntosh",
+            "David Grant",
+            "Wayne A. Parrott",
+            "Tom Clemente",
+            "Gary Stacey",
+            "Yong‐qiang Charles An",
+            "Jose Aponte‐Rivera",
+            "Madan K. Bhattacharyya",
+            "Ivan Baxter",
+            "Kristin Bilyeu",
+            "Jacqueline Campbell",
+            "Steven B. Cannon",
+            "Steven J. Clough",
+            "Shaun J. Curtin",
+            "Brian W. Diers",
+            "Anne E. Dorrance",
+            "Jason D. Gillman",
+            "George L. Graef",
+            "C. Nathan Hancock",
+            "Karen A. Hudson",
+            "David L. Hyten",
+            "Aardra Kachroo",
+            "Jenny Koebernick",
+            "Marc Libault",
+            "Aaron J. Lorenz",
+            "Adam L. Mahan",
+            "Jon M. Massman",
+            "Michaela McGinn",
+            "Khalid Meksem",
+            "Jack K. Okamuro",
+            "Kerry F. Pedley",
+            "Katy Martin Rainey",
+            "Andrew Scaboo",
+            "Jeremy Schmutz",
+            "Bao‐Hua Song",
+            "Adam D. Steinbrenner",
+            "Benjamin B. Stewart‐Brown",
+            "Katalin Toth",
+            "Dechun Wang",
+            "Lisa Weaver",
+            "Bo Zhang",
+            "Michelle A. Graham",
+            "Jamie A. O’Rourke"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 8,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/tpg2.20516"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ps.8639",
+        "title": "Soybean rust‐resistant and tolerant varieties identified through the Pan‐African Trial Network",
+        "journal": "Pest Management Science",
+        "year": 2025,
+        "citations": 8,
+        "authors": "Vitor Rampazzo Favoretto, Harun M. Murithi, Érica Pontes Léles et al.",
+        "authors_list": [
+            "Vitor Rampazzo Favoretto",
+            "Harun M. Murithi",
+            "Érica Pontes Léles",
+            "Fonseca Michelle da Santos",
+            "Godfree Chigeza",
+            "Peter Goldsmith",
+            "Danny Coyne",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 8,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/2507473"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4238/gmr15049061",
+        "title": "Resistance of soybean genotypes to Sclerotinia sclerotiorum isolates in different incubation environments",
+        "journal": "Genetics and Molecular Research",
+        "year": 2016,
+        "citations": 8,
+        "authors": "Leonardo Humberto Silva e Castro, Adriana Andrade Figueiró, Ana Paula Oliveira Nogueira et al.",
+        "authors_list": [
+            "Leonardo Humberto Silva e Castro",
+            "Adriana Andrade Figueiró",
+            "Ana Paula Oliveira Nogueira",
+            "Steven J. Clough",
+            "Fernando Cézar Juliatti"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 8,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.4238/gmr15049061"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/ee/nvae023",
+        "title": "Tracking flight activity of potato leafhopper (Hemiptera: Cicadellidae) with the Midwest Suction Trap Network",
+        "journal": "Environmental Entomology",
+        "year": 2024,
+        "citations": 8,
+        "authors": "Doris Lagos‐Kutz, Robert E. Clark, Nicholas J. Seiter et al.",
+        "authors_list": [
+            "Doris Lagos‐Kutz",
+            "Robert E. Clark",
+            "Nicholas J. Seiter",
+            "Steven J. Clough",
+            "G. L. Hartman",
+            "Michael S. Crossley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 8,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1094/phyto-08-21-0329-r",
+        "title": "Transcriptome Profiling Reveals Molecular Players in Early Soybean–<i>Sclerotinia sclerotiorum</i> Interaction",
+        "journal": "Phytopathology",
+        "year": 2022,
+        "citations": 7,
+        "authors": "Wei Wei, Xing Wu, Laureen Blahut‐Beatty et al.",
+        "authors_list": [
+            "Wei Wei",
+            "Xing Wu",
+            "Laureen Blahut‐Beatty",
+            "Daina H. Simmonds",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 7,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.17660/actahortic.2011.896.25",
+        "title": "REGULATORY GENES AND ENVIRONMENTAL REGULATION OF AMYLOVORAN BIOSYNTHESIS IN ERWINIA AMYLOVORA",
+        "journal": "Acta Horticulturae",
+        "year": 2011,
+        "citations": 7,
+        "authors": "D.P. Wang, Steven J. Clough, Youfu Zhao et al.",
+        "authors_list": [
+            "D.P. Wang",
+            "Steven J. Clough",
+            "Youfu Zhao",
+            "Schuyler S. Korban",
+            "George W. Sundin",
+            "Ian K. Toth"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 7,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.12688/f1000research.26614.1",
+        "title": "A first draft genome of the Sugarcane borer, Diatraea saccharalis.",
+        "journal": "F1000Research",
+        "year": 2020,
+        "citations": 6,
+        "authors": "Lucas Borges Dos Santos, João Paulo Gomes Viana, Fabricio José Biasotto Francischini et al.",
+        "authors_list": [
+            "Lucas Borges Dos Santos",
+            "João Paulo Gomes Viana",
+            "Fabricio José Biasotto Francischini",
+            "Sofía Victoria Fogliata",
+            "Andrea L. Joyce",
+            "Anete Pereira de Souza",
+            "María Gabriela Murúa",
+            "Steven J. Clough",
+            "Maria Imaculada Zucchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 6,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://f1000research.com/articles/9-1269/v1/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/v16081305",
+        "title": "Exploring Virus Diversity in the Potato leafhopper (Empoasca fabae), an Economically Important Agricultural Pest",
+        "journal": "Viruses",
+        "year": 2024,
+        "citations": 6,
+        "authors": "Thanuja Thekke-Veetil, Doris Lagos‐Kutz, Leslie L. Domier et al.",
+        "authors_list": [
+            "Thanuja Thekke-Veetil",
+            "Doris Lagos‐Kutz",
+            "Leslie L. Domier",
+            "Nancy K. McCoppin",
+            "G. L. Hartman",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 6,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/1999-4915/16/8/1305/pdf?version=1723799586"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1094/pdis-12-24-2566-pdn",
+        "title": "First Report of Red Crown Rot of Soybean, Caused by <i>Calonectria ilicicola</i>, in Missouri",
+        "journal": "Plant Disease",
+        "year": 2025,
+        "citations": 5,
+        "authors": "Mandy Bish, Theresa K. Herman, Nancy K. McCoppin et al.",
+        "authors_list": [
+            "Mandy Bish",
+            "Theresa K. Herman",
+            "Nancy K. McCoppin",
+            "Peng Tian",
+            "Steven J. Clough",
+            "Hari S. Karki"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 5,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/jph.12711",
+        "title": "A novel receptor‐like kinase involved in fungal pathogen defence in <i>Arabidopsis thaliana</i>",
+        "journal": "Journal of Phytopathology",
+        "year": 2018,
+        "citations": 5,
+        "authors": "Justin Ray, Xin Yang, Feng Kong et al.",
+        "authors_list": [
+            "Justin Ray",
+            "Xin Yang",
+            "Feng Kong",
+            "Tingwei Guo",
+            "Fengyan Deng",
+            "Steven J. Clough",
+            "Katrina M. Ramonell"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 5,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s12600-023-01070-1",
+        "title": "Reduction in productivity of soybean plants infested with Neohyadatothrips variabilis (Thysanoptera: Thripidae) with and without soybean vein necrosis virus",
+        "journal": "Phytoparasitica",
+        "year": 2023,
+        "citations": 3,
+        "authors": "Doris Lagos‐Kutz, Michelle L. Pawlowski, Jae-Yeong Han et al.",
+        "authors_list": [
+            "Doris Lagos‐Kutz",
+            "Michelle L. Pawlowski",
+            "Jae-Yeong Han",
+            "Steven J. Clough",
+            "G. L. Hartman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/s12600-023-01070-1.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1094/phyto-09-23-0315-kc",
+        "title": "Remarkably High Internal Transcribed Spacer Haplotype Diversity of the Fungal Select Agent <i>Coniothyrium glycines</i> Discovered Throughout Its Range in Sub-Saharan Africa",
+        "journal": "Phytopathology",
+        "year": 2024,
+        "citations": 3,
+        "authors": "Rachel A. Koch, Harun M. Murithi, Clint R. Slocum et al.",
+        "authors_list": [
+            "Rachel A. Koch",
+            "Harun M. Murithi",
+            "Clint R. Slocum",
+            "Danny Coyne",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1201/9781439822265.ch16",
+        "title": "Soybean Microarrays",
+        "journal": "AOCS Publishing eBooks",
+        "year": 2004,
+        "citations": 3,
+        "authors": "Steven J. Clough, Lila O. Vodkin",
+        "authors_list": [
+            "Steven J. Clough",
+            "Lila O. Vodkin"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0321896",
+        "title": "Production of the light-activated elsinochrome phytotoxin in the soybean pathogen Coniothyrium glycines hints at virulence factor",
+        "journal": "PLoS ONE",
+        "year": 2025,
+        "citations": 2,
+        "authors": "Nicholas Greatens, Harun M. Murithi, Danny Coyne et al.",
+        "authors_list": [
+            "Nicholas Greatens",
+            "Harun M. Murithi",
+            "Danny Coyne",
+            "Steven J. Clough",
+            "Michael Sulyok",
+            "Wahab O. Okunowo",
+            "Hamed K. Abbas",
+            "W. Thomas Shier",
+            "Rachel A. Koch"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0321896&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.64338/im.1110.uwo2d",
+        "title": "First report of corn leafhopper (Hemiptera: Cicadellidae) in the USA Midwest Suction Trap Network",
+        "journal": "Insecta mundi",
+        "year": 2025,
+        "citations": 1,
+        "authors": "Doris Lagos‐Kutz, Isabel Plasencia, Christopher H. Dietrich et al.",
+        "authors_list": [
+            "Doris Lagos‐Kutz",
+            "Isabel Plasencia",
+            "Christopher H. Dietrich",
+            "Joseph LaForest",
+            "Brian McCornack",
+            "Erin W. Hodgson",
+            "Raul T. Villanueva",
+            "Nicholas J. Seiter",
+            "Anthony J. McMechan",
+            "Michael S. Crossley",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-662-03592-4_24",
+        "title": "Regulation of Virulence by Endogenous Signal Molecules and the Importance of Extracellular Polysaccharide During Infection and Colonization",
+        "journal": "",
+        "year": 1998,
+        "citations": 1,
+        "authors": "Timothy P. Denny, Albert B. Flavier, Steven J. Clough et al.",
+        "authors_list": [
+            "Timothy P. Denny",
+            "Albert B. Flavier",
+            "Steven J. Clough",
+            "Elke Saile",
+            "Lilia Ganova‐Raeva",
+            "Mark A. Schell"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00275514.2024.2383114",
+        "title": "Phylogenetic analyses show the Select Agent <i>Coniothyrium glycines</i> represents a single species that has significant morphological and genetic variation",
+        "journal": "Mycologia",
+        "year": 2024,
+        "citations": 1,
+        "authors": "Rachel A. Koch, Harun M. Murithi, Danny Coyne et al.",
+        "authors_list": [
+            "Rachel A. Koch",
+            "Harun M. Murithi",
+            "Danny Coyne",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.21203/rs.3.rs-180427/v1",
+        "title": "Characterization and Comparison of Intestinal Bacterial Microbiomes of Euschistus Heros and Piezodorus Guildinii Collected in Brazil and the United States",
+        "journal": "Research Square",
+        "year": 2021,
+        "citations": 1,
+        "authors": "Matheus Sartori Moro, Xing Wu, Wei Wei et al.",
+        "authors_list": [
+            "Matheus Sartori Moro",
+            "Xing Wu",
+            "Wei Wei",
+            "Lucas William Mendes",
+            "K. Clint Allen",
+            "José Baldin Pinheiro",
+            "Steven J. Clough",
+            "Maria Imaculada Zucchi"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.researchsquare.com/article/rs-180427/latest.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.21769/bioprotoc.924",
+        "title": "IEF-2DE Analysis and Protein Identification",
+        "journal": "BIO-PROTOCOL",
+        "year": 2013,
+        "citations": 1,
+        "authors": "Xia Wu, Steven J. Clough, Steven C. Huber et al.",
+        "authors_list": [
+            "Xia Wu",
+            "Steven J. Clough",
+            "Steven C. Huber",
+            "Man‐Ho Oh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bio-protocol.org/pdf/Bio-protocol924.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00497-022-00447-2",
+        "title": "Characterization and analysis of the promoter region of monodehydroascorbate reductase 4 (CpMDAR4) in papaya",
+        "journal": "Plant Reproduction",
+        "year": 2022,
+        "citations": 1,
+        "authors": "Dessireé Zerpa‐Catanho, Steven J. Clough, Ray Ming",
+        "authors_list": [
+            "Dessireé Zerpa‐Catanho",
+            "Steven J. Clough",
+            "Ray Ming"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.6084/m9.figshare.5580463.v1",
+        "title": "Additional file 3: Figure S3. of Genome-wide association mapping of resistance to a Brazilian isolate of Sclerotinia sclerotiorum in soybean genotypes mostly from Brazil",
+        "journal": "Figshare",
+        "year": 2017,
+        "citations": 0,
+        "authors": "Wei Wei, Ana Mesquita, Adriana FigueirĂł et al.",
+        "authors_list": [
+            "Wei Wei",
+            "Ana Mesquita",
+            "Adriana FigueirĂł",
+            "Xing Wu",
+            "Shilpa Manjunatha",
+            "Daniel P. Wickland",
+            "Matthew Hudson",
+            "Fernando Cézar Juliatti",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.6084/m9.figshare.5580499.v1",
+        "title": "Additional file 5: Table S2. of Genome-wide association mapping of resistance to a Brazilian isolate of Sclerotinia sclerotiorum in soybean genotypes mostly from Brazil",
+        "journal": "Figshare",
+        "year": 2017,
+        "citations": 0,
+        "authors": "Wei Wei, Ana Mesquita, Adriana FigueirĂł et al.",
+        "authors_list": [
+            "Wei Wei",
+            "Ana Mesquita",
+            "Adriana FigueirĂł",
+            "Xing Wu",
+            "Shilpa Manjunatha",
+            "Daniel P. Wickland",
+            "Matthew Hudson",
+            "Fernando Cézar Juliatti",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.6084/m9.figshare.5580520.v1",
+        "title": "Additional file 6: Table S3. of Genome-wide association mapping of resistance to a Brazilian isolate of Sclerotinia sclerotiorum in soybean genotypes mostly from Brazil",
+        "journal": "Figshare",
+        "year": 2017,
+        "citations": 0,
+        "authors": "Wei Wei, Ana Mesquita, Adriana FigueirĂł et al.",
+        "authors_list": [
+            "Wei Wei",
+            "Ana Mesquita",
+            "Adriana FigueirĂł",
+            "Xing Wu",
+            "Shilpa Manjunatha",
+            "Daniel P. Wickland",
+            "Matthew Hudson",
+            "Fernando Cézar Juliatti",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.6084/m9.figshare.c.3924640_d4",
+        "title": "Additional file 4: Table S1. of Genome-wide association mapping of resistance to a Brazilian isolate of Sclerotinia sclerotiorum in soybean genotypes mostly from Brazil",
+        "journal": "Figshare",
+        "year": 2017,
+        "citations": 0,
+        "authors": "Wei, Wei, Ana Mesquita, Adriana FigueirĂł et al.",
+        "authors_list": [
+            "Wei, Wei",
+            "Ana Mesquita",
+            "Adriana FigueirĂł",
+            "Xing Wu",
+            "Shilpa Manjunatha",
+            "Daniel P. Wickland",
+            "Matthew E. Hudson",
+            "Fernando Cézar Juliatti",
+            "Steven J. Clough"
+        ],
+        "type": "dataset",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.6084/m9.figshare.5580454",
+        "title": "Additional file 2: Figure S2. of Genome-wide association mapping of resistance to a Brazilian isolate of Sclerotinia sclerotiorum in soybean genotypes mostly from Brazil",
+        "journal": "Figshare",
+        "year": 2017,
+        "citations": 0,
+        "authors": "Wei Wei, Ana Mesquita, Adriana FigueirĂł et al.",
+        "authors_list": [
+            "Wei Wei",
+            "Ana Mesquita",
+            "Adriana FigueirĂł",
+            "Xing Wu",
+            "Shilpa Manjunatha",
+            "Daniel P. Wickland",
+            "Matthew Hudson",
+            "Fernando Cézar Juliatti",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.6084/m9.figshare.c.3924640_d7",
+        "title": "Additional file 7: Table S4. of Genome-wide association mapping of resistance to a Brazilian isolate of Sclerotinia sclerotiorum in soybean genotypes mostly from Brazil",
+        "journal": "Figshare",
+        "year": 2017,
+        "citations": 0,
+        "authors": "Wei, Wei, Ana Mesquita, Adriana FigueirĂł et al.",
+        "authors_list": [
+            "Wei, Wei",
+            "Ana Mesquita",
+            "Adriana FigueirĂł",
+            "Xing Wu",
+            "Shilpa Manjunatha",
+            "Daniel P. Wickland",
+            "Matthew E. Hudson",
+            "Fernando Cézar Juliatti",
+            "Steven J. Clough"
+        ],
+        "type": "dataset",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/ee/nvaf102",
+        "title": "Monitoring Eastern flower thrips and soybean thrips (Thysanoptera: Thripidae) and the generalist predator, insidious flower bug (Hemiptera: Anthocoridae) in the American Midwest Suction Trap Network",
+        "journal": "Environmental Entomology",
+        "year": 2025,
+        "citations": 0,
+        "authors": "Doris Lagos‐Kutz, Nicholas J. Seiter, Kelley J. Tilmon et al.",
+        "authors_list": [
+            "Doris Lagos‐Kutz",
+            "Nicholas J. Seiter",
+            "Kelley J. Tilmon",
+            "Anthony J. McMechan",
+            "G. L. Hartman",
+            "Steven J. Clough",
+            "Brenda Molano‐Flores",
+            "Michael S. Crossley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.6084/m9.figshare.5580433.v1",
+        "title": "Additional file 1: Figure S1. of Genome-wide association mapping of resistance to a Brazilian isolate of Sclerotinia sclerotiorum in soybean genotypes mostly from Brazil",
+        "journal": "Figshare",
+        "year": 2017,
+        "citations": 0,
+        "authors": "Wei Wei, Ana Mesquita, Adriana FigueirĂł et al.",
+        "authors_list": [
+            "Wei Wei",
+            "Ana Mesquita",
+            "Adriana FigueirĂł",
+            "Xing Wu",
+            "Shilpa Manjunatha",
+            "Daniel P. Wickland",
+            "Matthew Hudson",
+            "Fernando Cézar Juliatti",
+            "Steven J. Clough"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.6084/m9.figshare.4418087",
+        "title": "Additional file 1: of The role of invertases in plant compensatory responses to simulated herbivory",
+        "journal": "Figshare",
+        "year": 2015,
+        "citations": 0,
+        "authors": "Madhura Siddappaji, Daniel R. Scholes, Sindhu M. Krishnankutty et al.",
+        "authors_list": [
+            "Madhura Siddappaji",
+            "Daniel R. Scholes",
+            "Sindhu M. Krishnankutty",
+            "Bernarda Calla",
+            "Steven J. Clough",
+            "Raymond E. Zielinski",
+            "Ken N. Paige"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2139/ssrn.5221266",
+        "title": "Evaluation of Foliar Diseases for Soybean Genotypes in the Pan African Soybean Variety Trials",
+        "journal": "SSRN Electronic Journal",
+        "year": 2025,
+        "citations": 0,
+        "authors": "Harun M. Murithi, Michelle L. Pawlowski, Deresse Hunde et al.",
+        "authors_list": [
+            "Harun M. Murithi",
+            "Michelle L. Pawlowski",
+            "Deresse Hunde",
+            "Molla Malede",
+            "Tony Obua",
+            "Florence Kamwana",
+            "Macdonald Nundwe",
+            "Issah Alidu Abukari",
+            "James Njoroge",
+            "Nachilima Christabell",
+            "Godfree Chigeza",
+            "Danny Coyne",
+            "Phinehas Tukamuhabwa",
+            "G. L. Hartman",
+            "Steven J. Clough"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.2139/ssrn.5221266"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1365-3040.2010.02167.x",
+        "title": "Biotic stress globally downregulates photosynthesis genes",
+        "journal": "Plant, Cell &amp; Environment",
+        "year": 2010,
+        "citations": 524,
+        "authors": "DAMLA D. BILGIN, JORGE A. ZAVALA, JIN ZHU et al.",
+        "authors_list": [
+            "DAMLA D. BILGIN",
+            "JORGE A. ZAVALA",
+            "JIN ZHU",
+            "STEVEN J. CLOUGH",
+            "DONALD R. ORT",
+            "EVAN H. DeLUCIA"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 524
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2010.02167.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.3835/plantgenome2008.02.0091",
+        "title": "Identification of Four Soybean Reference Genes for Gene Expression Normalization",
+        "journal": "The Plant Genome",
+        "year": 2008,
+        "citations": 289,
+        "authors": "M. Libault, S. Thibivilliers, D. D. Bilgin et al.",
+        "authors_list": [
+            "M. Libault",
+            "S. Thibivilliers",
+            "D. D. Bilgin",
+            "O. Radwan",
+            "M. Benitez",
+            "S. J. Clough",
+            "G. Stacey"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 289
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.3835/plantgenome2008.02.0091"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1104/pp.109.148379",
+        "title": "Complete Transcriptome of the Soybean Root Hair Cell, a Single-Cell Model, and Its Alteration in Response to<i>Bradyrhizobium japonicum</i>Infection      ",
+        "journal": "Plant Physiology",
+        "year": 2010,
+        "citations": 283,
+        "authors": "Marc Libault, Andrew Farmer, Laurent Brechenmacher et al.",
+        "authors_list": [
+            "Marc Libault",
+            "Andrew Farmer",
+            "Laurent Brechenmacher",
+            "Jenny Drnevich",
+            "Raymond J. Langley",
+            "Damla D. Bilgin",
+            "Osman Radwan",
+            "David J. Neece",
+            "Steven J. Clough",
+            "Gregory D. May",
+            "Gary Stacey"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 283
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/152/2/541/38106306/plphys_v152_2_541.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1186/1471-2229-6-26",
+        "title": "Transcriptome changes in the phenylpropanoid pathway of Glycine max in response to Pseudomonas syringaeinfection",
+        "journal": "BMC Plant Biology",
+        "year": 2006,
+        "citations": 139,
+        "authors": "Gracia Zabala, Jijun Zou, Jigyasa Tuteja et al.",
+        "authors_list": [
+            "Gracia Zabala",
+            "Jijun Zou",
+            "Jigyasa Tuteja",
+            "Delkin O Gonzalez",
+            "Steven J Clough",
+            "Lila O Vodkin"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 139
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bmcplantbiol.biomedcentral.com/counter/pdf/10.1186/1471-2229-6-26"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1128/aem.63.3.844-850.1997",
+        "title": "Differential Expression of Virulence Genes and Motility in Ralstonia (Pseudomonas) solanacearum during Exponential Growth",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 1997,
+        "citations": 80,
+        "authors": "S J Clough, A B Flavier, M A Schell et al.",
+        "authors_list": [
+            "S J Clough",
+            "A B Flavier",
+            "M A Schell",
+            "T P Denny"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 80
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/63/3/844.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1007/978-94-011-5242-6_2",
+        "title": "Agrobacterium Germ-Line Transformation: Transformation of Arabidopsis without Tissue Culture",
+        "journal": "Plant Molecular Biology Manual",
+        "year": 1998,
+        "citations": 23,
+        "authors": "Andrew F. Bent, Steven J. Clough",
+        "authors_list": [
+            "Andrew F. Bent",
+            "Steven J. Clough"
+        ],
+        "type": "book-chapter",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 23
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/nprot.2008.249",
+        "title": "A robust plant RNA isolation method suitable for Affymetrix GeneChip analysis and quantitative real-time RT-PCR",
+        "journal": "Nature Protocols",
+        "year": 2009,
+        "citations": 56,
+        "authors": "Damla D Bilgin, Evan H DeLucia, Steven J Clough",
+        "authors_list": [
+            "Damla D Bilgin",
+            "Evan H DeLucia",
+            "Steven J Clough"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 56
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1371/journal.pone.0025293",
+        "title": "The Orphan Gene ybjN Conveys Pleiotropic Effects on Multicellular Behavior and Survival of Escherichia coli",
+        "journal": "PLoS ONE",
+        "year": null,
+        "citations": 24,
+        "authors": "Dongping Wang, Bernarda Calla, Sornkanok Vimolmangkang et al.",
+        "authors_list": [
+            "Dongping Wang",
+            "Bernarda Calla",
+            "Sornkanok Vimolmangkang",
+            "Xia Wu",
+            "Schuyler S. Korban",
+            "Steven C. Huber",
+            "Steven J. Clough",
+            "Youfu Zhao"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 24
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0025293&type=printable"
+        }
+    }
+]

@@ -1,0 +1,3292 @@
+[
+    {
+        "doi": "https://doi.org/10.1016/0092-8674(95)90534-0",
+        "title": "The protein kinase encoded by the Akt proto-oncogene is a target of the PDGF-activated phosphatidylinositol 3-kinase",
+        "journal": "Cell",
+        "year": 1995,
+        "citations": 2028,
+        "authors": "Thomas Franke, Sung‐Il Yang, Tung O. Chan et al.",
+        "authors_list": [
+            "Thomas Franke",
+            "Sung‐Il Yang",
+            "Tung O. Chan",
+            "Ketaki Datta",
+            "Andrius Kazlauskas",
+            "Deborah K. Morrison",
+            "David R. Kaplan",
+            "Philip N. Tsichlis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2028,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/0092-8674(95)90534-0"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/370071a0",
+        "title": "PDGF- and insulin-dependent pp70S6k activation mediated by phosphatidylinositol-3-OH kinase",
+        "journal": "Nature",
+        "year": 1994,
+        "citations": 724,
+        "authors": "Jongkyeong Chung, Timothy C. Grammar, Katherine P. Lemon et al.",
+        "authors_list": [
+            "Jongkyeong Chung",
+            "Timothy C. Grammar",
+            "Katherine P. Lemon",
+            "Andrius Kazlauskas",
+            "John Blenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 724,
+            "crossref": 566
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0092-8674(93)90232-f",
+        "title": "Phospholipase C-γ1 and phosphatidylinositol 3 kinase are the downstream mediators of the PDGF receptor's mitogenic signal",
+        "journal": "Cell",
+        "year": 1993,
+        "citations": 657,
+        "authors": "Mindaugas Valius, Andrius Kazlauskas",
+        "authors_list": [
+            "Mindaugas Valius",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 657,
+            "crossref": 522
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1056/nejmoa052955",
+        "title": "Stimulatory Autoantibodies to the PDGF Receptor in Systemic Sclerosis",
+        "journal": "New England Journal of Medicine",
+        "year": 2006,
+        "citations": 578,
+        "authors": "Silvia Svegliati Baroni, Mariarosaria Santillo, Federica Bevilacqua et al.",
+        "authors_list": [
+            "Silvia Svegliati Baroni",
+            "Mariarosaria Santillo",
+            "Federica Bevilacqua",
+            "Michele Maria Luchetti",
+            "Tatiana Spadoni",
+            "Matteo Mancini",
+            "Paolo Fraticelli",
+            "Paola Sambo",
+            "Ada Funaro",
+            "Andrius Kazlauskas",
+            "Enrico V. Avvedimento",
+            "Armando Gabrielli"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 578,
+            "crossref": 494
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa052955?articleTools=true"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0092-8674(89)90510-2",
+        "title": "Autophosphorylation of the PDGF receptor in the kinase insert region regulates interactions with cell proteins",
+        "journal": "Cell",
+        "year": 1989,
+        "citations": 519,
+        "authors": "Andrius Kazlauskas, Jonathan A. Cooper",
+        "authors_list": [
+            "Andrius Kazlauskas",
+            "Jonathan A. Cooper"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 519,
+            "crossref": 364
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0092-8674(00)80785-0",
+        "title": "Diverse Signaling Pathways Activated by Growth Factor Receptors Induce Broadly Overlapping, Rather Than Independent, Sets of Genes",
+        "journal": "Cell",
+        "year": 1999,
+        "citations": 445,
+        "authors": "Douglas M. Fambrough, Kimberly D. McClure, Andrius Kazlauskas et al.",
+        "authors_list": [
+            "Douglas M. Fambrough",
+            "Kimberly D. McClure",
+            "Andrius Kazlauskas",
+            "Eric S. Lander"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 445,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S0092867400807850/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/367474a0",
+        "title": "Regulation of chemotaxis by the platelet-derived growth factor receptor-β",
+        "journal": "Nature",
+        "year": 1994,
+        "citations": 439,
+        "authors": "Vikas Kundra, Jaime A. Escobedo, Andrius Kazlauskas et al.",
+        "authors_list": [
+            "Vikas Kundra",
+            "Jaime A. Escobedo",
+            "Andrius Kazlauskas",
+            "Ha Kun Kim",
+            "Sue Goo Rhee",
+            "Lewis T. Williams",
+            "Bruce R. Zetter"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 439,
+            "crossref": 365
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1101/gad.13.18.2400",
+        "title": "c-Abl is activated by growth factors and Src family kinases and has a role in the cellular response to PDGF",
+        "journal": "Genes & Development",
+        "year": 1999,
+        "citations": 426,
+        "authors": "Rina Plattner, Lisa Kadlec, Kris A. DeMali et al.",
+        "authors_list": [
+            "Rina Plattner",
+            "Lisa Kadlec",
+            "Kris A. DeMali",
+            "Andrius Kazlauskas",
+            "Ann Marie Pendergast"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 426,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://genesdev.cshlp.org/content/13/18/2400.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.2157284",
+        "title": "Binding of GAP to Activated PDGF Receptors",
+        "journal": "Science",
+        "year": 1990,
+        "citations": 391,
+        "authors": "Andrius Kazlauskas, Christine Ellis, Tony Pawson et al.",
+        "authors_list": [
+            "Andrius Kazlauskas",
+            "Christine Ellis",
+            "Tony Pawson",
+            "Jonathan A. Cooper"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 391,
+            "crossref": 262
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cytogfr.2004.03.003",
+        "title": "PDGF signaling in cells and mice",
+        "journal": "Cytokine & Growth Factor Reviews",
+        "year": 2004,
+        "citations": 387,
+        "authors": "Michelle D. Tallquist, Andrius Kazlauskas",
+        "authors_list": [
+            "Michelle D. Tallquist",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 387,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/j.1460-2075.1992.tb05182.x",
+        "title": "Phosphorylation sites in the PDGF receptor with different specificities for binding GAP and PI3 kinase in vivo.",
+        "journal": "The EMBO Journal",
+        "year": 1992,
+        "citations": 318,
+        "authors": "Adam Kashishian, Andrius Kazlauskas, Jonathan A. Cooper",
+        "authors_list": [
+            "Adam Kashishian",
+            "Andrius Kazlauskas",
+            "Jonathan A. Cooper"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 318,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/j.1460-2075.1992.tb05182.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.275.14.10527",
+        "title": "Platelet-derived Growth Factor-induced H2O2 Production Requires the Activation of Phosphatidylinositol 3-Kinase",
+        "journal": "Journal of Biological Chemistry",
+        "year": 2000,
+        "citations": 311,
+        "authors": "Yun Soo Bae, Jee-Young Sung, Ohn-Soon Kim et al.",
+        "authors_list": [
+            "Yun Soo Bae",
+            "Jee-Young Sung",
+            "Ohn-Soon Kim",
+            "Yeun Ju Kim",
+            "Kyu Chung Hur",
+            "Andrius Kazlauskas",
+            "Sue Goo Rhee"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 311,
+            "crossref": 262
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1074/jbc.275.14.10527"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1439759",
+        "title": "The B Cell Antigen Receptor Complex: Association of Ig-α and Ig-β with Distinct Cytoplasmic Effectors",
+        "journal": "Science",
+        "year": 1992,
+        "citations": 303,
+        "authors": "Marcus R. Clark, Kerry S. Campbell, Andrius Kazlauskas et al.",
+        "authors_list": [
+            "Marcus R. Clark",
+            "Kerry S. Campbell",
+            "Andrius Kazlauskas",
+            "Sara A. Johnson",
+            "W. Hertz",
+            "Terry A. Potter",
+            "Chris Pleiman",
+            "John C. Cambier"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 303,
+            "crossref": 218
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.8303278",
+        "title": "Disruption of PDGF Receptor Trafficking by Mutation of Its PI-3 Linase Binding Sites",
+        "journal": "Science",
+        "year": 1994,
+        "citations": 298,
+        "authors": "Marguerite Joly, Andrius Kazlauskas, Fredric S. Fay et al.",
+        "authors_list": [
+            "Marguerite Joly",
+            "Andrius Kazlauskas",
+            "Fredric S. Fay",
+            "Silvia Corvera"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 298,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/35055073",
+        "title": "Growth-factor-dependent mitogenesis requires two distinct phases of signalling",
+        "journal": "Nature Cell Biology",
+        "year": 2001,
+        "citations": 264,
+        "authors": "Steven M. Jones, Andrius Kazlauskas",
+        "authors_list": [
+            "Steven M. Jones",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 264,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/mcb.12.6.2534",
+        "title": "GTPase-activating protein and phosphatidylinositol 3-kinase bind to distinct regions of the platelet-derived growth factor receptor beta subunit.",
+        "journal": "Molecular and Cellular Biology",
+        "year": 1992,
+        "citations": 228,
+        "authors": "Andrius Kazlauskas, Adam Kashishian, Jonathan A. Cooper et al.",
+        "authors_list": [
+            "Andrius Kazlauskas",
+            "Adam Kashishian",
+            "Jonathan A. Cooper",
+            "Mindaugas Valius"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 228,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://mcb.asm.org/content/mcb/12/6/2534.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/emboj.2012.21",
+        "title": "Axl is essential for VEGF‐A‐dependent activation of PI3K/Akt",
+        "journal": "The EMBO Journal",
+        "year": 2012,
+        "citations": 222,
+        "authors": "Guo-Xiang Ruan, Andrius Kazlauskas",
+        "authors_list": [
+            "Guo-Xiang Ruan",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 222,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1038/emboj.2012.21"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.273.37.23750",
+        "title": "Phosphoinositide 3-Kinase Regulates Phospholipase Cγ-mediated Calcium Signaling",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1998,
+        "citations": 219,
+        "authors": "Lucia E. Rameh, Sue Goo Rhee, Katherine Spokes et al.",
+        "authors_list": [
+            "Lucia E. Rameh",
+            "Sue Goo Rhee",
+            "Katherine Spokes",
+            "Andrius Kazlauskas",
+            "Lewis C. Cantley",
+            "Lewis C. Cantley",
+            "Lewis C. Cantley",
+            "Lewis C. Cantley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 219,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1074/jbc.273.37.23750"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.90.15.6939",
+        "title": "The 64-kDa protein that associates with the platelet-derived growth factor receptor beta subunit via Tyr-1009 is the SH2-containing phosphotyrosine phosphatase Syp.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1993,
+        "citations": 213,
+        "authors": "Andrius Kazlauskas, Gen‐Sheng Feng, Tony Pawson et al.",
+        "authors_list": [
+            "Andrius Kazlauskas",
+            "Gen‐Sheng Feng",
+            "Tony Pawson",
+            "Mindaugas Valius"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 213,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.gene.2017.03.003",
+        "title": "PDGFs and their receptors",
+        "journal": "Gene",
+        "year": 2017,
+        "citations": 210,
+        "authors": "Andrius Kazlauskas",
+        "authors_list": [
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 210,
+            "crossref": 178
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/6728141"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3109/08977199909002130",
+        "title": "Evidence for Distinct Signaling Properties and Biological Responses Induced by the PDGF Receptor α and β Subtypes",
+        "journal": "Growth Factors",
+        "year": 1999,
+        "citations": 195,
+        "authors": "Stephan Rosenkranz, Andrius Kazlauskas",
+        "authors_list": [
+            "Stephan Rosenkranz",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 195,
+            "crossref": 153
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Induction of vascular endothelial growth factor expression in endothelial cells by platelet-derived growth factor through the activation of phosphatidylinositol 3-kinase.",
+        "journal": "PubMed",
+        "year": 1999,
+        "citations": 190,
+        "authors": "D Wang, Hui Huang, Andrius Kazlauskas et al.",
+        "authors_list": [
+            "D Wang",
+            "Hui Huang",
+            "Andrius Kazlauskas",
+            "Webster K. Cavenee"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 190,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/mcb.12.3.991-997.1992",
+        "title": "SH2 Domains of the p85α Subunit of Phosphatidylinositol 3-Kinase Regulate Binding to Growth Factor Receptors",
+        "journal": "Molecular and Cellular Biology",
+        "year": 1992,
+        "citations": 185,
+        "authors": "C Jane McGlade, Christine Ellis, Michael Reedijk et al.",
+        "authors_list": [
+            "C Jane McGlade",
+            "Christine Ellis",
+            "Michael Reedijk",
+            "Deborah H. Anderson",
+            "Geraldine Mbamalu",
+            "Alastair D. Reith",
+            "George Panayotou",
+            "Peter End",
+            "Alan Bernstein",
+            "Andrius Kazlauskas",
+            "Michael D. Waterfield",
+            "Tony Pawson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 185,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/369531"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0959-437x(94)90085-x",
+        "title": "Receptor tyrosine kinases and their targets",
+        "journal": "Current Opinion in Genetics & Development",
+        "year": 1994,
+        "citations": 180,
+        "authors": "Andrius Kazlauskas",
+        "authors_list": [
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 180,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.m113.474619",
+        "title": "Lactate Engages Receptor Tyrosine Kinases Axl, Tie2, and Vascular Endothelial Growth Factor Receptor 2 to Activate Phosphoinositide 3-Kinase/Akt and Promote Angiogenesis",
+        "journal": "Journal of Biological Chemistry",
+        "year": 2013,
+        "citations": 175,
+        "authors": "Guo-Xiang Ruan, Andrius Kazlauskas",
+        "authors_list": [
+            "Guo-Xiang Ruan",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 175,
+            "crossref": 164
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925820455474/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.93.1.151",
+        "title": "Platelet-derived growth factor activates protein kinase C epsilon through redundant and independent signaling pathways involving phospholipase C gamma or phosphatidylinositol 3-kinase.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1996,
+        "citations": 170,
+        "authors": "Shigeharu Moriya, Andrius Kazlauskas, Kazunori Akimoto et al.",
+        "authors_list": [
+            "Shigeharu Moriya",
+            "Andrius Kazlauskas",
+            "Kazunori Akimoto",
+            "S Hirai",
+            "Keiko Mizuno",
+            "T Takenawa",
+            "Yoko Fukui",
+            "Yutaka Watanabe",
+            "S. OZAKI",
+            "Shigeo Ohno"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 170,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.270.22.13225",
+        "title": "Phosphatidylinositol 3-Kinase Activity Is Required at a Postendocytic Step in Platelet-derived Growth Factor Receptor Trafficking",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1995,
+        "citations": 168,
+        "authors": "Marguerite Joly, Andrius Kazlauskas, Silvia Corvera",
+        "authors_list": [
+            "Marguerite Joly",
+            "Andrius Kazlauskas",
+            "Silvia Corvera"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 168,
+            "crossref": 135
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925818922696/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.preteyeres.2013.12.006",
+        "title": "Is neutralizing vitreal growth factors a viable strategy to prevent proliferative vitreoretinopathy?",
+        "journal": "Progress in Retinal and Eye Research",
+        "year": 2014,
+        "citations": 163,
+        "authors": "Steven Pennock, Luis J. Haddock, Dean Eliott et al.",
+        "authors_list": [
+            "Steven Pennock",
+            "Luis J. Haddock",
+            "Dean Eliott",
+            "Shizuo Mukai",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 163,
+            "crossref": 130
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.270.38.22208",
+        "title": "Identification of a Putative Syp Substrate, the PDGFβ Receptor",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1995,
+        "citations": 158,
+        "authors": "Richard A. Klinghoffer, Andrius Kazlauskas",
+        "authors_list": [
+            "Richard A. Klinghoffer",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 158,
+            "crossref": 135
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925818901213/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0960-9822(99)80235-8",
+        "title": "PDGF induces an early and a late wave of PI 3-kinase activity, and only the late wave is required for progression through G1",
+        "journal": "Current Biology",
+        "year": 1999,
+        "citations": 143,
+        "authors": "Steven M. Jones, Richard A. Klinghoffer, Glenn D. Prestwich et al.",
+        "authors_list": [
+            "Steven M. Jones",
+            "Richard A. Klinghoffer",
+            "Glenn D. Prestwich",
+            "Alex Toker",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 143,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S0960982299802358/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0002-9440(10)65004-3",
+        "title": "Vascular Endothelial Growth Factor and Hepatocyte Growth Factor Levels Are Differentially Elevated in Patients with Advanced Retinopathy of Prematurity",
+        "journal": "American Journal Of Pathology",
+        "year": 2000,
+        "citations": 138,
+        "authors": "Kameran Lashkari, Tatsuo Hirose, Jinoos Yazdany et al.",
+        "authors_list": [
+            "Kameran Lashkari",
+            "Tatsuo Hirose",
+            "Jinoos Yazdany",
+            "J. Wallace McMeel",
+            "Andrius Kazlauskas",
+            "Nader Rahimi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 138,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://ajp.amjpathol.org/article/S0002944010650043/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/mcb.16.10.5905",
+        "title": "Platelet-Derived Growth Factor-Dependent Activation of Phosphatidylinositol 3-Kinase Is Regulated by Receptor Binding of SH2-Domain-Containing Proteins Which Influence Ras Activity",
+        "journal": "Molecular and Cellular Biology",
+        "year": 1996,
+        "citations": 135,
+        "authors": "Richard A. Klinghoffer, Brian Duckworth, Mindaugas Valius et al.",
+        "authors_list": [
+            "Richard A. Klinghoffer",
+            "Brian Duckworth",
+            "Mindaugas Valius",
+            "Lewis C. Cantley",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 135,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://mcb.asm.org/content/mcb/16/10/5905.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.m311494200",
+        "title": "Platelet-derived Growth Factor Receptor-mediated Signal Transduction from Endosomes",
+        "journal": "Journal of Biological Chemistry",
+        "year": 2004,
+        "citations": 134,
+        "authors": "Yi Wang, Steven Pennock, Xinmei Chen et al.",
+        "authors_list": [
+            "Yi Wang",
+            "Steven Pennock",
+            "Xinmei Chen",
+            "Andrius Kazlauskas",
+            "Zhixiang Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 134,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1074/jbc.m311494200"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Platelet-derived growth factor plays a key role in proliferative vitreoretinopathy.",
+        "journal": "PubMed",
+        "year": 1999,
+        "citations": 131,
+        "authors": "A. J. Andrews, Egle Balciunaite, Fee Lai Leong et al.",
+        "authors_list": [
+            "A. J. Andrews",
+            "Egle Balciunaite",
+            "Fee Lai Leong",
+            "Michelle D. Tallquist",
+            "Philippe Soriano",
+            "Miguel F. Refojo",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 131,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0014-5793(01)02113-5",
+        "title": "Growth factor‐dependent signaling and cell cycle progression",
+        "journal": "FEBS Letters",
+        "year": 2001,
+        "citations": 129,
+        "authors": "Steven M. Jones, Andrius Kazlauskas",
+        "authors_list": [
+            "Steven M. Jones",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 129,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1016/S0014-5793%2801%2902113-5"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncb949",
+        "title": "A new link between the c-Abl tyrosine kinase and phosphoinositide signalling through PLC-γ1",
+        "journal": "Nature Cell Biology",
+        "year": 2003,
+        "citations": 124,
+        "authors": "Rina Plattner, Brenda J. Irvin, Shuling Guo et al.",
+        "authors_list": [
+            "Rina Plattner",
+            "Brenda J. Irvin",
+            "Shuling Guo",
+            "Kevin Blackburn",
+            "Andrius Kazlauskas",
+            "Robert T. Abraham",
+            "John D. York",
+            "Ann Marie Pendergast"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 124,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1091/mbc.e04-11-1029",
+        "title": "Cathepsin B Regulates the Intrinsic Angiogenic Threshold of Endothelial Cells",
+        "journal": "Molecular Biology of the Cell",
+        "year": 2005,
+        "citations": 123,
+        "authors": "Eunok Im, Annapurna Venkatakrishnan, Andrius Kazlauskas",
+        "authors_list": [
+            "Eunok Im",
+            "Annapurna Venkatakrishnan",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 123,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/1182291"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.273.27.17050",
+        "title": "Full Activation of the Platelet-derived Growth Factor β-Receptor Kinase Involves Multiple Events",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1998,
+        "citations": 113,
+        "authors": "Ruth Baxter, J. Paul Secrist, Richard R. Vaillancourt et al.",
+        "authors_list": [
+            "Ruth Baxter",
+            "J. Paul Secrist",
+            "Richard R. Vaillancourt",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 113,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925818806433/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/mcb.15.7.3644",
+        "title": "Mitogen-Activated Protein Kinase Activation Is Insufficient for Growth Factor Receptor-Mediated PC12 Cell Differentiation",
+        "journal": "Molecular and Cellular Biology",
+        "year": 1995,
+        "citations": 108,
+        "authors": "Richard R. Vaillancourt, Lynn E. Heasley, Jeffrey Zamarripa et al.",
+        "authors_list": [
+            "Richard R. Vaillancourt",
+            "Lynn E. Heasley",
+            "Jeffrey Zamarripa",
+            "Brooke Storey",
+            "Mindaugas Valius",
+            "Andrius Kazlauskas",
+            "Gary L. Johnson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 108,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://mcb.asm.org/content/mcb/15/7/3644.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/0008-5472.can-06-4647",
+        "title": "Platelet-Derived Growth Factor Receptor β–Mediated Phosphorylation of MUC1 Enhances Invasiveness in Pancreatic Adenocarcinoma Cells",
+        "journal": "Cancer Research",
+        "year": 2007,
+        "citations": 107,
+        "authors": "Pankaj K. Singh, Yunfei Wen, Benjamin J. Swanson et al.",
+        "authors_list": [
+            "Pankaj K. Singh",
+            "Yunfei Wen",
+            "Benjamin J. Swanson",
+            "Kandavel Shanmugam",
+            "Andrius Kazlauskas",
+            "Ronald L. Cerny",
+            "Sandra Gendler",
+            "Michael A. Hollingsworth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 107,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1091/mbc.2.6.413",
+        "title": "Functions of the major tyrosine phosphorylation site of the PDGF receptor beta subunit.",
+        "journal": "Cell Regulation",
+        "year": 1991,
+        "citations": 105,
+        "authors": "Andrius Kazlauskas, Donald L. Durden, Jonathan A. Cooper",
+        "authors_list": [
+            "Andrius Kazlauskas",
+            "Donald L. Durden",
+            "Jonathan A. Cooper"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.m808426200",
+        "title": "Growth Factors Outside of the Platelet-derived Growth Factor (PDGF) Family Employ Reactive Oxygen Species/Src Family Kinases to Activate PDGF Receptor α and Thereby Promote Proliferation and Survival of Cells",
+        "journal": "Journal of Biological Chemistry",
+        "year": 2009,
+        "citations": 104,
+        "authors": "Hetian Lei, Andrius Kazlauskas",
+        "authors_list": [
+            "Hetian Lei",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925820326612/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/j.1460-2075.1988.tb03256.x",
+        "title": "Different effects of homo‐ and heterodimers of platelet‐derived growth factor A and B chains on human and mouse fibroblasts.",
+        "journal": "The EMBO Journal",
+        "year": 1988,
+        "citations": 101,
+        "authors": "Andrius Kazlauskas, Daniel F. Bowen‐Pope, Ronald A. Seifert et al.",
+        "authors_list": [
+            "Andrius Kazlauskas",
+            "Daniel F. Bowen‐Pope",
+            "Ronald A. Seifert",
+            "Charles E. Hart",
+            "Jonathan A. Cooper"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/j.1460-2075.1988.tb03256.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.exer.2009.11.003",
+        "title": "Recent developments in our understanding of how platelet-derived growth factor (PDGF) and its receptors contribute to proliferative vitreoretinopathy",
+        "journal": "Experimental Eye Research",
+        "year": 2009,
+        "citations": 97,
+        "authors": "Hetian Lei, Marc‐André Rhéaume, Andrius Kazlauskas",
+        "authors_list": [
+            "Hetian Lei",
+            "Marc‐André Rhéaume",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.m608985200",
+        "title": "Protein Kinase A-dependent Translocation of Hsp90α Impairs Endothelial Nitric-oxide Synthase Activity in High Glucose and Diabetes",
+        "journal": "Journal of Biological Chemistry",
+        "year": 2007,
+        "citations": 96,
+        "authors": "Hetian Lei, Annapurna Venkatakrishnan, Soyoung Yu et al.",
+        "authors_list": [
+            "Hetian Lei",
+            "Annapurna Venkatakrishnan",
+            "Soyoung Yu",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925819335896/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1172/jci43690",
+        "title": "SHP-2/PTPN11 mediates gliomagenesis driven by PDGFRA and INK4A/ARF aberrations in mice and humans",
+        "journal": "Journal of Clinical Investigation",
+        "year": 2011,
+        "citations": 96,
+        "authors": "Kun-Wei Liu, Haizhong Feng, Robert Bachoo et al.",
+        "authors_list": [
+            "Kun-Wei Liu",
+            "Haizhong Feng",
+            "Robert Bachoo",
+            "Andrius Kazlauskas",
+            "Erin Smith",
+            "Karen Symes",
+            "Ronald L. Hamilton",
+            "Motoo Nagane",
+            "Ryo Nishikawa",
+            "Bo Hu",
+            "Shi-Yuan Cheng"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jci.org/articles/view/43690/files/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.273.10.5908",
+        "title": "A Role for Src in Signal Relay by the Platelet-derived Growth Factor α Receptor",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1998,
+        "citations": 91,
+        "authors": "Julie A. Gelderloos, Stephan Rosenkranz, Chantal Bazenet et al.",
+        "authors_list": [
+            "Julie A. Gelderloos",
+            "Stephan Rosenkranz",
+            "Chantal Bazenet",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 91,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925818678573/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.ppat.1002905",
+        "title": "PDGF Receptor-α Does Not Promote HCMV Entry into Epithelial and Endothelial Cells but Increased Quantities Stimulate Entry by an Abnormal Pathway",
+        "journal": "PLoS Pathogens",
+        "year": 2012,
+        "citations": 89,
+        "authors": "Adam L. Vanarsdall, Todd W. Wisner, Hetian Lei et al.",
+        "authors_list": [
+            "Adam L. Vanarsdall",
+            "Todd W. Wisner",
+            "Hetian Lei",
+            "Andrius Kazlauskas",
+            "David C. Johnson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plospathogens/article/file?id=10.1371/journal.ppat.1002905&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.274.40.28335",
+        "title": "Identification of the Receptor-associated Signaling Enzymes That Are Required for Platelet-derived Growth Factor-AA-dependent Chemotaxis and DNA Synthesis",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1999,
+        "citations": 87,
+        "authors": "Stephan Rosenkranz, Kris A. DeMali, Julie A. Gelderloos et al.",
+        "authors_list": [
+            "Stephan Rosenkranz",
+            "Kris A. DeMali",
+            "Julie A. Gelderloos",
+            "Chantal Bazenet",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925819520555/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/mcb.15.5.2570",
+        "title": "Ligand-Independent Activation of the Platelet-Derived Growth Factor β Receptor: Requirements for Bovine Papillomavirus E5-Induced Mitogenic Signaling",
+        "journal": "Molecular and Cellular Biology",
+        "year": 1995,
+        "citations": 84,
+        "authors": "Daniela Drummond‐Barbosa, Richard R. Vaillancourt, Andrius Kazlauskas et al.",
+        "authors_list": [
+            "Daniela Drummond‐Barbosa",
+            "Richard R. Vaillancourt",
+            "Andrius Kazlauskas",
+            "Daniel DiMaio"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://mcb.asm.org/content/mcb/15/5/2570.full.pdf"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Hepatocyte growth factor receptor in human RPE cells: implications in proliferative vitreoretinopathy.",
+        "journal": "PubMed",
+        "year": 1999,
+        "citations": 83,
+        "authors": "Kameran Lashkari, Nader Rahimi, Andrius Kazlauskas",
+        "authors_list": [
+            "Kameran Lashkari",
+            "Nader Rahimi",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 83,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1167/iovs.08-3042",
+        "title": "Growth Factors Outside the PDGF Family Drive Experimental PVR",
+        "journal": "Investigative Ophthalmology & Visual Science",
+        "year": 2009,
+        "citations": 81,
+        "authors": "Hetian Lei, Gisela Velez, Peter Hovland et al.",
+        "authors_list": [
+            "Hetian Lei",
+            "Gisela Velez",
+            "Peter Hovland",
+            "Tatsuo Hirose",
+            "Debra G. Gilbertson",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iovs.arvojournals.org/arvo/content_public/journal/iovs/933246/z7g00709003394.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0021-9258(18)46860-3",
+        "title": "Activation of phospholipase C-gamma is necessary for stimulation of phospholipase D by platelet-derived growth factor.",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1994,
+        "citations": 81,
+        "authors": "Eui‐Ju Yeo, Andrius Kazlauskas, John H. Exton",
+        "authors_list": [
+            "Eui‐Ju Yeo",
+            "Andrius Kazlauskas",
+            "John H. Exton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0021-9258(18)46860-3"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/mcb.24.6.2573-2583.2004",
+        "title": "Bidirectional Signaling Links the Abelson Kinases to the Platelet-Derived Growth Factor Receptor",
+        "journal": "Molecular and Cellular Biology",
+        "year": 2004,
+        "citations": 79,
+        "authors": "Rina Plattner, Anthony J. Koleske, Andrius Kazlauskas et al.",
+        "authors_list": [
+            "Rina Plattner",
+            "Anthony J. Koleske",
+            "Andrius Kazlauskas",
+            "Ann Marie Pendergast"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 79,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/355852"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.274.28.19551",
+        "title": "Integrins Enhance Platelet-derived Growth Factor (PDGF)-dependent Responses by Altering the Signal Relay Enzymes That Are Recruited to the PDGF β Receptor",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1999,
+        "citations": 79,
+        "authors": "Kris A. DeMali, Egle Balciunaite, Andrius Kazlauskas",
+        "authors_list": [
+            "Kris A. DeMali",
+            "Egle Balciunaite",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 79,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1074/jbc.274.28.19551"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1096/fasebj.13.12.1593",
+        "title": "Platelet‐derived growth factor‐induced activation of sphingosine kinase requires phosphorylation of the PDGF receptor tyrosine residue responsible for binding of PLCγ",
+        "journal": "The FASEB Journal",
+        "year": 1999,
+        "citations": 78,
+        "authors": "Ana Olivera, Lisa C. Edsall, Samantha Poulton et al.",
+        "authors_list": [
+            "Ana Olivera",
+            "Lisa C. Edsall",
+            "Samantha Poulton",
+            "Andrius Kazlauskas",
+            "Sarah Spiegel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.exer.2007.10.013",
+        "title": "Pericytes and ocular diseases",
+        "journal": "Experimental Eye Research",
+        "year": 2007,
+        "citations": 77,
+        "authors": "Rūta Motiejūnaitė, Andrius Kazlauskas",
+        "authors_list": [
+            "Rūta Motiejūnaitė",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.exer.2008.10.020",
+        "title": "PDGF receptors are activated in human epiretinal membranes",
+        "journal": "Experimental Eye Research",
+        "year": 2008,
+        "citations": 77,
+        "authors": "Jing Cui, Hetian Lei, Arif Samad et al.",
+        "authors_list": [
+            "Jing Cui",
+            "Hetian Lei",
+            "Arif Samad",
+            "S. Basavanthappa",
+            "David Maberley",
+            "Joanne A. Matsubara",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2692287"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.m114.634154",
+        "title": "Insulin-like Growth Factor 1 (IGF-1) Stabilizes Nascent Blood Vessels",
+        "journal": "Journal of Biological Chemistry",
+        "year": 2015,
+        "citations": 76,
+        "authors": "Sarah Melissa P Jacobo, Andrius Kazlauskas",
+        "authors_list": [
+            "Sarah Melissa P Jacobo",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925819467744/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/sj.onc.1203858",
+        "title": "Connecting signaling and cell cycle progression in growth factor-stimulated cells",
+        "journal": "Oncogene",
+        "year": 2000,
+        "citations": 75,
+        "authors": "Steven M Jones, Andrius Kazlauskas",
+        "authors_list": [
+            "Steven M Jones",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/1203858.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/mcb.16.12.6926",
+        "title": "Phosphorylation of Tyrosine 720 in the Platelet-Derived Growth Factor α Receptor Is Required for Binding of Grb2 and SHP-2 but Not for Activation of Ras or Cell Proliferation",
+        "journal": "Molecular and Cellular Biology",
+        "year": 1996,
+        "citations": 74,
+        "authors": "Chantal Bazenet, Julie A. Gelderloos, Andrius Kazlauskas",
+        "authors_list": [
+            "Chantal Bazenet",
+            "Julie A. Gelderloos",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/231696"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0013608",
+        "title": "Profilin-1 Is Expressed in Human Atherosclerotic Plaques and Induces Atherogenic Effects on Vascular Smooth Muscle Cells",
+        "journal": "PLoS ONE",
+        "year": 2010,
+        "citations": 74,
+        "authors": "Evren Caglayan, Giulio R. Romeo, Kai Kappert et al.",
+        "authors_list": [
+            "Evren Caglayan",
+            "Giulio R. Romeo",
+            "Kai Kappert",
+            "Margarete Odenthal",
+            "Michael Südkamp",
+            "Simon C. Body",
+            "Stanton K. Shernan",
+            "Daniel Hackbusch",
+            "Marius Vantler",
+            "Andrius Kazlauskas",
+            "Stephan Rosenkranz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0013608&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.271.27.16151",
+        "title": "Platelet-derived Growth Factor Induces a Long-term Inhibition of -Methyl-D-aspartate Receptor Function",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1996,
+        "citations": 71,
+        "authors": "C. Fernando Valenzuela, Zhi‐Gang Xiong, John F. MacDonald et al.",
+        "authors_list": [
+            "C. Fernando Valenzuela",
+            "Zhi‐Gang Xiong",
+            "John F. MacDonald",
+            "Jeff L. Weiner",
+            "Charles J. Frazier",
+            "Thomas V. Dunwiddie",
+            "Andrius Kazlauskas",
+            "Paul J. Whiting",
+            "R. Adron Harris"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925818485924/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0960-9822(98)70400-2",
+        "title": "Src-like adaptor protein (Slap) is a negative regulator of mitogenesis",
+        "journal": "Current Biology",
+        "year": 1998,
+        "citations": 70,
+        "authors": "Serge Roche, Gema Alonso, Andrius Kazlauskas et al.",
+        "authors_list": [
+            "Serge Roche",
+            "Gema Alonso",
+            "Andrius Kazlauskas",
+            "Vishva M. Dixit",
+            "Sara A. Courtneidge",
+            "Akhilesh Pandey"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S0960982298704002/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.m302896200",
+        "title": "Involvement of Phospholipase D2 in Lysophosphatidate-induced Transactivation of Platelet-derived Growth Factor Receptor-β in Human Bronchial Epithelial Cells",
+        "journal": "Journal of Biological Chemistry",
+        "year": 2003,
+        "citations": 70,
+        "authors": "Lixin Wang, Rhett Cummings, Yutong Zhao et al.",
+        "authors_list": [
+            "Lixin Wang",
+            "Rhett Cummings",
+            "Yutong Zhao",
+            "Andrius Kazlauskas",
+            "James K.S. Sham",
+            "Andrew J. Morris",
+            "Steve N. Georas",
+            "David N. Brindley",
+            "Viswanathan Natarajan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1074/jbc.m302896200"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1242/jcs.01156",
+        "title": "A NHERF binding site links the βPDGFR to the cytoskeleton and regulates cell spreading and migration",
+        "journal": "Journal of Cell Science",
+        "year": 2004,
+        "citations": 70,
+        "authors": "Marianne F. James, Roberta L. Beauchamp, Nitasha Manchanda et al.",
+        "authors_list": [
+            "Marianne F. James",
+            "Roberta L. Beauchamp",
+            "Nitasha Manchanda",
+            "Andrius Kazlauskas",
+            "Vijaya Ramesh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.biologists.com/jcs/article-pdf/117/14/2951/1364026/2951.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2353/ajpath.2010.090604",
+        "title": "N-Acetylcysteine Suppresses Retinal Detachment in an Experimental Model of Proliferative Vitreoretinopathy",
+        "journal": "American Journal Of Pathology",
+        "year": 2010,
+        "citations": 70,
+        "authors": "Hetian Lei, Gisela Velez, Jing Cui et al.",
+        "authors_list": [
+            "Hetian Lei",
+            "Gisela Velez",
+            "Jing Cui",
+            "Arif Samad",
+            "David Maberley",
+            "Joanne A. Matsubara",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://ajp.amjpathol.org/article/S0002944010600703/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1006/bbrc.1997.6289",
+        "title": "Requirement of Phosphatidylinositol-3 Kinase for Activation of JNK/SAPKs by PDGF",
+        "journal": "Biochemical and Biophysical Research Communications",
+        "year": 1997,
+        "citations": 69,
+        "authors": "Marco López-Ilasaca, Weiqun Li, Aykut Üren et al.",
+        "authors_list": [
+            "Marco López-Ilasaca",
+            "Weiqun Li",
+            "Aykut Üren",
+            "Jin‐Chen Yu",
+            "Andrius Kazlauskas",
+            "J. Silvio Gutkind",
+            "Mohammad A. Heidaran"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Attenuation of experimental proliferative vitreoretinopathy by inhibiting the platelet-derived growth factor receptor.",
+        "journal": "PubMed",
+        "year": 2000,
+        "citations": 69,
+        "authors": "Yasushi Ikuno, Fee‐Lai Leong, Andrius Kazlauskas",
+        "authors_list": [
+            "Yasushi Ikuno",
+            "Fee‐Lai Leong",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/01.res.0000124979.46214.e3",
+        "title": "Heat Shock Protein 90α–Dependent Translocation of Annexin II to the Surface of Endothelial Cells Modulates Plasmin Activity in the Diabetic Rat Aorta",
+        "journal": "Circulation Research",
+        "year": 2004,
+        "citations": 69,
+        "authors": "Hetian Lei, Giulio R. Romeo, Andrius Kazlauskas",
+        "authors_list": [
+            "Hetian Lei",
+            "Giulio R. Romeo",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ahajournals.org/doi/pdf/10.1161/01.RES.0000124979.46214.E3"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1091/mbc.10.10.3401",
+        "title": "A Role for Cadherin-5 in Regulation of Vascular Endothelial Growth Factor Receptor 2 Activity in Endothelial Cells",
+        "journal": "Molecular Biology of the Cell",
+        "year": 1999,
+        "citations": 68,
+        "authors": "Nader Rahimi, Andrius Kazlauskas",
+        "authors_list": [
+            "Nader Rahimi",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/circresaha.107.151399",
+        "title": "Attenuated Expression of Profilin-1 Confers Protection From Atherosclerosis in the LDL Receptor–Null Mouse",
+        "journal": "Circulation Research",
+        "year": 2007,
+        "citations": 68,
+        "authors": "Giulio R. Romeo, Karen S. Moulton, Andrius Kazlauskas",
+        "authors_list": [
+            "Giulio R. Romeo",
+            "Karen S. Moulton",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCRESAHA.107.151399"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/mcb.01321-10",
+        "title": "Pathological Signaling via Platelet-Derived Growth Factor Receptor α Involves Chronic Activation of Akt and Suppression of p53",
+        "journal": "Molecular and Cellular Biology",
+        "year": 2011,
+        "citations": 67,
+        "authors": "Hetian Lei, Gisela Velez, Andrius Kazlauskas",
+        "authors_list": [
+            "Hetian Lei",
+            "Gisela Velez",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3133227"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.m710092200",
+        "title": "Oxysterol and Diabetes Activate STAT3 and Control Endothelial Expression of Profilin-1 via OSBP1",
+        "journal": "Journal of Biological Chemistry",
+        "year": 2008,
+        "citations": 67,
+        "authors": "Giulio R. Romeo, Andrius Kazlauskas",
+        "authors_list": [
+            "Giulio R. Romeo",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925820570300/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1167/iovs.06-0965",
+        "title": "A Potential Role for PDGF-C in Experimental and Clinical Proliferative Vitreoretinopathy",
+        "journal": "Investigative Ophthalmology & Visual Science",
+        "year": 2007,
+        "citations": 65,
+        "authors": "Hetian Lei, Peter Hovland, Gisela Velez et al.",
+        "authors_list": [
+            "Hetian Lei",
+            "Peter Hovland",
+            "Gisela Velez",
+            "Aaron C. Haran",
+            "Debra G. Gilbertson",
+            "Tatsuo Hirose",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1600-6143.2007.01897.x",
+        "title": "Corneal Graft Rejection Is Accompanied by Apoptosis of the Endothelium and Is Prevented by Gene Therapy With Bcl‐xL",
+        "journal": "American Journal of Transplantation",
+        "year": 2007,
+        "citations": 64,
+        "authors": "Rita N. Bárcia, M. Reza Dana, Andrius Kazlauskas",
+        "authors_list": [
+            "Rita N. Bárcia",
+            "M. Reza Dana",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.amjtransplant.org/article/S1600613522145090/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.275.13.9620",
+        "title": "Src Family Kinases Negatively Regulate Platelet-derived Growth Factor α Receptor-dependent Signaling and Disease Progression",
+        "journal": "Journal of Biological Chemistry",
+        "year": 2000,
+        "citations": 63,
+        "authors": "Stephan Rosenkranz, Yasushi Ikuno, Fee Lai Leong et al.",
+        "authors_list": [
+            "Stephan Rosenkranz",
+            "Yasushi Ikuno",
+            "Fee Lai Leong",
+            "Richard A. Klinghoffer",
+            "Sachiko Miyake",
+            "Hamid Band",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925818300802/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1006/excr.1999.4669",
+        "title": "Multiple Roles for Src in a PDGF-Stimulated Cell",
+        "journal": "Experimental Cell Research",
+        "year": 1999,
+        "citations": 61,
+        "authors": "Kris A. DeMali, Stephen L. Godwin, Stephen P. Soltoff et al.",
+        "authors_list": [
+            "Kris A. DeMali",
+            "Stephen L. Godwin",
+            "Stephen P. Soltoff",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.274.15.10489",
+        "title": "Disruption of Gap Junctional Communication by the Platelet-derived Growth Factor Is Mediated via Multiple Signaling Pathways",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1999,
+        "citations": 60,
+        "authors": "Mohammad Zakir Hossain, Ajit B. Jagdale, Ao Peng et al.",
+        "authors_list": [
+            "Mohammad Zakir Hossain",
+            "Ajit B. Jagdale",
+            "Ao Peng",
+            "Andrius Kazlauskas",
+            "Alton L. Boynton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925819737387/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/mcb.10.6.2528-2538.1990",
+        "title": "Macrophage Colony-Stimulating Factor-Induced Tyrosine Phosphorylation of c<i>-fms</i> Proteins Expressed in FDC-P1 and BALB/c 3T3 Cells",
+        "journal": "Molecular and Cellular Biology",
+        "year": 1990,
+        "citations": 59,
+        "authors": "Peter Tapley, Andrius Kazlauskas, Jonathan A. Cooper et al.",
+        "authors_list": [
+            "Peter Tapley",
+            "Andrius Kazlauskas",
+            "Jonathan A. Cooper",
+            "Larry R. Rohrschneider"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "An in vivo gene therapy approach for experimental proliferative vitreoretinopathy using the truncated platelet-derived growth factor alpha receptor.",
+        "journal": "PubMed",
+        "year": 2002,
+        "citations": 59,
+        "authors": "Yasushi Ikuno, Andrius Kazlauskas",
+        "authors_list": [
+            "Yasushi Ikuno",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1167/iovs.11-7442",
+        "title": "Expression of PDGFRα Is a Determinant of the PVR Potential of ARPE19 Cells",
+        "journal": "Investigative Ophthalmology & Visual Science",
+        "year": 2011,
+        "citations": 59,
+        "authors": "Hetian Lei, Marc‐André Rhéaume, Gisela Velez et al.",
+        "authors_list": [
+            "Hetian Lei",
+            "Marc‐André Rhéaume",
+            "Gisela Velez",
+            "Shizuo Mukai",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iovs.arvojournals.org/arvo/content_public/journal/iovs/933460/z7g00811005016.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.272.14.9011",
+        "title": "Platelet-derived Growth Factor-dependent Cellular Transformation Requires Either Phospholipase Cγ or Phosphatidylinositol 3 Kinase",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1997,
+        "citations": 58,
+        "authors": "Kris A. DeMali, Craig C. Whiteford, Emin T. Ulug et al.",
+        "authors_list": [
+            "Kris A. DeMali",
+            "Craig C. Whiteford",
+            "Emin T. Ulug",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925818409210/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/mcb.18.4.2014",
+        "title": "Activation of Src Family Members Is Not Required for the Platelet-Derived Growth Factor β Receptor To Initiate Mitogenesis",
+        "journal": "Molecular and Cellular Biology",
+        "year": 1998,
+        "citations": 58,
+        "authors": "Kris A. DeMali, Andrius Kazlauskas",
+        "authors_list": [
+            "Kris A. DeMali",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/121431"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/cr000101f",
+        "title": "Growth Factor-Dependent Signaling and Cell Cycle Progression",
+        "journal": "Chemical Reviews",
+        "year": 2001,
+        "citations": 56,
+        "authors": "Steven M. Jones, Andrius Kazlauskas",
+        "authors_list": [
+            "Steven M. Jones",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1242/jcs.02564",
+        "title": "Phosphatidylinositol (3,4,5)-trisphosphate specifically interacts with the phox homology domain of phospholipase D1 and stimulates its activity",
+        "journal": "Journal of Cell Science",
+        "year": 2005,
+        "citations": 55,
+        "authors": "Jun Sung Lee, Jong Hyun Kim, Il Ho Jang et al.",
+        "authors_list": [
+            "Jun Sung Lee",
+            "Jong Hyun Kim",
+            "Il Ho Jang",
+            "Hyeon Soo Kim",
+            "Jung Min Han",
+            "Andrius Kazlauskas",
+            "Hitoshi Yagisawa",
+            "Pann‐Ghill Suh",
+            "Sung Ho Ryu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/mcb.06668-11",
+        "title": "Vascular Endothelial Growth Factor A Competitively Inhibits Platelet-Derived Growth Factor (PDGF)-Dependent Activation of PDGF Receptor and Subsequent Signaling Events and Cellular Responses",
+        "journal": "Molecular and Cellular Biology",
+        "year": 2012,
+        "citations": 55,
+        "authors": "Steven Pennock, Andrius Kazlauskas",
+        "authors_list": [
+            "Steven Pennock",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://mcb.asm.org/content/mcb/32/10/1955.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0165-0173(97)00012-x",
+        "title": "Roles of platelet-derived growth factor in the developing and mature nervous systems",
+        "journal": "Brain Research Reviews",
+        "year": 1997,
+        "citations": 54,
+        "authors": "C FERNANDOVALENZUELA, Andrius Kazlauskas, John M. Weiner",
+        "authors_list": [
+            "C FERNANDOVALENZUELA",
+            "Andrius Kazlauskas",
+            "John M. Weiner"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/gt.2011.20",
+        "title": "Anti-apoptotic gene therapy prolongs survival of corneal endothelial cells during storage",
+        "journal": "Gene Therapy",
+        "year": 2011,
+        "citations": 54,
+        "authors": "Tho﻿mas A. Fuchsluger, Ula V. Jurkunas, Andrius Kazlauskas et al.",
+        "authors_list": [
+            "Tho﻿mas A. Fuchsluger",
+            "Ula V. Jurkunas",
+            "Andrius Kazlauskas",
+            "Reza Dana"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:34388123"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1182/blood.v98.12.3390",
+        "title": "The TEL/PDGFβR fusion in chronic myelomonocytic leukemia signals through STAT5-dependent and STAT5-independent pathways",
+        "journal": "Blood",
+        "year": 2001,
+        "citations": 52,
+        "authors": "David Sternberg, Michael H. Tomasson, Martin Carroll et al.",
+        "authors_list": [
+            "David Sternberg",
+            "Michael H. Tomasson",
+            "Martin Carroll",
+            "David P. Curley",
+            "George Barker",
+            "Michael A. Caprio",
+            "Alyson M. Wilbanks",
+            "Andrius Kazlauskas",
+            "D. Gary Gilliland"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/med.21496",
+        "title": "Potential lymphangiogenesis therapies: Learning from current antiangiogenesis therapies—A review",
+        "journal": "Medicinal Research Reviews",
+        "year": 2018,
+        "citations": 51,
+        "authors": "Michael Yamakawa, Susan Doh, Samuel M. Santosa et al.",
+        "authors_list": [
+            "Michael Yamakawa",
+            "Susan Doh",
+            "Samuel M. Santosa",
+            "Mario Montana",
+            "Ellen C. Qin",
+            "Hyunjoon Kong",
+            "Kyu‐Yeon Han",
+            "Charles Q. Yu",
+            "Mark I. Rosenblatt",
+            "Andrius Kazlauskas",
+            "Jin‐Hong Chang",
+            "Dimitri T. Azar"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/mcb.00839-13",
+        "title": "A Reactive Oxygen Species-Mediated, Self-Perpetuating Loop Persistently Activates Platelet-Derived Growth Factor Receptor α",
+        "journal": "Molecular and Cellular Biology",
+        "year": 2013,
+        "citations": 51,
+        "authors": "Hetian Lei, Andrius Kazlauskas",
+        "authors_list": [
+            "Hetian Lei",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://mcb.asm.org/content/mcb/34/1/110.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/mcb.15.6.3058",
+        "title": "The GTPase-Activating Protein of Ras Suppresses Platelet-Derived Growth Factor β Receptor Signaling by Silencing Phospholipase C-γ1",
+        "journal": "Molecular and Cellular Biology",
+        "year": 1995,
+        "citations": 51,
+        "authors": "Mindaugas Valius, J. Paul Secrist, Andrius Kazlauskas",
+        "authors_list": [
+            "Mindaugas Valius",
+            "J. Paul Secrist",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/230537"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/sj.emboj.7601100",
+        "title": "Regulating angiogenesis at the level of PtdIns‐4,5‐P2",
+        "journal": "The EMBO Journal",
+        "year": 2006,
+        "citations": 50,
+        "authors": "Eunok Im, Andrius Kazlauskas",
+        "authors_list": [
+            "Eunok Im",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/1462986"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ajpath.2014.07.026",
+        "title": "Vascular Endothelial Growth Factor Acts Primarily via Platelet-Derived Growth Factor Receptor α to Promote Proliferative Vitreoretinopathy",
+        "journal": "American Journal Of Pathology",
+        "year": 2014,
+        "citations": 48,
+        "authors": "Steven Pennock, Luis J. Haddock, Shizuo Mukai et al.",
+        "authors_list": [
+            "Steven Pennock",
+            "Luis J. Haddock",
+            "Shizuo Mukai",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://ajp.amjpathol.org/article/S0002944014004969/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.exer.2006.05.017",
+        "title": "The role of cathepsins in ocular physiology and pathology",
+        "journal": "Experimental Eye Research",
+        "year": 2006,
+        "citations": 48,
+        "authors": "Eunok Im, Andrius Kazlauskas",
+        "authors_list": [
+            "Eunok Im",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1096/fj.03-0841fje",
+        "title": "Profilin acts downstream of LDL to mediate diabetic endothelial cell dysfunction",
+        "journal": "The FASEB Journal",
+        "year": 2004,
+        "citations": 45,
+        "authors": "Giulio R. Romeo, John V. Frangioni, Andrius Kazlauskas",
+        "authors_list": [
+            "Giulio R. Romeo",
+            "John V. Frangioni",
+            "Andrius Kazlauskas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4161/cc.20535",
+        "title": "VEGF-A engages at least three tyrosine kinases to activate PI3K/Akt",
+        "journal": "Cell Cycle",
+        "year": 2012,
+        "citations": 44,
+        "authors": "Guo-Xiang Ruan, Andrius Kazlauskas",
+        "authors_list": [
+            "Guo-Xiang Ruan",
+            "Andrius Kazlauskas"
+        ],
+        "type": "editorial",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 44,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.4161/cc.20535?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1364/boe.3.000661",
+        "title": "Dual-modality fluorescence and full-field optical coherence microscopy for biomedical imaging applications",
+        "journal": "Biomedical Optics Express",
+        "year": 2012,
+        "citations": 44,
+        "authors": "Egidijus Auksorius, Yaron Bromberg, Rūta Motiejūnaitė et al.",
+        "authors_list": [
+            "Egidijus Auksorius",
+            "Yaron Bromberg",
+            "Rūta Motiejūnaitė",
+            "Alberto Pieretti",
+            "Linbo Liu",
+            "Emmanuel Coron",
+            "Jorge Aranda",
+            "Allan M. Goldstein",
+            "Brett E. Bouma",
+            "Andrius Kazlauskas",
+            "Guillermo J. Tearney"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 44,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1364/boe.3.000661"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0167-4889(85)90013-8",
+        "title": "Cultured endothelial cells do not respond to a platelet-derived growth-factor-like protein in an autocrine manner",
+        "journal": "Biochimica et Biophysica Acta (BBA) - Molecular Cell Research",
+        "year": 1985,
+        "citations": 41,
+        "authors": "Andrius Kazlauskas, Paul E. DiCorleto",
+        "authors_list": [
+            "Andrius Kazlauskas",
+            "Paul E. DiCorleto"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 41,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/0092-8674(95)90534-0",
+        "title": "The protein kinase encoded by the Akt proto-oncogene is a target of the PDGF-activated phosphatidylinositol 3-kinase",
+        "journal": "Cell",
+        "year": 1995,
+        "citations": 1628,
+        "authors": "Thomas F Franke, Sung-Il Yang, Tung O Chan et al.",
+        "authors_list": [
+            "Thomas F Franke",
+            "Sung-Il Yang",
+            "Tung O Chan",
+            "Ketaki Datta",
+            "Andrius Kazlauskas",
+            "Deborah K Morrison",
+            "David R Kaplan",
+            "Philip N Tsichlis"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1628
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/0092-8674(95)90534-0"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s0092-8674(00)80785-0",
+        "title": "Diverse Signaling Pathways Activated by Growth Factor Receptors Induce Broadly Overlapping, Rather Than Independent, Sets of Genes",
+        "journal": "Cell",
+        "year": 1999,
+        "citations": 375,
+        "authors": "Douglas Fambrough, Kimberly McClure, Andrius Kazlauskas et al.",
+        "authors_list": [
+            "Douglas Fambrough",
+            "Kimberly McClure",
+            "Andrius Kazlauskas",
+            "Eric S Lander"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 375
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S0092867400807850/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1101/gad.13.18.2400",
+        "title": "c-Abl is activated by growth factors and Src family kinases and has a role in the cellular response to PDGF",
+        "journal": "Genes &amp; Development",
+        "year": 1999,
+        "citations": 360,
+        "authors": "R. Plattner, L. Kadlec, K. A. DeMali et al.",
+        "authors_list": [
+            "R. Plattner",
+            "L. Kadlec",
+            "K. A. DeMali",
+            "A. Kazlauskas",
+            "A. M. Pendergast"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 360
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://genesdev.cshlp.org/content/13/18/2400.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.cytogfr.2004.03.003",
+        "title": "PDGF signaling in cells and mice",
+        "journal": "Cytokine &amp; Growth Factor Reviews",
+        "year": 2004,
+        "citations": 329,
+        "authors": "Michelle Tallquist, Andrius Kazlauskas",
+        "authors_list": [
+            "Michelle Tallquist",
+            "Andrius Kazlauskas"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 329
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1002/j.1460-2075.1992.tb05182.x",
+        "title": "Phosphorylation sites in the PDGF receptor with different specificities for binding GAP and PI3 kinase in vivo.",
+        "journal": "The EMBO Journal",
+        "year": 1992,
+        "citations": 230,
+        "authors": "A. Kashishian, A. Kazlauskas, J.A. Cooper",
+        "authors_list": [
+            "A. Kashishian",
+            "A. Kazlauskas",
+            "J.A. Cooper"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 230
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/j.1460-2075.1992.tb05182.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/emboj.2012.21",
+        "title": "Axl is essential for VEGF‐A‐dependent activation of PI3K/Akt",
+        "journal": "The EMBO Journal",
+        "year": 2012,
+        "citations": 197,
+        "authors": "Guo‐Xiang Ruan, Andrius Kazlauskas",
+        "authors_list": [
+            "Guo‐Xiang Ruan",
+            "Andrius Kazlauskas"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 197
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1038/emboj.2012.21"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1073/pnas.90.15.6939",
+        "title": "The 64-kDa protein that associates with the platelet-derived growth factor receptor beta subunit via Tyr-1009 is the SH2-containing phosphotyrosine phosphatase Syp.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1993,
+        "citations": 169,
+        "authors": "A Kazlauskas, G S Feng, T Pawson et al.",
+        "authors_list": [
+            "A Kazlauskas",
+            "G S Feng",
+            "T Pawson",
+            "M Valius"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 169
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1073/pnas.93.1.151",
+        "title": "Platelet-derived growth factor activates protein kinase C epsilon through redundant and independent signaling pathways involving phospholipase C gamma or phosphatidylinositol 3-kinase.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1996,
+        "citations": 147,
+        "authors": "S Moriya, A Kazlauskas, K Akimoto et al.",
+        "authors_list": [
+            "S Moriya",
+            "A Kazlauskas",
+            "K Akimoto",
+            "S Hirai",
+            "K Mizuno",
+            "T Takenawa",
+            "Y Fukui",
+            "Y Watanabe",
+            "S Ozaki",
+            "S Ohno"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 147
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://experts.illinois.edu/en/publications/principles-of-epidemiology-a-primer/fingerprints/",
+        "snippet": "Principles of Epidemiology: A Primer · Christy N Bazan ·, Pedro Curi Hallal ·, Rachel A. Hoopsick ·, Sheena Martenies ·, Andiara Schwingel ·, Rafael M. Tassitano.",
+        "category": "Publication",
+        "relevance_score": 100,
+        "reasoning": "The URL and snippet indicate a publication listing on the Illinois University experts website, featuring a list of authors."
+    },
+    {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41722559/",
+        "snippet": "... Pedro Curi Hallal. Affiliations ... Study Group of Physical Activity Epidemiology, Universidade Federal de Pelotas, Pelotas, RS, Brazil.",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "PubMed identifier and affiliations suggest a research article or study publication"
+    },
+    {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12666141/",
+        "snippet": "1,3, Pedro Curi Hallal. Pedro Curi Hallal. 5Department of Health and Kinesiology, University of Illinois Urbana-Champaign, Champaign-Urban ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is a PMC (PubMed Central) article, indicating a scientific publication."
+    },
+    {
+        "url": "https://www.escavador.com/sobre/4430039/pedro-rodrigues-curi-hallal",
+        "snippet": "In: VII Congresso Brasileiro de Saúde Coletiva, 2003, Brasília, 2003. RAYMUNDO, José Luiz Poso ; LOCKS, Renato ; HALLAL, Pedro Curi ; HALLAL, P. C. ; RECKERS, ...",
+        "category": "Conference",
+        "relevance_score": 92,
+        "reasoning": "The URL appears to be an academic profile on a conference, and the snippet mentions participation in a Congresso Brasileiro de Saúde Coletiva."
+    },
+    {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40199458/",
+        "snippet": "... Pedro Curi Hallal. Affiliations. 1 Department of Health and ... Brazil has a physical activity policy embedded in noncommunicable ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL is a PubMed link, indicating an academic publication, and the snippet mentions affiliations and research content."
+    },
+    {
+        "url": "https://calendars.illinois.edu/detail/3952/33539725",
+        "snippet": "Hallal served as the President of the Federal University of Pelotas, Brazil from 2017 to 2020. His primary area of research is physical activity ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The URL is a university calendar, suggesting an event or announcement about the author's past role as President of the Federal University of Pelotas."
+    },
+    {
+        "url": "https://agencia.fapesp.br/studies-examine-multiple-aspects-related-to-health-and-physical-activity/15178",
+        "snippet": "... Pedro Curi Hallal, a professor at that Universidade Federal de Pelotas (UFPel), the book was launched during the Brazilian Conference on Physical Activity ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The snippet mentions a book launch during a conference, indicating it's reporting on recent events."
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=a1GUweSHIAA",
+        "snippet": "In this episode, Dr. Pedro Curi Hallal talks about the challenges of physical activity in different countries and in the era of COVID-19.",
+        "category": "Media/Video",
+        "relevance_score": 70,
+        "reasoning": "The snippet mentions an episode, a speaker, and the platform YouTube, indicating it's a video content."
+    }
+]

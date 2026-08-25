@@ -1,0 +1,37 @@
+[
+    {
+        "url": "https://scholar.google.com/citations?user=WpbZnwsAAAAJ&hl=en",
+        "snippet": "Crystal growth and microstructure of polycrystalline Ti1− xAlxN alloy films deposited by ultra-high-vacuum dual-target magnetron sputtering. U Wahlström, L ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "This is a publication page on Google Scholar with specific details about an academic's work, indicating it is likely related to their research."
+    },
+    {
+        "url": "https://pubs.aip.org/avs/jva/article/21/5/S117/244728/Microstructural-evolution-during-film-growth",
+        "snippet": "Lewis and J. C. Anderson, Nucleation and Growth of Thin Films (Academic, New York, 1978). ... Shin, I. Petrov, and J. E. Greene ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet appears to be a reference from an academic publication, with authors listed and a citation to another book."
+    },
+    {
+        "url": "https://www.researchgate.net/scientific-contributions/I-Petrov-11471336/publications/25",
+        "snippet": "... Films. G. Hakansson. ·. I. Petrov ... Effect of ion bombardment during growth on the electrical resistivity of magnetron-sputtered carbon films ... Thin Solid Films.",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is on ResearchGate, a platform for academic publications and papers, and the snippet describes a specific research publication."
+    },
+    {
+        "url": "https://research.com/u/ivan-petrov",
+        "snippet": "I. Petrov;L. Hultman;J.‐E. Sundgren;J. E. Greene. 283. Citations. High power pulsed magnetron sputtered CrNX films. A.P. Ehiasarian;W.-D. Munz;Lars Hultman;Ulf ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet appears to be a citation or reference list from a publication, likely an academic journal article."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Ivan_Georgiev_Petrov",
+        "snippet": "Ivan Georgiev Petrov is a Bulgarian-American physicist specializing in thin films, surface science, and methods of characterization of materials.",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "Biographical information on an academic, found on Wikipedia which is a source of encyclopedic publications."
+    }
+]

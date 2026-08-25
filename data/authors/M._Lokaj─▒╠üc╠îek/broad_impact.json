@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://observatory.as.uky.edu/bibcite/contributor/2960",
+        "snippet": "M Lokajicek ... ATLAS, C. . (1969). Search for a Heavy Particle Decaying into an Electron and a Muon with the ATLAS Detector in sqrt s =7 TeV pp collisions at the ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL appears to be a reference management or citation database, and the snippet contains information about a research paper, including author names and publication details."
+    },
+    {
+        "url": "https://inspirehep.net/authors/1073374",
+        "snippet": "DUNE. Author Identifier: M.Lokajicek.1. edit. Updated on Sep 14 ... Accuracy versus precision in boosted top tagging with the ATLAS detector.",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "Author identifier is linked to an InspireHEP entry, which typically contains information on academic publications."
+    },
+    {
+        "url": "https://www.semanticscholar.org/paper/M-ay-2-01-3-Schr%C3%B6dinger-equation-and-mistaking-of-%E2%80%99-Lokajicek-Kundr%C3%A1t/e289c38022e35faff70dbd2870ae7f0f985d9445",
+        "snippet": "Locality problem, Bell's inequalities and EPR experiments · M. Lokajicek · 1998 ; Semiclassical interpretation of microscopic processes · M. Lokajicek · 2005.",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL appears to be a research paper hosted on Semantics Scholar, indicating it is an academic publication."
+    },
+    {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/0375960194911711",
+        "snippet": "Transmittance of a laser beam through a pair of crossed polarizers. Author links open overlay panel. J. Krása , M. Lokajíček , ... 2008, 16th Conference of Czech ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL points to a scientific article on ScienceDirect, and the snippet mentions an author name and publication year."
+    },
+    {
+        "url": "https://www.sciencedirect.com/science/article/pii/0168900295000852",
+        "snippet": "Liko, M. Lokajicek, C. Mariotti, H. Pernegger, M. Pernicka, M. Regler ... The DELPHI detector will be upgraded by a new silicon detector in the ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL and snippet indicate a peer-reviewed article on ScienceDirect, a scientific publication platform."
+    },
+    {
+        "url": "https://arxiv.org/abs/1002.3527",
+        "snippet": "Lipatov, M. Lokajicek, I.P. Lokhtin, R.J. Luddy, G.I. Lykasov, V.V. ... Proceedings of the 13th International Conference on Elastic and ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL suggests an academic publication, and the snippet mentions a conference proceedings which is typical for scientific publications."
+    },
+    {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3980087/",
+        "snippet": "1, M Lokajíček. M Lokajíček. 2Institute of Physics, Academy of Sciences of the ... Conference. 10-12 November 2013. 9th German Conference on ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL is from PMC (PubMed Central), a database of biomedical literature, and the snippet mentions an article identifier (PMC3980087)"
+    },
+    {
+        "url": "https://answerthis.io/researchers/A5036508375",
+        "snippet": "1. Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC. Year: 2012Citations: 10732DOI: 10.1016 ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The snippet appears to be a bibliographic entry for an academic publication."
+    }
+]

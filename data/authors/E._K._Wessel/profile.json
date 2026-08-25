@@ -1,0 +1,70 @@
+{
+    "id": "A5112283538",
+    "name": "E. K. Wessel",
+    "affiliation": "Leibniz University Hannover",
+    "topics": [
+        "Pulsars and Gravitational Waves Research",
+        "Gamma-ray bursts and supernovae",
+        "Geophysics and Gravity Measurements",
+        "Astrophysical Phenomena and Observations",
+        "Cosmology and Gravitation Theories"
+    ],
+    "keywords": [
+        "ligo",
+        "search",
+        "advanced",
+        "gravitational",
+        "waves"
+    ],
+    "metrics": {
+        "citations": 35825,
+        "h_index": 45,
+        "publications": 64
+    },
+    "counts_by_year": [
+        {
+            "year": 2021,
+            "works_count": 4,
+            "oa_works_count": 3,
+            "cited_by_count": 11
+        },
+        {
+            "year": 2020,
+            "works_count": 6,
+            "oa_works_count": 5,
+            "cited_by_count": 1974
+        },
+        {
+            "year": 2019,
+            "works_count": 23,
+            "oa_works_count": 22,
+            "cited_by_count": 8759
+        },
+        {
+            "year": 2018,
+            "works_count": 11,
+            "oa_works_count": 10,
+            "cited_by_count": 3526
+        },
+        {
+            "year": 2017,
+            "works_count": 20,
+            "oa_works_count": 20,
+            "cited_by_count": 21555
+        }
+    ],
+    "verification": {
+        "personal_website": null,
+        "linkedin": null,
+        "researchgate": null,
+        "google_scholar": {
+            "verified": false,
+            "reason": "HTTP 429"
+        }
+    },
+    "orcid": {
+        "verified": false,
+        "orcid_id": null,
+        "current_institution": null
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "id": "A5023340512",
+    "name": "Andrew N. Miller",
+    "affiliation": "University of Illinois Urbana-Champaign",
+    "topics": [
+        "Plant Pathogens and Fungal Diseases",
+        "Mycorrhizal Fungi and Plant Interactions",
+        "Lichen and fungal ecology",
+        "Yeasts and Rust Fungi Studies",
+        "Fungal Biology and Applications"
+    ],
+    "keywords": [
+        "fungal",
+        "species",
+        "phylogenetic",
+        "fungi",
+        "description"
+    ],
+    "metrics": {
+        "citations": 18813,
+        "h_index": 48,
+        "publications": 224
+    },
+    "counts_by_year": [
+        {
+            "year": 2025,
+            "works_count": 8,
+            "oa_works_count": 5,
+            "cited_by_count": 23
+        },
+        {
+            "year": 2024,
+            "works_count": 12,
+            "oa_works_count": 12,
+            "cited_by_count": 47
+        },
+        {
+            "year": 2023,
+            "works_count": 8,
+            "oa_works_count": 8,
+            "cited_by_count": 172
+        },
+        {
+            "year": 2022,
+            "works_count": 9,
+            "oa_works_count": 5,
+            "cited_by_count": 83
+        },
+        {
+            "year": 2021,
+            "works_count": 13,
+            "oa_works_count": 13,
+            "cited_by_count": 657
+        },
+        {
+            "year": 2020,
+            "works_count": 14,
+            "oa_works_count": 11,
+            "cited_by_count": 1231
+        },
+        {
+            "year": 2019,
+            "works_count": 13,
+            "oa_works_count": 10,
+            "cited_by_count": 492
+        },
+        {
+            "year": 2018,
+            "works_count": 11,
+            "oa_works_count": 7,
+            "cited_by_count": 816
+        },
+        {
+            "year": 2017,
+            "works_count": 22,
+            "oa_works_count": 12,
+            "cited_by_count": 1431
+        },
+        {
+            "year": 2016,
+            "works_count": 8,
+            "oa_works_count": 6,
+            "cited_by_count": 660
+        },
+        {
+            "year": 2015,
+            "works_count": 12,
+            "oa_works_count": 4,
+            "cited_by_count": 315
+        },
+        {
+            "year": 2014,
+            "works_count": 15,
+            "oa_works_count": 6,
+            "cited_by_count": 920
+        },
+        {
+            "year": 2013,
+            "works_count": 15,
+            "oa_works_count": 6,
+            "cited_by_count": 1107
+        },
+        {
+            "year": 2012,
+            "works_count": 10,
+            "oa_works_count": 5,
+            "cited_by_count": 5290
+        },
+        {
+            "year": 2011,
+            "works_count": 6,
+            "oa_works_count": 2,
+            "cited_by_count": 495
+        },
+        {
+            "year": 2010,
+            "works_count": 9,
+            "oa_works_count": 2,
+            "cited_by_count": 199
+        },
+        {
+            "year": 2009,
+            "works_count": 3,
+            "oa_works_count": 1,
+            "cited_by_count": 656
+        },
+        {
+            "year": 2008,
+            "works_count": 2,
+            "oa_works_count": 1,
+            "cited_by_count": 159
+        },
+        {
+            "year": 2007,
+            "works_count": 8,
+            "oa_works_count": 2,
+            "cited_by_count": 2496
+        },
+        {
+            "year": 2006,
+            "works_count": 6,
+            "oa_works_count": 0,
+            "cited_by_count": 878
+        },
+        {
+            "year": 2005,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 161
+        },
+        {
+            "year": 2004,
+            "works_count": 6,
+            "oa_works_count": 0,
+            "cited_by_count": 427
+        },
+        {
+            "year": 2003,
+            "works_count": 8,
+            "oa_works_count": 0,
+            "cited_by_count": 76
+        },
+        {
+            "year": 2001,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 13
+        },
+        {
+            "year": 2000,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 9
+        },
+        {
+            "year": 1938,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 0
+        }
+    ],
+    "verification": {
+        "personal_website": null,
+        "linkedin": null,
+        "researchgate": null,
+        "google_scholar": {
+            "verified": false,
+            "reason": "HTTP 429"
+        }
+    },
+    "orcid": {
+        "verified": false,
+        "orcid_id": null,
+        "current_institution": null
+    }
+}

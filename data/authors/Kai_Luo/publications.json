@@ -1,0 +1,3472 @@
+[
+    {
+        "doi": "https://doi.org/10.1016/j.jhazmat.2020.122102",
+        "title": "A critical review on VOCs adsorption by different porous materials: Species, mechanisms and modification methods",
+        "journal": "Journal of Hazardous Materials",
+        "year": 2020,
+        "citations": 997,
+        "authors": "Lingli Zhu, Dekui Shen, Kai Luo",
+        "authors_list": [
+            "Lingli Zhu",
+            "Dekui Shen",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 997,
+            "crossref": 906
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10107169/1/Luo%202020%20JHM%20Review%20accepted.pdf"
+        }
+    },
+    {
+        "doi": null,
+        "title": "45th AIAA/ASME/SAE/ASEE joint propulsion conference & exhibit",
+        "journal": "",
+        "year": 2009,
+        "citations": 960,
+        "authors": "Man Zhang, Zhiwei Hu, Kai Luo et al.",
+        "authors_list": [
+            "Man Zhang",
+            "Zhiwei Hu",
+            "Kai Luo",
+            "Guoqiang He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 960,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Lattice Boltzmann methods for multiphase flow and phase-change heat transfer",
+        "journal": "UCL Discovery (University College London)",
+        "year": 2016,
+        "citations": 881,
+        "authors": "Qing Li, Kai Luo, Qinjun Kang et al.",
+        "authors_list": [
+            "Qing Li",
+            "Kai Luo",
+            "Qinjun Kang",
+            "Ya‐Ling He",
+            "Qing Chen",
+            "Qing Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 881,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.87.053301",
+        "title": "Lattice Boltzmann modeling of multiphase flows at large density ratio with an improved pseudopotential model",
+        "journal": "Physical Review E",
+        "year": 2013,
+        "citations": 581,
+        "authors": "Qing Li, Kai Luo, X. J. Li",
+        "authors_list": [
+            "Qing Li",
+            "Kai Luo",
+            "X. J. Li"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 581,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevE.87.053301"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.biortech.2010.02.078",
+        "title": "The pyrolytic degradation of wood-derived lignin from pulping process",
+        "journal": "Bioresource Technology",
+        "year": 2010,
+        "citations": 444,
+        "authors": "Dekui Shen, Sai Gu, Kai Luo et al.",
+        "authors_list": [
+            "Dekui Shen",
+            "Sai Gu",
+            "Kai Luo",
+            "S.R. Wang",
+            "Mengxiang Fang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 444,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2015.01.136",
+        "title": "Lattice Boltzmann modeling of boiling heat transfer: The boiling curve and the effects of wettability",
+        "journal": "International Journal of Heat and Mass Transfer",
+        "year": 2015,
+        "citations": 437,
+        "authors": "Qing Li, Qinjun Kang, Marianne Francois et al.",
+        "authors_list": [
+            "Qing Li",
+            "Qinjun Kang",
+            "Marianne Francois",
+            "Y.L. He",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 437,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1501.03857"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1876-3804(21)60001-0",
+        "title": "Application and development trend of artificial intelligence in petroleum exploration and development",
+        "journal": "Petroleum Exploration and Development",
+        "year": 2021,
+        "citations": 318,
+        "authors": "Lichun Kuang, He Liu, Yili Ren et al.",
+        "authors_list": [
+            "Lichun Kuang",
+            "He Liu",
+            "Yili Ren",
+            "Kai Luo",
+            "Mingyu Shi",
+            "Jian Su",
+            "Xin Li"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 318,
+            "crossref": 291
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1876380421600010/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1017/s0022112096007525",
+        "title": "Compressible mixing layer growth rate and turbulence characteristics",
+        "journal": "Journal of Fluid Mechanics",
+        "year": 1996,
+        "citations": 318,
+        "authors": "A.W. Vreman, Neil D. Sandham, Kai Luo",
+        "authors_list": [
+            "A.W. Vreman",
+            "Neil D. Sandham",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 318,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D158F649E24489C4C006F095868E0BB6/S0022112096007525a.pdf/div-class-title-compressible-mixing-layer-growth-rate-and-turbulence-characteristics-div.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.86.016709",
+        "title": "Forcing scheme in pseudopotential lattice Boltzmann model for multiphase flows",
+        "journal": "Physical Review E",
+        "year": 2012,
+        "citations": 313,
+        "authors": "Qing Li, Kai Luo, X. J. Li",
+        "authors_list": [
+            "Qing Li",
+            "Kai Luo",
+            "X. J. Li"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 313,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1204.4098"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.fuel.2008.10.034",
+        "title": "Kinetic study on thermal decomposition of woods in oxidative environment",
+        "journal": "Fuel",
+        "year": 2008,
+        "citations": 305,
+        "authors": "Dekui Shen, S. Gu, Kai Luo et al.",
+        "authors_list": [
+            "Dekui Shen",
+            "S. Gu",
+            "Kai Luo",
+            "A.V. Bridgwater",
+            "M. X. Fang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 305,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0016236108004316"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.fuel.2016.11.083",
+        "title": "A compact skeletal mechanism for n-dodecane with optimized semi-global low-temperature chemistry for diesel engine simulations",
+        "journal": "Fuel",
+        "year": 2016,
+        "citations": 291,
+        "authors": "Tong Yao, Yuanjiang Pei, Bei-Jing Zhong et al.",
+        "authors_list": [
+            "Tong Yao",
+            "Yuanjiang Pei",
+            "Bei-Jing Zhong",
+            "Sibendu Som",
+            "Tianfeng Lu",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 291,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1411813"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.rser.2015.06.054",
+        "title": "An overview on fast pyrolysis of the main constituents in lignocellulosic biomass to valued-added chemicals: Structures, pathways and interactions",
+        "journal": "Renewable and Sustainable Energy Reviews",
+        "year": 2015,
+        "citations": 280,
+        "authors": "Dekui Shen, Wei Jin, Jun Hu et al.",
+        "authors_list": [
+            "Dekui Shen",
+            "Wei Jin",
+            "Jun Hu",
+            "Rui Xiao",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 280,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.90.053301",
+        "title": "Contact angles in the pseudopotential lattice Boltzmann modeling of wetting",
+        "journal": "Physical Review E",
+        "year": 2014,
+        "citations": 278,
+        "authors": "Qing Li, Kai Luo, Qinjun Kang et al.",
+        "authors_list": [
+            "Qing Li",
+            "Kai Luo",
+            "Qinjun Kang",
+            "Qing Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 278,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1410.2569"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.91.10.4120",
+        "title": "Reversal of resistance to Bacillus thuringiensis in Plutella xylostella.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1994,
+        "citations": 252,
+        "authors": "Bruce E. Tabashnik, Naomi Finson, Francis R. Groeters et al.",
+        "authors_list": [
+            "Bruce E. Tabashnik",
+            "Naomi Finson",
+            "Francis R. Groeters",
+            "William J. Moar",
+            "M. W. Johnson",
+            "Kai Luo",
+            "Michael J. Adang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 252,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.carbon.2017.06.009",
+        "title": "Formation of incipient soot particles from polycyclic aromatic hydrocarbons: A ReaxFF molecular dynamics study",
+        "journal": "Carbon",
+        "year": 2017,
+        "citations": 240,
+        "authors": "Qian Mao, Adri C. T. van Duin, Kai Luo",
+        "authors_list": [
+            "Qian Mao",
+            "Adri C. T. van Duin",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 240,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.carbon.2017.06.009"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsami.1c16679",
+        "title": "Green Synthesis of Tunable Fluorescent Carbon Quantum Dots from Lignin and Their Application in Anti-Counterfeit Printing",
+        "journal": "ACS Applied Materials & Interfaces",
+        "year": 2021,
+        "citations": 218,
+        "authors": "Lingli Zhu, Dekui Shen, Qi Wang et al.",
+        "authors_list": [
+            "Lingli Zhu",
+            "Dekui Shen",
+            "Qi Wang",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 218,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10140099/7/Luo%202021%20ACS%20AMI%20Quantum%20Dots%20Manuscript.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.pecs.2023.101084",
+        "title": "Classical and reactive molecular dynamics: Principles and applications in combustion and energy systems",
+        "journal": "Progress in Energy and Combustion Science",
+        "year": 2023,
+        "citations": 216,
+        "authors": "Qian Mao, Muye Feng, Xi Zhuo Jiang et al.",
+        "authors_list": [
+            "Qian Mao",
+            "Muye Feng",
+            "Xi Zhuo Jiang",
+            "Yihua Ren",
+            "Kai Luo",
+            "Adri C. T. van Duin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 216,
+            "crossref": 209
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.pecs.2023.101084"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.88.053307",
+        "title": "Achieving tunable surface tension in the pseudopotential lattice Boltzmann modeling of multiphase flows",
+        "journal": "Physical Review E",
+        "year": 2013,
+        "citations": 205,
+        "authors": "Qing Li, Kai Luo",
+        "authors_list": [
+            "Qing Li",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 205,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1306.6445"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.61.6.2086-2092.1995",
+        "title": "Development of Bacillus thuringiensis CryIC Resistance by Spodoptera exigua (Hubner) (Lepidoptera: Noctuidae)",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 1995,
+        "citations": 180,
+        "authors": "William J. Moar, Marianne Pusztai‐Carey, Henk van Faassen et al.",
+        "authors_list": [
+            "William J. Moar",
+            "Marianne Pusztai‐Carey",
+            "Henk van Faassen",
+            "D. Andries Bosch",
+            "Roger Frutos",
+            "C x E cile Rang",
+            "Kai Luo",
+            "Michael J. Adang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 180,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/61/6/2086.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c1ra00534k",
+        "title": "The pyrolytic behavior of cellulose in lignocellulosic biomass: a review",
+        "journal": "RSC Advances",
+        "year": 2011,
+        "citations": 170,
+        "authors": "Dekui Shen, Rui Xiao, Sai Gu et al.",
+        "authors_list": [
+            "Dekui Shen",
+            "Rui Xiao",
+            "Sai Gu",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 170,
+            "crossref": 162
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.100.053313",
+        "title": "Implementation of contact angles in pseudopotential lattice Boltzmann simulations with curved boundaries",
+        "journal": "Physical review. E",
+        "year": 2019,
+        "citations": 143,
+        "authors": "Qing Li, Ying Yu, Kai Luo",
+        "authors_list": [
+            "Qing Li",
+            "Ying Yu",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 143,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.aps.org/pre/pdf/10.1103/PhysRevE.100.053313"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ef700300m",
+        "title": "The Influence of Microwave Drying on Biomass Pyrolysis",
+        "journal": "Energy & Fuels",
+        "year": 2007,
+        "citations": 138,
+        "authors": "Xianhua Wang, Hanping Chen, Kai Luo et al.",
+        "authors_list": [
+            "Xianhua Wang",
+            "Hanping Chen",
+            "Kai Luo",
+            "Jingai Shao",
+            "Haiping Yang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 138,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.electacta.2010.10.046",
+        "title": "Recent trends and developments in polymer electrolyte membrane fuel cell modelling",
+        "journal": "Electrochimica Acta",
+        "year": 2010,
+        "citations": 132,
+        "authors": "A.A. Shah, Kai Luo, T. R. Ralph et al.",
+        "authors_list": [
+            "A.A. Shah",
+            "Kai Luo",
+            "T. R. Ralph",
+            "Frank C. Walsh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 132,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c8cy00845k",
+        "title": "State-of-the-art catalytic hydrogenolysis of lignin for the production of aromatic chemicals",
+        "journal": "Catalysis Science & Technology",
+        "year": 2018,
+        "citations": 132,
+        "authors": "Chongbo Cheng, Dekui Shen, Sai Gu et al.",
+        "authors_list": [
+            "Chongbo Cheng",
+            "Dekui Shen",
+            "Sai Gu",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 132,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10067616/1/Luo%20AAM%20Luo%202018%20CST%20Aromatic%20Chemicals%20accpted.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1115/1.1469522",
+        "title": "Unsteady Heat Transfer Analysis of an Impinging Jet",
+        "journal": "ASME Journal of Heat and Mass Transfer",
+        "year": 2002,
+        "citations": 130,
+        "authors": "Yongmann M. Chung, Kai Luo",
+        "authors_list": [
+            "Yongmann M. Chung",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.5087266",
+        "title": "Modeling realistic multiphase flows using a non-orthogonal multiple-relaxation-time lattice Boltzmann method",
+        "journal": "Physics of Fluids",
+        "year": 2019,
+        "citations": 119,
+        "authors": "Linlin Fei, Jingyu Du, Kai Luo et al.",
+        "authors_list": [
+            "Linlin Fei",
+            "Jingyu Du",
+            "Kai Luo",
+            "Sauro Succi",
+            "Marco Lauricella",
+            "Andrea Montessori",
+            "Qian Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 119,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/2306.16274"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.85.026704",
+        "title": "Additional interfacial force in lattice Boltzmann models for incompressible multiphase flows",
+        "journal": "Physical Review E",
+        "year": 2012,
+        "citations": 117,
+        "authors": "Qing Li, Kai Luo, Yuan Gao et al.",
+        "authors_list": [
+            "Qing Li",
+            "Kai Luo",
+            "Yuan Gao",
+            "Ya‐Ling He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1110.5004"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.85.016710",
+        "title": "Coupling lattice Boltzmann model for simulation of thermal flows on standard lattices",
+        "journal": "Physical Review E",
+        "year": 2012,
+        "citations": 114,
+        "authors": "Qing Li, Kai Luo, Ya‐Ling He et al.",
+        "authors_list": [
+            "Qing Li",
+            "Kai Luo",
+            "Ya‐Ling He",
+            "Yuan Gao",
+            "Wen-Quan Tao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 114,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1109.6672"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0142-727x(02)00155-8",
+        "title": "Numerical study of momentum and heat transfer in unsteady impinging jets",
+        "journal": "International Journal of Heat and Fluid Flow",
+        "year": 2002,
+        "citations": 110,
+        "authors": "Yongmann M. Chung, Kai Luo, Neil D. Sandham",
+        "authors_list": [
+            "Yongmann M. Chung",
+            "Kai Luo",
+            "Neil D. Sandham"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 110,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jcis.2022.03.039",
+        "title": "Triple-emission nitrogen and boron co-doped carbon quantum dots from lignin: Highly fluorescent sensing platform for detection of hexavalent chromium ions",
+        "journal": "Journal of Colloid and Interface Science",
+        "year": 2022,
+        "citations": 107,
+        "authors": "Lingli Zhu, Dekui Shen, Kai Luo",
+        "authors_list": [
+            "Lingli Zhu",
+            "Dekui Shen",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 107,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10148904/1/Luo%202022%20JCIS%20dots%20Accepted.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.97.053309",
+        "title": "Three-dimensional cascaded lattice Boltzmann method: Improved implementation and consistent forcing scheme",
+        "journal": "Physical review. E",
+        "year": 2018,
+        "citations": 106,
+        "authors": "Linlin Fei, Kai Luo, Qing Li",
+        "authors_list": [
+            "Linlin Fei",
+            "Kai Luo",
+            "Qing Li"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevE.97.053309"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.fuel.2022.125806",
+        "title": "Exploring reaction mechanism for ammonia/methane combustion via reactive molecular dynamics simulations",
+        "journal": "Fuel",
+        "year": 2022,
+        "citations": 106,
+        "authors": "Jing Wang, Xi Zhuo Jiang, Kai Luo",
+        "authors_list": [
+            "Jing Wang",
+            "Xi Zhuo Jiang",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10157350/1/Luo%202022%20Fuel%20Ammonia%20MD%20accepted.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/5.0023639",
+        "title": "Mesoscopic simulation of three-dimensional pool boiling based on a phase-change cascaded lattice Boltzmann method",
+        "journal": "Physics of Fluids",
+        "year": 2020,
+        "citations": 106,
+        "authors": "Linlin Fei, Jiapei Yang, Yiran Chen et al.",
+        "authors_list": [
+            "Linlin Fei",
+            "Jiapei Yang",
+            "Yiran Chen",
+            "Huangrui Mo",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.langmuir.9b00862",
+        "title": "Effects of Moisture Contents on Shale Gas Recovery and CO<sub>2</sub> Sequestration",
+        "journal": "Langmuir",
+        "year": 2019,
+        "citations": 106,
+        "authors": "Zhou Juan, Zhehui Jin, Kai Luo",
+        "authors_list": [
+            "Zhou Juan",
+            "Zhehui Jin",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1021/acs.langmuir.9b00862"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.91.023305",
+        "title": "Improved forcing scheme in pseudopotential lattice Boltzmann methods for multiphase flow at arbitrarily high density ratios",
+        "journal": "Physical Review E",
+        "year": 2015,
+        "citations": 104,
+        "authors": "Daniel Lycett-Brown, Kai Luo",
+        "authors_list": [
+            "Daniel Lycett-Brown",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.96.053307",
+        "title": "Consistent forcing scheme in the cascaded lattice Boltzmann method",
+        "journal": "Physical review. E",
+        "year": 2017,
+        "citations": 104,
+        "authors": "Linlin Fei, Kai Luo",
+        "authors_list": [
+            "Linlin Fei",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1705.11092"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cej.2021.132020",
+        "title": "Mechanisms for kerogen wettability transition from water-wet to CO2-wet: Implications for CO2 sequestration",
+        "journal": "Chemical Engineering Journal",
+        "year": 2021,
+        "citations": 103,
+        "authors": "Zhou Juan, Jiajun Zhang, Jiapei Yang et al.",
+        "authors_list": [
+            "Zhou Juan",
+            "Jiajun Zhang",
+            "Jiapei Yang",
+            "Zhehui Jin",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10134428/1/1-s2.0-S1385894721035993-main.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.camwa.2013.08.033",
+        "title": "Multiphase cascaded lattice Boltzmann method",
+        "journal": "Computers & Mathematics with Applications",
+        "year": 2013,
+        "citations": 103,
+        "authors": "Daniel Lycett-Brown, Kai Luo",
+        "authors_list": [
+            "Daniel Lycett-Brown",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0898122113005403/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/polym9060240",
+        "title": "Catalytic Oxidation of Lignin in Solvent Systems for Production of Renewable Chemicals: A Review",
+        "journal": "Polymers",
+        "year": 2017,
+        "citations": 102,
+        "authors": "Chongbo Cheng, Jinzhi Wang, Dekui Shen et al.",
+        "authors_list": [
+            "Chongbo Cheng",
+            "Jinzhi Wang",
+            "Dekui Shen",
+            "Jiangtao Xue",
+            "Sipian Guan",
+            "Sai Gu",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/2073-4360/9/6/240/pdf?version=1498053000"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.compfluid.2019.04.014",
+        "title": "Three-dimensional non-orthogonal MRT pseudopotential lattice Boltzmann model for multiphase flows",
+        "journal": "Computers & Fluids",
+        "year": 2019,
+        "citations": 100,
+        "authors": "Qing Li, Di Du, Linlin Fei et al.",
+        "authors_list": [
+            "Qing Li",
+            "Di Du",
+            "Linlin Fei",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 100,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1805.08643"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.fuel.2021.120440",
+        "title": "Progress in carbon-based electrocatalyst derived from biomass for the hydrogen evolution reaction",
+        "journal": "Fuel",
+        "year": 2021,
+        "citations": 99,
+        "authors": "Qichang Wang, Rui Guo, Zhanghong Wang et al.",
+        "authors_list": [
+            "Qichang Wang",
+            "Rui Guo",
+            "Zhanghong Wang",
+            "Dekui Shen",
+            "Ran Yu",
+            "Kai Luo",
+            "Chunfei Wu",
+            "Sai Gu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10125697/1/Luo%202021%20Fuel%20Biomass%20accepted.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/aic.13705",
+        "title": "Modeling the thermochemical degradation of biomass inside a fast pyrolysis fluidized bed reactor",
+        "journal": "AIChE Journal",
+        "year": 2011,
+        "citations": 99,
+        "authors": "J. Bruchmüller, Berend van Wachem, S. Gu et al.",
+        "authors_list": [
+            "J. Bruchmüller",
+            "Berend van Wachem",
+            "S. Gu",
+            "Kai Luo",
+            "Robert C. Brown"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4866146",
+        "title": "Binary droplet collision simulations by a multiphase cascaded lattice Boltzmann method",
+        "journal": "Physics of Fluids",
+        "year": 2014,
+        "citations": 93,
+        "authors": "Daniel Lycett-Brown, Kai Luo, Ronghou Liu et al.",
+        "authors_list": [
+            "Daniel Lycett-Brown",
+            "Kai Luo",
+            "Ronghou Liu",
+            "Pengmei Lv"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 93,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/1.4866146/16034761/023303_1_online.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2010.05.047",
+        "title": "Study of wall-to-bed heat transfer in a bubbling fluidised bed using the kinetic theory of granular flow",
+        "journal": "International Journal of Heat and Mass Transfer",
+        "year": 2010,
+        "citations": 93,
+        "authors": "Lindsay‐Marie Armstrong, S. Gu, Kai Luo",
+        "authors_list": [
+            "Lindsay‐Marie Armstrong",
+            "S. Gu",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 93,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijhydene.2022.01.142",
+        "title": "Direct numerical simulation of turbulent premixed ammonia and ammonia-hydrogen combustion under engine-relevant conditions",
+        "journal": "International Journal of Hydrogen Energy",
+        "year": 2022,
+        "citations": 90,
+        "authors": "Weiping Yang, K.K.J. Ranga Dinesh, Kai Luo et al.",
+        "authors_list": [
+            "Weiping Yang",
+            "K.K.J. Ranga Dinesh",
+            "Kai Luo",
+            "Dominique Thévenin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.ijhydene.2022.01.142"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jhazmat.2022.130663",
+        "title": "Fabrication of Z-scheme Bi7O9I3/g-C3N4 heterojunction modified by carbon quantum dots for synchronous photocatalytic removal of Cr (Ⅵ) and organic pollutants",
+        "journal": "Journal of Hazardous Materials",
+        "year": 2022,
+        "citations": 90,
+        "authors": "Lingli Zhu, Dekui Shen, Huiyan Zhang et al.",
+        "authors_list": [
+            "Lingli Zhu",
+            "Dekui Shen",
+            "Huiyan Zhang",
+            "Kai Luo",
+            "Chong Li"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10166769/3/Luo_2023%20JHM%20heterojunction%20accepted.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0997-7546(00)01117-1",
+        "title": "Large-eddy simulation of a turbulent forced plume",
+        "journal": "European Journal of Mechanics - B/Fluids",
+        "year": 2001,
+        "citations": 85,
+        "authors": "Xu Zhou, Kai Luo, John Williams",
+        "authors_list": [
+            "Xu Zhou",
+            "Kai Luo",
+            "John Williams"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 85,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.biortech.2017.09.160",
+        "title": "Improving the methane yield of maize straw: Focus on the effects of pretreatment with fungi and their secreted enzymes combined with sodium hydroxide",
+        "journal": "Bioresource Technology",
+        "year": 2017,
+        "citations": 84,
+        "authors": "Xiaoling Zhao, Kai Luo, Yue Zhang et al.",
+        "authors_list": [
+            "Xiaoling Zhao",
+            "Kai Luo",
+            "Yue Zhang",
+            "Zehui Zheng",
+            "Yafan Cai",
+            "Boting Wen",
+            "Zongjun Cui",
+            "Xiaofen Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.mser.2025.101010",
+        "title": "A guided review of machine learning in the design and application for pore nanoarchitectonics of carbon materials",
+        "journal": "Materials Science and Engineering R Reports",
+        "year": 2025,
+        "citations": 77,
+        "authors": "Chuang Wang, Xingxing Cheng, Kai Luo et al.",
+        "authors_list": [
+            "Chuang Wang",
+            "Xingxing Cheng",
+            "Kai Luo",
+            "K. Nandakumar",
+            "Zhiqiang Wang",
+            "Meng Ni",
+            "Xiaotao Bi",
+            "Jiansheng Zhang",
+            "Chunbo Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.fuel.2020.117247",
+        "title": "Insights into recovery of multi-component shale gas by CO2 injection: A molecular perspective",
+        "journal": "Fuel",
+        "year": 2020,
+        "citations": 77,
+        "authors": "Zhou Juan, Zhehui Jin, Kai Luo",
+        "authors_list": [
+            "Zhou Juan",
+            "Zhehui Jin",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10091110/6/Luo%202020%20Fuel%20CO2%20Manuscript.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.applthermaleng.2014.03.030",
+        "title": "Thermodynamic consistency of the pseudopotential lattice Boltzmann model for simulating liquid–vapor flows",
+        "journal": "Applied Thermal Engineering",
+        "year": 2014,
+        "citations": 75,
+        "authors": "Qing Li, Kai Luo",
+        "authors_list": [
+            "Qing Li",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1359431114002051/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s001620050125",
+        "title": "Direct Numerical Simulation of the Puffing Phenomenon of an Axisymmetric Thermal Plume",
+        "journal": "Theoretical and Computational Fluid Dynamics",
+        "year": 2000,
+        "citations": 73,
+        "authors": "Xi Jiang, Kai Luo",
+        "authors_list": [
+            "Xi Jiang",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.fuel.2018.06.119",
+        "title": "Investigation of ethanol oxidation over aluminum nanoparticle using ReaxFF molecular dynamics simulation",
+        "journal": "Fuel",
+        "year": 2018,
+        "citations": 73,
+        "authors": "Yi Ran Zhang, Adri C. T. van Duin, Kai Luo",
+        "authors_list": [
+            "Yi Ran Zhang",
+            "Adri C. T. van Duin",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0016236118311712/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.proci.2018.09.020",
+        "title": "A molecular dynamics study of fuel droplet evaporation in sub- and supercritical conditions",
+        "journal": "Proceedings of the Combustion Institute",
+        "year": 2018,
+        "citations": 71,
+        "authors": "Guowei Xiao, Kai Luo, Xiao Ma et al.",
+        "authors_list": [
+            "Guowei Xiao",
+            "Kai Luo",
+            "Xiao Ma",
+            "Shijin Shuai"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1540748918306254/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cej.2010.02.032",
+        "title": "Two-dimensional and three-dimensional computational studies of hydrodynamics in the transition from bubbling to circulating fluidised bed",
+        "journal": "Chemical Engineering Journal",
+        "year": 2010,
+        "citations": 71,
+        "authors": "L.M. Armstrong, Kai Luo, S. Gu",
+        "authors_list": [
+            "L.M. Armstrong",
+            "Kai Luo",
+            "S. Gu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0082-0784(00)80605-0",
+        "title": "Combustion-induced buoyancy effects of an axisymmetric reactive plume",
+        "journal": "Proceedings of the Combustion Institute",
+        "year": 2000,
+        "citations": 70,
+        "authors": "Xi Jiang, Kai Luo",
+        "authors_list": [
+            "Xi Jiang",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsnano.2c11826",
+        "title": "A Malleable Composite Dough with Well-Dispersed and High-Content Boron Nitride Nanosheets",
+        "journal": "ACS Nano",
+        "year": 2023,
+        "citations": 69,
+        "authors": "Lanshu Xu, Ke Zhan, Siyuan Ding et al.",
+        "authors_list": [
+            "Lanshu Xu",
+            "Ke Zhan",
+            "Siyuan Ding",
+            "Jiuyi Zhu",
+            "Minsu Liu",
+            "Weiren Fan",
+            "Pei Duan",
+            "Kai Luo",
+            "Baofu Ding",
+            "Bilu Liu",
+            "Yilun Liu",
+            "Hui–Ming Cheng",
+            "Ling Qiu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.powtec.2011.01.017",
+        "title": "Modelling discrete fragmentation of brittle particles",
+        "journal": "Powder Technology",
+        "year": 2011,
+        "citations": 69,
+        "authors": "J. Bruchmüller, Bgm van Wachem, S. Gu et al.",
+        "authors_list": [
+            "J. Bruchmüller",
+            "Bgm van Wachem",
+            "S. Gu",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.63.3.1024-1027.1997",
+        "title": "Binding of Bacillus thuringiensis Cry1Ac Toxin to Aminopeptidase in Susceptible and Resistant Diamondback Moths (Plutella xylostella)",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 1997,
+        "citations": 68,
+        "authors": "Kai Luo, Bruce E. Tabashnik, Michael J. Adang",
+        "authors_list": [
+            "Kai Luo",
+            "Bruce E. Tabashnik",
+            "Michael J. Adang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/63/3/1024.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1876-3804(13)60105-6",
+        "title": "Current status and trend of separated layer water flooding in China",
+        "journal": "Petroleum Exploration and Development",
+        "year": 2013,
+        "citations": 67,
+        "authors": "He Liu, Xiaohan Pei, Kai Luo et al.",
+        "authors_list": [
+            "He Liu",
+            "Xiaohan Pei",
+            "Kai Luo",
+            "Sun Fuchao",
+            "Zheng Lichen",
+            "Qinghai Yang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1876380413601056/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.proci.2018.05.109",
+        "title": "A reactive molecular dynamics simulation study of methane oxidation assisted by platinum/graphene-based catalysts",
+        "journal": "Proceedings of the Combustion Institute",
+        "year": 2018,
+        "citations": 67,
+        "authors": "Muye Feng, Xi Zhuo Jiang, Kai Luo",
+        "authors_list": [
+            "Muye Feng",
+            "Xi Zhuo Jiang",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S154074891830110X/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acssuschemeng.2c02223",
+        "title": "Mild Acidolysis-Assisted Hydrothermal Carbonization of Lignin for Simultaneous Preparation of Green and Blue Fluorescent Carbon Quantum Dots",
+        "journal": "ACS Sustainable Chemistry & Engineering",
+        "year": 2022,
+        "citations": 66,
+        "authors": "Lingli Zhu, Dekui Shen, Qian Liu et al.",
+        "authors_list": [
+            "Lingli Zhu",
+            "Dekui Shen",
+            "Qian Liu",
+            "Kai Luo",
+            "Chong Li"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10157640/1/Luo%202022%20ACS%20Suschemeng%20quantum%20dots%20accepted.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.proci.2016.08.037",
+        "title": "Investigation of methane oxidation by palladium-based catalyst via ReaxFF Molecular Dynamics simulation",
+        "journal": "Proceedings of the Combustion Institute",
+        "year": 2016,
+        "citations": 66,
+        "authors": "Qian Mao, Adri C. T. van Duin, Kai Luo",
+        "authors_list": [
+            "Qian Mao",
+            "Adri C. T. van Duin",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1540748916304266/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.energy.2016.03.001",
+        "title": "An acoustically matched traveling-wave thermoacoustic generator achieving 750 W electric power",
+        "journal": "Energy",
+        "year": 2016,
+        "citations": 66,
+        "authors": "Kai Wang, Daming Sun, Jie Zhang et al.",
+        "authors_list": [
+            "Kai Wang",
+            "Daming Sun",
+            "Jie Zhang",
+            "Ya Xu",
+            "Kai Luo",
+            "Ning Zhang",
+            "Jiang Zou",
+            "Limin Qiu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.jpcc.8b09858",
+        "title": "Ignition and Oxidation of Core–Shell Al/Al<sub>2</sub>O<sub>3</sub> Nanoparticles in an Oxygen Atmosphere: Insights from Molecular Dynamics Simulation",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2018,
+        "citations": 65,
+        "authors": "Qingzhao Chu, Baolu Shi, Lijuan Liao et al.",
+        "authors_list": [
+            "Qingzhao Chu",
+            "Baolu Shi",
+            "Lijuan Liao",
+            "Kai Luo",
+            "Ningfei Wang",
+            "Chenguang Huang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://dspace.imech.ac.cn/handle/311007/78251"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/5.0032743",
+        "title": "Lattice Boltzmann modeling and simulation of forced-convection boiling on a cylinder",
+        "journal": "Physics of Fluids",
+        "year": 2021,
+        "citations": 65,
+        "authors": "Shimpei Saito, Alessandro De Rosis, Linlin Fei et al.",
+        "authors_list": [
+            "Shimpei Saito",
+            "Alessandro De Rosis",
+            "Linlin Fei",
+            "Kai Luo",
+            "Ken-ichi Ebihara",
+            "Akiko KANEKO",
+            "Yutaka ABE"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://research.manchester.ac.uk/en/publications/59820b9b-dad0-4593-9e30-91dbe5ee892a"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.proci.2018.07.053",
+        "title": "Study of mechanisms for electric field effects on ethanol oxidation via reactive force field molecular dynamics",
+        "journal": "Proceedings of the Combustion Institute",
+        "year": 2018,
+        "citations": 65,
+        "authors": "Xi Zhuo Jiang, Muye Feng, Weilin Zeng et al.",
+        "authors_list": [
+            "Xi Zhuo Jiang",
+            "Muye Feng",
+            "Weilin Zeng",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1540748918304711/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.94.053313",
+        "title": "Cascaded lattice Boltzmann method with improved forcing scheme for large-density-ratio multiphase flow at high Reynolds and Weber numbers",
+        "journal": "Physical review. E",
+        "year": 2016,
+        "citations": 64,
+        "authors": "Daniel Lycett-Brown, Kai Luo",
+        "authors_list": [
+            "Daniel Lycett-Brown",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevE.94.053313"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1876-3804(20)60094-5",
+        "title": "Key technologies, engineering management and important suggestions of shale oil/gas development: Case study of a Duvernay shale project in Western Canada Sedimentary Basin",
+        "journal": "Petroleum Exploration and Development",
+        "year": 2020,
+        "citations": 63,
+        "authors": "Guoxin Li, Kai Luo, Deqin SHI",
+        "authors_list": [
+            "Guoxin Li",
+            "Kai Luo",
+            "Deqin SHI"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1876380420600945/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.pecs.2021.100939",
+        "title": "Spray–turbulence–chemistry interactions under engine-like conditions",
+        "journal": "Progress in Energy and Combustion Science",
+        "year": 2021,
+        "citations": 63,
+        "authors": "Lei Zhou, Wanhui Zhao, Kai Luo et al.",
+        "authors_list": [
+            "Lei Zhou",
+            "Wanhui Zhao",
+            "Kai Luo",
+            "Ming Jia",
+            "Haiqiao Wei",
+            "Maozhao Xie"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10133309/1/Luo%202021%20PECS%20Engines%20Manuscript.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijhydene.2016.07.086",
+        "title": "High hydrogen content syngas fuel burning in lean premixed spherical flames at elevated pressures: Effects of preferential diffusion",
+        "journal": "International Journal of Hydrogen Energy",
+        "year": 2016,
+        "citations": 61,
+        "authors": "K.K.J. Ranga Dinesh, H. Shalaby, Kai Luo et al.",
+        "authors_list": [
+            "K.K.J. Ranga Dinesh",
+            "H. Shalaby",
+            "Kai Luo",
+            "J.A. van Oijen",
+            "Dominique Thévenin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijhydene.2020.08.081",
+        "title": "Artificial neural network based chemical mechanisms for computationally efficient modeling of hydrogen/carbon monoxide/kerosene combustion",
+        "journal": "International Journal of Hydrogen Energy",
+        "year": 2020,
+        "citations": 61,
+        "authors": "Jian An, Guoqiang He, Kai Luo et al.",
+        "authors_list": [
+            "Jian An",
+            "Guoqiang He",
+            "Kai Luo",
+            "Fei Qin",
+            "Bing Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10111220/7/Luo%202020%20IJHE%20DL%20accepted.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2017.12.052",
+        "title": "Modeling incompressible thermal flows using a central-moments-based lattice Boltzmann method",
+        "journal": "International Journal of Heat and Mass Transfer",
+        "year": 2017,
+        "citations": 60,
+        "authors": "Linlin Fei, Kai Luo, Chuandong Lin et al.",
+        "authors_list": [
+            "Linlin Fei",
+            "Kai Luo",
+            "Chuandong Lin",
+            "Qing Li"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0017931017337882/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.99.012142",
+        "title": "Discrete Boltzmann modeling of unsteady reactive flows with nonequilibrium effects",
+        "journal": "Physical review. E",
+        "year": 2019,
+        "citations": 60,
+        "authors": "Chuandong Lin, Kai Luo",
+        "authors_list": [
+            "Chuandong Lin",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10068183/1/Luo%202019%20PRE%20DBM.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.energyfuels.9b00392",
+        "title": "Effects of Moisture and Salinity on Methane Adsorption in Kerogen: A Molecular Simulation Study",
+        "journal": "Energy & Fuels",
+        "year": 2019,
+        "citations": 59,
+        "authors": "Zhou Juan, Qian Mao, Kai Luo",
+        "authors_list": [
+            "Zhou Juan",
+            "Qian Mao",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.acs.org/doi/pdf/10.1021/acs.energyfuels.9b00392"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.jpcc.9b07118",
+        "title": "Fundamental Study on Mechanisms of Thermal Decomposition and Oxidation of Aluminum Hydride",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2019,
+        "citations": 59,
+        "authors": "Muye Feng, Heping Li, Qian Mao et al.",
+        "authors_list": [
+            "Muye Feng",
+            "Heping Li",
+            "Qian Mao",
+            "Kai Luo",
+            "Paul Hellier"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10085630/7/Luo%202019%20JPCC%20AIH3%20Manuscript.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.eururo.2022.05.029",
+        "title": "Genomic Profiling and Response to Immune Checkpoint Inhibition plus Tyrosine Kinase Inhibition in FH-Deficient Renal Cell Carcinoma",
+        "journal": "European Urology",
+        "year": 2022,
+        "citations": 57,
+        "authors": "Yunze Xu, Wen Kong, Ming Cao et al.",
+        "authors_list": [
+            "Yunze Xu",
+            "Wen Kong",
+            "Ming Cao",
+            "Jieying Wang",
+            "Zaoyu Wang",
+            "Liang Zheng",
+            "Xiaoyu Wu",
+            "Rongrong Cheng",
+            "Wei He",
+            "Bo Yang",
+            "Baijun Dong",
+            "Jiahua Pan",
+            "Yonghui Chen",
+            "Jiwei Huang",
+            "Chen Jiang",
+            "Wei Zhai",
+            "Fangzhou Li",
+            "Ruohua Chen",
+            "Xiang Zhou",
+            "Guangyu Wu",
+            "Xiaochuan Geng",
+            "Jiasheng Chen",
+            "Huimin An",
+            "Yichu Yuan",
+            "Tianyuan Xu",
+            "Dongning Chen",
+            "Dengqiang Lin",
+            "Lieyu Xu",
+            "Kangbo Huang",
+            "Ling Peng",
+            "Yanfei Yu",
+            "Shengcheng Tai",
+            "Honggang Qi",
+            "Kai Luo",
+            "Xiaonan Kang",
+            "Hang Wang",
+            "Yiran Huang",
+            "Jin Zhang",
+            "Wei Xue"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.96.053305",
+        "title": "Discrete Boltzmann modeling of Rayleigh-Taylor instability in two-component compressible flows",
+        "journal": "Physical review. E",
+        "year": 2017,
+        "citations": 57,
+        "authors": "Chuandong Lin, Aiguo Xu, Guangcai Zhang et al.",
+        "authors_list": [
+            "Chuandong Lin",
+            "Aiguo Xu",
+            "Guangcai Zhang",
+            "Kai Luo",
+            "Yingjun Li"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1610.07013"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijhydene.2020.04.286",
+        "title": "A deep learning framework for hydrogen-fueled turbulent combustion simulation",
+        "journal": "International Journal of Hydrogen Energy",
+        "year": 2020,
+        "citations": 56,
+        "authors": "Jian An, HanYi Wang, Bing Liu et al.",
+        "authors_list": [
+            "Jian An",
+            "HanYi Wang",
+            "Bing Liu",
+            "Kai Luo",
+            "Fei Qin",
+            "Guo Qiang He"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s12916-024-03319-w",
+        "title": "Single-cell and spatial transcriptomics reveal metastasis mechanism and microenvironment remodeling of lymph node in osteosarcoma",
+        "journal": "BMC Medicine",
+        "year": 2024,
+        "citations": 55,
+        "authors": "Yun Liu, Mingwei He, Haijun Tang et al.",
+        "authors_list": [
+            "Yun Liu",
+            "Mingwei He",
+            "Haijun Tang",
+            "Tianyu Xie",
+            "Yunhua Lin",
+            "Shangyu Liu",
+            "Jiming Liang",
+            "Feicui Li",
+            "Kai Luo",
+            "Mingxiu Yang",
+            "Hongcai Teng",
+            "Xiaoting Luo",
+            "Juliang He",
+            "Shijie Liao",
+            "Qian Huang",
+            "Wenyu Feng",
+            "Xinli Zhan",
+            "Qingjun Wei"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bmcmedicine.biomedcentral.com/counter/pdf/10.1186/s12916-024-03319-w"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.jpclett.2c00647",
+        "title": "Exploring Complex Reaction Networks Using Neural Network-Based Molecular Dynamics Simulation",
+        "journal": "The Journal of Physical Chemistry Letters",
+        "year": 2022,
+        "citations": 54,
+        "authors": "Qingzhao Chu, Kai Luo, Dongping Chen",
+        "authors_list": [
+            "Qingzhao Chu",
+            "Kai Luo",
+            "Dongping Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cej.2020.125704",
+        "title": "The role of brine in gas adsorption and dissolution in kerogen nanopores for enhanced gas recovery and CO2 sequestration",
+        "journal": "Chemical Engineering Journal",
+        "year": 2020,
+        "citations": 54,
+        "authors": "Zhou Juan, Zhehui Jin, Kai Luo",
+        "authors_list": [
+            "Zhou Juan",
+            "Zhehui Jin",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10106226/7/Luo%202020%20CEJ%20CO2%20accepted.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0010-2180(02)00539-4",
+        "title": "Dynamics and structure of transitional buoyant jet diffusion flames with side-wall effects",
+        "journal": "Combustion and Flame",
+        "year": 2003,
+        "citations": 54,
+        "authors": "Xi Jiang, Kai Luo",
+        "authors_list": [
+            "Xi Jiang",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.89.053022",
+        "title": "Effect of the forcing term in the pseudopotential lattice Boltzmann modeling of thermal flows",
+        "journal": "Physical Review E",
+        "year": 2014,
+        "citations": 53,
+        "authors": "Qing Li, Kai Luo",
+        "authors_list": [
+            "Qing Li",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1405.2232"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.fuel.2019.115643",
+        "title": "Initiation mechanisms of enhanced pyrolysis and oxidation of JP-10 (exo-tetrahydrodicyclopentadiene) on functionalized graphene sheets: Insights from ReaxFF molecular dynamics simulations",
+        "journal": "Fuel",
+        "year": 2019,
+        "citations": 53,
+        "authors": "Muye Feng, Xi Zhuo Jiang, Qian Mao et al.",
+        "authors_list": [
+            "Muye Feng",
+            "Xi Zhuo Jiang",
+            "Qian Mao",
+            "Kai Luo",
+            "Paul Hellier"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10077622/1/Luo%202019%20Fuel%20JP10%20Manuscript.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1098/rsta.2020.0397",
+        "title": "A unified lattice Boltzmann model and application to multiphase flows",
+        "journal": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+        "year": 2021,
+        "citations": 52,
+        "authors": "Kai Luo, Linlin Fei, Geng Wang",
+        "authors_list": [
+            "Kai Luo",
+            "Linlin Fei",
+            "Geng Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2020.0397"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s001620050100",
+        "title": "Mach Wave Radiation by Mixing Layers. Part I: Analysis of the Sound Field",
+        "journal": "Theoretical and Computational Fluid Dynamics",
+        "year": 1998,
+        "citations": 52,
+        "authors": "Eldad Avital, Neil D. Sandham, Kai Luo",
+        "authors_list": [
+            "Eldad Avital",
+            "Neil D. Sandham",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.combustflame.2018.09.027",
+        "title": "Mesoscopic simulation of nonequilibrium detonation with discrete Boltzmann method",
+        "journal": "Combustion and Flame",
+        "year": 2018,
+        "citations": 51,
+        "authors": "Chuandong Lin, Kai Luo",
+        "authors_list": [
+            "Chuandong Lin",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0010218018304243/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cej.2011.01.102",
+        "title": "Effects of limestone calcination on the gasification processes in a BFB coal gasifier",
+        "journal": "Chemical Engineering Journal",
+        "year": 2011,
+        "citations": 51,
+        "authors": "Lindsay‐Marie Armstrong, S. Gu, Kai Luo",
+        "authors_list": [
+            "Lindsay‐Marie Armstrong",
+            "S. Gu",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.100.023301",
+        "title": "Improved three-dimensional color-gradient lattice Boltzmann model for immiscible two-phase flows",
+        "journal": "Physical review. E",
+        "year": 2019,
+        "citations": 51,
+        "authors": "Zhixun Wen, Qing Li, Ying Yu et al.",
+        "authors_list": [
+            "Zhixun Wen",
+            "Qing Li",
+            "Ying Yu",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevE.100.023301"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c8nj00240a",
+        "title": "Synthesis of petal-like δ-MnO <sub>2</sub> and its catalytic ozonation performance",
+        "journal": "New Journal of Chemistry",
+        "year": 2018,
+        "citations": 51,
+        "authors": "Kai Luo, Shi‐Xi Zhao, Shi‐Xi Zhao et al.",
+        "authors_list": [
+            "Kai Luo",
+            "Shi‐Xi Zhao",
+            "Shi‐Xi Zhao",
+            "Yifeng Wang",
+            "Zhao Shu-jin",
+            "Zhao Shu-jin",
+            "Xihui Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2015.12.069",
+        "title": "Double diffusion natural convection in a square cavity filled with nanofluid",
+        "journal": "International Journal of Heat and Mass Transfer",
+        "year": 2016,
+        "citations": 50,
+        "authors": "Sheng Chen, Bo Yang, Kai Luo et al.",
+        "authors_list": [
+            "Sheng Chen",
+            "Bo Yang",
+            "Kai Luo",
+            "Xiaopeng Xiong",
+            "Chuguang Zheng"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://eprints.nottingham.ac.uk/33250/"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0010-2180(99)00074-7",
+        "title": "Combustion effects on turbulence in a partially premixed supersonic diffusion flame",
+        "journal": "Combustion and Flame",
+        "year": 1999,
+        "citations": 50,
+        "authors": "Kai Luo",
+        "authors_list": [
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.proci.2020.09.023",
+        "title": "A molecular dynamics study on oxidation of aluminum hydride (AlH3)/hydroxyl-terminated polybutadiene (HTPB) solid fuel",
+        "journal": "Proceedings of the Combustion Institute",
+        "year": 2020,
+        "citations": 49,
+        "authors": "Muye Feng, Heping Li, Kai Luo",
+        "authors_list": [
+            "Muye Feng",
+            "Heping Li",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10115991/1/Luo%202020%20PCI%20AlH3%20accepted.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.combustflame.2023.112651",
+        "title": "Role of ammonia addition on polycyclic aromatic hydrocarbon growth: A ReaxFF molecular dynamics study",
+        "journal": "Combustion and Flame",
+        "year": 2023,
+        "citations": 49,
+        "authors": "Yunfeng Xu, Qian Mao, Ying Wang et al.",
+        "authors_list": [
+            "Yunfeng Xu",
+            "Qian Mao",
+            "Ying Wang",
+            "Kai Luo",
+            "Lei Zhou",
+            "Zhanyuan Wang",
+            "Haiqiao Wei"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10166768/1/Luo%202023%20CNF%20PAH%20accepted.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.fuel.2020.119516",
+        "title": "Phase transitions of multi-component fuel droplets under sub- and supercritical conditions",
+        "journal": "Fuel",
+        "year": 2020,
+        "citations": 48,
+        "authors": "Yifei Gong, Guowei Xiao, Xiao Ma et al.",
+        "authors_list": [
+            "Yifei Gong",
+            "Guowei Xiao",
+            "Xiao Ma",
+            "Kai Luo",
+            "Shijin Shuai",
+            "Hongming Xu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10118656/1/Luo%202021%20Fuel%20Phase%20Transition%20accepted.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.105.045314",
+        "title": "Unified lattice Boltzmann method with improved schemes for multiphase flow simulation: Application to droplet dynamics under realistic conditions",
+        "journal": "Physical review. E",
+        "year": 2022,
+        "citations": 47,
+        "authors": "Geng Wang, Linlin Fei, Kai Luo",
+        "authors_list": [
+            "Geng Wang",
+            "Linlin Fei",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10147568/1/PhysRevE.105.045314.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ie1023029",
+        "title": "Parametric Study of Gasification Processes in a BFB Coal Gasifier",
+        "journal": "Industrial & Engineering Chemistry Research",
+        "year": 2011,
+        "citations": 47,
+        "authors": "Lindsay‐Marie Armstrong, S. Gu, Kai Luo",
+        "authors_list": [
+            "Lindsay‐Marie Armstrong",
+            "S. Gu",
+            "Kai Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.jpcc.9b11410",
+        "title": "Reaction Mechanism of the Aluminum Nanoparticle: Physicochemical Reaction and Heat/Mass Transfer",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2020,
+        "citations": 47,
+        "authors": "Qingzhao Chu, Baolu Shi, Lijuan Liao et al.",
+        "authors_list": [
+            "Qingzhao Chu",
+            "Baolu Shi",
+            "Lijuan Liao",
+            "Xiangrui Zou",
+            "Kai Luo",
+            "Ningfei Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://dspace.imech.ac.cn/handle/311007/81778"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.applthermaleng.2016.03.106",
+        "title": "Acoustic matching of a traveling-wave thermoacoustic electric generator",
+        "journal": "Applied Thermal Engineering",
+        "year": 2016,
+        "citations": 47,
+        "authors": "Kai Wang, Jie Zhang, Ning Zhang et al.",
+        "authors_list": [
+            "Kai Wang",
+            "Jie Zhang",
+            "Ning Zhang",
+            "Daming Sun",
+            "Kai Luo",
+            "Jiang Zou",
+            "Limin Qiu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1359431116304100"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physreve.87.053301",
+        "title": "Lattice Boltzmann modeling of multiphase flows at large density ratio with an improved pseudopotential model",
+        "journal": "Physical Review E",
+        "year": null,
+        "citations": 516,
+        "authors": "Q. Li, K. H. Luo, X. J. Li",
+        "authors_list": [
+            "Q. Li",
+            "K. H. Luo",
+            "X. J. Li"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 516
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevE.87.053301"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.biortech.2010.02.078",
+        "title": "The pyrolytic degradation of wood-derived lignin from pulping process",
+        "journal": "Bioresource Technology",
+        "year": 2010,
+        "citations": 385,
+        "authors": "D.K. Shen, S. Gu, K.H. Luo et al.",
+        "authors_list": [
+            "D.K. Shen",
+            "S. Gu",
+            "K.H. Luo",
+            "S.R. Wang",
+            "M.X. Fang"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 385
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1017/s0022112096007525",
+        "title": "Compressible mixing layer growth rate and turbulence characteristics",
+        "journal": "Journal of Fluid Mechanics",
+        "year": 1996,
+        "citations": 272,
+        "authors": "A. W. Vreman, N. D. Sandham, K. H. Luo",
+        "authors_list": [
+            "A. W. Vreman",
+            "N. D. Sandham",
+            "K. H. Luo"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 272
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D158F649E24489C4C006F095868E0BB6/S0022112096007525a.pdf/div-class-title-compressible-mixing-layer-growth-rate-and-turbulence-characteristics-div.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physreve.86.016709",
+        "title": "Forcing scheme in pseudopotential lattice Boltzmann model for multiphase flows",
+        "journal": "Physical Review E",
+        "year": null,
+        "citations": 272,
+        "authors": "Q. Li, K. H. Luo, X. J. Li",
+        "authors_list": [
+            "Q. Li",
+            "K. H. Luo",
+            "X. J. Li"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 272
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1204.4098"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.fuel.2008.10.034",
+        "title": "Kinetic study on thermal decomposition of woods in oxidative environment",
+        "journal": "Fuel",
+        "year": 2009,
+        "citations": 257,
+        "authors": "D.K. Shen, S. Gu, K.H. Luo et al.",
+        "authors_list": [
+            "D.K. Shen",
+            "S. Gu",
+            "K.H. Luo",
+            "A.V. Bridgwater",
+            "M.X. Fang"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 257
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0016236108004316"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physreve.90.053301",
+        "title": "Contact angles in the pseudopotential lattice Boltzmann modeling of wetting",
+        "journal": "Physical Review E",
+        "year": null,
+        "citations": 232,
+        "authors": "Qing Li, K. H. Luo, Q. J. Kang et al.",
+        "authors_list": [
+            "Qing Li",
+            "K. H. Luo",
+            "Q. J. Kang",
+            "Q. Chen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 232
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1410.2569"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physreve.88.053307",
+        "title": "Achieving tunable surface tension in the pseudopotential lattice Boltzmann modeling of multiphase flows",
+        "journal": "Physical Review E",
+        "year": null,
+        "citations": 176,
+        "authors": "Qing Li, K. H. Luo",
+        "authors_list": [
+            "Qing Li",
+            "K. H. Luo"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 176
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1306.6445"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1128/aem.61.6.2086-2092.1995",
+        "title": "Development of Bacillus thuringiensis CryIC Resistance by Spodoptera exigua (Hubner) (Lepidoptera: Noctuidae)",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 1995,
+        "citations": 142,
+        "authors": "W J Moar, M Pusztai-Carey, H Van Faassen et al.",
+        "authors_list": [
+            "W J Moar",
+            "M Pusztai-Carey",
+            "H Van Faassen",
+            "D Bosch",
+            "R Frutos",
+            "C Rang",
+            "K Luo",
+            "M J Adang"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 142
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/61/6/2086.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1021/ef700300m",
+        "title": "The Influence of Microwave Drying on Biomass Pyrolysis",
+        "journal": "Energy &amp; Fuels",
+        "year": 2008,
+        "citations": 125,
+        "authors": "Xianhua Wang, Hanping Chen, Kai Luo et al.",
+        "authors_list": [
+            "Xianhua Wang",
+            "Hanping Chen",
+            "Kai Luo",
+            "Jingai Shao",
+            "Haiping Yang"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 125
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1039/c8cy00845k",
+        "title": "State-of-the-art catalytic hydrogenolysis of lignin for the production of aromatic chemicals",
+        "journal": "Catalysis Science &amp; Technology",
+        "year": null,
+        "citations": 128,
+        "authors": "Chongbo Cheng, Dekui Shen, Sai Gu et al.",
+        "authors_list": [
+            "Chongbo Cheng",
+            "Dekui Shen",
+            "Sai Gu",
+            "Kai Hong Luo"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 128
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10067616/1/Luo%20AAM%20Luo%202018%20CST%20Aromatic%20Chemicals%20accpted.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physreve.85.026704",
+        "title": "Additional interfacial force in lattice Boltzmann models for incompressible multiphase flows",
+        "journal": "Physical Review E",
+        "year": null,
+        "citations": 110,
+        "authors": "Q. Li, K. H. Luo, Y. J. Gao et al.",
+        "authors_list": [
+            "Q. Li",
+            "K. H. Luo",
+            "Y. J. Gao",
+            "Y. L. He"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 110
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1110.5004"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physreve.85.016710",
+        "title": "Coupling lattice Boltzmann model for simulation of thermal flows on standard lattices",
+        "journal": "Physical Review E",
+        "year": null,
+        "citations": 93,
+        "authors": "Q. Li, K. H. Luo, Y. L. He et al.",
+        "authors_list": [
+            "Q. Li",
+            "K. H. Luo",
+            "Y. L. He",
+            "Y. J. Gao",
+            "W. Q. Tao"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 93
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1109.6672"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s0142-727x(02)00155-8",
+        "title": "Numerical study of momentum and heat transfer in unsteady impinging jets",
+        "journal": "International Journal of Heat and Fluid Flow",
+        "year": 2002,
+        "citations": 91,
+        "authors": "Y.M. Chung, K.H. Luo, N.D. Sandham",
+        "authors_list": [
+            "Y.M. Chung",
+            "K.H. Luo",
+            "N.D. Sandham"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 91
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.fuel.2022.125806",
+        "title": "Exploring reaction mechanism for ammonia/methane combustion via reactive molecular dynamics simulations",
+        "journal": "Fuel",
+        "year": 2023,
+        "citations": 104,
+        "authors": "Jing Wang, Xi Zhuo Jiang, Kai H. Luo",
+        "authors_list": [
+            "Jing Wang",
+            "Xi Zhuo Jiang",
+            "Kai H. Luo"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 104
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10157350/1/Luo%202022%20Fuel%20Ammonia%20MD%20accepted.pdf"
+        }
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "url": "https://cprit2017.sched.com/event/BEUo/cprit-academic-research-rfa-funding-mechanisms",
+        "snippet": "James K.V. Willson, MD. Chief Scientific Officer, Cancer Prevention and Research Institute of Texas. Dr. Willson leads the Cancer Prevention and Research ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet is an excerpt from a schedule of events, likely part of a conference program or proceedings"
+    },
+    {
+        "url": "https://ascopost.com/issues/february-10-2016/james-kv-willson-md-named-chief-scientific-officer-of-cprit/",
+        "snippet": "James K.V. Willson ... His research led to the development of cell and animal models for human colon cancer that have been key to identifying ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The URL is from a news website (ascopost.com) and the snippet mentions a specific event (James K.V. Willson being named Chief Scientific Officer)"
+    },
+    {
+        "url": "https://utswdigitalarchives.utsouthwestern.edu/record/305?v\\u003duv\\u0026ln\\u003den",
+        "snippet": "James K.V. Willson joined UT Southwestern in 2004 and served as the Director of the Harold C. Simmons Comprehensive Cancer Center until February ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The snippet provides a brief bio of an individual, suggesting a news or update related to the institution."
+    },
+    {
+        "url": "https://www.sciencedirect.com/author/7102953866/james-k-v-willson",
+        "snippet": "Autocrine transforming growth factor-alpha is associated with progression of transformed properties in human colon cancer cells. B.L. Ziober, J.K. Willson ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "Author name matches the URL's author ID, indicating a research publication page."
+    },
+    {
+        "url": "https://www.texastribune.org/2016/02/01/new-leader-named-texas-cancer-research-agency/",
+        "snippet": "James K.V. Willson, head of UT Southwestern's Harold C. Simmons Cancer Center, as chief scientific officer of the research agency.",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The snippet reports on a specific event or appointment in the field of cancer research, indicating it is news-related content."
+    },
+    {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12086859/",
+        "snippet": "Focus on colon cancer. ... James K V Willson. Affiliation. 1 Howard Hughes Medical Institute, Cleveland ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "It's a PubMed entry, indicating an academic publication with affiliation information."
+    },
+    {
+        "url": "https://utswmed-ir.tdl.org/bitstreams/2edd9946-c2f1-4e2f-8dfa-cea53c760004/download",
+        "snippet": "JAMES K. V. WILLSON, M.D.. INTERNAL MEDICINE GRAND ROUNDS. UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL CENTER AT. DALLAS. APRIL 20, 2007.",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The snippet appears to be a dated event or publication, suggesting it's from an academic news source such as a university newsletter."
+    }
+]

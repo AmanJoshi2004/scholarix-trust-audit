@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://scholar.google.com/citations?user=jB_SrVoAAAAJ&hl=en",
+        "snippet": "Intensifying drought eliminates the expected benefits of elevated carbon dioxide for soybean ... Global Warming Can Negate the Expected CO2 Stimulation in ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is a Google Scholar citation page, indicating the author's publication history and metrics."
+    },
+    {
+        "url": "https://www.science.org/doi/10.1126/science.adv5413",
+        "snippet": "Safeguarding crop photosynthesis in a rapidly warming world. Carl J. Bernacchi ... Wu, Quantifying high-temperature stress on soybean canopy ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is a DOAJ link from Science.org, indicating it's an article published in the journal Science"
+    },
+    {
+        "url": "https://experts.arizona.edu/en/publications/a-meta-analysis-of-elevated-cosub2sub-effects-on-soybean-glycine-/",
+        "snippet": "A meta-analysis of elevated [CO2] effects on soybean (Glycine max) physiology, growth and yield. Elizabeth A. Ainsworth; , Phillip A. Davey; , Carl J. Bernacchi ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL and snippet are from a publication database, indicating an academic research article."
+    },
+    {
+        "url": "https://arpa-e.energy.gov/sites/default/files/migrated/Bernacchi_v2.pdf",
+        "snippet": "Carl J. Bernacchi. Global Change and Photosynthesis Research Unit. USDA-ARS. Department of Plant Biology. University of Illinois. Page 2. Presentation Outline.",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL points to a PDF document, and the snippet indicates it's from a presentation outline, likely from an academic publication or conference."
+    },
+    {
+        "url": "http://publish.illinois.edu/delucia-lab/files/2021/10/Water-ceiling.pdf",
+        "snippet": "KANTOLA,2,3 CARL J. BERNACCHI,1,3,4,9 YUEFEI HUANG,7,8. STEPHEN P. LONG,1,2,3,4,6,10. AND DONALD R. ORT. 1,3,4,10. 1Department of Plant Biology, University of ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is a PDF document hosted on a university's publication server, indicating a research paper or article."
+    },
+    {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13017493/",
+        "snippet": "... Carl J Bernacchi. 4 Department of Crop Sciences, University of Illinois ... Shanghai, China: IEEE International Conference on Robotics and Automation (ICRA); 2011 ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL points to a PMC (PubMed Central) article and the snippet includes academic authors and conference information."
+    },
+    {
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2486.2005.01050.x",
+        "snippet": "First Published online: July 4, 2006. Carl J. Bernacchi,. Carl J. Bernacchi. Illinois State Water Survey, 2204 Griffith Drive, Champaign, IL ...",
+        "category": "Publication",
+        "relevance_score": 92,
+        "reasoning": "The URL points to an academic publication on a reputable online library, and the snippet provides metadata typical of publications, such as date first published and author affiliation."
+    },
+    {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32170296/",
+        "snippet": "Increasing atmospheric carbon dioxide concentration ([CO2]) ... Keywords: Biomass; elevated CO2; photosynthesis; soybean (Glycine max).",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "It's a PubMed link, indicating a research article or study."
+    }
+]

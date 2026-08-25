@@ -1,0 +1,3024 @@
+[
+    {
+        "doi": "https://doi.org/10.1002/(sici)1099-1379(200005)21:3<249::aid-job10>3.0.co;2-#",
+        "title": "The empowering leadership questionnaire: the construction and validation of a new scale for measuring leader behaviors",
+        "journal": "Journal of Organizational Behavior",
+        "year": 2000,
+        "citations": 1144,
+        "authors": "Josh A. Arnold, Sharon Arad, Jonathan A. Rhoades et al.",
+        "authors_list": [
+            "Josh A. Arnold",
+            "Sharon Arad",
+            "Jonathan A. Rhoades",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1144,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.82.4.578",
+        "title": "Antecedents and consequences of sexual harassment in organizations: A test of an integrated model.",
+        "journal": "Journal of Applied Psychology",
+        "year": 1997,
+        "citations": 903,
+        "authors": "Louise Fitzgerald, Fritz Drasgow, Charles L. Hulin et al.",
+        "authors_list": [
+            "Louise Fitzgerald",
+            "Fritz Drasgow",
+            "Charles L. Hulin",
+            "Michele J. Gelfand",
+            "Vicki J. Magley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 903,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1207/s15324834basp1704_2",
+        "title": "Measuring Sexual Harassment: Theoretical and Psychometric Advances",
+        "journal": "Basic and Applied Social Psychology",
+        "year": 1995,
+        "citations": 900,
+        "authors": "Louise F. Fitzgerald, Michele J. Gelfand, Fritz Drasgow",
+        "authors_list": [
+            "Louise F. Fitzgerald",
+            "Michele J. Gelfand",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 900,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.84.5.754",
+        "title": "A meta-analytic study of social desirability distortion in computer-administered questionnaires, traditional questionnaires, and interviews.",
+        "journal": "Journal of Applied Psychology",
+        "year": 1999,
+        "citations": 807,
+        "authors": "Wendy L. Richman, Sara Kiesler, Suzanne Weisband et al.",
+        "authors_list": [
+            "Wendy L. Richman",
+            "Sara Kiesler",
+            "Suzanne Weisband",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 807,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.86.3.481",
+        "title": "Toward a theory of individual differences and leadership: Understanding the motivation to lead.",
+        "journal": "Journal of Applied Psychology",
+        "year": 2001,
+        "citations": 789,
+        "authors": "Kim-Yin Chan, Fritz Drasgow",
+        "authors_list": [
+            "Kim-Yin Chan",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 789,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.2044-8317.1985.tb00817.x",
+        "title": "Appropriateness measurement with polychotomous item response models and standardized indices",
+        "journal": "British Journal of Mathematical and Statistical Psychology",
+        "year": 1985,
+        "citations": 458,
+        "authors": "Fritz Drasgow, Michael V. Levine, E. Williams",
+        "authors_list": [
+            "Fritz Drasgow",
+            "Michael V. Levine",
+            "E. Williams"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 458,
+            "crossref": 351
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.91.6.1292",
+        "title": "Detecting differential item functioning with confirmatory factor analysis and item response theory: Toward a unified strategy.",
+        "journal": "Journal of Applied Psychology",
+        "year": 2006,
+        "citations": 444,
+        "authors": "Stephen Stark, Oleksandr S. Chernyshenko, Fritz Drasgow",
+        "authors_list": [
+            "Stephen Stark",
+            "Oleksandr S. Chernyshenko",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 444,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.85.5.643",
+        "title": "Empowerment and continuous improvement in the United States, Mexico, Poland, and India: Predicting fit on the basis of the dimensions of power distance and individualism.",
+        "journal": "Journal of Applied Psychology",
+        "year": 2000,
+        "citations": 437,
+        "authors": "Christopher Robert, Tahira M. Probst, Joseph J. Martocchio et al.",
+        "authors_list": [
+            "Christopher Robert",
+            "Tahira M. Probst",
+            "Joseph J. Martocchio",
+            "Fritz Drasgow",
+            "John Lawler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 437,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0033-2909.114.3.449",
+        "title": "Equivalence of computerized and paper-and-pencil cognitive ability tests: A meta-analysis.",
+        "journal": "Psychological Bulletin",
+        "year": 1993,
+        "citations": 420,
+        "authors": "Alan D. Mead, Fritz Drasgow",
+        "authors_list": [
+            "Alan D. Mead",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 420,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Measuring and analyzing behavior in organizations : advances in measurement and data analysis",
+        "journal": "",
+        "year": 2002,
+        "citations": 415,
+        "authors": "Fritz Drasgow, Neal Schmitt",
+        "authors_list": [
+            "Fritz Drasgow",
+            "Neal Schmitt"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 415,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.72.1.69",
+        "title": "A revision of the Job Diagnostic Survey: Elimination of a measurement artifact.",
+        "journal": "Journal of Applied Psychology",
+        "year": 1987,
+        "citations": 403,
+        "authors": "Jacqueline R. Idaszak, Fritz Drasgow",
+        "authors_list": [
+            "Jacqueline R. Idaszak",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 403,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1207/s15327876mp1103_3",
+        "title": "Measuring Sexual Harassment in the Military: The Sexual Experiences Questionnaire (SEQ—DoD)",
+        "journal": "Military Psychology",
+        "year": 1999,
+        "citations": 368,
+        "authors": "Louise F. Fitzgerald, Vicki J. Magley, Fritz Drasgow et al.",
+        "authors_list": [
+            "Louise F. Fitzgerald",
+            "Vicki J. Magley",
+            "Fritz Drasgow",
+            "Craig R. Waldo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 368,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Item response theory : application to psychological measurement",
+        "journal": "Dow Jones-Irwin eBooks",
+        "year": 1983,
+        "citations": 364,
+        "authors": "Charles L. Hulin, Fritz Drasgow, Charles K. Parsons",
+        "authors_list": [
+            "Charles L. Hulin",
+            "Fritz Drasgow",
+            "Charles K. Parsons"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 364,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/1745691612449021",
+        "title": "Vocational Interests and Performance",
+        "journal": "Perspectives on Psychological Science",
+        "year": 2012,
+        "citations": 351,
+        "authors": "Christopher D. Nye, Rong Su, James Rounds et al.",
+        "authors_list": [
+            "Christopher D. Nye",
+            "Rong Su",
+            "James Rounds",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 351,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1006/jvbe.1995.1033",
+        "title": "The Structure of Sexual Harassment: A Confirmatory Analysis across Cultures and Settings",
+        "journal": "Journal of Vocational Behavior",
+        "year": 1995,
+        "citations": 334,
+        "authors": "Michelle J. Gelfand, Louise F. Fitzgerald, Fritz Drasgow",
+        "authors_list": [
+            "Michelle J. Gelfand",
+            "Louise F. Fitzgerald",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 334,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.70.4.662",
+        "title": "Equivalence of psychological measurement in heterogeneous populations.",
+        "journal": "Journal of Applied Psychology",
+        "year": 1985,
+        "citations": 321,
+        "authors": "Fritz Drasgow, Ruth Kanfer",
+        "authors_list": [
+            "Fritz Drasgow",
+            "Ruth Kanfer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 321,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bf02294164",
+        "title": "The Polyserial Correlation Coefficient",
+        "journal": "Psychometrika",
+        "year": 1982,
+        "citations": 304,
+        "authors": "Ulf Olsson, Fritz Drasgow, Neil J. Dorans",
+        "authors_list": [
+            "Ulf Olsson",
+            "Fritz Drasgow",
+            "Neil J. Dorans"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 304,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1006/obhd.1997.2728",
+        "title": "Ambient Sexual Harassment: An Integrated Model of Antecedents and Consequences",
+        "journal": "Organizational Behavior and Human Decision Processes",
+        "year": 1997,
+        "citations": 290,
+        "authors": "Theresa M. Glomb, Wendy L. Richman, Charles L. Hulin et al.",
+        "authors_list": [
+            "Theresa M. Glomb",
+            "Wendy L. Richman",
+            "Charles L. Hulin",
+            "Fritz Drasgow",
+            "Kimberly T. Schneider",
+            "Louise F. Fitzgerald"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 290,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0003-066x.59.3.150",
+        "title": "Psychological Testing on the Internet: New Problems, Old Issues.",
+        "journal": "American Psychologist",
+        "year": 2004,
+        "citations": 247,
+        "authors": "Jack A. Naglieri, Fritz Drasgow, Mark J. Schmit et al.",
+        "authors_list": [
+            "Jack A. Naglieri",
+            "Fritz Drasgow",
+            "Mark J. Schmit",
+            "Len Handler",
+            "Aurelio Prifitera",
+            "Amy Margolis",
+            "Roberto J. Velásquez"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 247,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4135/9781483327280.n7",
+        "title": "Organizational Influences on Sexual Harassment",
+        "journal": "",
+        "year": 1996,
+        "citations": 244,
+        "authors": "Charles L. Hulin, Louise F. Fitzgerald, Fritz Drasgow",
+        "authors_list": [
+            "Charles L. Hulin",
+            "Louise F. Fitzgerald",
+            "Fritz Drasgow"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 244,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/014662168300700207",
+        "title": "Application of Unidimensional Item Response Theory Models to Multidimensional Data",
+        "journal": "Applied Psychological Measurement",
+        "year": 1983,
+        "citations": 241,
+        "authors": "Fritz Drasgow, Charles K. Parsons",
+        "authors_list": [
+            "Fritz Drasgow",
+            "Charles K. Parsons"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 241,
+            "crossref": 159
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://conservancy.umn.edu/bitstreams/a5552b21-7543-4743-8e41-73146f3d715a/download"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.83.5.683",
+        "title": "The Perceptions of Fair Interpersonal Treatment scale: Development and validation of a measure of interpersonal treatment in the workplace.",
+        "journal": "Journal of Applied Psychology",
+        "year": 1998,
+        "citations": 241,
+        "authors": "Michelle A. Donovan, Fritz Drasgow, Liberty J. Munson",
+        "authors_list": [
+            "Michelle A. Donovan",
+            "Fritz Drasgow",
+            "Liberty J. Munson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 241,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/0471667196.ess2014.pub2",
+        "title": "Polychoric and Polyserial Correlations",
+        "journal": "Encyclopedia of Statistical Sciences",
+        "year": 2005,
+        "citations": 238,
+        "authors": "Fritz Drasgow",
+        "authors_list": [
+            "Fritz Drasgow"
+        ],
+        "type": "reference-entry",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 238,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/1094428110368562",
+        "title": "Assessing Goodness of Fit: Simple Rules of Thumb Simply Do Not Work",
+        "journal": "Organizational Research Methods",
+        "year": 2010,
+        "citations": 233,
+        "authors": "Christopher D. Nye, Fritz Drasgow",
+        "authors_list": [
+            "Christopher D. Nye",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 233,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.91.1.25",
+        "title": "Examining assumptions about item responding in personality assessment: Should ideal point methods be considered for scale development and scoring?",
+        "journal": "Journal of Applied Psychology",
+        "year": 2006,
+        "citations": 226,
+        "authors": "Stephen Stark, Oleksandr S. Chernyshenko, Fritz Drasgow et al.",
+        "authors_list": [
+            "Stephen Stark",
+            "Oleksandr S. Chernyshenko",
+            "Fritz Drasgow",
+            "Bruce A. Williams"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 226,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/014662169501900203",
+        "title": "Fitting Polytomous Item Response Theory Models to Multiple-Choice Tests",
+        "journal": "Applied Psychological Measurement",
+        "year": 1995,
+        "citations": 221,
+        "authors": "Fritz Drasgow, Michael V. Levine, Sherman Tsien et al.",
+        "authors_list": [
+            "Fritz Drasgow",
+            "Michael V. Levine",
+            "Sherman Tsien",
+            "Bruce A. Williams",
+            "Alan D. Mead"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 221,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://conservancy.umn.edu/bitstreams/afcc4ad5-2112-44d9-aaa7-2e5bb6ee157f/download"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/a0022955",
+        "title": "Effect size indices for analyses of measurement equivalence: Understanding the practical importance of differences between groups.",
+        "journal": "Journal of Applied Psychology",
+        "year": 2011,
+        "citations": 216,
+        "authors": "Christopher D. Nye, Fritz Drasgow",
+        "authors_list": [
+            "Christopher D. Nye",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 216,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0033-2909.95.1.134",
+        "title": "Scrutinizing psychological tests: Measurement equivalence and equivalent relations with external variables are the central issues.",
+        "journal": "Psychological Bulletin",
+        "year": 1984,
+        "citations": 216,
+        "authors": "Fritz Drasgow",
+        "authors_list": [
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 216,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/014662168200600301",
+        "title": "Recovery of Two- and Three-Parameter Logistic Item Characteristic Curves: A Monte Carlo Study",
+        "journal": "Applied Psychological Measurement",
+        "year": 1982,
+        "citations": 206,
+        "authors": "Charles L. Hulin, Robin I. Lissak, Fritz Drasgow",
+        "authors_list": [
+            "Charles L. Hulin",
+            "Robin I. Lissak",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 206,
+            "crossref": 139
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://conservancy.umn.edu/bitstreams/e4828d9b-8469-40ab-8ead-1beca481288a/download"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1207/s15327906mbr3604_03",
+        "title": "Fitting Item Response Theory Models to Two Personality Inventories: Issues and Insights",
+        "journal": "Multivariate Behavioral Research",
+        "year": 2001,
+        "citations": 202,
+        "authors": "Oleksandr S. Chernyshenko, Stephen Stark, Kim-Yin Chan et al.",
+        "authors_list": [
+            "Oleksandr S. Chernyshenko",
+            "Stephen Stark",
+            "Kim-Yin Chan",
+            "Fritz Drasgow",
+            "Bruce A. Williams"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 202,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.72.1.19",
+        "title": "Study of the measurement bias of two standardized psychological tests.",
+        "journal": "Journal of Applied Psychology",
+        "year": 1987,
+        "citations": 198,
+        "authors": "Fritz Drasgow",
+        "authors_list": [
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 198,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jvb.2016.11.002",
+        "title": "Interest congruence and performance: Revisiting recent meta-analytic findings",
+        "journal": "Journal of Vocational Behavior",
+        "year": 2016,
+        "citations": 189,
+        "authors": "Christopher D. Nye, Rong Su, James Rounds et al.",
+        "authors_list": [
+            "Christopher D. Nye",
+            "Rong Su",
+            "James Rounds",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 189,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1787/db1d8e59-en",
+        "title": "Social and emotional skills for student success and well-being",
+        "journal": "OECD education working papers",
+        "year": 2018,
+        "citations": 188,
+        "authors": "Oleksandr S. Chernyshenko, Miloš Kankaraš, Fritz Drasgow",
+        "authors_list": [
+            "Oleksandr S. Chernyshenko",
+            "Miloš Kankaraš",
+            "Fritz Drasgow"
+        ],
+        "type": "report",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 188,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.oecd-ilibrary.org/deliver/db1d8e59-en.pdf?itemId=%2Fcontent%2Fpaper%2Fdb1d8e59-en&mimeType=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/0146621604273988",
+        "title": "An IRT Approach to Constructing and Scoring Pairwise Preference Items Involving Stimuli on Different Dimensions: The Multi-Unidimensional Pairwise-Preference Model",
+        "journal": "Applied Psychological Measurement",
+        "year": 2005,
+        "citations": 187,
+        "authors": "Stephen Stark, Oleksandr S. Chernyshenko, Fritz Drasgow",
+        "authors_list": [
+            "Stephen Stark",
+            "Oleksandr S. Chernyshenko",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 187,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/014662168801200304",
+        "title": "An Iterative Procedure for Linking Metrics and Assessing Item Bias in Item Response Theory",
+        "journal": "Applied Psychological Measurement",
+        "year": 1988,
+        "citations": 183,
+        "authors": "Gregory L. Candell, Fritz Drasgow",
+        "authors_list": [
+            "Gregory L. Candell",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 183,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://conservancy.umn.edu/bitstreams/3e02d8c7-b5d7-49a0-af4e-af67a479086e/download"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.68.3.363",
+        "title": "Modified parallel analysis: A procedure for examining the latent dimensionality of dichotomously scored item responses.",
+        "journal": "Journal of Applied Psychology",
+        "year": 1983,
+        "citations": 175,
+        "authors": "Fritz Drasgow, Robin I. Lissak",
+        "authors_list": [
+            "Fritz Drasgow",
+            "Robin I. Lissak"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 175,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/apl0000414",
+        "title": "Does forcing reduce faking? A meta-analytic review of forced-choice personality measures in high-stakes situations.",
+        "journal": "Journal of Applied Psychology",
+        "year": 2019,
+        "citations": 173,
+        "authors": "Mengyang Cao, Fritz Drasgow",
+        "authors_list": [
+            "Mengyang Cao",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 173,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.84.1.14",
+        "title": "Structural equation models of sexual harassment: Longitudinal explorations and cross-sectional generalizations.",
+        "journal": "Journal of Applied Psychology",
+        "year": 1999,
+        "citations": 167,
+        "authors": "Theresa M. Glomb, Liberty J. Munson, Charles L. Hulin et al.",
+        "authors_list": [
+            "Theresa M. Glomb",
+            "Liberty J. Munson",
+            "Charles L. Hulin",
+            "Mindy E. Bergman",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 167,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.86.5.943",
+        "title": "Effects of the testing situation on item responding: Cause for concern.",
+        "journal": "Journal of Applied Psychology",
+        "year": 2001,
+        "citations": 162,
+        "authors": "Stephen Stark, Oleksandr S. Chernyshenko, Kim-Yin Chan et al.",
+        "authors_list": [
+            "Stephen Stark",
+            "Oleksandr S. Chernyshenko",
+            "Kim-Yin Chan",
+            "Wayne C. Lee",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 162,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.86.5.965",
+        "title": "An examination of the comparative reliability, validity, and accuracy of performance ratings made using computerized adaptive rating scales.",
+        "journal": "Journal of Applied Psychology",
+        "year": 2001,
+        "citations": 160,
+        "authors": "Walter C. Borman, Daren E. Buck, Mary Ann Hanson et al.",
+        "authors_list": [
+            "Walter C. Borman",
+            "Daren E. Buck",
+            "Mary Ann Hanson",
+            "Stephan J. Motowidlo",
+            "Stephen Stark",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 160,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1207/s15327876mp1103_7",
+        "title": "Sexual Harassment in the Armed Forces: A Test of an Integrated Model",
+        "journal": "Military Psychology",
+        "year": 1999,
+        "citations": 156,
+        "authors": "Louise Fitzgerald, Fritz Drasgow, Vicki J. Magley",
+        "authors_list": [
+            "Louise Fitzgerald",
+            "Fritz Drasgow",
+            "Vicki J. Magley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 156,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/014662169602000107",
+        "title": "Detecting Faking on a Personality Instrument Using Appropriateness Measurement",
+        "journal": "Applied Psychological Measurement",
+        "year": 1996,
+        "citations": 156,
+        "authors": "Michael J. Zickar, Fritz Drasgow",
+        "authors_list": [
+            "Michael J. Zickar",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 156,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://conservancy.umn.edu/bitstreams/079a5c7c-5863-4890-af4a-c3de82aedd12/download"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1744-6570.2006.00909.x",
+        "title": "UNPROCTORED INTERNET TESTING IN EMPLOYMENT SETTINGS",
+        "journal": "Personnel Psychology",
+        "year": 2006,
+        "citations": 155,
+        "authors": "Nancy T. Tippins, James C. Beaty, Fritz Drasgow et al.",
+        "authors_list": [
+            "Nancy T. Tippins",
+            "James C. Beaty",
+            "Fritz Drasgow",
+            "Wade M. Gibson",
+            "Kenneth Pearlman",
+            "Daniel O. Segall",
+            "William Shepherd"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 155,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1207/s15327876mp1103_6",
+        "title": "The Effects of Organizational Practices on Sexual Harassment and Individual Outcomes in the Military",
+        "journal": "Military Psychology",
+        "year": 1999,
+        "citations": 153,
+        "authors": "Jill Hunter Williams, Louise F. Fitzgerald, Fritz Drasgow",
+        "authors_list": [
+            "Jill Hunter Williams",
+            "Louise F. Fitzgerald",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 153,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0033-2909.88.3.580",
+        "title": "New time-series statistic for detecting rhythmic co-occurrence in the frequency domain: The weighted coherence and its application to psychophysiological research.",
+        "journal": "Psychological Bulletin",
+        "year": 1980,
+        "citations": 152,
+        "authors": "Stephen W. Porges, Robert Bohrer, Michael N. Cheung et al.",
+        "authors_list": [
+            "Stephen W. Porges",
+            "Robert Bohrer",
+            "Michael N. Cheung",
+            "Fritz Drasgow",
+            "Philip M. McCabe",
+            "Gideon Keren"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 152,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/1040-3590.19.1.88",
+        "title": "Constructing personality scales under the assumptions of an ideal point response process: Toward increasing the flexibility of personality measures.",
+        "journal": "Psychological Assessment",
+        "year": 2007,
+        "citations": 151,
+        "authors": "Oleksandr S. Chernyshenko, Stephen Stark, Fritz Drasgow et al.",
+        "authors_list": [
+            "Oleksandr S. Chernyshenko",
+            "Stephen Stark",
+            "Fritz Drasgow",
+            "Brent W. Roberts"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 151,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.85.5.766",
+        "title": "Test of the cross-cultural generalizability of a model of sexual harassment.",
+        "journal": "Journal of Applied Psychology",
+        "year": 2000,
+        "citations": 149,
+        "authors": "S. Arzu Wasti, Mindy E. Bergman, Theresa M. Glomb et al.",
+        "authors_list": [
+            "S. Arzu Wasti",
+            "Mindy E. Bergman",
+            "Theresa M. Glomb",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 149,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/014662168701100105",
+        "title": "Detecting Inappropriate Test Scores with Optimal and Practical Appropriateness Indices",
+        "journal": "Applied Psychological Measurement",
+        "year": 1987,
+        "citations": 137,
+        "authors": "Fritz Drasgow, Michael V. Levine, Mary McLaughlin",
+        "authors_list": [
+            "Fritz Drasgow",
+            "Michael V. Levine",
+            "Mary McLaughlin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 137,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://conservancy.umn.edu/bitstreams/98374830-de42-4fee-8663-1051d514b4a3/download"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.89.3.497",
+        "title": "Examining the Effects of Differential Item (Functioning and Differential) Test Functioning on Selection Decisions: When Are Statistically Significant Effects Practically Important?",
+        "journal": "Journal of Applied Psychology",
+        "year": 2004,
+        "citations": 137,
+        "authors": "Stephen Stark, Oleksandr S. Chernyshenko, Fritz Drasgow",
+        "authors_list": [
+            "Stephen Stark",
+            "Oleksandr S. Chernyshenko",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 137,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jrp.2005.01.006",
+        "title": "Personality assessment: Does the medium matter? No",
+        "journal": "Journal of Research in Personality",
+        "year": 2006,
+        "citations": 131,
+        "authors": "Siang Chee Chuah, Fritz Drasgow, Brent W. Roberts",
+        "authors_list": [
+            "Siang Chee Chuah",
+            "Fritz Drasgow",
+            "Brent W. Roberts"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 131,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1468-2389.2006.00345.x",
+        "title": "Scoring Situational Judgment Tests: Once You Get the Data, Your Troubles Begin",
+        "journal": "International Journal of Selection and Assessment",
+        "year": 2006,
+        "citations": 130,
+        "authors": "Mindy E. Bergman, Fritz Drasgow, Michelle A. Donovan et al.",
+        "authors_list": [
+            "Mindy E. Bergman",
+            "Fritz Drasgow",
+            "Michelle A. Donovan",
+            "Jaime B. Henning",
+            "Suzanne E. Juraska"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1207/s15327876mp1103_5",
+        "title": "The Impact of Sexual Harassment on Military Personnel: Is It the Same for Men and Women?",
+        "journal": "Military Psychology",
+        "year": 1999,
+        "citations": 130,
+        "authors": "Vicki J. Magley, Craig R. Waldo, Fritz Drasgow et al.",
+        "authors_list": [
+            "Vicki J. Magley",
+            "Craig R. Waldo",
+            "Fritz Drasgow",
+            "Louise F. Fitzgerald"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Item response theory.",
+        "journal": "",
+        "year": 1990,
+        "citations": 119,
+        "authors": "Fritz Drasgow, Charles L. Hulin",
+        "authors_list": [
+            "Fritz Drasgow",
+            "Charles L. Hulin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 119,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.67.6.818",
+        "title": "Applications of item response theory to analysis of attitude scale translations.",
+        "journal": "Journal of Applied Psychology",
+        "year": 1982,
+        "citations": 119,
+        "authors": "Charles L. Hulin, Fritz Drasgow, John Komocar",
+        "authors_list": [
+            "Charles L. Hulin",
+            "Fritz Drasgow",
+            "John Komocar"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 119,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1754-9434.2010.01273.x",
+        "title": "75 Years After Likert: Thurstone Was Right!",
+        "journal": "Industrial and Organizational Psychology",
+        "year": 2010,
+        "citations": 117,
+        "authors": "Fritz Drasgow, Oleksandr S. Chernyshenko, Stephen Stark",
+        "authors_list": [
+            "Fritz Drasgow",
+            "Oleksandr S. Chernyshenko",
+            "Stephen Stark"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1559-1816.2005.tb02156.x",
+        "title": "Sexual Harassment Severity: Assessing Situational and Personal Determinants and Outcomes1",
+        "journal": "Journal of Applied Social Psychology",
+        "year": 2005,
+        "citations": 116,
+        "authors": "Regina Day Langhout, Mindy E. Bergman, Lilia M. Cortina et al.",
+        "authors_list": [
+            "Regina Day Langhout",
+            "Mindy E. Bergman",
+            "Lilia M. Cortina",
+            "Louise F. Fitzgerald",
+            "Fritz Drasgow",
+            "Jill Hunter Williams"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1207/s15327876mp1401_03",
+        "title": "Toward Standardized Measurement of Sexual Harassment: Shortening the SEQ-DoD Using Item Response Theory",
+        "journal": "Military Psychology",
+        "year": 2002,
+        "citations": 116,
+        "authors": "Stephen Stark, Oleksandr S. Chernyshenko, Anita R. Lancaster et al.",
+        "authors_list": [
+            "Stephen Stark",
+            "Oleksandr S. Chernyshenko",
+            "Anita R. Lancaster",
+            "Fritz Drasgow",
+            "Louise F. Fitzgerald"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/1094428118761122",
+        "title": "How Big Are My Effects? Examining the Magnitude of Effect Sizes in Studies of Measurement Equivalence",
+        "journal": "Organizational Research Methods",
+        "year": 2018,
+        "citations": 112,
+        "authors": "Christopher D. Nye, Jacob Bradburn, Jeffrey Olenick et al.",
+        "authors_list": [
+            "Christopher D. Nye",
+            "Jacob Bradburn",
+            "Jeffrey Olenick",
+            "Christopher Bialko",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 112,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.90.6.1141",
+        "title": "The Effects of Sexual Harassment on Turnover in the Military: Time-Dependent Modeling.",
+        "journal": "Journal of Applied Psychology",
+        "year": 2005,
+        "citations": 109,
+        "authors": "Carra S. Sims, Fritz Drasgow, Louise F. Fitzgerald",
+        "authors_list": [
+            "Carra S. Sims",
+            "Fritz Drasgow",
+            "Louise F. Fitzgerald"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.85.6.880",
+        "title": "Examining the impact of administration medium on examinee perceptions and attitudes.",
+        "journal": "Journal of Applied Psychology",
+        "year": 2000,
+        "citations": 103,
+        "authors": "Wendy L. Richman‐Hirsch, Julie B. Olson‐Buchanan, Fritz Drasgow",
+        "authors_list": [
+            "Wendy L. Richman‐Hirsch",
+            "Julie B. Olson‐Buchanan",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1744-6570.2000.tb00192.x",
+        "title": "LONGITUDINAL ANALYSIS OF DISPOSITIONAL INFLUENCES AND SEXUAL HARASSMENT: EFFECTS ON JOB AND PSYCHOLOGICAL OUTCOMES",
+        "journal": "Personnel Psychology",
+        "year": 2000,
+        "citations": 103,
+        "authors": "Liberty J. Munson, Charles L. Hulin, Fritz Drasgow",
+        "authors_list": [
+            "Liberty J. Munson",
+            "Charles L. Hulin",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1744-6570.1998.tb00714.x",
+        "title": "INTERACTIVE VIDEO ASSESSMENT OF CONFLICT RESOLUTION SKILLS",
+        "journal": "Personnel Psychology",
+        "year": 1998,
+        "citations": 97,
+        "authors": "Julie B. Olson‐Buchanan, Fritz Drasgow, Philip J. Moberg et al.",
+        "authors_list": [
+            "Julie B. Olson‐Buchanan",
+            "Fritz Drasgow",
+            "Philip J. Moberg",
+            "Alan D. Mead",
+            "Patricia A. Keenan",
+            "Michelle A. Donovan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/12170-000",
+        "title": "APA handbook of industrial and organizational psychology, Vol 2: Selecting and developing members for the organization.",
+        "journal": "American Psychological Association eBooks",
+        "year": 2010,
+        "citations": 90,
+        "authors": "Oleksandr S. Chernyshenko, Stephen Stark, Fritz Drasgow",
+        "authors_list": [
+            "Oleksandr S. Chernyshenko",
+            "Stephen Stark",
+            "Fritz Drasgow"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/a0015899",
+        "title": "Fitting measurement models to vocational interest data: Are dominance models ideal?",
+        "journal": "Journal of Applied Psychology",
+        "year": 2009,
+        "citations": 89,
+        "authors": "Louis Tay, Fritz Drasgow, James Rounds et al.",
+        "authors_list": [
+            "Louis Tay",
+            "Fritz Drasgow",
+            "James Rounds",
+            "Bruce A. Williams"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1207/s15324834basp2404_5",
+        "title": "Contextualizing Latina Experiences of Sexual Harassment: Preliminary Tests of a Structural Model",
+        "journal": "Basic and Applied Social Psychology",
+        "year": 2002,
+        "citations": 88,
+        "authors": "Lilia M. Cortina, Louise F. Fitzgerald, Fritz Drasgow",
+        "authors_list": [
+            "Lilia M. Cortina",
+            "Louise F. Fitzgerald",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/mil0000044",
+        "title": "From ABLE to TAPAS: A New Generation of Personality Tests to Support Military Selection and Classification Decisions",
+        "journal": "Military Psychology",
+        "year": 2014,
+        "citations": 86,
+        "authors": "Stephen Stark, Oleksandr S. Chernyshenko, Fritz Drasgow et al.",
+        "authors_list": [
+            "Stephen Stark",
+            "Oleksandr S. Chernyshenko",
+            "Fritz Drasgow",
+            "Christopher D. Nye",
+            "Leonard A. White",
+            "Tonia S. Heffner",
+            "William L. Farmer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bf02294130",
+        "title": "Optimal Appropriateness Measurement",
+        "journal": "Psychometrika",
+        "year": 1988,
+        "citations": 84,
+        "authors": "Michael V. Levine, Fritz Drasgow",
+        "authors_list": [
+            "Michael V. Levine",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.73.4.647",
+        "title": "A test of the measurement equivalence of the revised Job Diagnostic Survey: Past problems and current solutions.",
+        "journal": "Journal of Applied Psychology",
+        "year": 1988,
+        "citations": 84,
+        "authors": "Jacqueline R. Idaszak, William P. Bottom, Fritz Drasgow",
+        "authors_list": [
+            "Jacqueline R. Idaszak",
+            "William P. Bottom",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.85.2.305",
+        "title": "Does computerizing paper-and-pencil job attitude scales make a difference? New IRT analyses offer insight.",
+        "journal": "Journal of Applied Psychology",
+        "year": 2000,
+        "citations": 84,
+        "authors": "Michelle A. Donovan, Fritz Drasgow, Tahira M. Probst",
+        "authors_list": [
+            "Michelle A. Donovan",
+            "Fritz Drasgow",
+            "Tahira M. Probst"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/1094428112444611",
+        "title": "Adaptive Testing With Multidimensional Pairwise Preference Items",
+        "journal": "Organizational Research Methods",
+        "year": 2012,
+        "citations": 82,
+        "authors": "Stephen Stark, Oleksandr S. Chernyshenko, Fritz Drasgow et al.",
+        "authors_list": [
+            "Stephen Stark",
+            "Oleksandr S. Chernyshenko",
+            "Fritz Drasgow",
+            "Leonard A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/014662169101500207",
+        "title": "Appropriateness Measurement for Some Multidimensional Test Batteries",
+        "journal": "Applied Psychological Measurement",
+        "year": 1991,
+        "citations": 79,
+        "authors": "Fritz Drasgow, Michael V. Levine, Mary McLaughlin",
+        "authors_list": [
+            "Fritz Drasgow",
+            "Michael V. Levine",
+            "Mary McLaughlin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 79,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://conservancy.umn.edu/bitstreams/d23176d5-9ec9-4e1b-bd1b-1956ca487e7b/download"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.2044-8317.1982.tb00640.x",
+        "title": "Appropriateness measurement: Review, critique and validating studies",
+        "journal": "British Journal of Mathematical and Statistical Psychology",
+        "year": 1982,
+        "citations": 77,
+        "authors": "Michael V. Levine, Fritz Drasgow",
+        "authors_list": [
+            "Michael V. Levine",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/e559902013-001",
+        "title": "Development of the Tailored Adaptive Personality Assessment System (TAPAS) to Support Army Personnel Selection and Classification Decisions",
+        "journal": "PsycEXTRA Dataset",
+        "year": 2012,
+        "citations": 76,
+        "authors": "Fritz Drasgow, Stephen Stark, Oleksandr S. Chernyshenko et al.",
+        "authors_list": [
+            "Fritz Drasgow",
+            "Stephen Stark",
+            "Oleksandr S. Chernyshenko",
+            "Christopher D. Nye",
+            "Charles L. Hulin",
+            "Leonard A. White"
+        ],
+        "type": "dataset",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1006/jvbe.1999.1728",
+        "title": "The Relation between Vocational Interests and the Motivation to Lead",
+        "journal": "Journal of Vocational Behavior",
+        "year": 2000,
+        "citations": 73,
+        "authors": "Kim-Yin Chan, James Rounds, Fritz Drasgow",
+        "authors_list": [
+            "Kim-Yin Chan",
+            "James Rounds",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/014662168901300108",
+        "title": "An Evaluation of Marginal Maximum Likelihood Estimation for the Two-Parameter Logistic Model",
+        "journal": "Applied Psychological Measurement",
+        "year": 1989,
+        "citations": 72,
+        "authors": "Fritz Drasgow",
+        "authors_list": [
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://conservancy.umn.edu/bitstreams/7b1dc0d3-8406-43cd-90ba-912ae08570d2/download"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.89.4.687",
+        "title": "Investigating the Functioning of a Middle Category by Means of a Mixed-Measurement Model.",
+        "journal": "Journal of Applied Psychology",
+        "year": 2004,
+        "citations": 69,
+        "authors": "Ana Hernández, Fritz Drasgow, Vicente González‐Romá",
+        "authors_list": [
+            "Ana Hernández",
+            "Fritz Drasgow",
+            "Vicente González‐Romá"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/1094428120915522",
+        "title": "Using Bifactor Models to Examine the Predictive Validity of Hierarchical Constructs: Pros, Cons, and Solutions",
+        "journal": "Organizational Research Methods",
+        "year": 2020,
+        "citations": 68,
+        "authors": "Bo Zhang, Tianjun Sun, Mengyang Cao et al.",
+        "authors_list": [
+            "Bo Zhang",
+            "Tianjun Sun",
+            "Mengyang Cao",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0030-5073(78)90057-0",
+        "title": "Alternative weighting schemes for linear prediction",
+        "journal": "Organizational Behavior and Human Performance",
+        "year": 1978,
+        "citations": 61,
+        "authors": "Neil J. Dorans, Fritz Drasgow",
+        "authors_list": [
+            "Neil J. Dorans",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/1076-8998.8.2.131",
+        "title": "Race as a moderator in a model of sexual harassment: An empirical test.",
+        "journal": "Journal of Occupational Health Psychology",
+        "year": 2003,
+        "citations": 56,
+        "authors": "Mindy E. Bergman, Fritz Drasgow",
+        "authors_list": [
+            "Mindy E. Bergman",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/pas0000132",
+        "title": "An investigation of emotional intelligence measures using item response theory.",
+        "journal": "Psychological Assessment",
+        "year": 2015,
+        "citations": 56,
+        "authors": "Seonghee Cho, Fritz Drasgow, Mengyang Cao",
+        "authors_list": [
+            "Seonghee Cho",
+            "Fritz Drasgow",
+            "Mengyang Cao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1207/s15324818ame0901_5",
+        "title": "Optimal Identification of Mismeasured Individuals",
+        "journal": "Applied Measurement in Education",
+        "year": 1996,
+        "citations": 56,
+        "authors": "Fritz Drasgow, Michael V. Levine, Michael J. Zickar",
+        "authors_list": [
+            "Fritz Drasgow",
+            "Michael V. Levine",
+            "Michael J. Zickar"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1468-2389.2008.00416.x",
+        "title": "Two‐Step Testing in Employee Selection: Is score inflation a problem?",
+        "journal": "International Journal of Selection and Assessment",
+        "year": 2008,
+        "citations": 54,
+        "authors": "Christopher D. Nye, Ben‐Roy Do, Fritz Drasgow et al.",
+        "authors_list": [
+            "Christopher D. Nye",
+            "Ben‐Roy Do",
+            "Fritz Drasgow",
+            "Saul Fine"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1468-2389.2008.00416.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/1094428119836486",
+        "title": "Though Forced, Still Valid: Psychometric Equivalence of Forced-Choice and Single-Statement Measures",
+        "journal": "Organizational Research Methods",
+        "year": 2019,
+        "citations": 53,
+        "authors": "Bo Zhang, Tianjun Sun, Fritz Drasgow et al.",
+        "authors_list": [
+            "Bo Zhang",
+            "Tianjun Sun",
+            "Fritz Drasgow",
+            "Oleksandr S. Chernyshenko",
+            "Christopher D. Nye",
+            "Stephen Stark",
+            "Leonard A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ideals.illinois.edu/items/109531/bitstreams/358203/data.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/1094428110372674",
+        "title": "Multilevel Mixed-Measurement IRT Analysis: An Explication and Application to Self-Reported Emotions Across the World",
+        "journal": "Organizational Research Methods",
+        "year": 2010,
+        "citations": 53,
+        "authors": "Louis Tay, Ed Diener, Fritz Drasgow et al.",
+        "authors_list": [
+            "Louis Tay",
+            "Ed Diener",
+            "Fritz Drasgow",
+            "Jeroen K. Vermunt"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/014662168701100205",
+        "title": "Lord's Chi-Square Test of Item Bias With Estimated and With Known Person Parameters",
+        "journal": "Applied Psychological Measurement",
+        "year": 1987,
+        "citations": 53,
+        "authors": "Mary McLaughlin, Fritz Drasgow",
+        "authors_list": [
+            "Mary McLaughlin",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/001316448304300301",
+        "title": "The Relation between Incorrect Option Choice and Estimated Ability",
+        "journal": "Educational and Psychological Measurement",
+        "year": 1983,
+        "citations": 51,
+        "authors": "Michael V. Levine, Fritz Drasgow",
+        "authors_list": [
+            "Michael V. Levine",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/08959280802137606",
+        "title": "Test of Motowidlo et al.'s (1997) Theory of Individual Differences in Task and Contextual Performance",
+        "journal": "Human Performance",
+        "year": 2008,
+        "citations": 51,
+        "authors": "Mindy E. Bergman, Michelle A. Donovan, Fritz Drasgow et al.",
+        "authors_list": [
+            "Mindy E. Bergman",
+            "Michelle A. Donovan",
+            "Fritz Drasgow",
+            "Randall C. Overton",
+            "Jaime B. Henning"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/014662168200600307",
+        "title": "Choice of Test Model for Appropriateness Measurement",
+        "journal": "Applied Psychological Measurement",
+        "year": 1982,
+        "citations": 51,
+        "authors": "Fritz Drasgow",
+        "authors_list": [
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://conservancy.umn.edu/bitstreams/de33f329-f85a-40a0-a512-313d26995533/download"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/0021-9010.75.2.164",
+        "title": "Evaluation of two methods for estimating item response theory parameters when assessing differential item functioning.",
+        "journal": "Journal of Applied Psychology",
+        "year": 1990,
+        "citations": 51,
+        "authors": "Rodney G. Lim, Fritz Drasgow",
+        "authors_list": [
+            "Rodney G. Lim",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1207/s15327876mp1103_4",
+        "title": "Do Men's and Women's Experiences of Sexual Harassment Differ? An Examination of the Differential Test Functioning of the Sexual Experiences Questionnaire",
+        "journal": "Military Psychology",
+        "year": 1999,
+        "citations": 51,
+        "authors": "Michelle A. Donovan, Fritz Drasgow",
+        "authors_list": [
+            "Michelle A. Donovan",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/10165-004",
+        "title": "The antecedents and consequences of sexual harrassment in organizations: An integrated model.",
+        "journal": "American Psychological Association eBooks",
+        "year": 1994,
+        "citations": 49,
+        "authors": "Louise F. Fitzgerald, Charles L. Hulin, Fritz Drasgow",
+        "authors_list": [
+            "Louise F. Fitzgerald",
+            "Charles L. Hulin",
+            "Fritz Drasgow"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/0471667196.ess2014",
+        "title": "Polychoric and Polyserial Correlations",
+        "journal": "Encyclopedia of Statistical Sciences",
+        "year": 2004,
+        "citations": 49,
+        "authors": "Fritz Drasgow",
+        "authors_list": [
+            "Fritz Drasgow"
+        ],
+        "type": "reference-entry",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1037/a0026430",
+        "title": "Racial/ethnic harassment and discrimination, its antecedents, and its effect on job-related outcomes.",
+        "journal": "Journal of Occupational Health Psychology",
+        "year": 2011,
+        "citations": 48,
+        "authors": "Mindy E. Bergman, Patrick A. Palmieri, Fritz Drasgow et al.",
+        "authors_list": [
+            "Mindy E. Bergman",
+            "Patrick A. Palmieri",
+            "Fritz Drasgow",
+            "Alayne J. Ormerod"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1468-2389.2010.00518.x",
+        "title": "Identifying Cheating on Unproctored Internet Tests: The <b><i>Z</i></b>‐test and the likelihood ratio test",
+        "journal": "International Journal of Selection and Assessment",
+        "year": 2010,
+        "citations": 48,
+        "authors": "Jing Guo, Fritz Drasgow",
+        "authors_list": [
+            "Jing Guo",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1468-2389.2011.00529.x",
+        "title": "Proctored Versus Unproctored Internet Tests: Are unproctored noncognitive tests as predictive of job performance?",
+        "journal": "International Journal of Selection and Assessment",
+        "year": 2011,
+        "citations": 47,
+        "authors": "James C. Beaty, Christopher D. Nye, Matthew J. Borneman et al.",
+        "authors_list": [
+            "James C. Beaty",
+            "Christopher D. Nye",
+            "Matthew J. Borneman",
+            "Tracy Kantrowitz",
+            "Fritz Drasgow",
+            "Eyal Grauer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/1094428112439709",
+        "title": "Theoretical, Statistical, and Substantive Issues in the Assessment of Construct Dimensionality",
+        "journal": "Organizational Research Methods",
+        "year": 2012,
+        "citations": 46,
+        "authors": "Louis Tay, Fritz Drasgow",
+        "authors_list": [
+            "Louis Tay",
+            "Fritz Drasgow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 46,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1037/0021-9010.82.4.578",
+        "title": "Antecedents and consequences of sexual harassment in organizations: A test of an integrated model.",
+        "journal": "Journal of Applied Psychology",
+        "year": null,
+        "citations": 646,
+        "authors": "Louise F. Fitzgerald, Fritz Drasgow, Charles L. Hulin et al.",
+        "authors_list": [
+            "Louise F. Fitzgerald",
+            "Fritz Drasgow",
+            "Charles L. Hulin",
+            "Michele J. Gelfand",
+            "Vicki J. Magley"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 646
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1037/0021-9010.84.5.754",
+        "title": "A meta-analytic study of social desirability distortion in computer-administered questionnaires, traditional questionnaires, and interviews.",
+        "journal": "Journal of Applied Psychology",
+        "year": null,
+        "citations": 602,
+        "authors": "Wendy L. Richman, Sara Kiesler, Suzanne Weisband et al.",
+        "authors_list": [
+            "Wendy L. Richman",
+            "Sara Kiesler",
+            "Suzanne Weisband",
+            "Fritz Drasgow"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 602
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1037/0021-9010.86.3.481",
+        "title": "Toward a theory of individual differences and leadership: Understanding the motivation to lead.",
+        "journal": "Journal of Applied Psychology",
+        "year": null,
+        "citations": 542,
+        "authors": "Kim-Yin Chan, Fritz Drasgow",
+        "authors_list": [
+            "Kim-Yin Chan",
+            "Fritz Drasgow"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 542
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1037/0021-9010.91.6.1292",
+        "title": "Detecting differential item functioning with confirmatory factor analysis and item response theory: Toward a unified strategy.",
+        "journal": "Journal of Applied Psychology",
+        "year": null,
+        "citations": 327,
+        "authors": "Stephen Stark, Oleksandr S. Chernyshenko, Fritz Drasgow",
+        "authors_list": [
+            "Stephen Stark",
+            "Oleksandr S. Chernyshenko",
+            "Fritz Drasgow"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 327
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1037/0021-9010.85.5.643",
+        "title": "Empowerment and continuous improvement in the United States, Mexico, Poland, and India: Predicting fit on the basis of the dimensions of power distance and individualism.",
+        "journal": "Journal of Applied Psychology",
+        "year": null,
+        "citations": 309,
+        "authors": "Christopher Robert, Tahira M. Probst, Joseph J. Martocchio et al.",
+        "authors_list": [
+            "Christopher Robert",
+            "Tahira M. Probst",
+            "Joseph J. Martocchio",
+            "Fritz Drasgow",
+            "John J. Lawler"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 309
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1037/0021-9010.72.1.69",
+        "title": "A revision of the Job Diagnostic Survey: Elimination of a measurement artifact.",
+        "journal": "Journal of Applied Psychology",
+        "year": null,
+        "citations": 250,
+        "authors": "Jacqueline R. Idaszak, Fritz Drasgow",
+        "authors_list": [
+            "Jacqueline R. Idaszak",
+            "Fritz Drasgow"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 250
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1006/obhd.1997.2728",
+        "title": "Ambient Sexual Harassment: An Integrated Model of Antecedents and Consequences",
+        "journal": "Organizational Behavior and Human Decision Processes",
+        "year": 1997,
+        "citations": 224,
+        "authors": "Theresa M Glomb, Wendy L Richman, Charles L Hulin et al.",
+        "authors_list": [
+            "Theresa M Glomb",
+            "Wendy L Richman",
+            "Charles L Hulin",
+            "Fritz Drasgow",
+            "Kimberly T Schneider",
+            "Louise F Fitzgerald"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 224
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1177/1094428110368562",
+        "title": "Assessing Goodness of Fit: Simple Rules of Thumb Simply Do Not Work",
+        "journal": "Organizational Research Methods",
+        "year": 2011,
+        "citations": 183,
+        "authors": "Christopher D. Nye, Fritz Drasgow",
+        "authors_list": [
+            "Christopher D. Nye",
+            "Fritz Drasgow"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 183
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1037/a0022955",
+        "title": "Effect size indices for analyses of measurement equivalence: Understanding the practical importance of differences between groups.",
+        "journal": "Journal of Applied Psychology",
+        "year": null,
+        "citations": 162,
+        "authors": "Christopher D. Nye, Fritz Drasgow",
+        "authors_list": [
+            "Christopher D. Nye",
+            "Fritz Drasgow"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 162
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1037/0021-9010.72.1.19",
+        "title": "Study of the measurement bias of two standardized psychological tests.",
+        "journal": "Journal of Applied Psychology",
+        "year": null,
+        "citations": 130,
+        "authors": "Fritz Drasgow",
+        "authors_list": [
+            "Fritz Drasgow"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 130
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

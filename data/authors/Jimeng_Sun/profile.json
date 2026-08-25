@@ -1,0 +1,199 @@
+{
+    "id": "A5084279065",
+    "name": "Jimeng Sun",
+    "affiliation": "University of Illinois Urbana-Champaign",
+    "topics": [
+        "Machine Learning in Healthcare",
+        "Topic Modeling",
+        "Biomedical Text Mining and Ontologies",
+        "Artificial Intelligence in Healthcare",
+        "Tensor decomposition and applications"
+    ],
+    "keywords": [
+        "learning",
+        "data",
+        "networks",
+        "using",
+        "health"
+    ],
+    "metrics": {
+        "citations": 29642,
+        "h_index": 85,
+        "publications": 551
+    },
+    "counts_by_year": [
+        {
+            "year": 2026,
+            "works_count": 10,
+            "oa_works_count": 4,
+            "cited_by_count": 0
+        },
+        {
+            "year": 2025,
+            "works_count": 36,
+            "oa_works_count": 34,
+            "cited_by_count": 172
+        },
+        {
+            "year": 2024,
+            "works_count": 53,
+            "oa_works_count": 49,
+            "cited_by_count": 606
+        },
+        {
+            "year": 2023,
+            "works_count": 52,
+            "oa_works_count": 51,
+            "cited_by_count": 2299
+        },
+        {
+            "year": 2022,
+            "works_count": 38,
+            "oa_works_count": 33,
+            "cited_by_count": 1455
+        },
+        {
+            "year": 2021,
+            "works_count": 58,
+            "oa_works_count": 37,
+            "cited_by_count": 1287
+        },
+        {
+            "year": 2020,
+            "works_count": 52,
+            "oa_works_count": 42,
+            "cited_by_count": 2793
+        },
+        {
+            "year": 2019,
+            "works_count": 34,
+            "oa_works_count": 30,
+            "cited_by_count": 1364
+        },
+        {
+            "year": 2018,
+            "works_count": 26,
+            "oa_works_count": 21,
+            "cited_by_count": 3190
+        },
+        {
+            "year": 2017,
+            "works_count": 26,
+            "oa_works_count": 17,
+            "cited_by_count": 1858
+        },
+        {
+            "year": 2016,
+            "works_count": 18,
+            "oa_works_count": 11,
+            "cited_by_count": 3247
+        },
+        {
+            "year": 2015,
+            "works_count": 14,
+            "oa_works_count": 6,
+            "cited_by_count": 921
+        },
+        {
+            "year": 2014,
+            "works_count": 13,
+            "oa_works_count": 7,
+            "cited_by_count": 1049
+        },
+        {
+            "year": 2013,
+            "works_count": 14,
+            "oa_works_count": 3,
+            "cited_by_count": 770
+        },
+        {
+            "year": 2012,
+            "works_count": 23,
+            "oa_works_count": 7,
+            "cited_by_count": 1190
+        },
+        {
+            "year": 2011,
+            "works_count": 18,
+            "oa_works_count": 2,
+            "cited_by_count": 1015
+        },
+        {
+            "year": 2010,
+            "works_count": 14,
+            "oa_works_count": 1,
+            "cited_by_count": 866
+        },
+        {
+            "year": 2009,
+            "works_count": 8,
+            "oa_works_count": 0,
+            "cited_by_count": 1424
+        },
+        {
+            "year": 2008,
+            "works_count": 13,
+            "oa_works_count": 3,
+            "cited_by_count": 1289
+        },
+        {
+            "year": 2007,
+            "works_count": 11,
+            "oa_works_count": 1,
+            "cited_by_count": 944
+        },
+        {
+            "year": 2006,
+            "works_count": 9,
+            "oa_works_count": 0,
+            "cited_by_count": 1036
+        },
+        {
+            "year": 2005,
+            "works_count": 3,
+            "oa_works_count": 0,
+            "cited_by_count": 112
+        },
+        {
+            "year": 2004,
+            "works_count": 3,
+            "oa_works_count": 0,
+            "cited_by_count": 180
+        },
+        {
+            "year": 2003,
+            "works_count": 3,
+            "oa_works_count": 0,
+            "cited_by_count": 553
+        },
+        {
+            "year": 2002,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 22
+        },
+        {
+            "year": 1999,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 0
+        }
+    ],
+    "verification": {
+        "personal_website": null,
+        "linkedin": null,
+        "researchgate": null,
+        "google_scholar": {
+            "verified": false,
+            "reason": "HTTP 429"
+        }
+    },
+    "orcid": {
+        "verified": true,
+        "orcid_id": "0000-0003-1512-6426",
+        "current_institution": [
+            "Carnegie Mellon University",
+            "University of Illinois Urbana-Champaign"
+        ]
+    }
+}

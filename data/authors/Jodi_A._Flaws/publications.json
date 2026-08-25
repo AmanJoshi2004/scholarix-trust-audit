@@ -1,0 +1,3469 @@
+[
+    {
+        "doi": "https://doi.org/10.1210/er.2015-1010",
+        "title": "EDC-2: The Endocrine Society's Second Scientific Statement on Endocrine-Disrupting Chemicals",
+        "journal": "Endocrine Reviews",
+        "year": 2015,
+        "citations": 2368,
+        "authors": "Andrea C. Gore, Vesna A. Chappell, Suzanne E. Fenton et al.",
+        "authors_list": [
+            "Andrea C. Gore",
+            "Vesna A. Chappell",
+            "Suzanne E. Fenton",
+            "Jodi A. Flaws",
+            "Ãngel Nadal",
+            "Gail S. Prins",
+            "Jorma Toppari",
+            "R. Thomas Zoeller"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2368,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/4702494"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1210/er.2015-1093",
+        "title": "Executive Summary to EDC-2: The Endocrine Society's Second Scientific Statement on Endocrine-Disrupting Chemicals",
+        "journal": "Endocrine Reviews",
+        "year": 2015,
+        "citations": 697,
+        "authors": "Andrea C. Gore, Vesna A. Chappell, Suzanne E. Fenton et al.",
+        "authors_list": [
+            "Andrea C. Gore",
+            "Vesna A. Chappell",
+            "Suzanne E. Fenton",
+            "Jodi A. Flaws",
+            "Ãngel Nadal",
+            "Gail S. Prins",
+            "Jorma Toppari",
+            "R. Thomas Zoeller"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 697,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/edrv/article-pdf/36/6/593/10335294/edrv0593.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1101/gad.12.9.1304",
+        "title": "Defects in regulation of apoptosis in caspase-2-deficient mice",
+        "journal": "Genes & Development",
+        "year": 1998,
+        "citations": 684,
+        "authors": "L Bergeron, Gloria I. Perez, G. MacDonald et al.",
+        "authors_list": [
+            "L Bergeron",
+            "Gloria I. Perez",
+            "G. MacDonald",
+            "L Shi",
+            "Yunfu Sun",
+            "Andrea Jurisicova",
+            "Susannah Varmuza",
+            "Keith E. Latham",
+            "Jodi A. Flaws",
+            "Janine Salter",
+            "Hideaki Hara",
+            "Michael A. Moskowitz",
+            "E. Li",
+            "Harry B. Greenberg",
+            "Jonathan L. Tilly",
+            "Junying Yuan"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 684,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://genesdev.cshlp.org/content/12/9/1304.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1001/archinte.161.11.1413",
+        "title": "Non–High-Density Lipoprotein Cholesterol Level as a Predictor of Cardiovascular Disease Mortality",
+        "journal": "Archives of Internal Medicine",
+        "year": 2001,
+        "citations": 660,
+        "authors": "Yadong Cui, Roger S. Blumenthal, Jodi A. Flaws et al.",
+        "authors_list": [
+            "Yadong Cui",
+            "Roger S. Blumenthal",
+            "Jodi A. Flaws",
+            "Maura K. Whiteman",
+            "Patricia Langenberg",
+            "Paul S. Bachorik",
+            "Trudy L. Bush"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 660,
+            "crossref": 500
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1001/jama.290.12.1600",
+        "title": "Ability of Exercise Testing to Predict Cardiovascular and All-Cause Death in Asymptomatic Women",
+        "journal": "JAMA",
+        "year": 2003,
+        "citations": 587,
+        "authors": "Samia Mora, Rita F. Redberg, Yadong Cui et al.",
+        "authors_list": [
+            "Samia Mora",
+            "Rita F. Redberg",
+            "Yadong Cui",
+            "Maura K. Whiteman",
+            "Jodi A. Flaws",
+            "A. Richey Sharrett",
+            "Roger S. Blumenthal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 587,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1289/ehp.1307728",
+        "title": "Bisphenol A and Reproductive Health: Update of Experimental and Human Evidence, 2007–2013",
+        "journal": "Environmental Health Perspectives",
+        "year": 2014,
+        "citations": 538,
+        "authors": "Jackye Peretz, Lisa A. Vrooman, William A. Ricke et al.",
+        "authors_list": [
+            "Jackye Peretz",
+            "Lisa A. Vrooman",
+            "William A. Ricke",
+            "Patricia A. Hunt",
+            "Shelley Ehrlich",
+            "Russ Hauser",
+            "Vasantha Padmanabhan",
+            "Hugh S. Taylor",
+            "Shanna H. Swan",
+            "Catherine A. VandeVoort",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 538,
+            "crossref": 501
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1289/ehp.1307728"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/5985",
+        "title": "Prolongation of ovarian lifespan into advanced chronological age by Bax-deficiency",
+        "journal": "Nature Genetics",
+        "year": 1999,
+        "citations": 380,
+        "authors": "Gloria I. Perez, Rodolfo Robles, C. Michael Knudson et al.",
+        "authors_list": [
+            "Gloria I. Perez",
+            "Rodolfo Robles",
+            "C. Michael Knudson",
+            "Jodi A. Flaws",
+            "Stanley J. Korsmeyer",
+            "Jonathan L. Tilly"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 380,
+            "crossref": 307
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3389/fendo.2015.00008",
+        "title": "The Effects of Phthalates on the Ovary",
+        "journal": "Frontiers in Endocrinology",
+        "year": 2015,
+        "citations": 380,
+        "authors": "Patrick R. Hannon, Jodi A. Flaws",
+        "authors_list": [
+            "Patrick R. Hannon",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 380,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.frontiersin.org/articles/10.3389/fendo.2015.00008/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1530/joe-17-0023",
+        "title": "Exposure to endocrine disruptors during adulthood: consequences for female fertility",
+        "journal": "Journal of Endocrinology",
+        "year": 2017,
+        "citations": 337,
+        "authors": "Saniya Rattan, Changqing Zhou, Catheryne Chiang et al.",
+        "authors_list": [
+            "Saniya Rattan",
+            "Changqing Zhou",
+            "Catheryne Chiang",
+            "Sharada Mahalingam",
+            "Emily Brehm",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 337,
+            "crossref": 296
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://joe.bioscientifica.com/downloadpdf/journals/joe/233/3/R109.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1210/endo.136.8.7628407",
+        "title": "Ablation of bcl-2 gene expression decreases the numbers of oocytes and primordial follicles established in the post-natal female mouse gonad.",
+        "journal": "Endocrinology",
+        "year": 1995,
+        "citations": 328,
+        "authors": "Valerie Ratts, Jodi A. Flaws, Rebecca Kolp et al.",
+        "authors_list": [
+            "Valerie Ratts",
+            "Jodi A. Flaws",
+            "Rebecca Kolp",
+            "Christine M. Sorenson",
+            "Jonathan L. Tilly"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 328,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/ijms21061929",
+        "title": "Endocrine Disruptors in Water and Their Effects on the Reproductive System",
+        "journal": "International Journal of Molecular Sciences",
+        "year": 2020,
+        "citations": 327,
+        "authors": "Andressa Gonsioroski, Vasiliki E. Mourikes, Jodi A. Flaws",
+        "authors_list": [
+            "Andressa Gonsioroski",
+            "Vasiliki E. Mourikes",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 327,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/1422-0067/21/6/1929/pdf?version=1584012147"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1530/rep-11-0136",
+        "title": "Endocrine-disrupting chemicals in ovarian function: effects on steroidogenesis, metabolism and nuclear receptor signaling",
+        "journal": "Reproduction",
+        "year": 2011,
+        "citations": 285,
+        "authors": "Zelieann R. Craig, Wei Wang, Jodi A. Flaws",
+        "authors_list": [
+            "Zelieann R. Craig",
+            "Wei Wang",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 285,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://rep.bioscientifica.com/downloadpdf/journals/rep/142/5/633.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0015-0282(98)00253-2",
+        "title": "Environmental toxicants and female reproduction",
+        "journal": "Fertility and Sterility",
+        "year": 1998,
+        "citations": 256,
+        "authors": "Fady I. Sharara, David B. Seifer, Jodi A. Flaws",
+        "authors_list": [
+            "Fady I. Sharara",
+            "David B. Seifer",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 256,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1210/mend.14.7.0465",
+        "title": "Bcl-x and Bax Regulate Mouse Primordial Germ Cell Survival and Apoptosis during Embryogenesis",
+        "journal": "Molecular Endocrinology",
+        "year": 2000,
+        "citations": 250,
+        "authors": "Edmund B. Rucker, Patricia Dierisseau, Kay‐Uwe Wagner et al.",
+        "authors_list": [
+            "Edmund B. Rucker",
+            "Patricia Dierisseau",
+            "Kay‐Uwe Wagner",
+            "Lisa Garrett",
+            "Anthony Wynshaw‐Boris",
+            "Jodi A. Flaws",
+            "Lothar Hennighausen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 250,
+            "crossref": 224
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/humrep/des328",
+        "title": "Urinary bisphenol A concentrations and early reproductive health outcomes among women undergoing IVF",
+        "journal": "Human Reproduction",
+        "year": 2012,
+        "citations": 246,
+        "authors": "Shelley Ehrlich, Paige L. Williams, Stacey A. Missmer et al.",
+        "authors_list": [
+            "Shelley Ehrlich",
+            "Paige L. Williams",
+            "Stacey A. Missmer",
+            "Jodi A. Flaws",
+            "Xiaoyun Ye",
+            "Antonia M. Calafat",
+            "John C. Petrozza",
+            "Diane L. Wright",
+            "Russ Hauser"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 246,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/humrep/article-pdf/27/12/3583/17054799/des328.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.fertnstert.2016.06.027",
+        "title": "Evidence for bisphenol A-induced female infertility: a review (2007–2016)",
+        "journal": "Fertility and Sterility",
+        "year": 2016,
+        "citations": 239,
+        "authors": "Ayelet Ziv‐Gal, Jodi A. Flaws",
+        "authors_list": [
+            "Ayelet Ziv‐Gal",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 239,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/5026908"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1095/biolreprod.115.130336",
+        "title": "Effects of Endocrine-Disrupting Chemicals on the Ovary1",
+        "journal": "Biology of Reproduction",
+        "year": 2015,
+        "citations": 226,
+        "authors": "Shreya Patel, Changqing Zhou, Saniya Rattan et al.",
+        "authors_list": [
+            "Shreya Patel",
+            "Changqing Zhou",
+            "Saniya Rattan",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 226,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/biolreprod/article-pdf/93/1/20, 1-9/28523941/biolreprod0020.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1242/dev.00888",
+        "title": "BRCA2 deficiency in mice leads to meiotic impairment and infertility",
+        "journal": "Development",
+        "year": 2003,
+        "citations": 219,
+        "authors": "Shyam K. Sharan, April D. Pyle, Vincenzo Coppola et al.",
+        "authors_list": [
+            "Shyam K. Sharan",
+            "April D. Pyle",
+            "Vincenzo Coppola",
+            "Janice K. Babus",
+            "Srividya Swaminathan",
+            "Jamie C. Benedict",
+            "Deborah A. Swing",
+            "Betty K. Martin",
+            "Lino Tessarollo",
+            "Janice P. Evans",
+            "Jodi A. Flaws",
+            "Mary Ann Handel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 219,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1289/ehp.1104307",
+        "title": "Urinary Bisphenol A Concentrations and Implantation Failure among Women Undergoing <i>in Vitro</i> Fertilization",
+        "journal": "Environmental Health Perspectives",
+        "year": 2012,
+        "citations": 198,
+        "authors": "Shelley Ehrlich, Paige L. Williams, Stacey A. Missmer et al.",
+        "authors_list": [
+            "Shelley Ehrlich",
+            "Paige L. Williams",
+            "Stacey A. Missmer",
+            "Jodi A. Flaws",
+            "Katharine Berry",
+            "Antonia M. Calafat",
+            "Xiaoyun Ye",
+            "John C. Petrozza",
+            "Diane L. Wright",
+            "Russ Hauser"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 198,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1289/ehp.1104307"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/toxsci/kfq319",
+        "title": "Bisphenol A Impairs Follicle Growth, Inhibits Steroidogenesis, and Downregulates Rate-Limiting Enzymes in the Estradiol Biosynthesis Pathway",
+        "journal": "Toxicological Sciences",
+        "year": 2010,
+        "citations": 193,
+        "authors": "Jackye Peretz, Rupesh K. Gupta, Jeffrey M. Singh et al.",
+        "authors_list": [
+            "Jackye Peretz",
+            "Rupesh K. Gupta",
+            "Jeffrey M. Singh",
+            "Isabel Hernández‐Ochoa",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 193,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/toxsci/article-pdf/119/1/209/10954794/kfq319.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1097/00006250-200302000-00012",
+        "title": "Smoking, Body Mass, and Hot Flashes in Midlife Women",
+        "journal": "Obstetrics and Gynecology",
+        "year": 2003,
+        "citations": 191,
+        "authors": "Maura K. Whiteman, Catherine A. Staropoli, Patricia Langenberg et al.",
+        "authors_list": [
+            "Maura K. Whiteman",
+            "Catherine A. Staropoli",
+            "Patricia Langenberg",
+            "Robert McCarter",
+            "Kristen H. Kjerulff",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 191,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pdfs.journals.lww.com/greenjournal/2003/02000/Smoking,_Body_Mass,_and_Hot_Flashes_in_Midlife.12.pdf?token=method|ExpireAbsolute;source|Journals;ttl|1549608368698;payload|mY8D3u1TCCsNvP5E421JYK6N6XICDamxByyYpaNzk7FKjTaa1Yz22MivkHZqjGP4kdS2v0J76WGAnHACH69s21Csk0OpQi3YbjEMdSoz2UhVybFqQxA7lKwSUlA502zQZr96TQRwhVlocEp/sJ586aVbcBFlltKNKo+tbuMfL73hiPqJliudqs17cHeLcLbV/CqjlP3IO0jGHlHQtJWcICDdAyGJMnpi6RlbEJaRheGeh5z5uvqz3FLHgPKVXJzddI9yZMOXhrzL4hhvIuyRpYBaNiZNN6DcbxEI8y4qSI8Wgr5kfzjNlf2d9q1KTYe9;hash|sOiVz+9het+NNqs5GSCSxA=="
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/toxsci/kfaa065",
+        "title": "The Impact of Environmental Chemicals on the Gut Microbiome",
+        "journal": "Toxicological Sciences",
+        "year": 2020,
+        "citations": 191,
+        "authors": "Karen Chiu, Genoa R. Warner, Romana A. Nowak et al.",
+        "authors_list": [
+            "Karen Chiu",
+            "Genoa R. Warner",
+            "Romana A. Nowak",
+            "Jodi A. Flaws",
+            "Wenyan Mei"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 191,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/toxsci/article-pdf/176/2/253/33629796/kfaa065.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1095/biolreprod64.4.1153",
+        "title": "Effect of Bcl-2 on the Primordial Follicle Endowment in the Mouse Ovary1",
+        "journal": "Biology of Reproduction",
+        "year": 2001,
+        "citations": 189,
+        "authors": "Jodi A. Flaws, Anne N. Hirshfield, J. Hewitt et al.",
+        "authors_list": [
+            "Jodi A. Flaws",
+            "Anne N. Hirshfield",
+            "J. Hewitt",
+            "Janice K. Babus",
+            "Priscilla A. Furth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 189,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/biolreprod/article-pdf/64/4/1153/10642520/biolreprod1153.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1530/rep-10-0489",
+        "title": "Autophagy is a cell survival program for female germ cells in the murine ovary",
+        "journal": "Reproduction",
+        "year": 2011,
+        "citations": 187,
+        "authors": "Thomas R. Gawriluk, Amber N. Hale, Jodi A. Flaws et al.",
+        "authors_list": [
+            "Thomas R. Gawriluk",
+            "Amber N. Hale",
+            "Jodi A. Flaws",
+            "Christopher P. Dillon",
+            "Douglas R. Green",
+            "Edmund B. Rucker"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 187,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1095/biolreprod.114.119032",
+        "title": "Daily Exposure to Di(2-ethylhexyl) Phthalate Alters Estrous Cyclicity and Accelerates Primordial Follicle Recruitment Potentially Via Dysregulation of the Phosphatidylinositol 3-Kinase Signaling Pathway in Adult Mice1",
+        "journal": "Biology of Reproduction",
+        "year": 2014,
+        "citations": 186,
+        "authors": "Patrick R. Hannon, Jackye Peretz, Jodi A. Flaws",
+        "authors_list": [
+            "Patrick R. Hannon",
+            "Jackye Peretz",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 186,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/biolreprod/article-pdf/90/6/136, 1-11/10585375/biolreprod0136.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.m200186200",
+        "title": "Loss of the Peroxisome Proliferation-activated Receptor gamma (PPARγ) Does Not Affect Mammary Development and Propensity for Tumor Formation but Leads to Reduced Fertility",
+        "journal": "Journal of Biological Chemistry",
+        "year": 2002,
+        "citations": 181,
+        "authors": "Yongzhi Cui, Keiko Miyoshi, Estefanı́a Claudio et al.",
+        "authors_list": [
+            "Yongzhi Cui",
+            "Keiko Miyoshi",
+            "Estefanı́a Claudio",
+            "Ulrich Siebenlist",
+            "Frank J. Gonzalez",
+            "Jodi A. Flaws",
+            "Kay‐Uwe Wagner",
+            "Lothar Hennighausen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 181,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925820852788/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.taap.2015.02.021",
+        "title": "Developmental bisphenol A (BPA) exposure leads to sex-specific modification of hepatic gene expression and epigenome at birth that may exacerbate high-fat diet-induced hepatic steatosis",
+        "journal": "Toxicology and Applied Pharmacology",
+        "year": 2015,
+        "citations": 178,
+        "authors": "Rita S. Strakovsky, Huan Wang, Nicki J. Engeseth et al.",
+        "authors_list": [
+            "Rita S. Strakovsky",
+            "Huan Wang",
+            "Nicki J. Engeseth",
+            "Jodi A. Flaws",
+            "William G. Helferich",
+            "Yuan‐Xiang Pan",
+            "Stéphane Lezmi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 178,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1210/en.2019-00034",
+        "title": "Transgenerational Effects of Endocrine-Disrupting Chemicals on Male and Female Reproduction",
+        "journal": "Endocrinology",
+        "year": 2019,
+        "citations": 176,
+        "authors": "Emily Brehm, Jodi A. Flaws",
+        "authors_list": [
+            "Emily Brehm",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 176,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/endo/article-pdf/160/6/1421/28671104/en.2019-00034.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ijc.10209",
+        "title": "Body mass and stage of breast cancer at diagnosis",
+        "journal": "International Journal of Cancer",
+        "year": 2001,
+        "citations": 175,
+        "authors": "Yadong Cui, Maura K. Whiteman, Jodi A. Flaws et al.",
+        "authors_list": [
+            "Yadong Cui",
+            "Maura K. Whiteman",
+            "Jodi A. Flaws",
+            "Patricia Langenberg",
+            "Katherine H. R. Tkaczuk",
+            "Trudy L. Bush"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 175,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijc.10209"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1095/biolreprod.112.102467",
+        "title": "Mono-(2-Ethylhexyl) Phthalate Induces Oxidative Stress and Inhibits Growth of Mouse Ovarian Antral Follicles1",
+        "journal": "Biology of Reproduction",
+        "year": 2012,
+        "citations": 168,
+        "authors": "Wei Wang, Zelieann R. Craig, Mallikarjuna S. Basavarajappa et al.",
+        "authors_list": [
+            "Wei Wang",
+            "Zelieann R. Craig",
+            "Mallikarjuna S. Basavarajappa",
+            "Katlyn S. Hafner",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 168,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/biolreprod/article-pdf/87/6/152, 1-10/10583318/biolreprod0152.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.bcp.2008.09.037",
+        "title": "The role of the aryl hydrocarbon receptor in the female reproductive system",
+        "journal": "Biochemical Pharmacology",
+        "year": 2008,
+        "citations": 167,
+        "authors": "Isabel Hernández‐Ochoa, Bethany N. Karman, Jodi A. Flaws",
+        "authors_list": [
+            "Isabel Hernández‐Ochoa",
+            "Bethany N. Karman",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 167,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2657805"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.taap.2009.10.011",
+        "title": "Di-(2-ethylhexyl) phthalate and mono-(2-ethylhexyl) phthalate inhibit growth and reduce estradiol levels of antral follicles in vitro",
+        "journal": "Toxicology and Applied Pharmacology",
+        "year": 2009,
+        "citations": 166,
+        "authors": "Rupesh K. Gupta, Jeffery M. Singh, Tracie C. Leslie et al.",
+        "authors_list": [
+            "Rupesh K. Gupta",
+            "Jeffery M. Singh",
+            "Tracie C. Leslie",
+            "Sharon Meachum",
+            "Jodi A. Flaws",
+            "Humphrey Hung‐Chang Yao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 166,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1006/taap.1996.0180",
+        "title": "Involvement of Apoptosis in 4-Vinylcyclohexene Diepoxide- Induced Ovotoxicity in Rats",
+        "journal": "Toxicology and Applied Pharmacology",
+        "year": 1996,
+        "citations": 163,
+        "authors": "Lisa Springer, Mary E. McAsey, Jodi A. Flaws et al.",
+        "authors_list": [
+            "Lisa Springer",
+            "Mary E. McAsey",
+            "Jodi A. Flaws",
+            "J. L. Tilly",
+            "I.G. Sipes",
+            "Patricia B. Hoyer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 163,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.taap.2015.02.010",
+        "title": "Di(2-ethylhexyl) phthalate inhibits antral follicle growth, induces atresia, and inhibits steroid hormone production in cultured mouse antral follicles",
+        "journal": "Toxicology and Applied Pharmacology",
+        "year": 2015,
+        "citations": 160,
+        "authors": "Patrick R. Hannon, Katherine E. Brannick, Wei Wang et al.",
+        "authors_list": [
+            "Patrick R. Hannon",
+            "Katherine E. Brannick",
+            "Wei Wang",
+            "Rupesh K. Gupta",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 160,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/4374011"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.taap.2011.11.008",
+        "title": "Di (2-ethylhexyl) phthalate inhibits growth of mouse ovarian antral follicles through an oxidative stress pathway",
+        "journal": "Toxicology and Applied Pharmacology",
+        "year": 2011,
+        "citations": 157,
+        "authors": "Wei Wang, Zelieann R. Craig, Mallikarjuna S. Basavarajappa et al.",
+        "authors_list": [
+            "Wei Wang",
+            "Zelieann R. Craig",
+            "Mallikarjuna S. Basavarajappa",
+            "Rupesh K. Gupta",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 157,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3259146"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0890-6238(94)90033-7",
+        "title": "Destruction of preantral follicles in adult rats by 4-vinyl-1-cyclohexene diepoxide",
+        "journal": "Reproductive Toxicology",
+        "year": 1994,
+        "citations": 151,
+        "authors": "Jodi A. Flaws, Julie K. Doerr, I.G. Sipes et al.",
+        "authors_list": [
+            "Jodi A. Flaws",
+            "Julie K. Doerr",
+            "I.G. Sipes",
+            "Patricia B. Hoyer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 151,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/humupd/dml022",
+        "title": "Ovarian follicle development and transgenic mouse models",
+        "journal": "Human Reproduction Update",
+        "year": 2006,
+        "citations": 148,
+        "authors": "Kimberly R. Barnett, C. Schilling, Chuck Greenfeld et al.",
+        "authors_list": [
+            "Kimberly R. Barnett",
+            "C. Schilling",
+            "Chuck Greenfeld",
+            "Dragana Tomic",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 148,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/humupd/article-pdf/12/5/537/2333846/dml022.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1210/en.2017-03004",
+        "title": "Prenatal Exposure to Di(2-Ethylhexyl) Phthalate Causes Long-Term Transgenerational Effects on Female Reproduction in Mice",
+        "journal": "Endocrinology",
+        "year": 2017,
+        "citations": 146,
+        "authors": "Emily Brehm, Saniya Rattan, Liying Gao et al.",
+        "authors_list": [
+            "Emily Brehm",
+            "Saniya Rattan",
+            "Liying Gao",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 146,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/endo/article-pdf/159/2/795/23372972/en.2017-03004.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/toxsci/kfl052",
+        "title": "Methoxychlor Inhibits Growth and Induces Atresia of Antral Follicles through an Oxidative Stress Pathway",
+        "journal": "Toxicological Sciences",
+        "year": 2006,
+        "citations": 140,
+        "authors": "Rupesh K. Gupta, Kimberly P. Miller, Janice K. Babus et al.",
+        "authors_list": [
+            "Rupesh K. Gupta",
+            "Kimberly P. Miller",
+            "Janice K. Babus",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 140,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1095/biolreprod57.5.1233",
+        "title": "Chronically Elevated Luteinizing Hormone Depletes Primordial Follicles in the Mouse Ovary1",
+        "journal": "Biology of Reproduction",
+        "year": 1997,
+        "citations": 138,
+        "authors": "Jodi A. Flaws, Rula Abbud-Antaki, Rachel J. Mann et al.",
+        "authors_list": [
+            "Jodi A. Flaws",
+            "Rula Abbud-Antaki",
+            "Rachel J. Mann",
+            "John H. Nilson",
+            "Anne N. Hirshfield"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 138,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1210/me.2003-0414",
+        "title": "Ovarian Follicle Development Requires Smad3",
+        "journal": "Molecular Endocrinology",
+        "year": 2004,
+        "citations": 131,
+        "authors": "Dragana Tomic, Kimberly P. Miller, Hilary A. Kenny et al.",
+        "authors_list": [
+            "Dragana Tomic",
+            "Kimberly P. Miller",
+            "Hilary A. Kenny",
+            "Teresa K. Woodruff",
+            "Patricia B. Hoyer",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 131,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/mend/article-pdf/18/9/2224/8967730/mend2224.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.maturitas.2008.11.019",
+        "title": "Relations among menopausal symptoms, sleep disturbance and depressive symptoms in midlife",
+        "journal": "Maturitas",
+        "year": 2009,
+        "citations": 128,
+        "authors": "Jessica Brown, Lisa Gallicchio, Jodi A. Flaws et al.",
+        "authors_list": [
+            "Jessica Brown",
+            "Lisa Gallicchio",
+            "Jodi A. Flaws",
+            "J. Kathleen Tracy"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2693910"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1095/biolreprod.115.129148",
+        "title": "Mono(2-Ethylhexyl) Phthalate Accelerates Early Folliculogenesis and Inhibits Steroidogenesis in Cultured Mouse Whole Ovaries and Antral Follicles1",
+        "journal": "Biology of Reproduction",
+        "year": 2015,
+        "citations": 127,
+        "authors": "Patrick R. Hannon, Katherine E. Brannick, Wei Wang et al.",
+        "authors_list": [
+            "Patrick R. Hannon",
+            "Katherine E. Brannick",
+            "Wei Wang",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 127,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/biolreprod/article-pdf/92/5/120, 1-11/10552600/biolreprod0120.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.taap.2014.02.009",
+        "title": "In utero bisphenol A exposure disrupts germ cell nest breakdown and reduces fertility with age in the mouse",
+        "journal": "Toxicology and Applied Pharmacology",
+        "year": 2014,
+        "citations": 127,
+        "authors": "Wei Wang, Katlyn S. Hafner, Jodi A. Flaws",
+        "authors_list": [
+            "Wei Wang",
+            "Katlyn S. Hafner",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 127,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.reprotox.2015.12.004",
+        "title": "The effects of in utero bisphenol A exposure on the ovaries in multiple generations of mice",
+        "journal": "Reproductive Toxicology",
+        "year": 2015,
+        "citations": 122,
+        "authors": "Amelia Berger, Ayelet Ziv‐Gal, Jonathan Cudiamat et al.",
+        "authors_list": [
+            "Amelia Berger",
+            "Ayelet Ziv‐Gal",
+            "Jonathan Cudiamat",
+            "Wei Wang",
+            "Changqing Zhou",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 122,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/4866900"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.taap.2017.01.010",
+        "title": "Prenatal exposure to an environmentally relevant phthalate mixture disrupts reproduction in F1 female mice",
+        "journal": "Toxicology and Applied Pharmacology",
+        "year": 2017,
+        "citations": 122,
+        "authors": "Changqing Zhou, Liying Gao, Jodi A. Flaws",
+        "authors_list": [
+            "Changqing Zhou",
+            "Liying Gao",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 122,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/0008-5472.can-18-2849",
+        "title": "Free Fatty Acids Rewire Cancer Metabolism in Obesity-Associated Breast Cancer via Estrogen Receptor and mTOR Signaling",
+        "journal": "Cancer Research",
+        "year": 2019,
+        "citations": 121,
+        "authors": "Zeynep Madak‐Erdogan, Shoham Band, Yiru Zhao et al.",
+        "authors_list": [
+            "Zeynep Madak‐Erdogan",
+            "Shoham Band",
+            "Yiru Zhao",
+            "Brandi P. Smith",
+            "Eylem Kulkoyluoglu‐Cotul",
+            "Qianying Zuo",
+            "Ashlie Santaliz Casiano",
+            "Kinga Wrobel",
+            "Gianluigi Rossi",
+            "Rebecca L. Smith",
+            "Sung Hoon Kim",
+            "John A. Katzenellenbogen",
+            "Mariah L. Johnson",
+            "Meera Patel",
+            "Natascia Marino",
+            "Anna Maria Storniolo",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 121,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://scholarworks.indianapolis.iu.edu/bitstreams/1dfff62c-b909-445c-afeb-de9d3c256d21/download"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1089/154099903766651586",
+        "title": "Risk Factors for Hot Flashes in Midlife Women",
+        "journal": "Journal of Women s Health",
+        "year": 2003,
+        "citations": 120,
+        "authors": "Maura K. Whiteman, Catherine A. Staropoli, Jamie C. Benedict et al.",
+        "authors_list": [
+            "Maura K. Whiteman",
+            "Catherine A. Staropoli",
+            "Jamie C. Benedict",
+            "Christina Borgeest",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1210/en.2017-00100",
+        "title": "Exposure to an Environmentally Relevant Phthalate Mixture Causes Transgenerational Effects on Female Reproduction in Mice",
+        "journal": "Endocrinology",
+        "year": 2017,
+        "citations": 118,
+        "authors": "Changqing Zhou, Liying Gao, Jodi A. Flaws",
+        "authors_list": [
+            "Changqing Zhou",
+            "Liying Gao",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.taap.2015.03.003",
+        "title": "The effects of in utero bisphenol A exposure on reproductive capacity in several generations of mice",
+        "journal": "Toxicology and Applied Pharmacology",
+        "year": 2015,
+        "citations": 118,
+        "authors": "Ayelet Ziv‐Gal, Wei Wang, Changqing Zhou et al.",
+        "authors_list": [
+            "Ayelet Ziv‐Gal",
+            "Wei Wang",
+            "Changqing Zhou",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/toxsci/kfv317",
+        "title": "Acute Exposure to Di(2-Ethylhexyl) Phthalate in Adulthood Causes Adverse Reproductive Outcomes Later in Life and Accelerates Reproductive Aging in Female Mice",
+        "journal": "Toxicological Sciences",
+        "year": 2015,
+        "citations": 113,
+        "authors": "Patrick R. Hannon, Sarah Niermann, Jodi A. Flaws",
+        "authors_list": [
+            "Patrick R. Hannon",
+            "Sarah Niermann",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 113,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/toxsci/article-pdf/150/1/97/10931537/kfv317.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1089/jwh.1998.7.1149",
+        "title": "Predictors of Menopausal Hot Flashes",
+        "journal": "Journal of Women s Health",
+        "year": 1998,
+        "citations": 109,
+        "authors": "Catherine A. Staropoli, Jodi A. Flaws, Trudy L. Bush et al.",
+        "authors_list": [
+            "Catherine A. Staropoli",
+            "Jodi A. Flaws",
+            "Trudy L. Bush",
+            "Anne W. Moulton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1095/biolreprod.112.101899",
+        "title": "Bisphenol A Inhibits Follicle Growth and Induces Atresia in Cultured Mouse Antral Follicles Independently of the Genomic Estrogenic Pathway1",
+        "journal": "Biology of Reproduction",
+        "year": 2012,
+        "citations": 109,
+        "authors": "Jackye Peretz, Zelieann R. Craig, Jodi A. Flaws",
+        "authors_list": [
+            "Jackye Peretz",
+            "Zelieann R. Craig",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/biolreprod/article-pdf/87/3/63, 1-11/10579618/biolreprod0063.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/toxsci/kfw248",
+        "title": "Prenatal exposure to DEHP induces premature reproductive senescence in male mice",
+        "journal": "Toxicological Sciences",
+        "year": 2016,
+        "citations": 109,
+        "authors": "Radwa Barakat, Po-Ching Lin, Saniya Rattan et al.",
+        "authors_list": [
+            "Radwa Barakat",
+            "Po-Ching Lin",
+            "Saniya Rattan",
+            "Emily Brehm",
+            "Igor F. Canisso",
+            "Mohamed E. Abosalum",
+            "Jodi A. Flaws",
+            "Rex A. Hess",
+            "CheMyong Ko"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/toxsci/article-pdf/156/1/96/25423641/kfw248.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1089/154099903321667627",
+        "title": "The Correlations between Estradiol, Estrone, Estriol, Progesterone, and Sex Hormone-Binding Globulin and Anterior Cruciate Ligament Stiffness in Healthy, Active Females",
+        "journal": "Journal of Women s Health",
+        "year": 2003,
+        "citations": 108,
+        "authors": "William A. Romani, Jim Patrie, Leigh Ann Curl et al.",
+        "authors_list": [
+            "William A. Romani",
+            "Jim Patrie",
+            "Leigh Ann Curl",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 108,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/biolre/ioz081",
+        "title": "The epigenetic impacts of endocrine disruptors on female reproduction across generations†",
+        "journal": "Biology of Reproduction",
+        "year": 2019,
+        "citations": 106,
+        "authors": "Saniya Rattan, Jodi A. Flaws",
+        "authors_list": [
+            "Saniya Rattan",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/biolreprod/article-pdf/101/3/635/30142787/ioz081.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.taap.2003.07.016",
+        "title": "In utero effects of chemicals on reproductive tissues in females",
+        "journal": "Toxicology and Applied Pharmacology",
+        "year": 2004,
+        "citations": 104,
+        "authors": "Kimberly P. Miller, Christina Borgeest, Chuck Greenfeld et al.",
+        "authors_list": [
+            "Kimberly P. Miller",
+            "Christina Borgeest",
+            "Chuck Greenfeld",
+            "Dragana Tomic",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.taap.2006.06.013",
+        "title": "Methoxychlor causes mitochondrial dysfunction and oxidative damage in the mouse ovary☆",
+        "journal": "Toxicology and Applied Pharmacology",
+        "year": 2006,
+        "citations": 104,
+        "authors": "R. Gupta, Rosemary A. Schuh, Gary Fiskum et al.",
+        "authors_list": [
+            "R. Gupta",
+            "Rosemary A. Schuh",
+            "Gary Fiskum",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1097/00003081-200012000-00014",
+        "title": "Environmental Factors in Infertility",
+        "journal": "Clinical Obstetrics & Gynecology",
+        "year": 2000,
+        "citations": 102,
+        "authors": "Kathleen S. Hruska, Priscilla A. Furth, David B. Seifer et al.",
+        "authors_list": [
+            "Kathleen S. Hruska",
+            "Priscilla A. Furth",
+            "David B. Seifer",
+            "Fady I. Sharara",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1055/s-0037-1603569",
+        "title": "Environmental Contaminants Affecting Fertility and Somatic Health",
+        "journal": "Seminars in Reproductive Medicine",
+        "year": 2017,
+        "citations": 102,
+        "authors": "Catheryne Chiang, Sharada Mahalingam, Jodi A. Flaws",
+        "authors_list": [
+            "Catheryne Chiang",
+            "Sharada Mahalingam",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/6425478"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.reprotox.2013.07.022",
+        "title": "Bisphenol A inhibits cultured mouse ovarian follicle growth partially via the aryl hydrocarbon receptor signaling pathway",
+        "journal": "Reproductive Toxicology",
+        "year": 2013,
+        "citations": 101,
+        "authors": "Ayelet Ziv‐Gal, Zelieann R. Craig, Wei Wang et al.",
+        "authors_list": [
+            "Ayelet Ziv‐Gal",
+            "Zelieann R. Craig",
+            "Wei Wang",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3836856"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/toxsci/kfw245",
+        "title": "Effects of an environmentally relevant phthalate mixture on cultured mouse antral follicles",
+        "journal": "Toxicological Sciences",
+        "year": 2016,
+        "citations": 100,
+        "authors": "Changqing Zhou, Jodi A. Flaws",
+        "authors_list": [
+            "Changqing Zhou",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 100,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/toxsci/article-pdf/156/1/217/25423590/kfw245.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.reprotox.2015.07.075",
+        "title": "NIEHS/FDA CLARITY-BPA research program update",
+        "journal": "Reproductive Toxicology",
+        "year": 2015,
+        "citations": 100,
+        "authors": "Jerrold J. Heindel, Retha R. Newbold, John R. Bucher et al.",
+        "authors_list": [
+            "Jerrold J. Heindel",
+            "Retha R. Newbold",
+            "John R. Bucher",
+            "Luísa Camacho",
+            "K. Barry Delclos",
+            "Sherry M. Lewis",
+            "Michelle M. Vanlandingham",
+            "Mona I. Churchwell",
+            "Nathan C. Twaddle",
+            "Michelle McLellen",
+            "Mani Chidambaram",
+            "Matthew Bryant",
+            "Kellie A. Woodling",
+            "Gonçalo Gamboa da Costa",
+            "Sherry A. Ferguson",
+            "Jodi A. Flaws",
+            "Paul C. Howard",
+            "Nigel J. Walker",
+            "R. Thomas Zoeller",
+            "Jennifer Fostel",
+            "Carolyn Favaro",
+            "Thaddeus T. Schug"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 100,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0890623815300071/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/toxsci/kfy103",
+        "title": "Prenatal Exposure to DEHP Induces Neuronal Degeneration and Neurobehavioral Abnormalities in Adult Male Mice",
+        "journal": "Toxicological Sciences",
+        "year": 2018,
+        "citations": 100,
+        "authors": "Radwa Barakat, Po-Ching Lin, Chan Jin Park et al.",
+        "authors_list": [
+            "Radwa Barakat",
+            "Po-Ching Lin",
+            "Chan Jin Park",
+            "Catherine Best‐Popescu",
+            "Hatem H Bakry",
+            "Mohamed AboSalem",
+            "Nabila M. Abdelaleem",
+            "Jodi A. Flaws",
+            "CheMyong Ko"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 100,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/toxsci/article-pdf/164/2/439/25222468/kfy103.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1210/endo.136.11.7588240",
+        "title": "Interleukin-1 beta-converting enzyme-related proteases (IRPs) and mammalian cell death: dissociation of IRP-induced oligonucleosomal endonuclease activity from morphological apoptosis in granulosa cells of the ovarian follicle.",
+        "journal": "Endocrinology",
+        "year": 1995,
+        "citations": 99,
+        "authors": "Jodi A. Flaws, Koji Kugu, A M Trbovich et al.",
+        "authors_list": [
+            "Jodi A. Flaws",
+            "Koji Kugu",
+            "A M Trbovich",
+            "A Desanti",
+            "Kim I. Tilly",
+            "Anne N. Hirshfield",
+            "J. L. Tilly"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1095/biolreprod.112.105122",
+        "title": "Di-n-Butyl Phthalate Disrupts the Expression of Genes Involved in Cell Cycle and Apoptotic Pathways in Mouse Ovarian Antral Follicles1",
+        "journal": "Biology of Reproduction",
+        "year": 2012,
+        "citations": 98,
+        "authors": "Zelieann R. Craig, Patrick R. Hannon, Wei Wang et al.",
+        "authors_list": [
+            "Zelieann R. Craig",
+            "Patrick R. Hannon",
+            "Wei Wang",
+            "Ayelet Ziv‐Gal",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/biolreprod/article-pdf/88/1/23, 1-10/10582668/biolreprod0023.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1089/apc.2005.19.703",
+        "title": "Age of Menopause and Menopausal Symptoms in HIV-Infected Women",
+        "journal": "AIDS Patient Care and STDs",
+        "year": 2005,
+        "citations": 98,
+        "authors": "Lori E. Fantry, Min Zhan, Gregory H. Taylor et al.",
+        "authors_list": [
+            "Lori E. Fantry",
+            "Min Zhan",
+            "Gregory H. Taylor",
+            "Anne Sill",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1200/jco.2005.14.381",
+        "title": "Phase II Study of G3139, a Bcl-2 Antisense Oligonucleotide, in Combination With Dexamethasone and Thalidomide in Relapsed Multiple Myeloma Patients",
+        "journal": "Journal of Clinical Oncology",
+        "year": 2005,
+        "citations": 96,
+        "authors": "Ashraf Badros, Olga Goloubeva, Aaron P. Rapoport et al.",
+        "authors_list": [
+            "Ashraf Badros",
+            "Olga Goloubeva",
+            "Aaron P. Rapoport",
+            "Bashi Ratterree",
+            "Natalie Gahres",
+            "Barry Meisenberg",
+            "Naoko Takebe",
+            "Meyer R. Heyman",
+            "James A. Zwiebel",
+            "Howard Streicher",
+            "Christopher D. Gocke",
+            "Dragana Tomic",
+            "Jodi A. Flaws",
+            "Bin Zhang",
+            "Robert G. Fenton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1210/en.2017-00730",
+        "title": "Transgenerational Effects of Bisphenol A on Gene Expression and DNA Methylation of Imprinted Genes in Brain",
+        "journal": "Endocrinology",
+        "year": 2017,
+        "citations": 95,
+        "authors": "Zuzana Drobná, Anne D. Henriksen, Jennifer T. Wolstenholme et al.",
+        "authors_list": [
+            "Zuzana Drobná",
+            "Anne D. Henriksen",
+            "Jennifer T. Wolstenholme",
+            "Catalina Montiel",
+            "Philip S. Lambeth",
+            "Stephen Shang",
+            "Erin P. Harris",
+            "Changqing Zhou",
+            "Jodi A. Flaws",
+            "Mazhar Adli",
+            "Emilie F. Rissman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/endo/article-pdf/159/1/132/23632036/en.2017-00730.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1210/en.2016-1887",
+        "title": "Bisphenol A Exposure, Ovarian Follicle Numbers, and Female Sex Steroid Hormone Levels: Results From a CLARITY-BPA Study",
+        "journal": "Endocrinology",
+        "year": 2017,
+        "citations": 94,
+        "authors": "Shreya Patel, Emily Brehm, Liying Gao et al.",
+        "authors_list": [
+            "Shreya Patel",
+            "Emily Brehm",
+            "Liying Gao",
+            "Saniya Rattan",
+            "Ayelet Ziv‐Gal",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 94,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/endo/article-pdf/158/6/1727/17643356/en.2016-1887.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ajog.2005.04.001",
+        "title": "Body mass, estrogen levels, and hot flashes in midlife women",
+        "journal": "American Journal of Obstetrics and Gynecology",
+        "year": 2005,
+        "citations": 94,
+        "authors": "Lisa Gallicchio, Kala Visvanathan, Susan R. Miller et al.",
+        "authors_list": [
+            "Lisa Gallicchio",
+            "Kala Visvanathan",
+            "Susan R. Miller",
+            "Janice K. Babus",
+            "Lynn M. Lewis",
+            "Howard A. Zacur",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 94,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.taap.2013.04.028",
+        "title": "Bisphenol A down-regulates rate-limiting Cyp11a1 to acutely inhibit steroidogenesis in cultured mouse antral follicles",
+        "journal": "Toxicology and Applied Pharmacology",
+        "year": 2013,
+        "citations": 93,
+        "authors": "Jackye Peretz, Jodi A. Flaws",
+        "authors_list": [
+            "Jackye Peretz",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 93,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1530/rep-06-0270",
+        "title": "BAX regulates follicular endowment in mice",
+        "journal": "Reproduction",
+        "year": 2007,
+        "citations": 93,
+        "authors": "Chuck Greenfeld, Melissa E. Pepling, Janice K. Babus et al.",
+        "authors_list": [
+            "Chuck Greenfeld",
+            "Melissa E. Pepling",
+            "Janice K. Babus",
+            "Priscilla A. Furth",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 93,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://rep.bioscientifica.com/downloadpdf/journals/rep/133/5/1330865.pdf"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Deregulated estrogen receptor alpha expression in mammary epithelial cells of transgenic mice results in the development of ductal carcinoma in situ.",
+        "journal": "PubMed",
+        "year": 2005,
+        "citations": 92,
+        "authors": "M. Silvina Frech, Ewa D Halama, Maddalena T. Tilli et al.",
+        "authors_list": [
+            "M. Silvina Frech",
+            "Ewa D Halama",
+            "Maddalena T. Tilli",
+            "Baljit Singh",
+            "Edward J. Gunther",
+            "Lewis A. Chodosh",
+            "Jodi A. Flaws",
+            "Priscilla A. Furth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 92,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.reprotox.2019.01.005",
+        "title": "Sanitary pads and diapers contain higher phthalate contents than those in common commercial plastic products",
+        "journal": "Reproductive Toxicology",
+        "year": 2019,
+        "citations": 91,
+        "authors": "Chan Jin Park, Radwa Barakat, Alexander Ulanov et al.",
+        "authors_list": [
+            "Chan Jin Park",
+            "Radwa Barakat",
+            "Alexander Ulanov",
+            "Zhong Li",
+            "Po-Ching Lin",
+            "Karen Chiu",
+            "Sherry Zhou",
+            "Pablo A. Pérez",
+            "Jungyeon Lee",
+            "Jodi A. Flaws",
+            "CheMyong Ko"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 91,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/6504186"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1210/en.2015-2031",
+        "title": "Chronic Exposure to Bisphenol A Affects Uterine Function During Early Pregnancy in Mice",
+        "journal": "Endocrinology",
+        "year": 2016,
+        "citations": 91,
+        "authors": "Quanxi Li, Juanmahel Dávila, Athilakshmi Kannan et al.",
+        "authors_list": [
+            "Quanxi Li",
+            "Juanmahel Dávila",
+            "Athilakshmi Kannan",
+            "Jodi A. Flaws",
+            "Milan K. Bagchi",
+            "Indrani C. Bagchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 91,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/endo/article-pdf/157/5/1764/8993875/endo1764.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.taap.2020.114952",
+        "title": "Exposure to di(2-ethylhexyl) phthalate and diisononyl phthalate during adulthood disrupts hormones and ovarian folliculogenesis throughout the prime reproductive life of the mouse",
+        "journal": "Toxicology and Applied Pharmacology",
+        "year": 2020,
+        "citations": 90,
+        "authors": "Catheryne Chiang, Lily R. Lewis, Grace Borkowski et al.",
+        "authors_list": [
+            "Catheryne Chiang",
+            "Lily R. Lewis",
+            "Grace Borkowski",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/7138141"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/toxsci/kfi276",
+        "title": "Methoxychlor Directly Affects Ovarian Antral Follicle Growth and Atresia through Bcl-2- and Bax-Mediated Pathways",
+        "journal": "Toxicological Sciences",
+        "year": 2005,
+        "citations": 88,
+        "authors": "Kimberly P. Miller, Rupesh K. Gupta, Chuck Greenfeld et al.",
+        "authors_list": [
+            "Kimberly P. Miller",
+            "Rupesh K. Gupta",
+            "Chuck Greenfeld",
+            "Janice K. Babus",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/toxsci/article-pdf/88/1/213/4676087/kfi276.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.reprotox.2015.02.013",
+        "title": "Prenatal exposure to di-(2-ethylhexyl) phthalate (DEHP) affects reproductive outcomes in female mice",
+        "journal": "Reproductive Toxicology",
+        "year": 2015,
+        "citations": 88,
+        "authors": "Sarah Niermann, Saniya Rattan, Emily Brehm et al.",
+        "authors_list": [
+            "Sarah Niermann",
+            "Saniya Rattan",
+            "Emily Brehm",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/4457554"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1095/biolreprod.102.007492",
+        "title": "Aryl Hydrocarbon Receptor Regulates Growth, But Not Atresia, of Mouse Preantral and Antral Follicles1",
+        "journal": "Biology of Reproduction",
+        "year": 2003,
+        "citations": 88,
+        "authors": "Jamie C. Benedict, Kimberly P. Miller, Tien-Min Lin et al.",
+        "authors_list": [
+            "Jamie C. Benedict",
+            "Kimberly P. Miller",
+            "Tien-Min Lin",
+            "Chuck Greenfeld",
+            "Janice K. Babus",
+            "Richard E. Peterson",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/toxsci/kfy042",
+        "title": "Di(2-Ethylhexyl) Phthalate Exposure During Prenatal Development Causes Adverse Transgenerational Effects on Female Fertility in Mice",
+        "journal": "Toxicological Sciences",
+        "year": 2018,
+        "citations": 85,
+        "authors": "Saniya Rattan, Emily Brehm, Liying Gao et al.",
+        "authors_list": [
+            "Saniya Rattan",
+            "Emily Brehm",
+            "Liying Gao",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 85,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/toxsci/article-pdf/163/2/420/25093005/kfy042.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/toxsci/kfz013",
+        "title": "Subchronic Exposure to Di(2-ethylhexyl) Phthalate and Diisononyl Phthalate During Adulthood Has Immediate and Long-Term Reproductive Consequences in Female Mice",
+        "journal": "Toxicological Sciences",
+        "year": 2019,
+        "citations": 85,
+        "authors": "Catheryne Chiang, Jodi A. Flaws",
+        "authors_list": [
+            "Catheryne Chiang",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 85,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/toxsci/article-pdf/168/2/620/28230231/kfz013.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/bdrb.20087",
+        "title": "NTP‐CERHR expert panel report on the reproductive and developmental toxicity of genistein",
+        "journal": "Birth Defects Research Part B Developmental and Reproductive Toxicology",
+        "year": 2006,
+        "citations": 85,
+        "authors": "Karl K. Rozman, Jatinder Bhatia, Antonia M. Calafat et al.",
+        "authors_list": [
+            "Karl K. Rozman",
+            "Jatinder Bhatia",
+            "Antonia M. Calafat",
+            "Christina Chambers",
+            "Martine Culty",
+            "Ruth A. Etzel",
+            "Jodi A. Flaws",
+            "Deborah K. Hansen",
+            "Patricia B. Hoyer",
+            "Elizabeth H. Jeffery",
+            "James S. Kesner",
+            "Sue Marty",
+            "John A. Thomas",
+            "David M. Umbach"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 85,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2020434"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1095/biolreprod66.4.917",
+        "title": "Smad 3 May Regulate Follicular Growth in the Mouse Ovary1",
+        "journal": "Biology of Reproduction",
+        "year": 2002,
+        "citations": 85,
+        "authors": "Dragana Tomic, Steven G. Brodie, Chu‐Xia Deng et al.",
+        "authors_list": [
+            "Dragana Tomic",
+            "Steven G. Brodie",
+            "Chu‐Xia Deng",
+            "Robert J. Hickey",
+            "Janice K. Babus",
+            "Linda H. Malkas",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 85,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1097/grf.0b013e31816f276e",
+        "title": "Impact of Environmental Factors and Poverty on Pregnancy Outcomes",
+        "journal": "Clinical Obstetrics & Gynecology",
+        "year": 2008,
+        "citations": 84,
+        "authors": "REBEKAH L. WECK, Tessie Paulose, Jodi A. Flaws",
+        "authors_list": [
+            "REBEKAH L. WECK",
+            "Tessie Paulose",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.reprotox.2021.05.001",
+        "title": "Placental outcomes of phthalate exposure",
+        "journal": "Reproductive Toxicology",
+        "year": 2021,
+        "citations": 81,
+        "authors": "Genoa R. Warner, Raquel Spinassé Dettogni, Indrani C. Bagchi et al.",
+        "authors_list": [
+            "Genoa R. Warner",
+            "Raquel Spinassé Dettogni",
+            "Indrani C. Bagchi",
+            "Jodi A. Flaws",
+            "Jones Bernardes Graceli"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/8260441"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/0008-5472.681.65.3",
+        "title": "Deregulated Estrogen Receptor α Expression in Mammary Epithelial Cells of Transgenic Mice Results in the Development of Ductal Carcinoma <i>In situ</i>",
+        "journal": "Cancer Research",
+        "year": 2005,
+        "citations": 81,
+        "authors": "M. Silvina Frech, Ewa D Halama, Maddalena T. Tilli et al.",
+        "authors_list": [
+            "M. Silvina Frech",
+            "Ewa D Halama",
+            "Maddalena T. Tilli",
+            "Baljit Singh",
+            "Edward J. Gunther",
+            "Lewis A. Chodosh",
+            "Jodi A. Flaws",
+            "Priscilla A. Furth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aacrjournals.org/cancerres/article-pdf/65/3/681/2538405/681-685.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/toxsci/kfy232",
+        "title": "Bisphenol A and Phthalates: How Environmental Chemicals Are Reshaping Toxicology",
+        "journal": "Toxicological Sciences",
+        "year": 2018,
+        "citations": 81,
+        "authors": "Genoa R. Warner, Jodi A. Flaws",
+        "authors_list": [
+            "Genoa R. Warner",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/toxsci/article-pdf/166/2/246/26827823/kfy232.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jpsychores.2007.02.003",
+        "title": "Correlates of depressive symptoms among women undergoing the menopausal transition",
+        "journal": "Journal of Psychosomatic Research",
+        "year": 2007,
+        "citations": 78,
+        "authors": "Lisa Gallicchio, C. Schilling, Susan R. Miller et al.",
+        "authors_list": [
+            "Lisa Gallicchio",
+            "C. Schilling",
+            "Susan R. Miller",
+            "Howard A. Zacur",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/biolre/iox154",
+        "title": "Prenatal exposure to di(2-ethylhexyl) phthalate disrupts ovarian function in a transgenerational manner in female mice†",
+        "journal": "Biology of Reproduction",
+        "year": 2017,
+        "citations": 74,
+        "authors": "Saniya Rattan, Emily Brehm, Liying Gao et al.",
+        "authors_list": [
+            "Saniya Rattan",
+            "Emily Brehm",
+            "Liying Gao",
+            "Sarah Niermann",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/biolreprod/article-pdf/98/1/130/23837241/iox154.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.fertnstert.2005.10.033",
+        "title": "Type of menopause, patterns of hormone therapy use, and hot flashes",
+        "journal": "Fertility and Sterility",
+        "year": 2006,
+        "citations": 74,
+        "authors": "Lisa Gallicchio, Maura K. Whiteman, Dragana Tomic et al.",
+        "authors_list": [
+            "Lisa Gallicchio",
+            "Maura K. Whiteman",
+            "Dragana Tomic",
+            "Kimberly P. Miller",
+            "Patricia Langenberg",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.fertstert.org/article/S0015028206000756/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/bs.apha.2021.03.008",
+        "title": "Endocrine disrupting chemicals and reproductive disorders in women, men, and animal models",
+        "journal": "Advances in pharmacology",
+        "year": 2021,
+        "citations": 74,
+        "authors": "Mary J. Laws, Alison M. Neff, Emily Brehm et al.",
+        "authors_list": [
+            "Mary J. Laws",
+            "Alison M. Neff",
+            "Emily Brehm",
+            "Genoa R. Warner",
+            "Jodi A. Flaws"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/9743013"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1095/biolreprod.106.057687",
+        "title": "The Aryl Hydrocarbon Receptor Affects Mouse Ovarian Follicle Growth via Mechanisms Involving Estradiol Regulation and Responsiveness1",
+        "journal": "Biology of Reproduction",
+        "year": 2007,
+        "citations": 73,
+        "authors": "Kimberly R. Barnett, Dragana Tomic, Rupesh K. Gupta et al.",
+        "authors_list": [
+            "Kimberly R. Barnett",
+            "Dragana Tomic",
+            "Rupesh K. Gupta",
+            "Kimberly P. Miller",
+            "Sharon Meachum",
+            "Tessie Paulose",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/biolreprod/article-pdf/76/6/1062/10568089/biolreprod1062.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1369/0022155412441002",
+        "title": "Ovarian Abnormalities in a Mouse Model of Fragile X Primary Ovarian Insufficiency",
+        "journal": "Journal of Histochemistry & Cytochemistry",
+        "year": 2012,
+        "citations": 73,
+        "authors": "Gloria E. Hoffman, Wei Wei Le, Ali Entezam et al.",
+        "authors_list": [
+            "Gloria E. Hoffman",
+            "Wei Wei Le",
+            "Ali Entezam",
+            "Noriyuki Otsuka",
+            "Zhi‐Bin Tong",
+            "Lawrence M. Nelson",
+            "Jodi A. Flaws",
+            "John H. McDonald",
+            "Sanjeeda Jafar",
+            "Karen Usdin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.sagepub.com/doi/pdf/10.1369/0022155412441002"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.mce.2019.110680",
+        "title": "Mechanisms of action of agrochemicals acting as endocrine disrupting chemicals",
+        "journal": "Molecular and Cellular Endocrinology",
+        "year": 2019,
+        "citations": 71,
+        "authors": "Genoa R. Warner, Vasiliki E. Mourikes, Alison M. Neff et al.",
+        "authors_list": [
+            "Genoa R. Warner",
+            "Vasiliki E. Mourikes",
+            "Alison M. Neff",
+            "Emily Brehm",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/6942667"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.taap.2019.114875",
+        "title": "The effects of a phthalate metabolite mixture on antral follicle growth and sex steroid synthesis in mice",
+        "journal": "Toxicology and Applied Pharmacology",
+        "year": 2019,
+        "citations": 71,
+        "authors": "Daryl D. Meling, Genoa R. Warner, Jason R. Szumski et al.",
+        "authors_list": [
+            "Daryl D. Meling",
+            "Genoa R. Warner",
+            "Jason R. Szumski",
+            "Liying Gao",
+            "Andressa Gonsioroski",
+            "Saniya Rattan",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/7017935"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.maturitas.2005.03.007",
+        "title": "Cigarette smoking, estrogen levels, and hot flashes in midlife women",
+        "journal": "Maturitas",
+        "year": 2005,
+        "citations": 68,
+        "authors": "Lisa Gallicchio, Susan R. Miller, Kala Visvanathan et al.",
+        "authors_list": [
+            "Lisa Gallicchio",
+            "Susan R. Miller",
+            "Kala Visvanathan",
+            "Lynn M. Lewis",
+            "Janice K. Babus",
+            "Howard A. Zacur",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/toxics10050251",
+        "title": "Effects of Phthalate Mixtures on Ovarian Folliculogenesis and Steroidogenesis",
+        "journal": "Toxics",
+        "year": 2022,
+        "citations": 67,
+        "authors": "Endia Fletcher, Ramsés Santacruz-Márquez, Vasiliki E. Mourikes et al.",
+        "authors_list": [
+            "Endia Fletcher",
+            "Ramsés Santacruz-Márquez",
+            "Vasiliki E. Mourikes",
+            "Alison M. Neff",
+            "Mary J. Laws",
+            "Jodi A. Flaws"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/2305-6304/10/5/251/pdf?version=1664185928"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1095/biolreprod.109.080549",
+        "title": "Acute and Chronic Effects of Oral Genistein Administration in Neonatal Mice1",
+        "journal": "Biology of Reproduction",
+        "year": 2010,
+        "citations": 66,
+        "authors": "Melissa A. Cimafranca, Juanmahel Dávila, Gail C. Ekman et al.",
+        "authors_list": [
+            "Melissa A. Cimafranca",
+            "Juanmahel Dávila",
+            "Gail C. Ekman",
+            "Rachel N. Andrews",
+            "Steven L. Neese",
+            "Jackye Peretz",
+            "Kellie A. Woodling",
+            "William G. Helferich",
+            "Jhimly Sarkar",
+            "Jodi A. Flaws",
+            "Susan L. Schantz",
+            "Daniel R. Doerge",
+            "Paul S. Cooke"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/biolreprod/article-pdf/83/1/114/10575378/biolreprod0114.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1210/endo.136.10.7664654",
+        "title": "Vasoactive intestinal peptide-mediated suppression of apoptosis in the ovary: potential mechanisms of action and evidence of a conserved antiatretogenic role through evolution.",
+        "journal": "Endocrinology",
+        "year": 1995,
+        "citations": 65,
+        "authors": "Jodi A. Flaws, A Desanti, Kim I. Tilly et al.",
+        "authors_list": [
+            "Jodi A. Flaws",
+            "A Desanti",
+            "Kim I. Tilly",
+            "Rouhollah Javid",
+            "Koji Kugu",
+            "A. L. Johnson",
+            "Anne N. Hirshfield",
+            "Jonathan L. Tilly"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1210/er.2015-1010",
+        "title": "EDC-2: The Endocrine Society's Second Scientific Statement on Endocrine-Disrupting Chemicals",
+        "journal": "Endocrine Reviews",
+        "year": 2015,
+        "citations": 2075,
+        "authors": "A. C. Gore, V. A. Chappell, S. E. Fenton et al.",
+        "authors_list": [
+            "A. C. Gore",
+            "V. A. Chappell",
+            "S. E. Fenton",
+            "J. A. Flaws",
+            "A. Nadal",
+            "G. S. Prins",
+            "J. Toppari",
+            "R. T. Zoeller"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 2075
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/4702494"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1210/er.2015-1093",
+        "title": "Executive Summary to EDC-2: The Endocrine Society's Second Scientific Statement on Endocrine-Disrupting Chemicals",
+        "journal": "Endocrine Reviews",
+        "year": 2015,
+        "citations": 581,
+        "authors": "A. C. Gore, V. A. Chappell, S. E. Fenton et al.",
+        "authors_list": [
+            "A. C. Gore",
+            "V. A. Chappell",
+            "S. E. Fenton",
+            "J. A. Flaws",
+            "A. Nadal",
+            "G. S. Prins",
+            "J. Toppari",
+            "R. T. Zoeller"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 581
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/edrv/article-pdf/36/6/593/10335294/edrv0593.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1101/gad.12.9.1304",
+        "title": "Defects in regulation of apoptosis in caspase-2-deficient mice",
+        "journal": "Genes &amp; Development",
+        "year": 1998,
+        "citations": 568,
+        "authors": "L. Bergeron, G. I. Perez, G. Macdonald et al.",
+        "authors_list": [
+            "L. Bergeron",
+            "G. I. Perez",
+            "G. Macdonald",
+            "L. Shi",
+            "Y. Sun",
+            "A. Jurisicova",
+            "S. Varmuza",
+            "K. E. Latham",
+            "J. A. Flaws",
+            "J. C.M. Salter",
+            "H. Hara",
+            "M. A. Moskowitz",
+            "E. Li",
+            "A. Greenberg",
+            "J. L. Tilly",
+            "J. Yuan"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 568
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://genesdev.cshlp.org/content/12/9/1304.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1210/endo.136.8.7628407",
+        "title": "Ablation of bcl-2 gene expression decreases the numbers of oocytes and primordial follicles established in the post-natal female mouse gonad.",
+        "journal": "Endocrinology",
+        "year": 1995,
+        "citations": 283,
+        "authors": "V S Ratts, J A Flaws, R Kolp et al.",
+        "authors_list": [
+            "V S Ratts",
+            "J A Flaws",
+            "R Kolp",
+            "C M Sorenson",
+            "J L Tilly"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 283
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1530/rep-11-0136",
+        "title": "Endocrine-disrupting chemicals in ovarian function: effects on steroidogenesis, metabolism and nuclear receptor signaling",
+        "journal": "Reproduction",
+        "year": 2011,
+        "citations": 223,
+        "authors": "Zelieann R Craig, Wei Wang, Jodi A Flaws",
+        "authors_list": [
+            "Zelieann R Craig",
+            "Wei Wang",
+            "Jodi A Flaws"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 223
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://rep.bioscientifica.com/downloadpdf/journals/rep/142/5/633.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s0015-0282(98)00253-2",
+        "title": "Environmental toxicants and female reproduction",
+        "journal": "Fertility and Sterility",
+        "year": 1998,
+        "citations": 181,
+        "authors": "Fady I Sharara, David B Seifer, Jodi A Flaws",
+        "authors_list": [
+            "Fady I Sharara",
+            "David B Seifer",
+            "Jodi A Flaws"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 181
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.fertnstert.2016.06.027",
+        "title": "Evidence for bisphenol A-induced female infertility: a review (2007–2016)",
+        "journal": "Fertility and Sterility",
+        "year": 2016,
+        "citations": 217,
+        "authors": "Ayelet Ziv-Gal, Jodi A. Flaws",
+        "authors_list": [
+            "Ayelet Ziv-Gal",
+            "Jodi A. Flaws"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 217
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/5026908"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1242/dev.00888",
+        "title": "BRCA2 deficiency in mice leads to meiotic impairment and infertility",
+        "journal": "Development",
+        "year": 2004,
+        "citations": 182,
+        "authors": "Shyam K. Sharan, April Pyle, Vincenzo Coppola et al.",
+        "authors_list": [
+            "Shyam K. Sharan",
+            "April Pyle",
+            "Vincenzo Coppola",
+            "Janice Babus",
+            "Srividya Swaminathan",
+            "Jamie Benedict",
+            "Deborah Swing",
+            "Betty K. Martin",
+            "Lino Tessarollo",
+            "Janice P. Evans",
+            "Jodi A. Flaws",
+            "Mary Ann Handel"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 182
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1093/toxsci/kfq319",
+        "title": "Bisphenol A Impairs Follicle Growth, Inhibits Steroidogenesis, and Downregulates Rate-Limiting Enzymes in the Estradiol Biosynthesis Pathway",
+        "journal": "Toxicological Sciences",
+        "year": 2011,
+        "citations": 179,
+        "authors": "Jackye Peretz, Rupesh K. Gupta, Jeffrey Singh et al.",
+        "authors_list": [
+            "Jackye Peretz",
+            "Rupesh K. Gupta",
+            "Jeffrey Singh",
+            "Isabel Hernández-Ochoa",
+            "Jodi A. Flaws"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 179
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/toxsci/article-pdf/119/1/209/10954794/kfq319.pdf"
+        }
+    }
+]

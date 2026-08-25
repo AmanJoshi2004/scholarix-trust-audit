@@ -1,0 +1,51 @@
+[
+    {
+        "url": "https://rainman.astro.illinois.edu/gammie/",
+        "snippet": "Charles F. Gammie. Ikenberry Endowed Chair in Physics and Astronomy · University of Illinois at Urbana-Champaign · Computational Astrophysics Group.",
+        "category": "Publication",
+        "relevance_score": 100,
+        "reasoning": "The URL appears to be a personal webpage of a researcher at the University of Illinois, likely listing their publications and research interests."
+    },
+    {
+        "url": "https://inspirehep.net/authors/1035633",
+        "snippet": "Spatially resolved polarization swings in the supermassive binary black hole candidate OJ 287 with first Event Horizon Telescope observations. #7. Event Horizon ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is a link to an author's profile on INSPIREHEP, a database of high-energy physics publications, and the snippet appears to be related to a research paper."
+    },
+    {
+        "url": "https://iopscience.iop.org/article/10.3847/1538-4365/adaea6/meta",
+        "snippet": "IOP Conference SeriesRead open access proceedings from science conferences worldwide ... Charles F. Gammie. AFFILIATIONS. Department of Physics, ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is from IOP Science, a scientific publishing platform, and the snippet mentions open access proceedings and affiliations."
+    },
+    {
+        "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13092/3019835/The-Black-Hole-Explorer-motivation-and-vision/10.1117/12.3019835.short",
+        "snippet": "... Charles F. Gammie, Zachary Gelles, José L. Gómez, Samuel E. Gralla ... Conference Presentation. Keywords. Error loading keywords: Network ...",
+        "category": "Conference",
+        "relevance_score": 95,
+        "reasoning": "The URL is a conference proceedings page from SPIE, indicating that the snippet likely refers to a presentation or paper submitted to a conference."
+    },
+    {
+        "url": "https://astro.illinois.edu/directory/profile/gammie",
+        "snippet": "Charles F. Gammie ... Spatially resolved polarization swings in the supermassive binary black hole candidate OJ 287 with first Event Horizon Telescope ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The URL appears to be a research profile, and the snippet mentions a scientific paper."
+    },
+    {
+        "url": "https://www.instagram.com/p/CvK_A6XOlbg/",
+        "snippet": "Charles F. Gammie is a Professor of Astronomy and the Donald Biggar Willett Chair in Physics at the University of Illinois. Prof. Gammie is a theoretical and ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The snippet appears to be from a news or professional profile page on Instagram, which is a common source for personal and career updates in academia."
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=WV2QiXwK1L0",
+        "snippet": "... Charles F. Gammie is a Professor of Astronomy and the Donald Biggar Willett Chair in Physics at the University of Illinois. Prof. Gammie is ...",
+        "category": "Media/Video",
+        "relevance_score": 85,
+        "reasoning": "The URL is a YouTube video and the snippet describes an individual in a biographical context."
+    }
+]

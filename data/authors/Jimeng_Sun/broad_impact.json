@@ -1,0 +1,51 @@
+[
+    {
+        "url": "https://siebelschool.illinois.edu/about/people/faculty/jimeng",
+        "snippet": "Jimeng Sun's webpage. Research Statement. Sun's research interest is on artificial intelligence (AI) for healthcare: Deep learning for drug discovery, Clinical ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is a faculty webpage, likely hosted by the university's website, indicating it is a publication or academic profile of Jimeng Sun."
+    },
+    {
+        "url": "https://openreview.net/profile?id\\u003d~Jimeng_Sun3",
+        "snippet": "Expertise · health analytics · deep learning · tensor factorization · AI in healthcare · deep learning in healthcare · generative AI for healthcare · AI for clinical ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL points to an OpenReview profile, which suggests the author's publication history in their field."
+    },
+    {
+        "url": "https://scholar.google.es/citations?user=9jmmp5sAAAAJ&hl=th",
+        "snippet": "Jimeng Sun. Professor at University of Illinois ... Proceedings of the Conference on Empirical Methods in Natural Language …, 2022 ... Proceedings of the 29th ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet mentions a specific publication in a conference proceedings, indicating academic work."
+    },
+    {
+        "url": "https://scholar.google.com/citations?user=9jmmp5sAAAAJ&hl=en",
+        "snippet": "Social influence analysis in large-scale networks. J ... Therapeutics Data Commons: Machine Learning Datasets and Tasks for Drug Discovery and Development.",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The snippet appears to be a citation page on Google Scholar, which suggests the author has published research in this area."
+    },
+    {
+        "url": "https://www.coursera.org/instructor/~49374407",
+        "snippet": "His research focuses on artificial intelligence (AI) for healthcare. For example, the core topics include 1) Deep learning for drug discovery, 2) Clinical trial ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL points to an instructor profile on Coursera, a platform for online courses and publications related to academia."
+    },
+    {
+        "url": "https://neuroscience.illinois.edu/sites/default/files/cv/Jimeng%20Sun%20CV%202022.pdf",
+        "snippet": "Tutorial: Deep Learning for Healthcare, Open Data Science. Conference (ODSC), San Francisco, CA, 2019. ... Jimeng Sun, Jie Tang: A Survey of Models and Algorithms ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL appears to be a CV, but the snippet mentions academic work with authors and publication year, indicating it's related to a publication or academic research."
+    },
+    {
+        "url": "https://openreview.net/profile?id=~Jimeng_Sun3",
+        "snippet": "Jimeng Sun. Professor, University of Illinois, Urbana Champaign. Associate ... ICLR 2026 Conference Withdrawn Submission; Readers: Everyone. RAS: Retrieval ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The URL points to OpenReview, a publication platform for academic papers and the snippet mentions a withdrawn submission."
+    }
+]

@@ -1,0 +1,3951 @@
+[
+    {
+        "doi": "https://doi.org/10.1038/nrmicro1817",
+        "title": "Polysaccharide utilization by gut bacteria: potential for new insights from genomic analysis",
+        "journal": "Nature Reviews Microbiology",
+        "year": 2008,
+        "citations": 1722,
+        "authors": "Harry J. Flint, Edward A. Bayer, Marco T. Rincón et al.",
+        "authors_list": [
+            "Harry J. Flint",
+            "Edward A. Bayer",
+            "Marco T. Rincón",
+            "Raphael Lamed",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1722,
+            "crossref": 1461
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ismej.2013.16",
+        "title": "Habitat degradation impacts black howler monkey ( <i>Alouatta pigra</i> ) gastrointestinal microbiomes",
+        "journal": "The ISME Journal",
+        "year": 2013,
+        "citations": 1292,
+        "authors": "Katherine R. Amato, Carl J. Yeoman, Angela D. Kent et al.",
+        "authors_list": [
+            "Katherine R. Amato",
+            "Carl J. Yeoman",
+            "Angela D. Kent",
+            "Nicoletta Righini",
+            "Franck Carbonero",
+            "Alejandro Estrada",
+            "H. Rex Gaskins",
+            "Rebecca M. Stumpf",
+            "Süleyman Yıldırım",
+            "Manolito Torralba",
+            "Marcus Gillis",
+            "Brenda A. Wilson",
+            "Karen E Nelson",
+            "Bryan A. White",
+            "Steven R. Leigh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1292,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ismej201316.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nature06810",
+        "title": "Functional metagenomic profiling of nine biomes",
+        "journal": "Nature",
+        "year": 2008,
+        "citations": 981,
+        "authors": "Elizabeth A. Dinsdale, Robert A. Edwards, Dana Hall et al.",
+        "authors_list": [
+            "Elizabeth A. Dinsdale",
+            "Robert A. Edwards",
+            "Dana Hall",
+            "Florent Angly",
+            "Mya Breitbart",
+            "Jennifer M. Brulc",
+            "Mike Furlan",
+            "Christelle Desnues",
+            "Matthew Haynes",
+            "Linlin Li",
+            "Lauren D. McDaniel",
+            "Mary Ann Moran",
+            "Karen E. Nelson",
+            "Christína Nilsson",
+            "Robert Olson",
+            "John H. Paul",
+            "Beltran Rodriguez Brito",
+            "Yijun Ruan",
+            "Brandon K. Swan",
+            "Rick Stevens",
+            "David L. Valentine",
+            "Rebecca Vega Thurber",
+            "Linda Wegley",
+            "Bryan A. White",
+            "Forest Rohwer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 981,
+            "crossref": 776
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ismej.2016.62",
+        "title": "Specific microbiome-dependent mechanisms underlie the energy harvest efficiency of ruminants",
+        "journal": "The ISME Journal",
+        "year": 2016,
+        "citations": 881,
+        "authors": "Sheerli Kruger Ben Shabat, Goor Sasson, Adi Doron‐Faigenboim et al.",
+        "authors_list": [
+            "Sheerli Kruger Ben Shabat",
+            "Goor Sasson",
+            "Adi Doron‐Faigenboim",
+            "Thomer Durman",
+            "Shamay Yaacoby",
+            "Margret E. Berg Miller",
+            "Bryan A. White",
+            "Naama Shterzer",
+            "Itzhak Mizrahi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 881,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ismej201662.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1249/mss.0000000000001495",
+        "title": "Exercise Alters Gut Microbiota Composition and Function in Lean and Obese Humans",
+        "journal": "Medicine & Science in Sports & Exercise",
+        "year": 2017,
+        "citations": 783,
+        "authors": "Jacob M. Allen, Lucy J. Mailing, Grace M. Niemiro et al.",
+        "authors_list": [
+            "Jacob M. Allen",
+            "Lucy J. Mailing",
+            "Grace M. Niemiro",
+            "Rachel Moore",
+            "Marc D. Cook",
+            "Bryan A. White",
+            "Hannah D. Holscher",
+            "Jeffrey A. Woods"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 783,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.0806191105",
+        "title": "Gene-centric metagenomics of the fiber-adherent bovine rumen microbiome reveals forage specific glycoside hydrolases",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2009,
+        "citations": 758,
+        "authors": "Jennifer M. Brulc, Dionysios A. Antonopoulos, Margret E. Berg Miller et al.",
+        "authors_list": [
+            "Jennifer M. Brulc",
+            "Dionysios A. Antonopoulos",
+            "Margret E. Berg Miller",
+            "Melissa K. Wilson",
+            "Anthony C. Yannarell",
+            "Elizabeth A. Dinsdale",
+            "Robert E. Edwards",
+            "E.D. Frank",
+            "Joanne Emerson",
+            "Pirjo Wacklin",
+            "Pedro M. Coutinho",
+            "Bernard Henrissat",
+            "Karen E. Nelson",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 758,
+            "crossref": 598
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2633212"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0085423",
+        "title": "Potential Role of the Bovine Rumen Microbiome in Modulating Milk Composition and Feed Efficiency",
+        "journal": "PLoS ONE",
+        "year": 2014,
+        "citations": 615,
+        "authors": "Elie Jami, Bryan A. White, Itzhak Mizrahi",
+        "authors_list": [
+            "Elie Jami",
+            "Bryan A. White",
+            "Itzhak Mizrahi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 615,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0085423&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ismej.2010.162",
+        "title": "Phylogenetic and gene-centric metagenomics of the canine intestinal microbiome reveals similarities with humans and mice",
+        "journal": "The ISME Journal",
+        "year": 2010,
+        "citations": 420,
+        "authors": "Kelly S. Swanson, Scot E. Dowd, Jan S. Suchodolski et al.",
+        "authors_list": [
+            "Kelly S. Swanson",
+            "Scot E. Dowd",
+            "Jan S. Suchodolski",
+            "Ingmar S. Middelbos",
+            "Brittany M. Vester",
+            "Kathleen Barry",
+            "Karen E Nelson",
+            "Manolito Torralba",
+            "Bernard Henrissat",
+            "Pedro M. Coutinho",
+            "Isaac Cann",
+            "Bryan A. White",
+            "G. C. Fahey"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 420,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ismej2010162.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41396-018-0175-0",
+        "title": "Evolutionary trends in host physiology outweigh dietary niche in structuring primate gut microbiomes",
+        "journal": "The ISME Journal",
+        "year": 2018,
+        "citations": 403,
+        "authors": "Katherine R. Amato, Jon G. Sanders, Se Jin Song et al.",
+        "authors_list": [
+            "Katherine R. Amato",
+            "Jon G. Sanders",
+            "Se Jin Song",
+            "Michael Nute",
+            "Jessica L. Metcalf",
+            "Luke Thompson",
+            "James T. Morton",
+            "Amnon Amir",
+            "Valerie J. McKenzie",
+            "Gregory Humphrey",
+            "Grant Gogul",
+            "James Gaffney",
+            "Andrea L. Baden",
+            "Gillian A. O. Britton",
+            "Frank P. Cuozzo",
+            "Anthony Di Fiore",
+            "Nathaniel J. Dominy",
+            "Tony L. Goldberg",
+            "Andrés Gómez",
+            "Martín M. Kowalewski",
+            "Rebecca J. Lewis",
+            "Andrés Link",
+            "Michelle L. Sauther",
+            "Stacey R. Tecot",
+            "Bryan A. White",
+            "Karen E Nelson",
+            "Rebecca M. Stumpf",
+            "Rob Knight",
+            "Steven R. Leigh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 403,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41396-018-0175-0.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00248-010-9692-8",
+        "title": "Comparative Genome Analysis of Prevotella ruminicola and Prevotella bryantii: Insights into Their Environmental Niche",
+        "journal": "Microbial Ecology",
+        "year": 2010,
+        "citations": 364,
+        "authors": "Janaki Purushe, Derrick E. Fouts, Mark Morrison et al.",
+        "authors_list": [
+            "Janaki Purushe",
+            "Derrick E. Fouts",
+            "Mark Morrison",
+            "Bryan A. White",
+            "Roderick I. Mackie",
+            "Pedro M. Coutinho",
+            "Bernard Henrissat",
+            "Karen Nelson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 364,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00248-014-0554-7",
+        "title": "The Gut Microbiota Appears to Compensate for Seasonal Diet Variation in the Wild Black Howler Monkey (Alouatta pigra)",
+        "journal": "Microbial Ecology",
+        "year": 2014,
+        "citations": 347,
+        "authors": "Katherine R. Amato, Steven R. Leigh, Angela D. Kent et al.",
+        "authors_list": [
+            "Katherine R. Amato",
+            "Steven R. Leigh",
+            "Angela D. Kent",
+            "Roderick I. Mackie",
+            "Carl J. Yeoman",
+            "Rebecca M. Stumpf",
+            "Brenda A. Wilson",
+            "Karen E. Nelson",
+            "Bryan A. White",
+            "Paul A. Garber"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 347,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.vetmic.2011.05.021",
+        "title": "Longitudinal investigation of the age-related bacterial diversity in the feces of commercial pigs",
+        "journal": "Veterinary Microbiology",
+        "year": 2011,
+        "citations": 339,
+        "authors": "Hyeun Bum Kim, Klaudyna Borewicz, Bryan A. White et al.",
+        "authors_list": [
+            "Hyeun Bum Kim",
+            "Klaudyna Borewicz",
+            "Bryan A. White",
+            "Randall S. Singer",
+            "Srinand Sreevatsan",
+            "Zheng Jin Tu",
+            "Richard E. Isaacson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 339,
+            "crossref": 277
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/tcr.20160",
+        "title": "From cellulosomes to cellulosomics",
+        "journal": "The Chemical Record",
+        "year": 2008,
+        "citations": 333,
+        "authors": "Edward A. Bayer, Raphael Lamed, Bryan A. White et al.",
+        "authors_list": [
+            "Edward A. Bayer",
+            "Raphael Lamed",
+            "Bryan A. White",
+            "Harry J. Flint"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 333,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/1750-1326-9-36",
+        "title": "Diet and exercise orthogonally alter the gut microbiome and reveal independent associations with anxiety and cognition",
+        "journal": "Molecular Neurodegeneration",
+        "year": 2014,
+        "citations": 323,
+        "authors": "Silvia S. Kang, Patricio Jeraldo, Aishe Kurti et al.",
+        "authors_list": [
+            "Silvia S. Kang",
+            "Patricio Jeraldo",
+            "Aishe Kurti",
+            "Margret E. Berg Miller",
+            "Marc D. Cook",
+            "Keith G. Whitlock",
+            "Nigel Goldenfeld",
+            "Jeffrey A. Woods",
+            "Bryan A. White",
+            "Nicholas Chia",
+            "John Denis Fryer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 323,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://molecularneurodegeneration.biomedcentral.com/counter/pdf/10.1186/1750-1326-9-36"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0009768",
+        "title": "Phylogenetic Characterization of Fecal Microbial Communities of Dogs Fed Diets with or without Supplemental Dietary Fiber Using 454 Pyrosequencing",
+        "journal": "PLoS ONE",
+        "year": 2010,
+        "citations": 319,
+        "authors": "Ingmar S. Middelbos, Brittany M. Vester Boler, Ani Qu et al.",
+        "authors_list": [
+            "Ingmar S. Middelbos",
+            "Brittany M. Vester Boler",
+            "Ani Qu",
+            "Bryan A. White",
+            "Kelly S. Swanson",
+            "G. C. Fahey"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 319,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0009768&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1017/s1466252312000138",
+        "title": "The microbiome of the chicken gastrointestinal tract",
+        "journal": "Animal Health Research Reviews",
+        "year": 2012,
+        "citations": 306,
+        "authors": "Carl J. Yeoman, Nicholas Chia, Patricio Jeraldo et al.",
+        "authors_list": [
+            "Carl J. Yeoman",
+            "Nicholas Chia",
+            "Patricio Jeraldo",
+            "Maksim Sipos",
+            "Nigel Goldenfeld",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 306,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/npjbiofilms.2016.4",
+        "title": "A perspective on 16S rRNA operational taxonomic unit clustering using sequence similarity",
+        "journal": "npj Biofilms and Microbiomes",
+        "year": 2016,
+        "citations": 299,
+        "authors": "Nam Nguyen, Tandy Warnow, Mihai Pop et al.",
+        "authors_list": [
+            "Nam Nguyen",
+            "Tandy Warnow",
+            "Mihai Pop",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 299,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/npjbiofilms20164.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0002945",
+        "title": "Comparative Metagenomics Reveals Host Specific Metavirulomes and Horizontal Gene Transfer Elements in the Chicken Cecum Microbiome",
+        "journal": "PLoS ONE",
+        "year": 2008,
+        "citations": 294,
+        "authors": "Ani Qu, Jennifer M. Brulc, Melissa K. Wilson et al.",
+        "authors_list": [
+            "Ani Qu",
+            "Jennifer M. Brulc",
+            "Melissa K. Wilson",
+            "Bibiana Law",
+            "James R. Theoret",
+            "L A Joens",
+            "Michael E. Konkel",
+            "Florent Angly",
+            "Elizabeth A. Dinsdale",
+            "Robert A. Edwards",
+            "Karen E. Nelson",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 294,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0002945&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0013963",
+        "title": "Characterization of the Fecal Microbiome from Non-Human Wild Primates Reveals Species Specific Microbial Communities",
+        "journal": "PLoS ONE",
+        "year": 2010,
+        "citations": 277,
+        "authors": "Süleyman Yıldırım, Carl J. Yeoman, Maksim Sipos et al.",
+        "authors_list": [
+            "Süleyman Yıldırım",
+            "Carl J. Yeoman",
+            "Maksim Sipos",
+            "Manolito Torralba",
+            "Brenda A. Wilson",
+            "Tony L. Goldberg",
+            "Rebecca M. Stumpf",
+            "Steven R. Leigh",
+            "Bryan A. White",
+            "Karen E. Nelson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 277,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0013963&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41564-019-0494-6",
+        "title": "Global phylogeography and ancient evolution of the widespread human gut virus crAssphage",
+        "journal": "Nature Microbiology",
+        "year": 2019,
+        "citations": 270,
+        "authors": "Robert A. Edwards, Alejandro A. Vega, Holly M. Norman et al.",
+        "authors_list": [
+            "Robert A. Edwards",
+            "Alejandro A. Vega",
+            "Holly M. Norman",
+            "Maria Cynthia Ohaeri",
+            "Kyle Levi",
+            "Elizabeth A. Dinsdale",
+            "Ondřej Cinek",
+            "Ramy K. Aziz",
+            "Katelyn McNair",
+            "Jeremy J. Barr",
+            "Kyle Bibby",
+            "Stan J. J. Brouns",
+            "Adrián Cazares",
+            "Patrick A. de Jonge",
+            "Christelle Desnues",
+            "Samuel L. Díaz‐Muñoz",
+            "Peter C. Fineran",
+            "Alexander Kurilshikov",
+            "Rob Lavigne",
+            "Karla Mazankova",
+            "David McCarthy",
+            "Franklin L. Nóbrega",
+            "Alejandro Reyes",
+            "German Tapia",
+            "Nicole Trefault",
+            "Alexander Tyakht",
+            "Pablo Vinuesa",
+            "Jeroen Wagemans",
+            "Alexandra Zhernakova",
+            "Frank M. Aarestrup",
+            "Gunduz Ahmadov",
+            "Abeer Alassaf",
+            "Josefa Anton",
+            "Abigail E. Asangba",
+            "E Billings",
+            "Vito Adrian Cantu",
+            "Jane M. Carlton",
+            "Daniel Cazares",
+            "Gyu-Sung Cho",
+            "Tess Condeff",
+            "Pilar Cortés",
+            "Mike Cranfield",
+            "Daniel Cuevas",
+            "Rodrigo De la Iglesia",
+            "Przemysław Decewicz",
+            "Michael P. Doane",
+            "Nathaniel J. Dominy",
+            "Łukasz Dziewit",
+            "Bashir Mukhtar Elwasila",
+            "A. Murat Eren",
+            "Charles M. A. P. Franz",
+            "Jingyuan Fu",
+            "Cristina García‐Aljaro",
+            "Elodie Ghedin",
+            "Kristen Gulino",
+            "John M. Haggerty",
+            "Steven R. Head",
+            "René S. Hendriksen",
+            "Colin Hill",
+            "Heikki Hyöty",
+            "Elena N. Ilina",
+            "Mitchell T. Irwin",
+            "Thomas C. Jeffries",
+            "Juan Jofre",
+            "Randall E. Junge",
+            "Scott T. Kelley",
+            "Mohammadali Khan Mirzaei",
+            "Martín M. Kowalewski",
+            "Deepak Kumaresan",
+            "Steven R. Leigh",
+            "David A. Lipson",
+            "Eugenia Lisitsyna",
+            "Montserrat Llagostera",
+            "Julia M. Maritz",
+            "Linsey C. Marr",
+            "Angela McCann",
+            "Shahar Molshanski-Mor",
+            "Sílvia Monteiro",
+            "Benjamin Moreira‐Grez",
+            "Megan M. Morris",
+            "Lawrence Mugisha",
+            "Maite Muniesa",
+            "Horst Neve",
+            "Nam Nguyen",
+            "Olivia D. Nigro",
+            "Anders Nilsson",
+            "Taylor O’Connell",
+            "Rasha Odeh",
+            "Andrew Oliver",
+            "Mariana Piuri",
+            "Aaron J. Prussin",
+            "Udi Qimron",
+            "Zhe‐Xue Quan",
+            "Petra Rainetová",
+            "Adán Andrés Ramírez Rojas",
+            "Raúl R. Raya",
+            "Kim Reasor",
+            "Gillian A. O. Rice",
+            "Alessandro Rossi",
+            "Ricardo Santos"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 270,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pure.amsterdamumc.nl/en/publications/45efb14a-b465-412b-a218-375718d6de02"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1152/japplphysiol.01077.2014",
+        "title": "Voluntary and forced exercise differentially alters the gut microbiome in C57BL/6J mice",
+        "journal": "Journal of Applied Physiology",
+        "year": 2015,
+        "citations": 263,
+        "authors": "Jacob M. Allen, Margret E. Berg Miller, Brandt D. Pence et al.",
+        "authors_list": [
+            "Jacob M. Allen",
+            "Margret E. Berg Miller",
+            "Brandt D. Pence",
+            "Keith G. Whitlock",
+            "Vandana Nehra",
+            "H. Rex Gaskins",
+            "Bryan A. White",
+            "John Denis Fryer",
+            "Jeffrey A. Woods"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 263,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0167-7012(99)00029-9",
+        "title": "Application of denaturant gradient gel electrophoresis for the analysis of the porcine gastrointestinal microbiota",
+        "journal": "Journal of Microbiological Methods",
+        "year": 1999,
+        "citations": 259,
+        "authors": "Joyce M. Simpson, Vance J. McCracken, Bryan A. White et al.",
+        "authors_list": [
+            "Joyce M. Simpson",
+            "Vance J. McCracken",
+            "Bryan A. White",
+            "H. Rex Gaskins",
+            "Roderick I. Mackie"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 259,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1205147109",
+        "title": "Microbial shifts in the swine distal gut in response to the treatment with antimicrobial growth promoter, tylosin",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2012,
+        "citations": 253,
+        "authors": "Hyeun Bum Kim, Klaudyna Borewicz, Bryan A. White et al.",
+        "authors_list": [
+            "Hyeun Bum Kim",
+            "Klaudyna Borewicz",
+            "Bryan A. White",
+            "Randall S. Singer",
+            "Srinand Sreevatsan",
+            "Zheng Jin Tu",
+            "Richard E. Isaacson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 253,
+            "crossref": 206
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.68.4.1786-1793.2002",
+        "title": "Development, Validation, and Application of PCR Primers for Detection of Tetracycline Efflux Genes of Gram-Negative Bacteria",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 2002,
+        "citations": 252,
+        "authors": "Rustam Aminov, Joanne C. Chee‐Sanford, Natalie Garrigues et al.",
+        "authors_list": [
+            "Rustam Aminov",
+            "Joanne C. Chee‐Sanford",
+            "Natalie Garrigues",
+            "B. Teferedegne",
+            "I. J. Krapac",
+            "Bryan A. White",
+            "Roderick I. Mackie"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 252,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/68/4/1786.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/mbio.00703-17",
+        "title": "Heritable Bovine Rumen Bacteria Are Phylogenetically Related and Correlated with the Cow’s Capacity To Harvest Energy from Its Feed",
+        "journal": "mBio",
+        "year": 2017,
+        "citations": 251,
+        "authors": "Goor Sasson, Sheerli Kruger Ben-Shabat, Eyal Seroussi et al.",
+        "authors_list": [
+            "Goor Sasson",
+            "Sheerli Kruger Ben-Shabat",
+            "Eyal Seroussi",
+            "Adi Doron‐Faigenboim",
+            "Naama Shterzer",
+            "Shamay Yaacoby",
+            "Margret E. Berg Miller",
+            "Bryan A. White",
+            "Eran Halperin",
+            "Itzhak Mizrahi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 251,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://mbio.asm.org/content/mbio/8/4/e00703-17.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.celrep.2016.02.013",
+        "title": "Gut Microbiome of Coexisting BaAka Pygmies and Bantu Reflects Gradients of Traditional Subsistence Patterns",
+        "journal": "Cell Reports",
+        "year": 2016,
+        "citations": 251,
+        "authors": "Andrés Gómez, Klára J. Petrželková, Michael B. Burns et al.",
+        "authors_list": [
+            "Andrés Gómez",
+            "Klára J. Petrželková",
+            "Michael B. Burns",
+            "Carl J. Yeoman",
+            "Katherine R. Amato",
+            "Klára Vlčková",
+            "David Modrý",
+            "Angelique Todd",
+            "Carolyn A. Jost Robinson",
+            "Melissa J. Remis",
+            "Manolito Torralba",
+            "Elise R. Morton",
+            "Juan D. Umaña",
+            "Franck Carbonero",
+            "H. Rex Gaskins",
+            "Karen E. Nelson",
+            "Brenda A. Wilson",
+            "Rebecca M. Stumpf",
+            "Bryan A. White",
+            "Steven R. Leigh",
+            "Ran Blekhman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 251,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S2211124716300997/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev-micro-092412-155618",
+        "title": "Biomass Utilization by Gut Microbiomes",
+        "journal": "Annual Review of Microbiology",
+        "year": 2014,
+        "citations": 242,
+        "authors": "Bryan A. White, Raphael Lamed, Edward A. Bayer et al.",
+        "authors_list": [
+            "Bryan A. White",
+            "Raphael Lamed",
+            "Edward A. Bayer",
+            "Harry J. Flint"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 242,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0036095",
+        "title": "Loss of Sex and Age Driven Differences in the Gut Microbiome Characterize Arthritis-Susceptible *0401 Mice but Not Arthritis-Resistant *0402 Mice",
+        "journal": "PLoS ONE",
+        "year": 2012,
+        "citations": 235,
+        "authors": "Andrés Gómez, David Luckey, Carl J. Yeoman et al.",
+        "authors_list": [
+            "Andrés Gómez",
+            "David Luckey",
+            "Carl J. Yeoman",
+            "Eric Marietta",
+            "Margret E. Berg Miller",
+            "Joseph A. Murray",
+            "Bryan A. White",
+            "Veena Taneja"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 235,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0036095&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/jb.162.3.1212-1220.1985",
+        "title": "Streptococcus faecalis sex pheromone (cAM373) also produced by Staphylococcus aureus and identification of a conjugative transposon (Tn918)",
+        "journal": "Journal of Bacteriology",
+        "year": 1985,
+        "citations": 220,
+        "authors": "Don B. Clewell, Florence Y. An, Bryan A. White et al.",
+        "authors_list": [
+            "Don B. Clewell",
+            "Florence Y. An",
+            "Bryan A. White",
+            "C Gawron-Burke"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 220,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://jb.asm.org/content/jb/162/3/1212.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.80.17.5369",
+        "title": "Modification of Streptococcus faecalis sex pheromones after acquisition of plasmid DNA.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1983,
+        "citations": 213,
+        "authors": "Yasuyoshi Ike, Ronald A. Craig, Bryan A. White et al.",
+        "authors_list": [
+            "Yasuyoshi Ike",
+            "Ronald A. Craig",
+            "Bryan A. White",
+            "Yusuke Yagi",
+            "Don B. Clewell"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 213,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/384257"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1006/anae.2001.0378",
+        "title": "Analysis of the Rumen Bacterial Diversity under two Different Diet Conditions using Denaturing Gradient Gel Electrophoresis, Random Sequencing, and Statistical Ecology Approaches",
+        "journal": "Anaerobe",
+        "year": 2001,
+        "citations": 211,
+        "authors": "Svetlana A. Kocherginskaya, Rustam Aminov, Bryan A. White",
+        "authors_list": [
+            "Svetlana A. Kocherginskaya",
+            "Rustam Aminov",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 211,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/mec.13181",
+        "title": "Gut microbiome composition and metabolomic profiles of wild western lowland gorillas (<i>Gorilla gorilla gorilla</i>) reflect host ecology",
+        "journal": "Molecular Ecology",
+        "year": 2015,
+        "citations": 193,
+        "authors": "Andrés Gómez, Klára J. Petrželková, Carl J. Yeoman et al.",
+        "authors_list": [
+            "Andrés Gómez",
+            "Klára J. Petrželková",
+            "Carl J. Yeoman",
+            "Klára Vlčková",
+            "Jakub Mrázek",
+            "I. Koppová",
+            "Franck Carbonero",
+            "Alexander Ulanov",
+            "David Modrý",
+            "Angelique Todd",
+            "Manolito Torralba",
+            "Karen E. Nelson",
+            "H. Rex Gaskins",
+            "Brenda A. Wilson",
+            "Rebecca M. Stumpf",
+            "Bryan A. White",
+            "Steven R. Leigh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 193,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.13181"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev-animal-022513-114149",
+        "title": "Gastrointestinal Tract Microbiota and Probiotics in Production Animals",
+        "journal": "Annual Review of Animal Biosciences",
+        "year": 2013,
+        "citations": 191,
+        "authors": "Carl J. Yeoman, Bryan A. White",
+        "authors_list": [
+            "Carl J. Yeoman",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 191,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0098514",
+        "title": "Pregnancy's Stronghold on the Vaginal Microbiome",
+        "journal": "PLoS ONE",
+        "year": 2014,
+        "citations": 191,
+        "authors": "Marina Walther-António, Patricio Jeraldo, Margret E. Berg Miller et al.",
+        "authors_list": [
+            "Marina Walther-António",
+            "Patricio Jeraldo",
+            "Margret E. Berg Miller",
+            "Carl J. Yeoman",
+            "Karen E. Nelson",
+            "Brenda A. Wilson",
+            "Bryan A. White",
+            "Nicholas Chia",
+            "Douglas J. Creedon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 191,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0098514&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0123911",
+        "title": "Caste-Specific Differences in Hindgut Microbial Communities of Honey Bees (Apis mellifera)",
+        "journal": "PLoS ONE",
+        "year": 2015,
+        "citations": 178,
+        "authors": "Karen M. Kapheim, Vikyath D. Rao, Carl J. Yeoman et al.",
+        "authors_list": [
+            "Karen M. Kapheim",
+            "Vikyath D. Rao",
+            "Carl J. Yeoman",
+            "Brenda A. Wilson",
+            "Bryan A. White",
+            "Nigel Goldenfeld",
+            "Gene E. Robinson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 178,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0123911&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/mbio.03186-19",
+        "title": "Fecal Metabolomic Signatures in Colorectal Adenoma Patients Are Associated with Gut Microbiota and Early Events of Colorectal Cancer Pathogenesis",
+        "journal": "mBio",
+        "year": 2020,
+        "citations": 177,
+        "authors": "Minsuk Kim, Emily Vogtmann, David A. Ahlquist et al.",
+        "authors_list": [
+            "Minsuk Kim",
+            "Emily Vogtmann",
+            "David A. Ahlquist",
+            "Mary E. Devens",
+            "John B. Kisiel",
+            "William R. Taylor",
+            "Bryan A. White",
+            "Vanessa L. Hale",
+            "Jaeyun Sung",
+            "Nicholas Chia",
+            "Rashmi Sinha",
+            "Jun Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 177,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://mbio.asm.org/content/mbio/11/1/e03186-19.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ismej.2014.90",
+        "title": "Primate vaginal microbiomes exhibit species specificity without universal <i>Lactobacillus</i> dominance",
+        "journal": "The ISME Journal",
+        "year": 2014,
+        "citations": 170,
+        "authors": "Süleyman Yıldırım, Carl J. Yeoman, Sarath Chandra Janga et al.",
+        "authors_list": [
+            "Süleyman Yıldırım",
+            "Carl J. Yeoman",
+            "Sarath Chandra Janga",
+            "Susan M. Thomas",
+            "Mengfei Ho",
+            "Steven R. Leigh",
+            "Primate Microbiome",
+            "Bryan A. White",
+            "Brenda A. Wilson",
+            "Rebecca M. Stumpf"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 170,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ismej201490.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1206721109",
+        "title": "Quantification of the relative roles of niche and neutral processes in structuring gastrointestinal microbiomes",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2012,
+        "citations": 166,
+        "authors": "Patricio Jeraldo, Maksim Sipos, Nicholas Chia et al.",
+        "authors_list": [
+            "Patricio Jeraldo",
+            "Maksim Sipos",
+            "Nicholas Chia",
+            "Jennifer M. Brulc",
+            "A. S. Dhillon",
+            "Michael E. Konkel",
+            "C. L. Larson",
+            "Karen E. Nelson",
+            "Ani Qu",
+            "Lawrence B. Schook",
+            "Fang Yang",
+            "Bryan A. White",
+            "Nigel Goldenfeld"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 166,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/109/25/9692.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0012411",
+        "title": "Comparative Genomics of Gardnerella vaginalis Strains Reveals Substantial Differences in Metabolic and Virulence Potential",
+        "journal": "PLoS ONE",
+        "year": 2010,
+        "citations": 163,
+        "authors": "Carl J. Yeoman, Süleyman Yıldırım, Susan M. Thomas et al.",
+        "authors_list": [
+            "Carl J. Yeoman",
+            "Süleyman Yıldırım",
+            "Susan M. Thomas",
+            "A. Scott Durkin",
+            "Manolito Torralba",
+            "Granger Sutton",
+            "Christian Buhay",
+            "Yan Ding",
+            "Shannon Dugan-Rocha",
+            "Donna M. Muzny",
+            "Xiang Qin",
+            "Richard A. Gibbs",
+            "Steven R. Leigh",
+            "Rebecca M. Stumpf",
+            "Bryan A. White",
+            "Sarah K. Highlander",
+            "Karen E. Nelson",
+            "Brenda A. Wilson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 163,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0012411&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/19490976.2017.1372077",
+        "title": "Exercise training-induced modification of the gut microbiota persists after microbiota colonization and attenuates the response to chemically-induced colitis in gnotobiotic mice",
+        "journal": "Gut Microbes",
+        "year": 2017,
+        "citations": 154,
+        "authors": "Jacob M. Allen, Lucy J. Mailing, Josh Cohrs et al.",
+        "authors_list": [
+            "Jacob M. Allen",
+            "Lucy J. Mailing",
+            "Josh Cohrs",
+            "Charles E. Salmonson",
+            "John Denis Fryer",
+            "V. Nehra",
+            "Vanessa L. Hale",
+            "Purna Kashyap",
+            "Bryan A. White",
+            "Jeffrey A. Woods"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 154,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.1080/19490976.2017.1372077?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ajpa.22621",
+        "title": "The role of gut microbes in satisfying the nutritional demands of adult and juvenile wild, black howler monkeys (<scp><i>A</i></scp><i>louatta pigra</i>)",
+        "journal": "American Journal of Physical Anthropology",
+        "year": 2014,
+        "citations": 153,
+        "authors": "Katherine R. Amato, Steven R. Leigh, Angela D. Kent et al.",
+        "authors_list": [
+            "Katherine R. Amato",
+            "Steven R. Leigh",
+            "Angela D. Kent",
+            "Roderick I. Mackie",
+            "Carl J. Yeoman",
+            "Rebecca M. Stumpf",
+            "Brenda A. Wilson",
+            "Karen E. Nelson",
+            "Bryan A. White",
+            "Paul A. Garber"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 153,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0056111",
+        "title": "A Multi-Omic Systems-Based Approach Reveals Metabolic Markers of Bacterial Vaginosis and Insight into the Disease",
+        "journal": "PLoS ONE",
+        "year": 2013,
+        "citations": 149,
+        "authors": "Carl J. Yeoman, Susan M. Thomas, Margret E. Berg Miller et al.",
+        "authors_list": [
+            "Carl J. Yeoman",
+            "Susan M. Thomas",
+            "Margret E. Berg Miller",
+            "Alexander Ulanov",
+            "Manolito Torralba",
+            "Sarah K. Lucas",
+            "Marcus Gillis",
+            "Melissa A. Cregger",
+            "Andrés Gómez",
+            "Mengfei Ho",
+            "Steven R. Leigh",
+            "Rebecca M. Stumpf",
+            "Douglas J. Creedon",
+            "Michael A. Smith",
+            "Jon S. Weisbaum",
+            "Karen E. Nelson",
+            "Brenda A. Wilson",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 149,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0056111&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s40168-015-0120-7",
+        "title": "Variable responses of human and non-human primate gut microbiomes to a Western diet",
+        "journal": "Microbiome",
+        "year": 2015,
+        "citations": 149,
+        "authors": "Katherine R. Amato, Carl J. Yeoman, Gabriela Cerda et al.",
+        "authors_list": [
+            "Katherine R. Amato",
+            "Carl J. Yeoman",
+            "Gabriela Cerda",
+            "Christopher A. Schmitt",
+            "Jennifer Danzy Cramer",
+            "Margret E. Berg Miller",
+            "Andrés Gómez",
+            "Trudy R. Turner",
+            "Brenda A. Wilson",
+            "Rebecca M. Stumpf",
+            "Karen E. Nelson",
+            "Bryan A. White",
+            "Rob Knight",
+            "Steven R. Leigh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 149,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-015-0120-7"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/icb.2015.108",
+        "title": "Exercise and gut immune function: evidence of alterations in colon immune cell homeostasis and microbiome characteristics with exercise training",
+        "journal": "Immunology and Cell Biology",
+        "year": 2015,
+        "citations": 142,
+        "authors": "Marc D. Cook, Jacob M. Allen, Brandt D. Pence et al.",
+        "authors_list": [
+            "Marc D. Cook",
+            "Jacob M. Allen",
+            "Brandt D. Pence",
+            "Matthew A. Wallig",
+            "H. Rex Gaskins",
+            "Bryan A. White",
+            "Jeffrey A. Woods"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 142,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1038/icb.2015.108"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1462-2920.2011.02593.x",
+        "title": "Phage–bacteria relationships and CRISPR elements revealed by a metagenomic survey of the rumen microbiome",
+        "journal": "Environmental Microbiology",
+        "year": 2011,
+        "citations": 140,
+        "authors": "Margret E. Berg Miller, Carl J. Yeoman, Nicholas Chia et al.",
+        "authors_list": [
+            "Margret E. Berg Miller",
+            "Carl J. Yeoman",
+            "Nicholas Chia",
+            "Susannah G. Tringe",
+            "Florent Angly",
+            "Robert A. Edwards",
+            "Harry J. Flint",
+            "Raphael Lamed",
+            "Edward A. Bayer",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 140,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ajp.22555",
+        "title": "Host age, social group, and habitat type influence the gut microbiota of wild ring‐tailed lemurs (<i>Lemur catta</i>)",
+        "journal": "American Journal of Primatology",
+        "year": 2016,
+        "citations": 138,
+        "authors": "Genevieve Bennett, Matthew Malone, Michelle L. Sauther et al.",
+        "authors_list": [
+            "Genevieve Bennett",
+            "Matthew Malone",
+            "Michelle L. Sauther",
+            "Frank P. Cuozzo",
+            "Bryan A. White",
+            "Karen E. Nelson",
+            "Rebecca M. Stumpf",
+            "Rob Knight",
+            "Steven R. Leigh",
+            "Katherine R. Amato"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 138,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.tem.2011.06.001",
+        "title": "The vaginal microbiome in health and disease",
+        "journal": "Trends in Endocrinology and Metabolism",
+        "year": 2011,
+        "citations": 135,
+        "authors": "Bryan A. White, Douglas J. Creedon, Karen E. Nelson et al.",
+        "authors_list": [
+            "Bryan A. White",
+            "Douglas J. Creedon",
+            "Karen E. Nelson",
+            "Brenda A. Wilson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 135,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3183339"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00442-015-3507-z",
+        "title": "Phylogenetic and ecological factors impact the gut microbiota of two Neotropical primate species",
+        "journal": "Oecologia",
+        "year": 2015,
+        "citations": 135,
+        "authors": "Katherine R. Amato, Rodolfo Martínez‐Mota, Nicoletta Righini et al.",
+        "authors_list": [
+            "Katherine R. Amato",
+            "Rodolfo Martínez‐Mota",
+            "Nicoletta Righini",
+            "Melissa Raguet-Schofield",
+            "Fabiana Paola Corcione",
+            "Elisabetta Marini",
+            "Greg Humphrey",
+            "Grant Gogul",
+            "James Gaffney",
+            "Elijah Lovelace",
+            "LaShanda Williams",
+            "Albert Luong",
+            "Maria Gloria Domínguez-Bello",
+            "Rebecca M. Stumpf",
+            "Bryan A. White",
+            "Karen E. Nelson",
+            "Rob Knight",
+            "Steven R. Leigh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 135,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ajpa.22395",
+        "title": "The primate vaginal microbiome: Comparative context and implications for human health and disease",
+        "journal": "American Journal of Physical Anthropology",
+        "year": 2013,
+        "citations": 134,
+        "authors": "Rebecca M. Stumpf, Brenda A. Wilson, Angel J. Rivera et al.",
+        "authors_list": [
+            "Rebecca M. Stumpf",
+            "Brenda A. Wilson",
+            "Angel J. Rivera",
+            "Süleyman Yıldırım",
+            "Carl J. Yeoman",
+            "John D. Polk",
+            "Bryan A. White",
+            "Steven R. Leigh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 134,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajpa.22395"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0006650",
+        "title": "Diversity and Strain Specificity of Plant Cell Wall Degrading Enzymes Revealed by the Draft Genome of Ruminococcus flavefaciens FD-1",
+        "journal": "PLoS ONE",
+        "year": 2009,
+        "citations": 133,
+        "authors": "Margret E. Berg Miller, Dionysios A. Antonopoulos, Marco T. Rincón et al.",
+        "authors_list": [
+            "Margret E. Berg Miller",
+            "Dionysios A. Antonopoulos",
+            "Marco T. Rincón",
+            "Mark Band",
+            "Albert Bari",
+            "Tatsiana Akraiko",
+            "Álvaro González Hernández",
+            "Jyothi Thimmapuram",
+            "Bernard Henrissat",
+            "Pedro M. Coutinho",
+            "Ilya Borovok",
+            "Sadanari Jindou",
+            "Raphael Lamed",
+            "Harry J. Flint",
+            "Edward A. Bayer",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 133,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0006650&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s13073-018-0586-6",
+        "title": "Distinct microbes, metabolites, and ecologies define the microbiome in deficient and proficient mismatch repair colorectal cancers",
+        "journal": "Genome Medicine",
+        "year": 2018,
+        "citations": 127,
+        "authors": "Vanessa L. Hale, Patricio Jeraldo, Jun Chen et al.",
+        "authors_list": [
+            "Vanessa L. Hale",
+            "Patricio Jeraldo",
+            "Jun Chen",
+            "Michael Mundy",
+            "Janet Yao",
+            "Sambhawa Priya",
+            "Gary Keeney",
+            "Kelly Lyke",
+            "Jason M. Ridlon",
+            "Bryan A. White",
+            "Amy J. French",
+            "Stephen N. Thibodeau",
+            "Christian Diener",
+            "Osbaldo Reséndis-Antonio",
+            "Jaime Gransee",
+            "Tumpa Dutta",
+            "Xuan-Mai Petterson",
+            "Jaeyun Sung",
+            "Ran Blekhman",
+            "Lisa Boardman",
+            "David W. Larson",
+            "Heidi Nelson",
+            "Nicholas Chia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 127,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://genomemedicine.biomedcentral.com/track/pdf/10.1186/s13073-018-0586-6"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3168/jds.s0022-0302(90)78986-2",
+        "title": "Recent Advances in Rumen Microbial Ecology and Metabolism: Potential Impact on Nutrient Output",
+        "journal": "Journal of Dairy Science",
+        "year": 1990,
+        "citations": 125,
+        "authors": "Roderick I. Mackie, Bryan A. White",
+        "authors_list": [
+            "Roderick I. Mackie",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 125,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.3168/jds.s0022-0302(90)78986-2"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/1462-2920.12868",
+        "title": "Ruminococcal cellulosome systems from rumen to human",
+        "journal": "Environmental Microbiology",
+        "year": 2015,
+        "citations": 124,
+        "authors": "Yonit Ben David, Bareket Dassa, Ilya Borovok et al.",
+        "authors_list": [
+            "Yonit Ben David",
+            "Bareket Dassa",
+            "Ilya Borovok",
+            "Raphael Lamed",
+            "Nicole M. Koropatkin",
+            "Eric C. Martens",
+            "Bryan A. White",
+            "Annick Bernalier‐Donadille",
+            "Sylvia H. Duncan",
+            "Harry J. Flint",
+            "Edward A. Bayer",
+            "Sarah Moraïs"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 124,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.12868"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0078687",
+        "title": "Low Incidence of Spontaneous Type 1 Diabetes in Non-Obese Diabetic Mice Raised on Gluten-Free Diets Is Associated with Changes in the Intestinal Microbiome",
+        "journal": "PLoS ONE",
+        "year": 2013,
+        "citations": 123,
+        "authors": "Eric Marietta, Andrés Gómez, Carl J. Yeoman et al.",
+        "authors_list": [
+            "Eric Marietta",
+            "Andrés Gómez",
+            "Carl J. Yeoman",
+            "Ashenafi Y. Tilahun",
+            "Chad R. Clark",
+            "David Luckey",
+            "Joseph Murray",
+            "Bryan A. White",
+            "Yogish C. Kudva",
+            "Govindarajan Rajagopalan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 123,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0078687&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s12864-016-2680-8",
+        "title": "Xylan degradation by the human gut Bacteroides xylanisolvens XB1AT involves two distinct gene clusters that are linked at the transcriptional level",
+        "journal": "BMC Genomics",
+        "year": 2016,
+        "citations": 117,
+        "authors": "Jordane Despres, Évelyne Forano, Pascale Lepercq et al.",
+        "authors_list": [
+            "Jordane Despres",
+            "Évelyne Forano",
+            "Pascale Lepercq",
+            "Sophie Comtet-Marre",
+            "Grégory Jubelin",
+            "Christophe Chambon",
+            "Carl J. Yeoman",
+            "Margret E. Berg Miller",
+            "Christopher J. Fields",
+            "Eric C. Martens",
+            "Nicolas Terrapon",
+            "Bernard Henrissat",
+            "Bryan A. White",
+            "Pascale Mosoni"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/s12864-016-2680-8"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/pr3006809",
+        "title": "Effects of Dietary Fiber on the Feline Gastrointestinal Metagenome",
+        "journal": "Journal of Proteome Research",
+        "year": 2012,
+        "citations": 117,
+        "authors": "Kathleen Barry, Ingmar S. Middelbos, Brittany M. Vester Boler et al.",
+        "authors_list": [
+            "Kathleen Barry",
+            "Ingmar S. Middelbos",
+            "Brittany M. Vester Boler",
+            "Scot E. Dowd",
+            "Jan S. Suchodolski",
+            "Bernard Henrissat",
+            "Pedro M. Coutinho",
+            "Bryan A. White",
+            "G. C. Fahey",
+            "Kelly S. Swanson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ajp.22238",
+        "title": "Fecal microbiomes of non‐human primates in Western Uganda reveal species‐specific communities largely resistant to habitat perturbation",
+        "journal": "American Journal of Primatology",
+        "year": 2013,
+        "citations": 116,
+        "authors": "Aleia I. McCord, Colin A. Chapman, Geoffrey Weny et al.",
+        "authors_list": [
+            "Aleia I. McCord",
+            "Colin A. Chapman",
+            "Geoffrey Weny",
+            "Alex Tumukunde",
+            "David Hyeroba",
+            "Kelly Klotz",
+            "Avery S. Koblings",
+            "David N. M. Mbora",
+            "Melissa A. Cregger",
+            "Bryan A. White",
+            "Steven R. Leigh",
+            "Tony L. Goldberg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ismej.2015.146",
+        "title": "Temporal variation selects for diet–microbe co-metabolic traits in the gut of <i>Gorilla</i> spp",
+        "journal": "The ISME Journal",
+        "year": 2015,
+        "citations": 112,
+        "authors": "Andrés Gómez, Jessica M. Rothman, Klára J. Petrželková et al.",
+        "authors_list": [
+            "Andrés Gómez",
+            "Jessica M. Rothman",
+            "Klára J. Petrželková",
+            "Carl J. Yeoman",
+            "Klára Vlčková",
+            "Juan D. Umaña",
+            "Monica E. Carr",
+            "David Modrý",
+            "Angelique Todd",
+            "Manolito Torralba",
+            "Karen E Nelson",
+            "Rebecca M. Stumpf",
+            "Brenda A. Wilson",
+            "Ran Blekhman",
+            "Bryan A. White",
+            "Steven R. Leigh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 112,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ismej2015146.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3109/10408419109115208",
+        "title": "Lipid Metabolism in Anaerobic Ecosystems",
+        "journal": "Critical Reviews in Microbiology",
+        "year": 1991,
+        "citations": 109,
+        "authors": "Roderick I. Mackie, Bryan A. White, M. P. Bryant",
+        "authors_list": [
+            "Roderick I. Mackie",
+            "Bryan A. White",
+            "M. P. Bryant"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.60.10.3688-3696.1994",
+        "title": "The use of 16S rRNA-targeted oligonucleotide probes to study competition between ruminal fibrolytic bacteria: development of probes for Ruminococcus species and evidence for bacteriocin production",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 1994,
+        "citations": 108,
+        "authors": "A.A. Odenyo, Roderick I. Mackie, David A. Stahl et al.",
+        "authors_list": [
+            "A.A. Odenyo",
+            "Roderick I. Mackie",
+            "David A. Stahl",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 108,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/60/10/3688.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00248-017-0938-6",
+        "title": "Patterns in Gut Microbiota Similarity Associated with Degree of Sociality among Sex Classes of a Neotropical Primate",
+        "journal": "Microbial Ecology",
+        "year": 2017,
+        "citations": 104,
+        "authors": "Katherine R. Amato, Sarie Van Belle, Anthony Di Fiore et al.",
+        "authors_list": [
+            "Katherine R. Amato",
+            "Sarie Van Belle",
+            "Anthony Di Fiore",
+            "Alejandro Estrada",
+            "Rebecca M. Stumpf",
+            "Bryan A. White",
+            "Karen E. Nelson",
+            "Rob Knight",
+            "Steven R. Leigh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4615-4111-0_10",
+        "title": "Polysaccharide Degradation in the Rumen and Large Intestine",
+        "journal": "",
+        "year": 1997,
+        "citations": 103,
+        "authors": "Cecil W. Forsberg, K.-J. Cheng, Bryan A. White",
+        "authors_list": [
+            "Cecil W. Forsberg",
+            "K.-J. Cheng",
+            "Bryan A. White"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0114804",
+        "title": "IM-TORNADO: A Tool for Comparison of 16S Reads from Paired-End Libraries",
+        "journal": "PLoS ONE",
+        "year": 2014,
+        "citations": 102,
+        "authors": "Patricio Jeraldo, Krishna R. Kalari, Xianfeng Chen et al.",
+        "authors_list": [
+            "Patricio Jeraldo",
+            "Krishna R. Kalari",
+            "Xianfeng Chen",
+            "Jaysheel Bhavsar",
+            "Ashutosh K. Mangalam",
+            "Bryan A. White",
+            "Heidi Nelson",
+            "Jean-Pierre A. Kocher",
+            "Nicholas Chia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0114804&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0099221",
+        "title": "Rumen Cellulosomics: Divergent Fiber-Degrading Strategies Revealed by Comparative Genome-Wide Analysis of Six Ruminococcal Strains",
+        "journal": "PLoS ONE",
+        "year": 2014,
+        "citations": 99,
+        "authors": "Bareket Dassa, Ilya Borovok, Vered Ruimy-Israeli et al.",
+        "authors_list": [
+            "Bareket Dassa",
+            "Ilya Borovok",
+            "Vered Ruimy-Israeli",
+            "Raphael Lamed",
+            "Harry J. Flint",
+            "Sylvia H. Duncan",
+            "Bernard Henrissat",
+            "Pedro M. Coutinho",
+            "Mark Morrison",
+            "Pascale Mosoni",
+            "Carl J. Yeoman",
+            "Bryan A. White",
+            "Edward A. Bayer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0099221&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0003-2697(90)90433-a",
+        "title": "Detection of glycoproteins separated by nondenaturing polyacrylamide gel electrophoresis using the periodic acid-Schiff stain",
+        "journal": "Analytical Biochemistry",
+        "year": 1990,
+        "citations": 99,
+        "authors": "Kinchel C. Doerner, Bryan A. White",
+        "authors_list": [
+            "Kinchel C. Doerner",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/133.6.1845",
+        "title": "Fermentable Fiber Reduces Recovery Time and Improves Intestinal Function in Piglets Following Salmonella typhimurium Infection",
+        "journal": "Journal of Nutrition",
+        "year": 2003,
+        "citations": 98,
+        "authors": "Nancy J. Correa‐Matos, Sharon M. Donovan, Richard E. Isaacson et al.",
+        "authors_list": [
+            "Nancy J. Correa‐Matos",
+            "Sharon M. Donovan",
+            "Richard E. Isaacson",
+            "H. Rex Gaskins",
+            "Bryan A. White",
+            "Kelly A. Tappenden"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jn/article-pdf/133/6/1845/24014557/4w0603001845.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/1365-2656.12781",
+        "title": "Social behaviour and gut microbiota in red‐bellied lemurs (<i><scp>E</scp>ulemur rubriventer</i>): In search of the role of immunity in the evolution of sociality",
+        "journal": "Journal of Animal Ecology",
+        "year": 2017,
+        "citations": 94,
+        "authors": "Aura Raulo, Lasse Ruokolainen, Avery Lane et al.",
+        "authors_list": [
+            "Aura Raulo",
+            "Lasse Ruokolainen",
+            "Avery Lane",
+            "Katherine R. Amato",
+            "Rob Knight",
+            "Steven R. Leigh",
+            "Rebecca M. Stumpf",
+            "Bryan A. White",
+            "Karen E. Nelson",
+            "Andrea L. Baden",
+            "Stacey R. Tecot"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 94,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2656.12781"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3487553.3524629",
+        "title": "Characterizing the OpenSea NFT Marketplace",
+        "journal": "Companion Proceedings of the Web Conference 2022",
+        "year": 2022,
+        "citations": 93,
+        "authors": "Bryan A. White, Aniket Mahanti, Kalpdrum Passi",
+        "authors_list": [
+            "Bryan A. White",
+            "Aniket Mahanti",
+            "Kalpdrum Passi"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 93,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.biocon.2016.03.035",
+        "title": "Microbiomes, metagenomics, and primate conservation: New strategies, tools, and applications",
+        "journal": "Biological Conservation",
+        "year": 2016,
+        "citations": 92,
+        "authors": "Rebecca M. Stumpf, Andrés Gómez, Katherine R. Amato et al.",
+        "authors_list": [
+            "Rebecca M. Stumpf",
+            "Andrés Gómez",
+            "Katherine R. Amato",
+            "Carl J. Yeoman",
+            "John D. Polk",
+            "Brenda A. Wilson",
+            "Kenrad E. Nelson",
+            "Bryan A. White",
+            "Steven R. Leigh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 92,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0006320716301227"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1462-2920.2004.00575.x",
+        "title": "Suppressive subtractive hybridization as a tool for identifying genetic diversity in an environmental metagenome: the rumen as a model",
+        "journal": "Environmental Microbiology",
+        "year": 2004,
+        "citations": 92,
+        "authors": "E.A. Galbraith, Dionysios A. Antonopoulos, Bryan A. White",
+        "authors_list": [
+            "E.A. Galbraith",
+            "Dionysios A. Antonopoulos",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 92,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3168/jds.2016-11007",
+        "title": "Changes in the intestinal bacterial community, short-chain fatty acid profile, and intestinal development of preweaned Holstein calves. 2. Effects of gastrointestinal site and age",
+        "journal": "Journal of Dairy Science",
+        "year": 2016,
+        "citations": 82,
+        "authors": "J. Castro, Andrés Gómez, Bryan A. White et al.",
+        "authors_list": [
+            "J. Castro",
+            "Andrés Gómez",
+            "Bryan A. White",
+            "J.R. Loften",
+            "J.K. Drackley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.journalofdairyscience.org/article/S0022030216306695/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ymeth.2018.04.024",
+        "title": "Synthesis of multi-omic data and community metabolic models reveals insights into the role of hydrogen sulfide in colon cancer",
+        "journal": "Methods",
+        "year": 2018,
+        "citations": 80,
+        "authors": "Vanessa L. Hale, Patricio Jeraldo, Michael Mundy et al.",
+        "authors_list": [
+            "Vanessa L. Hale",
+            "Patricio Jeraldo",
+            "Michael Mundy",
+            "Janet Yao",
+            "Gary Keeney",
+            "Nancy E. Scott",
+            "Elizabeth Cheek",
+            "Jennifer Davidson",
+            "Megan Greene",
+            "Christine Martinez",
+            "John H. Lehman",
+            "Chandra Pettry",
+            "Erica Reed",
+            "Kelly Lyke",
+            "Bryan A. White",
+            "Christian Diener",
+            "Osbaldo Reséndis-Antonio",
+            "Jaime Gransee",
+            "Tumpa Dutta",
+            "Xuan-Mai Petterson",
+            "Lisa A. Boardman",
+            "David W. Larson",
+            "Heidi Nelson",
+            "Nicholas Chia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/6191348"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/msphere.00271-19",
+        "title": "Plasticity in the Human Gut Microbiome Defies Evolutionary Constraints",
+        "journal": "mSphere",
+        "year": 2019,
+        "citations": 78,
+        "authors": "Andrés Gómez, Ashok Sharma, Elizabeth K. Mallott et al.",
+        "authors_list": [
+            "Andrés Gómez",
+            "Ashok Sharma",
+            "Elizabeth K. Mallott",
+            "Klára J. Petrželková",
+            "Carolyn A. Jost Robinson",
+            "Carl J. Yeoman",
+            "Franck Carbonero",
+            "Barbora Pafčo",
+            "Jessica M. Rothman",
+            "Alexander Ulanov",
+            "Klára Vlčková",
+            "Katherine R. Amato",
+            "Stephanie L. Schnorr",
+            "Nathaniel J. Dominy",
+            "David Modrý",
+            "Angelique Todd",
+            "Manolito Torralba",
+            "Karen E. Nelson",
+            "Michael B. Burns",
+            "Ran Blekhman",
+            "Melissa J. Remis",
+            "Rebecca M. Stumpf",
+            "Brenda A. Wilson",
+            "H. Rex Gaskins",
+            "Paul A. Garber",
+            "Bryan A. White",
+            "Steven R. Leigh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://msphere.asm.org/content/msph/4/4/e00271-19.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1099/00207713-51-2-293",
+        "title": "Characterization of two novel saccharolytic, anaerobic thermophiles, Thermoanaerobacterium polysaccharolyticum sp. nov. and Thermoanaerobacterium zeae sp. nov., and emendation of the genus Thermoanaerobacterium.",
+        "journal": "INTERNATIONAL JOURNAL OF SYSTEMATIC AND EVOLUTIONARY MICROBIOLOGY",
+        "year": 2001,
+        "citations": 78,
+        "authors": "Isaac Cann, Peter G. Stroot, K R Mackie et al.",
+        "authors_list": [
+            "Isaac Cann",
+            "Peter G. Stroot",
+            "K R Mackie",
+            "Bryan A. White",
+            "Roderick I. Mackie"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/srep26083",
+        "title": "Stool-based biomarkers of interstitial cystitis/bladder pain syndrome",
+        "journal": "Scientific Reports",
+        "year": 2016,
+        "citations": 78,
+        "authors": "Andrea Braundmeier‐Fleming, Nathan T. Russell, Wen‐Bin Yang et al.",
+        "authors_list": [
+            "Andrea Braundmeier‐Fleming",
+            "Nathan T. Russell",
+            "Wen‐Bin Yang",
+            "Megan Y. Nas",
+            "Ryan E. Yaggie",
+            "Matthew Berry",
+            "Laurie Bachrach",
+            "Sarah C. Flury",
+            "Darlene S. Marko",
+            "Colleen Bushell",
+            "Michael Welge",
+            "Bryan A. White",
+            "Anthony J. Schaeffer",
+            "David J. Klumpp"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/srep26083.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.7717/peerj.1398",
+        "title": "Persistent microbial dysbiosis in preterm premature rupture of membranes from onset until delivery",
+        "journal": "PeerJ",
+        "year": 2015,
+        "citations": 77,
+        "authors": "Elizabeth Baldwin, Marina Walther-António, Allison Maclean et al.",
+        "authors_list": [
+            "Elizabeth Baldwin",
+            "Marina Walther-António",
+            "Allison Maclean",
+            "Daryl M. Gohl",
+            "Kenneth B. Beckman",
+            "Jun Chen",
+            "Bryan A. White",
+            "Douglas J. Creedon",
+            "Nicholas Chia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.7717/peerj.1398"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/jb.169.10.4581-4588.1987",
+        "title": "Purification and characterization of an exo-beta-1,4-glucanase from Ruminococcus flavefaciens FD-1",
+        "journal": "Journal of Bacteriology",
+        "year": 1987,
+        "citations": 77,
+        "authors": "Robert Gardner, Karl F. Doerner, Bryan A. White",
+        "authors_list": [
+            "Robert Gardner",
+            "Karl F. Doerner",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/213825"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0012476",
+        "title": "Abundance and Diversity of Dockerin-Containing Proteins in the Fiber-Degrading Rumen Bacterium, Ruminococcus flavefaciens FD-1",
+        "journal": "PLoS ONE",
+        "year": 2010,
+        "citations": 74,
+        "authors": "Marco T. Rincón, Bareket Dassa, Harry J. Flint et al.",
+        "authors_list": [
+            "Marco T. Rincón",
+            "Bareket Dassa",
+            "Harry J. Flint",
+            "Anthony J. Travis",
+            "Sadanari Jindou",
+            "Ilya Borovok",
+            "Raphael Lamed",
+            "Edward A. Bayer",
+            "Bernard Henrissat",
+            "Pedro M. Coutinho",
+            "Dion Antonopoulos",
+            "Margret E. Berg Miller",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0012476&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.60.10.3697-3703.1994",
+        "title": "The use of 16S rRNA-targeted oligonucleotide probes to study competition between ruminal fibrolytic bacteria: pure-culture studies with cellulose and alkaline peroxide-treated wheat straw",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 1994,
+        "citations": 73,
+        "authors": "A.A. Odenyo, Roderick I. Mackie, David A. Stahl et al.",
+        "authors_list": [
+            "A.A. Odenyo",
+            "Roderick I. Mackie",
+            "David A. Stahl",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/60/10/3697.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4899-7475-4",
+        "title": "Encyclopedia of Metagenomics",
+        "journal": "",
+        "year": 2015,
+        "citations": 70,
+        "authors": "Sarah K. Highlander, Francisco Rodríguez‐Valera, Bryan A. White",
+        "authors_list": [
+            "Sarah K. Highlander",
+            "Francisco Rodríguez‐Valera",
+            "Bryan A. White"
+        ],
+        "type": "reference-entry",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/bfm%3A978-1-4899-7475-4%2F1.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.57.1.64-68.1991",
+        "title": "Cellobiose uptake and metabolism by Ruminococcus flavefaciens",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 1991,
+        "citations": 62,
+        "authors": "Carla T. Helaszek, Bryan A. White",
+        "authors_list": [
+            "Carla T. Helaszek",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/57/1/64.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s12864-016-2472-1",
+        "title": "Unraveling the pectinolytic function of Bacteroides xylanisolvens using a RNA-seq approach and mutagenesis",
+        "journal": "BMC Genomics",
+        "year": 2016,
+        "citations": 62,
+        "authors": "Jordane Despres, Évelyne Forano, Pascale Lepercq et al.",
+        "authors_list": [
+            "Jordane Despres",
+            "Évelyne Forano",
+            "Pascale Lepercq",
+            "Sophie Comtet-Marre",
+            "Grégory Jubelin",
+            "Carl J. Yeoman",
+            "Margret E. Berg Miller",
+            "Christopher J. Fields",
+            "Nicolas Terrapon",
+            "Carine Le Bourvellec",
+            "Catherine M.G.C. Renard",
+            "Bernard Henrissat",
+            "Bryan A. White",
+            "Pascale Mosoni"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1186/s12864-016-2472-1.pdf"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Gastrointestinal microbes and host interactions",
+        "journal": "Chapman & Hall eBooks",
+        "year": 1997,
+        "citations": 60,
+        "authors": "R. I. Mackie, Bryan A. White, Richard E. Isaacson",
+        "authors_list": [
+            "R. I. Mackie",
+            "Bryan A. White",
+            "Richard E. Isaacson"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0022-2275(20)37894-9",
+        "title": "Separation of 7 alpha- and 7 beta-hydroxysteroid dehydrogenase activities from clostridium absonum ATCC# 27555 and cellular response of this organism to bile acid inducers.",
+        "journal": "Journal of Lipid Research",
+        "year": 1983,
+        "citations": 60,
+        "authors": "Ian Macdonald, Bryan A. White, Phillip B. Hylemon",
+        "authors_list": [
+            "Ian Macdonald",
+            "Bryan A. White",
+            "Phillip B. Hylemon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0022-2275(20)37894-9"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/mbio.03533-20",
+        "title": "<i>In Vivo</i> Competitions between Fibrobacter succinogenes, Ruminococcus flavefaciens, and Ruminoccus albus in a Gnotobiotic Sheep Model Revealed by Multi-Omic Analyses",
+        "journal": "mBio",
+        "year": 2021,
+        "citations": 60,
+        "authors": "Carl J. Yeoman, Christopher J. Fields, Pascale Lepercq et al.",
+        "authors_list": [
+            "Carl J. Yeoman",
+            "Christopher J. Fields",
+            "Pascale Lepercq",
+            "Philippe Ruiz",
+            "Évelyne Forano",
+            "Bryan A. White",
+            "Pascale Mosoni"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1128/mbio.03533-20"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0022-2275(20)38183-9",
+        "title": "7 beta-Dehydroxylation of ursodeoxycholic acid by whole cells and cell extracts of the intestinal anaerobic bacterium, Eubacterium species V.P.I. 12708.",
+        "journal": "Journal of Lipid Research",
+        "year": 1982,
+        "citations": 60,
+        "authors": "Bryan A. White, R J Fricke, Phillip B. Hylemon",
+        "authors_list": [
+            "Bryan A. White",
+            "R J Fricke",
+            "Phillip B. Hylemon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0022-2275(20)38183-9"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3389/fphys.2015.00097",
+        "title": "Individualized medicine and the microbiome in reproductive tract",
+        "journal": "Frontiers in Physiology",
+        "year": 2015,
+        "citations": 59,
+        "authors": "Andrea Braundmeier, K Lenz, Kristin S. Inman et al.",
+        "authors_list": [
+            "Andrea Braundmeier",
+            "K Lenz",
+            "Kristin S. Inman",
+            "Nicholas Chia",
+            "Patricio Jeraldo",
+            "Marina Walther-António",
+            "Margret E. Berg Miller",
+            "Fang Yang",
+            "Douglas J. Creedon",
+            "Heidi D Nelson",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.frontiersin.org/articles/10.3389/fphys.2015.00097/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/jb.00973-06",
+        "title": "Conservation and Divergence in Cellulosome Architecture between Two Strains of<i>Ruminococcus flavefaciens</i>",
+        "journal": "Journal of Bacteriology",
+        "year": 2006,
+        "citations": 59,
+        "authors": "Sadanari Jindou, Ilya Borovok, Marco T. Rincón et al.",
+        "authors_list": [
+            "Sadanari Jindou",
+            "Ilya Borovok",
+            "Marco T. Rincón",
+            "Harry J. Flint",
+            "Dionysios A. Antonopoulos",
+            "Margret E. Berg",
+            "Bryan A. White",
+            "Edward A. Bayer",
+            "Raphael Lamed"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/1636321"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1079/9780851994635.0061",
+        "title": "Molecular ecology and diversity in gut microbial ecosystems.",
+        "journal": "CABI Publishing eBooks",
+        "year": 2000,
+        "citations": 58,
+        "authors": "Roderick I. Mackie, Rustam Aminov, Bryan A. White et al.",
+        "authors_list": [
+            "Roderick I. Mackie",
+            "Rustam Aminov",
+            "Bryan A. White",
+            "Christopher S. McSweeney"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/e13030570",
+        "title": "Towards an Evolutionary Model of Animal-Associated Microbiomes",
+        "journal": "Entropy",
+        "year": 2011,
+        "citations": 56,
+        "authors": "Carl J. Yeoman, Nicholas Chia, Süleyman Yıldırım et al.",
+        "authors_list": [
+            "Carl J. Yeoman",
+            "Nicholas Chia",
+            "Süleyman Yıldırım",
+            "Margret E. Berg Miller",
+            "Angela D. Kent",
+            "Rebecca M. Stumpf",
+            "Steven R. Leigh",
+            "Karen E. Nelson",
+            "Bryan A. White",
+            "Brenda A. Wilson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/1099-4300/13/3/570/pdf?version=1424784807"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/jb.181.5.1643-1651.1999",
+        "title": "Molecular Cloning, Sequencing, and Expression of a Novel Multidomain Mannanase Gene from <i>Thermoanaerobacterium polysaccharolyticum</i>",
+        "journal": "Journal of Bacteriology",
+        "year": 1999,
+        "citations": 56,
+        "authors": "Isaac Cann, Svetlana A. Kocherginskaya, Michael R. King et al.",
+        "authors_list": [
+            "Isaac Cann",
+            "Svetlana A. Kocherginskaya",
+            "Michael R. King",
+            "Bryan A. White",
+            "Roderick I. Mackie"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://jb.asm.org/content/jb/181/5/1643.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1574-6968.2008.01234.x",
+        "title": "Cellulosome gene cluster analysis for gauging the diversity of the ruminal cellulolytic bacterium<i>Ruminococcus flavefaciens</i>",
+        "journal": "FEMS Microbiology Letters",
+        "year": 2008,
+        "citations": 55,
+        "authors": "Sadanari Jindou, Jennifer M. Brulc, Maly Levy-Assaraf et al.",
+        "authors_list": [
+            "Sadanari Jindou",
+            "Jennifer M. Brulc",
+            "Maly Levy-Assaraf",
+            "Marco T. Rincón",
+            "Harry J. Flint",
+            "Margret E. Berg",
+            "Melissa K. Wilson",
+            "Bryan A. White",
+            "Edward A. Bayer",
+            "Raphael Lamed",
+            "Ilya Borovok"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/femsle/article-pdf/285/2/188/19607181/285-2-188.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.00281-15",
+        "title": "The Intestinal Microbiota Influences Campylobacter jejuni Colonization and Extraintestinal Dissemination in Mice",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 2015,
+        "citations": 54,
+        "authors": "Jason L. O’Loughlin, Derrick R. Samuelson, Andrea Braundmeier‐Fleming et al.",
+        "authors_list": [
+            "Jason L. O’Loughlin",
+            "Derrick R. Samuelson",
+            "Andrea Braundmeier‐Fleming",
+            "Bryan A. White",
+            "Gary J. Haldorson",
+            "Jennifer B. Stone",
+            "Jeremy J. Lessmann",
+            "Tyson P. Eucker",
+            "Michael E. Konkel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/81/14/4642.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.54.4.890-897.1988",
+        "title": "Inhibitory Effects of Methylcellulose on Cellulose Degradation by <i>Ruminococcus flavefaciens</i>",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 1988,
+        "citations": 53,
+        "authors": "Mark Rasmussen, Robert B. Hespell, Bryan A. White et al.",
+        "authors_list": [
+            "Mark Rasmussen",
+            "Robert B. Hespell",
+            "Bryan A. White",
+            "R. J. Bothast"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/54/4/890.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0022-2275(20)37326-0",
+        "title": "Cofactor requiremets for 7 alpha-dehydroxylation of cholic and chenodeoxycholic acid in cell extracts of the intestinal anaerobic bacterium, Eubacterium species V.P.I. 13708.",
+        "journal": "Journal of Lipid Research",
+        "year": 1981,
+        "citations": 52,
+        "authors": "Bryan A. White, Anthony Cacciapuoti, R J Fricke et al.",
+        "authors_list": [
+            "Bryan A. White",
+            "Anthony Cacciapuoti",
+            "R J Fricke",
+            "Terence R. Whitehead",
+            "E.H. Mosbach",
+            "Phillip B. Hylemon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0022-2275(20)37326-0"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.56.6.1844-1850.1990",
+        "title": "Assessment of the endo-1,4-beta-glucanase components of Ruminococcus flavefaciens FD-1",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 1990,
+        "citations": 49,
+        "authors": "Karl F. Doerner, Bryan A. White",
+        "authors_list": [
+            "Karl F. Doerner",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/56/6/1844.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/srep42355",
+        "title": "Complexity of the Ruminococcus flavefaciens FD-1 cellulosome reflects an expansion of family-related protein-protein interactions",
+        "journal": "Scientific Reports",
+        "year": 2017,
+        "citations": 49,
+        "authors": "Vered Israeli-Ruimy, Pedro Bule, Sadanari Jindou et al.",
+        "authors_list": [
+            "Vered Israeli-Ruimy",
+            "Pedro Bule",
+            "Sadanari Jindou",
+            "Bareket Dassa",
+            "Sarah Moraïs",
+            "Ilya Borovok",
+            "Yoav Barak",
+            "Michal Slutzki",
+            "Yuval Hamberg",
+            "Vânia Cardoso",
+            "Victor D. Alves",
+            "Shabir Najmudin",
+            "Bryan A. White",
+            "Harry J. Flint",
+            "Harry J. Gilbert",
+            "Raphael Lamed",
+            "C.M.G.A. Fontes",
+            "Edward A. Bayer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/srep42355.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.54.7.1752-1755.1988",
+        "title": "Molecular Cloning and Expression of Cellulase Genes from <i>Ruminococcus albus</i> 8 in <i>Escherichia coli</i> Bacteriophage λ",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 1988,
+        "citations": 49,
+        "authors": "Gary T. Howard, Bryan A. White",
+        "authors_list": [
+            "Gary T. Howard",
+            "Bryan A. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/54/7/1752.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0053969",
+        "title": "Modulation of Systemic Immune Responses through Commensal Gastrointestinal Microbiota",
+        "journal": "PLoS ONE",
+        "year": 2013,
+        "citations": 48,
+        "authors": "Kyle M. Schachtschneider, Carl J. Yeoman, Richard E. Isaacson et al.",
+        "authors_list": [
+            "Kyle M. Schachtschneider",
+            "Carl J. Yeoman",
+            "Richard E. Isaacson",
+            "Bryan A. White",
+            "Lawrence B. Schook",
+            "Maria Pieters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0053969&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3168/jds.2016-11006",
+        "title": "Changes in the intestinal bacterial community, short-chain fatty acid profile, and intestinal development of preweaned Holstein calves. 1. Effects of prebiotic supplementation depend on site and age",
+        "journal": "Journal of Dairy Science",
+        "year": 2016,
+        "citations": 48,
+        "authors": "J. Castro, Andrés Gómez, Bryan A. White et al.",
+        "authors_list": [
+            "J. Castro",
+            "Andrés Gómez",
+            "Bryan A. White",
+            "Heather Mangian",
+            "J.R. Loften",
+            "J.K. Drackley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.journalofdairyscience.org/article/S0022030216306683/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1249/mss.0000000000001495",
+        "title": "Exercise Alters Gut Microbiota Composition and Function in Lean and Obese Humans",
+        "journal": "Medicine &amp; Science in Sports &amp; Exercise",
+        "year": 2018,
+        "citations": 709,
+        "authors": "JACOB M. ALLEN, LUCY J. MAILING, GRACE M. NIEMIRO et al.",
+        "authors_list": [
+            "JACOB M. ALLEN",
+            "LUCY J. MAILING",
+            "GRACE M. NIEMIRO",
+            "RACHEL MOORE",
+            "MARC D. COOK",
+            "BRYAN A. WHITE",
+            "HANNAH D. HOLSCHER",
+            "JEFFREY A. WOODS"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 709
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/ismej.2010.162",
+        "title": "Phylogenetic and gene-centric metagenomics of the canine intestinal microbiome reveals similarities with humans and mice",
+        "journal": "The ISME Journal",
+        "year": 2011,
+        "citations": 300,
+        "authors": "Kelly S Swanson, Scot E Dowd, Jan S Suchodolski et al.",
+        "authors_list": [
+            "Kelly S Swanson",
+            "Scot E Dowd",
+            "Jan S Suchodolski",
+            "Ingmar S Middelbos",
+            "Brittany M Vester",
+            "Kathleen A Barry",
+            "Karen E Nelson",
+            "Manolito Torralba",
+            "Bernard Henrissat",
+            "Pedro M Coutinho",
+            "Isaac K O Cann",
+            "Bryan A White",
+            "George C Fahey"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 300
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ismej2010162.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/s41396-018-0175-0",
+        "title": "Evolutionary trends in host physiology outweigh dietary niche in structuring primate gut microbiomes",
+        "journal": "The ISME Journal",
+        "year": 2019,
+        "citations": 294,
+        "authors": "Katherine R Amato, Jon G Sanders, Se Jin Song et al.",
+        "authors_list": [
+            "Katherine R Amato",
+            "Jon G Sanders",
+            "Se Jin Song",
+            "Michael Nute",
+            "Jessica L Metcalf",
+            "Luke R Thompson",
+            "James T Morton",
+            "Amnon Amir",
+            "Valerie J McKenzie",
+            "Gregory Humphrey",
+            "Grant Gogul",
+            "James Gaffney",
+            "Andrea L Baden",
+            "Gillian A O Britton",
+            "Frank P Cuozzo",
+            "Anthony Di Fiore",
+            "Nathaniel J Dominy",
+            "Tony L Goldberg",
+            "Andres Gomez",
+            "Martin M Kowalewski",
+            "Rebecca J Lewis",
+            "Andres Link",
+            "Michelle L Sauther",
+            "Stacey Tecot",
+            "Bryan A White",
+            "Karen E Nelson",
+            "Rebecca M Stumpf",
+            "Rob Knight",
+            "Steven R Leigh"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 294
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41396-018-0175-0.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1007/s00248-014-0554-7",
+        "title": "The Gut Microbiota Appears to Compensate for Seasonal Diet Variation in the Wild Black Howler Monkey (Alouatta pigra)",
+        "journal": "Microbial Ecology",
+        "year": 2015,
+        "citations": 274,
+        "authors": "Katherine R. Amato, Steven R. Leigh, Angela Kent et al.",
+        "authors_list": [
+            "Katherine R. Amato",
+            "Steven R. Leigh",
+            "Angela Kent",
+            "Roderick I. Mackie",
+            "Carl J. Yeoman",
+            "Rebecca M. Stumpf",
+            "Brenda A. Wilson",
+            "Karen E. Nelson",
+            "Bryan A. White",
+            "Paul A. Garber"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 274
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1371/journal.pone.0009768",
+        "title": "Phylogenetic Characterization of Fecal Microbial Communities of Dogs Fed Diets with or without Supplemental Dietary Fiber Using 454 Pyrosequencing",
+        "journal": "PLoS ONE",
+        "year": null,
+        "citations": 235,
+        "authors": "Ingmar S. Middelbos, Brittany M. Vester Boler, Ani Qu et al.",
+        "authors_list": [
+            "Ingmar S. Middelbos",
+            "Brittany M. Vester Boler",
+            "Ani Qu",
+            "Bryan A. White",
+            "Kelly S. Swanson",
+            "George C. Fahey"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 235
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0009768&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/npjbiofilms.2016.4",
+        "title": "A perspective on 16S rRNA operational taxonomic unit clustering using sequence similarity",
+        "journal": "npj Biofilms and Microbiomes",
+        "year": null,
+        "citations": 243,
+        "authors": "Nam-Phuong Nguyen, Tandy Warnow, Mihai Pop et al.",
+        "authors_list": [
+            "Nam-Phuong Nguyen",
+            "Tandy Warnow",
+            "Mihai Pop",
+            "Bryan White"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 243
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/npjbiofilms20164.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1371/journal.pone.0002945",
+        "title": "Comparative Metagenomics Reveals Host Specific Metavirulomes and Horizontal Gene Transfer Elements in the Chicken Cecum Microbiome",
+        "journal": "PLoS ONE",
+        "year": null,
+        "citations": 236,
+        "authors": "Ani Qu, Jennifer M. Brulc, Melissa K. Wilson et al.",
+        "authors_list": [
+            "Ani Qu",
+            "Jennifer M. Brulc",
+            "Melissa K. Wilson",
+            "Bibiana F. Law",
+            "James R. Theoret",
+            "Lynn A. Joens",
+            "Michael E. Konkel",
+            "Florent Angly",
+            "Elizabeth A. Dinsdale",
+            "Robert A. Edwards",
+            "Karen E. Nelson",
+            "Bryan A. White"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 236
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0002945&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1371/journal.pone.0013963",
+        "title": "Characterization of the Fecal Microbiome from Non-Human Wild Primates Reveals Species Specific Microbial Communities",
+        "journal": "PLoS ONE",
+        "year": null,
+        "citations": 211,
+        "authors": "Suleyman Yildirim, Carl J. Yeoman, Maksim Sipos et al.",
+        "authors_list": [
+            "Suleyman Yildirim",
+            "Carl J. Yeoman",
+            "Maksim Sipos",
+            "Manolito Torralba",
+            "Brenda A. Wilson",
+            "Tony L. Goldberg",
+            "Rebecca M. Stumpf",
+            "Steven R. Leigh",
+            "Bryan A. White",
+            "Karen E. Nelson"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 211
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0013963&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1128/aem.68.4.1786-1793.2002",
+        "title": "Development, Validation, and Application of PCR Primers for Detection of Tetracycline Efflux Genes of Gram-Negative Bacteria",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 2002,
+        "citations": 193,
+        "authors": "R. I. Aminov, J. C. Chee-Sanford, N. Garrigues et al.",
+        "authors_list": [
+            "R. I. Aminov",
+            "J. C. Chee-Sanford",
+            "N. Garrigues",
+            "B. Teferedegne",
+            "I. J. Krapac",
+            "B. A. White",
+            "R. I. Mackie"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 193
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/68/4/1786.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1073/pnas.80.17.5369",
+        "title": "Modification of Streptococcus faecalis sex pheromones after acquisition of plasmid DNA.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1983,
+        "citations": 177,
+        "authors": "Y Ike, R A Craig, B A White et al.",
+        "authors_list": [
+            "Y Ike",
+            "R A Craig",
+            "B A White",
+            "Y Yagi",
+            "D B Clewell"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 177
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/384257"
+        }
+    }
+]

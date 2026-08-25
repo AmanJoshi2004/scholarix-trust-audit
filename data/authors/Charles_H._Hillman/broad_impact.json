@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33161407/",
+        "snippet": "A Review of the Effects of Physical Activity on Cognition and Brain Health across Children and Adolescence · Abstract · Publication types · MeSH terms.",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is a PubMed link, indicating it's a scientific publication, and the snippet mentions 'Abstract' and 'MeSH terms', typical of academic publications."
+    },
+    {
+        "url": "https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdep.12000",
+        "snippet": "Physical Activity and Cognitive Control: Implications for Drug Abuse. Charles H. Hillman, ... physical activity on cognition in children. A ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "DOI and onlinelibrary.wiley.com indicate a peer-reviewed academic publication"
+    },
+    {
+        "url": "https://cos.northeastern.edu/wp-content/uploads/2022/06/Hillman-CV-NEU.pdf",
+        "snippet": "Charles H. Hillman, Ph.D. Professor. Center for Cognitive & Brain ... Conference 2016. British Journal of Sports Medicine, 50, 1177-1178 ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet describes a professor's CV, which is a common format for academic publications."
+    },
+    {
+        "url": "https://www.amazon.ae/-/ar/Charles-H-Hillman/dp/1119038588",
+        "snippet": "Charles H. Hillman. محرر · Carol L. Cheatham. تعليق ... Many schools have minimized physical activity opportunities despite a growing literature indicating their ...",
+        "category": "Publication",
+        "relevance_score": 92,
+        "reasoning": "The URL appears to be a book page on Amazon, and the snippet mentions an editor and contributors"
+    },
+    {
+        "url": "https://journals.humankinetics.com/view/journals/krj/6/1/article-p12.xml",
+        "snippet": "More recently, a similar research thread has emerged in school-aged children, which offers insight into the relation of physical activity to ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL is for a academic journal article, indicating it's a publication of research."
+    },
+    {
+        "url": "https://www.sciencedirect.com/science/article/pii/S1878929313000911",
+        "snippet": "Mark R. Scudder a , Lauren B. Raine , R. Davis Moore a , Brian J. Saliba a , Matthew B. Pontifex , Charles H. Hillman. Show more. Add to Mendeley. Share. Cite.",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL indicates a scientific article on the ScienceDirect platform, and the snippet contains author information."
+    },
+    {
+        "url": "https://www.education.msu.edu/kin/hbcl/_files/Hillman_2009_AcuteAerobicExerciseEffects.pdf",
+        "snippet": "on event-related brain potentials. Charles H. Hillman, Matthew Pontifex and Jason R. Themanson. The study of acute exercise effects on neurocognitive function ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The snippet describes a specific study by Hillman et al. and provides a PDF link, indicating an academic publication."
+    },
+    {
+        "url": "https://odphp.health.gov/our-work/nutrition-physical-activity/physical-activity-guidelines/current-guidelines/advisory-committee/committee-members/charles-h-hillman-phd",
+        "snippet": "Charles H. Hillman, PhD. Department of Psychology Department of Health ... Physical Activity and Physical Education to School. His work has been funded ...",
+        "category": "Publication",
+        "relevance_score": 88,
+        "reasoning": "The snippet appears to be a brief bio of an expert in the field, likely from a publication or academic website."
+    }
+]

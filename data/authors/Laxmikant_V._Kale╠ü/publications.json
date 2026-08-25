@@ -1,0 +1,3519 @@
+[
+    {
+        "doi": "https://doi.org/10.1002/jcc.20289",
+        "title": "Scalable molecular dynamics with NAMD",
+        "journal": "Journal of Computational Chemistry",
+        "year": 2005,
+        "citations": 17444,
+        "authors": "J. C. Phillips, Rosemary Braun, Wei Wang et al.",
+        "authors_list": [
+            "J. C. Phillips",
+            "Rosemary Braun",
+            "Wei Wang",
+            "James C. Gumbart",
+            "Emad Tajkhorshid",
+            "Elizabeth Villa",
+            "Christophe Chipot",
+            "Robert D. Skeel",
+            "Laxmikant V. Kalé",
+            "Klaus Schulten"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 17444,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcc.20289"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/5.0014475",
+        "title": "Scalable molecular dynamics on CPU and GPU architectures with NAMD",
+        "journal": "The Journal of Chemical Physics",
+        "year": 2020,
+        "citations": 3318,
+        "authors": "J. C. Phillips, David J. Hardy, Julio D. C. Maia et al.",
+        "authors_list": [
+            "J. C. Phillips",
+            "David J. Hardy",
+            "Julio D. C. Maia",
+            "John E. Stone",
+            "João V. Ribeiro",
+            "Rafael C. Bernardi",
+            "Ronak Buch",
+            "Giacomo Fiorin",
+            "Jérôme Hénin",
+            "Wei Jiang",
+            "Ryan McGreevy",
+            "Marcelo C. R. Melo",
+            "Brian K. Radak",
+            "Robert D. Skeel",
+            "Abhishek Singharoy",
+            "Yi Wang",
+            "Benoı̂t Roux",
+            "Aleksei Aksimentiev",
+            "Zaida Luthey‐Schulten",
+            "Laxmikant V. Kalé",
+            "Klaus Schulten",
+            "Christophe Chipot",
+            "Emad Tajkhorshid"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 3318,
+            "crossref": 3077
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/7395834"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1006/jcph.1999.6201",
+        "title": "NAMD2: Greater Scalability for Parallel Molecular Dynamics",
+        "journal": "Journal of Computational Physics",
+        "year": 1999,
+        "citations": 2453,
+        "authors": "Laxmikant V. Kalé, Robert D. Skeel, Milind Bhandarkar et al.",
+        "authors_list": [
+            "Laxmikant V. Kalé",
+            "Robert D. Skeel",
+            "Milind Bhandarkar",
+            "Róbert Brunner",
+            "Attila Gürsoy",
+            "N. Krawetz",
+            "J. C. Phillips",
+            "Aritomo Shinozaki",
+            "Krishnan Varadarajan",
+            "Klaus Schulten"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2453,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/165854.165874",
+        "title": "CHARM++",
+        "journal": "",
+        "year": 1993,
+        "citations": 851,
+        "authors": "Laxmikant V. Kalé, Sanjeev Krishnan",
+        "authors_list": [
+            "Laxmikant V. Kalé",
+            "Sanjeev Krishnan"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 851,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/109434209601000401",
+        "title": "NAMD: a Parallel, Object-Oriented Molecular Dynamics Program",
+        "journal": "The International Journal of Supercomputer Applications and High Performance Computing",
+        "year": 1996,
+        "citations": 568,
+        "authors": "Mark T. Nelson, William Humphrey, Attila Gürsoy et al.",
+        "authors_list": [
+            "Mark T. Nelson",
+            "William Humphrey",
+            "Attila Gürsoy",
+            "Andrew Dalke",
+            "Laxmikant V. Kalé",
+            "Robert D. Skeel",
+            "Klaus Schulten"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 568,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-0-387-09766-4_133",
+        "title": "NAS Parallel Benchmarks",
+        "journal": "",
+        "year": 2011,
+        "citations": 567,
+        "authors": "Laxmikant V. Kalé, Abhinav Bhatelé, Eric J. Bohm et al.",
+        "authors_list": [
+            "Laxmikant V. Kalé",
+            "Abhinav Bhatelé",
+            "Eric J. Bohm",
+            "J. C. Phillips",
+            "David H. Bailey",
+            "Ananth Grama",
+            "Joseph Fogarty",
+            "Hasan Metin Aktulga",
+            "Sagar Pandit",
+            "David Padua",
+            "Hiroshi Takahara",
+            "Guy E. Blelloch",
+            "Robert Latham",
+            "Holger Fröning",
+            "Kieran T. Herley",
+            "David Padua",
+            "Olav Lysne",
+            "Frank Olaf Sem-Jacobsen",
+            "Marı́a Engracia Gómez Requena",
+            "Olav Lysne",
+            "Frank Olaf Sem-Jacobsen",
+            "Danny Hendler",
+            "Alessandro Bardine",
+            "Pierfrancesco Foglia",
+            "Cosimo Antonio Prete",
+            "Marco Solinas",
+            "Michael Garland",
+            "N. Govind",
+            "Eric J. Bylaska",
+            "Wibe A. de Jong",
+            "K. Kowalski",
+            "Tjerk P. Straatsma",
+            "Marat Valiev",
+            "H. van J. J. Dam"
+        ],
+        "type": "reference-entry",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 567,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Scalable Molecular Dynamics with NAMD",
+        "journal": "University of North Texas Digital Library (University of North Texas)",
+        "year": 2012,
+        "citations": 361,
+        "authors": "J. C. Phillips, Klaus Schulten, Abhinav Bhatelé et al.",
+        "authors_list": [
+            "J. C. Phillips",
+            "Klaus Schulten",
+            "Abhinav Bhatelé",
+            "C. Mei",
+            "Yihan Sun",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 361,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/1094342009347767",
+        "title": "Toward Exascale Resilience",
+        "journal": "The International Journal of High Performance Computing Applications",
+        "year": 2009,
+        "citations": 335,
+        "authors": "Franck Cappello, Al Geist, Bill Gropp et al.",
+        "authors_list": [
+            "Franck Cappello",
+            "Al Geist",
+            "Bill Gropp",
+            "Laxmikant V. Kalé",
+            "Bill Kramer",
+            "Marc Snir"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 335,
+            "crossref": 230
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipdps.2004.1303013",
+        "title": "BigSim: a parallel simulator for performance prediction of extremely large parallel machines",
+        "journal": "",
+        "year": 2004,
+        "citations": 215,
+        "authors": "Gengbin Zheng, G. Kakulapati, Laxmikant V. Kalé",
+        "authors_list": [
+            "Gengbin Zheng",
+            "G. Kakulapati",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 215,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.5555/762761.762810",
+        "title": "NAMD: Biomolecular Simulation on Thousands of Processors",
+        "journal": "",
+        "year": 2002,
+        "citations": 209,
+        "authors": "J. C. Phillips, Gengbin Zheng, Sameer Kumar et al.",
+        "authors_list": [
+            "J. C. Phillips",
+            "Gengbin Zheng",
+            "Sameer Kumar",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 209,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1006/jcph.1998.6182",
+        "title": "Algorithmic Challenges in Computational Molecular Biophysics",
+        "journal": "Journal of Computational Physics",
+        "year": 1999,
+        "citations": 193,
+        "authors": "Tamar Schlick, Robert D. Skeel, Axel T. Brünger et al.",
+        "authors_list": [
+            "Tamar Schlick",
+            "Robert D. Skeel",
+            "Axel T. Brünger",
+            "Laxmikant V. Kalé",
+            "John A Board",
+            "Jan Hermans",
+            "Klaus Schulten"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 193,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1006/jcph.1998.6182"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/clustr.2004.1392606",
+        "title": "FTC-Charm++: an in-memory checkpoint-based fault tolerant runtime for Charm++ and MPI",
+        "journal": "",
+        "year": 2005,
+        "citations": 179,
+        "authors": "Gengbin Zheng, Lixia Shi, Laxmikant V. Kalé",
+        "authors_list": [
+            "Gengbin Zheng",
+            "Lixia Shi",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 179,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/167962.165874",
+        "title": "CHARM++",
+        "journal": "ACM SIGPLAN Notices",
+        "year": 1993,
+        "citations": 165,
+        "authors": "Laxmikant V. Kalé, Sanjeev Krishnan",
+        "authors_list": [
+            "Laxmikant V. Kalé",
+            "Sanjeev Krishnan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 165,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s40668-015-0007-9",
+        "title": "Adaptive techniques for clustered N-body cosmological simulations",
+        "journal": "Computational Astrophysics and Cosmology",
+        "year": 2015,
+        "citations": 154,
+        "authors": "Harshitha Menon, Lukasz Wesolowski, Gengbin Zheng et al.",
+        "authors_list": [
+            "Harshitha Menon",
+            "Lukasz Wesolowski",
+            "Gengbin Zheng",
+            "Pritish Jetley",
+            "Laxmikant V. Kalé",
+            "Thomas Quinn",
+            "Fabio Governato"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 154,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://comp-astrophys-cosmol.springeropen.com/track/pdf/10.1186/s40668-015-0007-9"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/sc.2002.10019",
+        "title": "NAMD: Biomolecular Simulation on Thousands of Processors",
+        "journal": "",
+        "year": 2002,
+        "citations": 152,
+        "authors": "J. C. Phillips, Gengbin Zheng, Sameer Kumar et al.",
+        "authors_list": [
+            "J. C. Phillips",
+            "Gengbin Zheng",
+            "Sameer Kumar",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 152,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/sc.2014.71",
+        "title": "Maximizing Throughput of Overprovisioned HPC Data Centers Under a Strict Power Budget",
+        "journal": "",
+        "year": 2014,
+        "citations": 147,
+        "authors": "Osman Sarood, Akhil Langer, Abhishek Gupta et al.",
+        "authors_list": [
+            "Osman Sarood",
+            "Akhil Langer",
+            "Abhishek Gupta",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 147,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/sc.2014.58",
+        "title": "Parallel Programming with Migratable Objects: Charm++ in Practice",
+        "journal": "",
+        "year": 2014,
+        "citations": 147,
+        "authors": "Bilge Acun, Abhishek Gupta, Nikhil Jain et al.",
+        "authors_list": [
+            "Bilge Acun",
+            "Abhishek Gupta",
+            "Nikhil Jain",
+            "Akhil Langer",
+            "Harshitha Menon",
+            "Eric Mikida",
+            "Xiang Ni",
+            "Michael P. Robson",
+            "Yanhua Sun",
+            "Ehsan Totoni",
+            "Lukasz Wesolowski",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 147,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1122971.1122976",
+        "title": "Performance evaluation of adaptive MPI",
+        "journal": "",
+        "year": 2006,
+        "citations": 129,
+        "authors": "Chao Huang, Gengbin Zheng, Laxmikant V. Kalé et al.",
+        "authors_list": [
+            "Chao Huang",
+            "Gengbin Zheng",
+            "Laxmikant V. Kalé",
+            "Sameer Kumar"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 129,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipdps.2008.4536319",
+        "title": "Massively parallel cosmological simulations with ChaNGa",
+        "journal": "Proceedings - IEEE International Parallel and Distributed Processing Symposium",
+        "year": 2008,
+        "citations": 120,
+        "authors": "Pritish Jetley, Filippo Gioachin, Celso L. Mendes et al.",
+        "authors_list": [
+            "Pritish Jetley",
+            "Filippo Gioachin",
+            "Celso L. Mendes",
+            "Laxmikant V. Kalé",
+            "Thomas Quinn"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tpds.2017.2766062",
+        "title": "Argobots: A Lightweight Low-Level Threading and Tasking Framework",
+        "journal": "IEEE Transactions on Parallel and Distributed Systems",
+        "year": 2017,
+        "citations": 119,
+        "authors": "Sangmin Seo, Abdelhalim Amer, Pavan Balaji et al.",
+        "authors_list": [
+            "Sangmin Seo",
+            "Abdelhalim Amer",
+            "Pavan Balaji",
+            "Cyril Bordage",
+            "George Bosilca",
+            "Alex Brooks",
+            "Philip Carns",
+            "Adrián Castelló",
+            "Damien Genet",
+            "Thomas Hérault",
+            "Shintaro Iwasaki",
+            "Prateek Jindal",
+            "Laxmikant V. Kalé",
+            "Sriram Krishnamoorthy",
+            "Jonathan Lifflander",
+            "Huiwei Lu",
+            "Esteban Meneses",
+            "Marc Snir",
+            "Yanhua Sun",
+            "Kenjiro Taura",
+            "Pete Beckman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 119,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1413456"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/dsnw.2012.6264677",
+        "title": "A scalable double in-memory checkpoint and restart scheme towards exascale",
+        "journal": "",
+        "year": 2012,
+        "citations": 100,
+        "authors": "Gengbin Zheng, Xiang Ni, Laxmikant V. Kalé",
+        "authors_list": [
+            "Gengbin Zheng",
+            "Xiang Ni",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 100,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tcc.2014.2339858",
+        "title": "Evaluating and Improving the Performance and Scheduling of HPC Applications in Cloud",
+        "journal": "IEEE Transactions on Cloud Computing",
+        "year": 2014,
+        "citations": 99,
+        "authors": "Abhishek Gupta, Paolo Faraboschi, Filippo Gioachin et al.",
+        "authors_list": [
+            "Abhishek Gupta",
+            "Paolo Faraboschi",
+            "Filippo Gioachin",
+            "Laxmikant V. Kalé",
+            "Richard Kaufmann",
+            "Bu‐Sung Lee",
+            "Verdi March",
+            "Dejan Milojičić",
+            "Chun Hui Suen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.7551/mitpress/5241.003.0009",
+        "title": "CHARM++",
+        "journal": "The MIT Press eBooks",
+        "year": 1996,
+        "citations": 98,
+        "authors": "Laxmikant V. Kalé, Sanjeev Krishnan",
+        "authors_list": [
+            "Laxmikant V. Kalé",
+            "Sanjeev Krishnan"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/sc.2010.49",
+        "title": "Scaling Hierarchical N-body Simulations on GPU Clusters",
+        "journal": "",
+        "year": 2010,
+        "citations": 95,
+        "authors": "Pritish Jetley, Lukasz Wesolowski, Filippo Gioachin et al.",
+        "authors_list": [
+            "Pritish Jetley",
+            "Lukasz Wesolowski",
+            "Filippo Gioachin",
+            "Laxmikant V. Kalé",
+            "Thomas Quinn"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ic2e.2013.38",
+        "title": "HPC-Aware VM Placement in Infrastructure Clouds",
+        "journal": "",
+        "year": 2013,
+        "citations": 95,
+        "authors": "Abhishek Gupta, Laxmikant V. Kalé, Dejan Milojičić et al.",
+        "authors_list": [
+            "Abhishek Gupta",
+            "Laxmikant V. Kalé",
+            "Dejan Milojičić",
+            "Paolo Faraboschi",
+            "Susanne M. Balle"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://zenodo.org/record/3431282"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1147/rd.521.0177",
+        "title": "Scalable molecular dynamics with NAMD on the IBM Blue Gene/L system",
+        "journal": "IBM Journal of Research and Development",
+        "year": 2008,
+        "citations": 94,
+        "authors": "Sameer Kumar, Chao Huang, Guanjie Zheng et al.",
+        "authors_list": [
+            "Sameer Kumar",
+            "Chao Huang",
+            "Guanjie Zheng",
+            "Eric J. Bohm",
+            "Abhinav Bhatelé",
+            "J. C. Phillips",
+            "Hao Yu",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 94,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/cluster.2013.6702684",
+        "title": "Optimizing power allocation to CPU and memory subsystems in overprovisioned HPC systems",
+        "journal": "",
+        "year": 2013,
+        "citations": 93,
+        "authors": "Osman Sarood, Akhil Langer, Laxmikant V. Kalé et al.",
+        "authors_list": [
+            "Osman Sarood",
+            "Akhil Langer",
+            "Laxmikant V. Kalé",
+            "Barry Rountree",
+            "Bronis de Supinski"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 93,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10766-005-3582-6",
+        "title": "Simulation-Based Performance Prediction for Large Parallel Machines",
+        "journal": "International Journal of Parallel Programming",
+        "year": 2005,
+        "citations": 89,
+        "authors": "Gengbin Zheng, Terry Wilmarth, Praveen Jagadishprasad et al.",
+        "authors_list": [
+            "Gengbin Zheng",
+            "Terry Wilmarth",
+            "Praveen Jagadishprasad",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 57
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/11945918_47",
+        "title": "Proactive Fault Tolerance in MPI Applications Via Task Migration",
+        "journal": "Lecture Notes in Computer Science",
+        "year": 2006,
+        "citations": 86,
+        "authors": "Sayantan Chakravorty, Celso L. Mendes, Laxmikant V. Kalé",
+        "authors_list": [
+            "Sayantan Chakravorty",
+            "Celso L. Mendes",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 28
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1542275.1542295",
+        "title": "Dynamic topology aware load balancing algorithms for molecular dynamics applications",
+        "journal": "",
+        "year": 2009,
+        "citations": 86,
+        "authors": "Abhinav Bhatelé, Laxmikant V. Kalé, Sameer Kumar",
+        "authors_list": [
+            "Abhinav Bhatelé",
+            "Laxmikant V. Kalé",
+            "Sameer Kumar"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/cloudcom.2013.47",
+        "title": "The Who, What, Why, and How of High Performance Computing in the Cloud",
+        "journal": "",
+        "year": 2013,
+        "citations": 86,
+        "authors": "Abhishek Gupta, Laxmikant V. Kalé, Filippo Gioachin et al.",
+        "authors_list": [
+            "Abhishek Gupta",
+            "Laxmikant V. Kalé",
+            "Filippo Gioachin",
+            "Verdi March",
+            "Chun Hui Suen",
+            "Bu‐Sung Lee",
+            "Paolo Faraboschi",
+            "Richard Kaufmann",
+            "Dejan Milojičić"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-540-24644-2_20",
+        "title": "Adaptive MPI",
+        "journal": "Lecture notes in computer science",
+        "year": 2004,
+        "citations": 84,
+        "authors": "Chao Huang, Orion Sky Lawlor, Laxmikant V. Kalé",
+        "authors_list": [
+            "Chao Huang",
+            "Orion Sky Lawlor",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipdps.2008.4536317",
+        "title": "Overcoming scaling challenges in biomolecular simulations across multiple platforms",
+        "journal": "",
+        "year": 2008,
+        "citations": 84,
+        "authors": "Abhinav Bhatelé, Sameer Kumar, Chao Mei et al.",
+        "authors_list": [
+            "Abhinav Bhatelé",
+            "Sameer Kumar",
+            "Chao Mei",
+            "J. C. Phillips",
+            "Gengbin Zheng",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipdps.2006.1639379",
+        "title": "Topology-aware task mapping for reducing communication contention on large parallel machines",
+        "journal": "",
+        "year": 2006,
+        "citations": 80,
+        "authors": "Tanushree Agarwal, Abhishek Sharma, A. Laxmikant et al.",
+        "authors_list": [
+            "Tanushree Agarwal",
+            "Abhishek Sharma",
+            "A. Laxmikant",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipps.1996.508060",
+        "title": "Converse: an interoperable framework for parallel programming",
+        "journal": "",
+        "year": 2002,
+        "citations": 79,
+        "authors": "Laxmikant V. Kalé, Mrunalini Bhandarkar, N. Jagathesan et al.",
+        "authors_list": [
+            "Laxmikant V. Kalé",
+            "Mrunalini Bhandarkar",
+            "N. Jagathesan",
+            "Sanjeev Krishnan",
+            "J. Yelon"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 79,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ccgrid.2002.1017131",
+        "title": "A Malleable-Job System for Timeshared Parallel Machines",
+        "journal": "",
+        "year": 2003,
+        "citations": 78,
+        "authors": "Laxmikant V. Kalé, Sameer Kumar, Jayant DeSouza",
+        "authors_list": [
+            "Laxmikant V. Kalé",
+            "Sameer Kumar",
+            "Jayant DeSouza"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "The Chare Kernel Parallel Programming Language and System.",
+        "journal": "Proceedings of the International Conference on Parallel Processing",
+        "year": 1990,
+        "citations": 76,
+        "authors": "Laxmikant V. Kalé",
+        "authors_list": [
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/1094342010394383",
+        "title": "Periodic hierarchical load balancing for large supercomputers",
+        "journal": "The International Journal of High Performance Computing Applications",
+        "year": 2011,
+        "citations": 75,
+        "authors": "Gengbin Zheng, Abhinav Bhatelé, Esteban Meneses et al.",
+        "authors_list": [
+            "Gengbin Zheng",
+            "Abhinav Bhatelé",
+            "Esteban Meneses",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00366-006-0039-5",
+        "title": "ParFUM: a parallel framework for unstructured meshes for scalable dynamic physics applications",
+        "journal": "Engineering With Computers",
+        "year": 2006,
+        "citations": 75,
+        "authors": "Orion Sky Lawlor, Sayantan Chakravorty, Terry Wilmarth et al.",
+        "authors_list": [
+            "Orion Sky Lawlor",
+            "Sayantan Chakravorty",
+            "Terry Wilmarth",
+            "Nilesh Choudhury",
+            "Isaac Dooley",
+            "Gengbin Zheng",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/9780470558027.ch13",
+        "title": "Charm++ and AMPI: Adaptive Runtime Strategies via Migratable Objects",
+        "journal": "",
+        "year": 2009,
+        "citations": 74,
+        "authors": "Laxmikant V. Kalé, Gengbin Zheng",
+        "authors_list": [
+            "Laxmikant V. Kalé",
+            "Gengbin Zheng"
+        ],
+        "type": "other",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipdps.2010.5470406",
+        "title": "Highly scalable parallel sorting",
+        "journal": "",
+        "year": 2010,
+        "citations": 73,
+        "authors": "Edgar Solomonik, Laxmikant V. Kalé",
+        "authors_list": [
+            "Edgar Solomonik",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-0-387-09766-4_2258",
+        "title": "Calculus of Mobile Processes",
+        "journal": "",
+        "year": 2011,
+        "citations": 70,
+        "authors": "Guy L. Steele, Xiaowei Shen, Josep Torrellas et al.",
+        "authors_list": [
+            "Guy L. Steele",
+            "Xiaowei Shen",
+            "Josep Torrellas",
+            "Mark E. Tuckerman",
+            "Eric J. Bohm",
+            "Laxmikant V. Kalé",
+            "Glenn Martyna",
+            "Pen-Chung Yew",
+            "H. Peter Hofstee",
+            "Matthew Sottile",
+            "Bruce Hendrickson",
+            "Bradford L. Chamberlain",
+            "Laxmikant V. Kalé",
+            "Martin Schulz",
+            "Charles E. Leiserson",
+            "Thomas Sterling",
+            "Daniel P. Siewiorek",
+            "Edward F. Gehringer",
+            "Robert W. Numrich",
+            "Cédric Bastoul",
+            "Robert A. Geijn",
+            "JesperLarsson Träff",
+            "Dhabaleswar K. Panda",
+            "Sayantan Sur",
+            "Hari Subramoni",
+            "Krishna Kandalla",
+            "Laxmikant V. Kalé",
+            "Pritish Jetley",
+            "Patrick H Worley",
+            "Mariana Vertenstein",
+            "Anthony P Craig",
+            "Geoffrey Fox",
+            "John C. Hart",
+            "Michael G. Burke",
+            "Kathleen Knobe",
+            "Ryan Newton",
+            "Vivek Sarkar",
+            "John Reppy",
+            "Pedro J. García",
+            "Guy L. Steele",
+            "Guy L. Steele",
+            "Guy L. Steele",
+            "John Swensen",
+            "M’hamed Souli",
+            "Timothy Prince",
+            "Jason Wang",
+            "Michael Dungworth",
+            "James Harrell",
+            "Michael Levine",
+            "Stephen Nelson",
+            "Steven Oberlin",
+            "Steven P. Reinhardt",
+            "James L. Schwarzmeier",
+            "Larry Kaplan",
+            "Jeff Brooks",
+            "Gerry Kirschner",
+            "Dennis Abts",
+            "A. W. Roscoe",
+            "Jim Davies",
+            "Monty Denneau",
+            "Michael Schlansker"
+        ],
+        "type": "reference-entry",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Comparing the Performance of Two Dynamic Load Distribution Methods",
+        "journal": "NASA Technical Reports Server (NASA)",
+        "year": 1987,
+        "citations": 70,
+        "authors": "Laxmikant V. Kalé",
+        "authors_list": [
+            "Laxmikant V. Kalé"
+        ],
+        "type": "other",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-45718-6_13",
+        "title": "Adaptive Load Balancing for MPI Programs",
+        "journal": "Lecture notes in computer science",
+        "year": 2001,
+        "citations": 69,
+        "authors": "Milind Bhandarkar, Laxmikant V. Kalé, Eric de Sturler et al.",
+        "authors_list": [
+            "Milind Bhandarkar",
+            "Laxmikant V. Kalé",
+            "Eric de Sturler",
+            "Jay Hoeflinger"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2503210.2503266",
+        "title": "ACR",
+        "journal": "",
+        "year": 2013,
+        "citations": 68,
+        "authors": "Xiang Ni, Esteban Meneses, Nikhil Jain et al.",
+        "authors_list": [
+            "Xiang Ni",
+            "Esteban Meneses",
+            "Nikhil Jain",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2063384.2063486",
+        "title": "Avoiding hot-spots on two-level direct networks",
+        "journal": "",
+        "year": 2011,
+        "citations": 67,
+        "authors": "Abhinav Bhatelé, Nikhil Jain, William Gropp et al.",
+        "authors_list": [
+            "Abhinav Bhatelé",
+            "Nikhil Jain",
+            "William Gropp",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1116881"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2287076.2287103",
+        "title": "Work stealing and persistence-based load balancers for iterative overdecomposed applications",
+        "journal": "",
+        "year": 2012,
+        "citations": 66,
+        "authors": "Jonathan Lifflander, Sriram Krishnamoorthy, Laxmikant V. Kalé",
+        "authors_list": [
+            "Jonathan Lifflander",
+            "Sriram Krishnamoorthy",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1147/jrd.2018.2888986",
+        "title": "Scalable molecular dynamics with NAMD on the Summit system",
+        "journal": "IBM Journal of Research and Development",
+        "year": 2018,
+        "citations": 65,
+        "authors": "Bilge Acun, David J. Hardy, Laxmikant V. Kalé et al.",
+        "authors_list": [
+            "Bilge Acun",
+            "David J. Hardy",
+            "Laxmikant V. Kalé",
+            "Kangsheng Li",
+            "J. C. Phillips",
+            "John E. Stone"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/7059615"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipdps.2015.34",
+        "title": "A Batch System with Efficient Adaptive Scheduling for Malleable and Evolving Applications",
+        "journal": "",
+        "year": 2015,
+        "citations": 65,
+        "authors": "Suraj Prabhakaran, Marcel Neumann, Sebastian Rinke et al.",
+        "authors_list": [
+            "Suraj Prabhakaran",
+            "Marcel Neumann",
+            "Sebastian Rinke",
+            "Felix Wolf",
+            "Abhishek Gupta",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipps.1993.262887",
+        "title": "A load balancing strategy for prioritized execution of tasks",
+        "journal": "",
+        "year": 2002,
+        "citations": 60,
+        "authors": "Amitabh Sinha, Laxmikant V. Kalé",
+        "authors_list": [
+            "Amitabh Sinha",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.future.2004.11.020",
+        "title": "Scaling applications to massively parallel machines using Projections performance analysis tool",
+        "journal": "Future Generation Computer Systems",
+        "year": 2004,
+        "citations": 58,
+        "authors": "Laxmikant V. Kalé, Gengbin Zheng, Chee Wai Lee et al.",
+        "authors_list": [
+            "Laxmikant V. Kalé",
+            "Gengbin Zheng",
+            "Chee Wai Lee",
+            "Sameer Kumar"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipdps.2007.370310",
+        "title": "A Fault Tolerance Protocol with Fast Fault Recovery",
+        "journal": "",
+        "year": 2007,
+        "citations": 57,
+        "authors": "Sayantan Chakravorty, Laxmikant V. Kalé",
+        "authors_list": [
+            "Sayantan Chakravorty",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipdps.2003.1213166",
+        "title": "A framework for collective personalized communication",
+        "journal": "",
+        "year": 2004,
+        "citations": 56,
+        "authors": "Laxmikant V. Kalé, Sameer Kumar, Krishnan Varadarajan",
+        "authors_list": [
+            "Laxmikant V. Kalé",
+            "Sameer Kumar",
+            "Krishnan Varadarajan"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/76263.76306",
+        "title": "A dynamic scheduling strategy for the Chare-Kernel system",
+        "journal": "",
+        "year": 1989,
+        "citations": 56,
+        "authors": "Wei Shu, Laxmikant V. Kalé",
+        "authors_list": [
+            "Wei Shu",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/76263.76306"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/hipc.2010.5713190",
+        "title": "Automated mapping of regular communication graphs on mesh interconnects",
+        "journal": "",
+        "year": 2010,
+        "citations": 55,
+        "authors": "Abhinav Bhatelé, Gagan Raj Gupta, Laxmikant V. Kalé et al.",
+        "authors_list": [
+            "Abhinav Bhatelé",
+            "Gagan Raj Gupta",
+            "Laxmikant V. Kalé",
+            "I‐Hsin Chung"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/sc.2014.33",
+        "title": "Maximizing Throughput on a Dragonfly Network",
+        "journal": "",
+        "year": 2014,
+        "citations": 55,
+        "authors": "Nikhil Jain, Abhinav Bhatelé, Xiang Ni et al.",
+        "authors_list": [
+            "Nikhil Jain",
+            "Abhinav Bhatelé",
+            "Xiang Ni",
+            "Nicholas J. Wright",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ccgrid.2013.65",
+        "title": "Improving HPC Application Performance in Cloud through Dynamic Load Balancing",
+        "journal": "",
+        "year": 2013,
+        "citations": 54,
+        "authors": "Abhishek Gupta, Osman Sarood, Laxmikant V. Kalé et al.",
+        "authors_list": [
+            "Abhishek Gupta",
+            "Osman Sarood",
+            "Laxmikant V. Kalé",
+            "Dejan Milojičić"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icppw.2010.65",
+        "title": "Hierarchical Load Balancing for Charm++ Applications on Large Supercomputers",
+        "journal": "",
+        "year": 2010,
+        "citations": 52,
+        "authors": "Gengbin Zheng, Esteban Meneses, Abhinav Bhatelé et al.",
+        "authors_list": [
+            "Gengbin Zheng",
+            "Esteban Meneses",
+            "Abhinav Bhatelé",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2063384.2063412",
+        "title": "A 'cool' load balancer for parallel applications",
+        "journal": "",
+        "year": 2011,
+        "citations": 52,
+        "authors": "Osman Sarood, Laxmikant V. Kalé",
+        "authors_list": [
+            "Osman Sarood",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0010-4655(95)00045-h",
+        "title": "MDScope — a visual computing environment for structural biology",
+        "journal": "Computer Physics Communications",
+        "year": 1995,
+        "citations": 51,
+        "authors": "Mark T. Nelson, William Humphrey, Richard Kufrin et al.",
+        "authors_list": [
+            "Mark T. Nelson",
+            "William Humphrey",
+            "Richard Kufrin",
+            "Attila Gürsoy",
+            "Andrew Dalke",
+            "Laxmikant V. Kalé",
+            "Robert D. Skeel",
+            "Klaus Schulten"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2925426.2926289",
+        "title": "Variation Among Processors Under Turbo Boost in HPC Systems",
+        "journal": "",
+        "year": 2016,
+        "citations": 50,
+        "authors": "Bilge Acun, Phil Miller, Laxmikant V. Kalé",
+        "authors_list": [
+            "Bilge Acun",
+            "Phil Miller",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Compiled execution of the reduce-or process model on multiprocessors",
+        "journal": "",
+        "year": 1989,
+        "citations": 49,
+        "authors": "Balkrishna Ramkumar, Laxmikant V. Kalé",
+        "authors_list": [
+            "Balkrishna Ramkumar",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/sc.2016.13",
+        "title": "Evaluating HPC Networks via Simulation of Parallel Workloads",
+        "journal": "",
+        "year": 2016,
+        "citations": 49,
+        "authors": "Nikhil Jain, Abhinav Bhatelé, Sam White et al.",
+        "authors_list": [
+            "Nikhil Jain",
+            "Abhinav Bhatelé",
+            "Sam White",
+            "Todd Gamblin",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1336984"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2063384.2063466",
+        "title": "Enabling and scaling biomolecular simulations of 100 million atoms on petascale machines with a multicore-optimized message-driven runtime",
+        "journal": "",
+        "year": 2011,
+        "citations": 48,
+        "authors": "Chao Mei, Yanhua Sun, Gengbin Zheng et al.",
+        "authors_list": [
+            "Chao Mei",
+            "Yanhua Sun",
+            "Gengbin Zheng",
+            "Eric J. Bohm",
+            "Laxmikant V. Kalé",
+            "J. C. Phillips",
+            "Chris Harrison"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2503210.2503284",
+        "title": "A distributed dynamic load balancer for iterative applications",
+        "journal": "",
+        "year": 2013,
+        "citations": 48,
+        "authors": "Harshitha Menon, Laxmikant V. Kalé",
+        "authors_list": [
+            "Harshitha Menon",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0743-7315(91)90044-a",
+        "title": "Chare Kernel—a runtime support system for parallel computations",
+        "journal": "Journal of Parallel and Distributed Computing",
+        "year": 1991,
+        "citations": 47,
+        "authors": "Wei Shu, Laxmikant V. Kalé",
+        "authors_list": [
+            "Wei Shu",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Object-Based Adaptive Load Balancing for MPI Programs∗",
+        "journal": "",
+        "year": 2000,
+        "citations": 47,
+        "authors": "Milind Bhandarkar, Laxmikant V. Kalé, Eric de Sturler",
+        "authors_list": [
+            "Milind Bhandarkar",
+            "Laxmikant V. Kalé",
+            "Eric de Sturler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2503210.2503263",
+        "title": "Predicting application performance using supervised learning on communication features",
+        "journal": "",
+        "year": 2013,
+        "citations": 45,
+        "authors": "Nikhil Jain, Abhinav Bhatelé, Michael P. Robson et al.",
+        "authors_list": [
+            "Nikhil Jain",
+            "Abhinav Bhatelé",
+            "Michael P. Robson",
+            "Todd Gamblin",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1113387"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipdps.2008.4536348",
+        "title": "Application-specific topology-aware mapping for three dimensional topologies",
+        "journal": "Proceedings - IEEE International Parallel and Distributed Processing Symposium",
+        "year": 2008,
+        "citations": 45,
+        "authors": "Abhinav Bhatelé, Laxmikant V. Kalé",
+        "authors_list": [
+            "Abhinav Bhatelé",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipdps.2015.92",
+        "title": "Identifying the Culprits Behind Network Congestion",
+        "journal": "",
+        "year": 2015,
+        "citations": 45,
+        "authors": "Abhinav Bhatelé, Andrew R. Titus, Jayaraman J. Thiagarajan et al.",
+        "authors_list": [
+            "Abhinav Bhatelé",
+            "Andrew R. Titus",
+            "Jayaraman J. Thiagarajan",
+            "Nikhil Jain",
+            "Todd Gamblin",
+            "Peer‐Timo Bremer",
+            "Martin Schulz",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1184730"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/sbac-pad.2010.18",
+        "title": "A Comparative Analysis of Load Balancing Algorithms Applied to a Weather Forecast Model",
+        "journal": "",
+        "year": 2010,
+        "citations": 44,
+        "authors": "Eduardo R. Rodrigues, Philippe O. A. Navaux, Jairo Panetta et al.",
+        "authors_list": [
+            "Eduardo R. Rodrigues",
+            "Philippe O. A. Navaux",
+            "Jairo Panetta",
+            "Álvaro Luiz Fazenda",
+            "Celso L. Mendes",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 44,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1142/s0129626408003569",
+        "title": "Benefits of Topology Aware Mapping for Mesh Interconnects",
+        "journal": "Parallel Processing Letters",
+        "year": 2008,
+        "citations": 42,
+        "authors": "Abhinav Bhatelé, Laxmikant V. Kalé",
+        "authors_list": [
+            "Abhinav Bhatelé",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 42,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1147/rd.521.0159",
+        "title": "Fine-grained parallelization of the Car-Parrinello ab initio molecular dynamics method on the IBM Blue Gene/L supercomputer",
+        "journal": "IBM Journal of Research and Development",
+        "year": 2008,
+        "citations": 42,
+        "authors": "Eric J. Bohm, Abhinav Bhatelé, Laxmikant V. Kalé et al.",
+        "authors_list": [
+            "Eric J. Bohm",
+            "Abhinav Bhatelé",
+            "Laxmikant V. Kalé",
+            "Mark E. Tuckerman",
+            "Sameer Kumar",
+            "John A. Gunnels",
+            "Glenn Martyna"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 42,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-45591-4_159",
+        "title": "Run-time Support for Adaptive Load Balancing",
+        "journal": "Lecture notes in computer science",
+        "year": 2000,
+        "citations": 42,
+        "authors": "Milind Bhandarkar, Robert K. Brunner, Laxmikant V. Kalé",
+        "authors_list": [
+            "Milind Bhandarkar",
+            "Robert K. Brunner",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 42,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2378975.2378977",
+        "title": "Optimizing VM placement for HPC in the cloud",
+        "journal": "",
+        "year": 2012,
+        "citations": 41,
+        "authors": "Abhishek Gupta, Dejan Milojičić, Laxmikant V. Kalé",
+        "authors_list": [
+            "Abhishek Gupta",
+            "Dejan Milojičić",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 41,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Automating topology aware mapping for supercomputers",
+        "journal": "",
+        "year": 2010,
+        "citations": 41,
+        "authors": "Laxmikant V. Kalé, Abhinav Bhatelé",
+        "authors_list": [
+            "Laxmikant V. Kalé",
+            "Abhinav Bhatelé"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 41,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/sbac-pad.2012.12",
+        "title": "Assessing Energy Efficiency of Fault Tolerance Protocols for HPC Systems",
+        "journal": "",
+        "year": 2012,
+        "citations": 40,
+        "authors": "Esteban Meneses, Osman Sarood, Laxmikant V. Kalé",
+        "authors_list": [
+            "Esteban Meneses",
+            "Osman Sarood",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 40,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/hipc.2014.7116905",
+        "title": "Towards realizing the potential of malleable jobs",
+        "journal": "",
+        "year": 2014,
+        "citations": 40,
+        "authors": "Abhishek Gupta, Bilge Acun, Osman Sarood et al.",
+        "authors_list": [
+            "Abhishek Gupta",
+            "Bilge Acun",
+            "Osman Sarood",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 40,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Supporting Machine Independent Programming on Diverse Parallel Architectures.",
+        "journal": "Proceedings of the International Conference on Parallel Processing",
+        "year": 1991,
+        "citations": 40,
+        "authors": "Wayne S. Fenton, Balkrishna Ramkumar, Vikram A. Saletore et al.",
+        "authors_list": [
+            "Wayne S. Fenton",
+            "Balkrishna Ramkumar",
+            "Vikram A. Saletore",
+            "Amitabh Sinha",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 40,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icpp.2012.9",
+        "title": "A Hierarchical Approach for Load Balancing on Parallel Multi-core Systems",
+        "journal": "",
+        "year": 2012,
+        "citations": 39,
+        "authors": "Laércio Lima Pilla, Christiane Pousa Ribeiro, Daniel Cordeiro et al.",
+        "authors_list": [
+            "Laércio Lima Pilla",
+            "Christiane Pousa Ribeiro",
+            "Daniel Cordeiro",
+            "Chao Mei",
+            "Abhinav Bhatelé",
+            "Philippe O. A. Navaux",
+            "François Broquedis",
+            "Jean‐François Méhaut",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 39,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1092510"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/icpp.2004.35",
+        "title": "Faucets: efficient resource allocation on the computational grid",
+        "journal": "Proceedings of the International Conference on Parallel Processing",
+        "year": 2004,
+        "citations": 39,
+        "authors": "Laxmikant V. Kalé, Sameer Kumar, M. Potnuru et al.",
+        "authors_list": [
+            "Laxmikant V. Kalé",
+            "Sameer Kumar",
+            "M. Potnuru",
+            "Jayant DeSouza",
+            "Sruthi Bandhakavi"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 39,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "BioCoRE: A Collaboratory for Structural Biology",
+        "journal": "",
+        "year": 2000,
+        "citations": 39,
+        "authors": "Milind Bhandarkar, Gila Budescu, William Humphrey et al.",
+        "authors_list": [
+            "Milind Bhandarkar",
+            "Gila Budescu",
+            "William Humphrey",
+            "Jesús A. Izaguirre",
+            "Sergei Izrailev",
+            "Laxmikant V. Kalé",
+            "Dorina Kosztin",
+            "F. Molnár",
+            "J. C. Phillips",
+            "Klaus Schulten"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 39,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipdps.2004.1303244",
+        "title": "A fault tolerant protocol for massively parallel systems",
+        "journal": "",
+        "year": 2004,
+        "citations": 38,
+        "authors": "Sayantan Chakravorty, Laxmikant V. Kalé",
+        "authors_list": [
+            "Sayantan Chakravorty",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 38,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Performance and Productivity in Parallel Programming via Processor Virtualization",
+        "journal": "",
+        "year": 2004,
+        "citations": 38,
+        "authors": "Laxmikant V. Kalé",
+        "authors_list": [
+            "Laxmikant V. Kalé"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 38,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/cluster.2012.82",
+        "title": "Hiding Checkpoint Overhead in HPC Applications with a Semi-Blocking Algorithm",
+        "journal": "",
+        "year": 2012,
+        "citations": 38,
+        "authors": "Xiang Ni, Esteban Meneses, Laxmikant V. Kalé",
+        "authors_list": [
+            "Xiang Ni",
+            "Esteban Meneses",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 38,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ipdps.2014.83",
+        "title": "Overcoming the Scalability Challenges of Epidemic Simulations on Blue Waters",
+        "journal": "",
+        "year": 2014,
+        "citations": 38,
+        "authors": "Jae-Seung Yeom, Abhinav Bhatelé, Keith Bisset et al.",
+        "authors_list": [
+            "Jae-Seung Yeom",
+            "Abhinav Bhatelé",
+            "Keith Bisset",
+            "Eric J. Bohm",
+            "Abhishek Gupta",
+            "Laxmikant V. Kalé",
+            "Madhav Marathe",
+            "Dimitrios S. Nikolopoulos",
+            "Martin Schulz",
+            "Lukasz Wesolowski"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 38,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1136175"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/fmpc.1999.750590",
+        "title": "Adapting to load on workstation clusters",
+        "journal": "",
+        "year": 1999,
+        "citations": 37,
+        "authors": "R.K. Brunner, Laxmikant V. Kalé",
+        "authors_list": [
+            "R.K. Brunner",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 37,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/sc.2014.75",
+        "title": "Optimizing Data Locality for Fork/Join Programs Using Constrained Work Stealing",
+        "journal": "",
+        "year": 2014,
+        "citations": 37,
+        "authors": "Jonathan Lifflander, Sriram Krishnamoorthy, Laxmikant V. Kalé",
+        "authors_list": [
+            "Jonathan Lifflander",
+            "Sriram Krishnamoorthy",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 37,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Proactive Fault Tolerance in Large Systems",
+        "journal": "",
+        "year": 2004,
+        "citations": 37,
+        "authors": "Sayantan Chakravorty, Celso L. Mendes, Laxmikant V. Kalé",
+        "authors_list": [
+            "Sayantan Chakravorty",
+            "Celso L. Mendes",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 37,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-44864-0_3",
+        "title": "Scaling Molecular Dynamics to 3000 Processors with Projections: A Performance Analysis Case Study",
+        "journal": "Lecture notes in computer science",
+        "year": 2003,
+        "citations": 37,
+        "authors": "Laxmikant V. Kalé, Sameer Kumar, Gengbin Zheng et al.",
+        "authors_list": [
+            "Laxmikant V. Kalé",
+            "Sameer Kumar",
+            "Gengbin Zheng",
+            "Chee Wai Lee"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 37,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/3-540-44864-0_3.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2503210.2503228",
+        "title": "A 'cool' way of improving the reliability of HPC machines",
+        "journal": "",
+        "year": 2013,
+        "citations": 36,
+        "authors": "Osman Sarood, Esteban Meneses, Laxmikant V. Kalé",
+        "authors_list": [
+            "Osman Sarood",
+            "Esteban Meneses",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 36,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-642-23400-2_53",
+        "title": "On the Use of Cluster-Based Partial Message Logging to Improve Fault Tolerance for MPI HPC Applications",
+        "journal": "Lecture notes in computer science",
+        "year": 2011,
+        "citations": 36,
+        "authors": "Thomas Ropars, Amina Guermouche, Bora Uçar et al.",
+        "authors_list": [
+            "Thomas Ropars",
+            "Amina Guermouche",
+            "Bora Uçar",
+            "Esteban Meneses",
+            "Laxmikant V. Kalé",
+            "Franck Cappello"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 36,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://inria.hal.science/hal-00786558"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/jcc.20113",
+        "title": "Scalable fine‐grained parallelization of plane‐wave–based <i>ab initio</i> molecular dynamics for large supercomputers",
+        "journal": "Journal of Computational Chemistry",
+        "year": 2004,
+        "citations": 36,
+        "authors": "Ramkumar V. Vadali, Yan Shi, Sameer Kumar et al.",
+        "authors_list": [
+            "Ramkumar V. Vadali",
+            "Yan Shi",
+            "Sameer Kumar",
+            "Laxmikant V. Kalé",
+            "Mark E. Tuckerman",
+            "Glenn Martyna"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 36,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/sc.2014.12",
+        "title": "Mapping to Irregular Torus Topologies and Other Techniques for Petascale Biomolecular Simulation",
+        "journal": "",
+        "year": 2014,
+        "citations": 35,
+        "authors": "J. C. Phillips, Yanhua Sun, Nikhil Jain et al.",
+        "authors_list": [
+            "J. C. Phillips",
+            "Yanhua Sun",
+            "Nikhil Jain",
+            "Eric J. Bohm",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 35,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/cpe.1637",
+        "title": "Optimizing communication for Charm++ applications by reducing network contention",
+        "journal": "Concurrency and Computation Practice and Experience",
+        "year": 2010,
+        "citations": 35,
+        "authors": "Abhinav Bhatelé, Eric J. Bohm, Laxmikant V. Kalé",
+        "authors_list": [
+            "Abhinav Bhatelé",
+            "Eric J. Bohm",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 35,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/cpe.665",
+        "title": "Supporting dynamic parallel object arrays",
+        "journal": "Concurrency and Computation Practice and Experience",
+        "year": 2003,
+        "citations": 34,
+        "authors": "Orion Sky Lawlor, Laxmikant V. Kalé",
+        "authors_list": [
+            "Orion Sky Lawlor",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 34,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cpe.665"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2287076.2287093",
+        "title": "Exploring the performance and mapping of HPC applications to platforms in the cloud",
+        "journal": "",
+        "year": 2012,
+        "citations": 34,
+        "authors": "Abhishek Gupta, Laxmikant V. Kalé, Dejan Milojičić et al.",
+        "authors_list": [
+            "Abhishek Gupta",
+            "Laxmikant V. Kalé",
+            "Dejan Milojičić",
+            "Paolo Faraboschi",
+            "Richard Kaufmann",
+            "Verdi March",
+            "Filippo Gioachin",
+            "Chun Hui Suen",
+            "Bu‐Sung Lee"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 34,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "'Completeness' and 'Full Parallelism' of Parallel Logic Programming Schemes.",
+        "journal": "SLP",
+        "year": 1987,
+        "citations": 34,
+        "authors": "Laxmikant V. Kalé",
+        "authors_list": [
+            "Laxmikant V. Kalé"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 34,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/ccgrid.2010.110",
+        "title": "Team-Based Message Logging: Preliminary Results",
+        "journal": "",
+        "year": 2010,
+        "citations": 33,
+        "authors": "Esteban Meneses, Celso L. Mendes, Laxmikant V. Kalé",
+        "authors_list": [
+            "Esteban Meneses",
+            "Celso L. Mendes",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 33,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/pads.2005.20",
+        "title": "Performance Prediction Using Simulation of Large-Scale Interconnection Networks in POSE",
+        "journal": "",
+        "year": 2005,
+        "citations": 33,
+        "authors": "Terry Wilmarth, Gengbin Zheng, Eric J. Bohm et al.",
+        "authors_list": [
+            "Terry Wilmarth",
+            "Gengbin Zheng",
+            "Eric J. Bohm",
+            "Y. Mehta",
+            "Nilesh Choudhury",
+            "Praveen Jagadishprasad",
+            "Laxmikant V. Kalé"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 33,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1006/jcph.1999.6201",
+        "title": "NAMD2: Greater Scalability for Parallel Molecular Dynamics",
+        "journal": "Journal of Computational Physics",
+        "year": 1999,
+        "citations": 2189,
+        "authors": "Laxmikant Kalé, Robert Skeel, Milind Bhandarkar et al.",
+        "authors_list": [
+            "Laxmikant Kalé",
+            "Robert Skeel",
+            "Milind Bhandarkar",
+            "Robert Brunner",
+            "Attila Gursoy",
+            "Neal Krawetz",
+            "James Phillips",
+            "Aritomo Shinozaki",
+            "Krishnan Varadarajan",
+            "Klaus Schulten"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 2189
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/165854.165874",
+        "title": "CHARM++",
+        "journal": "Proceedings of the eighth annual conference on Object-oriented programming systems, languages, and applications",
+        "year": 1993,
+        "citations": 392,
+        "authors": "Laxmikant V. Kale, Sanjeev Krishnan",
+        "authors_list": [
+            "Laxmikant V. Kale",
+            "Sanjeev Krishnan"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 392
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/ipdps.2004.1303013",
+        "title": "BigSim: a parallel simulator for performance prediction of extremely large parallel machines",
+        "journal": "18th International Parallel and Distributed Processing Symposium, 2004. Proceedings.",
+        "year": null,
+        "citations": 30,
+        "authors": "G. Kakulapati, L.V. Kale",
+        "authors_list": [
+            "G. Kakulapati",
+            "L.V. Kale"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 30
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1006/jcph.1998.6182",
+        "title": "Algorithmic Challenges in Computational Molecular Biophysics",
+        "journal": "Journal of Computational Physics",
+        "year": 1999,
+        "citations": 140,
+        "authors": "Tamar Schlick, Robert D Skeel, Axel T Brunger et al.",
+        "authors_list": [
+            "Tamar Schlick",
+            "Robert D Skeel",
+            "Axel T Brunger",
+            "Laxmikant V Kalé",
+            "John A Board",
+            "Jan Hermans",
+            "Klaus Schulten"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 140
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1006/jcph.1998.6182"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/clustr.2004.1392606",
+        "title": "FTC-Charm++: an in-memory checkpoint-based fault tolerant runtime for Charm++ and MPI",
+        "journal": "2004 IEEE International Conference on Cluster Computing (IEEE Cat. No.04EX935)",
+        "year": null,
+        "citations": 37,
+        "authors": "L.V. Kale",
+        "authors_list": [
+            "L.V. Kale"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 37
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/167962.165874",
+        "title": "CHARM++",
+        "journal": "ACM SIGPLAN Notices",
+        "year": 1993,
+        "citations": 157,
+        "authors": "Laxmikant V. Kale, Sanjeev Krishnan",
+        "authors_list": [
+            "Laxmikant V. Kale",
+            "Sanjeev Krishnan"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 157
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/sc.2002.10019",
+        "title": "NAMD: Biomolecular Simulation on Thousands of Processors",
+        "journal": "ACM/IEEE SC 2002 Conference (SC'02)",
+        "year": 2002,
+        "citations": 127,
+        "authors": "J.C. Phillips, S. Kumar, L.V. Kale",
+        "authors_list": [
+            "J.C. Phillips",
+            "S. Kumar",
+            "L.V. Kale"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 127
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/sc.2014.71",
+        "title": "Maximizing Throughput of Overprovisioned HPC Data Centers Under a Strict Power Budget",
+        "journal": "SC14: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "year": 2014,
+        "citations": 93,
+        "authors": "Osman Sarood, Akhil Langer, Abhishek Gupta et al.",
+        "authors_list": [
+            "Osman Sarood",
+            "Akhil Langer",
+            "Abhishek Gupta",
+            "Laxmikant Kale"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 93
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/1122971.1122976",
+        "title": "Performance evaluation of adaptive MPI",
+        "journal": "Proceedings of the eleventh ACM SIGPLAN symposium on Principles and practice of parallel programming",
+        "year": 2006,
+        "citations": 64,
+        "authors": "Chao Huang, Gengbin Zheng, Laxmikant Kalé et al.",
+        "authors_list": [
+            "Chao Huang",
+            "Gengbin Zheng",
+            "Laxmikant Kalé",
+            "Sameer Kumar"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 64
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/ipdps.2008.4536319",
+        "title": "Massively parallel cosmological simulations with ChaNGa",
+        "journal": "2008 IEEE International Symposium on Parallel and Distributed Processing",
+        "year": 2008,
+        "citations": 72,
+        "authors": "Pritish Jetley, Filippo Gioachin, Celso Mendes et al.",
+        "authors_list": [
+            "Pritish Jetley",
+            "Filippo Gioachin",
+            "Celso Mendes",
+            "Laxmikant V. Kale",
+            "Thomas Quinn"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 72
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/tpds.2017.2766062",
+        "title": "Argobots: A Lightweight Low-Level Threading and Tasking Framework",
+        "journal": "IEEE Transactions on Parallel and Distributed Systems",
+        "year": 2018,
+        "citations": 93,
+        "authors": "Sangmin Seo, Abdelhalim Amer, Pavan Balaji et al.",
+        "authors_list": [
+            "Sangmin Seo",
+            "Abdelhalim Amer",
+            "Pavan Balaji",
+            "Cyril Bordage",
+            "George Bosilca",
+            "Alex Brooks",
+            "Philip Carns",
+            "Adrian Castello",
+            "Damien Genet",
+            "Thomas Herault",
+            "Shintaro Iwasaki",
+            "Prateek Jindal",
+            "Laxmikant V. Kale",
+            "Sriram Krishnamoorthy",
+            "Jonathan Lifflander",
+            "Huiwei Lu",
+            "Esteban Meneses",
+            "Marc Snir",
+            "Yanhua Sun",
+            "Kenjiro Taura",
+            "Pete Beckman"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 93
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1413456"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/tcc.2014.2339858",
+        "title": "Evaluating and Improving the Performance and Scheduling of HPC Applications in Cloud",
+        "journal": "IEEE Transactions on Cloud Computing",
+        "year": 2016,
+        "citations": 67,
+        "authors": "Abhishek Gupta, Paolo Faraboschi, Filippo Gioachin et al.",
+        "authors_list": [
+            "Abhishek Gupta",
+            "Paolo Faraboschi",
+            "Filippo Gioachin",
+            "Laxmikant V. Kale",
+            "Richard Kaufmann",
+            "Bu-Sung Lee",
+            "Verdi March",
+            "Dejan Milojicic",
+            "Chun Hui Suen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 67
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.7551/mitpress/5241.003.0009",
+        "title": "CHARM++",
+        "journal": "Parallel Programming Using C++",
+        "year": 1996,
+        "citations": 104,
+        "authors": "Laxmikant V. Kalé, Sanjeev Krishnan",
+        "authors_list": [
+            "Laxmikant V. Kalé",
+            "Sanjeev Krishnan"
+        ],
+        "type": "book-chapter",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 104
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/sc.2010.49",
+        "title": "Scaling Hierarchical N-body Simulations on GPU Clusters",
+        "journal": "2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "year": 2010,
+        "citations": 61,
+        "authors": "Pritish Jetley, Lukasz Wesolowski, Filippo Gioachin et al.",
+        "authors_list": [
+            "Pritish Jetley",
+            "Lukasz Wesolowski",
+            "Filippo Gioachin",
+            "Laxmikant V. Kalé",
+            "Thomas R. Quinn"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 61
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

@@ -1,0 +1,2982 @@
+[
+    {
+        "doi": "https://doi.org/10.1126/science.247.4949.1439",
+        "title": "Sonochemistry",
+        "journal": "Science",
+        "year": 1990,
+        "citations": 2849,
+        "authors": "Kenneth S. Suslick",
+        "authors_list": [
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 2849,
+            "crossref": 2820
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.200904093",
+        "title": "Applications of Ultrasound to the Synthesis of Nanostructured Materials",
+        "journal": "Advanced Materials",
+        "year": 2010,
+        "citations": 1883,
+        "authors": "Jin Ho Bang, Kenneth S. Suslick",
+        "authors_list": [
+            "Jin Ho Bang",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1883,
+            "crossref": 1762
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev.matsci.29.1.295",
+        "title": "APPLICATIONS OF ULTRASOUND TO MATERIALS CHEMISTRY",
+        "journal": "Annual Review of Materials Science",
+        "year": 1999,
+        "citations": 1698,
+        "authors": "Kenneth S. Suslick, Gareth J. Price",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Gareth J. Price"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1698,
+            "crossref": 1526
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/35021028",
+        "title": "A colorimetric sensor array for odour visualization",
+        "journal": "Nature",
+        "year": 2000,
+        "citations": 1486,
+        "authors": "Neal A. Rakow, Kenneth S. Suslick",
+        "authors_list": [
+            "Neal A. Rakow",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1486,
+            "crossref": 1396
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/353414a0",
+        "title": "Sonochemical synthesis of amorphous iron",
+        "journal": "Nature",
+        "year": 1991,
+        "citations": 1250,
+        "authors": "Kenneth S. Suslick, Seok-Burm Choe, Andrzej A. Cichowlas et al.",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Seok-Burm Choe",
+            "Andrzej A. Cichowlas",
+            "Mark W. Grinstaff"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1250,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00278a055",
+        "title": "Sonochemical hot spot",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1986,
+        "citations": 1229,
+        "authors": "Kenneth S. Suslick, David Alan Hammerton, Raymond E. Cline",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "David Alan Hammerton",
+            "Raymond E. Cline"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1229,
+            "crossref": 1128
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.253.5026.1397",
+        "title": "The Temperature of Cavitation",
+        "journal": "Science",
+        "year": 1991,
+        "citations": 1190,
+        "authors": "E.B. Flint, Kenneth S. Suslick",
+        "authors_list": [
+            "E.B. Flint",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1190,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.chemrev.8b00226",
+        "title": "The Optoelectronic Nose: Colorimetric and Fluorometric Sensor Arrays",
+        "journal": "Chemical Reviews",
+        "year": 2018,
+        "citations": 1179,
+        "authors": "Zheng Li, Jon R. Askim, Kenneth S. Suslick",
+        "authors_list": [
+            "Zheng Li",
+            "Jon R. Askim",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1179,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c2cs35282f",
+        "title": "Sonochemical synthesis of nanomaterials",
+        "journal": "Chemical Society Reviews",
+        "year": 2012,
+        "citations": 1146,
+        "authors": "Hangxun Xu, Brad W. Zeiger, Kenneth S. Suslick",
+        "authors_list": [
+            "Hangxun Xu",
+            "Brad W. Zeiger",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1146,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1121/1.398864",
+        "title": "<i>ULTRASOUND: Its Chemical, Physical and Biological Effects</i>",
+        "journal": "The Journal of the Acoustical Society of America",
+        "year": 1990,
+        "citations": 1095,
+        "authors": "Kenneth S. Suslick, Wesley L. Nyborg",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Wesley L. Nyborg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1095,
+            "crossref": 67
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/scientificamerican0289-80",
+        "title": "The Chemical Effects of Ultrasound",
+        "journal": "Scientific American",
+        "year": 1989,
+        "citations": 1008,
+        "authors": "Kenneth S. Suslick",
+        "authors_list": [
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1008,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c3cs60179j",
+        "title": "Optical sensor arrays for chemical sensing: the optoelectronic nose",
+        "journal": "Chemical Society Reviews",
+        "year": 2013,
+        "citations": 885,
+        "authors": "Jon R. Askim, Morteza Mahmoudi, Kenneth S. Suslick",
+        "authors_list": [
+            "Jon R. Askim",
+            "Morteza Mahmoudi",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 885,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1098/rsta.1999.0330",
+        "title": "Acoustic cavitation and its chemical consequences",
+        "journal": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+        "year": 1999,
+        "citations": 796,
+        "authors": "Kenneth S. Suslick, Yuri T. Didenko, Ming Fang et al.",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Yuri T. Didenko",
+            "Ming Fang",
+            "Taeghwan Hyeon",
+            "Kenneth J. Kolbeck",
+            "William B. McNamara",
+            "Millan M. Mdleleni",
+            "Mike Wong"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 796,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev.physchem.59.032607.093739",
+        "title": "Inside a Collapsing Bubble: Sonoluminescence and the Conditions During Cavitation",
+        "journal": "Annual Review of Physical Chemistry",
+        "year": 2008,
+        "citations": 692,
+        "authors": "Kenneth S. Suslick, David J. Flannigan",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "David J. Flannigan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 692,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.2309118",
+        "title": "Interparticle Collisions Driven by Ultrasound",
+        "journal": "Science",
+        "year": 1990,
+        "citations": 635,
+        "authors": "Stephen J. Doktycz, Kenneth S. Suslick",
+        "authors_list": [
+            "Stephen J. Doktycz",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 635,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nature03361",
+        "title": "Plasma formation and temperature measurement during single-bubble cavitation",
+        "journal": "Nature",
+        "year": 2005,
+        "citations": 632,
+        "authors": "David J. Flannigan, Kenneth S. Suslick",
+        "authors_list": [
+            "David J. Flannigan",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 632,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja961807n",
+        "title": "Sonochemical Synthesis of Iron Colloids",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1996,
+        "citations": 586,
+        "authors": "Kenneth S. Suslick, Mingming Fang, Taeghwan Hyeon",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Mingming Fang",
+            "Taeghwan Hyeon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 586,
+            "crossref": 527
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0010-8545(93)80036-5",
+        "title": "One-dimensional coordination polymers: Applications to material science",
+        "journal": "Coordination Chemistry Reviews",
+        "year": 1993,
+        "citations": 538,
+        "authors": "Chin‐Ti Chen, Kenneth S. Suslick",
+        "authors_list": [
+            "Chin‐Ti Chen",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 538,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/44536",
+        "title": "Sonoluminescence temperatures during multi-bubble cavitation",
+        "journal": "Nature",
+        "year": 1999,
+        "citations": 523,
+        "authors": "William B. McNamara, Yuri T. Didenko, Kenneth S. Suslick",
+        "authors_list": [
+            "William B. McNamara",
+            "Yuri T. Didenko",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 523,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ar040173j",
+        "title": "Microporous Porphyrin Solids",
+        "journal": "Accounts of Chemical Research",
+        "year": 2005,
+        "citations": 490,
+        "authors": "Kenneth S. Suslick, P. Bhyrappa, J.‐H. CHOU et al.",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "P. Bhyrappa",
+            "J.‐H. CHOU",
+            "Margaret E. Kosal",
+            "Shirley Nakagaki",
+            "Dennis W. Smithenry",
+            "Scott R. Wilson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 490,
+            "crossref": 476
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ac052111s",
+        "title": "Colorimetric Sensor Arrays for Volatile Organic Compounds",
+        "journal": "Analytical Chemistry",
+        "year": 2006,
+        "citations": 488,
+        "authors": "M.C. Janzen, Jennifer B. Ponder, Daniel P. Bailey et al.",
+        "authors_list": [
+            "M.C. Janzen",
+            "Jennifer B. Ponder",
+            "Daniel P. Bailey",
+            "Crystal K. Ingison",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 488,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nchem.360",
+        "title": "An optoelectronic nose for the detection of toxic gases",
+        "journal": "Nature Chemistry",
+        "year": 2009,
+        "citations": 479,
+        "authors": "Sung Hee Lim, Liang Feng, Jonathan W. Kemling et al.",
+        "authors_list": [
+            "Sung Hee Lim",
+            "Liang Feng",
+            "Jonathan W. Kemling",
+            "Christopher J. Musto",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 479,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2761044"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.200904199",
+        "title": "Water‐Soluble Fluorescent Silver Nanoclusters",
+        "journal": "Advanced Materials",
+        "year": 2010,
+        "citations": 476,
+        "authors": "Hangxun Xu, Kenneth S. Suslick",
+        "authors_list": [
+            "Hangxun Xu",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 476,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nmat730",
+        "title": "A functional zeolite analogue assembled from metalloporphyrins",
+        "journal": "Nature Materials",
+        "year": 2002,
+        "citations": 452,
+        "authors": "Margaret E. Kosal, Jun-Hong Chou, Scott R. Wilson et al.",
+        "authors_list": [
+            "Margaret E. Kosal",
+            "Jun-Hong Chou",
+            "Scott R. Wilson",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 452,
+            "crossref": 440
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.pneurobio.2008.09.009",
+        "title": "Nanotechnology, nanotoxicology, and neuroscience",
+        "journal": "Progress in Neurobiology",
+        "year": 2008,
+        "citations": 401,
+        "authors": "Won Hyuck Suh, Kenneth S. Suslick, Galen D. Stucky et al.",
+        "authors_list": [
+            "Won Hyuck Suh",
+            "Kenneth S. Suslick",
+            "Galen D. Stucky",
+            "Yoo‐Hun Suh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 401,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2728462"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0041-624x(90)90033-k",
+        "title": "On the origin of sonoluminescence and sonochemistry",
+        "journal": "Ultrasonics",
+        "year": 1990,
+        "citations": 399,
+        "authors": "Kenneth S. Suslick, Stephen J. Doktycz, E.B. Flint",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Stephen J. Doktycz",
+            "E.B. Flint"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 399,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja953474k",
+        "title": "Dendrimer-Metalloporphyrins:  Synthesis and Catalysis",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1996,
+        "citations": 394,
+        "authors": "P. Bhyrappa, James K. Young, Jeffrey S. Moore et al.",
+        "authors_list": [
+            "P. Bhyrappa",
+            "James K. Young",
+            "Jeffrey S. Moore",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 394,
+            "crossref": 358
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nn100987k",
+        "title": "Sonochemical Synthesis of Highly Fluorescent Ag Nanoclusters",
+        "journal": "ACS Nano",
+        "year": 2010,
+        "citations": 385,
+        "authors": "Hangxun Xu, Kenneth S. Suslick",
+        "authors_list": [
+            "Hangxun Xu",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 385,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nature00895",
+        "title": "The energy efficiency of formation of photons, radicals and ions during single-bubble cavitation",
+        "journal": "Nature",
+        "year": 2002,
+        "citations": 381,
+        "authors": "Yuri T. Didenko, Kenneth S. Suslick",
+        "authors_list": [
+            "Yuri T. Didenko",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 381,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nature00877",
+        "title": "Synthetic hosts by monomolecular imprinting inside dendrimers",
+        "journal": "Nature",
+        "year": 2002,
+        "citations": 369,
+        "authors": "Steven C. Zimmerman, Michael S. Wendland, Neal A. Rakow et al.",
+        "authors_list": [
+            "Steven C. Zimmerman",
+            "Michael S. Wendland",
+            "Neal A. Rakow",
+            "Ilya Zharov",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 369,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja049494g",
+        "title": "Sonochemical Preparation of Hollow Nanospheres and Hollow Nanocrystals",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2005,
+        "citations": 362,
+        "authors": "N. Arul Dhas, Kenneth S. Suslick",
+        "authors_list": [
+            "N. Arul Dhas",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 362,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.tet.2004.09.007",
+        "title": "Colorimetric sensor arrays for molecular recognition",
+        "journal": "Tetrahedron",
+        "year": 2004,
+        "citations": 322,
+        "authors": "Kenneth S. Suslick, Neal A. Rakow, Avijit Sen",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Neal A. Rakow",
+            "Avijit Sen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 322,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja9844635",
+        "title": "Hot Spot Conditions during Cavitation in Water",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1999,
+        "citations": 319,
+        "authors": "Yuri T. Didenko, William B. McNamara, Kenneth S. Suslick",
+        "authors_list": [
+            "Yuri T. Didenko",
+            "William B. McNamara",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 319,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.73.10.3333",
+        "title": "Nature of O2 and CO binding to metalloporphyrins and heme proteins.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1976,
+        "citations": 314,
+        "authors": "James P. Collman, John I. Brauman, Thomas R. Halbert et al.",
+        "authors_list": [
+            "James P. Collman",
+            "John I. Brauman",
+            "Thomas R. Halbert",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 314,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/431107"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja9800333",
+        "title": "Sonochemical Synthesis of Nanostructured Molybdenum Sulfide",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1998,
+        "citations": 309,
+        "authors": "Millan M. Mdleleni, Taeghwan Hyeon, Kenneth S. Suslick",
+        "authors_list": [
+            "Millan M. Mdleleni",
+            "Taeghwan Hyeon",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 309,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja052606z",
+        "title": "A Colorimetric Sensor Array for Organics in Water",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2005,
+        "citations": 306,
+        "authors": "Chen Zhang, Kenneth S. Suslick",
+        "authors_list": [
+            "Chen Zhang",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 306,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/anie.200500939",
+        "title": "Molecular Recognition and Discrimination of Amines with a Colorimetric Array",
+        "journal": "Angewandte Chemie International Edition",
+        "year": 2005,
+        "citations": 306,
+        "authors": "Neal A. Rakow, Avijit Sen, M.C. Janzen et al.",
+        "authors_list": [
+            "Neal A. Rakow",
+            "Avijit Sen",
+            "M.C. Janzen",
+            "Jennifer B. Ponder",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 306,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/cm960056l",
+        "title": "Nanostructured Materials Generated by High-Intensity Ultrasound:  Sonochemical Synthesis and Catalytic Studies",
+        "journal": "Chemistry of Materials",
+        "year": 1996,
+        "citations": 286,
+        "authors": "Kenneth S. Suslick, Taeghwan Hyeon, Mingming Fang",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Taeghwan Hyeon",
+            "Mingming Fang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 286,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja207718t",
+        "title": "Preoxidation for Colorimetric Sensor Array Detection of VOCs",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2011,
+        "citations": 284,
+        "authors": "Hengwei Lin, Min‐Seok Jang, Kenneth S. Suslick",
+        "authors_list": [
+            "Hengwei Lin",
+            "Min‐Seok Jang",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 284,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja9538187",
+        "title": "Nanostructured Molybdenum Carbide:  Sonochemical Synthesis and Catalytic Properties",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1996,
+        "citations": 279,
+        "authors": "Taeghwan Hyeon, Mingming Fang, Kenneth S. Suslick",
+        "authors_list": [
+            "Taeghwan Hyeon",
+            "Mingming Fang",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 279,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00283a024",
+        "title": "Shape-selective alkane hydroxylation by metalloporphyrin catalysts",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1986,
+        "citations": 277,
+        "authors": "Bruce R. Cook, Thomas Reinert, Kenneth S. Suslick",
+        "authors_list": [
+            "Bruce R. Cook",
+            "Thomas Reinert",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 277,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja910366p",
+        "title": "A Simple and Highly Sensitive Colorimetric Detection Method for Gaseous Formaldehyde",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2010,
+        "citations": 274,
+        "authors": "Liang Feng, Christopher J. Musto, Kenneth S. Suslick",
+        "authors_list": [
+            "Liang Feng",
+            "Christopher J. Musto",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 274,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00177a058",
+        "title": "Protein microencapsulation of nonaqueous liquids",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1990,
+        "citations": 270,
+        "authors": "Kenneth S. Suslick, Mark W. Grinstaff",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Mark W. Grinstaff"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 270,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja201634d",
+        "title": "Rapid Identification of Bacteria with a Disposable Colorimetric Sensing Array",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2011,
+        "citations": 268,
+        "authors": "James R. Carey, Kenneth S. Suslick, Keren I. Hulkower et al.",
+        "authors_list": [
+            "James R. Carey",
+            "Kenneth S. Suslick",
+            "Keren I. Hulkower",
+            "James A. Imlay",
+            "Karin R. Chonoles Imlay",
+            "Crystal K. Ingison",
+            "Jennifer B. Ponder",
+            "Avijit Sen",
+            "Aaron E. Wittrig"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 268,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja107419t",
+        "title": "A Colorimetric Sensor Array for Detection of Triacetone Triperoxide Vapor",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2010,
+        "citations": 266,
+        "authors": "Hengwei Lin, Kenneth S. Suslick",
+        "authors_list": [
+            "Hengwei Lin",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 266,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ac902823w",
+        "title": "Discrimination of Complex Mixtures by a Colorimetric Sensor Array: Coffee Aromas",
+        "journal": "Analytical Chemistry",
+        "year": 2010,
+        "citations": 263,
+        "authors": "Benjamin A. Suslick, Liang Feng, Kenneth S. Suslick",
+        "authors_list": [
+            "Benjamin A. Suslick",
+            "Liang Feng",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 263,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2947826"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ac1020886",
+        "title": "Colorimetric Sensor Array for Determination and Identification of Toxic Industrial Chemicals",
+        "journal": "Analytical Chemistry",
+        "year": 2010,
+        "citations": 248,
+        "authors": "Liang Feng, Christopher J. Musto, Jonathan W. Kemling et al.",
+        "authors_list": [
+            "Liang Feng",
+            "Christopher J. Musto",
+            "Jonathan W. Kemling",
+            "Sung Hee Lim",
+            "Wenxuan Zhong",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 248,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja051654g",
+        "title": "Porous MoS<sub>2</sub> Synthesized by Ultrasonic Spray Pyrolysis",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2005,
+        "citations": 248,
+        "authors": "Sara E. Skrabalak, Kenneth S. Suslick",
+        "authors_list": [
+            "Sara E. Skrabalak",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 248,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ultsonch.2014.02.005",
+        "title": "Sonocrystallization and sonofragmentation",
+        "journal": "Ultrasonics Sonochemistry",
+        "year": 2014,
+        "citations": 247,
+        "authors": "John R. G. Sander, Brad W. Zeiger, Kenneth S. Suslick",
+        "authors_list": [
+            "John R. G. Sander",
+            "Brad W. Zeiger",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 247,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-642-82805-8",
+        "title": "Modern Synthetic Methods 1986",
+        "journal": "Modern synthetic methods",
+        "year": 1986,
+        "citations": 245,
+        "authors": "Kenneth S. Suslick, Kurt Schaffner, Martin Demuth et al.",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Kurt Schaffner",
+            "Martin Demuth",
+            "Günter Helmchen",
+            "Herbert C. Brown",
+            "Dieter Seebàch"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 245,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1097/jto.0b013e318233d80f",
+        "title": "Exhaled Breath Analysis with a Colorimetric Sensor Array for the Identification and Characterization of Lung Cancer",
+        "journal": "Journal of Thoracic Oncology",
+        "year": 2011,
+        "citations": 243,
+        "authors": "Peter J. Mazzone, Xiao Feng Wang, Yaomin Xu et al.",
+        "authors_list": [
+            "Peter J. Mazzone",
+            "Xiao Feng Wang",
+            "Yaomin Xu",
+            "Tarek Mekhail",
+            "Mary C. Beukemann",
+            "Jie Na",
+            "Jonathan W. Kemling",
+            "Kenneth S. Suslick",
+            "Madhu Sasidhar"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 243,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jto.org/article/S1556086415317706/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja0676657",
+        "title": "Sonochemical Synthesis of Nanosized Hollow Hematite",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2007,
+        "citations": 240,
+        "authors": "Jin Ho Bang, Kenneth S. Suslick",
+        "authors_list": [
+            "Jin Ho Bang",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 240,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf0624695",
+        "title": "Colorimetric Sensor Array for Soft Drink Analysis",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2006,
+        "citations": 239,
+        "authors": "Chen Zhang, Kenneth S. Suslick",
+        "authors_list": [
+            "Chen Zhang",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 239,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1364/ol.28.001546",
+        "title": "Engineered microsphere contrast agents for optical coherence tomography",
+        "journal": "Optics Letters",
+        "year": 2003,
+        "citations": 238,
+        "authors": "Tin Man Lee, Amy L. Oldenburg, Shoeb Sitafalwalla et al.",
+        "authors_list": [
+            "Tin Man Lee",
+            "Amy L. Oldenburg",
+            "Shoeb Sitafalwalla",
+            "Daniel L. Marks",
+            "Wei Luo",
+            "Farah Jean-Jacques Toublan",
+            "Kenneth S. Suslick",
+            "Stephen A. Boppart"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 238,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja972171i",
+        "title": "Chemistry Induced by Hydrodynamic Cavitation",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1997,
+        "citations": 237,
+        "authors": "Kenneth S. Suslick, Millan M. Mdleleni, Jeffrey T. Ries",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Millan M. Mdleleni",
+            "Jeffrey T. Ries"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 237,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf060110a",
+        "title": "Colorimetric Sensor Arrays for the Analysis of Beers:  A Feasibility Study",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2006,
+        "citations": 225,
+        "authors": "Chen Zhang, Daniel P. Bailey, Kenneth S. Suslick",
+        "authors_list": [
+            "Chen Zhang",
+            "Daniel P. Bailey",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 225,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.88.17.7708",
+        "title": "Air-filled proteinaceous microbubbles: synthesis of an echo-contrast agent.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1991,
+        "citations": 222,
+        "authors": "Mark W. Grinstaff, Kenneth S. Suslick",
+        "authors_list": [
+            "Mark W. Grinstaff",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 222,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-94-015-9215-4",
+        "title": "Sonochemistry and Sonoluminescence",
+        "journal": "",
+        "year": 1999,
+        "citations": 221,
+        "authors": "Lawrence A. Crum, Timothy J. Mason, Jacques Reisse et al.",
+        "authors_list": [
+            "Lawrence A. Crum",
+            "Timothy J. Mason",
+            "Jacques Reisse",
+            "Kenneth S. Suslick"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 221,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp903757x",
+        "title": "BiVO<sub>4</sub> as a Visible-Light Photocatalyst Prepared by Ultrasonic Spray Pyrolysis",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2009,
+        "citations": 216,
+        "authors": "Scott S. Dunkle, Richard J. Helmich, Kenneth S. Suslick",
+        "authors_list": [
+            "Scott S. Dunkle",
+            "Richard J. Helmich",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 216,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/b926848k",
+        "title": "A colorimetric sensor array for identification of toxic gases below permissible exposure limits",
+        "journal": "Chemical Communications",
+        "year": 2010,
+        "citations": 215,
+        "authors": "Liang Feng, Christopher J. Musto, Jonathan W. Kemling et al.",
+        "authors_list": [
+            "Liang Feng",
+            "Christopher J. Musto",
+            "Jonathan W. Kemling",
+            "Sung Hee Lim",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 215,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja049493o",
+        "title": "High Velocity Interparticle Collisions Driven by Ultrasound",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2004,
+        "citations": 214,
+        "authors": "Tanya Prozorov, R. Prozorov, Kenneth S. Suslick",
+        "authors_list": [
+            "Tanya Prozorov",
+            "R. Prozorov",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 214,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.75.2602",
+        "title": "Comparison of Multibubble and Single-Bubble Sonoluminescence Spectra",
+        "journal": "Physical Review Letters",
+        "year": 1995,
+        "citations": 213,
+        "authors": "Thomas J. Matula, Ronald A. Roy, Pierre D. Mourad et al.",
+        "authors_list": [
+            "Thomas J. Matula",
+            "Ronald A. Roy",
+            "Pierre D. Mourad",
+            "William B. McNamara",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 213,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/9780470172513.ch26",
+        "title": "Sonochemistry and Sonoluminescence",
+        "journal": "",
+        "year": 1997,
+        "citations": 210,
+        "authors": "Kenneth S. Suslick, Lawrence A. Crum",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Lawrence A. Crum"
+        ],
+        "type": "reference-entry",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 210,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/35038020",
+        "title": "Molecular emission from single-bubble sonoluminescence",
+        "journal": "Nature",
+        "year": 2000,
+        "citations": 206,
+        "authors": "Yuri T. Didenko, William B. McNamara, Kenneth S. Suslick",
+        "authors_list": [
+            "Yuri T. Didenko",
+            "William B. McNamara",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 206,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/444163a",
+        "title": "Light from sonication of crystal slurries",
+        "journal": "Nature",
+        "year": 2006,
+        "citations": 199,
+        "authors": "Nathan C. Eddingsaas, Kenneth S. Suslick",
+        "authors_list": [
+            "Nathan C. Eddingsaas",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 199,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/444163a.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00529a055",
+        "title": "Models for the active site of oxygen-binding hemoproteins. Dioxygen binding properties and the structures of (2-methylimidazole)-meso-tetra(.alpha.,.alpha.,.alpha.,.alpha.-o-pivalamidophenyl)porphyrinatoiron(II)-ethanol and its dioxygen adduct",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1980,
+        "citations": 198,
+        "authors": "Geoffrey B. Jameson, Frank S. Molinaro, James A. Ibers et al.",
+        "authors_list": [
+            "Geoffrey B. Jameson",
+            "Frank S. Molinaro",
+            "James A. Ibers",
+            "James P. Collman",
+            "John I. Brauman",
+            "Éric Rose",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 198,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/(sici)1099-1409(200006/07)4:4<407::aid-jpp256>3.0.co;2-5",
+        "title": "The materials chemistry of porphyrins and metalloporphyrins",
+        "journal": "Journal of Porphyrins and Phthalocyanines",
+        "year": 2000,
+        "citations": 194,
+        "authors": "Kenneth S. Suslick, Neal A. Rakow, Margaret E. Kosal et al.",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Neal A. Rakow",
+            "Margaret E. Kosal",
+            "JUNG-HONG CHOU"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 194,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nl403419e",
+        "title": "Variation of Protein Corona Composition of Gold Nanoparticles Following Plasmonic Heating",
+        "journal": "Nano Letters",
+        "year": 2013,
+        "citations": 194,
+        "authors": "Morteza Mahmoudi, Samuel E. Lohse, Catherine J. Murphy et al.",
+        "authors_list": [
+            "Morteza Mahmoudi",
+            "Samuel E. Lohse",
+            "Catherine J. Murphy",
+            "Arman Fathizadeh",
+            "Abbas Montazeri",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 194,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja050693p",
+        "title": "Magnetic and Porous Nanospheres from Ultrasonic Spray Pyrolysis",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2005,
+        "citations": 186,
+        "authors": "Won Hyuck Suh, Kenneth S. Suslick",
+        "authors_list": [
+            "Won Hyuck Suh",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 186,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00043a055",
+        "title": "Push-pull porphyrins as nonlinear optical materials",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1992,
+        "citations": 184,
+        "authors": "Kenneth S. Suslick, Chin‐Ti Chen, G. R. Meredith et al.",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Chin‐Ti Chen",
+            "G. R. Meredith",
+            "Lap Tak Cheng"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 184,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ultsonch.2010.12.012",
+        "title": "Extreme conditions during multibubble cavitation: Sonoluminescence as a spectroscopic probe",
+        "journal": "Ultrasonics Sonochemistry",
+        "year": 2011,
+        "citations": 182,
+        "authors": "Kenneth S. Suslick, Nathan C. Eddingsaas, David J. Flannigan et al.",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Nathan C. Eddingsaas",
+            "David J. Flannigan",
+            "Stephen D. Hopkins",
+            "Hangxun Xu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 182,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja971093w",
+        "title": "Hydrogen-Bonded Porphyrinic Solids:  Supramolecular Networks of Octahydroxy Porphyrins",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1997,
+        "citations": 177,
+        "authors": "P. Bhyrappa, Scott R. Wilson, Kenneth S. Suslick",
+        "authors_list": [
+            "P. Bhyrappa",
+            "Scott R. Wilson",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 177,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/j100236a013",
+        "title": "Alkane sonochemistry",
+        "journal": "The Journal of Physical Chemistry",
+        "year": 1983,
+        "citations": 172,
+        "authors": "Kenneth S. Suslick, John J. Gawienowski, Paul F. Schubert et al.",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "John J. Gawienowski",
+            "Paul F. Schubert",
+            "Hau H. Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 172,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00477a031",
+        "title": "Oxygen binding to cobalt porphyrins",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1978,
+        "citations": 171,
+        "authors": "James P. Collman, John I. Brauman, Kenneth M. Doxsee et al.",
+        "authors_list": [
+            "James P. Collman",
+            "John I. Brauman",
+            "Kenneth M. Doxsee",
+            "Thomas R. Halbert",
+            "Susan E. Hayes",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 171,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1557/s088376940004464x",
+        "title": "Applications of Ultrasound to Materials Chemistry",
+        "journal": "MRS Bulletin",
+        "year": 1995,
+        "citations": 170,
+        "authors": "Kenneth S. Suslick",
+        "authors_list": [
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 170,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1364/opex.13.006597",
+        "title": "Magnetomotive contrast for in vivo optical coherence tomography",
+        "journal": "Optics Express",
+        "year": 2005,
+        "citations": 168,
+        "authors": "Amy L. Oldenburg, Farah Jean-Jacques Toublan, Kenneth S. Suslick et al.",
+        "authors_list": [
+            "Amy L. Oldenburg",
+            "Farah Jean-Jacques Toublan",
+            "Kenneth S. Suslick",
+            "Alexander Wei",
+            "Stephen A. Boppart"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 168,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1364/opex.13.006597"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acssensors.6b00492",
+        "title": "Portable Optoelectronic Nose for Monitoring Meat Freshness",
+        "journal": "ACS Sensors",
+        "year": 2016,
+        "citations": 168,
+        "authors": "Zheng Li, Kenneth S. Suslick",
+        "authors_list": [
+            "Zheng Li",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 168,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja205867f",
+        "title": "Sonofragmentation of Molecular Crystals",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2011,
+        "citations": 167,
+        "authors": "Brad W. Zeiger, Kenneth S. Suslick",
+        "authors_list": [
+            "Brad W. Zeiger",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 167,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja200883z",
+        "title": "Sonochemical Preparation of Functionalized Graphenes",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2011,
+        "citations": 165,
+        "authors": "Hangxun Xu, Kenneth S. Suslick",
+        "authors_list": [
+            "Hangxun Xu",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 165,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c5sc02632f",
+        "title": "An optoelectronic nose for identification of explosives",
+        "journal": "Chemical Science",
+        "year": 2015,
+        "citations": 165,
+        "authors": "Jon R. Askim, Zheng Li, Maria K. LaGasse et al.",
+        "authors_list": [
+            "Jon R. Askim",
+            "Zheng Li",
+            "Maria K. LaGasse",
+            "Jaqueline M. Rankin",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 165,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.rsc.org/en/content/articlepdf/2016/sc/c5sc02632f"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/cryst8070280",
+        "title": "The Effects of Ultrasound on Crystals: Sonocrystallization and Sonofragmentation",
+        "journal": "Crystals",
+        "year": 2018,
+        "citations": 161,
+        "authors": "Hyo Na Kim, Kenneth S. Suslick",
+        "authors_list": [
+            "Hyo Na Kim",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 161,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/2073-4352/8/7/280/pdf?version=1530683426"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.accounts.0c00671",
+        "title": "The Optoelectronic Nose",
+        "journal": "Accounts of Chemical Research",
+        "year": 2020,
+        "citations": 161,
+        "authors": "Zheng Li, Kenneth S. Suslick",
+        "authors_list": [
+            "Zheng Li",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 161,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.200703188",
+        "title": "Nanostructured ZnS:Ni<sup>2+</sup> Photocatalysts Prepared by Ultrasonic Spray Pyrolysis",
+        "journal": "Advanced Materials",
+        "year": 2008,
+        "citations": 157,
+        "authors": "Jin Ho Bang, Richard J. Helmich, Kenneth S. Suslick",
+        "authors_list": [
+            "Jin Ho Bang",
+            "Richard J. Helmich",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 157,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00245a047",
+        "title": "Heterogeneous sonocatalysis with nickel powder",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1987,
+        "citations": 157,
+        "authors": "Kenneth S. Suslick, Dominick J. Casadonte",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Dominick J. Casadonte"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 157,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.48.269",
+        "title": "Magnetic properties of amorphous iron",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 1993,
+        "citations": 153,
+        "authors": "Mark W. Grinstaff, M. B. Salamon, Kenneth S. Suslick",
+        "authors_list": [
+            "Mark W. Grinstaff",
+            "M. B. Salamon",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 153,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.200600222",
+        "title": "Porous, Hollow, and Ball‐in‐Ball Metal Oxide Microspheres: Preparation, Endocytosis, and Cytotoxicity",
+        "journal": "Advanced Materials",
+        "year": 2006,
+        "citations": 152,
+        "authors": "Won Hyuck Suh, Ahram Jang, Y. H. Suh et al.",
+        "authors_list": [
+            "Won Hyuck Suh",
+            "Ahram Jang",
+            "Y. H. Suh",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 152,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.200600222"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1557/mrs2004.209",
+        "title": "An Optoelectronic Nose:“Seeing” Smells by Means of Colorimetric Sensor Arrays",
+        "journal": "MRS Bulletin",
+        "year": 2004,
+        "citations": 150,
+        "authors": "Kenneth S. Suslick",
+        "authors_list": [
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 150,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0041-624x(87)90013-8",
+        "title": "Effects of high intensity ultrasound on inorganic solids",
+        "journal": "Ultrasonics",
+        "year": 1987,
+        "citations": 149,
+        "authors": "Kenneth S. Suslick, Dominick J. Casadonte, M.L.H. Green et al.",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Dominick J. Casadonte",
+            "M.L.H. Green",
+            "Mark E. Thompson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 149,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ac901019g",
+        "title": "Colorimetric Detection and Identification of Natural and Artificial Sweeteners",
+        "journal": "Analytical Chemistry",
+        "year": 2009,
+        "citations": 147,
+        "authors": "Christopher J. Musto, Sung Hee Lim, Kenneth S. Suslick",
+        "authors_list": [
+            "Christopher J. Musto",
+            "Sung Hee Lim",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 147,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2846544"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja064899h",
+        "title": "Porous Carbon Powders Prepared by Ultrasonic Spray Pyrolysis",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2006,
+        "citations": 147,
+        "authors": "Sara E. Skrabalak, Kenneth S. Suslick",
+        "authors_list": [
+            "Sara E. Skrabalak",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 147,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00356a014",
+        "title": "Sonochemistry and sonocatalysis of metal carbonyls",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1983,
+        "citations": 145,
+        "authors": "Kenneth S. Suslick, J. W. Goodale, Paul F. Schubert et al.",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "J. W. Goodale",
+            "Paul F. Schubert",
+            "Hau H. Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 145,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.accounts.8b00088",
+        "title": "The Chemical History of a Bubble",
+        "journal": "Accounts of Chemical Research",
+        "year": 2018,
+        "citations": 140,
+        "authors": "Kenneth S. Suslick, Nathan C. Eddingsaas, David J. Flannigan et al.",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Nathan C. Eddingsaas",
+            "David J. Flannigan",
+            "Stephen D. Hopkins",
+            "Hangxun Xu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 140,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja0357240",
+        "title": "Molecular Imprinting Inside Dendrimers",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2003,
+        "citations": 140,
+        "authors": "Steven C. Zimmerman, Ilya Zharov, Michael S. Wendland et al.",
+        "authors_list": [
+            "Steven C. Zimmerman",
+            "Ilya Zharov",
+            "Michael S. Wendland",
+            "Neal A. Rakow",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 140,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/anie.201705264",
+        "title": "Colorimetric Recognition of Aldehydes and Ketones",
+        "journal": "Angewandte Chemie International Edition",
+        "year": 2017,
+        "citations": 139,
+        "authors": "Zheng Li, Ming Fang, Maria K. LaGasse et al.",
+        "authors_list": [
+            "Zheng Li",
+            "Ming Fang",
+            "Maria K. LaGasse",
+            "Jon R. Askim",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 139,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.262792899",
+        "title": "Is the olfactory receptor a metalloprotein?",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2003,
+        "citations": 137,
+        "authors": "Jiangyun Wang, Zaida Luthey‐Schulten, Kenneth S. Suslick",
+        "authors_list": [
+            "Jiangyun Wang",
+            "Zaida Luthey‐Schulten",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 137,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja029830y",
+        "title": "Sonochemistry and Sonoluminescence of Room-Temperature Ionic Liquids",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2003,
+        "citations": 136,
+        "authors": "James D. Oxley, Tanya Prozorov, Kenneth S. Suslick",
+        "authors_list": [
+            "James D. Oxley",
+            "Tanya Prozorov",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 136,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0921-5093(95)09958-1",
+        "title": "Sonochemical synthesis of nanostructured catalysts",
+        "journal": "Materials Science and Engineering A",
+        "year": 1995,
+        "citations": 130,
+        "authors": "Kenneth S. Suslick, Taeghwan Hyeon, Mingming Fang et al.",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Taeghwan Hyeon",
+            "Mingming Fang",
+            "Andrzej A. Cichowlas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/330553a0",
+        "title": "Sonoluminescence from non-aqueous liquids",
+        "journal": "Nature",
+        "year": 1987,
+        "citations": 128,
+        "authors": "Kenneth S. Suslick, E.B. Flint",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "E.B. Flint"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp991524s",
+        "title": "Temperature of Multibubble Sonoluminescence in Water",
+        "journal": "The Journal of Physical Chemistry A",
+        "year": 1999,
+        "citations": 125,
+        "authors": "Yuri T. Didenko, William B. McNamara, Kenneth S. Suslick",
+        "authors_list": [
+            "Yuri T. Didenko",
+            "William B. McNamara",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 125,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ol801459k",
+        "title": "A Colorimetric Sensor Array for Detection and Identification of Sugars",
+        "journal": "Organic Letters",
+        "year": 2008,
+        "citations": 124,
+        "authors": "Sung Hee Lim, Christopher J. Musto, Erwin Park et al.",
+        "authors_list": [
+            "Sung Hee Lim",
+            "Christopher J. Musto",
+            "Erwin Park",
+            "Wenxuan Zhong",
+            "Kenneth S. Suslick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 124,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2630291"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1126/science.253.5026.1397",
+        "title": "The Temperature of Cavitation",
+        "journal": "Science",
+        "year": 1991,
+        "citations": 1078,
+        "authors": "Edward B. Flint, Kenneth S. Suslick",
+        "authors_list": [
+            "Edward B. Flint",
+            "Kenneth S. Suslick"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1078
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1098/rsta.1999.0330",
+        "title": "Acoustic cavitation and its chemical consequences",
+        "journal": "Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences",
+        "year": 1999,
+        "citations": 700,
+        "authors": "Kenneth S. Suslick, Yuri Didenko, Ming M. Fang et al.",
+        "authors_list": [
+            "Kenneth S. Suslick",
+            "Yuri Didenko",
+            "Ming M. Fang",
+            "Taeghwan Hyeon",
+            "Kenneth J. Kolbeck",
+            "William B. McNamara",
+            "Millan M. Mdleleni",
+            "Mike Wong"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 700
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/0010-8545(93)80036-5",
+        "title": "One-dimensional coordination polymers: Applications to material science",
+        "journal": "Coordination Chemistry Reviews",
+        "year": 1993,
+        "citations": 500,
+        "authors": "Chin-Ti Chen, Kenneth S. Suslick",
+        "authors_list": [
+            "Chin-Ti Chen",
+            "Kenneth S. Suslick"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 500
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/0041-624x(90)90033-k",
+        "title": "On the origin of sonoluminescence and sonochemistry",
+        "journal": "Ultrasonics",
+        "year": 1990,
+        "citations": 363,
+        "authors": "K.S. Suslick, S.J. Doktycz, E.B. Flint",
+        "authors_list": [
+            "K.S. Suslick",
+            "S.J. Doktycz",
+            "E.B. Flint"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 363
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "url": "https://scholar.google.com/citations?user=8R-BDbEAAAAJ&hl=en",
+        "snippet": "Dynamic modeling for business management: An introduction. B McGarvey, B Hannon. Springer New York, 2004. 137, 2004 ; Total energy costs in ecosystems. B Hannon.",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet displays a citation profile and lists two publications, indicating it's likely a Google Scholar publication page."
+    },
+    {
+        "url": "https://link.springer.com/book/10.1007/978-1-4613-0211-7",
+        "snippet": "Book Title: Dynamic Modeling · Authors: Bruce Hannon, Matthias Ruth · Series Title: Modeling Dynamic Systems · Publisher: Springer New York, NY · eBook Packages: ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is from a well-known academic publisher, and the snippet includes relevant metadata such as authors, title, and publisher."
+    },
+    {
+        "url": "https://www.cambridge.org/core/books/searching-for-sustainability/democracy-and-sense-of-place-values-in-environmental-policy-with-bruce-hannon/32931502C2E9AA98834C51C5E1836DE3",
+        "snippet": "19 - Democracy and Sense of Place Values in Environmental Policy, with Bruce Hannon ... ” From 2nd International Conference on Integrating Geographic ...",
+        "category": "Publication",
+        "relevance_score": 92,
+        "reasoning": "The URL is from Cambridge University Press, a well-known academic publisher, and the snippet mentions a book chapter with author Bruce Hannon."
+    },
+    {
+        "url": "https://ideas.repec.org/a/eee/ecolec/v19y1996i1p92-93.html",
+        "snippet": "Dynamic modeling : Eds. Bruce Hannon and Matthias Ruth, 1994. Springer-Verlag; 248 pp. + index. ISBN: 0-387-94287-4. Author & abstract; Download; 1 Citations ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The URL is a RePEC (Research Papers in Economics) link, indicating an academic publication or research paper."
+    }
+]

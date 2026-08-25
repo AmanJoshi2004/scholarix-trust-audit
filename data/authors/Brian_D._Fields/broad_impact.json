@@ -1,0 +1,51 @@
+[
+    {
+        "url": "https://www.researchgate.net/scientific-contributions/Brian-D-Fields-33579538",
+        "snippet": "Annual Review of Nuclear and Particle Science. Brian D. Fields. ·. Anton Wallner ... where K is a function of the torsion of the Universe and vanishes in a ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The snippet appears to be a reference to an academic publication, specifically the Annual Review of Nuclear and Particle Science."
+    },
+    {
+        "url": "https://www.physics.ox.ac.uk/our-people/sarkar/publications?page=169",
+        "snippet": "(2014). Authors: Brian D Fields, Paolo Molaro, Subir Sarkar. More details from the publisher. Multimessenger search for sources of gravitational waves and high ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "Lists authors and a specific publication with a year, indicating an academic publication page."
+    },
+    {
+        "url": "https://isms.illinois.edu/2016/schedule/schedule_session.php?sID=325",
+        "snippet": "SESSION CHAIR: Brian D. Fields (University of Illinois at Urbana-Champaign, Urbana, IL). Return to Schedule Grid. 08:30 AM. PRESENTATION OF RAO AWARDS. RA ...",
+        "category": "Conference",
+        "relevance_score": 90,
+        "reasoning": "The URL is a schedule page for an academic conference, and the session chair's affiliation matches the author's likely department"
+    },
+    {
+        "url": "https://astro.illinois.edu/directory/profile/bdfields",
+        "snippet": "... particle physics play a central role. Understanding these processes and ... Annual Review of Nuclear and Particle Science, 75(1), 173-199. https://doi ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "Author's profile links to a publication they co-authored, including a DOI and journal citation"
+    },
+    {
+        "url": "https://ned.ipac.caltech.edu/level5/Sept15/Fields/frames.html",
+        "snippet": "In Annual Review of Nuclear and Particle Science, vol. 61, issue 1, pp. 47 ... nucleosynthesis, early universe, dark matter, abundances of light ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The snippet references a specific academic publication, Annual Review of Nuclear and Particle Science."
+    },
+    {
+        "url": "https://www.sciencedirect.com/author/7101759321/brian-d-fields",
+        "snippet": "Review of Particle Physics. C. Amsler, … B.D. Fields, … P. Schaffner. Physics ... Finally, moving beyond the standard model, primordial nucleosynthesis ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "Author's publication list is displayed, indicating a peer-reviewed academic source."
+    },
+    {
+        "url": "https://iopscience.iop.org/article/10.1088/0004-637X/800/1/71",
+        "snippet": "ASTROPHYSICAL SHRAPNEL: DISCRIMINATING AMONG NEAR-EARTH STELLAR EXPLOSION SOURCES OF LIVE RADIOACTIVE ISOTOPES. Brian J. Fry, Brian D. Fields, ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The URL is a scientific article on IOPscience, a reputable online publishing platform for scientific journals."
+    }
+]

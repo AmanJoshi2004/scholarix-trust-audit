@@ -1,0 +1,3484 @@
+[
+    {
+        "doi": "https://doi.org/10.17863/cam.64134",
+        "title": "SciPy 1.0: fundamental algorithms for scientific computing in Python",
+        "journal": "Monash University Research Portal (Monash University)",
+        "year": 2019,
+        "citations": 11592,
+        "authors": "Pauli Virtanen, Ralf Gommers, Travis E. Oliphant et al.",
+        "authors_list": [
+            "Pauli Virtanen",
+            "Ralf Gommers",
+            "Travis E. Oliphant",
+            "Matt Haberland",
+            "Tyler Reddy",
+            "David Cournapeau",
+            "Evgeni Burovski",
+            "Pearu Peterson",
+            "Warren Weckesser",
+            "Jonathan Bright",
+            "Stéfan van der Walt",
+            "Matthew Brett",
+            "Joshua Wilson",
+            "K. Jarrod Millman",
+            "Nikolay Mayorov",
+            "Andrew Nelson",
+            "Eric D. Jones",
+            "Robert Kern",
+            "Eric R. Larson",
+            "CJ Carey",
+            "İlhan Polat",
+            "Yu Feng",
+            "Eric Moore",
+            "Jake Vanderplas",
+            "Denis Laxalde",
+            "Josef Perktold",
+            "Robert Cimrman",
+            "Ian Henriksen",
+            "E. A. Quintero",
+            "C. R. Harris",
+            "Anne M. Archibald",
+            "Antônio H. Ribeiro",
+            "Fabian Pedregosa",
+            "Paul van Mulbregt",
+            "A. Vijaykumar",
+            "Alessandro Pietro Bardelli",
+            "Alex Rothberg",
+            "Andreas Hilboll",
+            "Andreas Kloeckner",
+            "Anthony Scopatz",
+            "Antony Lee",
+            "Ariel Rokem",
+            "Charles Woods",
+            "Chad Fulton",
+            "Charles Masson",
+            "Christian Häggström",
+            "C Fitzgerald",
+            "David Nicholson",
+            "David Hagen",
+            "Dmitrii V. Ṗasechnik",
+            "Emanuele Olivetti",
+            "Éric Martin",
+            "Eric Wieser",
+            "Fabrice Silva",
+            "Felix Lenders",
+            "Florian Wilhelm",
+            "George S. Young",
+            "Gavin A Price",
+            "Gert‐Ludwig Ingold",
+            "Gregory E. Allen",
+            "Gregory R. Lee",
+            "Hervé Audren",
+            "Irvin Probst",
+            "J. P. Dietrich",
+            "Jacob Silterra",
+            "James T. Webber",
+            "Janko Slavič",
+            "Joel Nothman",
+            "Johannes Büchner",
+            "Johannes Kulick",
+            "Johannes L. Schönberger",
+            "José Vinícius de Miranda Cardoso",
+            "Joscha Reimer",
+            "Joseph Harrington",
+            "Juan Luis Cano",
+            "Juan Nunez-Iglesias",
+            "Justin Kuczynski",
+            "K. Tritz",
+            "Martin Thoma",
+            "M. Newville",
+            "Matthias Kümmerer",
+            "Maximilian Bolingbroke",
+            "Michael Tartre",
+            "M. Pak",
+            "Nathaniel J. Smith",
+            "Nikolai Nowaczyk",
+            "Nikolay Shebanov",
+            "Oleksandr Pavlyk",
+            "Per A. Brodtkorb",
+            "Perry Lee",
+            "Robert T. McGibbon",
+            "Roman Feldbauer",
+            "Sam Lewis",
+            "Sam Tygier",
+            "Scott Sievert",
+            "Sebastiano Vigna",
+            "Stefan Peterson",
+            "Surhud More",
+            "Tadeusz Pudlik",
+            "拓也 大嶋"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 11592,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41592-020-0772-5",
+        "title": "Author Correction: SciPy 1.0: fundamental algorithms for scientific computing in Python",
+        "journal": "Nature Methods",
+        "year": 2020,
+        "citations": 1656,
+        "authors": "SciPy 1.0 Contributors, Pauli Virtanen, Ralf Gommers et al.",
+        "authors_list": [
+            "SciPy 1.0 Contributors",
+            "Pauli Virtanen",
+            "Ralf Gommers",
+            "Travis E. Oliphant",
+            "Matt Haberland",
+            "Tyler Reddy",
+            "David Cournapeau",
+            "Evgeni Burovski",
+            "Pearu Peterson",
+            "Warren Weckesser",
+            "Jonathan Bright",
+            "Stéfan van der Walt",
+            "Matthew Brett",
+            "Joshua Wilson",
+            "K. Jarrod Millman",
+            "Nikolay Mayorov",
+            "Andrew Nelson",
+            "Eric D. Jones",
+            "Robert Kern",
+            "Eric R. Larson",
+            "CJ Carey",
+            "İlhan Polat",
+            "Yu Feng",
+            "Eric Moore",
+            "Jake Vanderplas",
+            "Denis Laxalde",
+            "Josef Perktold",
+            "Robert Cimrman",
+            "Ian Henriksen",
+            "E. A. Quintero",
+            "C. R. Harris",
+            "Anne M. Archibald",
+            "Antônio H. Ribeiro",
+            "Fabian Pedregosa",
+            "Paul van Mulbregt"
+        ],
+        "type": "erratum",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1656,
+            "crossref": 1591
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41592-020-0772-5.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1001/archpsyc.56.3.254",
+        "title": "Brain Magnetic Resonance Imaging of Structural Abnormalities in Bipolar Disorder",
+        "journal": "Archives of General Psychiatry",
+        "year": 1999,
+        "citations": 628,
+        "authors": "Stephen M. Strakowski, Melissa P. DelBello, Kenji W. Sax et al.",
+        "authors_list": [
+            "Stephen M. Strakowski",
+            "Melissa P. DelBello",
+            "Kenji W. Sax",
+            "Molly E. Zimmerman",
+            "Paula K. Shear",
+            "J.M. Hawkins",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 628,
+            "crossref": 456
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/fee.2162",
+        "title": "From <scp>eDNA</scp> to citizen science: emerging tools for the early detection of invasive species",
+        "journal": "Frontiers in Ecology and the Environment",
+        "year": 2020,
+        "citations": 306,
+        "authors": "Eric R. Larson, Brittney M. Graham, Rafael Achury et al.",
+        "authors_list": [
+            "Eric R. Larson",
+            "Brittney M. Graham",
+            "Rafael Achury",
+            "Jaime J. Coon",
+            "Melissa K. Daniels",
+            "Daniel K Gambrell",
+            "Kacie L. Jonasen",
+            "Gregory D. King",
+            "Nicholas LaRacuente",
+            "Tolulope I.N. Perrin-Stowe",
+            "Emily M. Reed",
+            "Christopher J. Rice",
+            "Selina A. Ruzi",
+            "Margaret W. Thairu",
+            "Jared C. Wilson",
+            "Andrew V. Suarez"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 306,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/mprv.2010.74",
+        "title": "Disaggregated End-Use Energy Sensing for the Smart Grid",
+        "journal": "IEEE Pervasive Computing",
+        "year": 2010,
+        "citations": 299,
+        "authors": "Jon E. Froehlich, Eric R. Larson, Sidhant Gupta et al.",
+        "authors_list": [
+            "Jon E. Froehlich",
+            "Eric R. Larson",
+            "Sidhant Gupta",
+            "Gabe Cohn",
+            "Matthew S. Reynolds",
+            "Shwetak Patel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 299,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1899/12-203.1",
+        "title": "A global meta-analysis of the ecological impacts of nonnative crayfish",
+        "journal": "Freshwater Science",
+        "year": 2013,
+        "citations": 287,
+        "authors": "Laura A. Twardochleb, Julian D. Olden, Eric R. Larson",
+        "authors_list": [
+            "Laura A. Twardochleb",
+            "Julian D. Olden",
+            "Eric R. Larson"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 287,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jm00105a018",
+        "title": "Novel, potent aldose reductase inhibitors: 3,4-dihydro-4-oxo-3-[[5-(trifluoromethyl)-2-benzothiazolyl]methyl]-1-phthalazineacetic acid (zopolrestat) and congeners",
+        "journal": "Journal of Medicinal Chemistry",
+        "year": 1991,
+        "citations": 249,
+        "authors": "Banavara L. Mylari, Eric R. Larson, Thomas A. Beyer et al.",
+        "authors_list": [
+            "Banavara L. Mylari",
+            "Eric R. Larson",
+            "Thomas A. Beyer",
+            "William J. Zembrowski",
+            "Charles E. Aldinger",
+            "Michael F. Dee",
+            "Todd W. Siegel",
+            "David H. Singleton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 249,
+            "crossref": 225
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.7270/q2513x6h"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev-environ-110615-085532",
+        "title": "Risk Analysis and Bioeconomics of Invasive Species to Inform Policy and Management",
+        "journal": "Annual Review of Environment and Resources",
+        "year": 2016,
+        "citations": 241,
+        "authors": "David M. Lodge, Paul W. Simonin, Stanley W. Burgiel et al.",
+        "authors_list": [
+            "David M. Lodge",
+            "Paul W. Simonin",
+            "Stanley W. Burgiel",
+            "Reuben P. Keller",
+            "Jonathan M. Bossenbroek",
+            "Christopher L. Jerde",
+            "Andrew M. Kramer",
+            "Edward S. Rutherford",
+            "Matthew A. Barnes",
+            "Marion E. Wittmann",
+            "W. Lindsay Chadderton",
+            "Jenny L. Apriesnig",
+            "Dmitry Beletsky",
+            "Roger Cooke",
+            "John M. Drake",
+            "Scott P. Egan",
+            "David Finnoff",
+            "Crysta A. Gantz",
+            "Erin K. Grey",
+            "Michael H. Hoff",
+            "Jennifer G. Howeth",
+            "Richard A. Jensen",
+            "Eric R. Larson",
+            "Nicholas E. Mandrak",
+            "Doran M. Mason",
+            "Félix Martínez",
+            "Tammy J. Newcomb",
+            "John D. Rothlisberger",
+            "Andrew Tucker",
+            "Travis Warziniack",
+            "Hongyan Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 241,
+            "crossref": 212
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-environ-110615-085532"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/1365-2664.12621",
+        "title": "Environmental<scp>DNA</scp>(<scp>eDNA</scp>) detects the invasive rusty crayfish<i>Orconectes rusticus</i>at low abundances",
+        "journal": "Journal of Applied Ecology",
+        "year": 2016,
+        "citations": 205,
+        "authors": "Matthew M. Dougherty, Eric R. Larson, Mark A. Renshaw et al.",
+        "authors_list": [
+            "Matthew M. Dougherty",
+            "Eric R. Larson",
+            "Mark A. Renshaw",
+            "Crysta A. Gantz",
+            "Scott P. Egan",
+            "Daniel M. Erickson",
+            "David M. Lodge"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 205,
+            "crossref": 176
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2664.12621"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0006-8993(96)01422-9",
+        "title": "Cellular distribution of the rat D4 dopamine receptor protein in the CNS using anti-receptor antisera",
+        "journal": "Brain Research",
+        "year": 1997,
+        "citations": 197,
+        "authors": "Marjorie A. Ariano, Jean Wang, Kurtis L. Noblett et al.",
+        "authors_list": [
+            "Marjorie A. Ariano",
+            "Jean Wang",
+            "Kurtis L. Noblett",
+            "Eric R. Larson",
+            "David R. Sibley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 197,
+            "crossref": 151
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0165273",
+        "title": "Environmental DNA (eDNA) Detection Probability Is Influenced by Seasonal Activity of Organisms",
+        "journal": "PLoS ONE",
+        "year": 2016,
+        "citations": 192,
+        "authors": "Lesley S. de Souza, James C. Godwin, Mark A. Renshaw et al.",
+        "authors_list": [
+            "Lesley S. de Souza",
+            "James C. Godwin",
+            "Mark A. Renshaw",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 192,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0165273&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00291a026",
+        "title": "On the scope, mechanism and stereochemistry of the Lewis acid catalyzed cyclocondensation of activated dienes with aldehydes: an application to the erythronolide problem",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1985,
+        "citations": 170,
+        "authors": "Samuel J. Danishefsky, Eric R. Larson, David Askin et al.",
+        "authors_list": [
+            "Samuel J. Danishefsky",
+            "Eric R. Larson",
+            "David Askin",
+            "Nobuo Kato"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 170,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/ddi.13196",
+        "title": "High stream flows dilute environmental DNA (eDNA) concentrations and reduce detectability",
+        "journal": "Diversity and Distributions",
+        "year": 2020,
+        "citations": 145,
+        "authors": "Amanda N. Curtis, Jeremy S. Tiemann, Sarah A. Douglass et al.",
+        "authors_list": [
+            "Amanda N. Curtis",
+            "Jeremy S. Tiemann",
+            "Sarah A. Douglass",
+            "Mark A. Davis",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 145,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ddi.13196"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1136/jnnp.2009.193797",
+        "title": "Investigating baseline neurocognitive performance between male and female athletes with a history of multiple concussion",
+        "journal": "Journal of Neurology Neurosurgery & Psychiatry",
+        "year": 2010,
+        "citations": 139,
+        "authors": "Tracey Covassin, R. Elbin, Anthony P. Kontos et al.",
+        "authors_list": [
+            "Tracey Covassin",
+            "R. Elbin",
+            "Anthony P. Kontos",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 139,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1461-0248.2011.01597.x",
+        "title": "Habitat structure determines resource use by zooplankton in temperate lakes",
+        "journal": "Ecology Letters",
+        "year": 2011,
+        "citations": 122,
+        "authors": "Tessa B. Francis, Daniel E. Schindler, Gordon W. Holtgrieve et al.",
+        "authors_list": [
+            "Tessa B. Francis",
+            "Daniel E. Schindler",
+            "Gordon W. Holtgrieve",
+            "Eric R. Larson",
+            "Mark D. Scheuerell",
+            "Brice X. Semmens",
+            "Eric J. Ward"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 122,
+            "crossref": 96
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10750-017-3210-7",
+        "title": "Environmental DNA (eDNA) detects the invasive crayfishes Orconectes rusticus and Pacifastacus leniusculus in large lakes of North America",
+        "journal": "Hydrobiologia",
+        "year": 2017,
+        "citations": 103,
+        "authors": "Eric R. Larson, Mark A. Renshaw, Crysta A. Gantz et al.",
+        "authors_list": [
+            "Eric R. Larson",
+            "Mark A. Renshaw",
+            "Crysta A. Gantz",
+            "John Umek",
+            "Sudeep Chandra",
+            "David M. Lodge",
+            "Scott P. Egan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/s10750-017-3210-7.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/cobi.12043",
+        "title": "Effects of Climate Change, Invasive Species, and Disease on the Distribution of Native European Crayfishes",
+        "journal": "Conservation Biology",
+        "year": 2013,
+        "citations": 99,
+        "authors": "César Capinha, Eric R. Larson, Elena Tricarico et al.",
+        "authors_list": [
+            "César Capinha",
+            "Eric R. Larson",
+            "Elena Tricarico",
+            "Julian D. Olden",
+            "Francesca Gherardi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/csp2.583",
+        "title": "Ecological integrity is both real and valuable",
+        "journal": "Conservation Science and Practice",
+        "year": 2021,
+        "citations": 86,
+        "authors": "James R. Karr, Eric R. Larson, Ellen W. Chu",
+        "authors_list": [
+            "James R. Karr",
+            "Eric R. Larson",
+            "Ellen W. Chu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1111/csp2.583"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1523-1739.2010.01462.x",
+        "title": "Latent Extinction and Invasion Risk of Crayfishes in the Southeastern United States",
+        "journal": "Conservation Biology",
+        "year": 2010,
+        "citations": 81,
+        "authors": "Eric R. Larson, Julian D. Olden",
+        "authors_list": [
+            "Eric R. Larson",
+            "Julian D. Olden"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 71
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00291a029",
+        "title": "A totally synthetic route to lincosamine: some observations on the diastereofacial selectivity of electrophilic reactions on the double bonds of various 5-(1-alkenyl)arabinopyranosides",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1985,
+        "citations": 80,
+        "authors": "Samuel J. Danishefsky, Eric R. Larson, James B. Springer",
+        "authors_list": [
+            "Samuel J. Danishefsky",
+            "Eric R. Larson",
+            "James B. Springer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1017/s1355617705050228",
+        "title": "Working memory and inhibitory control among manic and euthymic patients with bipolar disorder",
+        "journal": "Journal of the International Neuropsychological Society",
+        "year": 2005,
+        "citations": 78,
+        "authors": "Eric R. Larson, Paula K. Shear, Robert Krikorian et al.",
+        "authors_list": [
+            "Eric R. Larson",
+            "Paula K. Shear",
+            "Robert Krikorian",
+            "Jeffrey A. Welge",
+            "Stephen M. Strakowski"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Quality of diabetes care for non-English-speaking patients. A comparative study.",
+        "journal": "PubMed",
+        "year": 1998,
+        "citations": 77,
+        "authors": "Thomas M. Tocher, Eric R. Larson",
+        "authors_list": [
+            "Thomas M. Tocher",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1899/12-158.1",
+        "title": "An assessment of life-history studies for USA and Canadian crayfishes: identifying biases and knowledge gaps to improve conservation and management",
+        "journal": "Freshwater Science",
+        "year": 2013,
+        "citations": 75,
+        "authors": "Michael J. Moore, Robert J. DiStefano, Eric R. Larson",
+        "authors_list": [
+            "Michael J. Moore",
+            "Robert J. DiStefano",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 64
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1577/03632415.2011.10389069",
+        "title": "The State of Crayfish in the Pacific Northwest",
+        "journal": "Fisheries",
+        "year": 2011,
+        "citations": 74,
+        "authors": "Eric R. Larson, Julian D. Olden",
+        "authors_list": [
+            "Eric R. Larson",
+            "Julian D. Olden"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/fwb.13081",
+        "title": "Environmental <scp>DNA</scp> detects a rare large river crayfish but with little relation to local abundance",
+        "journal": "Freshwater Biology",
+        "year": 2018,
+        "citations": 68,
+        "authors": "Christopher J. Rice, Eric R. Larson, Christopher A. Taylor",
+        "authors_list": [
+            "Christopher J. Rice",
+            "Eric R. Larson",
+            "Christopher A. Taylor"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1755-263x.2011.00185.x",
+        "title": "National parks as protected areas for U.S. freshwater fish diversity",
+        "journal": "Conservation Letters",
+        "year": 2011,
+        "citations": 67,
+        "authors": "David Lawrence, Eric R. Larson, Cathy A. Reidy Liermann et al.",
+        "authors_list": [
+            "David Lawrence",
+            "Eric R. Larson",
+            "Cathy A. Reidy Liermann",
+            "Meryl C. Mims",
+            "Thomas K. Pool",
+            "Julian D. Olden"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10750-019-04066-3",
+        "title": "Towards a cohesive strategy for the conservation of the United States’ diverse and highly endemic crayfish fauna",
+        "journal": "Hydrobiologia",
+        "year": 2019,
+        "citations": 65,
+        "authors": "Christopher A. Taylor, Robert J. DiStefano, Eric R. Larson et al.",
+        "authors_list": [
+            "Christopher A. Taylor",
+            "Robert J. DiStefano",
+            "Eric R. Larson",
+            "James A. Stoeckel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/arclin/acq068",
+        "title": "Exploring Differences in Computerized Neurocognitive Concussion Testing Between African American and White Athletes",
+        "journal": "Archives of Clinical Neuropsychology",
+        "year": 2010,
+        "citations": 64,
+        "authors": "Anthony P. Kontos, R.J. Elbin, Tracey Covassin et al.",
+        "authors_list": [
+            "Anthony P. Kontos",
+            "R.J. Elbin",
+            "Tracey Covassin",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0006-8993(96)01219-x",
+        "title": "Cellular distribution of the rat D1B receptor in central nervous system using anti-receptor antisera",
+        "journal": "Brain Research",
+        "year": 1997,
+        "citations": 63,
+        "authors": "Marjorie A. Ariano, Jean Wang, Kurtis L. Noblett et al.",
+        "authors_list": [
+            "Marjorie A. Ariano",
+            "Jean Wang",
+            "Kurtis L. Noblett",
+            "Eric R. Larson",
+            "David R. Sibley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/syn.890200406",
+        "title": "D<sub>3</sub> and D<sub>2</sub> dopamine receptors: Visualization of cellular expression patterns in motor and limbic structures",
+        "journal": "Synapse",
+        "year": 1995,
+        "citations": 63,
+        "authors": "Eric R. Larson, Marjorie A. Ariano",
+        "authors_list": [
+            "Eric R. Larson",
+            "Marjorie A. Ariano"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 55
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1890/es10-00053.1",
+        "title": "Decoupled conservatism of Grinnellian and Eltonian niches in an invasive arthropod",
+        "journal": "Ecosphere",
+        "year": 2010,
+        "citations": 61,
+        "authors": "Eric R. Larson, Julian D. Olden, Nisikawa Usio",
+        "authors_list": [
+            "Eric R. Larson",
+            "Julian D. Olden",
+            "Nisikawa Usio"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1890/ES10-00053.1"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1899/08-072.1",
+        "title": "Imperiled crayfishes use hyporheic zone during seasonal drying of an intermittent stream",
+        "journal": "Journal of the North American Benthological Society",
+        "year": 2008,
+        "citations": 60,
+        "authors": "Robert J. DiStefano, Daniel D. Magoulick, Emily M. Imhoff et al.",
+        "authors_list": [
+            "Robert J. DiStefano",
+            "Daniel D. Magoulick",
+            "Emily M. Imhoff",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1466-8238.2012.00758.x",
+        "title": "Using avatar species to model the potential distribution of emerging invaders",
+        "journal": "Global Ecology and Biogeography",
+        "year": 2012,
+        "citations": 59,
+        "authors": "Eric R. Larson, Julian D. Olden",
+        "authors_list": [
+            "Eric R. Larson",
+            "Julian D. Olden"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.biocon.2018.07.005",
+        "title": "Is conservation right to go big? Protected area size and conservation return-on-investment",
+        "journal": "Biological Conservation",
+        "year": 2018,
+        "citations": 59,
+        "authors": "Paul R. Armsworth, Heather Bird Jackson, Seong-Hoon Cho et al.",
+        "authors_list": [
+            "Paul R. Armsworth",
+            "Heather Bird Jackson",
+            "Seong-Hoon Cho",
+            "Melissa Clark",
+            "Joseph Fargione",
+            "Gwenllian D. Iacona",
+            "Taeyoung Kim",
+            "Eric R. Larson",
+            "T. Minney",
+            "Nathan A. Sutton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2427.2009.02243.x",
+        "title": "Disturbance and species displacement: different tolerances to stream drying and desiccation in a native and an invasive crayfish",
+        "journal": "Freshwater Biology",
+        "year": 2009,
+        "citations": 58,
+        "authors": "Eric R. Larson, Daniel D. Magoulick, Clinton Turner et al.",
+        "authors_list": [
+            "Eric R. Larson",
+            "Daniel D. Magoulick",
+            "Clinton Turner",
+            "KELLY H. LAYCOCK"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2427.2012.02841.x",
+        "title": "The signal crayfish is not a single species: cryptic diversity and invasions in the Pacific Northwest range of <i>Pacifastacus leniusculus</i>",
+        "journal": "Freshwater Biology",
+        "year": 2012,
+        "citations": 58,
+        "authors": "Eric R. Larson, Cathryn L. Abbott, Nisikawa Usio et al.",
+        "authors_list": [
+            "Eric R. Larson",
+            "Cathryn L. Abbott",
+            "Nisikawa Usio",
+            "Noriko Azuma",
+            "Kimberly A. Wood",
+            "Leif‐Matthias Herborg",
+            "Julian D. Olden"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/(sici)1098-2396(199708)26:4<400::aid-syn8>3.0.co;2-a",
+        "title": "Coexpression of striatal dopamine receptor subtypes and excitatory amino acid subunits",
+        "journal": "Synapse",
+        "year": 1997,
+        "citations": 58,
+        "authors": "Marjorie A. Ariano, Eric R. Larson, Kurt L. Noblett et al.",
+        "authors_list": [
+            "Marjorie A. Ariano",
+            "Eric R. Larson",
+            "Kurt L. Noblett",
+            "David R. Sibley",
+            "Michael S. Levine"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s40359-018-0274-8",
+        "title": "Music-instruction intervention for treatment of post-traumatic stress disorder: a randomized pilot study",
+        "journal": "BMC Psychology",
+        "year": 2018,
+        "citations": 55,
+        "authors": "Liliana E. Pezzin, Eric R. Larson, William Lorber et al.",
+        "authors_list": [
+            "Liliana E. Pezzin",
+            "Eric R. Larson",
+            "William Lorber",
+            "Emily L. McGinley",
+            "Timothy R. Dillingham"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bmcpsychology.biomedcentral.com/track/pdf/10.1186/s40359-018-0274-8"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00387a056",
+        "title": "Mechanistic variations in the Lewis acid-catalyzed cyclocondensation of siloxydienes with aldehydes",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1982,
+        "citations": 52,
+        "authors": "Eric R. Larson, Samuel J. Danishefsky",
+        "authors_list": [
+            "Eric R. Larson",
+            "Samuel J. Danishefsky"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00387a055",
+        "title": "Stereochemical variations in the cyclocondensation of aldehydes with siloxydienes. An application to the erythronolide series",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1982,
+        "citations": 47,
+        "authors": "Samuel J. Danishefsky, Eric R. Larson, David Askin",
+        "authors_list": [
+            "Samuel J. Danishefsky",
+            "Eric R. Larson",
+            "David Askin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jcbiol/ruy007",
+        "title": "Environmental DNA (eDNA) applications for the conservation of imperiled crayfish (Decapoda: Astacidea) through monitoring of invasive species barriers and relocated populations",
+        "journal": "Journal of Crustacean Biology",
+        "year": 2018,
+        "citations": 47,
+        "authors": "Dominique A. Cowart, K. G. H. Breedveld, Maria Joan Ellis et al.",
+        "authors_list": [
+            "Dominique A. Cowart",
+            "K. G. H. Breedveld",
+            "Maria Joan Ellis",
+            "Joshua M. Hull",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jcb/article-pdf/38/3/257/24828356/ruy007.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0028788",
+        "title": "Systematic Conservation Planning in the Face of Climate Change: Bet-Hedging on the Columbia Plateau",
+        "journal": "PLoS ONE",
+        "year": 2011,
+        "citations": 47,
+        "authors": "Carrie A. Schloss, Joshua J. Lawler, Eric R. Larson et al.",
+        "authors_list": [
+            "Carrie A. Schloss",
+            "Joshua J. Lawler",
+            "Eric R. Larson",
+            "Hilary L. Papendick",
+            "Michael J. Case",
+            "Daniel M. Evans",
+            "Jack H. DeLap",
+            "Jesse G. R. Langdon",
+            "Sonia A. Hall",
+            "Brad H. McRae"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0028788&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jm00040a015",
+        "title": "Identification of Tricyclic Analogs Related to Ellagic Acid as Potent/Selective Tyrosine Protein Kinase Inhibitors",
+        "journal": "Journal of Medicinal Chemistry",
+        "year": 1994,
+        "citations": 45,
+        "authors": "Robert L. Dow, Thomas T. Chou, Bruce M. Bechle et al.",
+        "authors_list": [
+            "Robert L. Dow",
+            "Thomas T. Chou",
+            "Bruce M. Bechle",
+            "C Goddard",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.7270/q27m0648"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10201-016-0505-8",
+        "title": "Comparison of trophic function between the globally invasive crayfishes Pacifastacus leniusculus and Procambarus clarkii",
+        "journal": "Limnology",
+        "year": 2016,
+        "citations": 44,
+        "authors": "Eric R. Larson, Laura A. Twardochleb, Julian D. Olden",
+        "authors_list": [
+            "Eric R. Larson",
+            "Laura A. Twardochleb",
+            "Julian D. Olden"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 44,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1139/facets-2017-0083",
+        "title": "Quantifying the contribution of zoos and aquariums to peer-reviewed scientific research",
+        "journal": "FACETS",
+        "year": 2018,
+        "citations": 44,
+        "authors": "Tse‐Lynn Loh, Eric R. Larson, Solomon R. David et al.",
+        "authors_list": [
+            "Tse‐Lynn Loh",
+            "Eric R. Larson",
+            "Solomon R. David",
+            "Lesley S. de Souza",
+            "Rebecca Gericke",
+            "Mary Gryzbek",
+            "Andrew S. Kough",
+            "Philip W. Willink",
+            "Charles Knapp"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 44,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1139/facets-2017-0083"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10452-009-9244-9",
+        "title": "Home-field advantage: native signal crayfish (Pacifastacus leniusculus) out consume newly introduced crayfishes for invasive Chinese mystery snail (Bellamya chinensis)",
+        "journal": "Aquatic Ecology",
+        "year": 2009,
+        "citations": 43,
+        "authors": "Julian D. Olden, Eric R. Larson, Meryl C. Mims",
+        "authors_list": [
+            "Julian D. Olden",
+            "Eric R. Larson",
+            "Meryl C. Mims"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 43,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/edn3.42",
+        "title": "Radiotelemetry reveals effects of upstream biomass and UV exposure on environmental DNA occupancy and detection for a large freshwater turtle",
+        "journal": "Environmental DNA",
+        "year": 2019,
+        "citations": 43,
+        "authors": "Ethan J. Kessler, Kurt T. Ash, Samantha N. Barratt et al.",
+        "authors_list": [
+            "Ethan J. Kessler",
+            "Kurt T. Ash",
+            "Samantha N. Barratt",
+            "Eric R. Larson",
+            "Mark A. Davis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 43,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/edn3.42"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10201-020-00634-y",
+        "title": "Field storage of water samples affects measured environmental DNA concentration and detection",
+        "journal": "Limnology",
+        "year": 2020,
+        "citations": 42,
+        "authors": "Amanda N. Curtis, Eric R. Larson, Mark A. Davis",
+        "authors_list": [
+            "Amanda N. Curtis",
+            "Eric R. Larson",
+            "Mark A. Davis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 42,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.7717/peerj.1915",
+        "title": "Phylogenetic species delimitation for crayfishes of the genus<i>Pacifastacus</i>",
+        "journal": "PeerJ",
+        "year": 2016,
+        "citations": 42,
+        "authors": "Eric R. Larson, Magalie Castelin, Bronwyn W. Williams et al.",
+        "authors_list": [
+            "Eric R. Larson",
+            "Magalie Castelin",
+            "Bronwyn W. Williams",
+            "Julian D. Olden",
+            "Cathryn L. Abbott"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 42,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.7717/peerj.1915"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3391/ai.2008.3.4.18",
+        "title": "Do schools and golf courses represent emerging pathways for crayfish invasions?",
+        "journal": "Aquatic Invasions",
+        "year": 2008,
+        "citations": 40,
+        "authors": "Eric R. Larson",
+        "authors_list": [
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 40,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.3391/ai.2008.3.4.18"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/med.2610080202",
+        "title": "Medicinal chemistry of aldose reductase inhibitors",
+        "journal": "Medicinal Research Reviews",
+        "year": 1988,
+        "citations": 40,
+        "authors": "Eric R. Larson, Christopher A. Lipinski, Reinhard Sarges",
+        "authors_list": [
+            "Eric R. Larson",
+            "Christopher A. Lipinski",
+            "Reinhard Sarges"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 40,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1890/130352",
+        "title": "Are conservation organizations configured for effective adaptation to global change?",
+        "journal": "Frontiers in Ecology and the Environment",
+        "year": 2015,
+        "citations": 40,
+        "authors": "Paul R. Armsworth, Eric R. Larson, Stephen T. Jackson et al.",
+        "authors_list": [
+            "Paul R. Armsworth",
+            "Eric R. Larson",
+            "Stephen T. Jackson",
+            "Dov F. Sax",
+            "Paul W. Simonin",
+            "Bernd Blossey",
+            "Nancy Green",
+            "Mary L. Klein",
+            "Liza Lester",
+            "Taylor H. Ricketts",
+            "Michael C. Runge",
+            "M. Rebecca Shaw"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 40,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/cobi.12608",
+        "title": "Constraints of philanthropy on determining the distribution of biodiversity conservation funding",
+        "journal": "Conservation Biology",
+        "year": 2015,
+        "citations": 37,
+        "authors": "Eric R. Larson, Stephen B. Howell, Peter Kareiva et al.",
+        "authors_list": [
+            "Eric R. Larson",
+            "Stephen B. Howell",
+            "Peter Kareiva",
+            "Paul R. Armsworth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 37,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.7717/peerj.9333",
+        "title": "No evidence that crayfish carcasses produce detectable environmental DNA (eDNA) in a stream enclosure experiment",
+        "journal": "PeerJ",
+        "year": 2020,
+        "citations": 34,
+        "authors": "Amanda N. Curtis, Eric R. Larson",
+        "authors_list": [
+            "Amanda N. Curtis",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 34,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.7717/peerj.9333"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1086/683358",
+        "title": "Do invasive rusty crayfish (<i>Orconectes rusticus</i>) decouple littoral and pelagic energy flows in lake food webs?",
+        "journal": "Freshwater Science",
+        "year": 2015,
+        "citations": 34,
+        "authors": "Timothy A. Kreps, Eric R. Larson, David M. Lodge",
+        "authors_list": [
+            "Timothy A. Kreps",
+            "Eric R. Larson",
+            "David M. Lodge"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 34,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1086/683358"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/p19820000521",
+        "title": "Synthesis of (–)-steganone",
+        "journal": "Journal of the Chemical Society Perkin Transactions 1",
+        "year": 1982,
+        "citations": 34,
+        "authors": "Eric R. Larson, Ralph A. Raphael",
+        "authors_list": [
+            "Eric R. Larson",
+            "Ralph A. Raphael"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 34,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-017-02399-y",
+        "title": "Factoring economic costs into conservation planning may not improve agreement over priorities for protection",
+        "journal": "Nature Communications",
+        "year": 2017,
+        "citations": 34,
+        "authors": "Paul R. Armsworth, Heather Bird Jackson, Seong-Hoon Cho et al.",
+        "authors_list": [
+            "Paul R. Armsworth",
+            "Heather Bird Jackson",
+            "Seong-Hoon Cho",
+            "Melissa Clark",
+            "Joseph Fargione",
+            "Gwenllian D. Iacona",
+            "Taeyoung Kim",
+            "Eric R. Larson",
+            "T. Minney",
+            "Nathan A. Sutton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 34,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-017-02399-y.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0960-894x(95)00157-o",
+        "title": "Selective inhibition of the tyrosine kinase pp60src by analogs of 5,10-dihydropyrimido[4,5-b]quinolin-4(1H)-one",
+        "journal": "Bioorganic & Medicinal Chemistry Letters",
+        "year": 1995,
+        "citations": 33,
+        "authors": "Robert L. Dow, Bruce M. Bechle, Thomas T. Chou et al.",
+        "authors_list": [
+            "Robert L. Dow",
+            "Bruce M. Bechle",
+            "Thomas T. Chou",
+            "C Goddard",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 33,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1899/12-051.1",
+        "title": "Crayfish occupancy and abundance in lakes of the Pacific Northwest, USA",
+        "journal": "Freshwater Science",
+        "year": 2013,
+        "citations": 32,
+        "authors": "Eric R. Larson, Julian D. Olden",
+        "authors_list": [
+            "Eric R. Larson",
+            "Julian D. Olden"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 32,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10530-008-9286-2",
+        "title": "Does juvenile competition explain displacement of a native crayfish by an introduced crayfish?",
+        "journal": "Biological Invasions",
+        "year": 2008,
+        "citations": 30,
+        "authors": "Eric R. Larson, Daniel D. Magoulick",
+        "authors_list": [
+            "Eric R. Larson",
+            "Daniel D. Magoulick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 30,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1023/a:1020339004125",
+        "title": "The Effects of Brief Interventions on Children's Playmate Preferences for a Child Sitting in a Wheelchair",
+        "journal": "Journal of Developmental and Physical Disabilities",
+        "year": 2002,
+        "citations": 29,
+        "authors": "Laura Nabors, Eric R. Larson",
+        "authors_list": [
+            "Laura Nabors",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 29,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ecy.2659",
+        "title": "Habitat explains patterns of population decline for an invasive crayfish",
+        "journal": "Ecology",
+        "year": 2019,
+        "citations": 28,
+        "authors": "Eric R. Larson, Timothy A. Kreps, Brett Peters et al.",
+        "authors_list": [
+            "Eric R. Larson",
+            "Timothy A. Kreps",
+            "Brett Peters",
+            "Jody A. Peters",
+            "David M. Lodge"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 28,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.2659"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0040-4039(01)86784-8",
+        "title": "An improved route to steganone",
+        "journal": "Tetrahedron Letters",
+        "year": 1979,
+        "citations": 28,
+        "authors": "Eric R. Larson, Ralph A. Raphael",
+        "authors_list": [
+            "Eric R. Larson",
+            "Ralph A. Raphael"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 28,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00360a030",
+        "title": "A totally synthetic route to lincosamine",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1983,
+        "citations": 28,
+        "authors": "Eric R. Larson, Samuel J. Danishefsky",
+        "authors_list": [
+            "Eric R. Larson",
+            "Samuel J. Danishefsky"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 28,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1176/ajp.154.9.1299",
+        "title": "Comparison of patients with early-, typical-, and late-onset affective psychosis",
+        "journal": "American Journal of Psychiatry",
+        "year": 1997,
+        "citations": 28,
+        "authors": "Kenji W. Sax, Stephen M. Strakowski, P E Keck et al.",
+        "authors_list": [
+            "Kenji W. Sax",
+            "Stephen M. Strakowski",
+            "P E Keck",
+            "S L McElroy",
+            "Sarah West",
+            "Melissa Bourne",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 28,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10750-015-2527-3",
+        "title": "Comparison of 13C and 15N discrimination factors and turnover rates between congeneric crayfish Orconectes rusticus and O. virilis (Decapoda, Cambaridae)",
+        "journal": "Hydrobiologia",
+        "year": 2015,
+        "citations": 28,
+        "authors": "Mael G. Glon, Eric R. Larson, Kevin L. Pangle",
+        "authors_list": [
+            "Mael G. Glon",
+            "Eric R. Larson",
+            "Kevin L. Pangle"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 28,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1674/0003-0031(2008)160[323:clhono]2.0.co;2",
+        "title": "Comparative Life History of Native (Orconectes Eupunctus) and Introduced (Orconectes Neglectus) Crayfishes in The Spring River Drainage of Arkansas and Missouri",
+        "journal": "The American Midland Naturalist",
+        "year": 2008,
+        "citations": 28,
+        "authors": "Eric R. Larson, Daniel D. Magoulick",
+        "authors_list": [
+            "Eric R. Larson",
+            "Daniel D. Magoulick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 28,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1117/1.jbo.22.5.058002",
+        "title": "Rapid sealing of porcine renal blood vessels, <i>ex vivo</i>, using a high power, 1470-nm laser, and laparoscopic prototype",
+        "journal": "Journal of Biomedical Optics",
+        "year": 2017,
+        "citations": 27,
+        "authors": "Luke A. Hardy, Thomas C. Hutchens, Eric R. Larson et al.",
+        "authors_list": [
+            "Luke A. Hardy",
+            "Thomas C. Hutchens",
+            "Eric R. Larson",
+            "David González",
+            "Chun-Hung Chang",
+            "William H. Nau",
+            "Nathaniel M. Fried"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 27,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.spiedigitallibrary.org/journals/Journal-of-Biomedical-Optics/volume-22/issue-5/058002/----Custom-HTML----Rapid/10.1117/1.JBO.22.5.058002.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3897/neobiota.44.32925",
+        "title": "Does invasive species research use more militaristic language than other ecology and conservation biology literature?",
+        "journal": "NeoBiota",
+        "year": 2019,
+        "citations": 27,
+        "authors": "Rachel M. Janovsky, Eric R. Larson",
+        "authors_list": [
+            "Rachel M. Janovsky",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 27,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://neobiota.pensoft.net/article/32925/download/pdf/"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1577/m07-029.1",
+        "title": "Efficiency of a Quadrat Sampling Technique for Estimating Riffle-Dwelling Crayfish Density",
+        "journal": "North American Journal of Fisheries Management",
+        "year": 2008,
+        "citations": 26,
+        "authors": "Eric R. Larson, Robert J. DiStefano, Daniel D. Magoulick et al.",
+        "authors_list": [
+            "Eric R. Larson",
+            "Robert J. DiStefano",
+            "Daniel D. Magoulick",
+            "Jacob T. Westhoff"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 26,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/edn3.525",
+        "title": "Comparing cost, effort, and performance of environmental DNA sampling and trapping for detecting an elusive freshwater turtle",
+        "journal": "Environmental DNA",
+        "year": 2024,
+        "citations": 25,
+        "authors": "Elizabeth C. Sternhagen, Mark A. Davis, Eric R. Larson et al.",
+        "authors_list": [
+            "Elizabeth C. Sternhagen",
+            "Mark A. Davis",
+            "Eric R. Larson",
+            "Sarah E. Pearce",
+            "Stephen M. Ecrement",
+            "Aron D. Katz",
+            "Jinelle H. Sperry"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 25,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/edn3.525"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ecolecon.2014.07.029",
+        "title": "Protected area acquisition costs show economies of scale with area",
+        "journal": "Ecological Economics",
+        "year": 2014,
+        "citations": 25,
+        "authors": "Taeyoung Kim, Seong-Hoon Cho, Eric R. Larson et al.",
+        "authors_list": [
+            "Taeyoung Kim",
+            "Seong-Hoon Cho",
+            "Eric R. Larson",
+            "Paul R. Armsworth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 25,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.contraception.2003.10.016",
+        "title": "A prospective open-label study to evaluate the effects of the oral contraceptive Harmonet® (gestodene75/EE20) on body fat",
+        "journal": "Contraception",
+        "year": 2004,
+        "citations": 24,
+        "authors": "Nilson Roberto de Melo, José Mendes Aldrighi, Dirceu Faggion et al.",
+        "authors_list": [
+            "Nilson Roberto de Melo",
+            "José Mendes Aldrighi",
+            "Dirceu Faggion",
+            "V.R.O.Y Reyes",
+            "J.B Souza",
+            "César Eduardo Fernandes",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/ddi.12233",
+        "title": "Generalized “avatar” niche shifts improve distribution models for invasive species",
+        "journal": "Diversity and Distributions",
+        "year": 2014,
+        "citations": 23,
+        "authors": "Eric R. Larson, Rachael V. Gallagher, Linda J. Beaumont et al.",
+        "authors_list": [
+            "Eric R. Larson",
+            "Rachael V. Gallagher",
+            "Linda J. Beaumont",
+            "Julian D. Olden"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 23,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0040-4039(00)87237-8",
+        "title": "On the mechanism of the lewis acid catalyzed cyclocondensation of aldehydes with siloxydienes",
+        "journal": "Tetrahedron Letters",
+        "year": 1982,
+        "citations": 23,
+        "authors": "Eric R. Larson, Samuel J. Danishefsky",
+        "authors_list": [
+            "Eric R. Larson",
+            "Samuel J. Danishefsky"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 23,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41598-020-64075-4",
+        "title": "Long-Term Aberrations To Cerebellar Endocannabinoids Induced By Early-Life Stress",
+        "journal": "Scientific Reports",
+        "year": 2020,
+        "citations": 23,
+        "authors": "Alexandra B. Moussa‐Tooks, Eric R. Larson, Alex F. Gimeno et al.",
+        "authors_list": [
+            "Alexandra B. Moussa‐Tooks",
+            "Eric R. Larson",
+            "Alex F. Gimeno",
+            "Emma Leishman",
+            "Lisa A. Bartolomeo",
+            "Heather B. Bradshaw",
+            "John T. Green",
+            "Brian F. O’Donnell",
+            "Ken Mackie",
+            "William P. Hetrick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 23,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41598-020-64075-4.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3389/fenvs.2021.617924",
+        "title": "Diversity Metrics Are Robust to Differences in Sampling Location and Depth for Environmental DNA of Plants in Small Temperate Lakes",
+        "journal": "Frontiers in Environmental Science",
+        "year": 2021,
+        "citations": 23,
+        "authors": "Jennifer Drummond, Eric R. Larson, Yiyuan Li et al.",
+        "authors_list": [
+            "Jennifer Drummond",
+            "Eric R. Larson",
+            "Yiyuan Li",
+            "David M. Lodge",
+            "Crysta A. Gantz",
+            "Michael E. Pfrender",
+            "Mark A. Renshaw",
+            "Adrienne M. S. Correa",
+            "Scott P. Egan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 23,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.frontiersin.org/articles/10.3389/fenvs.2021.617924/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1163/156854009x448934",
+        "title": "First record of Orconectes rusticus (Girard, 1852) (Decapoda, Cambaridae) west of the Great Continental Divide in North America",
+        "journal": "Crustaceana",
+        "year": 2009,
+        "citations": 22,
+        "authors": "Julian D. Olden, Jeffrey Adams, Eric R. Larson",
+        "authors_list": [
+            "Julian D. Olden",
+            "Jeffrey Adams",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3391/mbi.2018.9.1.03",
+        "title": "Development and field validation of an environmental DNA (eDNA) assay for invasive clams of the genus Corbicula",
+        "journal": "Management of Biological Invasions",
+        "year": 2018,
+        "citations": 22,
+        "authors": "Dominique A. Cowart, Mark W. Renshaw, Crysta A. Gantz et al.",
+        "authors_list": [
+            "Dominique A. Cowart",
+            "Mark W. Renshaw",
+            "Crysta A. Gantz",
+            "John Umek",
+            "Sudeep Chandra",
+            "Scott P. Egan",
+            "David M. Lodge",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.3391/mbi.2018.9.1.03"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jglr.2018.11.007",
+        "title": "Predicting the potential distribution of the non-native Red Swamp Crayfish Procambarus clarkii in the Laurentian Great Lakes",
+        "journal": "Journal of Great Lakes Research",
+        "year": 2018,
+        "citations": 22,
+        "authors": "Rachel M. Egly, Gust Annis, W. Lindsay Chadderton et al.",
+        "authors_list": [
+            "Rachel M. Egly",
+            "Gust Annis",
+            "W. Lindsay Chadderton",
+            "Jody A. Peters",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.7717/peerj.5668",
+        "title": "Distribution, habitat associations, and conservation status updates for the pilose crayfish<i>Pacifastacus gambelii</i>(Girard, 1852) and Snake River pilose crayfish<i>Pacifastacus connectens</i>(Faxon, 1914) of the western United States",
+        "journal": "PeerJ",
+        "year": 2018,
+        "citations": 22,
+        "authors": "Rachel M. Egly, Eric R. Larson",
+        "authors_list": [
+            "Rachel M. Egly",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.7717/peerj.5668"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/geb.70003",
+        "title": "BioTIME 2.0: Expanding and Improving a Database of Biodiversity Time Series",
+        "journal": "Global Ecology and Biogeography",
+        "year": 2025,
+        "citations": 22,
+        "authors": "María Dornelas, Laura H. Antão, Amanda E. Bates et al.",
+        "authors_list": [
+            "María Dornelas",
+            "Laura H. Antão",
+            "Amanda E. Bates",
+            "Viviana Brambilla",
+            "Jonathan M. Chase",
+            "Cher F. Y. Chow",
+            "Ada Fontrodona‐Eslava",
+            "Anne E. Magurran",
+            "Inês S. Martins",
+            "Faye Moyes",
+            "Alban Sagouis",
+            "Samuel Adu‐Acheampong",
+            "Daniel Acquah‐Lamptey",
+            "Dušan Adam",
+            "Penelope Ajani",
+            "Aitor Albaina",
+            "Pablo Almaraz",
+            "Jeong‐Seop An",
+            "Roger Sigismund Anderson",
+            "Madelaine Anderson",
+            "Alexsander Zamorano Antunes",
+            "Iván Arismendi",
+            "Linda Armbrecht",
+            "Pedro Aros‐Mardones",
+            "K. A. Sreejith",
+            "Narayanan Ayyappan",
+            "Gal Badihi",
+            "Joseph J. Bailey",
+            "Andrew H. Baird",
+            "Mark E. Baird",
+            "V. B. Sreekumar",
+            "José António Lemos Barão-Nóbrega",
+            "Adi Barash",
+            "Miguel Barbosa",
+            "Jos Barlow",
+            "Claus Bässler",
+            "Matthieu Beaumont",
+            "Natalie Beenaerts",
+            "Tiago Octavio Begot",
+            "Wallace Beiroz",
+            "Ricardo Beldade",
+            "David M. Bell",
+            "Alecia Bellgrove",
+            "Jonathan Belmaker",
+            "Lisandro Benedetti‐Cecchi",
+            "Cassandra E. Benkwitt",
+            "Pamela Medina‐van Berkum",
+            "Brandon T. Bestelmeyer",
+            "Matthew G. Betts",
+            "Maxwell Kelvin Billah",
+            "Anne D. Bjorkman",
+            "Magdalena Błażewicz",
+            "Christopher P. Bloch",
+            "Shane A. Blowes",
+            "Antonio Bode",
+            "Juliano A. Bogoni",
+            "Thomas Bolger",
+            "Timothy C. Bonebrake",
+            "Erik Bonsdorff",
+            "Roberta Bottarin",
+            "Luke N. Brokensha",
+            "Rob W. Brooker",
+            "Andrew J. Brooks",
+            "Helge Bruelheide",
+            "Thiago Almeida Bueno",
+            "Claire Laguionie",
+            "Mariana Lopes Campagnoli",
+            "James Cant",
+            "Érica Pellegrini Caramaschi",
+            "Alexandre Caron",
+            "Tadhg Carroll",
+            "Tancredi Caruso",
+            "Juan D. Carvajal‐Quintero",
+            "Giuseppe Castaldelli",
+            "Edward Castañeda‐Moya",
+            "Pedro Volkmer de Castilho",
+            "Sônia Zanini Cechin",
+            "Shahar Chaikin",
+            "U. M. Chandrashekara",
+            "Tory J. Chase",
+            "Chaolun Allen Chen",
+            "Jorge José Cherem",
+            "Sei‐Woong Choi",
+            "Erica M. Christensen",
+            "Alexander V. Christianini",
+            "Jackson W. F. Chu",
+            "Peter Coad",
+            "Carl Van Colen",
+            "Lise Comte",
+            "Elisabeth J. Cooper",
+            "Johannes H. C. Cornelissen",
+            "E. Cosson",
+            "Unai Cotano",
+            "Luc Crèvecoeur",
+            "Shannan K. Crow",
+            "Graeme S. Cumming",
+            "Vanessa S. Daga",
+            "Gabriella Damasceno",
+            "Gergana N. Daskalova",
+            "Claire H. Davies"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1111/geb.70003"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/1365-2745.13254",
+        "title": "Effects of forest windstorm disturbance on invasive plants in protected areas of southern Illinois, USA",
+        "journal": "Journal of Ecology",
+        "year": 2019,
+        "citations": 21,
+        "authors": "Melissa K. Daniels, Eric R. Larson",
+        "authors_list": [
+            "Melissa K. Daniels",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 21,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1200/jco.2017.73.3592",
+        "title": "Do Patients With Advanced Cancer Have the Ability to Make Informed Decisions for Participation in Phase I Clinical Trials?",
+        "journal": "Journal of Clinical Oncology",
+        "year": 2018,
+        "citations": 19,
+        "authors": "Fay J. Hlubocky, Greg A. Sachs, Eric R. Larson et al.",
+        "authors_list": [
+            "Fay J. Hlubocky",
+            "Greg A. Sachs",
+            "Eric R. Larson",
+            "Halla Nimeiri",
+            "David Cella",
+            "Kristen Wroblewski",
+            "Mark J. Ratain",
+            "Jeffery Peppercorn",
+            "Christopher K. Daugherty"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 19,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jglr.2017.01.011",
+        "title": "Invasive dreissenid mussels benefit invasive crayfish but not native crayfish in the Laurentian Great Lakes",
+        "journal": "Journal of Great Lakes Research",
+        "year": 2017,
+        "citations": 19,
+        "authors": "Mael G. Glon, Eric R. Larson, Lindsey S. Reisinger et al.",
+        "authors_list": [
+            "Mael G. Glon",
+            "Eric R. Larson",
+            "Lindsey S. Reisinger",
+            "Kevin L. Pangle"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 19,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1017/s0954102004002044",
+        "title": "Age and growth of Scotia Sea icefish, <i>Chaenocephalus aceratus</i>, from the South Shetland Islands",
+        "journal": "Antarctic Science",
+        "year": 2004,
+        "citations": 19,
+        "authors": "Mario La Mesa, J. R. Ashford, Eric R. Larson et al.",
+        "authors_list": [
+            "Mario La Mesa",
+            "J. R. Ashford",
+            "Eric R. Larson",
+            "Marino Vacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 19,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ece3.2286",
+        "title": "Phylogeographic insights into the invasion history and secondary spread of the signal crayfish in Japan",
+        "journal": "Ecology and Evolution",
+        "year": 2016,
+        "citations": 18,
+        "authors": "Nisikawa Usio, Noriko Azuma, Eric R. Larson et al.",
+        "authors_list": [
+            "Nisikawa Usio",
+            "Noriko Azuma",
+            "Eric R. Larson",
+            "Cathryn L. Abbott",
+            "Julian D. Olden",
+            "Hiromi Akanuma",
+            "Kenzi Takamura",
+            "Noriko Takamura"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 18,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.2286"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.psyneuen.2020.104801",
+        "title": "Circulating endocannabinoid concentrations in grieving adults",
+        "journal": "Psychoneuroendocrinology",
+        "year": 2020,
+        "citations": 17,
+        "authors": "Elisabeth Harfmann, Timothy L. McAuliffe, Eric R. Larson et al.",
+        "authors_list": [
+            "Elisabeth Harfmann",
+            "Timothy L. McAuliffe",
+            "Eric R. Larson",
+            "Stacy A. Claesges",
+            "Garrett Sauber",
+            "Cecilia J. Hillard",
+            "Joseph S. Goveas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 17,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/7348598"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ece3.1281",
+        "title": "A lack of response of the financial behaviors of biodiversity conservation nonprofits to changing economic conditions",
+        "journal": "Ecology and Evolution",
+        "year": 2014,
+        "citations": 17,
+        "authors": "Eric R. Larson, Alison G. Boyer, Paul R. Armsworth",
+        "authors_list": [
+            "Eric R. Larson",
+            "Alison G. Boyer",
+            "Paul R. Armsworth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 17,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.1281"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1098/rsbl.2011.0089",
+        "title": "Shoreline urbanization interrupts allochthonous subsidies to a benthic consumer over a gradient of lake size",
+        "journal": "Biology Letters",
+        "year": 2011,
+        "citations": 16,
+        "authors": "Eric R. Larson, Julian D. Olden, Nisikawa Usio",
+        "authors_list": [
+            "Eric R. Larson",
+            "Julian D. Olden",
+            "Nisikawa Usio"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 16,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1201/b18723-21",
+        "title": "Historical Biogeography of Pacifastacus Crayfishes and their Branchiobdellidan and Entocytherid Ectosymbionts in Western North America",
+        "journal": "Freshwater Crayfish",
+        "year": 2015,
+        "citations": 16,
+        "authors": "Eric R. Larson, Bronwyn W. Williams",
+        "authors_list": [
+            "Eric R. Larson",
+            "Bronwyn W. Williams"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 16,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0304-3940(94)90672-6",
+        "title": "Dopamine receptor binding on identified striatonigral neurons",
+        "journal": "Neuroscience Letters",
+        "year": 1994,
+        "citations": 15,
+        "authors": "Eric R. Larson, Marjorie A. Ariano",
+        "authors_list": [
+            "Eric R. Larson",
+            "Marjorie A. Ariano"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 15,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1656/058.010.0110",
+        "title": "Life-History Notes on Cambarus hubbsi Creaser (Hubbs Crayfish) from the South Fork Spring River, Arkansas",
+        "journal": "Southeastern Naturalist",
+        "year": 2011,
+        "citations": 14,
+        "authors": "Eric R. Larson, Daniel D. Magoulick, Eric R. Larson et al.",
+        "authors_list": [
+            "Eric R. Larson",
+            "Daniel D. Magoulick",
+            "Eric R. Larson",
+            "Daniel D. Magoulick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 14,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1152/ajpregu.1996.270.2.r404",
+        "title": "Neurophysin expression is stimulated by dopamine D1 agonist in dispersed hypothalamic cultures",
+        "journal": "American Journal of Physiology-Regulatory, Integrative and Comparative Physiology",
+        "year": 1996,
+        "citations": 14,
+        "authors": "Joanne R. Mathiasen, Eric R. Larson, Marjorie A. Ariano et al.",
+        "authors_list": [
+            "Joanne R. Mathiasen",
+            "Eric R. Larson",
+            "Marjorie A. Ariano",
+            "C. D. Sladek"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 14,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/fwb.14320",
+        "title": "Aquatic invasive species exhibit contrasting seasonal detectability patterns based on <scp>environmental DNA</scp>: Implications for monitoring",
+        "journal": "Freshwater Biology",
+        "year": 2024,
+        "citations": 14,
+        "authors": "Christopher I. Rounds, Todd W. Arnold, Chan Lan Chun et al.",
+        "authors_list": [
+            "Christopher I. Rounds",
+            "Todd W. Arnold",
+            "Chan Lan Chun",
+            "Joshua D. Dumke",
+            "Anna Totsch",
+            "Adelle Keppers",
+            "Katarina Edblad",
+            "Samantha M. García",
+            "Eric R. Larson",
+            "Jenna K. R. Nelson",
+            "Gretchen J. A. Hansen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 14,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/fwb.14320"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10530-019-02036-3",
+        "title": "Do roads or streams explain plant invasions in forested protected areas?",
+        "journal": "Biological Invasions",
+        "year": 2019,
+        "citations": 13,
+        "authors": "Melissa K. Daniels, Gwenllian D. Iacona, Paul R. Armsworth et al.",
+        "authors_list": [
+            "Melissa K. Daniels",
+            "Gwenllian D. Iacona",
+            "Paul R. Armsworth",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 13,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/fsh.10864",
+        "title": "Overlooked Invaders? Ecological Impacts of Non-Game, Native Transplant Fishes in the United States",
+        "journal": "Fisheries",
+        "year": 2022,
+        "citations": 13,
+        "authors": "Jordan H. Hartman, Eric R. Larson",
+        "authors_list": [
+            "Jordan H. Hartman",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 13,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fsh.10864"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3955/046.084.0112",
+        "title": "Widespread Distribution of the Non-Native Northern Crayfish (<i>Orconectes virilis</i>) in the Columbia River Basin",
+        "journal": "Northwest Science",
+        "year": 2009,
+        "citations": 13,
+        "authors": "Eric R. Larson, Craig A. Busack, Jon D. Anderson et al.",
+        "authors_list": [
+            "Eric R. Larson",
+            "Craig A. Busack",
+            "Jon D. Anderson",
+            "Julian D. Olden"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 13,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/edn3.557",
+        "title": "Environmental DNA storage and extraction method affects detectability for multiple aquatic invasive species",
+        "journal": "Environmental DNA",
+        "year": 2024,
+        "citations": 12,
+        "authors": "Samantha M. García, Chan Lan Chun, Joshua D. Dumke et al.",
+        "authors_list": [
+            "Samantha M. García",
+            "Chan Lan Chun",
+            "Joshua D. Dumke",
+            "Gretchen J. A. Hansen",
+            "Kathleen B. Quebedeaux",
+            "Christopher I. Rounds",
+            "Anna Totsch",
+            "Eric R. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 12,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/edn3.557"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3391/ai.2021.16.4.07",
+        "title": "Invasive virile crayfish (Faxonius virilis Hagen, 1870) hybridizes with native spothanded crayfish (Faxonius punctimanus Creaser, 1933) in the Current River watershed of Missouri, U.S.",
+        "journal": "Aquatic Invasions",
+        "year": 2021,
+        "citations": 11,
+        "authors": "Zachary Rozansky, Eric R. Larson, Christopher A. Taylor",
+        "authors_list": [
+            "Zachary Rozansky",
+            "Eric R. Larson",
+            "Christopher A. Taylor"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 11,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.3391/ai.2021.16.4.07"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1002/fee.2162",
+        "title": "From <scp>eDNA</scp> to citizen science: emerging tools for the early detection of invasive species",
+        "journal": "Frontiers in Ecology and the Environment",
+        "year": 2020,
+        "citations": 288,
+        "authors": "Eric R Larson, Brittney M Graham, Rafael Achury et al.",
+        "authors_list": [
+            "Eric R Larson",
+            "Brittney M Graham",
+            "Rafael Achury",
+            "Jaime J Coon",
+            "Melissa K Daniels",
+            "Daniel K Gambrell",
+            "Kacie L Jonasen",
+            "Gregory D King",
+            "Nicholas LaRacuente",
+            "Tolulope IN Perrin‐Stowe",
+            "Emily M Reed",
+            "Christopher J Rice",
+            "Selina A Ruzi",
+            "Margaret W Thairu",
+            "Jared C Wilson",
+            "Andrew V Suarez"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 288
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/mprv.2010.74",
+        "title": "Disaggregated End-Use Energy Sensing for the Smart Grid",
+        "journal": "IEEE Pervasive Computing",
+        "year": 2011,
+        "citations": 220,
+        "authors": "Jon Froehlich, Eric Larson, Sidhant Gupta et al.",
+        "authors_list": [
+            "Jon Froehlich",
+            "Eric Larson",
+            "Sidhant Gupta",
+            "Gabe Cohn",
+            "Matthew Reynolds",
+            "Shwetak Patel"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 220
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1021/ja00291a026",
+        "title": "On the scope, mechanism and stereochemistry of the Lewis acid catalyzed cyclocondensation of activated dienes with aldehydes: an application to the erythronolide problem",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1985,
+        "citations": 164,
+        "authors": "Samuel Danishefsky, Eric Larson, David Askin et al.",
+        "authors_list": [
+            "Samuel Danishefsky",
+            "Eric Larson",
+            "David Askin",
+            "Nobuo Kato"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 164
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/ddi.13196",
+        "title": "High stream flows dilute environmental DNA (eDNA) concentrations and reduce detectability",
+        "journal": "Diversity and Distributions",
+        "year": 2021,
+        "citations": 134,
+        "authors": "Amanda N. Curtis, Jeremy S. Tiemann, Sarah A. Douglass et al.",
+        "authors_list": [
+            "Amanda N. Curtis",
+            "Jeremy S. Tiemann",
+            "Sarah A. Douglass",
+            "Mark A. Davis",
+            "Eric R. Larson"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 134
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ddi.13196"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1136/jnnp.2009.193797",
+        "title": "Investigating baseline neurocognitive performance between male and female athletes with a history of multiple concussion",
+        "journal": "Journal of Neurology, Neurosurgery &amp; Psychiatry",
+        "year": 2010,
+        "citations": 118,
+        "authors": "T. Covassin, R. Elbin, A. Kontos et al.",
+        "authors_list": [
+            "T. Covassin",
+            "R. Elbin",
+            "A. Kontos",
+            "E. Larson"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 118
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/csp2.583",
+        "title": "Ecological integrity is both real and valuable",
+        "journal": "Conservation Science and Practice",
+        "year": 2022,
+        "citations": 71,
+        "authors": "James R. Karr, Eric R. Larson, Ellen W. Chu",
+        "authors_list": [
+            "James R. Karr",
+            "Eric R. Larson",
+            "Ellen W. Chu"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 71
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1111/csp2.583"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1021/ja00291a029",
+        "title": "A totally synthetic route to lincosamine: some observations on the diastereofacial selectivity of electrophilic reactions on the double bonds of various 5-(1-alkenyl)arabinopyranosides",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1985,
+        "citations": 73,
+        "authors": "Samuel Danishefsky, Eric Larson, James Springer",
+        "authors_list": [
+            "Samuel Danishefsky",
+            "Eric Larson",
+            "James Springer"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 73
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

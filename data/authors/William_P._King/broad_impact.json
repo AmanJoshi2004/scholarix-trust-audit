@@ -1,0 +1,51 @@
+[
+    {
+        "url": "https://kinglab.mechse.illinois.edu/files/2014/01/King_CV.pdf",
+        "snippet": "Heat Transfer, Thermal Processing, Thermal Engineering, Thermal Design, Heat Exchangers, Heat Sinks, Thermal Management ... Force Microscopy (AFM).",
+        "category": "Publication",
+        "relevance_score": 100,
+        "reasoning": "The URL appears to be a personal CV document, likely from an academic conference or publication."
+    },
+    {
+        "url": "https://kinglab.mechse.illinois.edu/",
+        "snippet": "William P. King. William P. King, Ph.D. is an ... His dissertation was “Nanoscale Thermal Processing using a Heated Atomic Force Microscope Cantilever Tip.",
+        "category": "Website",
+        "relevance_score": 98,
+        "reasoning": "The URL appears to be a personal webpage or lab website, and the snippet is a brief bio."
+    },
+    {
+        "url": "https://scholar.google.com/citations?user=JvqBxB0AAAAJ&hl=en",
+        "snippet": "Ralph A. Andersen Endowed Chair, Department of Mechanical Science and Engineering, University of - ‪‪Cited by 23555‬‬ - ‪Nanotechnology‬ - ‪Thermal‬ ... Using ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "This is a Google Scholar citation page, which lists an author's publication record and metrics."
+    },
+    {
+        "url": "https://www.researchgate.net/scientific-contributions/William-P-King-13931287",
+        "snippet": "Dynamic phase change materials (dynPCMs) offer high heat transfer rates over extended times due to a force ... using high thermal conductivity dynPCM for enhanced ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL is a ResearchGate profile, which is a platform for academics to share their publications and research."
+    },
+    {
+        "url": "https://ece.illinois.edu/about/directory/faculty/wpk",
+        "snippet": "Wang, J.A. Rogers, William P. King, and Paul V. Braun, \"Holographic Patterning of High Performance on-chip 3D Lithium ion Microbatteries,\" Proceedings of ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The snippet appears to be a citation of an academic publication, listing authors and their affiliations."
+    },
+    {
+        "url": "https://www.researchgate.net/scientific-contributions/William-P-King-13931287/publications/43",
+        "snippet": "William P. King's 429 research items with 17913 citations and 21417 reads, including: Cyclic operation of dynamic phase change materials.",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "It appears to be William P. King's research contributions, suggesting a publication-focused result."
+    },
+    {
+        "url": "https://www.facebook.com/uofigrainger/posts/-mechanical-science-and-engineering-at-illinois-professor-william-p-king-receive/648312643994407/",
+        "snippet": "Mechanical Science and Engineering at Illinois professor William P. King receives the ASME (American Society of Mechanical Engineers)'s highest honor for ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The snippet appears to be a news article about an award received by a professor, as indicated by the mention of 'highest honor' and the ASME organization."
+    }
+]

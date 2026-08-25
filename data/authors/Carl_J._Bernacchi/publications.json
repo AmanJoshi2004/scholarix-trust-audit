@@ -1,0 +1,3973 @@
+[
+    {
+        "doi": "https://doi.org/10.1093/jxb/erp096",
+        "title": "Elevated CO2 effects on plant carbon, nitrogen, and water relations: six important lessons from FACE",
+        "journal": "Journal of Experimental Botany",
+        "year": 2009,
+        "citations": 1677,
+        "authors": "Andrew D. B. Leakey, Elizabeth A. Ainsworth, Carl J. Bernacchi et al.",
+        "authors_list": [
+            "Andrew D. B. Leakey",
+            "Elizabeth A. Ainsworth",
+            "Carl J. Bernacchi",
+            "Alistair Rogers",
+            "Stephen P. Long",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1677,
+            "crossref": 1469
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jxb/article-pdf/60/10/2859/18040455/erp096.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2007.01710.x",
+        "title": "Fitting photosynthetic carbon dioxide response curves for C<sub>3</sub> leaves",
+        "journal": "Plant Cell & Environment",
+        "year": 2007,
+        "citations": 1314,
+        "authors": "Thomas D. Sharkey, Carl J. Bernacchi, Graham D. Farquhar et al.",
+        "authors_list": [
+            "Thomas D. Sharkey",
+            "Carl J. Bernacchi",
+            "Graham D. Farquhar",
+            "Eric Singsaas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1314,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2001.00668.x",
+        "title": "Improved temperature response functions for models of Rubisco‐limited photosynthesis",
+        "journal": "Plant Cell & Environment",
+        "year": 2001,
+        "citations": 1189,
+        "authors": "Carl J. Bernacchi, Eric Singsaas, Carlos Pimentel et al.",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Eric Singsaas",
+            "Carlos Pimentel",
+            "Archie R. Portis",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1189,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2001.00668.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.008250",
+        "title": "Temperature Response of Mesophyll Conductance. Implications for the Determination of Rubisco Enzyme Kinetics and for Limitations to Photosynthesis in Vivo",
+        "journal": "Plant Physiology",
+        "year": 2002,
+        "citations": 780,
+        "authors": "Carl J. Bernacchi, Archie R. Portis, Hiromi Nakano et al.",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Archie R. Portis",
+            "Hiromi Nakano",
+            "Susanne von Caemmerer",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 780,
+            "crossref": 657
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/130/4/1992/38691904/plphys_v130_4_1992.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jxb/erab090",
+        "title": "The effect of increasing temperature on crop photosynthesis: from enzymes to ecosystems",
+        "journal": "Journal of Experimental Botany",
+        "year": 2021,
+        "citations": 609,
+        "authors": "Caitlin E. Moore, Katherine Meacham‐Hensold, Pauline Lemonnier et al.",
+        "authors_list": [
+            "Caitlin E. Moore",
+            "Katherine Meacham‐Hensold",
+            "Pauline Lemonnier",
+            "Rebecca Slattery",
+            "Claire Benjamin",
+            "Carl J. Bernacchi",
+            "Tracy Lawson",
+            "Amanda P. Cavanagh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 609,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jxb/article-pdf/72/8/2822/36867116/erab090.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.agrformet.2021.108350",
+        "title": "Representativeness of Eddy-Covariance flux footprints for areas surrounding AmeriFlux sites",
+        "journal": "Agricultural and Forest Meteorology",
+        "year": 2021,
+        "citations": 513,
+        "authors": "Housen Chu, Xiangzhong Luo, Zutao Ouyang et al.",
+        "authors_list": [
+            "Housen Chu",
+            "Xiangzhong Luo",
+            "Zutao Ouyang",
+            "Stephen Chan",
+            "Sigrid Dengel",
+            "Sébastien Biraud",
+            "Margaret Torn",
+            "Stefan Metzger",
+            "Jitendra Kumar",
+            "M. Altaf Arain",
+            "T. J. Arkebauer",
+            "Dennis Baldocchi",
+            "Carl J. Bernacchi",
+            "D. P. Billesbach",
+            "T. Andrew Black",
+            "Peter D. Blanken",
+            "Gil Bohrer",
+            "Rosvel Bracho",
+            "S. M. Brown",
+            "N. A. Brunsell",
+            "Jiquan Chen",
+            "Xingyuan Chen",
+            "Kenneth L. Clark",
+            "Ankur R. Desai",
+            "Tomer Duman",
+            "David Durden",
+            "Silvano Fares",
+            "Inke Forbrich",
+            "John A. Gamon",
+            "Christopher M. Gough",
+            "Timothy J. Griffis",
+            "Manuel Helbig",
+            "David Y. Hollinger",
+            "Elyn Humphreys",
+            "Hiroki Ikawa",
+            "Hiroki Iwata",
+            "Yang Ju",
+            "John F. Knowles",
+            "Sara Knox",
+            "Hideki Kobayashi",
+            "Thomas E. Kolb",
+            "B. E. Law",
+            "Xuhui Lee",
+            "M. E. Litvak",
+            "Heping Liu",
+            "J. William Munger",
+            "Asko Noormets",
+            "Kim Novick",
+            "Steven F. Oberbauer",
+            "Walter C. Oechel",
+            "Patty Oikawa",
+            "S. A. Papuga",
+            "Elise Pendall",
+            "Prajaya Prajapati",
+            "John H. Prueger",
+            "William L. Quinton",
+            "Andrew D. Richardson",
+            "Eric S. Russell",
+            "Russell L. Scott",
+            "Gregory Starr",
+            "Ralf M. Staebler",
+            "Paul C. Stoy",
+            "Ellen Stuart‐Haëntjens",
+            "Oliver Sonnentag",
+            "Ryan C. Sullivan",
+            "Andy Suyker",
+            "Masahito Ueyama",
+            "Rodrigo Vargas",
+            "Jeffrey D. Wood",
+            "Donatella Zona"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 513,
+            "crossref": 280
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.agrformet.2021.108350"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.1365-2486.2002.00498.x",
+        "title": "A meta‐analysis of elevated [CO<sub>2</sub>] effects on soybean (<i>Glycine max</i>) physiology, growth and yield",
+        "journal": "Global Change Biology",
+        "year": 2002,
+        "citations": 486,
+        "authors": "Elizabeth A. Ainsworth, Phillip Davey, Carl J. Bernacchi et al.",
+        "authors_list": [
+            "Elizabeth A. Ainsworth",
+            "Phillip Davey",
+            "Carl J. Bernacchi",
+            "Orla Dermody",
+            "Emily A. Heaton",
+            "D. J. Moore",
+            "Patrick B. Morgan",
+            "Shawna L. Naidu",
+            "Hyung‐shim Yoo",
+            "Xin-Guang Zhu",
+            "Peter S. Curtis",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 486,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.0016-8025.2003.01050.x",
+        "title": "<i>In vivo</i> temperature response functions of parameters required to model RuBP‐limited photosynthesis",
+        "journal": "Plant Cell & Environment",
+        "year": 2003,
+        "citations": 478,
+        "authors": "Carl J. Bernacchi, Carlos Pimentel, Stephen P. Long",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Carlos Pimentel",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 478,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.0016-8025.2003.01050.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1029/2019wr026058",
+        "title": "ECOSTRESS: NASA&apos;s Next Generation Mission to Measure Evapotranspiration From the International Space Station",
+        "journal": "Seoul National University Open Repository (Seoul National University)",
+        "year": 2020,
+        "citations": 462,
+        "authors": "Joshua B. Fisher, Brian Lee, A. J. Purdy et al.",
+        "authors_list": [
+            "Joshua B. Fisher",
+            "Brian Lee",
+            "A. J. Purdy",
+            "Gregory Halverson",
+            "Matthew B. Dohlen",
+            "Kerry Cawse‐Nicholson",
+            "Audrey Wang",
+            "Ray G. Anderson",
+            "B. Aragon",
+            "M. Altaf Arain",
+            "Dennis Baldocchi",
+            "John M. Baker",
+            "Hélène Barral",
+            "Carl J. Bernacchi",
+            "Christian Bernhofer",
+            "Sébastien Biraud",
+            "Gil Bohrer",
+            "N. A. Brunsell",
+            "B. Cappelaere",
+            "S. Castro-Contreras",
+            "Jung‐Hwa Chun",
+            "B. Conrad",
+            "Edoardo Cremonese",
+            "Jérôme Demarty",
+            "Ankur R. Desai",
+            "Anne De Ligne",
+            "Lenka Foltýnová",
+            "Michael L. Goulden",
+            "Timothy J. Griffis",
+            "Gruenwald, Thomas",
+            "Mark S. Johnson",
+            "Minseok Kang",
+            "D. Kelbe",
+            "Natalia Kowalska",
+            "Jong‐Hwan Lim",
+            "I. Maïnassara",
+            "Matthew F. McCabe",
+            "Justine Missik",
+            "Binayak P. Mohanty",
+            "Caitlin E. Moore",
+            "Laura Morillas",
+            "Ross Morrison",
+            "J. William Munger",
+            "Gabriela Posse",
+            "Andrew D. Richardson",
+            "Eric S. Russell",
+            "Youngryel Ryu",
+            "Arturo Sánchez‐Azofeifa",
+            "Marius Schmidt",
+            "Efrat Schwartz",
+            "I. Sharp",
+            "Ladislav Šigut",
+            "Yao Tang",
+            "Glynn Hulley",
+            "Martha C. Anderson",
+            "Christopher Hain",
+            "Andrew N. French",
+            "Eric F. Wood",
+            "Simon J. Hook"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 462,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2019WR026058"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev-arplant-043015-111709",
+        "title": "The Costs of Photorespiration to Food Production Now and in the Future",
+        "journal": "Annual Review of Plant Biology",
+        "year": 2016,
+        "citations": 455,
+        "authors": "Berkley J. Walker, Andy VanLoocke, Carl J. Bernacchi et al.",
+        "authors_list": [
+            "Berkley J. Walker",
+            "Andy VanLoocke",
+            "Carl J. Bernacchi",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 455,
+            "crossref": 396
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-043015-111709"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41477-020-0625-3",
+        "title": "Towards a multiscale crop modelling framework for climate change adaptation assessment",
+        "journal": "Nature Plants",
+        "year": 2020,
+        "citations": 319,
+        "authors": "Bin Peng, Kaiyu Guan, Jinyun Tang et al.",
+        "authors_list": [
+            "Bin Peng",
+            "Kaiyu Guan",
+            "Jinyun Tang",
+            "Elizabeth A. Ainsworth",
+            "Senthold Asseng",
+            "Carl J. Bernacchi",
+            "Mark Cooper",
+            "Evan H. DeLucia",
+            "Joshua W. Elliott",
+            "Frank Ewert",
+            "R. F. Grant",
+            "David I Gustafson",
+            "Graeme Hammer",
+            "Zhenong Jin",
+            "James W. Jones",
+            "Hyungsuk Kimm",
+            "David M. Lawrence",
+            "Yan Li",
+            "Danica Lombardozzi",
+            "Amy Marshall‐Colón",
+            "Carlos D. Messina",
+            "Donald R. Ort",
+            "James C. Schnable",
+            "C. Eduardo Vallejos",
+            "Alex Wu",
+            "Xinyou Yin",
+            "Wang Zhou"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 319,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://research.wur.nl/en/publications/towards-a-multiscale-crop-modelling-framework-for-climate-change-"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nplants.2016.132",
+        "title": "Intensifying drought eliminates the expected benefits of elevated carbon dioxide for soybean",
+        "journal": "Nature Plants",
+        "year": 2016,
+        "citations": 314,
+        "authors": "Sharon B. Gray, Orla Dermody, Stephanie P. Klein et al.",
+        "authors_list": [
+            "Sharon B. Gray",
+            "Orla Dermody",
+            "Stephanie P. Klein",
+            "Anna M. Locke",
+            "Justin M. McGrath",
+            "Rachel Paul",
+            "David M. Rosenthal",
+            "Ursula M. Ruiz‐Vera",
+            "Matthew H. Siebers",
+            "Reid S. Strellner",
+            "Elizabeth A. Ainsworth",
+            "Carl J. Bernacchi",
+            "Stephen P. Long",
+            "Donald R. Ort",
+            "Andrew D. B. Leakey"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 314,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.106.089557",
+        "title": "Decreases in Stomatal Conductance of Soybean under Open-Air Elevation of [CO2] Are Closely Coupled with Decreases in Ecosystem Evapotranspiration",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 2006,
+        "citations": 279,
+        "authors": "Carl J. Bernacchi, Bruce A. Kimball, Devin R. Quarles et al.",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Bruce A. Kimball",
+            "Devin R. Quarles",
+            "Stephen P. Long",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 279,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/143/1/134/38099780/plphys_v143_1_134.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.agrformet.2005.01.005",
+        "title": "Carbon budget of mature no-till ecosystem in North Central Region of the United States",
+        "journal": "Agricultural and Forest Meteorology",
+        "year": 2005,
+        "citations": 228,
+        "authors": "Steven E. Hollinger, Carl J. Bernacchi, Tilden P. Meyers",
+        "authors_list": [
+            "Steven E. Hollinger",
+            "Carl J. Bernacchi",
+            "Tilden P. Meyers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 228,
+            "crossref": 199
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2134/jeq2012.0210",
+        "title": "Reduced Nitrogen Losses after Conversion of Row Crop Agriculture to Perennial Biofuel Crops",
+        "journal": "Journal of Environmental Quality",
+        "year": 2013,
+        "citations": 225,
+        "authors": "Candice M. Smith, Mark B. David, Corey A. Mitchell et al.",
+        "authors_list": [
+            "Candice M. Smith",
+            "Mark B. David",
+            "Corey A. Mitchell",
+            "Michael D. Masters",
+            "Kristina J. Anderson‐Teixeira",
+            "Carl J. Bernacchi",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 225,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/2017jg004180",
+        "title": "Sun‐Induced Chlorophyll Fluorescence, Photosynthesis, and Light Use Efficiency of a Soybean Field from Seasonally Continuous Measurements",
+        "journal": "Journal of Geophysical Research Biogeosciences",
+        "year": 2018,
+        "citations": 217,
+        "authors": "Guofang Miao, Kaiyu Guan, Xi Yang et al.",
+        "authors_list": [
+            "Guofang Miao",
+            "Kaiyu Guan",
+            "Xi Yang",
+            "Carl J. Bernacchi",
+            "Joseph A. Berry",
+            "Evan H. DeLucia",
+            "Jin Wu",
+            "Caitlin E. Moore",
+            "K. Meacham",
+            "Yaping Cai",
+            "Bin Peng",
+            "Hyungsuk Kimm",
+            "Michael D. Masters"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 217,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1425085"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2004.01163.x",
+        "title": "Leaf photosynthesis and carbohydrate dynamics of soybeans grown throughout their life‐cycle under Free‐Air Carbon dioxide Enrichment",
+        "journal": "Plant Cell & Environment",
+        "year": 2004,
+        "citations": 216,
+        "authors": "Alistair Rogers, D. J. Allen, Phillip Davey et al.",
+        "authors_list": [
+            "Alistair Rogers",
+            "D. J. Allen",
+            "Phillip Davey",
+            "Patrick B. Morgan",
+            "Elizabeth A. Ainsworth",
+            "Carl J. Bernacchi",
+            "Gabriel Cornic",
+            "Orla Dermody",
+            "Frank G. Dohleman",
+            "Emily A. Heaton",
+            "John R. Mahoney",
+            "Xin-Guang Zhu",
+            "Evan H. DeLucia",
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 216,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2004.01163.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nclimate2942",
+        "title": "Productivity of North American grasslands is increased under future climate scenarios despite rising aridity",
+        "journal": "Nature Climate Change",
+        "year": 2016,
+        "citations": 216,
+        "authors": "Koen Hufkens, Trevor F. Keenan, Lawrence B. Flanagan et al.",
+        "authors_list": [
+            "Koen Hufkens",
+            "Trevor F. Keenan",
+            "Lawrence B. Flanagan",
+            "Russell L. Scott",
+            "Carl J. Bernacchi",
+            "Éva Joó",
+            "N. A. Brunsell",
+            "Joseph Verfaillie",
+            "Andrew D. Richardson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 216,
+            "crossref": 197
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://escholarship.org/content/qt49m1s7tb/qt49m1s7tb.pdf?t=or4ks3"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.rse.2019.04.029",
+        "title": "High-throughput field phenotyping using hyperspectral reflectance and partial least squares regression (PLSR) reveals genetic modifications to photosynthetic capacity",
+        "journal": "Remote Sensing of Environment",
+        "year": 2019,
+        "citations": 212,
+        "authors": "Katherine Meacham‐Hensold, Christopher M. Montes, Jin Wu et al.",
+        "authors_list": [
+            "Katherine Meacham‐Hensold",
+            "Christopher M. Montes",
+            "Jin Wu",
+            "Kaiyu Guan",
+            "Peng Fu",
+            "Elizabeth A. Ainsworth",
+            "Taylor Pederson",
+            "Caitlin E. Moore",
+            "Kenny L. Brown",
+            "Christine A. Raines",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 212,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0034425719301804/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.112.211938",
+        "title": "Global Warming Can Negate the Expected CO2 Stimulation in Photosynthesis and Productivity for Soybean Grown in the Midwestern United States    ",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 2013,
+        "citations": 210,
+        "authors": "Ursula M. Ruiz‐Vera, Matthew H. Siebers, Sharon B. Gray et al.",
+        "authors_list": [
+            "Ursula M. Ruiz‐Vera",
+            "Matthew H. Siebers",
+            "Sharon B. Gray",
+            "David W. Drag",
+            "David M. Rosenthal",
+            "Bruce A. Kimball",
+            "Donald R. Ort",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 210,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/162/1/410/38113050/plphys_v162_1_410.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00425-004-1320-8",
+        "title": "The growth of soybean under free air [CO2] enrichment (FACE) stimulates photosynthesis while decreasing in vivo Rubisco capacity",
+        "journal": "Planta",
+        "year": 2004,
+        "citations": 208,
+        "authors": "Carl J. Bernacchi, Patrick B. Morgan, Donald R. Ort et al.",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Patrick B. Morgan",
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 208,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1529-8817.2003.00767.x",
+        "title": "Will photosynthesis of maize (<i>Zea mays</i>) in the US Corn Belt increase in future [CO<sub>2</sub>] rich atmospheres? An analysis of diurnal courses of CO<sub>2</sub> uptake under free‐air concentration enrichment (FACE)",
+        "journal": "Global Change Biology",
+        "year": 2004,
+        "citations": 198,
+        "authors": "Andrew D. B. Leakey, Carl J. Bernacchi, Frank G. Dohleman et al.",
+        "authors_list": [
+            "Andrew D. B. Leakey",
+            "Carl J. Bernacchi",
+            "Frank G. Dohleman",
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 198,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.5194/bg-6-969-2009",
+        "title": "Incorporation of crop phenology in Simple Biosphere Model (SiBcrop) to improve land-atmosphere carbon exchanges from croplands",
+        "journal": "Biogeosciences",
+        "year": 2009,
+        "citations": 197,
+        "authors": "Erandathie Lokupitiya, Scott Denning, Keith Paustian et al.",
+        "authors_list": [
+            "Erandathie Lokupitiya",
+            "Scott Denning",
+            "Keith Paustian",
+            "Ian Baker",
+            "Kevin Schaefer",
+            "Shashi B. Verma",
+            "T. P. Meyers",
+            "Carl J. Bernacchi",
+            "Andy Suyker",
+            "M. L. Fischer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 197,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bg.copernicus.org/articles/6/969/2009/bg-6-969-2009.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2006.01549.x",
+        "title": "Increased C availability at elevated carbon dioxide concentration improves N assimilation in a legume",
+        "journal": "Plant Cell & Environment",
+        "year": 2006,
+        "citations": 194,
+        "authors": "Alistair Rogers, Yves Gibon, Mark Stitt et al.",
+        "authors_list": [
+            "Alistair Rogers",
+            "Yves Gibon",
+            "Mark Stitt",
+            "Patrick B. Morgan",
+            "Carl J. Bernacchi",
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 194,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2006.01549.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/pce.12118",
+        "title": "Modelling <scp>C</scp><sub>3</sub> photosynthesis from the chloroplast to the ecosystem",
+        "journal": "Plant Cell & Environment",
+        "year": 2013,
+        "citations": 191,
+        "authors": "Carl J. Bernacchi, J. E. Bagley, Shawn Serbin et al.",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "J. E. Bagley",
+            "Shawn Serbin",
+            "Ursula M. Ruiz‐Vera",
+            "David M. Rosenthal",
+            "Andy VanLoocke"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 191,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/pce.12118"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1890/14-0005.1",
+        "title": "Greenness indices from digital cameras predict the timing and seasonal dynamics of canopy‐scale photosynthesis",
+        "journal": "Ecological Applications",
+        "year": 2015,
+        "citations": 189,
+        "authors": "Michael Toomey, M. A. Friedl, Steve Frolking et al.",
+        "authors_list": [
+            "Michael Toomey",
+            "M. A. Friedl",
+            "Steve Frolking",
+            "Koen Hufkens",
+            "Stephen Klosterman",
+            "Oliver Sonnentag",
+            "Dennis Baldocchi",
+            "Carl J. Bernacchi",
+            "Sébastien Biraud",
+            "Gil Bohrer",
+            "Edward Brzostek",
+            "Sean P. Burns",
+            "Carole Coursolle",
+            "David Y. Hollinger",
+            "Hank A. Margolis",
+            "Harry McCaughey",
+            "Russell K. Monson",
+            "J. William Munger",
+            "Stephen G. Pallardy",
+            "Richard P. Phillips",
+            "Margaret Torn",
+            "Sonia Wharton",
+            "Marcelo Zeri",
+            "Andrew D. Richardson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 189,
+            "crossref": 149
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1512110"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.agrformet.2020.107930",
+        "title": "Redefining droughts for the U.S. Corn Belt: The dominant role of atmospheric vapor pressure deficit over soil moisture in regulating stomatal behavior of Maize and Soybean",
+        "journal": "Agricultural and Forest Meteorology",
+        "year": 2020,
+        "citations": 189,
+        "authors": "Hyungsuk Kimm, Kaiyu Guan, Pierre Gentine et al.",
+        "authors_list": [
+            "Hyungsuk Kimm",
+            "Kaiyu Guan",
+            "Pierre Gentine",
+            "Jin Wu",
+            "Carl J. Bernacchi",
+            "Benjamin N. Sulman",
+            "Timothy J. Griffis",
+            "Changjie Lin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 189,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/am/pii/S0168192320300320?via%3Dihub"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10021-012-9628-x",
+        "title": "Altered Belowground Carbon Cycling Following Land-Use Change to Perennial Bioenergy Crops",
+        "journal": "Ecosystems",
+        "year": 2013,
+        "citations": 176,
+        "authors": "Kristina J. Anderson‐Teixeira, Michael D. Masters, Christopher Black et al.",
+        "authors_list": [
+            "Kristina J. Anderson‐Teixeira",
+            "Michael D. Masters",
+            "Christopher Black",
+            "Marcelo Zeri",
+            "Mir Zaman Hussain",
+            "Carl J. Bernacchi",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 176,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3389/fpls.2017.00549",
+        "title": "Photosynthesis, Light Use Efficiency, and Yield of Reduced-Chlorophyll Soybean Mutants in Field Conditions",
+        "journal": "Frontiers in Plant Science",
+        "year": 2017,
+        "citations": 169,
+        "authors": "Rebecca Slattery, Andy VanLoocke, Carl J. Bernacchi et al.",
+        "authors_list": [
+            "Rebecca Slattery",
+            "Andy VanLoocke",
+            "Carl J. Bernacchi",
+            "Xin-Guang Zhu",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 169,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.frontiersin.org/articles/10.3389/fpls.2017.00549/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcb.12935",
+        "title": "Heat waves imposed during early pod development in soybean (<i><scp>G</scp>lycine max</i>) cause significant yield loss despite a rapid recovery from oxidative stress",
+        "journal": "Global Change Biology",
+        "year": 2015,
+        "citations": 165,
+        "authors": "Matthew H. Siebers, Craig R. Yendrek, David W. Drag et al.",
+        "authors_list": [
+            "Matthew H. Siebers",
+            "Craig R. Yendrek",
+            "David W. Drag",
+            "Anna M. Locke",
+            "Lorena Rios Acosta",
+            "Andrew D. B. Leakey",
+            "Elizabeth A. Ainsworth",
+            "Carl J. Bernacchi",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 165,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2006.01581.x",
+        "title": "Hourly and seasonal variation in photosynthesis and stomatal conductance of soybean grown at future CO<sub>2</sub> and ozone concentrations for 3 years under fully open‐air field conditions",
+        "journal": "Plant Cell & Environment",
+        "year": 2006,
+        "citations": 163,
+        "authors": "Carl J. Bernacchi, Andrew D. B. Leakey, Lindsey E. Heady et al.",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Andrew D. B. Leakey",
+            "Lindsey E. Heady",
+            "Patrick B. Morgan",
+            "Frank G. Dohleman",
+            "Justin M. McGrath",
+            "Kelly M. Gillespie",
+            "Victoria E. Wittig",
+            "Alistair Rogers",
+            "Stephen P. Long",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 163,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2006.01581.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1029/2010jg001340",
+        "title": "Ecohydrological responses of dense canopies to environmental variability: 1. Interplay between vertical structure and photosynthetic pathway",
+        "journal": "Journal of Geophysical Research Atmospheres",
+        "year": 2010,
+        "citations": 156,
+        "authors": "D. Drewry, Praveen Kumar, Stephen P. Long et al.",
+        "authors_list": [
+            "D. Drewry",
+            "Praveen Kumar",
+            "Stephen P. Long",
+            "Carl J. Bernacchi",
+            "Xin‐Zhong Liang",
+            "Murugesu Sivapalan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 156,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2010JG001340"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1757-1707.2010.01053.x",
+        "title": "The impacts of <i>Miscanthus</i>×<i>giganteus</i> production on the Midwest US hydrologic cycle",
+        "journal": "GCB Bioenergy",
+        "year": 2010,
+        "citations": 153,
+        "authors": "Andy VanLoocke, Carl J. Bernacchi, T. E. Twine",
+        "authors_list": [
+            "Andy VanLoocke",
+            "Carl J. Bernacchi",
+            "T. E. Twine"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 153,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1757-1707.2010.01053.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.104.043968",
+        "title": "An In Vivo Analysis of the Effect of Season-Long Open-Air Elevation of Ozone to Anticipated 2050 Levels on Photosynthesis in Soybean",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 2004,
+        "citations": 152,
+        "authors": "Patrick B. Morgan, Carl J. Bernacchi, Donald R. Ort et al.",
+        "authors_list": [
+            "Patrick B. Morgan",
+            "Carl J. Bernacchi",
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 152,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/135/4/2348/38704262/plphys_v135_4_2348.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3389/fpls.2019.00730",
+        "title": "Hyperspectral Leaf Reflectance as Proxy for Photosynthetic Capacities: An Ensemble Approach Based on Multiple Machine Learning Algorithms",
+        "journal": "Frontiers in Plant Science",
+        "year": 2019,
+        "citations": 150,
+        "authors": "Peng Fu, Katherine Meacham‐Hensold, Kaiyu Guan et al.",
+        "authors_list": [
+            "Peng Fu",
+            "Katherine Meacham‐Hensold",
+            "Kaiyu Guan",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 150,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.frontiersin.org/articles/10.3389/fpls.2019.00730/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.agrformet.2012.05.016",
+        "title": "A regional comparison of water use efficiency for miscanthus, switchgrass and maize",
+        "journal": "Agricultural and Forest Meteorology",
+        "year": 2012,
+        "citations": 149,
+        "authors": "Andy VanLoocke, T. E. Twine, Marcelo Zeri et al.",
+        "authors_list": [
+            "Andy VanLoocke",
+            "T. E. Twine",
+            "Marcelo Zeri",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 149,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev-arplant-043014-114834",
+        "title": "Terrestrial Ecosystems in a Changing Environment: A Dominant Role for Water",
+        "journal": "Annual Review of Plant Biology",
+        "year": 2015,
+        "citations": 143,
+        "authors": "Carl J. Bernacchi, Andy VanLoocke",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Andy VanLoocke"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 143,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-043014-114834"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.agee.2011.09.006",
+        "title": "Carbon exchange by establishing biofuel crops in Central Illinois",
+        "journal": "Agriculture Ecosystems & Environment",
+        "year": 2011,
+        "citations": 143,
+        "authors": "Marcelo Zeri, Kristina J. Anderson‐Teixeira, G. C. Hickman et al.",
+        "authors_list": [
+            "Marcelo Zeri",
+            "Kristina J. Anderson‐Teixeira",
+            "G. C. Hickman",
+            "Michael D. Masters",
+            "Evan H. DeLucia",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 143,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.rse.2019.111615",
+        "title": "Deriving high-spatiotemporal-resolution leaf area index for agroecosystems in the U.S. Corn Belt using Planet Labs CubeSat and STAIR fusion data",
+        "journal": "Remote Sensing of Environment",
+        "year": 2020,
+        "citations": 137,
+        "authors": "Hyungsuk Kimm, Kaiyu Guan, Chongya Jiang et al.",
+        "authors_list": [
+            "Hyungsuk Kimm",
+            "Kaiyu Guan",
+            "Chongya Jiang",
+            "Bin Peng",
+            "Laura F. Gentry",
+            "Scott C. Wilkin",
+            "Sibo Wang",
+            "Yaping Cai",
+            "Carl J. Bernacchi",
+            "Jian Peng",
+            "Yunan Luo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 137,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/am/pii/S0034425719306352"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.1469-8137.2003.00850.x",
+        "title": "Photosynthesis and stomatal conductance responses of poplars to free‐air CO<sub>2</sub> enrichment (PopFACE) during the first growth cycle and immediately following coppice",
+        "journal": "New Phytologist",
+        "year": 2003,
+        "citations": 130,
+        "authors": "Carl J. Bernacchi, Carlo Calfapietra, Phillip Davey et al.",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Carlo Calfapietra",
+            "Phillip Davey",
+            "Victoria E. Wittig",
+            "G. E. Scarascia‐Mugnozza",
+            "Christine A. Raines",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1469-8137.2003.00850.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcbb.12488",
+        "title": "Consensus, uncertainties and challenges for perennial bioenergy crops and land use",
+        "journal": "GCB Bioenergy",
+        "year": 2017,
+        "citations": 130,
+        "authors": "Jeanette Whitaker, John Field, Carl J. Bernacchi et al.",
+        "authors_list": [
+            "Jeanette Whitaker",
+            "John Field",
+            "Carl J. Bernacchi",
+            "Carlos Eduardo Pellegrino Cerri",
+            "R. Ceulemans",
+            "Christian A. Davies",
+            "Evan H. DeLucia",
+            "Iain Donnison",
+            "Jon McCalmont",
+            "Keith Paustian",
+            "Rebecca Rowe",
+            "Pete Smith",
+            "Patricia Thornley",
+            "Niall P. McNamara"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcbb.12488"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2006.01556.x",
+        "title": "Long‐term growth of soybean at elevated [CO<sub>2</sub>] does not cause acclimation of stomatal conductance under fully open‐air conditions",
+        "journal": "Plant Cell & Environment",
+        "year": 2006,
+        "citations": 127,
+        "authors": "Andrew D. B. Leakey, Carl J. Bernacchi, Donald R. Ort et al.",
+        "authors_list": [
+            "Andrew D. B. Leakey",
+            "Carl J. Bernacchi",
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 127,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcb.13013",
+        "title": "Canopy warming caused photosynthetic acclimation and reduced seed yield in maize grown at ambient and elevated [<scp>CO</scp><sub>2</sub>]",
+        "journal": "Global Change Biology",
+        "year": 2015,
+        "citations": 125,
+        "authors": "Ursula M. Ruiz‐Vera, Matthew H. Siebers, David W. Drag et al.",
+        "authors_list": [
+            "Ursula M. Ruiz‐Vera",
+            "Matthew H. Siebers",
+            "David W. Drag",
+            "Donald R. Ort",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 125,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1400518"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2486.2005.01050.x",
+        "title": "The conversion of the corn/soybean ecosystem to no‐till agriculture may result in a carbon sink",
+        "journal": "Global Change Biology",
+        "year": 2005,
+        "citations": 125,
+        "authors": "Carl J. Bernacchi, Steven E. Hollinger, Tilden P. Meyers",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Steven E. Hollinger",
+            "Tilden P. Meyers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 125,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1757-1707.2010.01050.x",
+        "title": "A comparison of canopy evapotranspiration for maize and two perennial grasses identified as potential bioenergy crops",
+        "journal": "GCB Bioenergy",
+        "year": 2010,
+        "citations": 116,
+        "authors": "G. C. Hickman, Andy VanLoocke, Frank G. Dohleman et al.",
+        "authors_list": [
+            "G. C. Hickman",
+            "Andy VanLoocke",
+            "Frank G. Dohleman",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1757-1707.2010.01050.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.agee.2016.11.008",
+        "title": "Simulated heat waves during maize reproductive stages alter reproductive growth but have no lasting effect when applied during vegetative stages",
+        "journal": "Agriculture Ecosystems & Environment",
+        "year": 2017,
+        "citations": 114,
+        "authors": "Matthew H. Siebers, Rebecca Slattery, Craig R. Yendrek et al.",
+        "authors_list": [
+            "Matthew H. Siebers",
+            "Rebecca Slattery",
+            "Craig R. Yendrek",
+            "Anna M. Locke",
+            "David W. Drag",
+            "Elizabeth A. Ainsworth",
+            "Carl J. Bernacchi",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 114,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/am/pii/S016788091630545X?via%3Dihub"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1088/1748-9326/ab65cc",
+        "title": "Radiance-based NIR<sub>v</sub> as a proxy for GPP of corn and soybean",
+        "journal": "Environmental Research Letters",
+        "year": 2019,
+        "citations": 111,
+        "authors": "Genghong Wu, Kaiyu Guan, Chongya Jiang et al.",
+        "authors_list": [
+            "Genghong Wu",
+            "Kaiyu Guan",
+            "Chongya Jiang",
+            "Bin Peng",
+            "Hyungsuk Kimm",
+            "Min Chen",
+            "Xi Yang",
+            "Sheng Wang",
+            "Andrew E. Suyker",
+            "Carl J. Bernacchi",
+            "Caitlin E. Moore",
+            "Yelu Zeng",
+            "Joseph A. Berry",
+            "Maria Pilar Cendrero‐Mateo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 111,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1088/1748-9326/ab65cc/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/pce.13718",
+        "title": "Estimating photosynthetic traits from reflectance spectra: A synthesis of spectral indices, numerical inversion, and partial least square regression",
+        "journal": "Plant Cell & Environment",
+        "year": 2020,
+        "citations": 109,
+        "authors": "Peng Fu, Katherine Meacham‐Hensold, Kaiyu Guan et al.",
+        "authors_list": [
+            "Peng Fu",
+            "Katherine Meacham‐Hensold",
+            "Kaiyu Guan",
+            "Jin Wu",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/pce.13718"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcb.14632",
+        "title": "Dissecting the nonlinear response of maize yield to high temperature stress with model‐data integration",
+        "journal": "Global Change Biology",
+        "year": 2019,
+        "citations": 107,
+        "authors": "Peng Zhu, Qianlai Zhuang, Sotirios V. Archontoulis et al.",
+        "authors_list": [
+            "Peng Zhu",
+            "Qianlai Zhuang",
+            "Sotirios V. Archontoulis",
+            "Carl J. Bernacchi",
+            "Christoph Müller"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 107,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jxb/erw435",
+        "title": "Expression of cyanobacterial FBP/SBPase in soybean prevents yield depression under future climate conditions",
+        "journal": "Journal of Experimental Botany",
+        "year": 2016,
+        "citations": 106,
+        "authors": "I. Köhler, Ursula M. Ruiz‐Vera, Andy VanLoocke et al.",
+        "authors_list": [
+            "I. Köhler",
+            "Ursula M. Ruiz‐Vera",
+            "Andy VanLoocke",
+            "Michell L. Thomey",
+            "Tom Clemente",
+            "Stephen P. Long",
+            "Donald R. Ort",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jxb/article-pdf/68/3/715/17906269/erw435.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jxb/eraa068",
+        "title": "Plot-level rapid screening for photosynthetic parameters using proximal hyperspectral imaging",
+        "journal": "Journal of Experimental Botany",
+        "year": 2020,
+        "citations": 105,
+        "authors": "Katherine Meacham‐Hensold, Peng Fu, Jin Wu et al.",
+        "authors_list": [
+            "Katherine Meacham‐Hensold",
+            "Peng Fu",
+            "Jin Wu",
+            "Shawn Serbin",
+            "Christopher M. Montes",
+            "Elizabeth A. Ainsworth",
+            "Kaiyu Guan",
+            "Evan Dracup",
+            "Taylor Pederson",
+            "Steven M. Driever",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jxb/article-pdf/71/7/2312/33016196/eraa068.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2486.2006.01195.x",
+        "title": "The conversion of the corn/soybean ecosystem to no‐till agriculture may result in a carbon sink",
+        "journal": "Global Change Biology",
+        "year": 2006,
+        "citations": 104,
+        "authors": "Carl J. Bernacchi, Steven E. Hollinger, Tilden P. Meyers",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Steven E. Hollinger",
+            "Tilden P. Meyers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2486.2006.01195.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1890/08-2352.1",
+        "title": "Cropland carbon fluxes in the United States: increasing geospatial resolution of inventory‐based carbon accounting",
+        "journal": "Ecological Applications",
+        "year": 2010,
+        "citations": 104,
+        "authors": "Tristram O. West, Craig C. Brandt, Latha Baskaran et al.",
+        "authors_list": [
+            "Tristram O. West",
+            "Craig C. Brandt",
+            "Latha Baskaran",
+            "Chad Hellwinckel",
+            "Richard Mueller",
+            "Carl J. Bernacchi",
+            "Varaprasad Bandaru",
+            "Bai Yang",
+            "Bradly Wilson",
+            "Gregg Marland",
+            "Richard Nelson",
+            "Daniel De La Torre Ugarte",
+            "W. M. Post"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2006.01503.x",
+        "title": "Can fast‐growing plantation trees escape biochemical down‐regulation of photosynthesis when grown throughout their complete production cycle in the open air under elevated carbon dioxide?",
+        "journal": "Plant Cell & Environment",
+        "year": 2006,
+        "citations": 93,
+        "authors": "Phillip Davey, H. OLCER, Oksana V. Zakhleniuk et al.",
+        "authors_list": [
+            "Phillip Davey",
+            "H. OLCER",
+            "Oksana V. Zakhleniuk",
+            "Carl J. Bernacchi",
+            "Carlo Calfapietra",
+            "Stephen P. Long",
+            "Christine A. Raines"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 93,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2006.01503.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcb.12155",
+        "title": "Future carbon dioxide concentration decreases canopy evapotranspiration and soil water depletion by field‐grown maize",
+        "journal": "Global Change Biology",
+        "year": 2013,
+        "citations": 90,
+        "authors": "Mir Zaman Hussain, Andy VanLoocke, Matthew H. Siebers et al.",
+        "authors_list": [
+            "Mir Zaman Hussain",
+            "Andy VanLoocke",
+            "Matthew H. Siebers",
+            "Ursula M. Ruiz‐Vera",
+            "R. J. Cody Markelz",
+            "Andrew D. B. Leakey",
+            "Donald R. Ort",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/jgrg.20052",
+        "title": "Water use efficiency of perennial and annual bioenergy crops in central Illinois",
+        "journal": "Journal of Geophysical Research Biogeosciences",
+        "year": 2013,
+        "citations": 89,
+        "authors": "Marcelo Zeri, Mir Zaman Hussain, Kristina J. Anderson‐Teixeira et al.",
+        "authors_list": [
+            "Marcelo Zeri",
+            "Mir Zaman Hussain",
+            "Kristina J. Anderson‐Teixeira",
+            "Evan H. DeLucia",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jgrg.20052"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcb.16903",
+        "title": "Improved net carbon budgets in the <scp>US</scp> Midwest through direct measured impacts of enhanced weathering",
+        "journal": "Global Change Biology",
+        "year": 2023,
+        "citations": 85,
+        "authors": "I. B. Kantola, Elena Blanc‐Betes, Michael D. Masters et al.",
+        "authors_list": [
+            "I. B. Kantola",
+            "Elena Blanc‐Betes",
+            "Michael D. Masters",
+            "Elliot Chang",
+            "Alison Marklein",
+            "Caitlin E. Moore",
+            "Adam C. von Haden",
+            "Carl J. Bernacchi",
+            "Adam Wolf",
+            "Dimitar Z. Epihov",
+            "David J. Beerling",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 85,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.16903"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/2014gb004848",
+        "title": "The influence of photosynthetic acclimation to rising CO<sub>2</sub> and warmer temperatures on leaf and canopy photosynthesis models",
+        "journal": "Global Biogeochemical Cycles",
+        "year": 2015,
+        "citations": 83,
+        "authors": "J. E. Bagley, David M. Rosenthal, Ursula M. Ruiz‐Vera et al.",
+        "authors_list": [
+            "J. E. Bagley",
+            "David M. Rosenthal",
+            "Ursula M. Ruiz‐Vera",
+            "Matthew H. Siebers",
+            "Praveen Kumar",
+            "Donald R. Ort",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 83,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/treephys/25.11.1399",
+        "title": "Net carbon storage in a poplar plantation (POPFACE) after three years of free-air CO2 enrichment",
+        "journal": "Tree Physiology",
+        "year": 2005,
+        "citations": 79,
+        "authors": "Bert Gielen, Carlo Calfapietra, M. Lukac et al.",
+        "authors_list": [
+            "Bert Gielen",
+            "Carlo Calfapietra",
+            "M. Lukac",
+            "Victoria E. Wittig",
+            "Paolo De Angelis",
+            "Ivan A. Janssens",
+            "Maria Cristina Moscatelli",
+            "S. Grego",
+            "M. Francesca Cotrufo",
+            "Douglas L. Godbold",
+            "Marcel R. Hoosbeek",
+            "Stephen P. Long",
+            "F. Miglietta",
+            "Andrea Polle",
+            "Carl J. Bernacchi",
+            "Phillip Davey",
+            "R. Ceulemans",
+            "G. E. Scarascia‐Mugnozza"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 79,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/treephys/article-pdf/25/11/1399/4719140/25-11-1399.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcb.14796",
+        "title": "Yield response of field‐grown soybean exposed to heat waves under current and elevated [CO<sub>2</sub>]",
+        "journal": "Global Change Biology",
+        "year": 2019,
+        "citations": 78,
+        "authors": "Michell L. Thomey, Rebecca Slattery, I. Köhler et al.",
+        "authors_list": [
+            "Michell L. Thomey",
+            "Rebecca Slattery",
+            "I. Köhler",
+            "Carl J. Bernacchi",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcb.15603",
+        "title": "Quantifying high‐temperature stress on soybean canopy photosynthesis: The unique role of sun‐induced chlorophyll fluorescence",
+        "journal": "Global Change Biology",
+        "year": 2021,
+        "citations": 78,
+        "authors": "Hyungsuk Kimm, Kaiyu Guan, Charles H. Burroughs et al.",
+        "authors_list": [
+            "Hyungsuk Kimm",
+            "Kaiyu Guan",
+            "Charles H. Burroughs",
+            "Bin Peng",
+            "Elizabeth A. Ainsworth",
+            "Carl J. Bernacchi",
+            "Caitlin E. Moore",
+            "Etsushi Kumagai",
+            "Xi Yang",
+            "Joseph A. Berry",
+            "Genghong Wu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://research-repository.uwa.edu.au/en/publications/d650813c-052b-4d0c-a8da-29f7de93dec1"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.rse.2019.05.010",
+        "title": "A physical model-based method for retrieving urban land surface temperatures under cloudy conditions",
+        "journal": "Remote Sensing of Environment",
+        "year": 2019,
+        "citations": 77,
+        "authors": "Peng Fu, Yanhua Xie, Qihao Weng et al.",
+        "authors_list": [
+            "Peng Fu",
+            "Yanhua Xie",
+            "Qihao Weng",
+            "Soe W. Myint",
+            "Katherine Meacham‐Hensold",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/pbi.13750",
+        "title": "Alternative pathway to photorespiration protects growth and productivity at elevated temperatures in a model crop",
+        "journal": "Plant Biotechnology Journal",
+        "year": 2021,
+        "citations": 77,
+        "authors": "Amanda P. Cavanagh, Paul F. South, Carl J. Bernacchi et al.",
+        "authors_list": [
+            "Amanda P. Cavanagh",
+            "Paul F. South",
+            "Carl J. Bernacchi",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/pbi.13750"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcb.14356",
+        "title": "The important but weakening maize yield benefit of grain filling prolongation in the US Midwest",
+        "journal": "Global Change Biology",
+        "year": 2018,
+        "citations": 77,
+        "authors": "Peng Zhu, Zhenong Jin, Qianlai Zhuang et al.",
+        "authors_list": [
+            "Peng Zhu",
+            "Zhenong Jin",
+            "Qianlai Zhuang",
+            "Philippe Ciais",
+            "Carl J. Bernacchi",
+            "Xuhui Wang",
+            "David Makowski",
+            "David B. Lobell"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.14356"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.xcrp.2023.101518",
+        "title": "Knowns, uncertainties, and challenges in agrivoltaics to sustainably intensify energy and food production",
+        "journal": "Cell Reports Physical Science",
+        "year": 2023,
+        "citations": 75,
+        "authors": "N. Gomez‐Casanovas, Paul Mwebaze, Madhu Khanna et al.",
+        "authors_list": [
+            "N. Gomez‐Casanovas",
+            "Paul Mwebaze",
+            "Madhu Khanna",
+            "B. E. Branham",
+            "Alson Time",
+            "Evan H. DeLucia",
+            "Carl J. Bernacchi",
+            "Alan K. Knapp",
+            "Muhammad Jahidul Hoque",
+            "Xuzhi Du",
+            "Elena Blanc‐Betes",
+            "Greg A. Barron‐Gafford",
+            "Bin Peng",
+            "Kaiyu Guan",
+            "Jordan Macknick",
+            "Ruiqing Miao",
+            "Nenad Miljkovic"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ars.els-cdn.com/content/image/1-s2.0-S2666386423003028-fx1_lrg.jpg"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcb.12270",
+        "title": "Impacts of elevated<scp><scp>CO</scp></scp><sub>2</sub>concentration on the productivity and surface energy budget of the soybean and maize agroecosystem in the Midwest<scp>USA</scp>",
+        "journal": "Global Change Biology",
+        "year": 2013,
+        "citations": 73,
+        "authors": "T. E. Twine, J. Bryant, Katherine T. Richter et al.",
+        "authors_list": [
+            "T. E. Twine",
+            "J. Bryant",
+            "Katherine T. Richter",
+            "Carl J. Bernacchi",
+            "K. D. M. McConnaughay",
+            "Sherri J. Morris",
+            "Andrew D. B. Leakey"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/rs13091763",
+        "title": "Understanding Growth Dynamics and Yield Prediction of Sorghum Using High Temporal Resolution UAV Imagery Time Series and Machine Learning",
+        "journal": "Remote Sensing",
+        "year": 2021,
+        "citations": 69,
+        "authors": "Sebastián Varela, Taylor Pederson, Carl J. Bernacchi et al.",
+        "authors_list": [
+            "Sebastián Varela",
+            "Taylor Pederson",
+            "Carl J. Bernacchi",
+            "Andrew D. B. Leakey"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/2072-4292/13/9/1763/pdf?version=1620291000"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/tpj.14166",
+        "title": "Increased temperatures may safeguard the nutritional quality of crops under future elevated <scp>CO</scp> <sub>2</sub> concentrations",
+        "journal": "The Plant Journal",
+        "year": 2018,
+        "citations": 67,
+        "authors": "I. Köhler, Steven C. Huber, Carl J. Bernacchi et al.",
+        "authors_list": [
+            "I. Köhler",
+            "Steven C. Huber",
+            "Carl J. Bernacchi",
+            "Ivan Baxter"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tpj.14166"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcb.14978",
+        "title": "Civil disobedience movements such as School Strike for the Climate are raising public awareness of the climate change emergency",
+        "journal": "Global Change Biology",
+        "year": 2020,
+        "citations": 67,
+        "authors": "Stephen J. Thackeray, Sharon A. Robinson, Pete Smith et al.",
+        "authors_list": [
+            "Stephen J. Thackeray",
+            "Sharon A. Robinson",
+            "Pete Smith",
+            "Rhea Bruno",
+            "Miko U. F. Kirschbaum",
+            "Carl J. Bernacchi",
+            "Maria Byrne",
+            "William W. L. Cheung",
+            "M. Francesca Cotrufo",
+            "Phillip Gienapp",
+            "Sue Hartley",
+            "Ivan A. Janssens",
+            "T. Hefin Jones",
+            "Kazuhiko Kobayashi",
+            "Yiqi Luo",
+            "Josep Peñuelas",
+            "Rowan F. Sage",
+            "David J. Suggett",
+            "Danielle A. Way",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ro.uow.edu.au/smhpapers1/1130"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.1365-2486.2000.00370.x",
+        "title": "Biomass allocation in old‐field annual species grown in elevated CO<sub>2</sub>environments: no evidence for optimal partitioning",
+        "journal": "Global Change Biology",
+        "year": 2000,
+        "citations": 64,
+        "authors": "Carl J. Bernacchi, James S. Coleman, F. A. Bazzaz et al.",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "James S. Coleman",
+            "F. A. Bazzaz",
+            "K. D. M. McConnaughay"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ecs2.2773",
+        "title": "Are we approaching a water ceiling to maize yields in the United States?",
+        "journal": "Ecosphere",
+        "year": 2019,
+        "citations": 64,
+        "authors": "Evan H. DeLucia, Shiliu Chen, Kaiyu Guan et al.",
+        "authors_list": [
+            "Evan H. DeLucia",
+            "Shiliu Chen",
+            "Kaiyu Guan",
+            "Bin Peng",
+            "Yan Li",
+            "N. Gomez‐Casanovas",
+            "I. B. Kantola",
+            "Carl J. Bernacchi",
+            "Yuefei Huang",
+            "Stephen P. Long",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecs2.2773"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcb.13187",
+        "title": "Nitrogen deposition and greenhouse gas emissions from grasslands: uncertainties and future directions",
+        "journal": "Global Change Biology",
+        "year": 2015,
+        "citations": 62,
+        "authors": "N. Gomez‐Casanovas, T. W. Hudiburg, Carl J. Bernacchi et al.",
+        "authors_list": [
+            "N. Gomez‐Casanovas",
+            "T. W. Hudiburg",
+            "Carl J. Bernacchi",
+            "William J. Parton",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcb.12127",
+        "title": "Gap filling strategies and error in estimating annual soil respiration",
+        "journal": "Global Change Biology",
+        "year": 2012,
+        "citations": 62,
+        "authors": "N. Gomez‐Casanovas, Kristina J. Anderson‐Teixeira, Marcelo Zeri et al.",
+        "authors_list": [
+            "N. Gomez‐Casanovas",
+            "Kristina J. Anderson‐Teixeira",
+            "Marcelo Zeri",
+            "Carl J. Bernacchi",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcb.15926",
+        "title": "Essential outcomes for COP26",
+        "journal": "Global Change Biology",
+        "year": 2021,
+        "citations": 61,
+        "authors": "Pete Smith, Linda J. Beaumont, Carl J. Bernacchi et al.",
+        "authors_list": [
+            "Pete Smith",
+            "Linda J. Beaumont",
+            "Carl J. Bernacchi",
+            "Maria Byrne",
+            "William W. L. Cheung",
+            "Richard T. Conant",
+            "M. Francesca Cotrufo",
+            "Xiaojuan Feng",
+            "Ivan A. Janssens",
+            "Hefin Jones",
+            "Miko U. F. Kirschbaum",
+            "Kazuhiko Kobayashi",
+            "Julie LaRoche",
+            "Yiqi Luo",
+            "Andrew E. McKechnie",
+            "Josep Peñuelas",
+            "Shilong Piao",
+            "Sharon A. Robinson",
+            "Rowan F. Sage",
+            "David J. Sugget",
+            "Stephen J. Thackeray",
+            "Danielle A. Way",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.15926"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcbb.12788",
+        "title": "Ecosystem‐scale biogeochemical fluxes from three bioenergy crop candidates: How energy sorghum compares to maize and miscanthus",
+        "journal": "GCB Bioenergy",
+        "year": 2020,
+        "citations": 60,
+        "authors": "Caitlin E. Moore, Adam C. von Haden, Mark B. Burnham et al.",
+        "authors_list": [
+            "Caitlin E. Moore",
+            "Adam C. von Haden",
+            "Mark B. Burnham",
+            "I. B. Kantola",
+            "Christy D. Gibson",
+            "Bethany Blakely",
+            "Evan Dracup",
+            "Michael D. Masters",
+            "Wendy H. Yang",
+            "Evan H. DeLucia",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1111/gcbb.12788"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.agee.2012.09.017",
+        "title": "CO2 uptake and ecophysiological parameters of the grain crops of midcontinent North America: Estimates from flux tower measurements",
+        "journal": "Agriculture Ecosystems & Environment",
+        "year": 2012,
+        "citations": 59,
+        "authors": "Tagir G. Gilmanov, Bruce K. Wylie, Larry L. Tieszen et al.",
+        "authors_list": [
+            "Tagir G. Gilmanov",
+            "Bruce K. Wylie",
+            "Larry L. Tieszen",
+            "Tilden P. Meyers",
+            "V. S. Baron",
+            "Carl J. Bernacchi",
+            "David P. Billesbach",
+            "George Burba",
+            "M. L. Fischer",
+            "Aaron J. Glenn",
+            "Niall P. Hanan",
+            "Jerry L. Hatfield",
+            "Mark Heuer",
+            "Steven E. Hollinger",
+            "Daniel M. Howard",
+            "Roser Matamala",
+            "John H. Prueger",
+            "Mario Tenuta",
+            "David Young"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/nph.18618",
+        "title": "Optimal stomatal theory predicts <scp>CO<sub>2</sub></scp> responses of stomatal conductance in both gymnosperm and angiosperm trees",
+        "journal": "New Phytologist",
+        "year": 2022,
+        "citations": 57,
+        "authors": "Anna Gardner, Mingkai Jiang, David S. Ellsworth et al.",
+        "authors_list": [
+            "Anna Gardner",
+            "Mingkai Jiang",
+            "David S. Ellsworth",
+            "A. R. MacKenzie",
+            "Jeremy Pritchard",
+            "Martin Karl‐Friedrich Bader",
+            "Craig V. M. Barton",
+            "Carl J. Bernacchi",
+            "Carlo Calfapietra",
+            "Kristine Y. Crous",
+            "Mirindi Eric Dusenge",
+            "Teresa E. Gimeno",
+            "Marianne Hall",
+            "Shubhangi Lamba",
+            "Sebastian Leuzinger",
+            "Johan Uddling",
+            "J. M. Warren",
+            "Göran Wallin",
+            "Belinda E. Medlyn"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1111/nph.18618"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.rse.2020.111728",
+        "title": "Satellite footprint data from OCO-2 and TROPOMI reveal significant spatio-temporal and inter-vegetation type variabilities of solar-induced fluorescence yield in the U.S. Midwest",
+        "journal": "Remote Sensing of Environment",
+        "year": 2020,
+        "citations": 57,
+        "authors": "Cong Wang, Kaiyu Guan, Bin Peng et al.",
+        "authors_list": [
+            "Cong Wang",
+            "Kaiyu Guan",
+            "Bin Peng",
+            "Min Chen",
+            "Chongya Jiang",
+            "Yelu Zeng",
+            "Genghong Wu",
+            "Sheng Wang",
+            "Jin Wu",
+            "Xi Yang",
+            "Christian Frankenberg",
+            "Philipp Köhler",
+            "Joseph A. Berry",
+            "Carl J. Bernacchi",
+            "Kai Zhu",
+            "Caroline B. Alden",
+            "Guofang Miao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jxb/erac503",
+        "title": "Reductions in leaf area index, pod production, seed size, and harvest index drive yield loss to high temperatures in soybean",
+        "journal": "Journal of Experimental Botany",
+        "year": 2022,
+        "citations": 57,
+        "authors": "Charles H. Burroughs, Christopher M. Montes, Christopher A. Moller et al.",
+        "authors_list": [
+            "Charles H. Burroughs",
+            "Christopher M. Montes",
+            "Christopher A. Moller",
+            "Noah G. Mitchell",
+            "Anne Marie Michael",
+            "Bin Peng",
+            "Hyungsuk Kimm",
+            "Taylor Pederson",
+            "Alexander E. Lipka",
+            "Carl J. Bernacchi",
+            "Kaiyu Guan",
+            "Elizabeth A. Ainsworth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jxb/article-pdf/74/5/1629/49647642/erac503.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jxb/erac077",
+        "title": "Advances in field-based high-throughput photosynthetic phenotyping",
+        "journal": "Journal of Experimental Botany",
+        "year": 2022,
+        "citations": 56,
+        "authors": "Peng Fu, Christopher M. Montes, Matthew H. Siebers et al.",
+        "authors_list": [
+            "Peng Fu",
+            "Christopher M. Montes",
+            "Matthew H. Siebers",
+            "N. Gomez‐Casanovas",
+            "Justin M. McGrath",
+            "Elizabeth A. Ainsworth",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jxb/article-pdf/73/10/3157/43802220/erac077.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.earscirev.2023.104462",
+        "title": "A scalable framework for quantifying field-level agricultural carbon outcomes",
+        "journal": "Earth-Science Reviews",
+        "year": 2023,
+        "citations": 56,
+        "authors": "Kaiyu Guan, Zhenong Jin, Bin Peng et al.",
+        "authors_list": [
+            "Kaiyu Guan",
+            "Zhenong Jin",
+            "Bin Peng",
+            "Jinyun Tang",
+            "Evan H. DeLucia",
+            "Paul West",
+            "Chongya Jiang",
+            "Sheng Wang",
+            "Tae‐Gon Kim",
+            "Wang Zhou",
+            "Timothy J. Griffis",
+            "Licheng Liu",
+            "Wendy H. Yang",
+            "Ziqi Qin",
+            "Qi Yang",
+            "Andrew J. Margenot",
+            "Emily R. Stuchiner",
+            "Vipin Kumar",
+            "Carl J. Bernacchi",
+            "Jonathan Coppess",
+            "Kimberly A. Novick",
+            "James Gerber",
+            "Molly Jahn",
+            "Madhu Khanna",
+            "DoKyoung Lee",
+            "Zhangliang Chen",
+            "Shang-Jen Yang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0012825223001514"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1088/1748-9326/ac3b16",
+        "title": "A physiological signal derived from sun-induced chlorophyll fluorescence quantifies crop physiological response to environmental stresses in the U.S. Corn Belt",
+        "journal": "Environmental Research Letters",
+        "year": 2021,
+        "citations": 55,
+        "authors": "Hyungsuk Kimm, Kaiyu Guan, Chongya Jiang et al.",
+        "authors_list": [
+            "Hyungsuk Kimm",
+            "Kaiyu Guan",
+            "Chongya Jiang",
+            "Guofang Miao",
+            "Genghong Wu",
+            "Andrew E. Suyker",
+            "Elizabeth A. Ainsworth",
+            "Carl J. Bernacchi",
+            "Christopher M. Montes",
+            "Joseph A. Berry",
+            "Xi Yang",
+            "Christian Frankenberg",
+            "Min Chen",
+            "Philipp Köhler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1088/1748-9326/ac3b16/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-31237-4_17",
+        "title": "Evapotranspiration, Canopy Temperature, and Plant Water Relations",
+        "journal": "Ecological studies",
+        "year": 2006,
+        "citations": 55,
+        "authors": "Bruce A. Kimball, Carl J. Bernacchi",
+        "authors_list": [
+            "Bruce A. Kimball",
+            "Carl J. Bernacchi"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1029/2010jg001341",
+        "title": "Ecohydrological responses of dense canopies to environmental variability: 2. Role of acclimation under elevated CO<sub>2</sub>",
+        "journal": "Journal of Geophysical Research Atmospheres",
+        "year": 2010,
+        "citations": 54,
+        "authors": "D. Drewry, Praveen Kumar, Stephen P. Long et al.",
+        "authors_list": [
+            "D. Drewry",
+            "Praveen Kumar",
+            "Stephen P. Long",
+            "Carl J. Bernacchi",
+            "Xin‐Zhong Liang",
+            "Murugesu Sivapalan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2010JG001341"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.rse.2021.112337",
+        "title": "Phenological corrections to a field-scale, ET-based crop stress indicator: An application to yield forecasting across the U.S. Corn Belt",
+        "journal": "Remote Sensing of Environment",
+        "year": 2021,
+        "citations": 53,
+        "authors": "Yang Yang, Yang Yang, Martha C. Anderson et al.",
+        "authors_list": [
+            "Yang Yang",
+            "Yang Yang",
+            "Martha C. Anderson",
+            "Feng Gao",
+            "David M. Johnson",
+            "Yun Yang",
+            "Yun Yang",
+            "Liang Sun",
+            "W. Dulaney",
+            "Christopher Hain",
+            "Jason A. Otkin",
+            "John H. Prueger",
+            "Tilden P. Meyers",
+            "Carl J. Bernacchi",
+            "Caitlin E. Moore"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.rse.2021.112337"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2486.2005.00934.x",
+        "title": "Gross primary production is stimulated for three <i>Populus</i> species grown under free‐air CO<sub>2</sub> enrichment from planting through canopy closure",
+        "journal": "Global Change Biology",
+        "year": 2005,
+        "citations": 52,
+        "authors": "Victoria E. Wittig, Carl J. Bernacchi, Xin‐Guang Zhu et al.",
+        "authors_list": [
+            "Victoria E. Wittig",
+            "Carl J. Bernacchi",
+            "Xin‐Guang Zhu",
+            "Carlo Calfapietra",
+            "R. Ceulemans",
+            "Paolo De Angelis",
+            "Birgit Gielen",
+            "F. Miglietta",
+            "Patrick B. Morgan",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1029/2019ms001719",
+        "title": "Parameterizing Perennial Bioenergy Crops in Version 5 of the Community Land Model Based on Site‐Level Observations in the Central Midwestern United States",
+        "journal": "Journal of Advances in Modeling Earth Systems",
+        "year": 2019,
+        "citations": 52,
+        "authors": "Yanyan Cheng, Maoyi Huang, Min Chen et al.",
+        "authors_list": [
+            "Yanyan Cheng",
+            "Maoyi Huang",
+            "Min Chen",
+            "Kaiyu Guan",
+            "Carl J. Bernacchi",
+            "Bin Peng",
+            "Zeli Tan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2019MS001719"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcbb.12743",
+        "title": "The carbon and nitrogen cycle impacts of reverting perennial bioenergy switchgrass to an annual maize crop rotation",
+        "journal": "GCB Bioenergy",
+        "year": 2020,
+        "citations": 52,
+        "authors": "Caitlin E. Moore, Danielle Berardi, Elena Blanc‐Betes et al.",
+        "authors_list": [
+            "Caitlin E. Moore",
+            "Danielle Berardi",
+            "Elena Blanc‐Betes",
+            "Evan Dracup",
+            "Sada Egenriether",
+            "N. Gomez‐Casanovas",
+            "Melannie D. Hartman",
+            "T. W. Hudiburg",
+            "I. B. Kantola",
+            "Michael D. Masters",
+            "William J. Parton",
+            "Rachel Van Allen",
+            "Adam C. von Haden",
+            "Wendy H. Yang",
+            "Evan H. DeLucia",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcbb.12743"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcb.13378",
+        "title": "Elevated <scp>CO</scp><sub>2</sub> and temperature increase soil C losses from a soybean–maize ecosystem",
+        "journal": "Global Change Biology",
+        "year": 2016,
+        "citations": 52,
+        "authors": "Christopher Black, Sarah C. Davis, T. W. Hudiburg et al.",
+        "authors_list": [
+            "Christopher Black",
+            "Sarah C. Davis",
+            "T. W. Hudiburg",
+            "Carl J. Bernacchi",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/eap.1670",
+        "title": "Grazing alters net ecosystem C fluxes and the global warming potential of a subtropical pasture",
+        "journal": "Ecological Applications",
+        "year": 2017,
+        "citations": 52,
+        "authors": "N. Gomez‐Casanovas, N. DeLucia, Carl J. Bernacchi et al.",
+        "authors_list": [
+            "N. Gomez‐Casanovas",
+            "N. DeLucia",
+            "Carl J. Bernacchi",
+            "Elizabeth H. Boughton",
+            "Jed P. Sparks",
+            "Samuel D. Chamberlain",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1422847"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1029/2019jg005257",
+        "title": "Seasonal Controls of CO<sub>2</sub> and CH<sub>4</sub> Dynamics in a Temporarily Flooded Subtropical Wetland",
+        "journal": "Journal of Geophysical Research Biogeosciences",
+        "year": 2020,
+        "citations": 50,
+        "authors": "N. Gomez‐Casanovas, N. DeLucia, Evan H. DeLucia et al.",
+        "authors_list": [
+            "N. Gomez‐Casanovas",
+            "N. DeLucia",
+            "Evan H. DeLucia",
+            "Elena Blanc‐Betes",
+            "Elizabeth H. Boughton",
+            "Jed P. Sparks",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1801025"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2134/agronj2013.0270",
+        "title": "Productivity and Carbon Dioxide Exchange of Leguminous Crops: Estimates from Flux Tower Measurements",
+        "journal": "Agronomy Journal",
+        "year": 2014,
+        "citations": 49,
+        "authors": "Tagir G. Gilmanov, John M. Baker, Carl J. Bernacchi et al.",
+        "authors_list": [
+            "Tagir G. Gilmanov",
+            "John M. Baker",
+            "Carl J. Bernacchi",
+            "David P. Billesbach",
+            "George Burba",
+            "Saulo Castro",
+            "Jiquan Chen",
+            "Werner Eugster",
+            "M. L. Fischer",
+            "John A. Gamon",
+            "Maheteme Gebremedhin",
+            "Aaron J. Glenn",
+            "Timothy J. Griffis",
+            "Jerry L. Hatfield",
+            "Mark Heuer",
+            "Daniel M. Howard",
+            "Monique Y. Leclerc",
+            "Henry W. Loescher",
+            "O. Marloie",
+            "Tilden P. Meyers",
+            "Albert Olioso",
+            "R. Phillips",
+            "John H. Prueger",
+            "R. Howard Skinner",
+            "Andrew E. Suyker",
+            "Mario Tenuta",
+            "Bruce K. Wylie"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1469-8137.2012.04152.x",
+        "title": "Rising ozone concentrations decrease soybean evapotranspiration and water use efficiency whilst increasing canopy temperature",
+        "journal": "New Phytologist",
+        "year": 2012,
+        "citations": 48,
+        "authors": "Andy VanLoocke, Amy M. Betzelberger, Elizabeth A. Ainsworth et al.",
+        "authors_list": [
+            "Andy VanLoocke",
+            "Amy M. Betzelberger",
+            "Elizabeth A. Ainsworth",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-8137.2012.04152.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.scitotenv.2022.153192",
+        "title": "Development of a data-assimilation system to forecast agricultural systems: A case study of constraining soil water and soil nitrogen dynamics in the APSIM model",
+        "journal": "The Science of The Total Environment",
+        "year": 2022,
+        "citations": 48,
+        "authors": "Marissa Kivi, Bethany Blakely, Michael D. Masters et al.",
+        "authors_list": [
+            "Marissa Kivi",
+            "Bethany Blakely",
+            "Michael D. Masters",
+            "Carl J. Bernacchi",
+            "Fernando E. Miguez",
+            "Hamze Dokoohaki"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.agrformet.2005.11.021",
+        "title": "Corrigendum to “Carbon budget of mature no-till ecosystem in North Central Region of the United States [Agric. For. Meteorol. 130 (2005) 59–69]”",
+        "journal": "Agricultural and Forest Meteorology",
+        "year": 2006,
+        "citations": 48,
+        "authors": "Steven E. Hollinger, Carl J. Bernacchi, Tilden P. Meyers",
+        "authors_list": [
+            "Steven E. Hollinger",
+            "Carl J. Bernacchi",
+            "Tilden P. Meyers"
+        ],
+        "type": "erratum",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ecoinf.2021.101232",
+        "title": "A reporting format for leaf-level gas exchange data and metadata",
+        "journal": "Ecological Informatics",
+        "year": 2021,
+        "citations": 47,
+        "authors": "Kim Ely, Alistair Rogers, D. Agarwal et al.",
+        "authors_list": [
+            "Kim Ely",
+            "Alistair Rogers",
+            "D. Agarwal",
+            "Elizabeth A. Ainsworth",
+            "Loren P. Albert",
+            "Ashehad A. Ali",
+            "Jeremiah Anderson",
+            "Michael J. Aspinwall",
+            "Chandra Bellasio",
+            "Carl J. Bernacchi",
+            "Steve Bonnage",
+            "Thomas N. Buckley",
+            "James A. Bunce",
+            "Angela C. Burnett",
+            "Florian A. Busch",
+            "Amanda P. Cavanagh",
+            "Lucas A. Cernusak",
+            "Robert Crystal‐Ornelas",
+            "Joan Damerow",
+            "Kenneth Davidson",
+            "Martin G. De Kauwe",
+            "Michael C. Dietze",
+            "Tomas F. Domingues",
+            "Mirindi Eric Dusenge",
+            "David S. Ellsworth",
+            "John R. Evans",
+            "Paul P. G. Gauthier",
+            "Bruno Gimenez",
+            "Elizabeth P. Gordon",
+            "Christopher M. Gough",
+            "Aud H. Halbritter",
+            "DAVID HANSON",
+            "Mary Heskel",
+            "J. Aaron Hogan",
+            "Jason Hupp",
+            "Kolby Jardine",
+            "Jens Kattge",
+            "Trevor F. Keenan",
+            "Johannes Kromdijk",
+            "Dushan Kumarathunge",
+            "Julien Lamour",
+            "Andrew D. B. Leakey",
+            "David LeBauer",
+            "Qianyu Li",
+            "Marjorie R. Lundgren",
+            "Nate G. McDowell",
+            "Katherine Meacham‐Hensold",
+            "Belinda E. Medlyn",
+            "D. J. Moore",
+            "Robinson Negrón‐Juárez",
+            "Ülo Niinemets",
+            "Colin P. Osborne",
+            "Alexandria L. Pivovaroff",
+            "Hendrik Poorter",
+            "Sasha C. Reed",
+            "Youngryel Ryu",
+            "Álvaro Sanz‐Sáez",
+            "Stephanie C. Schmiege",
+            "Shawn Serbin",
+            "Thomas D. Sharkey",
+            "Martijn Slot",
+            "Nicholas G. Smith",
+            "Balasaheb V. Sonawane",
+            "Paul F. South",
+            "Daisy C. Souza",
+            "Joseph R. Stinziano",
+            "Ellen Stuart‐Haëntjens",
+            "Samuel H. Taylor",
+            "Mauricio Tejera‐Nieves",
+            "Johan Uddling",
+            "Vigdis Vandvik",
+            "Charuleka Varadharajan",
+            "Anthony P. Walker",
+            "Berkley J. Walker",
+            "J. M. Warren",
+            "Danielle A. Way",
+            "Brett T. Wolfe",
+            "Jin Wu",
+            "Stan D. Wullschleger",
+            "Chonggang Xu",
+            "Zhengbing Yan",
+            "Dedi Yang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1574954121000236?via%3Dihub"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/pce.12751",
+        "title": "The influence of drought and heat stress on long‐term carbon fluxes of bioenergy crops grown in the Midwestern USA",
+        "journal": "Plant Cell & Environment",
+        "year": 2016,
+        "citations": 47,
+        "authors": "Éva Joó, Mir Zaman Hussain, Marcelo Zeri et al.",
+        "authors_list": [
+            "Éva Joó",
+            "Mir Zaman Hussain",
+            "Marcelo Zeri",
+            "Michael D. Masters",
+            "Jesse Miller",
+            "N. Gomez‐Casanovas",
+            "Evan H. DeLucia",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/pce.12751"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4020-9237-4_10",
+        "title": "Modeling the Temperature Dependence of C3 Photosynthesis",
+        "journal": "Advances in photosynthesis and respiration",
+        "year": 2009,
+        "citations": 46,
+        "authors": "Carl J. Bernacchi, David M. Rosenthal, Carlos Pimentel et al.",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "David M. Rosenthal",
+            "Carlos Pimentel",
+            "Stephen P. Long",
+            "Graham D. Farquhar"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 46,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcbb.12291",
+        "title": "Candidate perennial bioenergy grasses have a higher albedo than annual row crops",
+        "journal": "GCB Bioenergy",
+        "year": 2015,
+        "citations": 42,
+        "authors": "Jesse Miller, Andy VanLoocke, N. Gomez‐Casanovas et al.",
+        "authors_list": [
+            "Jesse Miller",
+            "Andy VanLoocke",
+            "N. Gomez‐Casanovas",
+            "Carl J. Bernacchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 42,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcbb.12291"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1365-3040.2007.01710.x",
+        "title": "Fitting photosynthetic carbon dioxide response curves for C<sub>3</sub> leaves",
+        "journal": "Plant, Cell &amp; Environment",
+        "year": 2007,
+        "citations": 1184,
+        "authors": "THOMAS D. SHARKEY, CARL J. BERNACCHI, GRAHAM D. FARQUHAR et al.",
+        "authors_list": [
+            "THOMAS D. SHARKEY",
+            "CARL J. BERNACCHI",
+            "GRAHAM D. FARQUHAR",
+            "ERIC L. SINGSAAS"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1184
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1365-3040.2001.00668.x",
+        "title": "Improved temperature response functions for models of Rubisco‐limited photosynthesis",
+        "journal": "Plant, Cell &amp; Environment",
+        "year": 2001,
+        "citations": 1059,
+        "authors": "C. J. Bernacchi, E. L. Singsaas, C. Pimentel et al.",
+        "authors_list": [
+            "C. J. Bernacchi",
+            "E. L. Singsaas",
+            "C. Pimentel",
+            "A. R. Portis Jr",
+            "S. P. Long"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1059
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2001.00668.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1046/j.1365-2486.2002.00498.x",
+        "title": "A meta‐analysis of elevated [CO<sub>2</sub>] effects on soybean (<i>Glycine max</i>) physiology, growth and yield",
+        "journal": "Global Change Biology",
+        "year": 2002,
+        "citations": 435,
+        "authors": "Elizabeth A. Ainsworth, Phillip A. Davey, Carl J. Bernacchi et al.",
+        "authors_list": [
+            "Elizabeth A. Ainsworth",
+            "Phillip A. Davey",
+            "Carl J. Bernacchi",
+            "Orla C. Dermody",
+            "Emily A. Heaton",
+            "David J. Moore",
+            "Patrick B. Morgan",
+            "Shawna L. Naidu",
+            "Hyung‐shim Yoo Ra",
+            "Xin‐guang Zhu",
+            "Peter S. Curtis",
+            "Stephen P. Long"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 435
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1046/j.0016-8025.2003.01050.x",
+        "title": "<i>In vivo</i> temperature response functions of parameters required to model RuBP‐limited photosynthesis",
+        "journal": "Plant, Cell &amp; Environment",
+        "year": 2003,
+        "citations": 388,
+        "authors": "C. J. BERNACCHI, C. PIMENTEL, S. P. LONG",
+        "authors_list": [
+            "C. J. BERNACCHI",
+            "C. PIMENTEL",
+            "S. P. LONG"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 388
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.0016-8025.2003.01050.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1029/2019wr026058",
+        "title": "ECOSTRESS: NASA's Next Generation Mission to Measure Evapotranspiration From the International Space Station",
+        "journal": "Water Resources Research",
+        "year": 2020,
+        "citations": 429,
+        "authors": "Joshua B. Fisher, Brian Lee, Adam J. Purdy et al.",
+        "authors_list": [
+            "Joshua B. Fisher",
+            "Brian Lee",
+            "Adam J. Purdy",
+            "Gregory H. Halverson",
+            "Matthew B. Dohlen",
+            "Kerry Cawse‐Nicholson",
+            "Audrey Wang",
+            "Ray G. Anderson",
+            "Bruno Aragon",
+            "M. Altaf Arain",
+            "Dennis D. Baldocchi",
+            "John M. Baker",
+            "Hélène Barral",
+            "Carl J. Bernacchi",
+            "Christian Bernhofer",
+            "Sébastien C. Biraud",
+            "Gil Bohrer",
+            "Nathaniel Brunsell",
+            "Bernard Cappelaere",
+            "Saulo Castro‐Contreras",
+            "Junghwa Chun",
+            "Bryan J. Conrad",
+            "Edoardo Cremonese",
+            "Jérôme Demarty",
+            "Ankur R. Desai",
+            "Anne De Ligne",
+            "Lenka Foltýnová",
+            "Michael L. Goulden",
+            "Timothy J. Griffis",
+            "Thomas Grünwald",
+            "Mark S. Johnson",
+            "Minseok Kang",
+            "Dave Kelbe",
+            "Natalia Kowalska",
+            "Jong‐Hwan Lim",
+            "Ibrahim Maïnassara",
+            "Matthew F. McCabe",
+            "Justine E.C. Missik",
+            "Binayak P. Mohanty",
+            "Caitlin E. Moore",
+            "Laura Morillas",
+            "Ross Morrison",
+            "J. William Munger",
+            "Gabriela Posse",
+            "Andrew D. Richardson",
+            "Eric S. Russell",
+            "Youngryel Ryu",
+            "Arturo Sanchez‐Azofeifa",
+            "Marius Schmidt",
+            "Efrat Schwartz",
+            "Iain Sharp",
+            "Ladislav Šigut",
+            "Yao Tang",
+            "Glynn Hulley",
+            "Martha Anderson",
+            "Christopher Hain",
+            "Andrew French",
+            "Eric Wood",
+            "Simon Hook"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 429
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2019WR026058"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/s41477-020-0625-3",
+        "title": "Towards a multiscale crop modelling framework for climate change adaptation assessment",
+        "journal": "Nature Plants",
+        "year": null,
+        "citations": 290,
+        "authors": "Bin Peng, Kaiyu Guan, Jinyun Tang et al.",
+        "authors_list": [
+            "Bin Peng",
+            "Kaiyu Guan",
+            "Jinyun Tang",
+            "Elizabeth A. Ainsworth",
+            "Senthold Asseng",
+            "Carl J. Bernacchi",
+            "Mark Cooper",
+            "Evan H. Delucia",
+            "Joshua W. Elliott",
+            "Frank Ewert",
+            "Robert F. Grant",
+            "David I Gustafson",
+            "Graeme L. Hammer",
+            "Zhenong Jin",
+            "James W. Jones",
+            "Hyungsuk Kimm",
+            "David M. Lawrence",
+            "Yan Li",
+            "Danica L. Lombardozzi",
+            "Amy Marshall-Colon",
+            "Carlos D. Messina",
+            "Donald R. Ort",
+            "James C. Schnable",
+            "C. Eduardo Vallejos",
+            "Alex Wu",
+            "Xinyou Yin",
+            "Wang Zhou"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 290
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://research.wur.nl/en/publications/towards-a-multiscale-crop-modelling-framework-for-climate-change-"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1007/s00425-004-1320-8",
+        "title": "The growth of soybean under free air [CO2] enrichment (FACE) stimulates photosynthesis while decreasing in vivo Rubisco capacity",
+        "journal": "Planta",
+        "year": 2005,
+        "citations": 179,
+        "authors": "Carl J. Bernacchi, Patrick B. Morgan, Donald R. Ort et al.",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Patrick B. Morgan",
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 179
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.5194/bg-6-969-2009",
+        "title": "Incorporation of crop phenology in Simple Biosphere Model (SiBcrop) to improve land-atmosphere carbon exchanges from croplands",
+        "journal": "Biogeosciences",
+        "year": null,
+        "citations": 149,
+        "authors": "E. Lokupitiya, S. Denning, K. Paustian et al.",
+        "authors_list": [
+            "E. Lokupitiya",
+            "S. Denning",
+            "K. Paustian",
+            "I. Baker",
+            "K. Schaefer",
+            "S. Verma",
+            "T. Meyers",
+            "C. J. Bernacchi",
+            "A. Suyker",
+            "M. Fischer"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 149
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bg.copernicus.org/articles/6/969/2009/bg-6-969-2009.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1365-3040.2006.01549.x",
+        "title": "Increased C availability at elevated carbon dioxide concentration improves N assimilation in a legume",
+        "journal": "Plant, Cell &amp; Environment",
+        "year": 2006,
+        "citations": 159,
+        "authors": "ALISTAIR ROGERS, YVES GIBON, MARK STITT et al.",
+        "authors_list": [
+            "ALISTAIR ROGERS",
+            "YVES GIBON",
+            "MARK STITT",
+            "PATRICK B. MORGAN",
+            "CARL J. BERNACCHI",
+            "DONALD R. ORT",
+            "STEPHEN P. LONG"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 159
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2006.01549.x"
+        }
+    }
+]

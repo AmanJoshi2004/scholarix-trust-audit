@@ -1,0 +1,3086 @@
+[
+    {
+        "doi": "https://doi.org/10.1038/387253a0",
+        "title": "The value of the world's ecosystem services and natural capital",
+        "journal": "Nature",
+        "year": 1997,
+        "citations": 22177,
+        "authors": "Robert Costanza, Ralph C. d’Arge, R.S. de Groot et al.",
+        "authors_list": [
+            "Robert Costanza",
+            "Ralph C. d’Arge",
+            "R.S. de Groot",
+            "Stephen Färber",
+            "Monica Grasso",
+            "Bruce Hannon",
+            "Karin E. Limburg",
+            "Shahid Naeem",
+            "Robert V. O’Neill",
+            "José M. Paruelo",
+            "R. Raskin",
+            "Paul C. Sutton",
+            "Marjan van den Belt"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 22177,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0921-8009(98)00020-2",
+        "title": "The value of the world's ecosystem services and natural capital",
+        "journal": "Ecological Economics",
+        "year": 1998,
+        "citations": 2970,
+        "authors": "Robert Costanza, Ralph C. d’Arge, R.S. de Groot et al.",
+        "authors_list": [
+            "Robert Costanza",
+            "Ralph C. d’Arge",
+            "R.S. de Groot",
+            "Stephen Färber",
+            "Monica Grasso",
+            "Bruce Hannon",
+            "Karin E. Limburg",
+            "Shahid Naeem",
+            "Robert V. O’Neill",
+            "José M. Paruelo",
+            "R. Raskin",
+            "Paul C. Sutton",
+            "Marjan van den Belt"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2970,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10189378/1/Costanza_et%20al.%20Nature%201997%20prepublicaton.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0022-5193(73)90060-x",
+        "title": "The structure of ecosystems",
+        "journal": "Journal of Theoretical Biology",
+        "year": 1973,
+        "citations": 612,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 612,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ecolmodel.2007.04.029",
+        "title": "Ecological network analysis: network construction",
+        "journal": "Ecological Modelling",
+        "year": 2007,
+        "citations": 443,
+        "authors": "Brian D. Fath, Ursula M. Scharler, Robert E. Ulanowicz et al.",
+        "authors_list": [
+            "Brian D. Fath",
+            "Ursula M. Scharler",
+            "Robert E. Ulanowicz",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 443,
+            "crossref": 366
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://research.wur.nl/en/publications/ecological-network-analysis-network-construction"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Dynamic Modeling",
+        "journal": "",
+        "year": 1994,
+        "citations": 420,
+        "authors": "Bruce Hannon, Matthias Rüth",
+        "authors_list": [
+            "Bruce Hannon",
+            "Matthias Rüth"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 420,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0921-8009(98)00019-6",
+        "title": "The value of ecosystem services: putting the issues in perspective",
+        "journal": "Ecological Economics",
+        "year": 1998,
+        "citations": 327,
+        "authors": "Robert Costanza, Ralph C. d’Arge, R.S. de Groot et al.",
+        "authors_list": [
+            "Robert Costanza",
+            "Ralph C. d’Arge",
+            "R.S. de Groot",
+            "Stephen Färber",
+            "Monica Grasso",
+            "Bruce Hannon",
+            "Karin E. Limburg",
+            "Shahid Naeem",
+            "Robert V. O’Neill",
+            "José M. Paruelo",
+            "R. Raskin",
+            "Paul C. Sutton",
+            "Marjan van den Belt"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 327,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://research.wur.nl/en/publications/the-value-of-ecosystem-services-putting-the-issue-in-perspective"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1098/rspb.1987.0067",
+        "title": "Life and the production of entropy",
+        "journal": "Proceedings of the Royal Society B Biological Sciences",
+        "year": 1987,
+        "citations": 232,
+        "authors": "Robert E. Ulanowicz, Bruce Hannon",
+        "authors_list": [
+            "Robert E. Ulanowicz",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 232,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-662-25989-4_1",
+        "title": "Modeling Dynamic Systems",
+        "journal": "",
+        "year": 1994,
+        "citations": 182,
+        "authors": "Bruce Hannon, Matthias Rüth",
+        "authors_list": [
+            "Bruce Hannon",
+            "Matthias Rüth"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 182,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.5840/enviroethics199719313",
+        "title": "Environmental Values",
+        "journal": "Environmental Ethics",
+        "year": 1997,
+        "citations": 177,
+        "authors": "Bryan G. Norton, Bruce Hannon",
+        "authors_list": [
+            "Bryan G. Norton",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 177,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ecolmodel.2006.03.003",
+        "title": "Modeling the spread of the Emerald Ash Borer",
+        "journal": "Ecological Modelling",
+        "year": 2006,
+        "citations": 130,
+        "authors": "Todd K. BenDor, Sara S. Metcalf, Lauren E. Fontenot et al.",
+        "authors_list": [
+            "Todd K. BenDor",
+            "Sara S. Metcalf",
+            "Lauren E. Fontenot",
+            "Brandi Sangunett",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4612-2268-2",
+        "title": "Modeling Dynamic Economic Systems",
+        "journal": "",
+        "year": 1997,
+        "citations": 125,
+        "authors": "Matthias Rüth, Bruce Hannon",
+        "authors_list": [
+            "Matthias Rüth",
+            "Bruce Hannon"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 125,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4612-0651-4",
+        "title": "Modeling Dynamic Biological Systems",
+        "journal": "",
+        "year": 1997,
+        "citations": 120,
+        "authors": "Matthias Rüth, Bruce Hannon",
+        "authors_list": [
+            "Matthias Rüth",
+            "Bruce Hannon"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0921-8009(94)90006-x",
+        "title": "Sense of place: geographic discounting by people, animals and plants",
+        "journal": "Ecological Economics",
+        "year": 1994,
+        "citations": 89,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 65
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4614-2209-9_5",
+        "title": "Positive Feedback in the Economy",
+        "journal": "",
+        "year": 2012,
+        "citations": 87,
+        "authors": "Matthias Rüth, Bruce Hannon",
+        "authors_list": [
+            "Matthias Rüth",
+            "Bruce Hannon"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0022-5193(79)90211-x",
+        "title": "Total energy costs in ecosystems",
+        "journal": "Journal of Theoretical Biology",
+        "year": 1979,
+        "citations": 87,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 73
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ecolecon.2008.07.014",
+        "title": "Ecological and economic sustainability in fishery management: A multi-agent model for understanding competition and cooperation",
+        "journal": "Ecological Economics",
+        "year": 2008,
+        "citations": 77,
+        "authors": "Todd K. BenDor, Jürgen Scheffran, Bruce Hannon",
+        "authors_list": [
+            "Todd K. BenDor",
+            "Jürgen Scheffran",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0022-5193(76)80073-2",
+        "title": "Marginal product pricing in the ecosystem",
+        "journal": "Journal of Theoretical Biology",
+        "year": 1976,
+        "citations": 76,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 60
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.189.4197.95",
+        "title": "Energy Conservation and the Consumer",
+        "journal": "Science",
+        "year": 1975,
+        "citations": 66,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 53
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0360-5442(81)90069-4",
+        "title": "Energy cost of living, 1972–1973",
+        "journal": "Energy",
+        "year": 1981,
+        "citations": 65,
+        "authors": "Robert A. Herendeen, C. Ford, Bruce Hannon",
+        "authors_list": [
+            "Robert A. Herendeen",
+            "C. Ford",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 57
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bf02220255",
+        "title": "Modeling monkeys: A comparison of computer-generated and naturally occurring foraging patterns in two species of neotropical primates",
+        "journal": "International Journal of Primatology",
+        "year": 1993,
+        "citations": 65,
+        "authors": "Paul A. Garber, Bruce Hannon",
+        "authors_list": [
+            "Paul A. Garber",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/0022-4146.00205",
+        "title": "An Introduction to Spatial Discounting",
+        "journal": "Journal of Regional Science",
+        "year": 2001,
+        "citations": 65,
+        "authors": "Charles Perrings, Bruce Hannon",
+        "authors_list": [
+            "Charles Perrings",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.202.4370.837",
+        "title": "Energy and Labor in the Construction Sector",
+        "journal": "Science",
+        "year": 1978,
+        "citations": 64,
+        "authors": "Bruce Hannon, Richard G. Stein, B. Segal et al.",
+        "authors_list": [
+            "Bruce Hannon",
+            "Richard G. Stein",
+            "B. Segal",
+            "D Serber"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4612-0651-4_1",
+        "title": "Modeling Dynamic Biological Systems",
+        "journal": "",
+        "year": 1997,
+        "citations": 58,
+        "authors": "Matthias Rüth, Bruce Hannon",
+        "authors_list": [
+            "Matthias Rüth",
+            "Bruce Hannon"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.envsoft.2008.11.009",
+        "title": "Sharing the floodplain: Mediated modeling for environmental management",
+        "journal": "Environmental Modelling & Software",
+        "year": 2009,
+        "citations": 54,
+        "authors": "Sara S. Metcalf, Emily Wheeler, Todd K. BenDor et al.",
+        "authors_list": [
+            "Sara S. Metcalf",
+            "Emily Wheeler",
+            "Todd K. BenDor",
+            "Kenneth S. Lubinski",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/000271627341000114",
+        "title": "An Energy Standard of Value",
+        "journal": "The Annals of the American Academy of Political and Social Science",
+        "year": 1973,
+        "citations": 51,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0165-0572(83)90019-1",
+        "title": "A comparison of energy intensities",
+        "journal": "Resources and Energy",
+        "year": 1983,
+        "citations": 51,
+        "authors": "Bruce Hannon, Thomas Blazeck, Douglas P. Kennedy et al.",
+        "authors_list": [
+            "Bruce Hannon",
+            "Thomas Blazeck",
+            "Douglas P. Kennedy",
+            "Robert F. Illyes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0095-0696(89)90039-9",
+        "title": "Readjustment potentials in industrial energy efficiency and structure",
+        "journal": "Journal of Environmental Economics and Management",
+        "year": 1989,
+        "citations": 47,
+        "authors": "Stephen D. Casler, Bruce Hannon",
+        "authors_list": [
+            "Stephen D. Casler",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0921-8009(00)00212-3",
+        "title": "Ecological pricing and economic efficiency",
+        "journal": "Ecological Economics",
+        "year": 2001,
+        "citations": 46,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 46,
+            "crossref": 31
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/1938122",
+        "title": "A Seasonal Analysis of the Southern North Sea Ecosystem",
+        "journal": "Ecology",
+        "year": 1989,
+        "citations": 43,
+        "authors": "Bruce Hannon, Claude R. Joiris",
+        "authors_list": [
+            "Bruce Hannon",
+            "Claude R. Joiris"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 43,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0954-349x(97)00019-2",
+        "title": "The use of analogy in biology and economics: From biology to economics, and back",
+        "journal": "Structural Change and Economic Dynamics",
+        "year": 1997,
+        "citations": 42,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 42,
+            "crossref": 17
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0167-5877(02)00057-0",
+        "title": "A computer simulation of the prevention of the transmission of Toxoplasma gondii on swine farms using a feline T. gondii vaccine",
+        "journal": "Preventive Veterinary Medicine",
+        "year": 2002,
+        "citations": 41,
+        "authors": "Nohra E. Mateus‐Pinilla, Bruce Hannon, Ronald M. Weigel",
+        "authors_list": [
+            "Nohra E. Mateus‐Pinilla",
+            "Bruce Hannon",
+            "Ronald M. Weigel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 41,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0095-0696(86)90008-2",
+        "title": "Measures of energy cost and value in ecosystems",
+        "journal": "Journal of Environmental Economics and Management",
+        "year": 1986,
+        "citations": 39,
+        "authors": "Bruce Hannon, Robert Costanza, Robert A. Herendeen",
+        "authors_list": [
+            "Bruce Hannon",
+            "Robert Costanza",
+            "Robert A. Herendeen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 39,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jenvp.2014.08.001",
+        "title": "Spatial discounting, place attachment, and environmental concern: Toward an ambit-based theory of sense of place",
+        "journal": "Journal of Environmental Psychology",
+        "year": 2014,
+        "citations": 38,
+        "authors": "Asim Zia, Bryan G. Norton, Sara S. Metcalf et al.",
+        "authors_list": [
+            "Asim Zia",
+            "Bryan G. Norton",
+            "Sara S. Metcalf",
+            "Paul Hirsch",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 38,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4613-0211-7",
+        "title": "Dynamic Modeling",
+        "journal": "",
+        "year": 2001,
+        "citations": 36,
+        "authors": "Bruce Hannon, Matthias Rüth",
+        "authors_list": [
+            "Bruce Hannon",
+            "Matthias Rüth"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 36,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-642-75017-5_5",
+        "title": "Dealing with the “Mixed Units” Problem in Ecosystem Network Analysis",
+        "journal": "",
+        "year": 1989,
+        "citations": 35,
+        "authors": "Robert Costanza, Bruce Hannon",
+        "authors_list": [
+            "Robert Costanza",
+            "Bruce Hannon"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 35,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1023/a:1019045224429",
+        "title": "A dynamic model of the spatial spread of an infectious disease: the case of fox rabies in Illinois",
+        "journal": "Environmental Modeling & Assessment",
+        "year": 2000,
+        "citations": 35,
+        "authors": "Brian Deal, Cheryl Farello, Mary J. Lancaster et al.",
+        "authors_list": [
+            "Brian Deal",
+            "Cheryl Farello",
+            "Mary J. Lancaster",
+            "Thomas Kompare",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 35,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0022-5193(86)80100-x",
+        "title": "Ecosystem control theory",
+        "journal": "Journal of Theoretical Biology",
+        "year": 1986,
+        "citations": 33,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 33,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4614-2209-9",
+        "title": "Modeling Dynamic Economic Systems",
+        "journal": "",
+        "year": 2012,
+        "citations": 32,
+        "authors": "Matthias Rüth, Bruce Hannon",
+        "authors_list": [
+            "Matthias Rüth",
+            "Bruce Hannon"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 32,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/00139157.1972.9932998",
+        "title": "Bottles Cans Energy",
+        "journal": "Environment Science and Policy for Sustainable Development",
+        "year": 1972,
+        "citations": 31,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 31,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0360-5442(81)90138-9",
+        "title": "Energy and technical progress",
+        "journal": "Energy",
+        "year": 1981,
+        "citations": 31,
+        "authors": "Bruce Hannon, John J. Joyce",
+        "authors_list": [
+            "Bruce Hannon",
+            "John J. Joyce"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 31,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "System energy and recycling : a study of the beverage industry",
+        "journal": "",
+        "year": 1973,
+        "citations": 31,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 31,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Analysis of the energy cost of economic activities: 1963 to 2000",
+        "journal": "Energy Syst. Policy; (United States)",
+        "year": 1982,
+        "citations": 30,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 30,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/b97269",
+        "title": "Dynamic Modeling for Business Management: An Introduction",
+        "journal": "",
+        "year": 2004,
+        "citations": 29,
+        "authors": "Bernard McGarvey, Bruce Hannon",
+        "authors_list": [
+            "Bernard McGarvey",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 29,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4613-0211-7_1",
+        "title": "Modeling Dynamic Systems",
+        "journal": "",
+        "year": 2001,
+        "citations": 27,
+        "authors": "Bruce Hannon, Matthias Rüth",
+        "authors_list": [
+            "Bruce Hannon",
+            "Matthias Rüth"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 27,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0040-5809(91)90047-j",
+        "title": "A general accounting framework for ecological systems: A functional taxonomy for connectivist ecology",
+        "journal": "Theoretical Population Biology",
+        "year": 1991,
+        "citations": 26,
+        "authors": "Bruce Hannon, Robert Costanza, Robert E. Ulanowicz",
+        "authors_list": [
+            "Bruce Hannon",
+            "Robert Costanza",
+            "Robert E. Ulanowicz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 26,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.185.4152.669",
+        "title": "Energy, Manpower, and the Highway Trust Fund",
+        "journal": "Science",
+        "year": 1974,
+        "citations": 26,
+        "authors": "Roger H. Bezdek, Bruce Hannon",
+        "authors_list": [
+            "Roger H. Bezdek",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 26,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0921-8009(93)90061-a",
+        "title": "A physical view of sustainability",
+        "journal": "Ecological Economics",
+        "year": 1993,
+        "citations": 25,
+        "authors": "Bruce Hannon, Matthias Rüth, Evan H. DeLucia",
+        "authors_list": [
+            "Bruce Hannon",
+            "Matthias Rüth",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 25,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-662-25989-4",
+        "title": "Dynamic Modeling",
+        "journal": "",
+        "year": 1994,
+        "citations": 24,
+        "authors": "Bruce Hannon, Matthias Rüth",
+        "authors_list": [
+            "Bruce Hannon",
+            "Matthias Rüth"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0022-5193(85)80132-6",
+        "title": "Linear dynamic ecosystems",
+        "journal": "Journal of Theoretical Biology",
+        "year": 1985,
+        "citations": 24,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1749-6632.2009.05165.x",
+        "title": "The role of input–output analysis of energy and ecologic systems",
+        "journal": "Annals of the New York Academy of Sciences",
+        "year": 2010,
+        "citations": 22,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Energy use for building construction",
+        "journal": "uill",
+        "year": 1976,
+        "citations": 22,
+        "authors": "Bruce Hannon, Richard G. Stein, B. Segal et al.",
+        "authors_list": [
+            "Bruce Hannon",
+            "Richard G. Stein",
+            "B. Segal",
+            "D Serber",
+            "C. Stein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0921-8009(97)00035-9",
+        "title": "How might nature value man?",
+        "journal": "Ecological Economics",
+        "year": 1998,
+        "citations": 21,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 21,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4684-0224-7",
+        "title": "Dynamic Modeling",
+        "journal": "",
+        "year": 1994,
+        "citations": 21,
+        "authors": "Bruce Hannon, Matthias Rüth",
+        "authors_list": [
+            "Bruce Hannon",
+            "Matthias Rüth"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 21,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/cplx.20201",
+        "title": "From complex conflicts to stable cooperation: Cases in environment and security",
+        "journal": "Complexity",
+        "year": 2007,
+        "citations": 21,
+        "authors": "Jürgen Scheffran, Bruce Hannon",
+        "authors_list": [
+            "Jürgen Scheffran",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 21,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-319-05615-9_1",
+        "title": "Modeling Dynamic Biological Systems",
+        "journal": "",
+        "year": 2014,
+        "citations": 20,
+        "authors": "Bruce Hannon, Matthias Rüth",
+        "authors_list": [
+            "Bruce Hannon",
+            "Matthias Rüth"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 20,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0212502",
+        "title": "A computational model of feedback-mediated hematopoietic stem cell differentiation in vitro",
+        "journal": "PLoS ONE",
+        "year": 2019,
+        "citations": 18,
+        "authors": "Bhushan Mahadik, Bruce Hannon, Brendan A.C. Harley",
+        "authors_list": [
+            "Bhushan Mahadik",
+            "Bruce Hannon",
+            "Brendan A.C. Harley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 18,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0212502&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.216.4545.485",
+        "title": "Steel Recycling and Energy Conservation",
+        "journal": "Science",
+        "year": 1982,
+        "citations": 18,
+        "authors": "Bruce Hannon, James Brodrick",
+        "authors_list": [
+            "Bruce Hannon",
+            "James Brodrick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 18,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-319-05615-9_30",
+        "title": "Plant–Microbe Interaction",
+        "journal": "",
+        "year": 2014,
+        "citations": 18,
+        "authors": "Bruce Hannon, Matthias Rüth",
+        "authors_list": [
+            "Bruce Hannon",
+            "Matthias Rüth"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 18,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-0-387-09560-8",
+        "title": "Dynamic Modeling of Diseases and Pests",
+        "journal": "",
+        "year": 2008,
+        "citations": 17,
+        "authors": "Bruce Hannon, Matthias Rüth",
+        "authors_list": [
+            "Bruce Hannon",
+            "Matthias Rüth"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 17,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Options for energy conservation",
+        "journal": "Technology Review",
+        "year": 1974,
+        "citations": 17,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 17,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4613-0211-7_16",
+        "title": "The Zebra Mussel",
+        "journal": "",
+        "year": 2001,
+        "citations": 17,
+        "authors": "Bruce Hannon, Matthias Rüth",
+        "authors_list": [
+            "Bruce Hannon",
+            "Matthias Rüth"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 17,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0025-5564(90)90050-9",
+        "title": "Biological time value",
+        "journal": "Mathematical Biosciences",
+        "year": 1990,
+        "citations": 16,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 16,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4613-0211-7_6",
+        "title": "Positive and Negative Feedback",
+        "journal": "",
+        "year": 2001,
+        "citations": 15,
+        "authors": "Bruce Hannon, Matthias Rüth",
+        "authors_list": [
+            "Bruce Hannon",
+            "Matthias Rüth"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 15,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0025-5564(85)90065-3",
+        "title": "Conditioning the ecosystem",
+        "journal": "Mathematical Biosciences",
+        "year": 1985,
+        "citations": 14,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 14,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0360-5442(82)90076-7",
+        "title": "Net energy analysis of methanol and ethanol production",
+        "journal": "Energy",
+        "year": 1982,
+        "citations": 13,
+        "authors": "H. Perez-Blanco, Bruce Hannon",
+        "authors_list": [
+            "H. Perez-Blanco",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 13,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2172/5044283",
+        "title": "Energy intensities for the US economy, 1977",
+        "journal": "",
+        "year": 1985,
+        "citations": 13,
+        "authors": "Bruce Hannon, Stephen D. Casler, Thomas Blazeck",
+        "authors_list": [
+            "Bruce Hannon",
+            "Stephen D. Casler",
+            "Thomas Blazeck"
+        ],
+        "type": "report",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 13,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/5044283"
+        }
+    },
+    {
+        "doi": null,
+        "title": "SPECIAL SECTION: FORUM ON VALUATION OF ECOSYSTEM SERVICES The value of ecosystem services: putting the issues in perspective",
+        "journal": "",
+        "year": 1998,
+        "citations": 12,
+        "authors": "Robert Costanza, R.S. de Groot, Stephen Färber et al.",
+        "authors_list": [
+            "Robert Costanza",
+            "R.S. de Groot",
+            "Stephen Färber",
+            "Monica Grasso",
+            "Bruce Hannon",
+            "Karin E. Limburg",
+            "Shahid Naeem",
+            "José M. Paruelo",
+            "R. Raskin",
+            "Paul C. Sutton",
+            "Marjan van den Belt"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 12,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-319-05615-9",
+        "title": "Modeling Dynamic Biological Systems",
+        "journal": "",
+        "year": 2014,
+        "citations": 12,
+        "authors": "Bruce Hannon, Matthias Rüth",
+        "authors_list": [
+            "Bruce Hannon",
+            "Matthias Rüth"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 12,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0040-1625(82)90042-7",
+        "title": "Energy discounting",
+        "journal": "Technological Forecasting and Social Change",
+        "year": 1982,
+        "citations": 12,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 12,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.205.4407.656",
+        "title": "Effects of Energy Conservation in Residential and Commercial Buildings",
+        "journal": "Science",
+        "year": 1979,
+        "citations": 10,
+        "authors": "Eric Hirst, Bruce Hannon",
+        "authors_list": [
+            "Eric Hirst",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 10,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "ENERGY-CONSERVATION TAX: IMPACTS AND POLICY IMPLICATIONS.",
+        "journal": "Energy Syst. Policy; (United States)",
+        "year": 1981,
+        "citations": 10,
+        "authors": "Bruce Hannon, Robert A. Herendeen, Peter Penner",
+        "authors_list": [
+            "Bruce Hannon",
+            "Robert A. Herendeen",
+            "Peter Penner"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 10,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "A Dynamic Simulation Model of the Desert Tortoise (Gopherus agassizii) Habitat in the Central Mojave Desert.",
+        "journal": "US Army Corps of Engineers: Engineer Research and Development Center (Knowledge Core)",
+        "year": 1997,
+        "citations": 10,
+        "authors": "James Westervelt, Bruce Hannon, Shaun Levi et al.",
+        "authors_list": [
+            "James Westervelt",
+            "Bruce Hannon",
+            "Shaun Levi",
+            "Steven J. Harper"
+        ],
+        "type": "report",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 10,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4612-2268-2_5",
+        "title": "Positive Feedback in the Economy",
+        "journal": "",
+        "year": 1997,
+        "citations": 9,
+        "authors": "Matthias Rüth, Bruce Hannon",
+        "authors_list": [
+            "Matthias Rüth",
+            "Bruce Hannon"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 9,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "ENERGY, EMPLOYMENT AND DOLLAR IMPACTS OF ALTERNATIVE TRANSPORTATION OPTIONS",
+        "journal": "",
+        "year": 1975,
+        "citations": 9,
+        "authors": "Bruce Hannon, Robert A. Herendeen, Francisco Puleo et al.",
+        "authors_list": [
+            "Bruce Hannon",
+            "Robert A. Herendeen",
+            "Francisco Puleo",
+            "A.V. Sebald"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 9,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2527/jas.2016-0283",
+        "title": "Toward a theory of energetically optimal body size in growing animals",
+        "journal": "Journal of Animal Science",
+        "year": 2016,
+        "citations": 9,
+        "authors": "Bruce Hannon, M.R. Murphy",
+        "authors_list": [
+            "Bruce Hannon",
+            "M.R. Murphy"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 9,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1061/egisbd.0000186",
+        "title": "Job Impact of Alternatives to Corps of Engineers Projects",
+        "journal": "Engineering Issues Journal of Professional Activities",
+        "year": 1973,
+        "citations": 9,
+        "authors": "Bruce Hannon, Roger H. Bezdek",
+        "authors_list": [
+            "Bruce Hannon",
+            "Roger H. Bezdek"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 9,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0954-349x(95)00022-f",
+        "title": "Input-output economics and ecology",
+        "journal": "Structural Change and Economic Dynamics",
+        "year": 1995,
+        "citations": 9,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 9,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/isncc58260.2023.10323978",
+        "title": "AssureAIDoctor- A Bias-Free AI Bot",
+        "journal": "",
+        "year": 2023,
+        "citations": 8,
+        "authors": "Yulia Kumar, Julio Delgado, Ethan Kupershtein et al.",
+        "authors_list": [
+            "Yulia Kumar",
+            "Julio Delgado",
+            "Ethan Kupershtein",
+            "Bruce Hannon",
+            "Zoe Gordon",
+            "J. J. Li",
+            "Patricia Morreale"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 8,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4684-0224-7_22",
+        "title": "Competitive Equilibrium",
+        "journal": "",
+        "year": 1994,
+        "citations": 8,
+        "authors": "Bruce Hannon, Matthias Rüth",
+        "authors_list": [
+            "Bruce Hannon",
+            "Matthias Rüth"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 8,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3748/wjg.v16.i1.136",
+        "title": "A dynamic model of once-daily 5-aminosalicylic acid predicts clinical efficacy.",
+        "journal": "PubMed",
+        "year": 2010,
+        "citations": 8,
+        "authors": "Parakkal Deepak, Eli D. Ehrenpreis, Matthew Thorpe et al.",
+        "authors_list": [
+            "Parakkal Deepak",
+            "Eli D. Ehrenpreis",
+            "Matthew Thorpe",
+            "Karson S. Putt",
+            "Bruce Hannon"
+        ],
+        "type": "letter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 8,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "TRANSFERRING FROM URBAN CARS TO BUSES: THE ENERGY AND EMPLOYMENT IMPACTS.",
+        "journal": "",
+        "year": 1974,
+        "citations": 8,
+        "authors": "Bruce Hannon, Francisco Puleo",
+        "authors_list": [
+            "Bruce Hannon",
+            "Francisco Puleo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 8,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2036.2009.03968.x",
+        "title": "A dynamic model of colonic concentrations of delayed‐release 5‐aminosalicylic acid (Asacol)",
+        "journal": "Alimentary Pharmacology & Therapeutics",
+        "year": 2009,
+        "citations": 7,
+        "authors": "Matthew Thorpe, Eli D. Ehrenpreis, Karson S. Putt et al.",
+        "authors_list": [
+            "Matthew Thorpe",
+            "Eli D. Ehrenpreis",
+            "Karson S. Putt",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 7,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2036.2009.03968.x"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Energy, labor, and the conserver society",
+        "journal": "Technology Review",
+        "year": 1977,
+        "citations": 7,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 7,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1029/ce032p0090",
+        "title": "Dealing with the “mixed units” problem in ecosystem network analysis",
+        "journal": "Coastal and estuarine studies",
+        "year": 1989,
+        "citations": 7,
+        "authors": "Robert Costanza, Bruce Hannon",
+        "authors_list": [
+            "Robert Costanza",
+            "Bruce Hannon"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 7,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4612-2268-2_1",
+        "title": "Modeling Dynamic Systems",
+        "journal": "",
+        "year": 1997,
+        "citations": 6,
+        "authors": "Matthias Rüth, Bruce Hannon",
+        "authors_list": [
+            "Matthias Rüth",
+            "Bruce Hannon"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 6,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0040-1625(81)90020-2",
+        "title": "Energy, growth, and altruism",
+        "journal": "Technological Forecasting and Social Change",
+        "year": 1981,
+        "citations": 6,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 6,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0165-0572(83)90027-0",
+        "title": "Energy conservation and recycling in the paper industry",
+        "journal": "Resources and Energy",
+        "year": 1983,
+        "citations": 6,
+        "authors": "Timothy L. Gunn, Bruce Hannon",
+        "authors_list": [
+            "Timothy L. Gunn",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 6,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "The energy cost of energy",
+        "journal": "The Research Repository @ WVU (West Virginia University)",
+        "year": 1981,
+        "citations": 5,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 5,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ecolecon.2004.11.015",
+        "title": "Pathways to environmental change",
+        "journal": "Ecological Economics",
+        "year": 2005,
+        "citations": 5,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 5,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Updating energy and labor intensities for non-input-output years",
+        "journal": "Energy Syst. Policy; (United States)",
+        "year": 1985,
+        "citations": 4,
+        "authors": "Bruce Hannon, Stephen D. Casler",
+        "authors_list": [
+            "Bruce Hannon",
+            "Stephen D. Casler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 4,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.14309/00000434-200809001-00471",
+        "title": "Body Weight Is an Independent Risk Factor for Calcium Phosphate Nephropathy with Sodium Phosphate Colonoscopy Preparation. a Simulation Study",
+        "journal": "The American Journal of Gastroenterology",
+        "year": 2008,
+        "citations": 4,
+        "authors": "Eli D. Ehrenpreis, Kranthi Varala, Bruce Hannon",
+        "authors_list": [
+            "Eli D. Ehrenpreis",
+            "Kranthi Varala",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 4,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Effects of energy tax-pass-through and trade markup on prices of goods and services / CAC document (University of Illinois at Urbana-Champaign. Center for Advanced Computation) ; no. 189",
+        "journal": "",
+        "year": 1976,
+        "citations": 4,
+        "authors": "Clark W. Bullard, Bruce Hannon, B. Segal",
+        "authors_list": [
+            "Clark W. Bullard",
+            "Bruce Hannon",
+            "B. Segal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 4,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "DOLLAR, ENERGY, AND EMPLOYMENT COSTS OF PROTEIN CONSUMPTION.",
+        "journal": "Energy Syst. Policy; (United States)",
+        "year": 1979,
+        "citations": 4,
+        "authors": "Bruce Hannon, Carol Harrington, Robert W. Howell et al.",
+        "authors_list": [
+            "Bruce Hannon",
+            "Carol Harrington",
+            "Robert W. Howell",
+            "Ken Kirkpatrick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 4,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/0-387-21555-7_11",
+        "title": "A Dynamic Model of the Spatial Spread of an Infectious Disease: The Case of Fox Rabies in Illinois",
+        "journal": "Modeling dynamic systems",
+        "year": 2006,
+        "citations": 4,
+        "authors": "Brian Deal, Cheryl Farello, Mary J. Lancaster et al.",
+        "authors_list": [
+            "Brian Deal",
+            "Cheryl Farello",
+            "Mary J. Lancaster",
+            "Thomas Kompare",
+            "Bruce Hannon"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 4,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1098/rsta.2012.0005",
+        "title": "Energy and materials conservation: applying pioneering research and techniques to current non-energy materials conservation issues",
+        "journal": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+        "year": 2013,
+        "citations": 4,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 4,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4684-0224-7_1",
+        "title": "Modeling Dynamic Systems",
+        "journal": "",
+        "year": 1994,
+        "citations": 4,
+        "authors": "Bruce Hannon, Matthias Rüth",
+        "authors_list": [
+            "Bruce Hannon",
+            "Matthias Rüth"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 4,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0025-5564(87)90032-0",
+        "title": "Cyclic control in ecosystems",
+        "journal": "Mathematical Biosciences",
+        "year": 1987,
+        "citations": 4,
+        "authors": "Joseph Bentsman, Bruce Hannon",
+        "authors_list": [
+            "Joseph Bentsman",
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 4,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/ibd.23003",
+        "title": "Simulated Comparison of Topical and Oral Formulations of 5-Aminosalicylate for the Treatment of Ulcerative Colitis",
+        "journal": "Inflammatory Bowel Diseases",
+        "year": 2012,
+        "citations": 3,
+        "authors": "Derrick J. Stobaugh, Parakkal Deepak, Matthew Thorpe et al.",
+        "authors_list": [
+            "Derrick J. Stobaugh",
+            "Parakkal Deepak",
+            "Matthew Thorpe",
+            "Bruce Hannon",
+            "Eli D. Ehrenpreis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/b0-12-369398-5/00353-4",
+        "title": "Spatial Discounting",
+        "journal": "Encyclopedia of Social Measurement",
+        "year": 2005,
+        "citations": 3,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "reference-entry",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3368/lj.9.1.16",
+        "title": "The Forgetting Rate: Evidence From a Country Cemetery",
+        "journal": "Landscape Journal",
+        "year": 1990,
+        "citations": 3,
+        "authors": "Bruce Hannon",
+        "authors_list": [
+            "Bruce Hannon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/387253a0",
+        "title": "The value of the world's ecosystem services and natural capital",
+        "journal": "Nature",
+        "year": 1997,
+        "citations": 16342,
+        "authors": "Robert Costanza, Ralph d'Arge, Rudolf de Groot et al.",
+        "authors_list": [
+            "Robert Costanza",
+            "Ralph d'Arge",
+            "Rudolf de Groot",
+            "Stephen Farber",
+            "Monica Grasso",
+            "Bruce Hannon",
+            "Karin Limburg",
+            "Shahid Naeem",
+            "Robert V. O'Neill",
+            "Jose Paruelo",
+            "Robert G. Raskin",
+            "Paul Sutton",
+            "Marjan van den Belt"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 16342
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s0921-8009(98)00020-2",
+        "title": "The value of the world's ecosystem services and natural capital",
+        "journal": "Ecological Economics",
+        "year": 1998,
+        "citations": 934,
+        "authors": "Robert Costanza, Ralph d'Arge, Rudolf de Groot et al.",
+        "authors_list": [
+            "Robert Costanza",
+            "Ralph d'Arge",
+            "Rudolf de Groot",
+            "Stephen Farber",
+            "Monica Grasso",
+            "Bruce Hannon",
+            "Karin Limburg",
+            "Shahid Naeem",
+            "Robert V. O'Neill",
+            "Jose Paruelo",
+            "Robert G. Raskin",
+            "Paul Sutton",
+            "Marjan van den Belt"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 934
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://discovery.ucl.ac.uk/10189378/1/Costanza_et%20al.%20Nature%201997%20prepublicaton.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1098/rspb.1987.0067",
+        "title": "Life and the production of entropy",
+        "journal": "Proceedings of the Royal Society of London. Series B. Biological Sciences",
+        "year": 1987,
+        "citations": 138,
+        "authors": "R. E. Ulanowicz, B. M. Hannon",
+        "authors_list": [
+            "R. E. Ulanowicz",
+            "B. M. Hannon"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 138
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1007/978-3-662-25989-4_1",
+        "title": "Modeling Dynamic Systems",
+        "journal": "Dynamic Modeling",
+        "year": 1994,
+        "citations": 0,
+        "authors": "Bruce Hannon, Matthias Ruth",
+        "authors_list": [
+            "Bruce Hannon",
+            "Matthias Ruth"
+        ],
+        "type": "book-chapter",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.5840/enviroethics199719313",
+        "title": "Environmental Values",
+        "journal": "Environmental Ethics",
+        "year": null,
+        "citations": 108,
+        "authors": "Bryan G. Norton, Bruce Hannon",
+        "authors_list": [
+            "Bryan G. Norton",
+            "Bruce Hannon"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 108
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.ecolecon.2008.07.014",
+        "title": "Ecological and economic sustainability in fishery management: A multi-agent model for understanding competition and cooperation",
+        "journal": "Ecological Economics",
+        "year": 2009,
+        "citations": 54,
+        "authors": "Todd BenDor, Jürgen Scheffran, Bruce Hannon",
+        "authors_list": [
+            "Todd BenDor",
+            "Jürgen Scheffran",
+            "Bruce Hannon"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 54
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1007/bf02220255",
+        "title": "Modeling monkeys: A comparison of computer-generated and naturally occurring foraging patterns in two species of neotropical primates",
+        "journal": "International Journal of Primatology",
+        "year": 1993,
+        "citations": 53,
+        "authors": "P. A. Garber, B. Hannon",
+        "authors_list": [
+            "P. A. Garber",
+            "B. Hannon"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 53
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1126/science.202.4370.837",
+        "title": "Energy and Labor in the Construction Sector",
+        "journal": "Science",
+        "year": 1978,
+        "citations": 45,
+        "authors": "Bruce Hannon, Richard G. Stein, B. Z. Segal et al.",
+        "authors_list": [
+            "Bruce Hannon",
+            "Richard G. Stein",
+            "B. Z. Segal",
+            "Diane Serber"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 45
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.envsoft.2008.11.009",
+        "title": "Sharing the floodplain: Mediated modeling for environmental management",
+        "journal": "Environmental Modelling &amp; Software",
+        "year": 2010,
+        "citations": 44,
+        "authors": "Sara S. Metcalf, Emily Wheeler, Todd K. BenDor et al.",
+        "authors_list": [
+            "Sara S. Metcalf",
+            "Emily Wheeler",
+            "Todd K. BenDor",
+            "Kenneth S. Lubinski",
+            "Bruce M. Hannon"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 44
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/0165-0572(83)90019-1",
+        "title": "A comparison of energy intensities",
+        "journal": "Resources and Energy",
+        "year": 1983,
+        "citations": 45,
+        "authors": "Bruce Hannon, Thomas Blazeck, Douglas Kennedy et al.",
+        "authors_list": [
+            "Bruce Hannon",
+            "Thomas Blazeck",
+            "Douglas Kennedy",
+            "Robert Illyes"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 45
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

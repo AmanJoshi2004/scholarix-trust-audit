@@ -1,0 +1,331 @@
+{
+    "id": "A5010177657",
+    "name": "I. Petrov",
+    "affiliation": "Linköping University",
+    "topics": [
+        "Metal and Thin Film Mechanics",
+        "Semiconductor materials and devices",
+        "Diamond and Carbon-based Materials Research",
+        "GaN-based semiconductor devices and materials",
+        "Ion-surface interactions and analysis"
+    ],
+    "keywords": [
+        "magnetron",
+        "growth",
+        "films",
+        "sputtering",
+        "during"
+    ],
+    "metrics": {
+        "citations": 23340,
+        "h_index": 75,
+        "publications": 448
+    },
+    "counts_by_year": [
+        {
+            "year": 2026,
+            "works_count": 4,
+            "oa_works_count": 2,
+            "cited_by_count": 0
+        },
+        {
+            "year": 2025,
+            "works_count": 5,
+            "oa_works_count": 2,
+            "cited_by_count": 4
+        },
+        {
+            "year": 2024,
+            "works_count": 7,
+            "oa_works_count": 6,
+            "cited_by_count": 24
+        },
+        {
+            "year": 2023,
+            "works_count": 11,
+            "oa_works_count": 8,
+            "cited_by_count": 84
+        },
+        {
+            "year": 2022,
+            "works_count": 18,
+            "oa_works_count": 14,
+            "cited_by_count": 175
+        },
+        {
+            "year": 2021,
+            "works_count": 9,
+            "oa_works_count": 8,
+            "cited_by_count": 245
+        },
+        {
+            "year": 2020,
+            "works_count": 20,
+            "oa_works_count": 18,
+            "cited_by_count": 558
+        },
+        {
+            "year": 2019,
+            "works_count": 9,
+            "oa_works_count": 8,
+            "cited_by_count": 417
+        },
+        {
+            "year": 2018,
+            "works_count": 10,
+            "oa_works_count": 8,
+            "cited_by_count": 307
+        },
+        {
+            "year": 2017,
+            "works_count": 11,
+            "oa_works_count": 6,
+            "cited_by_count": 373
+        },
+        {
+            "year": 2016,
+            "works_count": 7,
+            "oa_works_count": 5,
+            "cited_by_count": 505
+        },
+        {
+            "year": 2015,
+            "works_count": 11,
+            "oa_works_count": 7,
+            "cited_by_count": 402
+        },
+        {
+            "year": 2014,
+            "works_count": 20,
+            "oa_works_count": 10,
+            "cited_by_count": 842
+        },
+        {
+            "year": 2013,
+            "works_count": 14,
+            "oa_works_count": 7,
+            "cited_by_count": 1932
+        },
+        {
+            "year": 2012,
+            "works_count": 24,
+            "oa_works_count": 7,
+            "cited_by_count": 419
+        },
+        {
+            "year": 2011,
+            "works_count": 11,
+            "oa_works_count": 5,
+            "cited_by_count": 404
+        },
+        {
+            "year": 2010,
+            "works_count": 21,
+            "oa_works_count": 6,
+            "cited_by_count": 742
+        },
+        {
+            "year": 2009,
+            "works_count": 9,
+            "oa_works_count": 2,
+            "cited_by_count": 777
+        },
+        {
+            "year": 2008,
+            "works_count": 9,
+            "oa_works_count": 1,
+            "cited_by_count": 476
+        },
+        {
+            "year": 2007,
+            "works_count": 13,
+            "oa_works_count": 1,
+            "cited_by_count": 854
+        },
+        {
+            "year": 2006,
+            "works_count": 12,
+            "oa_works_count": 2,
+            "cited_by_count": 281
+        },
+        {
+            "year": 2005,
+            "works_count": 16,
+            "oa_works_count": 0,
+            "cited_by_count": 721
+        },
+        {
+            "year": 2004,
+            "works_count": 17,
+            "oa_works_count": 5,
+            "cited_by_count": 618
+        },
+        {
+            "year": 2003,
+            "works_count": 20,
+            "oa_works_count": 2,
+            "cited_by_count": 3168
+        },
+        {
+            "year": 2002,
+            "works_count": 18,
+            "oa_works_count": 3,
+            "cited_by_count": 1378
+        },
+        {
+            "year": 2001,
+            "works_count": 15,
+            "oa_works_count": 0,
+            "cited_by_count": 689
+        },
+        {
+            "year": 2000,
+            "works_count": 23,
+            "oa_works_count": 0,
+            "cited_by_count": 591
+        },
+        {
+            "year": 1999,
+            "works_count": 5,
+            "oa_works_count": 1,
+            "cited_by_count": 1420
+        },
+        {
+            "year": 1998,
+            "works_count": 5,
+            "oa_works_count": 0,
+            "cited_by_count": 442
+        },
+        {
+            "year": 1997,
+            "works_count": 9,
+            "oa_works_count": 1,
+            "cited_by_count": 535
+        },
+        {
+            "year": 1996,
+            "works_count": 5,
+            "oa_works_count": 1,
+            "cited_by_count": 83
+        },
+        {
+            "year": 1995,
+            "works_count": 9,
+            "oa_works_count": 0,
+            "cited_by_count": 701
+        },
+        {
+            "year": 1994,
+            "works_count": 9,
+            "oa_works_count": 0,
+            "cited_by_count": 431
+        },
+        {
+            "year": 1993,
+            "works_count": 8,
+            "oa_works_count": 0,
+            "cited_by_count": 804
+        },
+        {
+            "year": 1992,
+            "works_count": 8,
+            "oa_works_count": 0,
+            "cited_by_count": 700
+        },
+        {
+            "year": 1991,
+            "works_count": 3,
+            "oa_works_count": 0,
+            "cited_by_count": 402
+        },
+        {
+            "year": 1990,
+            "works_count": 4,
+            "oa_works_count": 0,
+            "cited_by_count": 107
+        },
+        {
+            "year": 1989,
+            "works_count": 3,
+            "oa_works_count": 0,
+            "cited_by_count": 340
+        },
+        {
+            "year": 1988,
+            "works_count": 3,
+            "oa_works_count": 0,
+            "cited_by_count": 91
+        },
+        {
+            "year": 1987,
+            "works_count": 1,
+            "oa_works_count": 1,
+            "cited_by_count": 0
+        },
+        {
+            "year": 1985,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 20
+        },
+        {
+            "year": 1984,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 57
+        },
+        {
+            "year": 1983,
+            "works_count": 1,
+            "oa_works_count": 1,
+            "cited_by_count": 16
+        },
+        {
+            "year": 1982,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 15
+        },
+        {
+            "year": 1981,
+            "works_count": 4,
+            "oa_works_count": 0,
+            "cited_by_count": 156
+        },
+        {
+            "year": 1980,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 18
+        },
+        {
+            "year": 1978,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 16
+        },
+        {
+            "year": 1977,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 0
+        }
+    ],
+    "verification": {
+        "personal_website": null,
+        "linkedin": null,
+        "researchgate": null,
+        "google_scholar": {
+            "verified": false,
+            "reason": "HTTP 429"
+        }
+    },
+    "orcid": {
+        "verified": true,
+        "orcid_id": "0000-0002-0689-8128",
+        "current_institution": [
+            "Moskovskij gosudarstvennyj universitet imeni M V Lomonosova",
+            "Novgorod State Museum"
+        ]
+    }
+}

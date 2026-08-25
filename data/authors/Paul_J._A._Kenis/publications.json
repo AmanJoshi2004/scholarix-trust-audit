@@ -1,0 +1,3449 @@
+[
+    {
+        "doi": "https://doi.org/10.1021/cr300463y",
+        "title": "Frontiers, Opportunities, and Challenges in Biochemical and Chemical Catalysis of CO<sub>2</sub> Fixation",
+        "journal": "Chemical Reviews",
+        "year": 2013,
+        "citations": 2152,
+        "authors": "Aaron M. Appel, John E. Bercaw, Andrew B. Bocarsly et al.",
+        "authors_list": [
+            "Aaron M. Appel",
+            "John E. Bercaw",
+            "Andrew B. Bocarsly",
+            "Holger Dobbek",
+            "Daniel L. DuBois",
+            "Michel Dupuis",
+            "James G. Ferry",
+            "Etsuko Fujita",
+            "Russ Hille",
+            "Paul J. A. Kenis",
+            "Cheryl A. Kerfeld",
+            "Robert H. Morris",
+            "Charles H. F. Peden",
+            "Archie R. Portis",
+            "Stephen W. Ragsdale",
+            "Thomas B. Rauchfuss",
+            "Joost N. H. Reek",
+            "Lance C. Seefeldt",
+            "Rudolf K. Thauer",
+            "Grover L. Waldrop"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2152,
+            "crossref": 2125
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3895110"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1209786",
+        "title": "Ionic Liquid–Mediated Selective Conversion of CO\n            <sub>2</sub>\n            to CO at Low Overpotentials",
+        "journal": "Science",
+        "year": 2011,
+        "citations": 1547,
+        "authors": "Brian A. Rosen, Amin Salehi‐Khojin, Michael R. Thorson et al.",
+        "authors_list": [
+            "Brian A. Rosen",
+            "Amin Salehi‐Khojin",
+            "Michael R. Thorson",
+            "Wei Zhu",
+            "Devin T. Whipple",
+            "Paul J. A. Kenis",
+            "Richard I. Masel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1547,
+            "crossref": 1512
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jz1012627",
+        "title": "Prospects of CO<sub>2</sub> Utilization via Direct Heterogeneous Electrochemical Reduction",
+        "journal": "The Journal of Physical Chemistry Letters",
+        "year": 2010,
+        "citations": 1416,
+        "authors": "Devin T. Whipple, Paul J. A. Kenis",
+        "authors_list": [
+            "Devin T. Whipple",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1416,
+            "crossref": 1377
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jacs.6b10740",
+        "title": "Electroreduction of Carbon Dioxide to Hydrocarbons Using Bimetallic Cu–Pd Catalysts with Different Mixing Patterns",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2016,
+        "citations": 855,
+        "authors": "Sichao Ma, Masaaki Sadakiyo, Minako Heima et al.",
+        "authors_list": [
+            "Sichao Ma",
+            "Masaaki Sadakiyo",
+            "Minako Heima",
+            "Raymond Luo",
+            "Richard T. Haasch",
+            "Jake I. Gold",
+            "Miho Yamauchi",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 855,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.acs.org/doi/pdf/10.1021/jacs.6b10740"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jacs.8b01868",
+        "title": "Nanoporous Copper–Silver Alloys by Additive-Controlled Electrodeposition for the Selective Electroreduction of CO<sub>2</sub> to Ethylene and Ethanol",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2018,
+        "citations": 847,
+        "authors": "Thao Thi Huong Hoang, Sumit Verma, Sichao Ma et al.",
+        "authors_list": [
+            "Thao Thi Huong Hoang",
+            "Sumit Verma",
+            "Sichao Ma",
+            "T. T. Fister",
+            "Janis Timoshenko",
+            "Anatoly I. Frenkel",
+            "Paul J. A. Kenis",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 847,
+            "crossref": 841
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.coche.2013.03.005",
+        "title": "Electrochemical conversion of CO2 to useful chemicals: current status, remaining challenges, and future opportunities",
+        "journal": "Current Opinion in Chemical Engineering",
+        "year": 2013,
+        "citations": 825,
+        "authors": "Huei-Ru Molly Jhong, Sichao Ma, Paul J. A. Kenis",
+        "authors_list": [
+            "Huei-Ru Molly Jhong",
+            "Sichao Ma",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 825,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41560-019-0374-6",
+        "title": "Co-electrolysis of CO2 and glycerol as a pathway to carbon chemicals with improved technoeconomics due to low electricity consumption",
+        "journal": "Nature Energy",
+        "year": 2019,
+        "citations": 816,
+        "authors": "Sumit Verma, Shawn Lu, Paul J. A. Kenis",
+        "authors_list": [
+            "Sumit Verma",
+            "Shawn Lu",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 816,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.285.5424.83",
+        "title": "Microfabrication Inside Capillaries Using Multiphase Laminar Flow Patterning",
+        "journal": "Science",
+        "year": 1999,
+        "citations": 662,
+        "authors": "Paul J. A. Kenis, Rustem F. Ismagilov, George M. Whitesides",
+        "authors_list": [
+            "Paul J. A. Kenis",
+            "Rustem F. Ismagilov",
+            "George M. Whitesides"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 662,
+            "crossref": 578
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/cssc.201600394",
+        "title": "A Gross‐Margin Model for Defining Technoeconomic Benchmarks in the Electroreduction of CO<sub>2</sub>",
+        "journal": "ChemSusChem",
+        "year": 2016,
+        "citations": 654,
+        "authors": "Sumit Verma, Byoungsu Kim, Huei‐Ru “Molly” Jhong et al.",
+        "authors_list": [
+            "Sumit Verma",
+            "Byoungsu Kim",
+            "Huei‐Ru “Molly” Jhong",
+            "Sichao Ma",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 654,
+            "crossref": 648
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms13869",
+        "title": "A metal-free electrocatalyst for carbon dioxide reduction to multi-carbon hydrocarbons and oxygenates",
+        "journal": "Nature Communications",
+        "year": 2016,
+        "citations": 654,
+        "authors": "Jingjie Wu, Sichao Ma, Jing Sun et al.",
+        "authors_list": [
+            "Jingjie Wu",
+            "Sichao Ma",
+            "Jing Sun",
+            "Jake I. Gold",
+            "Chandra Sekhar Tiwary",
+            "Byoungsu Kim",
+            "Lingyang Zhu",
+            "Nitin Chopra",
+            "Ihab N. Odeh",
+            "Róbert Vajtai",
+            "Aaron Z. Yu",
+            "Raymond Luo",
+            "Jun Lou",
+            "Guqiao Ding",
+            "Paul J. A. Kenis",
+            "Pulickel M. Ajayan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 654,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms13869.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41929-020-00547-0",
+        "title": "Electrochemical CO2-to-ethylene conversion on polyamine-incorporated Cu electrodes",
+        "journal": "Nature Catalysis",
+        "year": 2020,
+        "citations": 638,
+        "authors": "Xinyi Chen, Junfeng Chen, Nawal M. Alghoraibi et al.",
+        "authors_list": [
+            "Xinyi Chen",
+            "Junfeng Chen",
+            "Nawal M. Alghoraibi",
+            "Danielle A. Henckel",
+            "Ruixian Zhang",
+            "Uzoma O. Nwabara",
+            "Kenneth E. Madsen",
+            "Paul J. A. Kenis",
+            "Steven C. Zimmerman",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 638,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.126351",
+        "title": "Experimental and theoretical scaling laws for transverse diffusive broadening in two-phase laminar flows in microchannels",
+        "journal": "Applied Physics Letters",
+        "year": 2000,
+        "citations": 533,
+        "authors": "Rustem F. Ismagilov, Abraham D. Stroock, Paul J. A. Kenis et al.",
+        "authors_list": [
+            "Rustem F. Ismagilov",
+            "Abraham D. Stroock",
+            "Paul J. A. Kenis",
+            "George M. Whitesides",
+            "Howard A. Stone"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 533,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.96.10.5545",
+        "title": "Patterning cells and their environments using multiple laminar fluid flows in capillary networks",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1999,
+        "citations": 529,
+        "authors": "Shuichi Takayama, J. Cooper McDonald, Emanuele Ostuni et al.",
+        "authors_list": [
+            "Shuichi Takayama",
+            "J. Cooper McDonald",
+            "Emanuele Ostuni",
+            "Michael N. Liang",
+            "Paul J. A. Kenis",
+            "Rustem F. Ismagilov",
+            "George M. Whitesides"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 529,
+            "crossref": 470
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsenergylett.7b01096",
+        "title": "Insights into the Low Overpotential Electroreduction of CO<sub>2</sub> to CO on a Supported Gold Catalyst in an Alkaline Flow Electrolyzer",
+        "journal": "ACS Energy Letters",
+        "year": 2017,
+        "citations": 515,
+        "authors": "Sumit Verma, Yuki Hamasaki, Chaerin Kim et al.",
+        "authors_list": [
+            "Sumit Verma",
+            "Yuki Hamasaki",
+            "Chaerin Kim",
+            "Wenxin Huang",
+            "Shawn Lu",
+            "Huei-Ru Molly Jhong",
+            "Andrew A. Gewirth",
+            "Tsuyohiko Fujigaya",
+            "Naotoshi Nakashima",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 515,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c5cp05665a",
+        "title": "The effect of electrolyte composition on the electroreduction of CO <sub>2</sub> to CO on Ag based gas diffusion electrodes",
+        "journal": "Physical Chemistry Chemical Physics",
+        "year": 2015,
+        "citations": 496,
+        "authors": "Sumit Verma, Shawn Lu, Sichao Ma et al.",
+        "authors_list": [
+            "Sumit Verma",
+            "Shawn Lu",
+            "Sichao Ma",
+            "Richard I. Masel",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 496,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jpowsour.2015.09.124",
+        "title": "One-step electrosynthesis of ethylene and ethanol from CO2 in an alkaline electrolyzer",
+        "journal": "Journal of Power Sources",
+        "year": 2015,
+        "citations": 489,
+        "authors": "Sichao Ma, Masaaki Sadakiyo, Raymond Luo et al.",
+        "authors_list": [
+            "Sichao Ma",
+            "Masaaki Sadakiyo",
+            "Raymond Luo",
+            "Minako Heima",
+            "Miho Yamauchi",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 489,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp310509z",
+        "title": "Nanoparticle Silver Catalysts That Show Enhanced Activity for Carbon Dioxide Electrolysis",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2012,
+        "citations": 433,
+        "authors": "Amin Salehi‐Khojin, Huei-Ru Molly Jhong, Brian A. Rosen et al.",
+        "authors_list": [
+            "Amin Salehi‐Khojin",
+            "Huei-Ru Molly Jhong",
+            "Brian A. Rosen",
+            "Wei Zhu",
+            "Sichao Ma",
+            "Paul J. A. Kenis",
+            "Richard I. Masel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 433,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/1.3456590",
+        "title": "Microfluidic Reactor for the Electrochemical Reduction of Carbon Dioxide: The Effect of pH",
+        "journal": "Electrochemical and Solid-State Letters",
+        "year": 2010,
+        "citations": 370,
+        "authors": "Devin T. Whipple, Eryn C. Finke, Paul J. A. Kenis",
+        "authors_list": [
+            "Devin T. Whipple",
+            "Eryn C. Finke",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 370,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja054599k",
+        "title": "Air-Breathing Laminar Flow-Based Microfluidic Fuel Cell",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2005,
+        "citations": 355,
+        "authors": "Ranga S. Jayashree, Lajos Gáncs, Eric R. Choban et al.",
+        "authors_list": [
+            "Ranga S. Jayashree",
+            "Lajos Gáncs",
+            "Eric R. Choban",
+            "Alex Primak",
+            "Dilip Natarajan",
+            "Larry J. Markoski",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 355,
+            "crossref": 329
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/2.052301jes",
+        "title": "Effect of Cations on the Electrochemical Conversion of CO<sub>2</sub>to CO",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 2012,
+        "citations": 350,
+        "authors": "Michael R. Thorson, Karl I. Siil, Paul J. A. Kenis",
+        "authors_list": [
+            "Michael R. Thorson",
+            "Karl I. Siil",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 350,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1149/2.052301jes/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.84.3314",
+        "title": "Patterning Electro-osmotic Flow with Patterned Surface Charge",
+        "journal": "Physical Review Letters",
+        "year": 2000,
+        "citations": 339,
+        "authors": "Abraham D. Stroock, Marcus Weck, Daniel T. Chiu et al.",
+        "authors_list": [
+            "Abraham D. Stroock",
+            "Marcus Weck",
+            "Daniel T. Chiu",
+            "Wilhelm T. S. Huck",
+            "Paul J. A. Kenis",
+            "Rustem F. Ismagilov",
+            "George M. Whitesides"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 339,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nl100675p",
+        "title": "DNA-Mediated Control of Metal Nanoparticle Shape: One-Pot Synthesis and Cellular Uptake of Highly Stable and Functional Gold Nanoflowers",
+        "journal": "Nano Letters",
+        "year": 2010,
+        "citations": 308,
+        "authors": "Zidong Wang, Jieqian Zhang, Jonathan M. Ekman et al.",
+        "authors_list": [
+            "Zidong Wang",
+            "Jieqian Zhang",
+            "Jonathan M. Ekman",
+            "Paul J. A. Kenis",
+            "Yi Lu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 308,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.0403048101",
+        "title": "Fabricating complex three-dimensional nanostructures with high-resolution conformable phase masks",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2004,
+        "citations": 303,
+        "authors": "Seokwoo Jeon, Jang‐Ung Park, R. Cirelli et al.",
+        "authors_list": [
+            "Seokwoo Jeon",
+            "Jang‐Ung Park",
+            "R. Cirelli",
+            "Shu Yang",
+            "Carla E. Heitzman",
+            "Paul V. Braun",
+            "Paul J. A. Kenis",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 303,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/515078"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acscatal.6b03613",
+        "title": "Nanoporous Copper Films by Additive-Controlled Electrodeposition: CO<sub>2</sub> Reduction Catalysis",
+        "journal": "ACS Catalysis",
+        "year": 2017,
+        "citations": 294,
+        "authors": "Thao Thi Huong Hoang, Sichao Ma, Jake I. Gold et al.",
+        "authors_list": [
+            "Thao Thi Huong Hoang",
+            "Sichao Ma",
+            "Jake I. Gold",
+            "Paul J. A. Kenis",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 294,
+            "crossref": 289
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.electacta.2015.03.064",
+        "title": "Influence of dilute feed and pH on electrochemical reduction of CO2 to CO on Ag in a continuous flow electrolyzer",
+        "journal": "Electrochimica Acta",
+        "year": 2015,
+        "citations": 242,
+        "authors": "Byoungsu Kim, Sichao Ma, Huei-Ru Molly Jhong et al.",
+        "authors_list": [
+            "Byoungsu Kim",
+            "Sichao Ma",
+            "Huei-Ru Molly Jhong",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 242,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1246968"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/aenm.201200759",
+        "title": "The Effects of Catalyst Layer Deposition Methodology on Electrode Performance",
+        "journal": "Advanced Energy Materials",
+        "year": 2013,
+        "citations": 240,
+        "authors": "Huei‐Ru “Molly” Jhong, Fikile R. Brushett, Paul J. A. Kenis",
+        "authors_list": [
+            "Huei‐Ru “Molly” Jhong",
+            "Fikile R. Brushett",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 240,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jpowsour.2016.02.043",
+        "title": "Effects of composition of the micro porous layer and the substrate on performance in the electrochemical reduction of CO2 to CO",
+        "journal": "Journal of Power Sources",
+        "year": 2016,
+        "citations": 240,
+        "authors": "Byoungsu Kim, Febrian Hillman, Miho Ariyoshi et al.",
+        "authors_list": [
+            "Byoungsu Kim",
+            "Febrian Hillman",
+            "Miho Ariyoshi",
+            "Shigenori Fujikawa",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 240,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1359466"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/cssc.201300934",
+        "title": "Silver Supported on Titania as an Active Catalyst for Electrochemical Carbon Dioxide Reduction",
+        "journal": "ChemSusChem",
+        "year": 2014,
+        "citations": 224,
+        "authors": "Sichao Ma, Yangchun Lan, Gaby M. J. Perez et al.",
+        "authors_list": [
+            "Sichao Ma",
+            "Yangchun Lan",
+            "Gaby M. J. Perez",
+            "Saman Moniri",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 224,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.electacta.2005.03.019",
+        "title": "Membraneless laminar flow-based micro fuel cells operating in alkaline, acidic, and acidic/alkaline media",
+        "journal": "Electrochimica Acta",
+        "year": 2005,
+        "citations": 222,
+        "authors": "Eric R. Choban, Jacob S. Spendelow, Lajos Gáncs et al.",
+        "authors_list": [
+            "Eric R. Choban",
+            "Jacob S. Spendelow",
+            "Lajos Gáncs",
+            "Andrzej Więckowski",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 222,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c6ta00427j",
+        "title": "Carbon nanotube containing Ag catalyst layers for efficient and selective reduction of carbon dioxide",
+        "journal": "Journal of Materials Chemistry A",
+        "year": 2016,
+        "citations": 210,
+        "authors": "Sichao Ma, Raymond Luo, Jake I. Gold et al.",
+        "authors_list": [
+            "Sichao Ma",
+            "Raymond Luo",
+            "Jake I. Gold",
+            "Aaron Z. Yu",
+            "Byoungsu Kim",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 210,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acscatal.0c04297",
+        "title": "Potential Dependence of the Local pH in a CO<sub>2</sub> Reduction Electrolyzer",
+        "journal": "ACS Catalysis",
+        "year": 2020,
+        "citations": 201,
+        "authors": "Danielle A. Henckel, Michael J. Counihan, Hannah E. Holmes et al.",
+        "authors_list": [
+            "Danielle A. Henckel",
+            "Michael J. Counihan",
+            "Hannah E. Holmes",
+            "Xinyi Chen",
+            "Uzoma O. Nwabara",
+            "Sumit Verma",
+            "Joaquín Rodríguez‐López",
+            "Paul J. A. Kenis",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 201,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.electacta.2005.02.018",
+        "title": "Characterization and application of electrodeposited Pt, Pt/Pd, and Pd catalyst structures for direct formic acid micro fuel cells",
+        "journal": "Electrochimica Acta",
+        "year": 2005,
+        "citations": 198,
+        "authors": "Ranga S. Jayashree, Jacob S. Spendelow, Junghoon Yeom et al.",
+        "authors_list": [
+            "Ranga S. Jayashree",
+            "Jacob S. Spendelow",
+            "Junghoon Yeom",
+            "Chandan Rastogi",
+            "Mark A. Shannon",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 198,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/cssc.201902933",
+        "title": "Durable Cathodes and Electrolyzers for the Efficient Aqueous Electrochemical Reduction of CO<sub>2</sub>",
+        "journal": "ChemSusChem",
+        "year": 2019,
+        "citations": 190,
+        "authors": "Uzoma O. Nwabara, Emiliana R. Cofell, Sumit Verma et al.",
+        "authors_list": [
+            "Uzoma O. Nwabara",
+            "Emiliana R. Cofell",
+            "Sumit Verma",
+            "Emanuela Negro",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 190,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja308217w",
+        "title": "Nitrogen-Based Catalysts for the Electrochemical Reduction of CO<sub>2</sub> to CO",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2012,
+        "citations": 189,
+        "authors": "Claire E. Tornow, Michael R. Thorson, Sichao Ma et al.",
+        "authors_list": [
+            "Claire E. Tornow",
+            "Michael R. Thorson",
+            "Sichao Ma",
+            "Andrew A. Gewirth",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 189,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp060100c",
+        "title": "Mechanism of CO Oxidation on Pt(111) in Alkaline Media",
+        "journal": "The Journal of Physical Chemistry B",
+        "year": 2006,
+        "citations": 185,
+        "authors": "Jacob S. Spendelow, Jason D. Goodpaster, Paul J. A. Kenis et al.",
+        "authors_list": [
+            "Jacob S. Spendelow",
+            "Jason D. Goodpaster",
+            "Paul J. A. Kenis",
+            "Andrzej Więckowski"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 185,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsami.0c21997",
+        "title": "Investigation of Electrolyte-Dependent Carbonate Formation on Gas Diffusion Electrodes for CO<sub>2</sub> Electrolysis",
+        "journal": "ACS Applied Materials & Interfaces",
+        "year": 2021,
+        "citations": 180,
+        "authors": "Emiliana R. Cofell, Uzoma O. Nwabara, Saket Bhargava et al.",
+        "authors_list": [
+            "Emiliana R. Cofell",
+            "Uzoma O. Nwabara",
+            "Saket Bhargava",
+            "Danielle E. Henckel",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 180,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jpowsour.2009.12.029",
+        "title": "On the performance of membraneless laminar flow-based fuel cells",
+        "journal": "Journal of Power Sources",
+        "year": 2009,
+        "citations": 166,
+        "authors": "Ranga S. Jayashree, Seong Kee Yoon, Fikile R. Brushett et al.",
+        "authors_list": [
+            "Ranga S. Jayashree",
+            "Seong Kee Yoon",
+            "Fikile R. Brushett",
+            "Pedro O. Lopez-Montesinos",
+            "Dilip Natarajan",
+            "Larry J. Markoski",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 166,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jelechem.2004.01.018",
+        "title": "Electrooxidation of adsorbed CO on Pt(111) and Pt(111)/Ru in alkaline media and comparison with results from acidic media",
+        "journal": "Journal of Electroanalytical Chemistry",
+        "year": 2004,
+        "citations": 164,
+        "authors": "Jacob S. Spendelow, Guowen Lu, Paul J. A. Kenis et al.",
+        "authors_list": [
+            "Jacob S. Spendelow",
+            "Guowen Lu",
+            "Paul J. A. Kenis",
+            "A. Więckowski"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 164,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acscatal.9b04368",
+        "title": "Controlling Speciation during CO<sub>2</sub> Reduction on Cu-Alloy Electrodes",
+        "journal": "ACS Catalysis",
+        "year": 2019,
+        "citations": 162,
+        "authors": "Xinyi Chen, Danielle A. Henckel, Uzoma O. Nwabara et al.",
+        "authors_list": [
+            "Xinyi Chen",
+            "Danielle A. Henckel",
+            "Uzoma O. Nwabara",
+            "Yuanyuan Li",
+            "Anatoly I. Frenkel",
+            "T. T. Fister",
+            "Paul J. A. Kenis",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 162,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ar000062u",
+        "title": "Fabrication inside Microchannels Using Fluid Flow",
+        "journal": "Accounts of Chemical Research",
+        "year": 2000,
+        "citations": 150,
+        "authors": "Paul J. A. Kenis, Rustem F. Ismagilov, Shuichi Takayama et al.",
+        "authors_list": [
+            "Paul J. A. Kenis",
+            "Rustem F. Ismagilov",
+            "Shuichi Takayama",
+            "George M. Whitesides",
+            "Shulong Li",
+            "Henry S. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 150,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/cg900830y",
+        "title": "A Stochastic Model for Nucleation Kinetics Determination in Droplet-Based Microfluidic Systems",
+        "journal": "Crystal Growth & Design",
+        "year": 2010,
+        "citations": 144,
+        "authors": "Limay Goh, Kejia Chen, Venkateswarlu Bhamidi et al.",
+        "authors_list": [
+            "Limay Goh",
+            "Kejia Chen",
+            "Venkateswarlu Bhamidi",
+            "Guangwen He",
+            "Nicholas C. S. Kee",
+            "Paul J. A. Kenis",
+            "Charles F. Zukoski",
+            "Richard D. Braatz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 144,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/celc.202000089",
+        "title": "System Design Rules for Intensifying the Electrochemical Reduction of CO<sub>2</sub> to CO on Ag Nanoparticles",
+        "journal": "ChemElectroChem",
+        "year": 2020,
+        "citations": 139,
+        "authors": "Saket Bhargava, Federica Proietto, Daniel Azmoodeh et al.",
+        "authors_list": [
+            "Saket Bhargava",
+            "Federica Proietto",
+            "Daniel Azmoodeh",
+            "Emiliana R. Cofell",
+            "Danielle A. Henckel",
+            "Sumit Verma",
+            "Christopher Brooks",
+            "Andrew A. Gewirth",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 139,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.bios.2013.04.046",
+        "title": "A multiplexed microfluidic platform for rapid antibiotic susceptibility testing",
+        "journal": "Biosensors and Bioelectronics",
+        "year": 2013,
+        "citations": 138,
+        "authors": "Ritika Mohan, Arnab Mukherjee, Selami E. Sevgen et al.",
+        "authors_list": [
+            "Ritika Mohan",
+            "Arnab Mukherjee",
+            "Selami E. Sevgen",
+            "Chotitath Sanpitakseree",
+            "Jaebum Lee",
+            "Charles M. Schroeder",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 138,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/b609289f",
+        "title": "Active control of the depletion boundary layers in microfluidic electrochemical reactors",
+        "journal": "Lab on a Chip",
+        "year": 2006,
+        "citations": 135,
+        "authors": "Seong Kee Yoon, Geoff W. Fichtl, Paul J. A. Kenis",
+        "authors_list": [
+            "Seong Kee Yoon",
+            "Geoff W. Fichtl",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 135,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adfm.200500038",
+        "title": "Tailored Macroporous SiCN and SiC Structures for High‐Temperature Fuel Reforming",
+        "journal": "Advanced Functional Materials",
+        "year": 2005,
+        "citations": 132,
+        "authors": "In Kyung Sung, Christian, M. R. Mitchell et al.",
+        "authors_list": [
+            "In Kyung Sung",
+            "Christian",
+            "M. R. Mitchell",
+            "Dong‐pyo Kim",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 132,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.energyfuels.6b00665",
+        "title": "Greenhouse Gas Emissions, Energy Efficiency, and Cost of Synthetic Fuel Production Using Electrochemical CO<sub>2</sub> Conversion and the Fischer–Tropsch Process",
+        "journal": "Energy & Fuels",
+        "year": 2016,
+        "citations": 129,
+        "authors": "Xuping Li, Paul Anderson, Huei-Ru Molly Jhong et al.",
+        "authors_list": [
+            "Xuping Li",
+            "Paul Anderson",
+            "Huei-Ru Molly Jhong",
+            "Mark Paster",
+            "James F. Stubbins",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 129,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsaem.0c01282",
+        "title": "Selective Electrooxidation of Glycerol to Formic Acid over Carbon Supported Ni<sub>1–<i>x</i></sub>M<sub><i>x</i></sub>(M = Bi, Pd, and Au) Nanocatalysts and Coelectrolysis of CO<sub>2</sub>",
+        "journal": "ACS Applied Energy Materials",
+        "year": 2020,
+        "citations": 128,
+        "authors": "Mohamed S.E. Houache, Reza Safari, Uzoma O. Nwabara et al.",
+        "authors_list": [
+            "Mohamed S.E. Houache",
+            "Reza Safari",
+            "Uzoma O. Nwabara",
+            "Thibault Rafaïdeen",
+            "Gianluigi A. Botton",
+            "Paul J. A. Kenis",
+            "Stéve Baranton",
+            "Christophe Coutanceau",
+            "Elena A. Baranova"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/cssc.201600843",
+        "title": "A Nitrogen‐Doped Carbon Catalyst for Electrochemical CO<sub>2</sub> Conversion to CO with High Selectivity and Current Density",
+        "journal": "ChemSusChem",
+        "year": 2016,
+        "citations": 127,
+        "authors": "Huei‐Ru “Molly” Jhong, Claire E. Tornow, Břetislav Šmíd et al.",
+        "authors_list": [
+            "Huei‐Ru “Molly” Jhong",
+            "Claire E. Tornow",
+            "Břetislav Šmíd",
+            "Andrew A. Gewirth",
+            "Stephen Matthew Lyth",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 127,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cssc.201600843"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ac010502a",
+        "title": "Microfluidic Arrays of Fluid−Fluid Diffusional Contacts as Detection Elements and Combinatorial Tools",
+        "journal": "Analytical Chemistry",
+        "year": 2001,
+        "citations": 126,
+        "authors": "Rustem F. Ismagilov, Jessamine M. K. Ng, Paul J. A. Kenis et al.",
+        "authors_list": [
+            "Rustem F. Ismagilov",
+            "Jessamine M. K. Ng",
+            "Paul J. A. Kenis",
+            "George M. Whitesides"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 126,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la0531493",
+        "title": "Cell Migration and Polarity on Microfabricated Gradients of Extracellular Matrix Proteins",
+        "journal": "Langmuir",
+        "year": 2006,
+        "citations": 125,
+        "authors": "Rico C. Gunawan, Jonathan Silvestre, H. Rex Gaskins et al.",
+        "authors_list": [
+            "Rico C. Gunawan",
+            "Jonathan Silvestre",
+            "H. Rex Gaskins",
+            "Paul J. A. Kenis",
+            "Deborah Leckband"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 125,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c8ta01367e",
+        "title": "High efficiency electrochemical reduction of CO <sub>2</sub> beyond the two-electron transfer pathway on grain boundary rich ultra-small SnO <sub>2</sub> nanoparticles",
+        "journal": "Journal of Materials Chemistry A",
+        "year": 2018,
+        "citations": 123,
+        "authors": "Chenglu Liang, Byoungsu Kim, Shize Yang et al.",
+        "authors_list": [
+            "Chenglu Liang",
+            "Byoungsu Kim",
+            "Shize Yang",
+            "Yang Liu",
+            "Cristiano F. Woellner",
+            "Zhengyuan Li",
+            "Róbert Vajtai",
+            "Wei Yang",
+            "Jingjie Wu",
+            "Paul J. A. Kenis",
+            "Pulickel M. Ajayan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 123,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/1.1921131",
+        "title": "Characterization of Limiting Factors in Laminar Flow-Based Membraneless Microfuel Cells",
+        "journal": "Electrochemical and Solid-State Letters",
+        "year": 2005,
+        "citations": 122,
+        "authors": "Eric R. Choban, P. Waszczuk, Paul J. A. Kenis",
+        "authors_list": [
+            "Eric R. Choban",
+            "P. Waszczuk",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 122,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/1.2185836",
+        "title": "Air-Breathing Laminar Flow-Based Direct Methanol Fuel Cell with Alkaline Electrolyte",
+        "journal": "Electrochemical and Solid-State Letters",
+        "year": 2006,
+        "citations": 119,
+        "authors": "Ranga S. Jayashree, Daniela Egas, Jacob S. Spendelow et al.",
+        "authors_list": [
+            "Ranga S. Jayashree",
+            "Daniela Egas",
+            "Jacob S. Spendelow",
+            "Dilip Natarajan",
+            "Larry J. Markoski",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 119,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1149/1.2185836/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adhm.201300263",
+        "title": "Microfluidic Generation of Gradient Hydrogels to Modulate Hematopoietic Stem Cell Culture Environment",
+        "journal": "Advanced Healthcare Materials",
+        "year": 2013,
+        "citations": 115,
+        "authors": "Bhushan Mahadik, Tobias D. Wheeler, Luke J. Skertich et al.",
+        "authors_list": [
+            "Bhushan Mahadik",
+            "Tobias D. Wheeler",
+            "Luke J. Skertich",
+            "Paul J. A. Kenis",
+            "Brendan A.C. Harley"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 115,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.snb.2004.12.050",
+        "title": "Microfabrication and characterization of a silicon-based millimeter scale, PEM fuel cell operating with hydrogen, methanol, or formic acid",
+        "journal": "Sensors and Actuators B Chemical",
+        "year": 2005,
+        "citations": 113,
+        "authors": "Junghoon Yeom, G. Z. Mozsgai, Bruce R. Flachsbart et al.",
+        "authors_list": [
+            "Junghoon Yeom",
+            "G. Z. Mozsgai",
+            "Bruce R. Flachsbart",
+            "Eric R. Choban",
+            "Amit Asthana",
+            "Mark A. Shannon",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 113,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsaem.1c00715",
+        "title": "Binder-Focused Approaches to Improve the Stability of Cathodes for CO<sub>2</sub> Electroreduction",
+        "journal": "ACS Applied Energy Materials",
+        "year": 2021,
+        "citations": 109,
+        "authors": "Uzoma O. Nwabara, Anthony Hernandez, Danielle A. Henckel et al.",
+        "authors_list": [
+            "Uzoma O. Nwabara",
+            "Anthony Hernandez",
+            "Danielle A. Henckel",
+            "Xinyi Chen",
+            "Emiliana R. Cofell",
+            "Michiel P. de-Heer",
+            "Sumit Verma",
+            "Andrew A. Gewirth",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.tibtech.2014.09.006",
+        "title": "Methods to study the tumor microenvironment under controlled oxygen conditions",
+        "journal": "Trends in biotechnology",
+        "year": 2014,
+        "citations": 109,
+        "authors": "Matthew B. Byrne, Matthew T. Leslie, H. Rex Gaskins et al.",
+        "authors_list": [
+            "Matthew B. Byrne",
+            "Matthew T. Leslie",
+            "H. Rex Gaskins",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S0167779914001863/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/cg0602515",
+        "title": "Direct Growth of γ-Glycine from Neutral Aqueous Solutions by Slow, Evaporation-Driven Crystallization",
+        "journal": "Crystal Growth & Design",
+        "year": 2006,
+        "citations": 105,
+        "authors": "Guangwen He, Venkateswarlu Bhamidi, Scott R. Wilson et al.",
+        "authors_list": [
+            "Guangwen He",
+            "Venkateswarlu Bhamidi",
+            "Scott R. Wilson",
+            "Reginald B. H. Tan",
+            "Paul J. A. Kenis",
+            "Charles F. Zukoski"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jpowsour.2009.12.063",
+        "title": "Nanoporous separator and low fuel concentration to minimize crossover in direct methanol laminar flow fuel cells",
+        "journal": "Journal of Power Sources",
+        "year": 2009,
+        "citations": 96,
+        "authors": "Adam S Hollinger, Ryan Maloney, Ranga S. Jayashree et al.",
+        "authors_list": [
+            "Adam S Hollinger",
+            "Ryan Maloney",
+            "Ranga S. Jayashree",
+            "D. Natarajan",
+            "Larry J. Markoski",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/2.1021414jes",
+        "title": "Modeling and Experimental Validation of Electrochemical Reduction of CO<sub>2</sub>to CO in a Microfluidic Cell",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 2014,
+        "citations": 96,
+        "authors": "K K Wu, Erik Birgersson, Byoungsu Kim et al.",
+        "authors_list": [
+            "K K Wu",
+            "Erik Birgersson",
+            "Byoungsu Kim",
+            "Paul J. A. Kenis",
+            "Iftekhar A. Karimi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1149/2.1021414jes/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ac010374q",
+        "title": "Pressure-Driven Laminar Flow in Tangential Microchannels:  an Elastomeric Microfluidic Switch",
+        "journal": "Analytical Chemistry",
+        "year": 2001,
+        "citations": 96,
+        "authors": "Rustem F. Ismagilov, David H. Rosmarin, Paul J. A. Kenis et al.",
+        "authors_list": [
+            "Rustem F. Ismagilov",
+            "David H. Rosmarin",
+            "Paul J. A. Kenis",
+            "Daniel T. Chiu",
+            "Wendy Zhang",
+            "Howard A. Stone",
+            "George M. Whitesides"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.electacta.2009.07.011",
+        "title": "Investigation of fuel and media flexible laminar flow-based fuel cells",
+        "journal": "Electrochimica Acta",
+        "year": 2009,
+        "citations": 95,
+        "authors": "Fikile R. Brushett, Ranga S. Jayashree, Wei-Ping Zhou et al.",
+        "authors_list": [
+            "Fikile R. Brushett",
+            "Ranga S. Jayashree",
+            "Wei-Ping Zhou",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jpowsour.2010.09.114",
+        "title": "Carbonate resilience of flowing electrolyte-based alkaline fuel cells",
+        "journal": "Journal of Power Sources",
+        "year": 2010,
+        "citations": 91,
+        "authors": "Matt S. Naughton, Fikile R. Brushett, Paul J. A. Kenis",
+        "authors_list": [
+            "Matt S. Naughton",
+            "Fikile R. Brushett",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 91,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/anie.200501799",
+        "title": "In Situ Deposition and Patterning of Single‐Walled Carbon Nanotubes by Laminar Flow and Controlled Flocculation in Microfluidic Channels",
+        "journal": "Angewandte Chemie International Edition",
+        "year": 2005,
+        "citations": 90,
+        "authors": "Jang‐Ung Park, Matthew Meitl, Seung Hyun Hur et al.",
+        "authors_list": [
+            "Jang‐Ung Park",
+            "Matthew Meitl",
+            "Seung Hyun Hur",
+            "Monica Lee Usrey",
+            "Michael S. Strano",
+            "Paul J. A. Kenis",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la063673p",
+        "title": "Microfluidic Hydrogen Fuel Cell with a Liquid Electrolyte",
+        "journal": "Langmuir",
+        "year": 2007,
+        "citations": 89,
+        "authors": "Ranga S. Jayashree, Michael Mitchell, Dilip Natarajan et al.",
+        "authors_list": [
+            "Ranga S. Jayashree",
+            "Michael Mitchell",
+            "Dilip Natarajan",
+            "Larry J. Markoski",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja104767w",
+        "title": "A Carbon-Supported Copper Complex of 3,5-Diamino-1,2,4-triazole as a Cathode Catalyst for Alkaline Fuel Cell Applications",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2010,
+        "citations": 87,
+        "authors": "Fikile R. Brushett, Matthew S. Thorum, Nicholas S. Lioutas et al.",
+        "authors_list": [
+            "Fikile R. Brushett",
+            "Matthew S. Thorum",
+            "Nicholas S. Lioutas",
+            "Matthew S. Naughton",
+            "Claire E. Tornow",
+            "Huei‐Ru “Molly” Jhong",
+            "Andrew A. Gewirth",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1091/mbc.e13-07-0405",
+        "title": "Mammalian target of rapamycin and Rictor control neutrophil chemotaxis by regulating Rac/Cdc42 activity and the actin cytoskeleton",
+        "journal": "Molecular Biology of the Cell",
+        "year": 2013,
+        "citations": 86,
+        "authors": "Yuan He, Dong Li, Sara L. Cook et al.",
+        "authors_list": [
+            "Yuan He",
+            "Dong Li",
+            "Sara L. Cook",
+            "Mee‐Sup Yoon",
+            "Ashish Kapoor",
+            "Christopher V. Rao",
+            "Paul J. A. Kenis",
+            "Jie Chen",
+            "Fei Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3814157"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/2.1201410jes",
+        "title": "Efficient Electrochemical Flow System with Improved Anode for the Conversion of CO<sub>2</sub>to CO",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 2014,
+        "citations": 85,
+        "authors": "Sichao Ma, Raymond Luo, Saman Moniri et al.",
+        "authors_list": [
+            "Sichao Ma",
+            "Raymond Luo",
+            "Saman Moniri",
+            "Yangchun Lan",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 85,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1149/2.1201410jes/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la030054x",
+        "title": "Solving Mazes Using Microfluidic Networks",
+        "journal": "Langmuir",
+        "year": 2003,
+        "citations": 83,
+        "authors": "Michael J. Fuerstman, Pascal Deschatelets, Ravi S. Kane et al.",
+        "authors_list": [
+            "Michael J. Fuerstman",
+            "Pascal Deschatelets",
+            "Ravi S. Kane",
+            "Alexander Schwartz",
+            "Paul J. A. Kenis",
+            "J. M. Deutch",
+            "George M. Whitesides"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 83,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsenergylett.3c01623",
+        "title": "Trends in Electrocatalysis: The Microenvironment Moves to Center Stage",
+        "journal": "ACS Energy Letters",
+        "year": 2023,
+        "citations": 83,
+        "authors": "Marcel Schreier, Paul J. A. Kenis, Fanglin Che et al.",
+        "authors_list": [
+            "Marcel Schreier",
+            "Paul J. A. Kenis",
+            "Fanglin Che",
+            "Anthony Shoji Hall"
+        ],
+        "type": "other",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 83,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jcat.2006.04.033",
+        "title": "Ceramic microreactors for on-site hydrogen production",
+        "journal": "Journal of Catalysis",
+        "year": 2006,
+        "citations": 82,
+        "authors": "Christian, M. R. Mitchell, D KIM et al.",
+        "authors_list": [
+            "Christian",
+            "M. R. Mitchell",
+            "D KIM",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.actbio.2009.12.047",
+        "title": "Microtopographically patterned surfaces promote the alignment of tenocytes and extracellular collagen",
+        "journal": "Acta Biomaterialia",
+        "year": 2010,
+        "citations": 81,
+        "authors": "Ashish Kapoor, Evelyn Hasegawa Gonçalves Caporali, Paul J. A. Kenis et al.",
+        "authors_list": [
+            "Ashish Kapoor",
+            "Evelyn Hasegawa Gonçalves Caporali",
+            "Paul J. A. Kenis",
+            "Matthew C. Stewart"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jpowsour.2011.01.037",
+        "title": "Design, fabrication, and characterization of a planar, silicon-based, monolithically integrated micro laminar flow fuel cell with a bridge-shaped microchannel cross-section",
+        "journal": "Journal of Power Sources",
+        "year": 2011,
+        "citations": 80,
+        "authors": "Pedro O. Lopez-Montesinos, N. Yossakda, A. Schmidt et al.",
+        "authors_list": [
+            "Pedro O. Lopez-Montesinos",
+            "N. Yossakda",
+            "A. Schmidt",
+            "Fikile R. Brushett",
+            "W.E. Pelton",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/b901999e",
+        "title": "Microfluidic chip for combinatorial mixing and screening of assays",
+        "journal": "Lab on a Chip",
+        "year": 2009,
+        "citations": 79,
+        "authors": "Benjamin Schudel, Charles J. Choi, Brian T. Cunningham et al.",
+        "authors_list": [
+            "Benjamin Schudel",
+            "Charles J. Choi",
+            "Brian T. Cunningham",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 79,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.electacta.2009.03.013",
+        "title": "Ruthenium cluster-like chalcogenide as a methanol tolerant cathode catalyst in air-breathing laminar flow fuel cells",
+        "journal": "Electrochimica Acta",
+        "year": 2009,
+        "citations": 78,
+        "authors": "Devin T. Whipple, Ranga S. Jayashree, Daniela Egas et al.",
+        "authors_list": [
+            "Devin T. Whipple",
+            "Ranga S. Jayashree",
+            "Daniela Egas",
+            "Nicolás Alonso‐Vante",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jpowsour.2006.02.066",
+        "title": "Passive direct formic acid microfabricated fuel cells",
+        "journal": "Journal of Power Sources",
+        "year": 2006,
+        "citations": 74,
+        "authors": "Junghoon Yeom, Ranga S. Jayashree, Chandan Rastogi et al.",
+        "authors_list": [
+            "Junghoon Yeom",
+            "Ranga S. Jayashree",
+            "Chandan Rastogi",
+            "Mark A. Shannon",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/1.3083226",
+        "title": "Alkaline Microfluidic Hydrogen-Oxygen Fuel Cell as a Cathode Characterization Platform",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 2009,
+        "citations": 74,
+        "authors": "Fikile R. Brushett, Wei-Ping Zhou, Ranga S. Jayashree et al.",
+        "authors_list": [
+            "Fikile R. Brushett",
+            "Wei-Ping Zhou",
+            "Ranga S. Jayashree",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1149/1.3083226/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.snb.2012.08.048",
+        "title": "Fabrication of X-ray compatible microfluidic platforms for protein crystallization",
+        "journal": "Sensors and Actuators B Chemical",
+        "year": 2012,
+        "citations": 71,
+        "authors": "Sudipto Guha, Sarah L. Perry, Ashtamurthy S. Pawate et al.",
+        "authors_list": [
+            "Sudipto Guha",
+            "Sarah L. Perry",
+            "Ashtamurthy S. Pawate",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3480190"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/cphc.201700815",
+        "title": "Gold Nanoparticles on Polymer‐Wrapped Carbon Nanotubes: An Efficient and Selective Catalyst for the Electroreduction of CO<sub>2</sub>",
+        "journal": "ChemPhysChem",
+        "year": 2017,
+        "citations": 71,
+        "authors": "Huei‐Ru “Molly” Jhong, Claire E. Tornow, Chaerin Kim et al.",
+        "authors_list": [
+            "Huei‐Ru “Molly” Jhong",
+            "Claire E. Tornow",
+            "Chaerin Kim",
+            "Sumit Verma",
+            "Justin L. Oberst",
+            "Paul Anderson",
+            "Andrew A. Gewirth",
+            "Tsuyohiko Fujigaya",
+            "Naotoshi Nakashima",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cphc.201700815"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adfm.202101668",
+        "title": "Engineering Silver‐Enriched Copper Core‐Shell Electrocatalysts to Enhance the Production of Ethylene and C<sub>2+</sub> Chemicals from Carbon Dioxide at Low Cell Potentials",
+        "journal": "Advanced Functional Materials",
+        "year": 2021,
+        "citations": 69,
+        "authors": "Andrew N. Kuhn, Haidong Zhao, Uzoma O. Nwabara et al.",
+        "authors_list": [
+            "Andrew N. Kuhn",
+            "Haidong Zhao",
+            "Uzoma O. Nwabara",
+            "Xiaofei Lü",
+            "Mingyan Liu",
+            "Yung‐Tin Pan",
+            "Wenjin Zhu",
+            "Paul J. A. Kenis",
+            "Hong Yang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la0615995",
+        "title": "Methanol Dehydrogenation and Oxidation on Pt(111) in Alkaline Solutions",
+        "journal": "Langmuir",
+        "year": 2006,
+        "citations": 68,
+        "authors": "Jacob S. Spendelow, Jason D. Goodpaster, Paul J. A. Kenis et al.",
+        "authors_list": [
+            "Jacob S. Spendelow",
+            "Jason D. Goodpaster",
+            "Paul J. A. Kenis",
+            "Andrzej Więckowski"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la051369a",
+        "title": "Simple Methods for the Direct Assembly, Functionalization, and Patterning of Acid-Terminated Monolayers on Si(111)",
+        "journal": "Langmuir",
+        "year": 2005,
+        "citations": 66,
+        "authors": "Mathew Perring, Samrat Dutta, Samer N. Arafat et al.",
+        "authors_list": [
+            "Mathew Perring",
+            "Samrat Dutta",
+            "Samer N. Arafat",
+            "Michael Mitchell",
+            "Paul J. A. Kenis",
+            "Ned B. Bowden"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja980791t",
+        "title": "Second-Order Nonlinear Optical Properties of the Four Tetranitrotetrapropoxycalix[4]arene Conformers",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1998,
+        "citations": 65,
+        "authors": "Paul J. A. Kenis, O.F.J. Noordman, Stephan Houbrechts et al.",
+        "authors_list": [
+            "Paul J. A. Kenis",
+            "O.F.J. Noordman",
+            "Stephan Houbrechts",
+            "G. J. VAN HUMMEL",
+            "Sybolt Harkema",
+            "Frank C. J. M. van Veggel",
+            "Koen Clays",
+            "Johan F. J. Engbersen",
+            "André Persoons",
+            "N.F. van Hulst",
+            "David N. Reinhoudt"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.snb.2011.09.051",
+        "title": "Design considerations for elastomeric normally closed microfluidic valves",
+        "journal": "Sensors and Actuators B Chemical",
+        "year": 2011,
+        "citations": 64,
+        "authors": "Ritika Mohan, Benjamin Schudel, Amit V. Desai et al.",
+        "authors_list": [
+            "Ritika Mohan",
+            "Benjamin Schudel",
+            "Amit V. Desai",
+            "Joshua D. Yearsley",
+            "Christopher A. Apblett",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja052613n",
+        "title": "Laminar Flow-Based Electrochemical Microreactor for Efficient Regeneration of Nicotinamide Cofactors for Biocatalysis",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2005,
+        "citations": 64,
+        "authors": "Seong Kee Yoon, Eric R. Choban, Cheikhou Kane et al.",
+        "authors_list": [
+            "Seong Kee Yoon",
+            "Eric R. Choban",
+            "Cheikhou Kane",
+            "Théodore Tzedakis",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/anie.201611195",
+        "title": "Elasticity in Macrophage‐Synthesized Biocrystals",
+        "journal": "Angewandte Chemie International Edition",
+        "year": 2017,
+        "citations": 60,
+        "authors": "Elizabeth M. Horstman, Rahul K. Keswani, Benjamin Frey et al.",
+        "authors_list": [
+            "Elizabeth M. Horstman",
+            "Rahul K. Keswani",
+            "Benjamin Frey",
+            "Phillip Rzeczycki",
+            "Vernon LaLone",
+            "Jeffery A. Bertke",
+            "Paul J. A. Kenis",
+            "Gus R. Rosania"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://hdl.handle.net/2027.42/135964"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/cg050681f",
+        "title": "Determination of Critical Supersaturation from Microdroplet Evaporation Experiments",
+        "journal": "Crystal Growth & Design",
+        "year": 2006,
+        "citations": 60,
+        "authors": "Guangwen He, Venkateswarlu Bhamidi, Reginald B. H. Tan et al.",
+        "authors_list": [
+            "Guangwen He",
+            "Venkateswarlu Bhamidi",
+            "Reginald B. H. Tan",
+            "Paul J. A. Kenis",
+            "Charles F. Zukoski"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3181/0707-rm-192",
+        "title": "Engineering Redox-Sensitive Linkers for Genetically Encoded FRET-Based Biosensors",
+        "journal": "Experimental Biology and Medicine",
+        "year": 2008,
+        "citations": 59,
+        "authors": "Vladimir L. Kolossov, Bryan Q. Spring, Anna Sokolowski et al.",
+        "authors_list": [
+            "Vladimir L. Kolossov",
+            "Bryan Q. Spring",
+            "Anna Sokolowski",
+            "John E. Conour",
+            "Robert M. Clegg",
+            "Paul J. A. Kenis",
+            "H. Rex Gaskins"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/d0ta08695a",
+        "title": "Towards accelerated durability testing protocols for CO <sub>2</sub> electrolysis",
+        "journal": "Journal of Materials Chemistry A",
+        "year": 2020,
+        "citations": 58,
+        "authors": "Uzoma O. Nwabara, M. P. de Heer, Emiliana R. Cofell et al.",
+        "authors_list": [
+            "Uzoma O. Nwabara",
+            "M. P. de Heer",
+            "Emiliana R. Cofell",
+            "Sumit Verma",
+            "Emanuela Negro",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.apenergy.2015.11.078",
+        "title": "Comprehensive energy analysis of a photovoltaic thermal water electrolyzer",
+        "journal": "Applied Energy",
+        "year": 2015,
+        "citations": 56,
+        "authors": "Muhammed Enes Oruc, Amit V. Desai, Paul J. A. Kenis et al.",
+        "authors_list": [
+            "Muhammed Enes Oruc",
+            "Amit V. Desai",
+            "Paul J. A. Kenis",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1476947"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijhydene.2011.10.078",
+        "title": "Analysis of Pt/C electrode performance in a flowing-electrolyte alkaline fuel cell",
+        "journal": "International Journal of Hydrogen Energy",
+        "year": 2011,
+        "citations": 55,
+        "authors": "Fikile R. Brushett, Matthew S. Naughton, Jia Wei Desmond Ng et al.",
+        "authors_list": [
+            "Fikile R. Brushett",
+            "Matthew S. Naughton",
+            "Jia Wei Desmond Ng",
+            "Leilei Yin",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1107/s0021889805031572",
+        "title": "Screening and optimization of protein crystallization conditions through gradual evaporation using a novel crystallization platform",
+        "journal": "Journal of Applied Crystallography",
+        "year": 2005,
+        "citations": 54,
+        "authors": "Sameer Talreja, David Y. Kim, Amir Y. Mirarefi et al.",
+        "authors_list": [
+            "Sameer Talreja",
+            "David Y. Kim",
+            "Amir Y. Mirarefi",
+            "Charles F. Zukoski",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c5ra04092b",
+        "title": "A microfluidic approach to study the effect of bacterial interactions on antimicrobial susceptibility in polymicrobial cultures",
+        "journal": "RSC Advances",
+        "year": 2015,
+        "citations": 50,
+        "authors": "Ritika Mohan, Chotitath Sanpitakseree, Amit Desai et al.",
+        "authors_list": [
+            "Ritika Mohan",
+            "Chotitath Sanpitakseree",
+            "Amit Desai",
+            "Selami E. Sevgen",
+            "Charles M. Schroeder",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jpowsour.2012.06.061",
+        "title": "Design rules for electrode arrangement in an air-breathing alkaline direct methanol laminar flow fuel cell",
+        "journal": "Journal of Power Sources",
+        "year": 2012,
+        "citations": 50,
+        "authors": "Michael R. Thorson, Fikile R. Brushett, Chris J. Timberg et al.",
+        "authors_list": [
+            "Michael R. Thorson",
+            "Fikile R. Brushett",
+            "Chris J. Timberg",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/cg900289d",
+        "title": "Microfluidic Generation of Lipidic Mesophases for Membrane Protein Crystallization",
+        "journal": "Crystal Growth & Design",
+        "year": 2009,
+        "citations": 49,
+        "authors": "Sarah L. Perry, Griffin W. Roberts, Joshua D. Tice et al.",
+        "authors_list": [
+            "Sarah L. Perry",
+            "Griffin W. Roberts",
+            "Joshua D. Tice",
+            "Robert B. Gennis",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2721472"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/1.2792335",
+        "title": "The Role of Surface Defects in CO Oxidation, Methanol Oxidation, and Oxygen Reduction on Pt(111)",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 2007,
+        "citations": 49,
+        "authors": "Jacob S. Spendelow, Qin‐Qin Xu, Jason D. Goodpaster et al.",
+        "authors_list": [
+            "Jacob S. Spendelow",
+            "Qin‐Qin Xu",
+            "Jason D. Goodpaster",
+            "Paul J. A. Kenis",
+            "Andrzej Więckowski"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1149/1.2792335/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/b508680a",
+        "title": "Gravity-induced reorientation of the interface between two liquids of different densities flowing laminarly through a microchannel",
+        "journal": "Lab on a Chip",
+        "year": 2005,
+        "citations": 48,
+        "authors": "Seong Kee Yoon, Michael Mitchell, Eric R. Choban et al.",
+        "authors_list": [
+            "Seong Kee Yoon",
+            "Michael Mitchell",
+            "Eric R. Choban",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/b607552e",
+        "title": "Ceramic microreactors for on-site hydrogen production from high temperature steam reforming of propane",
+        "journal": "Lab on a Chip",
+        "year": 2006,
+        "citations": 47,
+        "authors": "Christian Christian, Michael Mitchell, Paul J. A. Kenis",
+        "authors_list": [
+            "Christian Christian",
+            "Michael Mitchell",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c3lc50276g",
+        "title": "A microfluidic approach for protein structure determination at room temperature via on-chip anomalous diffraction",
+        "journal": "Lab on a Chip",
+        "year": 2013,
+        "citations": 47,
+        "authors": "Sarah L. Perry, Sudipto Guha, Ashtamurthy S. Pawate et al.",
+        "authors_list": [
+            "Sarah L. Perry",
+            "Sudipto Guha",
+            "Ashtamurthy S. Pawate",
+            "Amrit Bhaskarla",
+            "Vinayak Agarwal",
+            "Satish K. Nair",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3755953"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/2.033203jes",
+        "title": "Combining Structural and Electrochemical Analysis of Electrodes Using Micro-Computed Tomography and a Microfluidic Fuel Cell",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 2012,
+        "citations": 46,
+        "authors": "Huei‐Ru “Molly” Jhong, Fikile R. Brushett, Leilei Yin et al.",
+        "authors_list": [
+            "Huei‐Ru “Molly” Jhong",
+            "Fikile R. Brushett",
+            "Leilei Yin",
+            "Darren M. Stevenson",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 46,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1149/2.033203jes/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1021/jacs.6b10740",
+        "title": "Electroreduction of Carbon Dioxide to Hydrocarbons Using Bimetallic Cu–Pd Catalysts with Different Mixing Patterns",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2017,
+        "citations": 836,
+        "authors": "Sichao Ma, Masaaki Sadakiyo, Minako Heima et al.",
+        "authors_list": [
+            "Sichao Ma",
+            "Masaaki Sadakiyo",
+            "Minako Heima",
+            "Raymond Luo",
+            "Richard T. Haasch",
+            "Jake I. Gold",
+            "Miho Yamauchi",
+            "Paul J. A. Kenis"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 836
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.acs.org/doi/pdf/10.1021/jacs.6b10740"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.coche.2013.03.005",
+        "title": "Electrochemical conversion of CO2 to useful chemicals: current status, remaining challenges, and future opportunities",
+        "journal": "Current Opinion in Chemical Engineering",
+        "year": 2013,
+        "citations": 778,
+        "authors": "Huei-Ru “Molly” Jhong, Sichao Ma, Paul JA Kenis",
+        "authors_list": [
+            "Huei-Ru “Molly” Jhong",
+            "Sichao Ma",
+            "Paul JA Kenis"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 778
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/s41929-020-00547-0",
+        "title": "Electrochemical CO2-to-ethylene conversion on polyamine-incorporated Cu electrodes",
+        "journal": "Nature Catalysis",
+        "year": null,
+        "citations": 619,
+        "authors": "Xinyi Chen, Junfeng Chen, Nawal M. Alghoraibi et al.",
+        "authors_list": [
+            "Xinyi Chen",
+            "Junfeng Chen",
+            "Nawal M. Alghoraibi",
+            "Danielle A. Henckel",
+            "Ruixian Zhang",
+            "Uzoma O. Nwabara",
+            "Kenneth E. Madsen",
+            "Paul J. A. Kenis",
+            "Steven C. Zimmerman",
+            "Andrew A. Gewirth"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 619
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1021/acsenergylett.7b01096",
+        "title": "Insights into the Low Overpotential Electroreduction of CO<sub>2</sub> to CO on a Supported Gold Catalyst in an Alkaline Flow Electrolyzer",
+        "journal": "ACS Energy Letters",
+        "year": 2018,
+        "citations": 506,
+        "authors": "Sumit Verma, Yuki Hamasaki, Chaerin Kim et al.",
+        "authors_list": [
+            "Sumit Verma",
+            "Yuki Hamasaki",
+            "Chaerin Kim",
+            "Wenxin Huang",
+            "Shawn Lu",
+            "Huei-Ru Molly Jhong",
+            "Andrew A. Gewirth",
+            "Tsuyohiko Fujigaya",
+            "Naotoshi Nakashima",
+            "Paul J. A. Kenis"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 506
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1039/c5cp05665a",
+        "title": "The effect of electrolyte composition on the electroreduction of CO\n                    <sub>2</sub>\n                    to CO on Ag based gas diffusion electrodes",
+        "journal": "Physical Chemistry Chemical Physics",
+        "year": null,
+        "citations": 480,
+        "authors": "Sumit Verma, Xun Lu, Sichao Ma et al.",
+        "authors_list": [
+            "Sumit Verma",
+            "Xun Lu",
+            "Sichao Ma",
+            "Richard I. Masel",
+            "Paul J. A. Kenis"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 480
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1021/jp310509z",
+        "title": "Nanoparticle Silver Catalysts That Show Enhanced Activity for Carbon Dioxide Electrolysis",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2013,
+        "citations": 422,
+        "authors": "Amin Salehi-Khojin, Huei-Ru Molly Jhong, Brian A. Rosen et al.",
+        "authors_list": [
+            "Amin Salehi-Khojin",
+            "Huei-Ru Molly Jhong",
+            "Brian A. Rosen",
+            "Wei Zhu",
+            "Sichao Ma",
+            "Paul J. A. Kenis",
+            "Richard I. Masel"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 422
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1149/2.052301jes",
+        "title": "Effect of Cations on the Electrochemical Conversion of CO<sub>2</sub>to CO",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 2013,
+        "citations": 343,
+        "authors": "Michael R. Thorson, Karl I. Siil, Paul J. A. Kenis",
+        "authors_list": [
+            "Michael R. Thorson",
+            "Karl I. Siil",
+            "Paul J. A. Kenis"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 343
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1149/2.052301jes/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.84.3314",
+        "title": "Patterning Electro-osmotic Flow with Patterned Surface Charge",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 297,
+        "authors": "Abraham D. Stroock, Marcus Weck, Daniel T. Chiu et al.",
+        "authors_list": [
+            "Abraham D. Stroock",
+            "Marcus Weck",
+            "Daniel T. Chiu",
+            "Wilhelm T. S. Huck",
+            "Paul J. A. Kenis",
+            "Rustem F. Ismagilov",
+            "George M. Whitesides"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 297
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.electacta.2005.03.019",
+        "title": "Membraneless laminar flow-based micro fuel cells operating in alkaline, acidic, and acidic/alkaline media",
+        "journal": "Electrochimica Acta",
+        "year": 2005,
+        "citations": 203,
+        "authors": "E.R. Choban, J.S. Spendelow, L. Gancs et al.",
+        "authors_list": [
+            "E.R. Choban",
+            "J.S. Spendelow",
+            "L. Gancs",
+            "A. Wieckowski",
+            "P.J.A. Kenis"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 203
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1039/c6ta00427j",
+        "title": "Carbon nanotube containing Ag catalyst layers for efficient and selective reduction of carbon dioxide",
+        "journal": "Journal of Materials Chemistry A",
+        "year": null,
+        "citations": 198,
+        "authors": "Sichao Ma, Raymond Luo, Jake I. Gold et al.",
+        "authors_list": [
+            "Sichao Ma",
+            "Raymond Luo",
+            "Jake I. Gold",
+            "Aaron Z. Yu",
+            "Byoungsu Kim",
+            "Paul J. A. Kenis"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 198
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

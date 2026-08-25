@@ -1,0 +1,51 @@
+[
+    {
+        "url": "https://scholar.google.com/citations?user=OaID6ZIAAAAJ&hl=en",
+        "snippet": "Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019. T ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is a Google Scholar citations page, indicating the author's publication history."
+    },
+    {
+        "url": "https://academic.oup.com/jamiaopen/article/7/4/ooae112/7862657",
+        "snippet": "Karen M Tabb, PhD ,. Karen M Tabb, PhD. University of Illinois Urbana-Champaign. , Urbana, IL 61801,. United States. Search for other works by ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL points to an academic publication in a journal, and the snippet displays author information and affiliations, typical of an academic article."
+    },
+    {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11556184/",
+        "snippet": "1, Karen M Tabb. Karen M Tabb. 4School of Social Work, University of ... conference papers and manuscripts in peer-reviewed journals.",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL points to a PMC (PubMed Central) article and the snippet mentions conference papers and peer-reviewed journals, indicating it's a research publication."
+    },
+    {
+        "url": "https://experts.illinois.edu/en/persons/karen-m-tabb/",
+        "snippet": "She is an expert collaborator (in the areas of diabetes, mental health, maternal health, and North America) for the Global Burden of Disease Study where she ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The snippet appears to be a biographical description of an expert, likely from a publication or academic website."
+    },
+    {
+        "url": "https://www.sciencedirect.com/author/51162023700/karen-m-tabb",
+        "snippet": "Read articles by Karen M. Tabb on ... Karen M. Tabb authored 49 articles on ScienceDirect ... Global Burden of Disease Study 2021. S.E. Vollset ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "Author's publication history is listed on a scientific database website."
+    },
+    {
+        "url": "https://www.facebook.com/HealthAffairs/posts/in-their-opening-piece-in-the-april-issue-on-perinatal-mental-health-and-wellbei/832306805601893/",
+        "snippet": "... Karen M. Tabb ... A memorable point that came from this presentation: \"Ask women what type of treatment *they* prefer.",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The snippet mentions a specific publication issue and an author, indicating it's a news article discussing a recent event or publication."
+    },
+    {
+        "url": "https://www.facebook.com/socialwork.illinois/posts/an-expo-national-symposium-and-film-screening-are-coming-to-champaignthe-patient/2206133039425714/",
+        "snippet": "The coalition is led by #ILLINOISsocialwork's professor Karen M. Tabb Dina; Education at Illinois' policy professor Wenhao (David) Huang; and Brandon Meline, ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The post is from a university's social work Facebook page announcing an upcoming event."
+    }
+]

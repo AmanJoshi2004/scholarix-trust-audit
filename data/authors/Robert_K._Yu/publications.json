@@ -1,0 +1,3179 @@
+[
+    {
+        "doi": "https://doi.org/10.1016/0076-6879(82)83012-7",
+        "title": "[10] Gangliosides: Structure, isolation, and analysis",
+        "journal": "Methods in enzymology on CD-ROM/Methods in enzymology",
+        "year": 1982,
+        "citations": 704,
+        "authors": "Robert W. Ledeen, Robert K. Yu",
+        "authors_list": [
+            "Robert W. Ledeen",
+            "Robert K. Yu"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 704,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.1973.tb07527.x",
+        "title": "GANGLIOSIDES OF HUMAN MYELIN: SIALOSYLGALACTOSYLCERAMIDE (G<sub>7</sub>) AS A MAJOR COMPONENT",
+        "journal": "Journal of Neurochemistry",
+        "year": 1973,
+        "citations": 534,
+        "authors": "Robert W. Ledeen, Robert K. Yu, Lawrence F. Eng",
+        "authors_list": [
+            "Robert W. Ledeen",
+            "Robert K. Yu",
+            "Lawrence F. Eng"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 534,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.5650/jos.60.537",
+        "title": "Structures, Biosynthesis, and Functions of Gangliosides-an Overview",
+        "journal": "Journal of Oleo Science",
+        "year": 2011,
+        "citations": 412,
+        "authors": "Robert K. Yu, Yi‐Tzang Tsai, Toshio Ariga et al.",
+        "authors_list": [
+            "Robert K. Yu",
+            "Yi‐Tzang Tsai",
+            "Toshio Ariga",
+            "Makoto Yanagisawa"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 412,
+            "crossref": 356
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.jstage.jst.go.jp/article/jos/60/10/60_10_537/_pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0003-2697(78)90373-1",
+        "title": "High-performance thin-layer chromatography and densitometric determination of brain ganglioside compositions of several species",
+        "journal": "Analytical Biochemistry",
+        "year": 1978,
+        "citations": 397,
+        "authors": "Susumu Ando, Nan-Chen Chang, Robert K. Yu",
+        "authors_list": [
+            "Susumu Ando",
+            "Nan-Chen Chang",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 397,
+            "crossref": 325
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0022-2275(20)39374-3",
+        "title": "Gangliosides of human, bovine, and rabbit plasma",
+        "journal": "Journal of Lipid Research",
+        "year": 1972,
+        "citations": 354,
+        "authors": "Robert K. Yu, Robert W. Ledeen",
+        "authors_list": [
+            "Robert K. Yu",
+            "Robert W. Ledeen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 354,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0022-2275(20)39374-3"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0022-2275(20)37906-2",
+        "title": "Analysis of brain lipids by high performance thin-layer chromatography and densitometry.",
+        "journal": "Journal of Lipid Research",
+        "year": 1983,
+        "citations": 345,
+        "authors": "Lawrence J. Macala, Robert K. Yu, Shinji Ando",
+        "authors_list": [
+            "Lawrence J. Macala",
+            "Robert K. Yu",
+            "Shinji Ando"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 345,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0022-2275(20)37906-2"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0022-2275(20)42933-5",
+        "title": "Gas–liquid chromatographic assay of lipid-bound sialic acids: measurement of gangliosides in brain of several species",
+        "journal": "Journal of Lipid Research",
+        "year": 1970,
+        "citations": 339,
+        "authors": "Robert K. Yu, Robert W. Ledeen",
+        "authors_list": [
+            "Robert K. Yu",
+            "Robert W. Ledeen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 339,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0022-2275(20)42933-5"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1194/jlr.r800007-jlr200",
+        "title": "Thematic Review Series: Sphingolipids. Role of ganglioside metabolism in the pathogenesis of Alzheimer's disease—a review",
+        "journal": "Journal of Lipid Research",
+        "year": 2008,
+        "citations": 310,
+        "authors": "Toshio Ariga, Michael P. McDonald, Robert K. Yu",
+        "authors_list": [
+            "Toshio Ariga",
+            "Michael P. McDonald",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 310,
+            "crossref": 276
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1194/jlr.r800007-jlr200"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.1988.tb02484.x",
+        "title": "Developmental Changes in Ganglioside Composition and Synthesis in Embryonic Rat Brain",
+        "journal": "Journal of Neurochemistry",
+        "year": 1988,
+        "citations": 283,
+        "authors": "Robert K. Yu, Lawrence J. Macala, Takao Taki et al.",
+        "authors_list": [
+            "Robert K. Yu",
+            "Lawrence J. Macala",
+            "Takao Taki",
+            "Henry M. Weinfeld",
+            "Franklin S. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 283,
+            "crossref": 248
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1194/jlr.r800028-jlr200",
+        "title": "The role of glycosphingolipid metabolism in the developing brain",
+        "journal": "Journal of Lipid Research",
+        "year": 2008,
+        "citations": 266,
+        "authors": "Robert K. Yu, Yoshihiko Nakatani, Makoto Yanagisawa",
+        "authors_list": [
+            "Robert K. Yu",
+            "Yoshihiko Nakatani",
+            "Makoto Yanagisawa"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 266,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jlr.org/article/S0022227520306532/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0021-9258(19)75683-x",
+        "title": "Regulation of protein kinase C activity by gangliosides.",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1987,
+        "citations": 247,
+        "authors": "David K. Kreutter, J Y Kim, JR Goldenring et al.",
+        "authors_list": [
+            "David K. Kreutter",
+            "J Y Kim",
+            "JR Goldenring",
+            "H Rasmussen",
+            "Chinweike Ukomadu",
+            "Robert J. DeLorenzo",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 247,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0021-9258(19)75683-x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0300-9084(03)00006-3",
+        "title": "Role of tumor-associated gangliosides in cancer progression",
+        "journal": "Biochimie",
+        "year": 2003,
+        "citations": 236,
+        "authors": "Stéphane Birklé, Guichao Zeng, L. Gao et al.",
+        "authors_list": [
+            "Stéphane Birklé",
+            "Guichao Zeng",
+            "L. Gao",
+            "Robert K. Yu",
+            "Jacques Aubry"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 236,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/bi00280a014",
+        "title": "High-resolution proton NMR studies of gangliosides. 1. Use of homonuclear two-dimensional spin-echo J-correlated spectroscopy for determination of residue composition and anomeric configurations",
+        "journal": "Biochemistry",
+        "year": 1983,
+        "citations": 218,
+        "authors": "Theodore A.W. Koerner, James H. Prestegard, Peter C. Demou et al.",
+        "authors_list": [
+            "Theodore A.W. Koerner",
+            "James H. Prestegard",
+            "Peter C. Demou",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 218,
+            "crossref": 189
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/jvi.70.12.8773-8781.1996",
+        "title": "Transcriptional activation of the interleukin-8 gene by respiratory syncytial virus infection in alveolar epithelial cells: nuclear translocation of the RelA transcription factor as a mechanism producing airway mucosal inflammation",
+        "journal": "Journal of Virology",
+        "year": 1996,
+        "citations": 215,
+        "authors": "Robert Garofalo, May Sabry, M Jamaluddin et al.",
+        "authors_list": [
+            "Robert Garofalo",
+            "May Sabry",
+            "M Jamaluddin",
+            "Robert K. Yu",
+            "Antonella Casola",
+            "P. L. Ogra",
+            "Allan R. Brasier"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 215,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://jvi.asm.org/content/jvi/70/12/8773.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.2007.04910.x",
+        "title": "Developmental changes of glycosphingolipids and expression of glycogenes in mouse brains",
+        "journal": "Journal of Neurochemistry",
+        "year": 2007,
+        "citations": 214,
+        "authors": "Sathaporn Ngamukote, Makoto Yanagisawa, Toshio Ariga et al.",
+        "authors_list": [
+            "Sathaporn Ngamukote",
+            "Makoto Yanagisawa",
+            "Toshio Ariga",
+            "Susumu Ando",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 214,
+            "crossref": 196
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0022-2275(20)40700-x",
+        "title": "Gangliosides of human, cat, and rabbit spinal cords and cord myelin.",
+        "journal": "Journal of Lipid Research",
+        "year": 1978,
+        "citations": 209,
+        "authors": "K. Ueno, S Ando, Robert K. Yu",
+        "authors_list": [
+            "K. Ueno",
+            "S Ando",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 209,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0022-2275(20)40700-x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1212/wnl.36.4.454",
+        "title": "Gangliosides GM1 and GD1b are antigens for IgM M-protein in a patientwith motor neuron disease",
+        "journal": "Neurology",
+        "year": 1986,
+        "citations": 208,
+        "authors": "Lorenza Freddo, Robert K. Yu, N. Latov et al.",
+        "authors_list": [
+            "Lorenza Freddo",
+            "Robert K. Yu",
+            "N. Latov",
+            "P. D. Donofrio",
+            "Arthur P. Hays",
+            "H. S. Greenberg",
+            "James W. Albers",
+            "A G Allessi",
+            "David F. Keren"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 208,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s11064-012-0744-y",
+        "title": "Functional Roles of Gangliosides in Neurodevelopment: An Overview of Recent Advances",
+        "journal": "Neurochemical Research",
+        "year": 2012,
+        "citations": 195,
+        "authors": "Robert K. Yu, Yi‐Tzang Tsai, Toshio Ariga",
+        "authors_list": [
+            "Robert K. Yu",
+            "Yi‐Tzang Tsai",
+            "Toshio Ariga"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 195,
+            "crossref": 178
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0022-2275(20)34198-5",
+        "title": "Role of sphingolipid-mediated cell death in neurodegenerative diseases",
+        "journal": "Journal of Lipid Research",
+        "year": 1998,
+        "citations": 195,
+        "authors": "Toshio Ariga, W. David Jarvis, Robert K. Yu",
+        "authors_list": [
+            "Toshio Ariga",
+            "W. David Jarvis",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 195,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jlr.org/article/S0022227520341985/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0165-5728(84)80017-x",
+        "title": "GD3 ganglioside is a glycolipid characteristic of immature neuroectodermal cells",
+        "journal": "Journal of Neuroimmunology",
+        "year": 1984,
+        "citations": 192,
+        "authors": "James E. Goldman, Michio Hirano, Robert K. Yu et al.",
+        "authors_list": [
+            "James E. Goldman",
+            "Michio Hirano",
+            "Robert K. Yu",
+            "Thomas N. Seyfried"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 192,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1212/wnl.38.5.763",
+        "title": "Monoclonal IgM with unique specificity to gangliosides GM <sub>1</sub> and GD <sub>1b</sub> and to lacto‐ <i>N</i> ‐tetraose associated with human motor neuron disease",
+        "journal": "Neurology",
+        "year": 1988,
+        "citations": 184,
+        "authors": "Norman Latov, Arthur P. Hays, P. D. Donofrio et al.",
+        "authors_list": [
+            "Norman Latov",
+            "Arthur P. Hays",
+            "P. D. Donofrio",
+            "Junpei Ito",
+            "Scott McGinnis",
+            "K. Manoussos",
+            "Lorenza Freddo",
+            "Michael E. Shy",
+            "William H. Sherman",
+            "Hsin Wen Chang",
+            "H. S. Greenberg",
+            "James W. Albers",
+            "Anthony G. Alessi",
+            "David F. Keren",
+            "Robert K. Yu",
+            "Lewis P. Rowland",
+            "Elvin A. Kabat"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 184,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "GD3 vaccines for melanoma: superior immunogenicity of keyhole limpet hemocyanin conjugate vaccines.",
+        "journal": "PubMed",
+        "year": 1994,
+        "citations": 179,
+        "authors": "Friedhelm Helling, A Shang, M J Calves et al.",
+        "authors_list": [
+            "Friedhelm Helling",
+            "A Shang",
+            "M J Calves",
+            "Shengle Zhang",
+            "Shifang Ren",
+            "Robert K. Yu",
+            "H F Oettgen",
+            "P O Livingston"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 179,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0021-9258(17)39945-3",
+        "title": "Isolation and characterization of a novel trisialoganglioside, GT1a, from human brain.",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1977,
+        "citations": 173,
+        "authors": "S Ando, Robert K. Yu",
+        "authors_list": [
+            "S Ando",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 173,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0021-9258(17)39945-3"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.1985.tb08748.x",
+        "title": "Calcium/Ganglioside‐Dependent Protein Kinase Activity in Rat Brain Membrane",
+        "journal": "Journal of Neurochemistry",
+        "year": 1985,
+        "citations": 170,
+        "authors": "James R. Goldenring, Laura C. Otis, Robert K. Yu et al.",
+        "authors_list": [
+            "James R. Goldenring",
+            "Laura C. Otis",
+            "Robert K. Yu",
+            "Robert J. DeLorenzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 170,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1194/jlr.r300020-jlr200",
+        "title": "Regulation of ganglioside biosynthesis in the nervous system",
+        "journal": "Journal of Lipid Research",
+        "year": 2004,
+        "citations": 169,
+        "authors": "Robert K. Yu, Erhard Bieberich, Tian Xia et al.",
+        "authors_list": [
+            "Robert K. Yu",
+            "Erhard Bieberich",
+            "Tian Xia",
+            "Guichao Zeng"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 169,
+            "crossref": 148
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jlr.org/article/S0022227520318186/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0079-6123(08)61938-x",
+        "title": "Chapter 3 Development regulation of ganglioside metabolism",
+        "journal": "Progress in Brain Research",
+        "year": 1994,
+        "citations": 159,
+        "authors": "Robert K. Yu",
+        "authors_list": [
+            "Robert K. Yu"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 159,
+            "crossref": 132
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/glycob/cwp027",
+        "title": "Antiganglioside antibodies and their pathophysiological effects on Guillain-Barre syndrome and related disorders--A review",
+        "journal": "Glycobiology",
+        "year": 2009,
+        "citations": 157,
+        "authors": "K. Kaida, Takuro Ariga, Robert K. Yu",
+        "authors_list": [
+            "K. Kaida",
+            "Takuro Ariga",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 157,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2688390"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0021-9258(19)86453-0",
+        "title": "Isolation and characterization of two isomers of brain tetrasialogangliosides.",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1979,
+        "citations": 150,
+        "authors": "Satomi Ando, Robert K. Yu",
+        "authors_list": [
+            "Satomi Ando",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 150,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0021-9258(19)86453-0"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4684-1200-0",
+        "title": "Ganglioside Structure, Function, and Biomedical Potential",
+        "journal": "Advances in experimental medicine and biology",
+        "year": 1984,
+        "citations": 146,
+        "authors": "Robert W. Ledeen, Robert K. Yu, Maurice M. Rapport et al.",
+        "authors_list": [
+            "Robert W. Ledeen",
+            "Robert K. Yu",
+            "Maurice M. Rapport",
+            "Kunihiko Suzuki"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 146,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0021-9258(18)91844-2",
+        "title": "Configuration of the Ketosidic Bond of Sialic Acid",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1969,
+        "citations": 143,
+        "authors": "Robert K. Yu, Robert W. Ledeen",
+        "authors_list": [
+            "Robert K. Yu",
+            "Robert W. Ledeen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 143,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0021-9258(18)91844-2"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/iai.00967-06",
+        "title": "Ganglioside Molecular Mimicry and Its Pathological Roles in Guillain-Barré Syndrome and Related Diseases",
+        "journal": "Infection and Immunity",
+        "year": 2006,
+        "citations": 143,
+        "authors": "Robert K. Yu, Seigo Usuki, Toshio Ariga",
+        "authors_list": [
+            "Robert K. Yu",
+            "Seigo Usuki",
+            "Toshio Ariga"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 143,
+            "crossref": 120
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iai.asm.org/content/iai/74/12/6517.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.1979.tb00351.x",
+        "title": "STALOSYLGALACTOSYL CERAMTDE AS A SPECIFIC MARKER FOR HUMAN MYELIN AND OLIGODENDROGLIAL PERIKARYA: GANGLIOSIDES OF HUMAN MYELIN, OLIGODENDROGLIA AND NEURONS",
+        "journal": "Journal of Neurochemistry",
+        "year": 1979,
+        "citations": 140,
+        "authors": "Robert K. Yu, Khalid Iqbal",
+        "authors_list": [
+            "Robert K. Yu",
+            "Khalid Iqbal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 140,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/00220345810600100401",
+        "title": "Translucency of Human Dental Enamel",
+        "journal": "Journal of Dental Research",
+        "year": 1981,
+        "citations": 138,
+        "authors": "Robert H.W. Brodbelt, William J. O’Brien, P.L. Fan et al.",
+        "authors_list": [
+            "Robert H.W. Brodbelt",
+            "William J. O’Brien",
+            "P.L. Fan",
+            "J.G. Frazer-Dib",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 138,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://hdl.handle.net/2027.42/68115"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0006-291x(84)91282-8",
+        "title": "Gangliosides of normal and neoplastic human melanocytes",
+        "journal": "Biochemical and Biophysical Research Communications",
+        "year": 1984,
+        "citations": 134,
+        "authors": "John M. Carubia, Robert K. Yu, Larry J. Macala et al.",
+        "authors_list": [
+            "John M. Carubia",
+            "Robert K. Yu",
+            "Larry J. Macala",
+            "John M. Kirkwood",
+            "János Varga"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 134,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/glycob/cwm018",
+        "title": "The expression and functions of glycoconjugates in neural stem cells",
+        "journal": "Glycobiology",
+        "year": 2007,
+        "citations": 133,
+        "authors": "Makoto Yanagisawa, Robert K. Yu",
+        "authors_list": [
+            "Makoto Yanagisawa",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 133,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3945/jn.115.220152",
+        "title": "Dietary Isomers of Sialyllactose Increase Ganglioside Sialic Acid Concentrations in the Corpus Callosum and Cerebellum and Modulate the Colonic Microbiota of Formula-Fed Piglets",
+        "journal": "Journal of Nutrition",
+        "year": 2015,
+        "citations": 132,
+        "authors": "Sheila K. Jacobi, Tanya Yatsunenko, Dongpei Li et al.",
+        "authors_list": [
+            "Sheila K. Jacobi",
+            "Tanya Yatsunenko",
+            "Dongpei Li",
+            "Somsankar Dasgupta",
+            "Robert K. Yu",
+            "Brian Berg",
+            "Maciej Chichlowski",
+            "Jack Odle"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 132,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316622089878/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.neurobiolaging.2007.12.022",
+        "title": "Elimination of GD3 synthase improves memory and reduces amyloid-β plaque load in transgenic mice",
+        "journal": "Neurobiology of Aging",
+        "year": 2008,
+        "citations": 128,
+        "authors": "Alexandra Bernardo, Fiona E. Harrison, Meghan C. McCord et al.",
+        "authors_list": [
+            "Alexandra Bernardo",
+            "Fiona E. Harrison",
+            "Meghan C. McCord",
+            "Jiali Zhao",
+            "Aleksandra K. Bruchey",
+            "Sean S. Davies",
+            "L. Jackson Roberts",
+            "Paul M. Mathews",
+            "Yasuji Matsuoka",
+            "Toshio Ariga",
+            "Robert K. Yu",
+            "Rebecca F. Thompson",
+            "Michael P. McDonald"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4684-7844-0_5",
+        "title": "Structures of Some New Complex Gangliosides of Fish Brain",
+        "journal": "Advances in experimental medicine and biology",
+        "year": 1980,
+        "citations": 128,
+        "authors": "Robert K. Yu, Susumu Ando",
+        "authors_list": [
+            "Robert K. Yu",
+            "Susumu Ando"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/jnr.22393",
+        "title": "Role of proteoglycans and glycosaminoglycans in the pathogenesis of Alzheimer's disease and related disorders: Amyloidogenesis and therapeutic strategies—A review",
+        "journal": "Journal of Neuroscience Research",
+        "year": 2010,
+        "citations": 126,
+        "authors": "Toshio Ariga, Tadashi Miyatake, Robert K. Yu",
+        "authors_list": [
+            "Toshio Ariga",
+            "Tadashi Miyatake",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 126,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4757-5955-6_1",
+        "title": "Structure and Localization of Gangliosides",
+        "journal": "",
+        "year": 1989,
+        "citations": 118,
+        "authors": "Robert K. Yu, Megumi Saito",
+        "authors_list": [
+            "Robert K. Yu",
+            "Megumi Saito"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.1978.tb12428.x",
+        "title": "CEREBRAL, CEREBELLAR, AND BRAIN STEM GANGLIOSIDES IN MICE SUSCEPTIBLE TO AUDIOGENIC SEIZURES",
+        "journal": "Journal of Neurochemistry",
+        "year": 1978,
+        "citations": 115,
+        "authors": "Thomas N. Seyfried, Gilbert H. Glaser, Robert K. Yu",
+        "authors_list": [
+            "Thomas N. Seyfried",
+            "Gilbert H. Glaser",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 115,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1307224110",
+        "title": "Interaction of ganglioside GD3 with an EGF receptor sustains the self-renewal ability of mouse neural stem cells in vitro",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2013,
+        "citations": 112,
+        "authors": "Jing Wang, Robert K. Yu",
+        "authors_list": [
+            "Jing Wang",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 112,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/110/47/19137.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0006-8993(83)90918-6",
+        "title": "The monoclonal antibody A2B5 is specific to ganglioside GQ1c",
+        "journal": "Brain Research",
+        "year": 1983,
+        "citations": 111,
+        "authors": "Noriyuki Kasai, Robert K. Yu",
+        "authors_list": [
+            "Noriyuki Kasai",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 111,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/bi00326a003",
+        "title": "Thermotropic behavior of glycosphingolipids in aqueous dispersions",
+        "journal": "Biochemistry",
+        "year": 1985,
+        "citations": 109,
+        "authors": "Bruno Maggio, Toshio Ariga, Julian M. Sturtevant et al.",
+        "authors_list": [
+            "Bruno Maggio",
+            "Toshio Ariga",
+            "Julian M. Sturtevant",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/jnr.490150303",
+        "title": "Neuroimmunology of gangliosides in human neurons and glial cells in culture",
+        "journal": "Journal of Neuroscience Research",
+        "year": 1986,
+        "citations": 107,
+        "authors": "S. U. Kim, G. Moretto, V. Lee et al.",
+        "authors_list": [
+            "S. U. Kim",
+            "G. Moretto",
+            "V. Lee",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 107,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0006-291x(85)80117-0",
+        "title": "Ganglioside GD2 specificity of monoclonal antibodies to human neuroblastoma cell",
+        "journal": "Biochemical and Biophysical Research Communications",
+        "year": 1985,
+        "citations": 105,
+        "authors": "Megumi Saito, Robert K. Yu, NK Cheung",
+        "authors_list": [
+            "Megumi Saito",
+            "Robert K. Yu",
+            "NK Cheung"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0022-2275(20)41284-2",
+        "title": "Isolation and characterization of human liver hematoside.",
+        "journal": "Journal of Lipid Research",
+        "year": 1978,
+        "citations": 103,
+        "authors": "Thomas N. Seyfried, Shinji Ando, Robert K. Yu",
+        "authors_list": [
+            "Thomas N. Seyfried",
+            "Shinji Ando",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0022-2275(20)41284-2"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Suppression of ganglioside GD3 expression in a rat F-11 tumor cell line reduces tumor growth, angiogenesis, and vascular endothelial growth factor production.",
+        "journal": "PubMed",
+        "year": 2000,
+        "citations": 99,
+        "authors": "Guichao Zeng, Luoyi Gao, Stéphane Birklé et al.",
+        "authors_list": [
+            "Guichao Zeng",
+            "Luoyi Gao",
+            "Stéphane Birklé",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0003-2697(85)90627-x",
+        "title": "In situ immunological determination of basic carbohydrate structures of gangliosides on thin-layer plates",
+        "journal": "Analytical Biochemistry",
+        "year": 1985,
+        "citations": 94,
+        "authors": "Megumi Saito, Noriyuki Kasai, Robert K. Yu",
+        "authors_list": [
+            "Megumi Saito",
+            "Noriyuki Kasai",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 94,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.275.1.177",
+        "title": "N-Acylated Serinol Is a Novel Ceramide Mimic Inducing Apoptosis in Neuroblastoma Cells",
+        "journal": "Journal of Biological Chemistry",
+        "year": 2000,
+        "citations": 94,
+        "authors": "Erhard Bieberich, Takahisa Kawaguchi, Robert K. Yu",
+        "authors_list": [
+            "Erhard Bieberich",
+            "Takahisa Kawaguchi",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 94,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925819528496/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0005-2736(85)90131-2",
+        "title": "Thermotropic behavior of binary mixtures of diplamitoylphosphatidylcholine and glycosphingolipids in aqueous dispersions",
+        "journal": "Biochimica et Biophysica Acta (BBA) - Biomembranes",
+        "year": 1985,
+        "citations": 94,
+        "authors": "Bruno Maggio, Toshio Ariga, Julian M. Sturtevant et al.",
+        "authors_list": [
+            "Bruno Maggio",
+            "Toshio Ariga",
+            "Julian M. Sturtevant",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 94,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0021-9258(18)94091-3",
+        "title": "High Resolution Proton NMR Studies of Gangliosides",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1989,
+        "citations": 94,
+        "authors": "S Ando, Robert K. Yu, J.N. Scarsdale et al.",
+        "authors_list": [
+            "S Ando",
+            "Robert K. Yu",
+            "J.N. Scarsdale",
+            "Susumu Kusunoki",
+            "James H. Prestegard"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 94,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0021-9258(18)94091-3"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.1974.tb06931.x",
+        "title": "GANGLIOSIDE ABNORMALITIES IN MULTIPLE SCLEROSIS",
+        "journal": "Journal of Neurochemistry",
+        "year": 1974,
+        "citations": 92,
+        "authors": "Robert K. Yu, Robert W. Ledeen, Lawrence F. Eng",
+        "authors_list": [
+            "Robert K. Yu",
+            "Robert W. Ledeen",
+            "Lawrence F. Eng"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 92,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.1986.tb00750.x",
+        "title": "High‐Resolution Proton Magnetic Resonance Analysis of Human Cerebrospinal Fluid",
+        "journal": "Journal of Neurochemistry",
+        "year": 1986,
+        "citations": 89,
+        "authors": "Ognen A. C. Petroff, Robert K. Yu, Takashi Ogino",
+        "authors_list": [
+            "Ognen A. C. Petroff",
+            "Robert K. Yu",
+            "Takashi Ogino"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00382a063",
+        "title": "Complete analysis of oligosaccharide primary structure using two-dimensional high-field proton NMR",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1982,
+        "citations": 88,
+        "authors": "James H. Prestegard, Theodore A.W. Koerner, Peter C. Demou et al.",
+        "authors_list": [
+            "James H. Prestegard",
+            "Theodore A.W. Koerner",
+            "Peter C. Demou",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.m107239200",
+        "title": "Regulation of Apoptosis during Neuronal Differentiation by Ceramide and b-Series Complex Gangliosides",
+        "journal": "Journal of Biological Chemistry",
+        "year": 2001,
+        "citations": 87,
+        "authors": "Erhard Bieberich, Sarah MacKinnon, Jeane Silva et al.",
+        "authors_list": [
+            "Erhard Bieberich",
+            "Sarah MacKinnon",
+            "Jeane Silva",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S002192581982625X/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1212/wnl.26.1.51",
+        "title": "Gamma hydroxybutyrate",
+        "journal": "Neurology",
+        "year": 1976,
+        "citations": 86,
+        "authors": "O. Carter Snead, Robert K. Yu, Peter R. Huttenlocher",
+        "authors_list": [
+            "O. Carter Snead",
+            "Robert K. Yu",
+            "Peter R. Huttenlocher"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1212/wnl.35.10.1420",
+        "title": "The neuropathy of plasma cell dyscrasia",
+        "journal": "Neurology",
+        "year": 1985,
+        "citations": 84,
+        "authors": "Lorenza Freddo, Toshio Ariga, Megumi Saito et al.",
+        "authors_list": [
+            "Lorenza Freddo",
+            "Toshio Ariga",
+            "Megumi Saito",
+            "Lawrence C. Macala",
+            "Robert K. Yu",
+            "Norman Latov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.1982.tb08662.x",
+        "title": "Differential Cellular Enrichment of Gangliosides in the Mouse Cerebellum: Analysis Using Neurological Mutants",
+        "journal": "Journal of Neurochemistry",
+        "year": 1982,
+        "citations": 83,
+        "authors": "Thomas N. Seyfried, Robert K. Yu, Nobuko Miyazawa",
+        "authors_list": [
+            "Thomas N. Seyfried",
+            "Robert K. Yu",
+            "Nobuko Miyazawa"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 83,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4757-9504-2_8",
+        "title": "Biochemistry and Function of Sialidases",
+        "journal": "",
+        "year": 1995,
+        "citations": 82,
+        "authors": "Megumi Saito, Robert K. Yu",
+        "authors_list": [
+            "Megumi Saito",
+            "Robert K. Yu"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/glycob/cwp149",
+        "title": "Characterization of GD3 ganglioside as a novel biomarker of mouse neural stem cells",
+        "journal": "Glycobiology",
+        "year": 2009,
+        "citations": 77,
+        "authors": "Yoshihiko Nakatani, Makoto Yanagisawa, Yuji Suzuki et al.",
+        "authors_list": [
+            "Yoshihiko Nakatani",
+            "Makoto Yanagisawa",
+            "Yuji Suzuki",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/glycob/article-pdf/20/1/78/6947603/cwp149.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.1982.tb03968.x",
+        "title": "Lipid and Protein Alterations of Spinal Cord and Cord Myelin of Multiple Sclerosis",
+        "journal": "Journal of Neurochemistry",
+        "year": 1982,
+        "citations": 76,
+        "authors": "Robert K. Yu, Kunihiro Ueno, Gilbert H. Glaser et al.",
+        "authors_list": [
+            "Robert K. Yu",
+            "Kunihiro Ueno",
+            "Gilbert H. Glaser",
+            "Wallace W. Tourtellotte"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/1472-6750-11-28",
+        "title": "Genome-wide target profiling of piggyBac and Tol2in HEK 293: pros and cons for gene discovery and gene therapy",
+        "journal": "BMC Biotechnology",
+        "year": 2011,
+        "citations": 76,
+        "authors": "Yaa‐Jyuhn James Meir, Matthew T. Weirauch, Herng-Shing Yang et al.",
+        "authors_list": [
+            "Yaa‐Jyuhn James Meir",
+            "Matthew T. Weirauch",
+            "Herng-Shing Yang",
+            "Pei-Cheng Chung",
+            "Robert K. Yu",
+            "Sareina Chiung‐Yuan Wu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bmcbiotechnol.biomedcentral.com/counter/pdf/10.1186/1472-6750-11-28"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1523/jneurosci.2275-14.2014",
+        "title": "Ganglioside GD3 Is Required for Neurogenesis and Long-Term Maintenance of Neural Stem Cells in the Postnatal Mouse Brain",
+        "journal": "Journal of Neuroscience",
+        "year": 2014,
+        "citations": 74,
+        "authors": "Jing Wang, Allison Cheng, Chandramohan Wakade et al.",
+        "authors_list": [
+            "Jing Wang",
+            "Allison Cheng",
+            "Chandramohan Wakade",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.jneurosci.org/content/jneuro/34/41/13790.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/jnr.490150205",
+        "title": "Gangliosides inhibit phospholipid‐sensitive Ca<sup>2+</sup>‐dependent kinase phosphorylation of rat myelin basic proteins",
+        "journal": "Journal of Neuroscience Research",
+        "year": 1986,
+        "citations": 73,
+        "authors": "J. Y. H. Kim, James R. Goldenring, Robert J. DeLorenzo et al.",
+        "authors_list": [
+            "J. Y. H. Kim",
+            "James R. Goldenring",
+            "Robert J. DeLorenzo",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0082337",
+        "title": "Antibodies to Heteromeric Glycolipid Complexes in Guillain-Barré Syndrome",
+        "journal": "PLoS ONE",
+        "year": 2013,
+        "citations": 73,
+        "authors": "Simon Rinaldi, Kathryn M. Brennan, Gabriela Kalna et al.",
+        "authors_list": [
+            "Simon Rinaldi",
+            "Kathryn M. Brennan",
+            "Gabriela Kalna",
+            "Christa Walgaard",
+            "P. van Doorn",
+            "Bart C. Jacobs",
+            "Robert K. Yu",
+            "Jan‐Eric Månsson",
+            "Carl S. Goodyear",
+            "Hugh J. Willison"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0082337&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0021-9258(19)86603-6",
+        "title": "Calorimetric properties of mixtures of ganglioside GM1 and dipalmitoylphosphatidylcholine.",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1979,
+        "citations": 73,
+        "authors": "Laurel O. Sillerud, David Schäfer, Robert K. Yu et al.",
+        "authors_list": [
+            "Laurel O. Sillerud",
+            "David Schäfer",
+            "Robert K. Yu",
+            "William H. Konigsberg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0021-9258(19)86603-6"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.1982.tb07959.x",
+        "title": "Myelin Gangliosides in Vertebrates",
+        "journal": "Journal of Neurochemistry",
+        "year": 1982,
+        "citations": 73,
+        "authors": "Frederick B. Cochran, Robert K. Yu, Robert W. Ledeen",
+        "authors_list": [
+            "Frederick B. Cochran",
+            "Robert K. Yu",
+            "Robert W. Ledeen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0304-3835(02)00049-6",
+        "title": "Synthesis and characterization of novel ceramide analogs for induction of apoptosis in human cancer cells",
+        "journal": "Cancer Letters",
+        "year": 2002,
+        "citations": 72,
+        "authors": "Erhard Bieberich, Bin Hu, Jeane Silva et al.",
+        "authors_list": [
+            "Erhard Bieberich",
+            "Bin Hu",
+            "Jeane Silva",
+            "Sarah MacKinnon",
+            "Robert K. Yu",
+            "Helen L. Fillmore",
+            "William C. Broaddus",
+            "Raphael M. Ottenbrite"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4615-7754-6_12",
+        "title": "Methods for Isolation and Analysis of Gangliosides",
+        "journal": "",
+        "year": 1978,
+        "citations": 71,
+        "authors": "Robert W. Ledeen, Robert K. Yu",
+        "authors_list": [
+            "Robert W. Ledeen",
+            "Robert K. Yu"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/bi00401a010",
+        "title": "Lipid composition of PC12 pheochromocytoma cells: characterization of globoside as a major neutral glycolipid",
+        "journal": "Biochemistry",
+        "year": 1988,
+        "citations": 70,
+        "authors": "Toshio Ariga, Lawrence J. Macala, Megumi Saito et al.",
+        "authors_list": [
+            "Toshio Ariga",
+            "Lawrence J. Macala",
+            "Megumi Saito",
+            "Renée K. Margolis",
+            "Lloyd A. Greene",
+            "Richard U. Margolis",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.m110.157081",
+        "title": "HNK-1 Epitope-carrying Tenascin-C Spliced Variant Regulates the Proliferation of Mouse Embryonic Neural Stem Cells",
+        "journal": "Journal of Biological Chemistry",
+        "year": 2010,
+        "citations": 69,
+        "authors": "Hirokazu Yagi, Makoto Yanagisawa, Yusuke Suzuki et al.",
+        "authors_list": [
+            "Hirokazu Yagi",
+            "Makoto Yanagisawa",
+            "Yusuke Suzuki",
+            "Yoshihiko Nakatani",
+            "Toshio Ariga",
+            "Koichi Kato",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925820467055/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/genetics/94.3.701",
+        "title": "GENETIC ANALYSIS OF AUDIOGENIC SEIZURE SUSCEPTIBILITY IN C57BL/6J x DBA/2J RECOMBINANT INBRED STRAINS OF MICE",
+        "journal": "Genetics",
+        "year": 1980,
+        "citations": 68,
+        "authors": "Thomas N. Seyfried, Robert K. Yu, Gilbert H. Glaser",
+        "authors_list": [
+            "Thomas N. Seyfried",
+            "Robert K. Yu",
+            "Gilbert H. Glaser"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/genetics/article-pdf/94/3/701/34427149/genetics0701.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.1975.tb06957.x",
+        "title": "GANGLIOSIDES IN DEVELOPING MOUSE BRAIN MYELIN",
+        "journal": "Journal of Neurochemistry",
+        "year": 1975,
+        "citations": 68,
+        "authors": "Robert K. Yu, S. I. Yen",
+        "authors_list": [
+            "Robert K. Yu",
+            "S. I. Yen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/00220345780570090401",
+        "title": "Color Stability of Elastomers for Maxillofacial Appliances",
+        "journal": "Journal of Dental Research",
+        "year": 1978,
+        "citations": 68,
+        "authors": "R.G. Craig, A. Koran, Robert K. Yu et al.",
+        "authors_list": [
+            "R.G. Craig",
+            "A. Koran",
+            "Robert K. Yu",
+            "James W. Spencer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://hdl.handle.net/2027.42/67056"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/glia.10202",
+        "title": "Differentiation of radial glia‐like cells from embryonic stem cells",
+        "journal": "Glia",
+        "year": 2003,
+        "citations": 68,
+        "authors": "Sean S. Liour, Robert K. Yu",
+        "authors_list": [
+            "Sean S. Liour",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/glia.10202"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/bi00606a025",
+        "title": "Assignment of the carbon-13 nuclear magnetic resonance spectrum of aqueous ganglioside GM1 micelles",
+        "journal": "Biochemistry",
+        "year": 1978,
+        "citations": 68,
+        "authors": "Laurel O. Sillerud, James H. Prestegard, Robert K. Yu et al.",
+        "authors_list": [
+            "Laurel O. Sillerud",
+            "James H. Prestegard",
+            "Robert K. Yu",
+            "David Schäfer",
+            "William H. Konigsberg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.1983.tb04767.x",
+        "title": "Cellular Localization of Gangliosides in the Developing Mouse Cerebellum: Analysis Using the Weaver Mutant",
+        "journal": "Journal of Neurochemistry",
+        "year": 1983,
+        "citations": 68,
+        "authors": "Thomas N. Seyfried, N Miyazawa, Robert K. Yu",
+        "authors_list": [
+            "Thomas N. Seyfried",
+            "N Miyazawa",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Biochemical and serological characteristics of natural 9-O-acetyl GD3 from human melanoma and bovine buttermilk and chemically O-acetylated GD3.",
+        "journal": "PubMed",
+        "year": 1990,
+        "citations": 67,
+        "authors": "Gerd Ritter, Erika Boosfeld, E Markstein et al.",
+        "authors_list": [
+            "Gerd Ritter",
+            "Erika Boosfeld",
+            "E Markstein",
+            "Robert K. Yu",
+            "Shuang Ren",
+            "William B. Stallcup",
+            "Herbert F. Oettgen",
+            "Lloyd J. Old",
+            "Philip O. Livingston"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1042/an20110006",
+        "title": "Expression of GD2 and GD3 Gangliosides in Human Embryonic Neural Stem Cells",
+        "journal": "ASN NEURO",
+        "year": 2011,
+        "citations": 65,
+        "authors": "Makoto Yanagisawa, Saori Yoshimura, Robert K. Yu",
+        "authors_list": [
+            "Makoto Yanagisawa",
+            "Saori Yoshimura",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.sagepub.com/doi/pdf/10.1042/AN20110006"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0021-9258(18)42324-1",
+        "title": "O-acetylated gangliosides in bovine buttermilk. Characterization of 7-O-acetyl, 9-O-acetyl, and 7,9-di-O-acetyl GD3.",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1992,
+        "citations": 65,
+        "authors": "Shuling Ren, J.N. Scarsdale, Takuro Ariga et al.",
+        "authors_list": [
+            "Shuling Ren",
+            "J.N. Scarsdale",
+            "Takuro Ariga",
+            "Y Zhang",
+            "Roger A. Klein",
+            "Rudolf Hartmann",
+            "Yasunori Kushi",
+            "Heinz Egge",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0021-9258(18)42324-1"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/oxfordjournals.jbchem.a135404",
+        "title": "High-Resolution Proton NMR Studies of Gangliosides. III. Elucidation of the Structure of Ganglioside GM3 Lactone12",
+        "journal": "The Journal of Biochemistry",
+        "year": 1985,
+        "citations": 63,
+        "authors": "Robert K. Yu, Theodore A.W. Koerner, Susumu ANDO et al.",
+        "authors_list": [
+            "Robert K. Yu",
+            "Theodore A.W. Koerner",
+            "Susumu ANDO",
+            "Herbert C. Yohe",
+            "James H. Prestegard"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0076-6879(87)38006-1",
+        "title": "[4] Oligosaccharide structure by two-dimensional proton nuclear magnetic resonance spectroscopy",
+        "journal": "Methods in enzymology on CD-ROM/Methods in enzymology",
+        "year": 1987,
+        "citations": 63,
+        "authors": "Theodore A.W. Koerner, James H. Prestegard, Robert K. Yu",
+        "authors_list": [
+            "Theodore A.W. Koerner",
+            "James H. Prestegard",
+            "Robert K. Yu"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0021-9258(17)33945-5",
+        "title": "In vitro biosynthesis of sialosylgalactosylceramide (G7) by mouse brain microsomes.",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1976,
+        "citations": 63,
+        "authors": "Robert K. Yu, S. H. Lee",
+        "authors_list": [
+            "Robert K. Yu",
+            "S. H. Lee"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0021-9258(17)33945-5"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.1987.tb05694.x",
+        "title": "Subcellular Localization of Sulfated Glucuronic Acid‐Containing Glycolipids Reacting with Anti‐Myelin‐Associated Glycoprotein Antibody",
+        "journal": "Journal of Neurochemistry",
+        "year": 1987,
+        "citations": 62,
+        "authors": "Tatsuo Kohriyama, Susumu Kusunoki, Toshio Ariga et al.",
+        "authors_list": [
+            "Tatsuo Kohriyama",
+            "Susumu Kusunoki",
+            "Toshio Ariga",
+            "Jun Yoshino",
+            "George H. DeVries",
+            "Norman Latov",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.451624",
+        "title": "Thyroid Hormone Influence on the Susceptibility of Mice to Audiogenic Seizures",
+        "journal": "Science",
+        "year": 1979,
+        "citations": 62,
+        "authors": "Thomas N. Seyfried, Gilbert H. Glaser, Robert K. Yu",
+        "authors_list": [
+            "Thomas N. Seyfried",
+            "Gilbert H. Glaser",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0021-9258(19)70113-6",
+        "title": "Isolation and characterization of a novel monosialosylpentahexosyl ceramide from Tay-Sachs brain.",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1981,
+        "citations": 62,
+        "authors": "Toshihiko Itoh, Yu-Teh Li, Su-Chen Li et al.",
+        "authors_list": [
+            "Toshihiko Itoh",
+            "Yu-Teh Li",
+            "Su-Chen Li",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0021-9258(19)70113-6"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.m112.365643",
+        "title": "Lewis X-carrying N-Glycans Regulate the Proliferation of Mouse Embryonic Neural Stem Cells via the Notch Signaling Pathway",
+        "journal": "Journal of Biological Chemistry",
+        "year": 2012,
+        "citations": 61,
+        "authors": "Hirokazu Yagi, Takuya Saito, Makoto Yanagisawa et al.",
+        "authors_list": [
+            "Hirokazu Yagi",
+            "Takuya Saito",
+            "Makoto Yanagisawa",
+            "Robert K. Yu",
+            "Koichi Kato"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925820432867/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.1471-4159.1999.0721040.x",
+        "title": "Differential Effects of Glycolipid Biosynthesis Inhibitors on Ceramide‐Induced Cell Death in Neuroblastoma Cells",
+        "journal": "Journal of Neurochemistry",
+        "year": 1999,
+        "citations": 61,
+        "authors": "Erhard Bieberich, Bettina Freischütz, Minoru Suzuki et al.",
+        "authors_list": [
+            "Erhard Bieberich",
+            "Bettina Freischütz",
+            "Minoru Suzuki",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0005-2736(88)90477-4",
+        "title": "Thermodynamic-geometric correlations for the morphology of self-assembled structures of glycosphingolipids and their mixtures with dipalmitoylphosphatidylcholine",
+        "journal": "Biochimica et Biophysica Acta (BBA) - Biomembranes",
+        "year": 1988,
+        "citations": 60,
+        "authors": "Bruno Maggio, John Albert, Robert K. Yu",
+        "authors_list": [
+            "Bruno Maggio",
+            "John Albert",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1468-1331.2012.03767.x",
+        "title": "Antibodies to heteromeric glycolipid complexes in multifocal motor neuropathy",
+        "journal": "European Journal of Neurology",
+        "year": 2012,
+        "citations": 60,
+        "authors": "Francesc Galban‐Horcajo, Amanda Fitzpatrick, Andrew J. Hutton et al.",
+        "authors_list": [
+            "Francesc Galban‐Horcajo",
+            "Amanda Fitzpatrick",
+            "Andrew J. Hutton",
+            "Steven M. Dunn",
+            "Gabriela Kalna",
+            "Kathryn M. Brennan",
+            "Simon Rinaldi",
+            "Robert K. Yu",
+            "Carl S. Goodyear",
+            "Hugh J. Willison"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.2005.03452.x",
+        "title": "Characterization of glycoconjugate antigens in mouse embryonic neural precursor cells",
+        "journal": "Journal of Neurochemistry",
+        "year": 2005,
+        "citations": 59,
+        "authors": "Makoto Yanagisawa, Tetsuya Taga, Kazuo Nakamura et al.",
+        "authors_list": [
+            "Makoto Yanagisawa",
+            "Tetsuya Taga",
+            "Kazuo Nakamura",
+            "Toshio Ariga",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.2010.07042.x",
+        "title": "Histone acetylation‐mediated glycosyltransferase gene regulation in mouse brain during development",
+        "journal": "Journal of Neurochemistry",
+        "year": 2011,
+        "citations": 58,
+        "authors": "Yusuke Suzuki, Makoto Yanagisawa, Toshio Ariga et al.",
+        "authors_list": [
+            "Yusuke Suzuki",
+            "Makoto Yanagisawa",
+            "Toshio Ariga",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3706450"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jasms.2005.01.013",
+        "title": "Screening and sequencing of complex sialylated and sulfated glycosphingolipid mixtures by negative ion electrospray Fourier transform ion cyclotron resonance mass spectrometry",
+        "journal": "Journal of the American Society for Mass Spectrometry",
+        "year": 2005,
+        "citations": 58,
+        "authors": "Željka Vukelić, Alina D. Zamfir, Laura Bîndilă et al.",
+        "authors_list": [
+            "Željka Vukelić",
+            "Alina D. Zamfir",
+            "Laura Bîndilă",
+            "Martin Froesch",
+            "Jasna Peter‐Katalinić",
+            "Seigo Usuki",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0009-3084(86)90041-1",
+        "title": "Elucidation of glycolipid structure by proton nuclear magnetic resonance spectroscopy",
+        "journal": "Chemistry and Physics of Lipids",
+        "year": 1986,
+        "citations": 58,
+        "authors": "Robert K. Yu, Theodore A.W. Koerner, J.N. Scarsdale et al.",
+        "authors_list": [
+            "Robert K. Yu",
+            "Theodore A.W. Koerner",
+            "J.N. Scarsdale",
+            "James H. Prestegard"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0142-9612(80)90010-1",
+        "title": "Elastomers for maxillofacial applications",
+        "journal": "Biomaterials",
+        "year": 1980,
+        "citations": 58,
+        "authors": "R.G. Craig, A. Koran, Robert K. Yu",
+        "authors_list": [
+            "R.G. Craig",
+            "A. Koran",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://hdl.handle.net/2027.42/23271"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00281a053",
+        "title": "Structural analysis of a glycolipid head group with one- and two-state NMR pseudoenergy approaches",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1986,
+        "citations": 57,
+        "authors": "J.N. Scarsdale, Robert K. Yu, James H. Prestegard",
+        "authors_list": [
+            "J.N. Scarsdale",
+            "Robert K. Yu",
+            "James H. Prestegard"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1471-4159.2006.04159.x",
+        "title": "Down‐regulation of WNK1 protein kinase in neural progenitor cells suppresses cell proliferation and migration",
+        "journal": "Journal of Neurochemistry",
+        "year": 2006,
+        "citations": 57,
+        "authors": "Xutong Sun, Luoyi Gao, Robert K. Yu et al.",
+        "authors_list": [
+            "Xutong Sun",
+            "Luoyi Gao",
+            "Robert K. Yu",
+            "Guichao Zeng"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1471-4159.2006.04159.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0165-5728(88)90019-7",
+        "title": "Antibodies to sulfated glucuronic acid containing glycosphingolipids in neuropathy associated with anti-MAG antibodies and in normal subjects",
+        "journal": "Journal of Neuroimmunology",
+        "year": 1988,
+        "citations": 56,
+        "authors": "Scott McGinnis, Tatsuo Kohriyama, Robert K. Yu et al.",
+        "authors_list": [
+            "Scott McGinnis",
+            "Tatsuo Kohriyama",
+            "Robert K. Yu",
+            "Michael A. Pesce",
+            "Norman Latov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2842.1982.tb01025.x",
+        "title": "Staining of composite resins by cigarette smoke",
+        "journal": "Journal of Oral Rehabilitation",
+        "year": 1982,
+        "citations": 56,
+        "authors": "C.N. Raptis, John M. Powers, P.L. Fan et al.",
+        "authors_list": [
+            "C.N. Raptis",
+            "John M. Powers",
+            "P.L. Fan",
+            "Robert K. Yu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/0076-6879(82)83012-7",
+        "title": "[10] Gangliosides: Structure, isolation, and analysis",
+        "journal": "Methods in Enzymology",
+        "year": 1982,
+        "citations": 529,
+        "authors": "Robert W. Ledeen, Robert K. Yu",
+        "authors_list": [
+            "Robert W. Ledeen",
+            "Robert K. Yu"
+        ],
+        "type": "book-chapter",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 529
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1471-4159.1973.tb07527.x",
+        "title": "GANGLIOSIDES OF HUMAN MYELIN: SIALOSYLGALACTOSYLCERAMIDE (G<sub>7</sub>) AS A MAJOR COMPONENT",
+        "journal": "Journal of Neurochemistry",
+        "year": 1973,
+        "citations": 468,
+        "authors": "R. W. Ledeen, R. K. Yu, L. F. Eng",
+        "authors_list": [
+            "R. W. Ledeen",
+            "R. K. Yu",
+            "L. F. Eng"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 468
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1194/jlr.r800028-jlr200",
+        "title": "The role of glycosphingolipid metabolism in the developing brain",
+        "journal": "Journal of Lipid Research",
+        "year": 2009,
+        "citations": 215,
+        "authors": "Robert K. Yu, Yoshihiko Nakatani, Makoto Yanagisawa",
+        "authors_list": [
+            "Robert K. Yu",
+            "Yoshihiko Nakatani",
+            "Makoto Yanagisawa"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 215
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jlr.org/article/S0022227520306532/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s0300-9084(03)00006-3",
+        "title": "Role of tumor-associated gangliosides in cancer progression",
+        "journal": "Biochimie",
+        "year": 2003,
+        "citations": 197,
+        "authors": "S Birklé, G Zeng, L Gao et al.",
+        "authors_list": [
+            "S Birklé",
+            "G Zeng",
+            "L Gao",
+            "R.K Yu",
+            "J Aubry"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 197
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1128/jvi.70.12.8773-8781.1996",
+        "title": "Transcriptional activation of the interleukin-8 gene by respiratory syncytial virus infection in alveolar epithelial cells: nuclear translocation of the RelA transcription factor as a mechanism producing airway mucosal inflammation",
+        "journal": "Journal of Virology",
+        "year": 1996,
+        "citations": 170,
+        "authors": "R Garofalo, M Sabry, M Jamaluddin et al.",
+        "authors_list": [
+            "R Garofalo",
+            "M Sabry",
+            "M Jamaluddin",
+            "R K Yu",
+            "A Casola",
+            "P L Ogra",
+            "A R Brasier"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 170
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://jvi.asm.org/content/jvi/70/12/8773.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1212/wnl.36.4.454",
+        "title": "Gangliosides GM1 and GD1b are antigens for IgM M-protein in a patientwith motor neuron disease",
+        "journal": "Neurology",
+        "year": 1986,
+        "citations": 177,
+        "authors": "",
+        "authors_list": [],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 177
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s0021-9258(17)39945-3",
+        "title": "Isolation and characterization of a novel trisialoganglioside, GT1a, from human brain.",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1977,
+        "citations": 148,
+        "authors": "S Ando, R K Yu",
+        "authors_list": [
+            "S Ando",
+            "R K Yu"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 148
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0021-9258(17)39945-3"
+        }
+    }
+]

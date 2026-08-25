@@ -1,0 +1,3496 @@
+[
+    {
+        "doi": "https://doi.org/10.1161/01.cir.102.18.2284",
+        "title": "AHA Dietary Guidelines",
+        "journal": "Circulation",
+        "year": 2000,
+        "citations": 1460,
+        "authors": "Ronald M. Krauss, Robert H. Eckel, Barbara V. Howard et al.",
+        "authors_list": [
+            "Ronald M. Krauss",
+            "Robert H. Eckel",
+            "Barbara V. Howard",
+            "Lawrence J. Appel",
+            "Stephen R. Daniels",
+            "Richard J. Deckelbaum",
+            "John W. Erdman",
+            "Penny M. Kris‐Etherton",
+            "Ira J. Goldberg",
+            "Theodore A. Kotchen",
+            "Alice H. Lichtenstein",
+            "William E. Mitch",
+            "Rebecca M. Mullis",
+            "Killian Robinson",
+            "Judith Wylie‐Rosett",
+            "Sachiko St. Jeor",
+            "John W. Suttie",
+            "Diane L. Tribble",
+            "Terry L. Bazzarre"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1460,
+            "crossref": 1216
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ahajournals.org/doi/pdf/10.1161/01.CIR.102.18.2284"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/ajcn/68.6.1375s",
+        "title": "Soy protein and isoflavones: their effects on blood lipids and bone density in postmenopausal women",
+        "journal": "American Journal of Clinical Nutrition",
+        "year": 1998,
+        "citations": 872,
+        "authors": "Susan Potter, J A Baum, Hongyu Teng et al.",
+        "authors_list": [
+            "Susan Potter",
+            "J A Baum",
+            "Hongyu Teng",
+            "R. J. Stillman",
+            "Neil F. Shay",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 872,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/01.str.31.11.2751",
+        "title": "AHA Dietary Guidelines",
+        "journal": "Stroke",
+        "year": 2000,
+        "citations": 631,
+        "authors": "Ronald M. Krauss, Robert H. Eckel, Barbara V. Howard et al.",
+        "authors_list": [
+            "Ronald M. Krauss",
+            "Robert H. Eckel",
+            "Barbara V. Howard",
+            "Lawrence J. Appel",
+            "Stephen R. Daniels",
+            "Richard J. Deckelbaum",
+            "John W. Erdman",
+            "Penny M. Kris‐Etherton",
+            "Ira J. Goldberg",
+            "Theodore A. Kotchen",
+            "Alice H. Lichtenstein",
+            "William E. Mitch",
+            "Rebecca M. Mullis",
+            "Killian Robinson",
+            "Judith Wylie‐Rosett",
+            "Sachiko St. Jeor",
+            "John W. Suttie",
+            "Diane L. Tribble",
+            "Terry L. Bazzarre"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 631,
+            "crossref": 183
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ahajournals.org/doi/pdf/10.1161/01.STR.31.11.2751"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bf02663052",
+        "title": "Oilseed phytates: Nutritional implications",
+        "journal": "Journal of the American Oil Chemists Society",
+        "year": 1979,
+        "citations": 485,
+        "authors": "John W. Erdman",
+        "authors_list": [
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 485,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "cis-trans lycopene isomers, carotenoids, and retinol in the human prostate.",
+        "journal": "PubMed",
+        "year": 1996,
+        "citations": 442,
+        "authors": "Steven K. Clinton, Curt Emenhiser, Steven J. Schwartz et al.",
+        "authors_list": [
+            "Steven K. Clinton",
+            "Curt Emenhiser",
+            "Steven J. Schwartz",
+            "David G. Bostwick",
+            "Alexa W. Williams",
+            "Billy J. Moore",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 442,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/135.5.1226",
+        "title": "The Tomato As a Functional Food",
+        "journal": "Journal of Nutrition",
+        "year": 2005,
+        "citations": 417,
+        "authors": "Kirstie Canene‐Adams, Jessica K. Campbell, Susan Zaripheh et al.",
+        "authors_list": [
+            "Kirstie Canene‐Adams",
+            "Jessica K. Campbell",
+            "Susan Zaripheh",
+            "Elizabeth H. Jeffery",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 417,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316622102166/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1161/01.cir.102.20.2555",
+        "title": "Soy Protein and Cardiovascular Disease",
+        "journal": "Circulation",
+        "year": 2000,
+        "citations": 409,
+        "authors": "John W. Erdman",
+        "authors_list": [
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 409,
+            "crossref": 262
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ahajournals.org/doi/pdf/10.1161/01.CIR.102.20.2555"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10408399509527712",
+        "title": "Phytic acid in health and disease",
+        "journal": "Critical Reviews in Food Science and Nutrition",
+        "year": 1995,
+        "citations": 381,
+        "authors": "Jin R. Zhou, John W. Erdman",
+        "authors_list": [
+            "Jin R. Zhou",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 381,
+            "crossref": 265
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/153537020222701012",
+        "title": "Bioavailability of all-trans and cis–Isomers of Lycopene",
+        "journal": "Experimental Biology and Medicine",
+        "year": 2002,
+        "citations": 376,
+        "authors": "Thomas Boileau, Amy C. Boileau, John W. Erdman",
+        "authors_list": [
+            "Thomas Boileau",
+            "Amy C. Boileau",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 376,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1749-6632.1993.tb26159.x",
+        "title": "Absorption and Transport of Carotenoids",
+        "journal": "Annals of the New York Academy of Sciences",
+        "year": 1993,
+        "citations": 371,
+        "authors": "John W. Erdman, Tiffany L. Bierer, Eric T. Gugger",
+        "authors_list": [
+            "John W. Erdman",
+            "Tiffany L. Bierer",
+            "Eric T. Gugger"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 371,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/137.3.718s",
+        "title": "Flavonoids and Heart Health: Proceedings of the ILSI North America Flavonoids Workshop, May 31–June 1, 2005, Washington, DC1, , ,",
+        "journal": "Journal of Nutrition",
+        "year": 2007,
+        "citations": 358,
+        "authors": "John W. Erdman, Douglas A. Balentine, Lenore Arab et al.",
+        "authors_list": [
+            "John W. Erdman",
+            "Douglas A. Balentine",
+            "Lenore Arab",
+            "Gary R. Beecher",
+            "Johanna Dwyer",
+            "John D. Folts",
+            "James M. Harnly",
+            "P.C.H. Hollman",
+            "Carl L. Keen",
+            "Giuseppe Mazza",
+            "Mark Messina",
+            "Augustin Scalbert",
+            "Joseph A. Vita",
+            "Gary Williamson",
+            "Jerrilynn D. Burrowes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 358,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316622091283/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/ajcn/68.3.545",
+        "title": "Long-term intake of soy protein improves blood lipid profiles and increases mononuclear cell low-density-lipoprotein receptor messenger RNA in hypercholesterolemic, postmenopausal women",
+        "journal": "American Journal of Clinical Nutrition",
+        "year": 1998,
+        "citations": 313,
+        "authors": "J A Baum, Hongyu Teng, John W. Erdman et al.",
+        "authors_list": [
+            "J A Baum",
+            "Hongyu Teng",
+            "John W. Erdman",
+            "Ronald M. Weigel",
+            "Barbara P. Klein",
+            "Victoria Persky",
+            "Sally Freels",
+            "Paul Surya",
+            "Raga Mukhtar Bakhit",
+            "Elizabeth Ramos",
+            "Neil F. Shay",
+            "Susan Potter"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 313,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/ajcn/article-pdf/68/3/545/24038653/545.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/129.6.1176",
+        "title": "Cis-Lycopene Is More Bioavailable Than Trans-Lycopene In Vitro and In Vivo in Lymph-Cannulated Ferrets",
+        "journal": "Journal of Nutrition",
+        "year": 1999,
+        "citations": 305,
+        "authors": "Amy C. Boileau, N. R. Merchen, Katherine Wasson et al.",
+        "authors_list": [
+            "Amy C. Boileau",
+            "N. R. Merchen",
+            "Katherine Wasson",
+            "Christine Atkinson",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 305,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/121.10.1613",
+        "title": "Concentrations of Selected Carotenoids and Vitamin A in Human Liver, Kidney and Lung Tissue",
+        "journal": "Journal of Nutrition",
+        "year": 1991,
+        "citations": 272,
+        "authors": "Harold H. Schmitz, Christopher L. Poor, R.B. Wellman et al.",
+        "authors_list": [
+            "Harold H. Schmitz",
+            "Christopher L. Poor",
+            "R.B. Wellman",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 272,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cgh.2014.11.027",
+        "title": "Noninvasive Diagnosis of Nonalcoholic Fatty Liver Disease and Quantification of Liver Fat Using a New Quantitative Ultrasound Technique",
+        "journal": "Clinical Gastroenterology and Hepatology",
+        "year": 2014,
+        "citations": 251,
+        "authors": "Steven C. Lin, Elhamy Heba, Tanya Wolfson et al.",
+        "authors_list": [
+            "Steven C. Lin",
+            "Elhamy Heba",
+            "Tanya Wolfson",
+            "Brandon Ang",
+            "Anthony Gamst",
+            "Aiguo Han",
+            "John W. Erdman",
+            "William D. O’Brien",
+            "Michael P. André",
+            "Claude B. Sirlin",
+            "Rohit Loomba"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 251,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/131.1.132",
+        "title": "AHA Scientific Statement: AHA Dietary Guidelines",
+        "journal": "Journal of Nutrition",
+        "year": 2001,
+        "citations": 217,
+        "authors": "Ronald M. Krauss, Robert H. Eckel, Barbara V. Howard et al.",
+        "authors_list": [
+            "Ronald M. Krauss",
+            "Robert H. Eckel",
+            "Barbara V. Howard",
+            "Lawrence J. Appel",
+            "Stephen R. Daniels",
+            "Richard J. Deckelbaum",
+            "John W. Erdman",
+            "Penny M. Kris‐Etherton",
+            "Ira J. Goldberg",
+            "Theodore A. Kotchen",
+            "Alice H. Lichtenstein",
+            "William E. Mitch",
+            "Rebecca M. Mullis",
+            "Killian Robinson",
+            "Judith Wylie‐Rosett",
+            "Sachiko St. Jeor",
+            "John W. Suttie",
+            "Diane L. Tribble",
+            "Terry L. Bazzarre"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 217,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/134.12.3486s",
+        "title": "Tomato Phytochemicals and Prostate Cancer Risk",
+        "journal": "Journal of Nutrition",
+        "year": 2004,
+        "citations": 205,
+        "authors": "Jessica K. Campbell, Kirstie Canene‐Adams, Brian Lindshield et al.",
+        "authors_list": [
+            "Jessica K. Campbell",
+            "Kirstie Canene‐Adams",
+            "Brian Lindshield",
+            "Thomas Boileau",
+            "Steven K. Clinton",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 205,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316623031978/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.abb.2008.10.022",
+        "title": "Are the health attributes of lycopene related to its antioxidant function?",
+        "journal": "Archives of Biochemistry and Biophysics",
+        "year": 2008,
+        "citations": 204,
+        "authors": "John W. Erdman, Nikki A. Ford, Brian Lindshield",
+        "authors_list": [
+            "John W. Erdman",
+            "Nikki A. Ford",
+            "Brian Lindshield"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 204,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2745920"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/advances/nmy025",
+        "title": "Intrinsic and Extrinsic Factors Impacting Absorption, Metabolism, and Health Effects of Dietary Carotenoids",
+        "journal": "Advances in Nutrition",
+        "year": 2018,
+        "citations": 202,
+        "authors": "Nancy E. Moran, Emily S. Mohn, Noor Hason et al.",
+        "authors_list": [
+            "Nancy E. Moran",
+            "Emily S. Mohn",
+            "Noor Hason",
+            "John W. Erdman",
+            "Elizabeth J. Johnson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 202,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/advances/article-pdf/9/4/465/25180127/nmy025.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/1055-9965.epi-03-0012",
+        "title": "Plasma and Dietary Carotenoids, and the Risk of Prostate Cancer",
+        "journal": "Cancer Epidemiology Biomarkers & Prevention",
+        "year": 2004,
+        "citations": 200,
+        "authors": "Kana Wu, John W. Erdman, Steven J. Schwartz et al.",
+        "authors_list": [
+            "Kana Wu",
+            "John W. Erdman",
+            "Steven J. Schwartz",
+            "Elizabeth A. Platz",
+            "Michael F. Leitzmann",
+            "Steven K. Clinton",
+            "Valerie DeGroff",
+            "Walter C. Willett",
+            "Edward L. Giovannucci"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 200,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/129.12.2271",
+        "title": "Review of Animal Models in Carotenoid Research",
+        "journal": "Journal of Nutrition",
+        "year": 1999,
+        "citations": 199,
+        "authors": "Christine M. Lee, Amy C. Boileau, Thomas Boileau et al.",
+        "authors_list": [
+            "Christine M. Lee",
+            "Amy C. Boileau",
+            "Thomas Boileau",
+            "Alexa W. Williams",
+            "Kelly S. Swanson",
+            "Kasey Heintz",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 199,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316623023581/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2621.1982.tb10114.x",
+        "title": "Phytic Acid Determination in Soybeans",
+        "journal": "Journal of Food Science",
+        "year": 1982,
+        "citations": 194,
+        "authors": "Donald B. Thompson, John W. Erdman",
+        "authors_list": [
+            "Donald B. Thompson",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 194,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.bbalip.2020.158613",
+        "title": "Carotenoids and their role in cancer prevention",
+        "journal": "Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids",
+        "year": 2020,
+        "citations": 190,
+        "authors": "Joe L. Rowles, John W. Erdman",
+        "authors_list": [
+            "Joe L. Rowles",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 190,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Soy, its components, and cancer prevention: a review of the in vitro, animal, and human data.",
+        "journal": "PubMed",
+        "year": 1998,
+        "citations": 187,
+        "authors": "D. Fournier, John W. Erdman, Gary Gordon",
+        "authors_list": [
+            "D. Fournier",
+            "John W. Erdman",
+            "Gary Gordon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 187,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/0008-5472.can-06-3462",
+        "title": "Combinations of Tomato and Broccoli Enhance Antitumor Activity in Dunning R3327-H Prostate Adenocarcinomas",
+        "journal": "Cancer Research",
+        "year": 2007,
+        "citations": 179,
+        "authors": "Kirstie Canene‐Adams, Brian Lindshield, Shihua Wang et al.",
+        "authors_list": [
+            "Kirstie Canene‐Adams",
+            "Brian Lindshield",
+            "Shihua Wang",
+            "Elizabeth H. Jeffery",
+            "Steven K. Clinton",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 179,
+            "crossref": 123
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/nu10010040",
+        "title": "Soy Consumption and the Risk of Prostate Cancer: An Updated Systematic Review and Meta-Analysis",
+        "journal": "Nutrients",
+        "year": 2018,
+        "citations": 177,
+        "authors": "Catherine C. Applegate, Joe L. Rowles, Katherine M Ranard et al.",
+        "authors_list": [
+            "Catherine C. Applegate",
+            "Joe L. Rowles",
+            "Katherine M Ranard",
+            "Sookyoung Jeon",
+            "John W. Erdman"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 177,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/2072-6643/10/1/40/pdf?version=1515078640"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2621.1987.tb06634.x",
+        "title": "Phytate × Calcium/Zinc Molar Ratios: Are They Predictive of Zinc Bioavailability?",
+        "journal": "Journal of Food Science",
+        "year": 1987,
+        "citations": 174,
+        "authors": "ELIZABETH J. FORDYCE, Richard Forbes, Kelly R. Robbins et al.",
+        "authors_list": [
+            "ELIZABETH J. FORDYCE",
+            "Richard Forbes",
+            "Kelly R. Robbins",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 174,
+            "crossref": 142
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/ajcn/71.5.1077",
+        "title": "Effects of feeding 4 levels of soy protein for 3 and 6 wk on blood lipids and apolipoproteins in moderately hypercholesterolemic men",
+        "journal": "American Journal of Clinical Nutrition",
+        "year": 2000,
+        "citations": 161,
+        "authors": "Sandra R. Teixeira, Susan Potter, Ronald M. Weigel et al.",
+        "authors_list": [
+            "Sandra R. Teixeira",
+            "Susan Potter",
+            "Ronald M. Weigel",
+            "Sandra M. Hannum",
+            "John W. Erdman",
+            "Clare M. Hasler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 161,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/ajcn/article-pdf/71/5/1077/23938772/1077.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2214/ajr.16.16726",
+        "title": "A Pilot Comparative Study of Quantitative Ultrasound, Conventional Ultrasound, and MRI for Predicting Histology-Determined Steatosis Grade in Adult Nonalcoholic Fatty Liver Disease",
+        "journal": "American Journal of Roentgenology",
+        "year": 2017,
+        "citations": 159,
+        "authors": "Jeremy S. Paige, Gregory S. Bernstein, Elhamy Heba et al.",
+        "authors_list": [
+            "Jeremy S. Paige",
+            "Gregory S. Bernstein",
+            "Elhamy Heba",
+            "Eduardo Costa",
+            "Marilia Fereirra",
+            "Tanya Wolfson",
+            "Anthony Gamst",
+            "Mark A. Valasek",
+            "Grace Lin",
+            "Aiguo Han",
+            "John W. Erdman",
+            "William D. O’Brien",
+            "Michael P. André",
+            "Rohit Loomba",
+            "Claude B. Sirlin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 159,
+            "crossref": 146
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/5512552"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/132.3.531s",
+        "title": "Factors That Influence the Bioavailablity of Xanthophylls",
+        "journal": "Journal of Nutrition",
+        "year": 2002,
+        "citations": 158,
+        "authors": "Susan Zaripheh, John W. Erdman",
+        "authors_list": [
+            "Susan Zaripheh",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 158,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jn/article-pdf/132/3/531S/24016567/4w030200s531.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/134.8.1874",
+        "title": "Isolated Soy Protein Consumption Reduces Urinary Albumin Excretion and Improves the Serum Lipid Profile in Men with Type 2 Diabetes Mellitus and Nephropathy",
+        "journal": "Journal of Nutrition",
+        "year": 2004,
+        "citations": 157,
+        "authors": "Sandra R. Teixeira, Kelly A. Tappenden, LeaAnn Carson et al.",
+        "authors_list": [
+            "Sandra R. Teixeira",
+            "Kelly A. Tappenden",
+            "LeaAnn Carson",
+            "John W. Erdman",
+            "Richard N. Jones",
+            "Mukund Prabhudesai",
+            "William P. Marshall"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 157,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316623029644/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/pcan.2017.25",
+        "title": "Increased dietary and circulating lycopene are associated with reduced prostate cancer risk: a systematic review and meta-analysis",
+        "journal": "Prostate Cancer and Prostatic Diseases",
+        "year": 2017,
+        "citations": 156,
+        "authors": "Joe L. Rowles, Katherine M Ranard, Joshua W. Smith et al.",
+        "authors_list": [
+            "Joe L. Rowles",
+            "Katherine M Ranard",
+            "Joshua W. Smith",
+            "Ruopeng An",
+            "John W. Erdman"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 156,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1148/radiol.2020191160",
+        "title": "Noninvasive Diagnosis of Nonalcoholic Fatty Liver Disease and Quantification of Liver Fat with Radiofrequency Ultrasound Data Using One-dimensional Convolutional Neural Networks",
+        "journal": "Radiology",
+        "year": 2020,
+        "citations": 149,
+        "authors": "Aiguo Han, Michał Byra, Elhamy Heba et al.",
+        "authors_list": [
+            "Aiguo Han",
+            "Michał Byra",
+            "Elhamy Heba",
+            "Michael P. André",
+            "John W. Erdman",
+            "Rohit Loomba",
+            "Claude B. Sirlin",
+            "William D. O’Brien"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 149,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/7193902"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/109.9.1652",
+        "title": "Bioavailability to Rats of Zinc, Magnesium and Calcium in Casein-, Egg- and Soy Protein-Containing Diets",
+        "journal": "Journal of Nutrition",
+        "year": 1979,
+        "citations": 145,
+        "authors": "Richard Forbes, K. Weingärtner, Helen M. Parker et al.",
+        "authors_list": [
+            "Richard Forbes",
+            "K. Weingärtner",
+            "Helen M. Parker",
+            "Roma R. Bell",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 145,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jn/article-pdf/109/9/1652/24053622/jn1090091652.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/124.2.213",
+        "title": "Intake of 25 g of Soybean Protein with or without Soybean Fiber Alters Plasma Lipids in Men with Elevated Cholesterol Concentrations",
+        "journal": "Journal of Nutrition",
+        "year": 1994,
+        "citations": 143,
+        "authors": "Raga Mukhtar Bakhit, Barbara P. Klein, Diane Essex-Sorlie et al.",
+        "authors_list": [
+            "Raga Mukhtar Bakhit",
+            "Barbara P. Klein",
+            "Diane Essex-Sorlie",
+            "Joan O. Ham",
+            "John W. Erdman",
+            "Susan Potter"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 143,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/antiox10030342",
+        "title": "Lycopene: A Critical Review of Digestion, Absorption, Metabolism, and Excretion",
+        "journal": "Antioxidants",
+        "year": 2021,
+        "citations": 142,
+        "authors": "Joseph Arballo, Jaume Amengual, John W. Erdman",
+        "authors_list": [
+            "Joseph Arballo",
+            "Jaume Amengual",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 142,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/2076-3921/10/3/342/pdf?version=1615974949"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00394-017-1580-2",
+        "title": "Dietary guidance for lutein: consideration for intake recommendations is scientifically supported",
+        "journal": "European Journal of Nutrition",
+        "year": 2017,
+        "citations": 137,
+        "authors": "Katherine M Ranard, Sookyoung Jeon, Emily S. Mohn et al.",
+        "authors_list": [
+            "Katherine M Ranard",
+            "Sookyoung Jeon",
+            "Emily S. Mohn",
+            "James C. Griffiths",
+            "Elizabeth J. Johnson",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 137,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/s00394-017-1580-2.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/ajcn/49.5.725",
+        "title": "Soy products and the human diet",
+        "journal": "American Journal of Clinical Nutrition",
+        "year": 1989,
+        "citations": 137,
+        "authors": "John W. Erdman, ELIZABETH J. FORDYCE",
+        "authors_list": [
+            "John W. Erdman",
+            "ELIZABETH J. FORDYCE"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 137,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3945/an.110.000075",
+        "title": "Nutritional Aspects of Phytoene and Phytofluene, Carotenoid Precursors to Lycopene",
+        "journal": "Advances in Nutrition",
+        "year": 2011,
+        "citations": 129,
+        "authors": "Nancy J. Engelmann, Steven K. Clinton, John W. Erdman",
+        "authors_list": [
+            "Nancy J. Engelmann",
+            "Steven K. Clinton",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 129,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf803303k",
+        "title": "Presence of Lunasin in Plasma of Men after Soy Protein Consumption",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2009,
+        "citations": 126,
+        "authors": "Vermont P. Día, Sofía Torres, Ben O. de Lumen et al.",
+        "authors_list": [
+            "Vermont P. Día",
+            "Sofía Torres",
+            "Ben O. de Lumen",
+            "John W. Erdman",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 126,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1351/pac199971122213",
+        "title": "Mammalian carotenoid absorption and metabolism",
+        "journal": "Pure and Applied Chemistry",
+        "year": 1999,
+        "citations": 125,
+        "authors": "D. M. Deming, John W. Erdman",
+        "authors_list": [
+            "D. M. Deming",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 125,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.degruyter.com/document/doi/10.1351/pac199971122213/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.abb.2006.09.012",
+        "title": "Lycopenoids: Are lycopene metabolites bioactive?",
+        "journal": "Archives of Biochemistry and Biophysics",
+        "year": 2006,
+        "citations": 122,
+        "authors": "Brian Lindshield, Kirstie Canene‐Adams, John W. Erdman",
+        "authors_list": [
+            "Brian Lindshield",
+            "Kirstie Canene‐Adams",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 122,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10555-010-9246-z",
+        "title": "Tomato-based food products for prostate cancer prevention: what have we learned?",
+        "journal": "Cancer and Metastasis Reviews",
+        "year": 2010,
+        "citations": 122,
+        "authors": "Hsueh‐Li Tan, Jennifer M. Thomas‐Ahner, Elizabeth M. Grainger et al.",
+        "authors_list": [
+            "Hsueh‐Li Tan",
+            "Jennifer M. Thomas‐Ahner",
+            "Elizabeth M. Grainger",
+            "Lei Wan",
+            "David M. Francis",
+            "Steven J. Schwartz",
+            "John W. Erdman",
+            "Steven K. Clinton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 122,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3806204"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/114.8.1421",
+        "title": "Effects of Dietary Phytate, Calcium and Magnesium Levels on Zinc Bioavailability to Rats",
+        "journal": "Journal of Nutrition",
+        "year": 1984,
+        "citations": 120,
+        "authors": "Richard Forbes, Helen M. Parker, John W. Erdman",
+        "authors_list": [
+            "Richard Forbes",
+            "Helen M. Parker",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/125.4.901",
+        "title": "Patients with Anorexia Nervosa Demonstrate Deficiencies of Selected Essential Fatty Acids, Compensatory Changes in Nonessential Fatty Acids and Decreased Fluidity of Plasma Lipids",
+        "journal": "Journal of Nutrition",
+        "year": 1995,
+        "citations": 118,
+        "authors": "Ralph T. Holman, Catherine E. Adams, Ralph Nelson et al.",
+        "authors_list": [
+            "Ralph T. Holman",
+            "Catherine E. Adams",
+            "Ralph Nelson",
+            "Simeon J.E. Grater",
+            "Jerzy Jaśkiewicz",
+            "Susan B. Johnson",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1093/jn/125.4.901"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/134.5.1229s",
+        "title": "Not All Soy Products Are Created Equal: Caution Needed in Interpretation of Research Results",
+        "journal": "Journal of Nutrition",
+        "year": 2004,
+        "citations": 114,
+        "authors": "John W. Erdman, Thomas M. Badger, Johanna W. Lampe et al.",
+        "authors_list": [
+            "John W. Erdman",
+            "Thomas M. Badger",
+            "Johanna W. Lampe",
+            "Kenneth D.R. Setchell",
+            "Mark Messina"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 114,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S002231662302792X/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1148/radiol.2020191152",
+        "title": "Assessment of Hepatic Steatosis in Nonalcoholic Fatty Liver Disease by Using Quantitative US",
+        "journal": "Radiology",
+        "year": 2020,
+        "citations": 114,
+        "authors": "Aiguo Han, Yingzhen Zhang, Andrew S. Boehringer et al.",
+        "authors_list": [
+            "Aiguo Han",
+            "Yingzhen Zhang",
+            "Andrew S. Boehringer",
+            "Vivian Montes",
+            "Michael P. André",
+            "John W. Erdman",
+            "Rohit Loomba",
+            "Mark A. Valasek",
+            "Claude B. Sirlin",
+            "William D. O’Brien"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 114,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/7104700"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/01635581.2011.523494",
+        "title": "Lycopene and Apo-12′-Lycopenal Reduce Cell Proliferation and Alter Cell Cycle Progression in Human Prostate Cancer Cells",
+        "journal": "Nutrition and Cancer",
+        "year": 2011,
+        "citations": 112,
+        "authors": "Nikki A. Ford, Amy C. Elsen, Krystle E. Zuniga et al.",
+        "authors_list": [
+            "Nikki A. Ford",
+            "Amy C. Elsen",
+            "Krystle E. Zuniga",
+            "Brian Lindshield",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 112,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/ajcn/75.1.145",
+        "title": "Effect of soy protein on endogenous hormones in postmenopausal women",
+        "journal": "American Journal of Clinical Nutrition",
+        "year": 2002,
+        "citations": 111,
+        "authors": "Victoria Persky, Mary Turyk, Ling Wang et al.",
+        "authors_list": [
+            "Victoria Persky",
+            "Mary Turyk",
+            "Ling Wang",
+            "Sally Freels",
+            "Robert T. Chatterton",
+            "Stephen Barnes",
+            "John W. Erdman",
+            "Daniel W. Sepkovic",
+            "H. Leon Bradlow",
+            "Susan Potter"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 111,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/ajcn/article-pdf/75/1/145/23657833/145.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/advances/nmac026",
+        "title": "Perspective: Soy-based Meat and Dairy Alternatives, Despite Classification as Ultra-processed Foods, Deliver High-quality Nutrition on Par with Unprocessed or Minimally Processed Animal-based Counterparts",
+        "journal": "Advances in Nutrition",
+        "year": 2022,
+        "citations": 110,
+        "authors": "Mark Messina, John L Sievenpiper, Patricia Williamson et al.",
+        "authors_list": [
+            "Mark Messina",
+            "John L Sievenpiper",
+            "Patricia Williamson",
+            "Jessica Kiel",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 110,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S2161831322000370/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/foods4040547",
+        "title": "Lutein and Brain Function",
+        "journal": "Foods",
+        "year": 2015,
+        "citations": 106,
+        "authors": "John W. Erdman, Joshua W. Smith, Matthew J. Kuchan et al.",
+        "authors_list": [
+            "John W. Erdman",
+            "Joshua W. Smith",
+            "Matthew J. Kuchan",
+            "Emily S. Mohn",
+            "Elizabeth J. Johnson",
+            "Stanislav S. Rubakhin",
+            "Lin Wang",
+            "Jonathan V. Sweedler",
+            "Martha Neuringer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/2304-8158/4/4/547/pdf?version=1444629427"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.abb.2013.06.017",
+        "title": "Complex interactions between dietary and genetic factors impact lycopene metabolism and distribution",
+        "journal": "Archives of Biochemistry and Biophysics",
+        "year": 2013,
+        "citations": 103,
+        "authors": "Nancy E. Moran, John W. Erdman, Steven K. Clinton",
+        "authors_list": [
+            "Nancy E. Moran",
+            "John W. Erdman",
+            "Steven K. Clinton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3818361"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3181/00379727-218-44275",
+        "title": "Factors Influencing the Uptake and Absorption of Carotenoids",
+        "journal": "Experimental Biology and Medicine",
+        "year": 1998,
+        "citations": 103,
+        "authors": "A. W. Williams, Thomas Boileau, John W. Erdman",
+        "authors_list": [
+            "A. W. Williams",
+            "Thomas Boileau",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3945/ajcn.113.071274",
+        "title": "Recommendations on reporting requirements for flavonoids in research",
+        "journal": "American Journal of Clinical Nutrition",
+        "year": 2015,
+        "citations": 103,
+        "authors": "Douglas A. Balentine, Johanna Dwyer, John W. Erdman et al.",
+        "authors_list": [
+            "Douglas A. Balentine",
+            "Johanna Dwyer",
+            "John W. Erdman",
+            "Mário G. Ferruzzi",
+            "P. Courtney Gaine",
+            "James M. Harnly",
+            "Catherine Kwik‐Uribe"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0002916523274043/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/carcin/bgn212",
+        "title": "Manganese superoxide dismutase (MnSOD) gene polymorphism, interactions with carotenoid levels and prostate cancer risk",
+        "journal": "Carcinogenesis",
+        "year": 2008,
+        "citations": 101,
+        "authors": "Bahar Mikhak, David J. Hunter, Donna Spiegelman et al.",
+        "authors_list": [
+            "Bahar Mikhak",
+            "David J. Hunter",
+            "Donna Spiegelman",
+            "Elizabeth A. Platz",
+            "Kana Wu",
+            "John W. Erdman",
+            "Edward L. Giovannucci"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:41384799"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/130.6.1613",
+        "title": "Tissue Lycopene Concentrations and Isomer Patterns Are Affected by Androgen Status and Dietary Lycopene Concentration in Male F344 Rats",
+        "journal": "Journal of Nutrition",
+        "year": 2000,
+        "citations": 101,
+        "authors": "Thomas Boileau, John W. Erdman, Steven K. Clinton",
+        "authors_list": [
+            "Thomas Boileau",
+            "John W. Erdman",
+            "Steven K. Clinton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jn/article-pdf/130/6/1613/30117042/4w060001613.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/oby.2004.61",
+        "title": "Use of Portion‐Controlled Entrees Enhances Weight Loss in Women",
+        "journal": "Obesity Research",
+        "year": 2004,
+        "citations": 100,
+        "authors": "Sandra M. Hannum, LeaAnn Carson, Ellen M. Evans et al.",
+        "authors_list": [
+            "Sandra M. Hannum",
+            "LeaAnn Carson",
+            "Ellen M. Evans",
+            "Kirstie Canene‐Adams",
+            "E. Lauren Petr",
+            "Linh M. Bui",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 100,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/138.4.725",
+        "title": "Daily Consumption of a Dark Chocolate Containing Flavanols and Added Sterol Esters Affects Cardiovascular Risk Factors in a Normotensive Population with Elevated Cholesterol",
+        "journal": "Journal of Nutrition",
+        "year": 2008,
+        "citations": 100,
+        "authors": "Robin Allen, LeaAnn Carson, Catherine Kwik‐Uribe et al.",
+        "authors_list": [
+            "Robin Allen",
+            "LeaAnn Carson",
+            "Catherine Kwik‐Uribe",
+            "Ellen M. Evans",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 100,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316622096456/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf049238n",
+        "title": "Effective Separation of Potent Antiproliferation and Antiadhesion Components from Wild Blueberry (<i>Vaccinium angustifolium </i>Ait.) Fruits",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2004,
+        "citations": 97,
+        "authors": "Barbara M. Schmidt, Amy B. Howell, Brian McEniry et al.",
+        "authors_list": [
+            "Barbara M. Schmidt",
+            "Amy B. Howell",
+            "Brian McEniry",
+            "Christopher T. G. Knight",
+            "David S. Seigler",
+            "John W. Erdman",
+            "Mary Ann Lila"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1089/neu.2012.2672",
+        "title": "Omega-3 Fatty Acids as a Putative Treatment for Traumatic Brain Injury",
+        "journal": "Journal of Neurotrauma",
+        "year": 2013,
+        "citations": 97,
+        "authors": "Linda Hasadsri, Bonnie H. Wang, James V. Lee et al.",
+        "authors_list": [
+            "Linda Hasadsri",
+            "Bonnie H. Wang",
+            "James V. Lee",
+            "John W. Erdman",
+            "Daniel A. Llano",
+            "Aron K. Barbey",
+            "Tracey Wszalek",
+            "Matthew F. Sharrock",
+            "Huan Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev.nu.03.070183.001241",
+        "title": "Bioavailability of Trace Mineral Elements",
+        "journal": "Annual Review of Nutrition",
+        "year": 1983,
+        "citations": 96,
+        "authors": "Richard Forbes, John W. Erdman",
+        "authors_list": [
+            "Richard Forbes",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0094-0143(02)00020-4",
+        "title": "Tomato products, lycopene, and prostate cancer risk",
+        "journal": "Urologic Clinics of North America",
+        "year": 2002,
+        "citations": 95,
+        "authors": "Elizabeth C. Miller, Edward L. Giovannucci, John W. Erdman et al.",
+        "authors_list": [
+            "Elizabeth C. Miller",
+            "Edward L. Giovannucci",
+            "John W. Erdman",
+            "Robert Bahnson",
+            "Steven J. Schwartz",
+            "Steven K. Clinton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/136.6.1552",
+        "title": "Apo-8′-Lycopenal and Apo-12′-Lycopenal Are Metabolic Products of Lycopene in Rat Liver",
+        "journal": "Journal of Nutrition",
+        "year": 2006,
+        "citations": 92,
+        "authors": "Marija Gajić, Susan Zaripheh, Fu-Rong Sun et al.",
+        "authors_list": [
+            "Marija Gajić",
+            "Susan Zaripheh",
+            "Fu-Rong Sun",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 92,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jn/article-pdf/136/6/1552/23896002/1552.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf801029k",
+        "title": "Optimization of Lycopene Extraction from Tomato Cell Suspension Culture by Response Surface Methodology",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2008,
+        "citations": 90,
+        "authors": "Chi‐Hua Lu, Nancy J. Engelmann, Mary Ann Lila et al.",
+        "authors_list": [
+            "Chi‐Hua Lu",
+            "Nancy J. Engelmann",
+            "Mary Ann Lila",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2614352"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/07315724.1994.10718463",
+        "title": "Pharmacokinetics of beta-carotene and canthaxanthin after ingestion of individual and combined doses by human subjects.",
+        "journal": "Journal of the American College of Nutrition",
+        "year": 1994,
+        "citations": 90,
+        "authors": "Wendy S. White, Maria Stacewicz‐Sapuntzakis, John W. Erdman et al.",
+        "authors_list": [
+            "Wendy S. White",
+            "Maria Stacewicz‐Sapuntzakis",
+            "John W. Erdman",
+            "Phyllis E. Bowen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.canlet.2005.02.003",
+        "title": "Differential effects of blueberry proanthocyanidins on androgen sensitive and insensitive human prostate cancer cell lines",
+        "journal": "Cancer Letters",
+        "year": 2005,
+        "citations": 87,
+        "authors": "Barbara M. Schmidt, John W. Erdman, Mary Ann Lila",
+        "authors_list": [
+            "Barbara M. Schmidt",
+            "John W. Erdman",
+            "Mary Ann Lila"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/132.9.2700",
+        "title": "All-trans β-Carotene Appears to Be More Bioavailable than 9-cis or 13-cis β-Carotene in Gerbils Given Single Oral Doses of Each Isomer",
+        "journal": "Journal of Nutrition",
+        "year": 2002,
+        "citations": 87,
+        "authors": "Denise M. Deming, Sandra R. Teixeira, John W. Erdman",
+        "authors_list": [
+            "Denise M. Deming",
+            "Sandra R. Teixeira",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jn/article-pdf/132/9/2700/24016063/4w0902002700.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/130.4.728",
+        "title": "β-Carotene Modulates Human Prostate Cancer Cell Growth and May Undergo Intracellular Metabolism to Retinol",
+        "journal": "Journal of Nutrition",
+        "year": 2000,
+        "citations": 87,
+        "authors": "Alexa W. Williams, Thomas Boileau, Jin Zhou et al.",
+        "authors_list": [
+            "Alexa W. Williams",
+            "Thomas Boileau",
+            "Jin Zhou",
+            "Steven K. Clinton",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/07315724.1996.10718569",
+        "title": "The crystalline form of carotenes and the food matrix in carrot root decrease the relative bioavailability of beta- and alpha-carotene in the ferret model.",
+        "journal": "Journal of the American College of Nutrition",
+        "year": 1996,
+        "citations": 86,
+        "authors": "Junmin Zhou, Eric T. Gugger, John W. Erdman",
+        "authors_list": [
+            "Junmin Zhou",
+            "Eric T. Gugger",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/122.12.2466",
+        "title": "Reduction of Phytic Acid in Soybean Products Improves Zinc Bioavailability in Rats",
+        "journal": "Journal of Nutrition",
+        "year": 1992,
+        "citations": 86,
+        "authors": "Jin R. Zhou, ELIZABETH J. FORDYCE, Victor Raboy et al.",
+        "authors_list": [
+            "Jin R. Zhou",
+            "ELIZABETH J. FORDYCE",
+            "Victor Raboy",
+            "David B. Dickinson",
+            "Man‐Sau Wong",
+            "Robert Burns",
+            "John W. Erdman",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bf01091731",
+        "title": "Reversed phase HPLC analysis of α- and β-carotene from selected raw and cooked vegetables",
+        "journal": "Plant Foods for Human Nutrition",
+        "year": 1988,
+        "citations": 84,
+        "authors": "Jane M. Dietz, Sachi Sri Kantha, John W. Erdman",
+        "authors_list": [
+            "Jane M. Dietz",
+            "Sachi Sri Kantha",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.yrtph.2017.01.002",
+        "title": "Bioactive nutrients - Time for tolerable upper intake levels to address safety",
+        "journal": "Regulatory Toxicology and Pharmacology",
+        "year": 2017,
+        "citations": 81,
+        "authors": "Allison A. Yates, John W. Erdman, Andrew Shao et al.",
+        "authors_list": [
+            "Allison A. Yates",
+            "John W. Erdman",
+            "Andrew Shao",
+            "Laurie C. Dolan",
+            "James C. Griffiths"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0273230017300028/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41391-017-0005-x",
+        "title": "Processed and raw tomato consumption and risk of prostate cancer: a systematic review and dose–response meta-analysis",
+        "journal": "Prostate Cancer and Prostatic Diseases",
+        "year": 2018,
+        "citations": 79,
+        "authors": "Joe L. Rowles, Katherine M Ranard, Catherine C. Applegate et al.",
+        "authors_list": [
+            "Joe L. Rowles",
+            "Katherine M Ranard",
+            "Catherine C. Applegate",
+            "Sookyoung Jeon",
+            "Ruopeng An",
+            "John W. Erdman"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 79,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2621.2005.tb11461.x",
+        "title": "Effects of Food Processing on Blueberry Antiproliferation and Antioxidant Activity",
+        "journal": "Journal of Food Science",
+        "year": 2005,
+        "citations": 78,
+        "authors": "Barbara M. Schmidt, John W. Erdman, Mary Ann Lila",
+        "authors_list": [
+            "Barbara M. Schmidt",
+            "John W. Erdman",
+            "Mary Ann Lila"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Nutrition and Traumatic Brain Injury: Improving Acute and Subacute Health Outcomes in Military Personnel",
+        "journal": "",
+        "year": 2011,
+        "citations": 78,
+        "authors": "John W. Erdman, Maria Oria, Laura Pillsbury",
+        "authors_list": [
+            "John W. Erdman",
+            "Maria Oria",
+            "Laura Pillsbury"
+        ],
+        "type": "other",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/116.12.2415",
+        "title": "Effects of Purified Dietary Fiber Sources on β-Carotene Utilization by the Chick",
+        "journal": "Journal of Nutrition",
+        "year": 1986,
+        "citations": 75,
+        "authors": "John W. Erdman, G. C. Fahey, Carla Broich White",
+        "authors_list": [
+            "John W. Erdman",
+            "G. C. Fahey",
+            "Carla Broich White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/nutrit/nuz081",
+        "title": "Terms and nomenclature used for plant-derived components in nutrition and related research: efforts toward harmonization",
+        "journal": "Nutrition Reviews",
+        "year": 2019,
+        "citations": 74,
+        "authors": "Jan Frank, Naomi K. Fukagawa, Anna Rita Bilia et al.",
+        "authors_list": [
+            "Jan Frank",
+            "Naomi K. Fukagawa",
+            "Anna Rita Bilia",
+            "Elizabeth J. Johnson",
+            "Oran Kwon",
+            "Vish Prakash",
+            "Teruo Miyazawa",
+            "Michael N. Clifford",
+            "Colin D. Kay",
+            "Alan Crozier",
+            "John W. Erdman",
+            "Andrew Shao",
+            "Gary Williamson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/nutritionreviews/article-pdf/78/6/451/33202142/nuz081.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/125.6.1569",
+        "title": "Comparative Absorption and Transport of Five Common Carotenoids in Preruminant Calves",
+        "journal": "Journal of Nutrition",
+        "year": 1995,
+        "citations": 70,
+        "authors": "Tiffany L. Bierer, N. R. Merchen, John W. Erdman",
+        "authors_list": [
+            "Tiffany L. Bierer",
+            "N. R. Merchen",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1093/jn/125.6.1569"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/1940-6207.capr-14-0182",
+        "title": "Dietary Tomato and Lycopene Impact Androgen Signaling- and Carcinogenesis-Related Gene Expression during Early TRAMP Prostate Carcinogenesis",
+        "journal": "Cancer Prevention Research",
+        "year": 2014,
+        "citations": 67,
+        "authors": "Lei Wan, Hsueh‐Li Tan, Jennifer M. Thomas‐Ahner et al.",
+        "authors_list": [
+            "Lei Wan",
+            "Hsueh‐Li Tan",
+            "Jennifer M. Thomas‐Ahner",
+            "Dennis K. Pearl",
+            "John W. Erdman",
+            "Nancy E. Moran",
+            "Steven K. Clinton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://cancerpreventionresearch.aacrjournals.org/content/canprevres/7/12/1228.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/113.1.205",
+        "title": "Bioavailability of Zinc in Coagulated Soy Protein (Tofu) to Rats and Effect of Dietary Calcium at a Constant Phytate:Zinc Ratio",
+        "journal": "Journal of Nutrition",
+        "year": 1983,
+        "citations": 66,
+        "authors": "Richard Forbes, John W. Erdman, Helen M. Parker et al.",
+        "authors_list": [
+            "Richard Forbes",
+            "John W. Erdman",
+            "Helen M. Parker",
+            "Hiromichi Kondo",
+            "Sandra Mills Ketelsen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3389/fnut.2022.970364",
+        "title": "The health effects of soy: A reference guide for health professionals",
+        "journal": "Frontiers in Nutrition",
+        "year": 2022,
+        "citations": 66,
+        "authors": "Mark Messina, Alison M. Duncan, Virginia Messina et al.",
+        "authors_list": [
+            "Mark Messina",
+            "Alison M. Duncan",
+            "Virginia Messina",
+            "Heidi Lynch",
+            "Jessica Kiel",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.frontiersin.org/articles/10.3389/fnut.2022.970364/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ba-1982-0200.ch021",
+        "title": "Harvesting, Processing, and Cooking Influences on Vitamin C in Foods",
+        "journal": "Advances in chemistry series",
+        "year": 1982,
+        "citations": 66,
+        "authors": "John W. Erdman, Barbara P. Klein",
+        "authors_list": [
+            "John W. Erdman",
+            "Barbara P. Klein"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jsbmb.2019.105567",
+        "title": "Bacterial steroid-17,20-desmolase is a taxonomically rare enzymatic pathway that converts prednisone to 1,4-androstanediene-3,11,17-trione, a metabolite that causes proliferation of prostate cancer cells",
+        "journal": "The Journal of Steroid Biochemistry and Molecular Biology",
+        "year": 2019,
+        "citations": 66,
+        "authors": "Lindsey K. Ly, Joe L. Rowles, Hans Müller Paul et al.",
+        "authors_list": [
+            "Lindsey K. Ly",
+            "Joe L. Rowles",
+            "Hans Müller Paul",
+            "João M. P. Alves",
+            "Camdon Yemm",
+            "Patricia M. Wolf",
+            "Saravanan Devendran",
+            "Matthew E. Hudson",
+            "David J. Morris",
+            "John W. Erdman",
+            "Jason M. Ridlon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/7333170"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1351/pac200274081435",
+        "title": "Lycopene, tomato products, and prostate cancer prevention. Have we established causality?",
+        "journal": "Pure and Applied Chemistry",
+        "year": 2002,
+        "citations": 64,
+        "authors": "Elizabeth C. Miller, Craig W. Hadley, Steven J. Schwartz et al.",
+        "authors_list": [
+            "Elizabeth C. Miller",
+            "Craig W. Hadley",
+            "Steven J. Schwartz",
+            "John W. Erdman",
+            "Thomas Boileau",
+            "Steven K. Clinton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.degruyter.com/document/doi/10.1351/pac200274081435/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/jbmr.5650100113",
+        "title": "Alterations in calcium intake on peak bone mass in the female rat",
+        "journal": "Journal of Bone and Mineral Research",
+        "year": 1995,
+        "citations": 64,
+        "authors": "Catherine A. Peterson, Jo Ann C. Eurell, John W. Erdman",
+        "authors_list": [
+            "Catherine A. Peterson",
+            "Jo Ann C. Eurell",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/136.4.932",
+        "title": "Dietary Lycopene Downregulates Carotenoid 15,15′-Monooxygenase and PPAR-γ in Selected Rat Tissues",
+        "journal": "Journal of Nutrition",
+        "year": 2006,
+        "citations": 63,
+        "authors": "Susan Zaripheh, Takayuki Nara, Manabu Nakamura et al.",
+        "authors_list": [
+            "Susan Zaripheh",
+            "Takayuki Nara",
+            "Manabu Nakamura",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316622081755/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/136.11.2813",
+        "title": "Serum Testosterone Is Reduced Following Short-Term Phytofluene, Lycopene, or Tomato Powder Consumption in F344 Rats",
+        "journal": "Journal of Nutrition",
+        "year": 2006,
+        "citations": 63,
+        "authors": "Jessica K. Campbell, Chad K. Stroud, Manabu Nakamura et al.",
+        "authors_list": [
+            "Jessica K. Campbell",
+            "Chad K. Stroud",
+            "Manabu Nakamura",
+            "Mary Ann Lila",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316622085303/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijpsycho.2019.12.006",
+        "title": "Effects of 12-week avocado consumption on cognitive function among adults with overweight and obesity",
+        "journal": "International Journal of Psychophysiology",
+        "year": 2019,
+        "citations": 58,
+        "authors": "Caitlyn Edwards, Anne M. Walk, Sharon V. Thompson et al.",
+        "authors_list": [
+            "Caitlyn Edwards",
+            "Anne M. Walk",
+            "Sharon V. Thompson",
+            "Ginger E. Reeser",
+            "John W. Erdman",
+            "Nicholas A. Burd",
+            "Hannah D. Holscher",
+            "Naiman A. Khan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.ijpsycho.2019.12.006"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/110.2.343",
+        "title": "Comparative Effects of All-trans and 13-cis Retinoic Acid Administration on Serum and Liver Lipids in Rats",
+        "journal": "Journal of Nutrition",
+        "year": 1980,
+        "citations": 58,
+        "authors": "Leonard E. Gerber, John W. Erdman",
+        "authors_list": [
+            "Leonard E. Gerber",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/133.6.1930",
+        "title": "Variations in Plasma Lycopene and Specific Isomers over Time in a Cohort of U.S. Men",
+        "journal": "Journal of Nutrition",
+        "year": 2003,
+        "citations": 58,
+        "authors": "Kana Wu, Steven J. Schwartz, Elizabeth A. Platz et al.",
+        "authors_list": [
+            "Kana Wu",
+            "Steven J. Schwartz",
+            "Elizabeth A. Platz",
+            "Steven K. Clinton",
+            "John W. Erdman",
+            "Mário G. Ferruzzi",
+            "Walter C. Willett",
+            "Edward L. Giovannucci"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jn/article-pdf/133/6/1930/24013614/4w0603001930.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/133.12.4189",
+        "title": "[14C]-Lycopene and [14C]-Labeled Polar Products Are Differentially Distributed in Tissues of F344 Rats Prefed Lycopene",
+        "journal": "Journal of Nutrition",
+        "year": 2003,
+        "citations": 58,
+        "authors": "Susan Zaripheh, Mary Ann Lila, John W. Erdman et al.",
+        "authors_list": [
+            "Susan Zaripheh",
+            "Mary Ann Lila",
+            "John W. Erdman",
+            "Thomas Boileau"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316622161869/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0891-5849(94)90093-0",
+        "title": "Effects of a carotene-deficient diet on measures of oxidative susceptibility and superoxide dismutase activity in adult women",
+        "journal": "Free Radical Biology and Medicine",
+        "year": 1994,
+        "citations": 58,
+        "authors": "Zisca Dixon, Betty J. Burri, Andrew J. Clifford et al.",
+        "authors_list": [
+            "Zisca Dixon",
+            "Betty J. Burri",
+            "Andrew J. Clifford",
+            "E. N. Frankel",
+            "Barbara O. Schneeman",
+            "Elizabeth J. Parks",
+            "Nancy L. Keim",
+            "Teresa Barbieri",
+            "Mei-Miau Wu",
+            "Alice Fong",
+            "Mary J. Kretsch",
+            "Anne L. Sowell",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/135.9.2212",
+        "title": "The Biodistribution of a Single Oral Dose of [14C]-Lycopene in Rats Prefed Either a Control or Lycopene-Enriched Diet",
+        "journal": "Journal of Nutrition",
+        "year": 2005,
+        "citations": 57,
+        "authors": "Susan Zaripheh, John W. Erdman",
+        "authors_list": [
+            "Susan Zaripheh",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316622104037/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/nutrit/nux067",
+        "title": "Effects of dietary RRR α-tocopherol vs all-racemic α-tocopherol on health outcomes",
+        "journal": "Nutrition Reviews",
+        "year": 2017,
+        "citations": 57,
+        "authors": "Katherine M Ranard, John W. Erdman",
+        "authors_list": [
+            "Katherine M Ranard",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0021-9673(01)83342-2",
+        "title": "High-performance liquid chromatography and capillary supercritical-fluid chromatography separation of vegetable carotenoids and carotenoid isomers",
+        "journal": "Journal of Chromatography A",
+        "year": 1989,
+        "citations": 57,
+        "authors": "Harold H. Schmitz, William E. Artz, Christopher L. Poor et al.",
+        "authors_list": [
+            "Harold H. Schmitz",
+            "William E. Artz",
+            "Christopher L. Poor",
+            "Jane M. Dietz",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0076-6879(93)14058-q",
+        "title": "[11] Analysis of carotenoids in human and animal tissues",
+        "journal": "Methods in enzymology on CD-ROM/Methods in enzymology",
+        "year": 1993,
+        "citations": 57,
+        "authors": "Harold H. Schmitz, Christopher L. Poor, Eric T. Gugger et al.",
+        "authors_list": [
+            "Harold H. Schmitz",
+            "Christopher L. Poor",
+            "Eric T. Gugger",
+            "John W. Erdman"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/jum.14537",
+        "title": "Repeatability and Reproducibility of the Ultrasonic Attenuation Coefficient and Backscatter Coefficient Measured in the Right Lobe of the Liver in Adults With Known or Suspected Nonalcoholic Fatty Liver Disease",
+        "journal": "Journal of Ultrasound in Medicine",
+        "year": 2018,
+        "citations": 57,
+        "authors": "Aiguo Han, Michael P. André, Lisa H. Deiranieh et al.",
+        "authors_list": [
+            "Aiguo Han",
+            "Michael P. André",
+            "Lisa H. Deiranieh",
+            "Elise Housman",
+            "John W. Erdman",
+            "Rohit Loomba",
+            "Claude B. Sirlin",
+            "William D. O’Brien"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/6056350"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jn/122.2.262",
+        "title": "Evaluation of the Preruminant Calf as a Model for the Study of Human Carotenoid Metabolism ,",
+        "journal": "Journal of Nutrition",
+        "year": 1992,
+        "citations": 56,
+        "authors": "Christopher L. Poor, Tiffany L. Bierer, N. R. Merchen et al.",
+        "authors_list": [
+            "Christopher L. Poor",
+            "Tiffany L. Bierer",
+            "N. R. Merchen",
+            "G. C. Fahey",
+            "M.R. Murphy",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3945/ajcn.114.103143",
+        "title": "Compartmental and noncompartmental modeling of 13C-lycopene absorption, isomerization, and distribution kinetics in healthy adults",
+        "journal": "American Journal of Clinical Nutrition",
+        "year": 2015,
+        "citations": 56,
+        "authors": "Nancy E. Moran, Morgan J. Cichon, Kenneth M. Riedl et al.",
+        "authors_list": [
+            "Nancy E. Moran",
+            "Morgan J. Cichon",
+            "Kenneth M. Riedl",
+            "Elizabeth M. Grainger",
+            "Steven J. Schwartz",
+            "Janet A. Novotny",
+            "John W. Erdman",
+            "Steven K. Clinton"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/ajcn/article-pdf/102/6/1436/23757767/ajcn103143.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.nutres.2007.09.015",
+        "title": "Phytoene, phytofluene, and lycopene from tomato powder differentially accumulate in tissues of male Fisher 344 rats",
+        "journal": "Nutrition Research",
+        "year": 2007,
+        "citations": 55,
+        "authors": "Jessica K. Campbell, Nancy J. Engelmann, Mary Ann Lila et al.",
+        "authors_list": [
+            "Jessica K. Campbell",
+            "Nancy J. Engelmann",
+            "Mary Ann Lila",
+            "John W. Erdman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2330325"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1093/ajcn/68.6.1375s",
+        "title": "Soy protein and isoflavones: their effects on blood lipids and bone density in postmenopausal women",
+        "journal": "The American Journal of Clinical Nutrition",
+        "year": 1998,
+        "citations": 639,
+        "authors": "Susan M Potter, Jo Ann Baum, Hongyu Teng et al.",
+        "authors_list": [
+            "Susan M Potter",
+            "Jo Ann Baum",
+            "Hongyu Teng",
+            "Rachel J Stillman",
+            "Neil F Shay",
+            "John W Erdman"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 639
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1093/jn/135.5.1226",
+        "title": "The Tomato As a Functional Food",
+        "journal": "The Journal of Nutrition",
+        "year": 2005,
+        "citations": 292,
+        "authors": "Kirstie Canene-Adams, Jessica K. Campbell, Susan Zaripheh et al.",
+        "authors_list": [
+            "Kirstie Canene-Adams",
+            "Jessica K. Campbell",
+            "Susan Zaripheh",
+            "Elizabeth H. Jeffery",
+            "John W. Erdman"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 292
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316622102166/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1093/jn/137.3.718s",
+        "title": "Flavonoids and Heart Health: Proceedings of the ILSI North America Flavonoids Workshop, May 31–June 1, 2005, Washington, DC1, , ,",
+        "journal": "The Journal of Nutrition",
+        "year": 2007,
+        "citations": 302,
+        "authors": "John W. Erdman, Douglas Balentine, Lenore Arab et al.",
+        "authors_list": [
+            "John W. Erdman",
+            "Douglas Balentine",
+            "Lenore Arab",
+            "Gary Beecher",
+            "Johanna T. Dwyer",
+            "John Folts",
+            "James Harnly",
+            "Peter Hollman",
+            "Carl L. Keen",
+            "G. Mazza",
+            "Mark Messina",
+            "Augustin Scalbert",
+            "Joseph Vita",
+            "Gary Williamson",
+            "Jerrilynn Burrowes"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 302
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316622091283/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.cgh.2014.11.027",
+        "title": "Noninvasive Diagnosis of Nonalcoholic Fatty Liver Disease and Quantification of Liver Fat Using a New Quantitative Ultrasound Technique",
+        "journal": "Clinical Gastroenterology and Hepatology",
+        "year": 2015,
+        "citations": 228,
+        "authors": "Steven C. Lin, Elhamy Heba, Tanya Wolfson et al.",
+        "authors_list": [
+            "Steven C. Lin",
+            "Elhamy Heba",
+            "Tanya Wolfson",
+            "Brandon Ang",
+            "Anthony Gamst",
+            "Aiguo Han",
+            "John W. Erdman",
+            "William D. O’Brien",
+            "Michael P. Andre",
+            "Claude B. Sirlin",
+            "Rohit Loomba"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 228
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1093/jn/134.12.3486s",
+        "title": "Tomato Phytochemicals and Prostate Cancer Risk",
+        "journal": "The Journal of Nutrition",
+        "year": 2004,
+        "citations": 141,
+        "authors": "Jessica K. Campbell, Kirstie Canene-Adams, Brian L. Lindshield et al.",
+        "authors_list": [
+            "Jessica K. Campbell",
+            "Kirstie Canene-Adams",
+            "Brian L. Lindshield",
+            "Thomas W.-M. Boileau",
+            "Steven K. Clinton",
+            "John W. Erdman"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 141
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316623031978/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.abb.2008.10.022",
+        "title": "Are the health attributes of lycopene related to its antioxidant function?",
+        "journal": "Archives of Biochemistry and Biophysics",
+        "year": 2009,
+        "citations": 168,
+        "authors": "John W. Erdman, Nikki A. Ford, Brian L. Lindshield",
+        "authors_list": [
+            "John W. Erdman",
+            "Nikki A. Ford",
+            "Brian L. Lindshield"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 168
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2745920"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1093/advances/nmy025",
+        "title": "Intrinsic and Extrinsic Factors Impacting Absorption, Metabolism, and Health Effects of Dietary Carotenoids",
+        "journal": "Advances in Nutrition",
+        "year": 2018,
+        "citations": 188,
+        "authors": "Nancy E Moran, Emily S Mohn, Noor Hason et al.",
+        "authors_list": [
+            "Nancy E Moran",
+            "Emily S Mohn",
+            "Noor Hason",
+            "John W Erdman",
+            "Elizabeth J Johnson"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 188
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/advances/article-pdf/9/4/465/25180127/nmy025.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1093/jn/129.12.2271",
+        "title": "Review of Animal Models in Carotenoid Research",
+        "journal": "The Journal of Nutrition",
+        "year": 1999,
+        "citations": 163,
+        "authors": "Christine M. Lee, Amy C. Boileau, Thomas W.M. Boileau et al.",
+        "authors_list": [
+            "Christine M. Lee",
+            "Amy C. Boileau",
+            "Thomas W.M. Boileau",
+            "Alexa W. Williams",
+            "Kelly S. Swanson",
+            "Kasey A. Heintz",
+            "John W. Erdman"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 163
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316623023581/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1093/ajcn/71.5.1077",
+        "title": "Effects of feeding 4 levels of soy protein for 3 and 6 wk on blood lipids and apolipoproteins in moderately hypercholesterolemic men",
+        "journal": "The American Journal of Clinical Nutrition",
+        "year": 2000,
+        "citations": 124,
+        "authors": "Sandra R Teixeira, Susan M Potter, Ronald Weigel et al.",
+        "authors_list": [
+            "Sandra R Teixeira",
+            "Susan M Potter",
+            "Ronald Weigel",
+            "Sandra Hannum",
+            "John W Erdman Jr",
+            "Clare M Hasler"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 124
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/ajcn/article-pdf/71/5/1077/23938772/1077.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1093/jn/132.3.531s",
+        "title": "Factors That Influence the Bioavailablity of Xanthophylls",
+        "journal": "The Journal of Nutrition",
+        "year": 2002,
+        "citations": 123,
+        "authors": "Susan Zaripheh, John W. Erdman",
+        "authors_list": [
+            "Susan Zaripheh",
+            "John W. Erdman"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 123
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jn/article-pdf/132/3/531S/24016567/4w030200s531.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1093/jn/134.8.1874",
+        "title": "Isolated Soy Protein Consumption Reduces Urinary Albumin Excretion and Improves the Serum Lipid Profile in Men with Type 2 Diabetes Mellitus and Nephropathy",
+        "journal": "The Journal of Nutrition",
+        "year": 2004,
+        "citations": 119,
+        "authors": "Sandra R. Teixeira, Kelly A. Tappenden, LeaAnn Carson et al.",
+        "authors_list": [
+            "Sandra R. Teixeira",
+            "Kelly A. Tappenden",
+            "LeaAnn Carson",
+            "John W. Erdman",
+            "Richard Jones",
+            "Mukund Prabhudesai",
+            "William P. Marshall"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 119
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0022316623029644/pdf"
+        }
+    }
+]

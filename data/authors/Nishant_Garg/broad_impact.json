@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://www.linkedin.com/in/nishantgarg",
+        "snippet": "Nishant Garg. Head of Product · Enterprise AI Platforms, Developer Experience, Agentic AI Adoption · 0→1 → Enterprise Scale · Infrastructure to Business ...",
+        "category": "Website",
+        "relevance_score": 100,
+        "reasoning": "The URL appears to be a LinkedIn profile page, indicating it is a website."
+    },
+    {
+        "url": "https://cee.illinois.edu/directory/profile/nishantg",
+        "snippet": "Nishant Garg is an Associate Professor in the Department of Civil and Environmental Engineering at the University of Illinois Urbana-Champaign. Here, he leads ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet appears to be a university faculty profile, likely from an academic publication or directory."
+    },
+    {
+        "url": "https://nemo.asee.org/public/conferences/374/author_index/158043",
+        "snippet": "2026 ASEE Annual Conference & Exposition papers by Nishant Garg ; Crystal Vision: An Interactive Video Game for Engineering Materials, Civil Engineering Division ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "Author's research paper is being presented at a conference"
+    },
+    {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0008884621002416",
+        "snippet": "Firstly, Raman spectroscopy cannot detect Raman inactive phases such as free ... Nishant Garg: Conceptualization, Formal analysis, Resources, Writing ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The URL is a scientific article on ScienceDirect, indicating publication content."
+    },
+    {
+        "url": "https://news.illinois.edu/researchers-develop-a-five-minute-quality-test-for-sustainable-cement-industry-materials/",
+        "snippet": "... cementitious construction materials in five minutes. Pictured are ... Pictured are Illinois researchers Yujia Min, Hossein Kabir, Nishant Garg, ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The URL is from a university's news site and mentions researchers by name."
+    },
+    {
+        "url": "https://www.linkedin.com/posts/nishant-garg-prof_raman-cement-physical-activity-7100484937996259328-Z7Ue",
+        "snippet": "Nishant Garg's Post ... Raman imaging of cement clinker, elucidating phase composition and 'phase-specific' particle ... RoboCop was the Explosive ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The snippet appears to be a personal LinkedIn post from an individual, suggesting recent news or updates about their work."
+    },
+    {
+        "url": "https://www.linkedin.com/posts/nishant-garg-prof_cementresearch-ramanimaging-phasequantification-activity-7240015049291874305-_LHI",
+        "snippet": "... Raman images and analyzing statistically significant large areas ... Nishant Garg. Associate Professor at University of Illinois Urbana ...",
+        "category": "Publication",
+        "relevance_score": 80,
+        "reasoning": "Author shares experience on LinkedIn, likely referencing a published paper or project."
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=602AjO1uk98",
+        "snippet": "Here we are! Presenting the coparcener episode of the striking ' Interview Series'. Featuring the vitalizing personality of Dr. Nishant Garg ...",
+        "category": "Media/Video",
+        "relevance_score": 80,
+        "reasoning": "The URL is a YouTube link and the snippet describes an interview series."
+    }
+]

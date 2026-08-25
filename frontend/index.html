@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Scholarix Trust Audit — Confidence vs. Reasoning</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div class="masthead-title">
+        <span class="eyebrow">Case file · broad_impact.json</span>
+        <h1>Scholarix Trust Audit</h1>
+        <p class="tagline">Where the AI's confidence score doesn't match its own words.</p>
+      </div>
+      <div class="masthead-meta">
+        <span id="authors-loaded-label">loading data…</span>
+      </div>
+    </div>
+  </header>
+
+  <section class="ledger" id="ledger">
+    <!-- stat strip injected by app.js -->
+  </section>
+
+  <nav class="tabs" id="tabs">
+    <button class="tab-btn active" data-view="all">All Researchers</button>
+    <button class="tab-btn" data-view="worst">Worst Offenders</button>
+  </nav>
+
+  <main id="app">
+    <section id="view-all" class="view active">
+      <div class="table-wrap">
+        <table id="authors-table">
+          <thead>
+            <tr>
+              <th>Researcher</th>
+              <th>Affiliation</th>
+              <th class="num">Claims Reviewed</th>
+              <th class="num">Overstated</th>
+              <th class="num">Overstated %</th>
+            </tr>
+          </thead>
+          <tbody id="authors-table-body">
+            <!-- rows injected by app.js -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="view-worst" class="view">
+      <p class="section-note">The eight largest gaps between a stated relevance score and what the AI's own reasoning actually supports, across all 50 researchers.</p>
+      <div id="worst-list" class="evidence-list"></div>
+    </section>
+
+    <section id="view-detail" class="view">
+      <button id="back-btn" class="back-btn">&larr; All researchers</button>
+      <div id="detail-header"></div>
+      <div id="detail-list" class="evidence-list"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Prototype built for the Scholarix AI evaluation task · rule-based lexical audit, not a black-box model · every flag traces to an exact phrase in the source reasoning.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,3460 @@
+[
+    {
+        "doi": "https://doi.org/10.1016/j.pmatsci.2013.10.001",
+        "title": "Microstructures and properties of high-entropy alloys",
+        "journal": "Progress in Materials Science",
+        "year": 2013,
+        "citations": 7081,
+        "authors": "Yong Zhang, Ting Ting Zuo, Zhi Tang et al.",
+        "authors_list": [
+            "Yong Zhang",
+            "Ting Ting Zuo",
+            "Zhi Tang",
+            "Michael C. Gao",
+            "Karin A. Dahmen",
+            "Peter K. Liaw",
+            "Zhao Ping Lu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 7081,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/35065675",
+        "title": "Crackling noise",
+        "journal": "Nature",
+        "year": 2001,
+        "citations": 1190,
+        "authors": "James P. Sethna, Karin A. Dahmen, Christopher R. Myers",
+        "authors_list": [
+            "James P. Sethna",
+            "Karin A. Dahmen",
+            "Christopher R. Myers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1190,
+            "crossref": 1091
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0102091"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.corsci.2017.02.019",
+        "title": "Corrosion of Al  CoCrFeNi high-entropy alloys: Al-content and potential scan-rate dependent pitting behavior",
+        "journal": "Corrosion Science",
+        "year": 2017,
+        "citations": 871,
+        "authors": "Yunzhu Shi, Bin Yang, Xie Xie et al.",
+        "authors_list": [
+            "Yunzhu Shi",
+            "Bin Yang",
+            "Xie Xie",
+            "Jamieson Brechtl",
+            "Karin A. Dahmen",
+            "Peter K. Liaw"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 871,
+            "crossref": 864
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1398302"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.70.3347",
+        "title": "Hysteresis and hierarchies: Dynamics of disorder-driven first-order phase transformations",
+        "journal": "Physical Review Letters",
+        "year": 1993,
+        "citations": 723,
+        "authors": "James P. Sethna, Karin A. Dahmen, Sivan Kartha et al.",
+        "authors_list": [
+            "James P. Sethna",
+            "Karin A. Dahmen",
+            "Sivan Kartha",
+            "J. A. Krumhansl",
+            "Bruce W. Roberts",
+            "Joel D. Shore"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 723,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/9210018"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.108.208102",
+        "title": "Universal Critical Dynamics in High Resolution Neuronal Avalanche Data",
+        "journal": "Physical Review Letters",
+        "year": 2012,
+        "citations": 516,
+        "authors": "Nir Friedman, Shinya Ito, Braden A. W. Brinkman et al.",
+        "authors_list": [
+            "Nir Friedman",
+            "Shinya Ito",
+            "Braden A. W. Brinkman",
+            "Masanori Shimono",
+            "Robert Deville",
+            "Karin A. Dahmen",
+            "John M. Beggs",
+            "Thomas Butler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 516,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevLett.108.208102"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s11837-013-0776-z",
+        "title": "Aluminum Alloying Effects on Lattice Types, Microstructures, and Mechanical Behavior of High-Entropy Alloys Systems",
+        "journal": "JOM",
+        "year": 2013,
+        "citations": 378,
+        "authors": "Zhi Tang, Michael C. Gao, Haoyan Diao et al.",
+        "authors_list": [
+            "Zhi Tang",
+            "Michael C. Gao",
+            "Haoyan Diao",
+            "Tengfei Yang",
+            "Junpeng Liu",
+            "Tingting Zuo",
+            "Yong Zhang",
+            "Zhaoping Lü",
+            "Yongqiang Cheng",
+            "Yanwen Zhang",
+            "Karin A. Dahmen",
+            "Peter K. Liaw",
+            "T. Egami"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 378,
+            "crossref": 332
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cossms.2017.08.003",
+        "title": "Fundamental deformation behavior in high-entropy alloys: An overview",
+        "journal": "Current Opinion in Solid State and Materials Science",
+        "year": 2017,
+        "citations": 369,
+        "authors": "H. Diao, Rui Feng, Karin A. Dahmen et al.",
+        "authors_list": [
+            "H. Diao",
+            "Rui Feng",
+            "Karin A. Dahmen",
+            "Peter K. Liaw"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 369,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1495885"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.102.175501",
+        "title": "Micromechanical Model for Deformation in Solids with Universal Predictions for Stress-Strain Curves and Slip Avalanches",
+        "journal": "Physical Review Letters",
+        "year": 2009,
+        "citations": 348,
+        "authors": "Karin A. Dahmen, Yehuda Ben‐Zion, Jonathan T. Uhl",
+        "authors_list": [
+            "Karin A. Dahmen",
+            "Yehuda Ben‐Zion",
+            "Jonathan T. Uhl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 348,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.pmatsci.2017.06.004",
+        "title": "Serration and noise behaviors in materials",
+        "journal": "Progress in Materials Science",
+        "year": 2017,
+        "citations": 307,
+        "authors": "Yong Zhang, Junpeng Liu, Shu Ying Chen et al.",
+        "authors_list": [
+            "Yong Zhang",
+            "Junpeng Liu",
+            "Shu Ying Chen",
+            "Xie Xie",
+            "Peter K. Liaw",
+            "Karin A. Dahmen",
+            "Jun Qiao",
+            "Yan Li Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 307,
+            "crossref": 287
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1549762"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.75.4528",
+        "title": "Avalanches, Barkhausen Noise, and Plain Old Criticality",
+        "journal": "Physical Review Letters",
+        "year": 1995,
+        "citations": 305,
+        "authors": "Olga Perković, Karin A. Dahmen, James P. Sethna",
+        "authors_list": [
+            "Olga Perković",
+            "Karin A. Dahmen",
+            "James P. Sethna"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 305,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/9506111"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nphys1957",
+        "title": "A simple analytic theory for the statistics of avalanches in sheared granular materials",
+        "journal": "Nature Physics",
+        "year": 2011,
+        "citations": 275,
+        "authors": "Karin A. Dahmen, Yehuda Ben‐Zion, Jonathan T. Uhl",
+        "authors_list": [
+            "Karin A. Dahmen",
+            "Yehuda Ben‐Zion",
+            "Jonathan T. Uhl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 275,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/nphys1957.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.78.4885",
+        "title": "Statistics of Earthquakes in Simple Models of Heterogeneous Faults",
+        "journal": "Physical Review Letters",
+        "year": 1997,
+        "citations": 270,
+        "authors": "Daniel S. Fisher, Karin A. Dahmen, Sharad Ramanathan et al.",
+        "authors_list": [
+            "Daniel S. Fisher",
+            "Karin A. Dahmen",
+            "Sharad Ramanathan",
+            "Yehuda Ben‐Zion"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 270,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/9703029"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.53.14872",
+        "title": "Hysteresis, avalanches, and disorder-induced critical scaling: A renormalization-group approach",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 1996,
+        "citations": 266,
+        "authors": "Karin A. Dahmen, James P. Sethna",
+        "authors_list": [
+            "Karin A. Dahmen",
+            "James P. Sethna"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 266,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/9507118"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.112.155501",
+        "title": "Bulk Metallic Glasses Deform via Slip Avalanches",
+        "journal": "Physical Review Letters",
+        "year": 2014,
+        "citations": 251,
+        "authors": "James Antonaglia, Wendelin J. Wright, Xiaojun Gu et al.",
+        "authors_list": [
+            "James Antonaglia",
+            "Wendelin J. Wright",
+            "Xiaojun Gu",
+            "Rachel R. Byer",
+            "Todd C. Hufnagel",
+            "Michael LeBlanc",
+            "Jonathan T. Uhl",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 251,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1312.6179"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev-conmatphys-031113-133838",
+        "title": "Crackling Noise in Disordered Materials",
+        "journal": "Annual Review of Condensed Matter Physics",
+        "year": 2014,
+        "citations": 231,
+        "authors": "Ekhard K. H. Salje, Karin A. Dahmen",
+        "authors_list": [
+            "Ekhard K. H. Salje",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 231,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.109.095507",
+        "title": "Statistics of Dislocation Slip Avalanches in Nanosized Single Crystals Show Tuned Critical Behavior Predicted by a Simple Mean Field Model",
+        "journal": "Physical Review Letters",
+        "year": 2012,
+        "citations": 220,
+        "authors": "Nir Friedman, Andrew T. Jennings, Georgios Tsekenis et al.",
+        "authors_list": [
+            "Nir Friedman",
+            "Andrew T. Jennings",
+            "Georgios Tsekenis",
+            "Ju‐Young Kim",
+            "Molei Tao",
+            "Jonathan T. Uhl",
+            "Julia R. Greer",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 220,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.59.6106",
+        "title": "Disorder-induced critical phenomena in hysteresis: Numerical scaling in three and higher dimensions",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 1999,
+        "citations": 204,
+        "authors": "Olga Perković, Karin A. Dahmen, James P. Sethna",
+        "authors_list": [
+            "Olga Perković",
+            "Karin A. Dahmen",
+            "James P. Sethna"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 204,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/9807336"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/e16020870",
+        "title": "Microstructures and Crackling Noise of AlxNbTiMoV High Entropy Alloys",
+        "journal": "Entropy",
+        "year": 2014,
+        "citations": 191,
+        "authors": "Shu Chen, Xiao Yang, Karin A. Dahmen et al.",
+        "authors_list": [
+            "Shu Chen",
+            "Xiao Yang",
+            "Karin A. Dahmen",
+            "Peter K. Liaw",
+            "Yong Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 191,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/1099-4300/16/2/870/pdf?version=1424785282"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.actamat.2016.01.002",
+        "title": "Manipulation of free volumes in a metallic glass through Xe-ion irradiation",
+        "journal": "Acta Materialia",
+        "year": 2016,
+        "citations": 171,
+        "authors": "Xilei Bian, G. Wang, H.C. Chen et al.",
+        "authors_list": [
+            "Xilei Bian",
+            "G. Wang",
+            "H.C. Chen",
+            "Long Yan",
+            "J.G. Wang",
+            "Qiang Wang",
+            "Pengfei Hu",
+            "Jingli Ren",
+            "K.C. Chan",
+            "N. Zheng",
+            "A. Teresiak",
+            "Yulong Gao",
+            "Qijie Zhai",
+            "J. Eckert",
+            "James Beadsworth",
+            "Karin A. Dahmen",
+            "Peter K. Liaw"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 171,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/am/pii/S1359645416300027?via%3Dihub"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms9805",
+        "title": "Reversibility and criticality in amorphous solids",
+        "journal": "Nature Communications",
+        "year": 2015,
+        "citations": 159,
+        "authors": "Ido Regev, John Weber, C. Reichhardt et al.",
+        "authors_list": [
+            "Ido Regev",
+            "John Weber",
+            "C. Reichhardt",
+            "Karin A. Dahmen",
+            "Turab Lookman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 159,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms9805.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/srep04382",
+        "title": "Tuned Critical Avalanche Scaling in Bulk Metallic Glasses",
+        "journal": "Scientific Reports",
+        "year": 2014,
+        "citations": 158,
+        "authors": "James Antonaglia, Xie Xie, Gregory J. Schwarz et al.",
+        "authors_list": [
+            "James Antonaglia",
+            "Xie Xie",
+            "Gregory J. Schwarz",
+            "M. Wraith",
+            "Junwei Qiao",
+            "Yong Zhang",
+            "Peter K. Liaw",
+            "Jonathan T. Uhl",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 158,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/srep04382.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/srep16997",
+        "title": "Experiments and Model for Serration Statistics in Low-Entropy, Medium-Entropy and High-Entropy Alloys",
+        "journal": "Scientific Reports",
+        "year": 2015,
+        "citations": 155,
+        "authors": "Robert E. Carroll, Chi Lee, Che‐Wei Tsai et al.",
+        "authors_list": [
+            "Robert E. Carroll",
+            "Chi Lee",
+            "Che‐Wei Tsai",
+            "Jien-Wei Yeh",
+            "James Antonaglia",
+            "Braden A. W. Brinkman",
+            "Michael LeBlanc",
+            "Xie Xie",
+            "Shuying Chen",
+            "Peter K. Liaw",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 155,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/srep16997.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.58.1494",
+        "title": "Gutenberg-Richter and characteristic earthquake behavior in simple mean-field models of heterogeneous faults",
+        "journal": "Physical review. E, Statistical physics, plasmas, fluids, and related interdisciplinary topics",
+        "year": 1998,
+        "citations": 132,
+        "authors": "Karin A. Dahmen, Deniz Ertaş, Yehuda Ben‐Zion",
+        "authors_list": [
+            "Karin A. Dahmen",
+            "Deniz Ertaş",
+            "Yehuda Ben‐Zion"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 132,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/9803057"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.mattod.2021.08.001",
+        "title": "Deformation behavior of a Co-Cr-Fe-Ni-Mo medium-entropy alloy at extremely low temperatures",
+        "journal": "Materials Today",
+        "year": 2021,
+        "citations": 130,
+        "authors": "Jongun Moon, E. D. Tabachnikova, С. Э. Шумилин et al.",
+        "authors_list": [
+            "Jongun Moon",
+            "E. D. Tabachnikova",
+            "С. Э. Шумилин",
+            "Tetiana Hryhorova",
+            "Yuri Estrin",
+            "Jamieson Brechtl",
+            "Peter K. Liaw",
+            "Wenqing Wang",
+            "Karin A. Dahmen",
+            "Alireza Zargaran",
+            "Jae Wung Bae",
+            "Hyeon-Seok Do",
+            "Byeong‐Joo Lee",
+            "Hyoung Seop Kim"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1843667"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms10641",
+        "title": "Universality of slip avalanches in flowing granular matter",
+        "journal": "Nature Communications",
+        "year": 2016,
+        "citations": 128,
+        "authors": "Д. В. Денисов, Kinga A. Lőrincz, Jonathan T. Uhl et al.",
+        "authors_list": [
+            "Д. В. Денисов",
+            "Kinga A. Lőrincz",
+            "Jonathan T. Uhl",
+            "Karin A. Dahmen",
+            "Peter Schall"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms10641.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0012-821x(99)00187-9",
+        "title": "Self-driven mode switching of earthquake activity on a fault system",
+        "journal": "Earth and Planetary Science Letters",
+        "year": 1999,
+        "citations": 126,
+        "authors": "Yehuda Ben‐Zion, Karin A. Dahmen, Vladimir Lyakhovsky et al.",
+        "authors_list": [
+            "Yehuda Ben‐Zion",
+            "Karin A. Dahmen",
+            "Vladimir Lyakhovsky",
+            "Deniz Ertaş",
+            "Amotz Agnon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 126,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41524-017-0024-0",
+        "title": "Atomic and electronic basis for the serrations of refractory high-entropy alloys",
+        "journal": "npj Computational Materials",
+        "year": 2017,
+        "citations": 124,
+        "authors": "William Yi Wang, Shun‐Li Shang, Yi Wang et al.",
+        "authors_list": [
+            "William Yi Wang",
+            "Shun‐Li Shang",
+            "Yi Wang",
+            "Fengbo Han",
+            "Kristopher A. Darling",
+            "Yidong Wu",
+            "Xie Xie",
+            "O.N. Senkov",
+            "Jinshan Li",
+            "Xi Dong Hui",
+            "Karin A. Dahmen",
+            "Peter K. Liaw",
+            "Laszlo J. Kecskes",
+            "Zi‐Kui Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 124,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41524-017-0024-0.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/srep16493",
+        "title": "Universal Quake Statistics: From Compressed Nanocrystals to Earthquakes",
+        "journal": "Scientific Reports",
+        "year": 2015,
+        "citations": 123,
+        "authors": "Jonathan T. Uhl, Shivesh Pathak, Danijel Schorlemmer et al.",
+        "authors_list": [
+            "Jonathan T. Uhl",
+            "Shivesh Pathak",
+            "Danijel Schorlemmer",
+            "Xin Liu",
+            "Ryan Swindeman",
+            "Braden A. W. Brinkman",
+            "Michael LeBlanc",
+            "Georgios Tsekenis",
+            "Nir Friedman",
+            "Robert Behringer",
+            "Д. В. Денисов",
+            "Peter Schall",
+            "Xiao-Jun Gu",
+            "Wendelin J. Wright",
+            "Todd C. Hufnagel",
+            "Andrew T. Jennings",
+            "Julia R. Greer",
+            "Peter K. Liaw",
+            "T. W. Becker",
+            "Georg Dresen",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 123,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/srep16493.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.65.046139",
+        "title": "Universal pulse shape scaling function and exponents: Critical test for avalanche models applied to Barkhausen noise",
+        "journal": "Physical review. E, Statistical physics, plasmas, fluids, and related interdisciplinary topics",
+        "year": 2002,
+        "citations": 118,
+        "authors": "Amit P. Mehta, Andrea C. Mills, Karin A. Dahmen et al.",
+        "authors_list": [
+            "Amit P. Mehta",
+            "Andrea C. Mills",
+            "Karin A. Dahmen",
+            "James P. Sethna"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0112107"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.91.085702",
+        "title": "Driving Rate Effects on Crackling Noise",
+        "journal": "Physical Review Letters",
+        "year": 2003,
+        "citations": 104,
+        "authors": "Robert A. White, Karin A. Dahmen",
+        "authors_list": [
+            "Robert A. White",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0202246"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.73.056104",
+        "title": "Universal mean moment rate profiles of earthquake ruptures",
+        "journal": "Physical Review E",
+        "year": 2006,
+        "citations": 102,
+        "authors": "Amit P. Mehta, Karin A. Dahmen, Yehuda Ben‐Zion",
+        "authors_list": [
+            "Amit P. Mehta",
+            "Karin A. Dahmen",
+            "Yehuda Ben‐Zion"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0509226"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s11837-014-1130-9",
+        "title": "Temperature Effects on Deformation and Serration Behavior of High-Entropy Alloys (HEAs)",
+        "journal": "JOM",
+        "year": 2014,
+        "citations": 101,
+        "authors": "James Antonaglia, Xufei Xie, Zijian Tang et al.",
+        "authors_list": [
+            "James Antonaglia",
+            "Xufei Xie",
+            "Zijian Tang",
+            "Che‐Wei Tsai",
+            "Junwei Qiao",
+            "Yong Zhang",
+            "Marina Laktionova",
+            "E. D. Tabachnikova",
+            "J.W. Yeh",
+            "O.N. Senkov",
+            "Michael C. Gao",
+            "Jonathan T. Uhl",
+            "Peter K. Liaw",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1224527"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s11431-017-9137-4",
+        "title": "Fatigue behavior of high-entropy alloys: A review",
+        "journal": "Science China Technological Sciences",
+        "year": 2017,
+        "citations": 99,
+        "authors": "Peiyong Chen, Chanho Lee, Shao-Yu Wang et al.",
+        "authors_list": [
+            "Peiyong Chen",
+            "Chanho Lee",
+            "Shao-Yu Wang",
+            "Mohsen Seifi",
+            "John J. Lewandowski",
+            "Karin A. Dahmen",
+            "Haoling Jia",
+            "Xie Xie",
+            "BiLin Chen",
+            "Jien-Wei Yeh",
+            "Che‐Wei Tsai",
+            "Tao Yuan",
+            "Peter K. Liaw"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.123.178002",
+        "title": "Networks and Hierarchies: How Amorphous Materials Learn to Remember",
+        "journal": "Physical Review Letters",
+        "year": 2019,
+        "citations": 93,
+        "authors": "Muhittin Mungan, Srikanth Sastry, Karin A. Dahmen et al.",
+        "authors_list": [
+            "Muhittin Mungan",
+            "Srikanth Sastry",
+            "Karin A. Dahmen",
+            "Ido Regev"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 93,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1905.09259"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s002850000025",
+        "title": "Life and death near a windy oasis",
+        "journal": "Journal of Mathematical Biology",
+        "year": 2000,
+        "citations": 90,
+        "authors": "Karin A. Dahmen, David R. Nelson, Nadav M. Shnerb",
+        "authors_list": [
+            "Karin A. Dahmen",
+            "David R. Nelson",
+            "Nadav M. Shnerb"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41567-018-0077-0",
+        "title": "Classical topological order in the kinetics of artificial spin ice",
+        "journal": "Nature Physics",
+        "year": 2018,
+        "citations": 90,
+        "authors": "Yuyang Lao, Francesco Caravelli, M. A. Sheikh et al.",
+        "authors_list": [
+            "Yuyang Lao",
+            "Francesco Caravelli",
+            "M. A. Sheikh",
+            "Joseph Sklenar",
+            "Daniel Gardeazabal",
+            "Justin D. Watts",
+            "Alan Albrecht",
+            "A. Schöll",
+            "Karin A. Dahmen",
+            "Cristiano Nisoli",
+            "P. Schiffer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1479948"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijplas.2019.07.003",
+        "title": "Portevin-Le Chatelier mechanism in face-centered-cubic metallic alloys from low to high entropy",
+        "journal": "International Journal of Plasticity",
+        "year": 2019,
+        "citations": 84,
+        "authors": "Che‐Wei Tsai, Chi Lee, Po Ting Lin et al.",
+        "authors_list": [
+            "Che‐Wei Tsai",
+            "Chi Lee",
+            "Po Ting Lin",
+            "Xie Xie",
+            "Shuying Chen",
+            "Robert E. Carroll",
+            "Michael LeBlanc",
+            "Braden A. W. Brinkman",
+            "Peter K. Liaw",
+            "Karin A. Dahmen",
+            "Jien-Wei Yeh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/am/pii/S0749641918305965?via%3Dihub"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.91.042403",
+        "title": "Slip statistics of dislocation avalanches under different loading modes",
+        "journal": "Physical Review E",
+        "year": 2015,
+        "citations": 81,
+        "authors": "R. Maaß, M. Wraith, Jonathan T. Uhl et al.",
+        "authors_list": [
+            "R. Maaß",
+            "M. Wraith",
+            "Jonathan T. Uhl",
+            "Julia R. Greer",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevmaterials.3.014415",
+        "title": "Ferroelectric switching and scale invariant avalanches in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mrow><mml:mi>BaTi</mml:mi><mml:msub><mml:mi mathvariant=\"normal\">O</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>",
+        "journal": "Physical Review Materials",
+        "year": 2019,
+        "citations": 77,
+        "authors": "Ekhard K. H. Salje, Dezhen Xue, Xiangdong Ding et al.",
+        "authors_list": [
+            "Ekhard K. H. Salje",
+            "Dezhen Xue",
+            "Xiangdong Ding",
+            "Karin A. Dahmen",
+            "J. F. Scott"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.96.097003",
+        "title": "Hysteresis and Noise from Electronic Nematicity in High-Temperature Superconductors",
+        "journal": "Physical Review Letters",
+        "year": 2006,
+        "citations": 76,
+        "authors": "E. W. Carlson, Karin A. Dahmen, Eduardo Fradkin et al.",
+        "authors_list": [
+            "E. W. Carlson",
+            "Karin A. Dahmen",
+            "Eduardo Fradkin",
+            "Steven A. Kivelson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0510259"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.71.3222",
+        "title": "Hysteresis loop critical exponents in 6-ε dimensions",
+        "journal": "Physical Review Letters",
+        "year": 1993,
+        "citations": 75,
+        "authors": "Karin A. Dahmen, James P. Sethna",
+        "authors_list": [
+            "Karin A. Dahmen",
+            "James P. Sethna"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/9310038"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.87.022126",
+        "title": "Universal fluctuations and extreme statistics of avalanches near the depinning transition",
+        "journal": "Physical Review E",
+        "year": 2013,
+        "citations": 74,
+        "authors": "Michael LeBlanc, Luiza Angheluta, Karin A. Dahmen et al.",
+        "authors_list": [
+            "Michael LeBlanc",
+            "Luiza Angheluta",
+            "Karin A. Dahmen",
+            "Nigel Goldenfeld"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1303.1781"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.msea.2016.12.110",
+        "title": "Deformation mechanisms of Al0.1CoCrFeNi at elevated temperatures",
+        "journal": "Materials Science and Engineering A",
+        "year": 2016,
+        "citations": 73,
+        "authors": "Tengfei Yang, Zhi Tang, Xie Xie et al.",
+        "authors_list": [
+            "Tengfei Yang",
+            "Zhi Tang",
+            "Xie Xie",
+            "Robert E. Carroll",
+            "Gongyao Wang",
+            "Yugang Wang",
+            "Karin A. Dahmen",
+            "Peter K. Liaw",
+            "Yanwen Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1398613"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/srep10789",
+        "title": "Laser Shock Peening on Zr-based Bulk Metallic Glass and Its Effect on Plasticity: Experiment and Modeling",
+        "journal": "Scientific Reports",
+        "year": 2015,
+        "citations": 73,
+        "authors": "Yunfeng Cao, Xie Xie, James Antonaglia et al.",
+        "authors_list": [
+            "Yunfeng Cao",
+            "Xie Xie",
+            "James Antonaglia",
+            "B. Winiarski",
+            "Gongyao Wang",
+            "Yung C. Shin",
+            "Philip J. Withers",
+            "Karin A. Dahmen",
+            "Peter K. Liaw"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/srep10789.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijplas.2015.10.006",
+        "title": "Shear avalanches in plastic deformation of a metallic glass composite",
+        "journal": "International Journal of Plasticity",
+        "year": 2015,
+        "citations": 72,
+        "authors": "Xing Tong, G. Wang, Jun Yi et al.",
+        "authors_list": [
+            "Xing Tong",
+            "G. Wang",
+            "Jun Yi",
+            "Jingli Ren",
+            "S. Pauly",
+            "Yulong Gao",
+            "Qijie Zhai",
+            "N. Mattern",
+            "Karin A. Dahmen",
+            "Peter K. Liaw",
+            "J. Eckert"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/am/pii/S0749641915001813?via%3Dihub"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/b978-012480874-4/50013-0",
+        "title": "Random-Field Ising Models of Hysteresis",
+        "journal": "Elsevier eBooks",
+        "year": 2006,
+        "citations": 72,
+        "authors": "James P. Sethna, Karin A. Dahmen, Olga Perković",
+        "authors_list": [
+            "James P. Sethna",
+            "Karin A. Dahmen",
+            "Olga Perković"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.matchemphys.2017.09.004",
+        "title": "Temperature effects on the serrated behavior of an Al0.5CoCrCuFeNi high-entropy alloy",
+        "journal": "Materials Chemistry and Physics",
+        "year": 2017,
+        "citations": 71,
+        "authors": "Shuying Chen, Xie Xie, Weidong Li et al.",
+        "authors_list": [
+            "Shuying Chen",
+            "Xie Xie",
+            "Weidong Li",
+            "Rui Feng",
+            "Bilin Chen",
+            "Junwei Qiao",
+            "Yang Ren",
+            "Yong Zhang",
+            "Karin A. Dahmen",
+            "Peter K. Liaw"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1471593"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.eml.2016.04.013",
+        "title": "Microstructure and small-scale size effects in plasticity of individual phases of Al0.7CoCrFeNi High Entropy alloy",
+        "journal": "Extreme Mechanics Letters",
+        "year": 2016,
+        "citations": 69,
+        "authors": "Adenike M. Giwa, Peter K. Liaw, Karin A. Dahmen et al.",
+        "authors_list": [
+            "Adenike M. Giwa",
+            "Peter K. Liaw",
+            "Karin A. Dahmen",
+            "Julia R. Greer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1397447"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevx.9.011014",
+        "title": "Transforming Mesoscale Granular Plasticity Through Particle Shape",
+        "journal": "Physical Review X",
+        "year": 2019,
+        "citations": 66,
+        "authors": "Kieran A. Murphy, Karin A. Dahmen, Heinrich M. Jaeger",
+        "authors_list": [
+            "Kieran A. Murphy",
+            "Karin A. Dahmen",
+            "Heinrich M. Jaeger"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevX.9.011014"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp9057669",
+        "title": "A Comparative Study of Multivariate and Univariate Hidden Markov Modelings in Time-Binned Single-Molecule FRET Data Analysis",
+        "journal": "The Journal of Physical Chemistry B",
+        "year": 2010,
+        "citations": 64,
+        "authors": "Yang Liu, Jeehae Park, Karin A. Dahmen et al.",
+        "authors_list": [
+            "Yang Liu",
+            "Jeehae Park",
+            "Karin A. Dahmen",
+            "Yann R. Chemla",
+            "Taekjip Ha"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s11837-015-1580-8",
+        "title": "Effects of Temperature on Serrated Flows of Al0.5CoCrCuFeNi High-Entropy Alloy",
+        "journal": "JOM",
+        "year": 2015,
+        "citations": 63,
+        "authors": "Shuying Chen, Xie Xie, Bilin Chen et al.",
+        "authors_list": [
+            "Shuying Chen",
+            "Xie Xie",
+            "Bilin Chen",
+            "Junwei Qiao",
+            "Yong Zhang",
+            "Yang Ren",
+            "Karin A. Dahmen",
+            "Peter K. Liaw"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1224528"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-319-27013-5_6",
+        "title": "Mechanical Properties of High-Entropy Alloys",
+        "journal": "",
+        "year": 2016,
+        "citations": 61,
+        "authors": "Haoyan Diao, Xie Xie, Fei Sun et al.",
+        "authors_list": [
+            "Haoyan Diao",
+            "Xie Xie",
+            "Fei Sun",
+            "Karin A. Dahmen",
+            "Peter K. Liaw"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms1920",
+        "title": "Spatial complexity due to bulk electronic nematicity in a superconducting underdoped cuprate",
+        "journal": "Nature Communications",
+        "year": 2012,
+        "citations": 59,
+        "authors": "Benjamin Phillabaum, E. W. Carlson, Karin A. Dahmen",
+        "authors_list": [
+            "Benjamin Phillabaum",
+            "E. W. Carlson",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms1920.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/srep43376",
+        "title": "Universal slip dynamics in metallic glasses and granular matter – linking frictional weakening with inertial effects",
+        "journal": "Scientific Reports",
+        "year": 2017,
+        "citations": 56,
+        "authors": "Д. В. Денисов, Kinga A. Lőrincz, Wendelin J. Wright et al.",
+        "authors_list": [
+            "Д. В. Денисов",
+            "Kinga A. Lőrincz",
+            "Wendelin J. Wright",
+            "Todd C. Hufnagel",
+            "Aya Nawano",
+            "Xiaojun Gu",
+            "Jonathan T. Uhl",
+            "Karin A. Dahmen",
+            "Peter Schall"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/srep43376.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jmps.2018.02.012",
+        "title": "Nanomechanics of slip avalanches in amorphous plasticity",
+        "journal": "Journal of the Mechanics and Physics of Solids",
+        "year": 2018,
+        "citations": 54,
+        "authors": "Penghui Cao, Karin A. Dahmen, Akihiro Kushima et al.",
+        "authors_list": [
+            "Penghui Cao",
+            "Karin A. Dahmen",
+            "Akihiro Kushima",
+            "Wendelin J. Wright",
+            "Harold S. Park",
+            "Michael Philip Short",
+            "Sidney Yip"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://stars.library.ucf.edu/scopus2015/8762"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adfm.201103050",
+        "title": "Suppression of Catastrophic Failure in Metallic Glass–Polyisoprene Nanolaminate Containing Nanopillars",
+        "journal": "Advanced Functional Materials",
+        "year": 2012,
+        "citations": 53,
+        "authors": "Ju‐Young Kim, X. Wendy Gu, M. Wraith et al.",
+        "authors_list": [
+            "Ju‐Young Kim",
+            "X. Wendy Gu",
+            "M. Wraith",
+            "Jonathan T. Uhl",
+            "Karin A. Dahmen",
+            "Julia R. Greer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s42005-018-0062-z",
+        "title": "Dislocation avalanche mechanism in slowly compressed high entropy alloy nanopillars",
+        "journal": "Communications Physics",
+        "year": 2018,
+        "citations": 52,
+        "authors": "Yang Hu, Shu Li, Qun Yang et al.",
+        "authors_list": [
+            "Yang Hu",
+            "Shu Li",
+            "Qun Yang",
+            "Wei Guo",
+            "Peter K. Liaw",
+            "Karin A. Dahmen",
+            "Jian‐Min Zuo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s42005-018-0062-z.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/5992.774844",
+        "title": "Hysteresis, avalanches, and noise",
+        "journal": "Computing in Science & Engineering",
+        "year": 1999,
+        "citations": 51,
+        "authors": "Matthew C. Kuntz, Olga Perković, Karin A. Dahmen et al.",
+        "authors_list": [
+            "Matthew C. Kuntz",
+            "Olga Perković",
+            "Karin A. Dahmen",
+            "B. W. Roberts",
+            "James P. Sethna"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/9809122"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.120.245501",
+        "title": "Experimental Evidence of Accelerated Seismic Release without Critical Failure in Acoustic Emissions of Compressed Nanoporous Materials",
+        "journal": "Physical Review Letters",
+        "year": 2018,
+        "citations": 50,
+        "authors": "Jordi Baró, Karin A. Dahmen, Jörn Davidsen et al.",
+        "authors_list": [
+            "Jordi Baró",
+            "Karin A. Dahmen",
+            "Jörn Davidsen",
+            "Antoni Planes",
+            "Pedro O. Castillo",
+            "Guillaume F. Nataf",
+            "Ekhard K. H. Salje",
+            "Eduard Vives"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1803.09293"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41598-021-84688-7",
+        "title": "The duration-energy-size enigma for acoustic emission",
+        "journal": "Scientific Reports",
+        "year": 2021,
+        "citations": 49,
+        "authors": "Blai Casals, Karin A. Dahmen, Boyuan Gou et al.",
+        "authors_list": [
+            "Blai Casals",
+            "Karin A. Dahmen",
+            "Boyuan Gou",
+            "S. Rooke",
+            "Ekhard K. H. Salje"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41598-021-84688-7.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.66.024430",
+        "title": "Crackling noise, power spectra, and disorder-induced critical scaling",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 2002,
+        "citations": 48,
+        "authors": "Alex Travesset, Robert A. White, Karin A. Dahmen",
+        "authors_list": [
+            "Alex Travesset",
+            "Robert A. White",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0112133"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.actamat.2014.12.038",
+        "title": "Low-cycle fatigue of metallic glass nanowires",
+        "journal": "Acta Materialia",
+        "year": 2015,
+        "citations": 47,
+        "authors": "Jian Luo, Karin A. Dahmen, Peter K. Liaw et al.",
+        "authors_list": [
+            "Jian Luo",
+            "Karin A. Dahmen",
+            "Peter K. Liaw",
+            "Yunfeng Shi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1250966"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4942004",
+        "title": "Experimental evidence for both progressive and simultaneous shear during quasistatic compression of a bulk metallic glass",
+        "journal": "Journal of Applied Physics",
+        "year": 2016,
+        "citations": 47,
+        "authors": "Wendelin J. Wright, Yun Liu, Xiaojun Gu et al.",
+        "authors_list": [
+            "Wendelin J. Wright",
+            "Yun Liu",
+            "Xiaojun Gu",
+            "Katherine D. Van Ness",
+            "Steven L. Robare",
+            "Xin Liu",
+            "James Antonaglia",
+            "Michael LeBlanc",
+            "Jonathan T. Uhl",
+            "Todd C. Hufnagel",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aip.scitation.org/doi/pdf/10.1063/1.4942004"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adem.201300518",
+        "title": "Superelasticity and Serration Behavior in Small‐Sized NiMnGa Alloys",
+        "journal": "Advanced Engineering Materials",
+        "year": 2014,
+        "citations": 46,
+        "authors": "Yong Zhang, Min Li, Yandong Wang et al.",
+        "authors_list": [
+            "Yong Zhang",
+            "Min Li",
+            "Yandong Wang",
+            "Jun Lin",
+            "Karin A. Dahmen",
+            "Zi Long Wang",
+            "Peter K. Liaw"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 46,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.79.061124",
+        "title": "Unexpected universality in static and dynamic avalanches",
+        "journal": "Physical Review E",
+        "year": 2009,
+        "citations": 45,
+        "authors": "Yang Liu, Karin A. Dahmen",
+        "authors_list": [
+            "Yang Liu",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1002.4240"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.48550/arxiv.cond-mat/9809122",
+        "title": "Hysteresis, Avalanches, and Noise: Numerical Methods",
+        "journal": "arXiv (Cornell University)",
+        "year": 1998,
+        "citations": 45,
+        "authors": "Matthew C. Kuntz, Olga Perković, Karin A. Dahmen et al.",
+        "authors_list": [
+            "Matthew C. Kuntz",
+            "Olga Perković",
+            "Karin A. Dahmen",
+            "Bruce W. Roberts",
+            "James P. Sethna"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.116.036401",
+        "title": "Random Field Driven Spatial Complexity at the Mott Transition in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mrow><mml:mi>VO</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math>",
+        "journal": "Physical Review Letters",
+        "year": 2016,
+        "citations": 45,
+        "authors": "Shuo Liu, Benjamin Phillabaum, E. W. Carlson et al.",
+        "authors_list": [
+            "Shuo Liu",
+            "Benjamin Phillabaum",
+            "E. W. Carlson",
+            "Karin A. Dahmen",
+            "N. S. Vidhyadhiraja",
+            "M. M. Qazilbash",
+            "D. N. Basov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1502.05426"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.106.105501",
+        "title": "Dislocations Jam at Any Density",
+        "journal": "Physical Review Letters",
+        "year": 2011,
+        "citations": 44,
+        "authors": "Georgios Tsekenis, Nigel Goldenfeld, Karin A. Dahmen",
+        "authors_list": [
+            "Georgios Tsekenis",
+            "Nigel Goldenfeld",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 44,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1012.5096"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jmps.2018.11.015",
+        "title": "Origin of serrated flow in bulk metallic glasses",
+        "journal": "Journal of the Mechanics and Physics of Solids",
+        "year": 2018,
+        "citations": 41,
+        "authors": "Xie Xie, Yu‐Chieh Lo, Yang Tong et al.",
+        "authors_list": [
+            "Xie Xie",
+            "Yu‐Chieh Lo",
+            "Yang Tong",
+            "Junwei Qiao",
+            "Gongyao Wang",
+            "Shigenobu Ogata",
+            "Hairong Qi",
+            "Karin A. Dahmen",
+            "Yanfei Gao",
+            "Peter K. Liaw"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 41,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1636129"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s100510050339",
+        "title": "Depinning of a domain wall in the 2d random-field Ising model",
+        "journal": "The European Physical Journal B",
+        "year": 1998,
+        "citations": 41,
+        "authors": "Barbara Drossel, Karin A. Dahmen",
+        "authors_list": [
+            "Barbara Drossel",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 41,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/9802087"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.103.062614",
+        "title": "Topology of the energy landscape of sheared amorphous solids and the irreversibility transition",
+        "journal": "Physical review. E",
+        "year": 2021,
+        "citations": 40,
+        "authors": "Ido Regev, Ido Attia, Karin A. Dahmen et al.",
+        "authors_list": [
+            "Ido Regev",
+            "Ido Attia",
+            "Karin A. Dahmen",
+            "Srikanth Sastry",
+            "Muhittin Mungan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 40,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/2101.01083"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1088/1478-3975/10/2/026002",
+        "title": "DNA looping increases the range of bistability in a stochastic model of the <i>lac</i> genetic switch",
+        "journal": "Physical Biology",
+        "year": 2013,
+        "citations": 40,
+        "authors": "Tyler M. Earnest, Elijah Roberts, Michael Assaf et al.",
+        "authors_list": [
+            "Tyler M. Earnest",
+            "Elijah Roberts",
+            "Michael Assaf",
+            "Karin A. Dahmen",
+            "Zaida Luthey‐Schulten"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 40,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1088/1478-3975/10/2/026002/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms1375",
+        "title": "Using disorder to detect locally ordered electron nematics via hysteresis",
+        "journal": "Nature Communications",
+        "year": 2011,
+        "citations": 40,
+        "authors": "E. W. Carlson, Karin A. Dahmen",
+        "authors_list": [
+            "E. W. Carlson",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 40,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms1375.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.92.060201",
+        "title": "Stick-slip behavior in a continuum-granular experiment",
+        "journal": "Physical Review E",
+        "year": 2015,
+        "citations": 39,
+        "authors": "Drew Geller, Robert E. Ecke, Karin A. Dahmen et al.",
+        "authors_list": [
+            "Drew Geller",
+            "Robert E. Ecke",
+            "Karin A. Dahmen",
+            "Scott Backhaus"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 39,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1230066"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.117.261101",
+        "title": "Avalanche Statistics Identify Intrinsic Stellar Processes near Criticality in KIC 8462852",
+        "journal": "Physical Review Letters",
+        "year": 2016,
+        "citations": 36,
+        "authors": "M. A. Sheikh, Richard L. Weaver, Karin A. Dahmen",
+        "authors_list": [
+            "M. A. Sheikh",
+            "Richard L. Weaver",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 36,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.92.012113",
+        "title": "Scaling behavior and complexity of plastic deformation for a bulk metallic glass at cryogenic temperatures",
+        "journal": "Physical Review E",
+        "year": 2015,
+        "citations": 36,
+        "authors": "Cun Chen, Jingli Ren, Gang Wang et al.",
+        "authors_list": [
+            "Cun Chen",
+            "Jingli Ren",
+            "Gang Wang",
+            "Karin A. Dahmen",
+            "Peter K. Liaw"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 36,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1198635"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevmaterials.5.083601",
+        "title": "Unraveling the discontinuous plastic flow of a Co-Cr-Fe-Ni-Mo multiprincipal-element alloy at deep cryogenic temperatures",
+        "journal": "Physical Review Materials",
+        "year": 2021,
+        "citations": 35,
+        "authors": "Jongun Moon, E. D. Tabachnikova, С. Э. Шумилин et al.",
+        "authors_list": [
+            "Jongun Moon",
+            "E. D. Tabachnikova",
+            "С. Э. Шумилин",
+            "Tetiana Hryhorova",
+            "Yuri Estrin",
+            "Jamieson Brechtl",
+            "Peter K. Liaw",
+            "Wenqing Wang",
+            "Karin A. Dahmen",
+            "Hyoung Seop Kim"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 35,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1813130"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevresearch.5.021001",
+        "title": "Reversible to irreversible transitions in periodic driven many-body systems and future directions for classical and quantum systems",
+        "journal": "Physical Review Research",
+        "year": 2023,
+        "citations": 35,
+        "authors": "C. Reichhardt, Ido Regev, Karin A. Dahmen et al.",
+        "authors_list": [
+            "C. Reichhardt",
+            "Ido Regev",
+            "Karin A. Dahmen",
+            "S. Okuma",
+            "C. J. O. Reichhardt"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 35,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevResearch.5.021001"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.5004241",
+        "title": "Plastic dynamics of the Al0.5CoCrCuFeNi high entropy alloy at cryogenic temperatures: Jerky flow, stair-like fluctuation, scaling behavior, and non-chaotic state",
+        "journal": "Applied Physics Letters",
+        "year": 2017,
+        "citations": 35,
+        "authors": "Xiaoxiang Guo, Xie Xie, Jingli Ren et al.",
+        "authors_list": [
+            "Xiaoxiang Guo",
+            "Xie Xie",
+            "Jingli Ren",
+            "Marina Laktionova",
+            "E. D. Tabachnikova",
+            "Li‐Ping Yu",
+            "Wing‐Sum Cheung",
+            "Karin A. Dahmen",
+            "Peter K. Liaw"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 35,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aip.scitation.org/doi/pdf/10.1063/1.5004241"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1215089110",
+        "title": "Earthquake-like dynamics in <i>Myxococcus xanthus</i> social motility",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2013,
+        "citations": 35,
+        "authors": "Maxsim Gibiansky, Wei Hu, Karin A. Dahmen et al.",
+        "authors_list": [
+            "Maxsim Gibiansky",
+            "Wei Hu",
+            "Karin A. Dahmen",
+            "Wenyuan Shi",
+            "Gerard C. L. Wong"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 35,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/110/6/2330.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00024-011-0273-7",
+        "title": "A Unifying Phase Diagram for the Dynamics of Sheared Solids and Granular Materials",
+        "journal": "Pure and Applied Geophysics",
+        "year": 2011,
+        "citations": 33,
+        "authors": "Yehuda Ben‐Zion, Karin A. Dahmen, Jonathan T. Uhl",
+        "authors_list": [
+            "Yehuda Ben‐Zion",
+            "Karin A. Dahmen",
+            "Jonathan T. Uhl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 33,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.msea.2015.05.074",
+        "title": "The mechanism of power-law scaling behavior by controlling shear bands in bulk metallic glass",
+        "journal": "Materials Science and Engineering A",
+        "year": 2015,
+        "citations": 31,
+        "authors": "Z. Wang, Junwei Qiao, G. Wang et al.",
+        "authors_list": [
+            "Z. Wang",
+            "Junwei Qiao",
+            "G. Wang",
+            "Karin A. Dahmen",
+            "Peter K. Liaw",
+            "Zhihua Wang",
+            "Bin-yu Wang",
+            "Bingshe Xu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 31,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2138/am-2019-7058",
+        "title": "Change of crackling noise in granite by thermal damage: Monitoring nuclear waste deposits",
+        "journal": "American Mineralogist",
+        "year": 2019,
+        "citations": 30,
+        "authors": "Kainan Xie, Xiang Jiang, Deyi Jiang et al.",
+        "authors_list": [
+            "Kainan Xie",
+            "Xiang Jiang",
+            "Deyi Jiang",
+            "Yang Xiao",
+            "Shiwan Chen",
+            "Karin A. Dahmen",
+            "Eduard Vives",
+            "Antoni Planes",
+            "Ekhard K. H. Salje"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 30,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.2138/am-2019-7058"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.109.105702",
+        "title": "Distribution of Maximum Velocities in Avalanches Near the Depinning Transition",
+        "journal": "Physical Review Letters",
+        "year": 2012,
+        "citations": 29,
+        "authors": "Michael LeBlanc, Luiza Angheluta, Karin A. Dahmen et al.",
+        "authors_list": [
+            "Michael LeBlanc",
+            "Luiza Angheluta",
+            "Karin A. Dahmen",
+            "Nigel Goldenfeld"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 29,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1303.1783"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1407235111",
+        "title": "Single-molecule packaging initiation in real time by a viral DNA packaging machine from bacteriophage T4",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2014,
+        "citations": 28,
+        "authors": "Reza Vafabakhsh, Kiran Kondabagil, Tyler M. Earnest et al.",
+        "authors_list": [
+            "Reza Vafabakhsh",
+            "Kiran Kondabagil",
+            "Tyler M. Earnest",
+            "Kyung Suk Lee",
+            "Zhihong Zhang",
+            "Li Dai",
+            "Karin A. Dahmen",
+            "Venigalla B. Rao",
+            "Taekjip Ha"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 28,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/111/42/15096.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.66.214201",
+        "title": "Hysteresis in driven disordered systems: From plastic depinning to magnets",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 2002,
+        "citations": 25,
+        "authors": "M. Cristina Marchetti, Karin A. Dahmen",
+        "authors_list": [
+            "M. Cristina Marchetti",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 25,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0203168"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10948-014-2898-0",
+        "title": "Decoding Spatial Complexity in Strongly Correlated Electronic Systems",
+        "journal": "Journal of Superconductivity and Novel Magnetism",
+        "year": 2015,
+        "citations": 24,
+        "authors": "E. W. Carlson, Shuo Liu, Benjamin Phillabaum et al.",
+        "authors_list": [
+            "E. W. Carlson",
+            "Shuo Liu",
+            "Benjamin Phillabaum",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nphys140",
+        "title": "Universal clues in noisy skews",
+        "journal": "Nature Physics",
+        "year": 2005,
+        "citations": 24,
+        "authors": "Karin A. Dahmen",
+        "authors_list": [
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/srep21967",
+        "title": "Loading-rate-independent delay of catastrophic avalanches in a bulk metallic glass",
+        "journal": "Scientific Reports",
+        "year": 2016,
+        "citations": 24,
+        "authors": "Shunhua Chen, K.C. Chan, G. Wang et al.",
+        "authors_list": [
+            "Shunhua Chen",
+            "K.C. Chan",
+            "G. Wang",
+            "Fufa Wu",
+            "L. Xia",
+            "Jingli Ren",
+            "J. Li",
+            "Karin A. Dahmen",
+            "Peter K. Liaw"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/srep21967.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1209/0295-5075/86/56003",
+        "title": "Random-field Ising model in and out of equilibrium",
+        "journal": "Europhysics Letters (EPL)",
+        "year": 2009,
+        "citations": 23,
+        "authors": "Y. Liu, Karin A. Dahmen",
+        "authors_list": [
+            "Y. Liu",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 23,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0609609"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0304-8853(00)00749-6",
+        "title": "Hysteresis and avalanches: phase transitions and critical phenomena in driven disordered systems",
+        "journal": "Journal of Magnetism and Magnetic Materials",
+        "year": 2001,
+        "citations": 23,
+        "authors": "Karin A. Dahmen, James P. Sethna, Matthew C. Kuntz et al.",
+        "authors_list": [
+            "Karin A. Dahmen",
+            "James P. Sethna",
+            "Matthew C. Kuntz",
+            "Olga Perković"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 23,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10035-019-0946-y",
+        "title": "From critical behavior to catastrophic runaways: comparing sheared granular materials with bulk metallic glasses",
+        "journal": "Granular Matter",
+        "year": 2019,
+        "citations": 23,
+        "authors": "Alan A. Long, Д. В. Денисов, Peter Schall et al.",
+        "authors_list": [
+            "Alan A. Long",
+            "Д. В. Денисов",
+            "Peter Schall",
+            "Todd C. Hufnagel",
+            "Xiao-Jun Gu",
+            "Wendelin J. Wright",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 23,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/s10035-019-0946-y.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.95.032902",
+        "title": "Scaling of slip avalanches in sheared amorphous materials based on large-scale atomistic simulations",
+        "journal": "Physical review. E",
+        "year": 2017,
+        "citations": 23,
+        "authors": "Dansong Zhang, Karin A. Dahmen, Martin Ostoja‐Starzewski",
+        "authors_list": [
+            "Dansong Zhang",
+            "Karin A. Dahmen",
+            "Martin Ostoja‐Starzewski"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 23,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-319-45612-6_2",
+        "title": "Mean Field Theory of Slip Statistics",
+        "journal": "Understanding complex systems",
+        "year": 2016,
+        "citations": 23,
+        "authors": "Karin A. Dahmen",
+        "authors_list": [
+            "Karin A. Dahmen"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 23,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.3263732",
+        "title": "Simultaneous determination of intergranular interactions and intrinsic switching field distributions in magnetic materials",
+        "journal": "Applied Physics Letters",
+        "year": 2009,
+        "citations": 20,
+        "authors": "Ondřej Hovorka, Yifei Liu, Karin A. Dahmen et al.",
+        "authors_list": [
+            "Ondřej Hovorka",
+            "Yifei Liu",
+            "Karin A. Dahmen",
+            "Andreas Berger"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 20,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.76.031106",
+        "title": "No-passing rule in the ground state evolution of the random-field Ising model",
+        "journal": "Physical Review E",
+        "year": 2007,
+        "citations": 19,
+        "authors": "Yang Liu, Karin A. Dahmen",
+        "authors_list": [
+            "Yang Liu",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 19,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0705.0186"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.123.035501",
+        "title": "Yield Precursor Dislocation Avalanches in Small Crystals: The Irreversibility Transition",
+        "journal": "Physical Review Letters",
+        "year": 2019,
+        "citations": 19,
+        "authors": "Xiaoyue Ni, Haolu Zhang, Danilo B. Liarte et al.",
+        "authors_list": [
+            "Xiaoyue Ni",
+            "Haolu Zhang",
+            "Danilo B. Liarte",
+            "Louis W. McFaul",
+            "Karin A. Dahmen",
+            "James P. Sethna",
+            "Julia R. Greer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 19,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevLett.123.035501"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4419-7695-6_36",
+        "title": "Jerky Motion in Slowly Driven Magnetic and Earthquake Fault Systems, Physics of",
+        "journal": "",
+        "year": 2010,
+        "citations": 19,
+        "authors": "Karin A. Dahmen, Yehuda Ben‐Zion",
+        "authors_list": [
+            "Karin A. Dahmen",
+            "Yehuda Ben‐Zion"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 19,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.81.224207",
+        "title": "Noise predictions for STM in systems with local electron nematic order",
+        "journal": "Physical Review B",
+        "year": 2010,
+        "citations": 18,
+        "authors": "Yen Lee Loh, E. W. Carlson, Karin A. Dahmen",
+        "authors_list": [
+            "Yen Lee Loh",
+            "E. W. Carlson",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 18,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1003.2216"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms7157",
+        "title": "Probing failure susceptibilities of earthquake faults using small-quake tidal correlations",
+        "journal": "Nature Communications",
+        "year": 2015,
+        "citations": 18,
+        "authors": "Braden A. W. Brinkman, Michael LeBlanc, Yehuda Ben‐Zion et al.",
+        "authors_list": [
+            "Braden A. W. Brinkman",
+            "Michael LeBlanc",
+            "Yehuda Ben‐Zion",
+            "Jonathan T. Uhl",
+            "Karin A. Dahmen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 18,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms7157.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.pmatsci.2013.10.001",
+        "title": "Microstructures and properties of high-entropy alloys",
+        "journal": "Progress in Materials Science",
+        "year": 2014,
+        "citations": 6860,
+        "authors": "Yong Zhang, Ting Ting Zuo, Zhi Tang et al.",
+        "authors_list": [
+            "Yong Zhang",
+            "Ting Ting Zuo",
+            "Zhi Tang",
+            "Michael C. Gao",
+            "Karin A. Dahmen",
+            "Peter K. Liaw",
+            "Zhao Ping Lu"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 6860
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.70.3347",
+        "title": "Hysteresis and hierarchies: Dynamics of disorder-driven first-order phase transformations",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 641,
+        "authors": "James P. Sethna, Karin Dahmen, Sivan Kartha et al.",
+        "authors_list": [
+            "James P. Sethna",
+            "Karin Dahmen",
+            "Sivan Kartha",
+            "James A. Krumhansl",
+            "Bruce W. Roberts",
+            "Joel D. Shore"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 641
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/9210018"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.108.208102",
+        "title": "Universal Critical Dynamics in High Resolution Neuronal Avalanche Data",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 446,
+        "authors": "Nir Friedman, Shinya Ito, Braden A. W. Brinkman et al.",
+        "authors_list": [
+            "Nir Friedman",
+            "Shinya Ito",
+            "Braden A. W. Brinkman",
+            "Masanori Shimono",
+            "R. E. Lee DeVille",
+            "Karin A. Dahmen",
+            "John M. Beggs",
+            "Thomas C. Butler"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 446
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevLett.108.208102"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.cossms.2017.08.003",
+        "title": "Fundamental deformation behavior in high-entropy alloys: An overview",
+        "journal": "Current Opinion in Solid State and Materials Science",
+        "year": 2017,
+        "citations": 358,
+        "authors": "H.Y. Diao, R. Feng, K.A. Dahmen et al.",
+        "authors_list": [
+            "H.Y. Diao",
+            "R. Feng",
+            "K.A. Dahmen",
+            "P.K. Liaw"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 358
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1495885"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/srep16997",
+        "title": "Experiments and Model for Serration Statistics in Low-Entropy, Medium-Entropy and High-Entropy Alloys",
+        "journal": "Scientific Reports",
+        "year": null,
+        "citations": 142,
+        "authors": "Robert Carroll, Chi Lee, Che-Wei Tsai et al.",
+        "authors_list": [
+            "Robert Carroll",
+            "Chi Lee",
+            "Che-Wei Tsai",
+            "Jien-Wei Yeh",
+            "James Antonaglia",
+            "Braden A. W. Brinkman",
+            "Michael LeBlanc",
+            "Xie Xie",
+            "Shuying Chen",
+            "Peter K. Liaw",
+            "Karin A. Dahmen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 142
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/srep16997.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physreve.58.1494",
+        "title": "Gutenberg-Richter and characteristic earthquake behavior in simple mean-field models of heterogeneous faults",
+        "journal": "Physical Review E",
+        "year": null,
+        "citations": 114,
+        "authors": "Karin Dahmen, Deniz Ertaş, Yehuda Ben-Zion",
+        "authors_list": [
+            "Karin Dahmen",
+            "Deniz Ertaş",
+            "Yehuda Ben-Zion"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 114
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/9803057"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s0012-821x(99)00187-9",
+        "title": "Self-driven mode switching of earthquake activity on a fault system",
+        "journal": "Earth and Planetary Science Letters",
+        "year": 1999,
+        "citations": 94,
+        "authors": "Yehuda Ben-Zion, Karin Dahmen, Vladimir Lyakhovsky et al.",
+        "authors_list": [
+            "Yehuda Ben-Zion",
+            "Karin Dahmen",
+            "Vladimir Lyakhovsky",
+            "Deniz Ertas",
+            "Amotz Agnon"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 94
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physreve.65.046139",
+        "title": "Universal pulse shape scaling function and exponents: Critical test for avalanche models applied to Barkhausen noise",
+        "journal": "Physical Review E",
+        "year": null,
+        "citations": 84,
+        "authors": "Amit P. Mehta, Andrea C. Mills, Karin A. Dahmen et al.",
+        "authors_list": [
+            "Amit P. Mehta",
+            "Andrea C. Mills",
+            "Karin A. Dahmen",
+            "James P. Sethna"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 84
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0112107"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.91.085702",
+        "title": "Driving Rate Effects on Crackling Noise",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 83,
+        "authors": "Robert A. White, Karin A. Dahmen",
+        "authors_list": [
+            "Robert A. White",
+            "Karin A. Dahmen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 83
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0202246"
+        }
+    }
+]

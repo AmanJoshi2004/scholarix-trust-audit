@@ -1,0 +1,51 @@
+[
+    {
+        "url": "https://scholar.google.com/citations?user=VGnBXzMAAAAJ&hl=en",
+        "snippet": "Imaging grains and grain boundaries in single-layer graphene: An atomic patchwork quilt. PY Huang, CS Ruiz-Vargas, AM Van Der Zande, WS Whitney, S Garg ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet appears to be a citation for an academic publication, mentioning authors and title of the work."
+    },
+    {
+        "url": "https://microscopy.org/files/galleries/Pinshane-Huang.pdf",
+        "snippet": "Pinshane Y. Huang ... Her research is focused around aberration-corrected scanning transmission electron microscopy, 4D-STEM, diffraction-based imaging, and ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL links directly to a downloadable PDF file of a research article by Pinshane Huang."
+    },
+    {
+        "url": "https://www.osti.gov/servlets/purl/2337691",
+        "snippet": "Clark, Pinshane Y. Huang, \"Deep Learning Enabled Atom‐by‐Atom Analysis of 2D. Materials on the Million‐Atom Scale\", Microscopy and Microanalysis 2021 ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "OSTI.gov is a database of scientific and technical information, and the snippet appears to be an abstract or summary of a research article."
+    },
+    {
+        "url": "https://huanglab.matse.illinois.edu/people/",
+        "snippet": "Pinshane Y. Huang is a Professor and Racheff Faculty Scholar in the Department of Materials Science and Engineering at the University of Illinois, Urbana ...",
+        "category": "Website",
+        "relevance_score": 90,
+        "reasoning": "This URL appears to be a faculty profile page from the University of Illinois, indicating it is likely an official website."
+    },
+    {
+        "url": "https://www.aps.anl.gov/APS-Events/2023-06-05/applied-ai-seminar-series-advancing-atom-by-atom-characterization-using",
+        "snippet": "Type Of Event. Seminar. Location. Virtual. Speaker. Pinshane Y. Huang, University of Illinois, Urbana-Champaign. Host. AI/ML @ SUFs Working ...",
+        "category": "Conference",
+        "relevance_score": 90,
+        "reasoning": "The URL is from a conference events section of a laboratory's website, indicating an academic event related to AI and characterization."
+    },
+    {
+        "url": "https://www.researchgate.net/lab/Pinshane-Y-Huang-Lab",
+        "snippet": "Principal Investigator: Pinshane Y. Huang | ResearchGate, the professional network for scientists ... Pinshane Y. Huang's Lab ... Conference Paper. Dec 2019; MRS ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The snippet mentions a Conference Paper and the URL is on ResearchGate, a platform for academic publications."
+    },
+    {
+        "url": "https://matse.illinois.edu/people/profile/pyhuang",
+        "snippet": "Her current research is focused around transmission electron microscopy and spectroscopy of two-dimensional materials and soft-hard interfaces. ... graphene, 2D ...",
+        "category": "Publication",
+        "relevance_score": 70,
+        "reasoning": "The URL appears to be a faculty member's profile page, which likely contains information about their publications and research interests."
+    }
+]

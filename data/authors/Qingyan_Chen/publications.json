@@ -1,0 +1,3265 @@
+[
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2008.05.025",
+        "title": "Ventilation performance prediction for buildings: A method overview and recent applications",
+        "journal": "Building and Environment",
+        "year": 2008,
+        "citations": 943,
+        "authors": "Qingyan Chen",
+        "authors_list": [
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 943,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.scitotenv.2019.01.062",
+        "title": "A review of mitigating strategies to improve the thermal environment and thermal comfort in urban outdoor spaces",
+        "journal": "The Science of The Total Environment",
+        "year": 2019,
+        "citations": 844,
+        "authors": "Dayi Lai, Wenyu Liu, Tingting Gan et al.",
+        "authors_list": [
+            "Dayi Lai",
+            "Wenyu Liu",
+            "Tingting Gan",
+            "Kuixing Liu",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 844,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10407799508928838",
+        "title": "COMPARISON OF DIFFERENT<i>k</i>-ε MODELS FOR INDOOR AIR FLOW COMPUTATIONS",
+        "journal": "Numerical Heat Transfer Part B Fundamentals",
+        "year": 1995,
+        "citations": 758,
+        "authors": "Qingyan Chen",
+        "authors_list": [
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 758,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10789669.2007.10391460",
+        "title": "Evaluation of Various Turbulence Models in Predicting Airflow and Turbulence in Enclosed Environments by CFD: Part 2—Comparison with Experimental Data from Literature",
+        "journal": "Science and Technology for the Built Environment",
+        "year": 2007,
+        "citations": 742,
+        "authors": "Zhao Zhang, Wei Zhang, Zhiqiang Zhai et al.",
+        "authors_list": [
+            "Zhao Zhang",
+            "Wei Zhang",
+            "Zhiqiang Zhai",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 742,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1600-0668.2009.00619.x",
+        "title": "Flow dynamics and characterization of a cough",
+        "journal": "Indoor Air",
+        "year": 2009,
+        "citations": 621,
+        "authors": "Jitendra Gupta, Chao‐Hsin Lin, Qingyan Chen",
+        "authors_list": [
+            "Jitendra Gupta",
+            "Chao‐Hsin Lin",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 621,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1600-0668.2009.00619.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1600-0668.2009.00623.x",
+        "title": "Characterizing exhaled airflow from breathing and talking",
+        "journal": "Indoor Air",
+        "year": 2009,
+        "citations": 588,
+        "authors": "Jitendra Gupta, Chao‐Hsin Lin, Qingyan Chen",
+        "authors_list": [
+            "Jitendra Gupta",
+            "Chao‐Hsin Lin",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 588,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2014.03.026",
+        "title": "Studies of outdoor thermal comfort in northern China",
+        "journal": "Building and Environment",
+        "year": 2014,
+        "citations": 496,
+        "authors": "Dayi Lai, Deheng Guo, Yuefei Hou et al.",
+        "authors_list": [
+            "Dayi Lai",
+            "Deheng Guo",
+            "Yuefei Hou",
+            "Chenyi Lin",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 496,
+            "crossref": 464
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.atmosenv.2006.05.086",
+        "title": "Comparison of the Eulerian and Lagrangian methods for predicting particle transport in enclosed spaces",
+        "journal": "Atmospheric Environment",
+        "year": 2007,
+        "citations": 486,
+        "authors": "Z. Zhang, Qingyan Chen",
+        "authors_list": [
+            "Z. Zhang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 486,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10789669.2007.10391459",
+        "title": "Evaluation of Various Turbulence Models in Predicting Airflow and Turbulence in Enclosed Environments by CFD: Part 1—Summary of Prevalent Turbulence Models",
+        "journal": "Science and Technology for the Built Environment",
+        "year": 2007,
+        "citations": 454,
+        "authors": "Zhiqiang Zhai, Zhao Zhang, Wei Zhang et al.",
+        "authors_list": [
+            "Zhiqiang Zhai",
+            "Zhao Zhang",
+            "Wei Zhang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 454,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.atmosenv.2006.01.014",
+        "title": "Experimental measurements and numerical simulations of particle transport and distribution in ventilated rooms",
+        "journal": "Atmospheric Environment",
+        "year": 2006,
+        "citations": 417,
+        "authors": "Z. Zhang, Qingyan Chen",
+        "authors_list": [
+            "Z. Zhang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 417,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0167-6105(02)00380-x",
+        "title": "Natural ventilation in buildings: measurement in a wind tunnel and numerical simulation with large-eddy simulation",
+        "journal": "Journal of Wind Engineering and Industrial Aerodynamics",
+        "year": 2002,
+        "citations": 371,
+        "authors": "Yi Jiang, Donald Kneale Alexander, Huw Jenkins et al.",
+        "authors_list": [
+            "Yi Jiang",
+            "Donald Kneale Alexander",
+            "Huw Jenkins",
+            "Rob Arthur",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 371,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.scitotenv.2020.140092",
+        "title": "A comprehensive review of thermal comfort studies in urban open spaces",
+        "journal": "The Science of The Total Environment",
+        "year": 2020,
+        "citations": 371,
+        "authors": "Dayi Lai, Zhiwei Lian, Weiwei Liu et al.",
+        "authors_list": [
+            "Dayi Lai",
+            "Zhiwei Lian",
+            "Weiwei Liu",
+            "Chaoran Guo",
+            "Wei Liu",
+            "Kuixing Liu",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 371,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2014.07.034",
+        "title": "Impact of climate change heating and cooling energy use in buildings in the United States",
+        "journal": "Energy and Buildings",
+        "year": 2014,
+        "citations": 361,
+        "authors": "Haojie Wang, Qingyan Chen",
+        "authors_list": [
+            "Haojie Wang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 361,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1556815"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0378-7788(98)00020-6",
+        "title": "A zero-equation turbulence model for indoor airflow simulation",
+        "journal": "Energy and Buildings",
+        "year": 1998,
+        "citations": 337,
+        "authors": "Qingyan Chen, W. L. Xu",
+        "authors_list": [
+            "Qingyan Chen",
+            "W. L. Xu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 337,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2008.01.012",
+        "title": "Experimental and numerical investigation of airflow and contaminant transport in an airliner cabin mockup",
+        "journal": "Building and Environment",
+        "year": 2008,
+        "citations": 310,
+        "authors": "Zhao Zhang, Xi Chen, Sagnik Mazumdar et al.",
+        "authors_list": [
+            "Zhao Zhang",
+            "Xi Chen",
+            "Sagnik Mazumdar",
+            "Tengfei Zhang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 310,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0378-7788(02)00239-6",
+        "title": "Design analysis of single-sided natural ventilation",
+        "journal": "Energy and Buildings",
+        "year": 2003,
+        "citations": 291,
+        "authors": "Camille Allocca, Qingyan Chen, Leon R. Glicksman",
+        "authors_list": [
+            "Camille Allocca",
+            "Qingyan Chen",
+            "Leon R. Glicksman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 291,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0360-1323(02)00054-9",
+        "title": "On approaches to couple energy simulation and computational fluid dynamics programs",
+        "journal": "Building and Environment",
+        "year": 2002,
+        "citations": 261,
+        "authors": "Zhiqiang Zhai, Qingyan Chen, Philip Haves et al.",
+        "authors_list": [
+            "Zhiqiang Zhai",
+            "Qingyan Chen",
+            "Philip Haves",
+            "J.H. Klems"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 261,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10789669.2002.10391437",
+        "title": "A Procedure for Verification, Validation, and Reporting of Indoor Environment CFD Analyses",
+        "journal": "Science and Technology for the Built Environment",
+        "year": 2002,
+        "citations": 244,
+        "authors": "Qingyan Chen, Jelena Srebric",
+        "authors_list": [
+            "Qingyan Chen",
+            "Jelena Srebric"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 244,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1029/2002gl016349",
+        "title": "Record heavy Asian dust in Beijing in 2002: Observations and model analysis of recent events",
+        "journal": "Geophysical Research Letters",
+        "year": 2003,
+        "citations": 242,
+        "authors": "Nobuo Sugimoto, Itsushi Uno, Masataka Nishikawa et al.",
+        "authors_list": [
+            "Nobuo Sugimoto",
+            "Itsushi Uno",
+            "Masataka Nishikawa",
+            "Atsushi Shimizu",
+            "Ichiro Matsui",
+            "Xuhui Dong",
+            "Qingyan Chen",
+            "Hao Quan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 242,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00704-010-0263-1",
+        "title": "Modeling the impact of urbanization on the local and regional climate in Yangtze River Delta, China",
+        "journal": "Theoretical and Applied Climatology",
+        "year": 2010,
+        "citations": 222,
+        "authors": "Ning Zhang, Zhiqiu Gao, Xuemei Wang et al.",
+        "authors_list": [
+            "Ning Zhang",
+            "Zhiqiu Gao",
+            "Xuemei Wang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 222,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1600-0668.2010.00676.x",
+        "title": "Transport of expiratory droplets in an aircraft cabin",
+        "journal": "Indoor Air",
+        "year": 2010,
+        "citations": 219,
+        "authors": "Jitendra Kumar Gupta, Chao‐Hsin Lin, Qingyan Chen",
+        "authors_list": [
+            "Jitendra Kumar Gupta",
+            "Chao‐Hsin Lin",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 219,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2006.02.014",
+        "title": "Novel air distribution systems for commercial aircraft cabins",
+        "journal": "Building and Environment",
+        "year": 2006,
+        "citations": 215,
+        "authors": "Tengfei Zhang, Qingyan Chen",
+        "authors_list": [
+            "Tengfei Zhang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 215,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev.energy.25.1.567",
+        "title": "I<scp>NDOOR</scp> A<scp>IR</scp> Q<scp>UALITY</scp> F<scp>ACTORS IN</scp> D<scp>ESIGNING A</scp> H<scp>EALTHY</scp> B<scp>UILDING</scp>",
+        "journal": "Annual Review of Energy and the Environment",
+        "year": 2000,
+        "citations": 193,
+        "authors": "John D. Spengler, Qingyan Chen",
+        "authors_list": [
+            "John D. Spengler",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 193,
+            "crossref": 153
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.annualreviews.org/doi/pdf/10.1146/annurev.energy.25.1.567"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1600-0668.2008.00559.x",
+        "title": "Real-time or faster-than-real-time simulation of airflow in buildings",
+        "journal": "Indoor Air",
+        "year": 2008,
+        "citations": 191,
+        "authors": "Wangda Zuo, Qingyan Chen",
+        "authors_list": [
+            "Wangda Zuo",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 191,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2004.07.001",
+        "title": "Performance of coupled building energy and CFD simulations",
+        "journal": "Energy and Buildings",
+        "year": 2004,
+        "citations": 183,
+        "authors": "Zhiqiang Zhai, Qingyan Chen",
+        "authors_list": [
+            "Zhiqiang Zhai",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 183,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.atmosenv.2008.09.041",
+        "title": "Prediction of particle deposition onto indoor surfaces by CFD with a modified Lagrangian method",
+        "journal": "Atmospheric Environment",
+        "year": 2008,
+        "citations": 178,
+        "authors": "Z. Zhang, Qingyan Chen",
+        "authors_list": [
+            "Z. Zhang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 178,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2013.02.051",
+        "title": "Outdoor space quality: A field study in an urban residential community in central China",
+        "journal": "Energy and Buildings",
+        "year": 2013,
+        "citations": 171,
+        "authors": "Dayi Lai, Chaobin Zhou, Jianxiang Huang et al.",
+        "authors_list": [
+            "Dayi Lai",
+            "Chaobin Zhou",
+            "Jianxiang Huang",
+            "Yi Jiang",
+            "Zhengwei Long",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 171,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0017-9310(02)00373-3",
+        "title": "Buoyancy-driven single-sided natural ventilation in buildings with large openings",
+        "journal": "International Journal of Heat and Mass Transfer",
+        "year": 2003,
+        "citations": 171,
+        "authors": "Yi Jiang, Qingyan Chen",
+        "authors_list": [
+            "Yi Jiang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 171,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0360-1323(00)00078-0",
+        "title": "Numerical simulation of VOC emissions from dry materials",
+        "journal": "Building and Environment",
+        "year": 2001,
+        "citations": 167,
+        "authors": "Xudong Yang, Qingyan Chen, J.S Zhang et al.",
+        "authors_list": [
+            "Xudong Yang",
+            "Qingyan Chen",
+            "J.S Zhang",
+            "R.J. Magee",
+            "Jianxin Zeng",
+            "C.Y. Shaw"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 167,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10789669.2009.10390881",
+        "title": "Assessment of Various Turbulence Models for Transitional Flows in an Enclosed Environment (RP-1271)",
+        "journal": "Science and Technology for the Built Environment",
+        "year": 2009,
+        "citations": 167,
+        "authors": "Miao Wang, Qingyan Chen",
+        "authors_list": [
+            "Miao Wang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 167,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2013.11.012",
+        "title": "Particle image velocimetry measurement of indoor airflow field: A review of the technologies and applications",
+        "journal": "Energy and Buildings",
+        "year": 2013,
+        "citations": 166,
+        "authors": "Xiaodong Cao, Junjie Liu, Nan Jiang et al.",
+        "authors_list": [
+            "Xiaodong Cao",
+            "Junjie Liu",
+            "Nan Jiang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 166,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2018.05.011",
+        "title": "Influence of surrounding buildings on wind flow around a building predicted by CFD simulations",
+        "journal": "Building and Environment",
+        "year": 2018,
+        "citations": 162,
+        "authors": "Sumei Liu, Wuxuan Pan, Xingwang Zhao et al.",
+        "authors_list": [
+            "Sumei Liu",
+            "Wuxuan Pan",
+            "Xingwang Zhao",
+            "Hao Zhang",
+            "Xionglei Cheng",
+            "Zhengwei Long",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 162,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.atmosenv.2010.04.053",
+        "title": "Flow and contaminant transport in an airliner cabin induced by a moving body: Model experiments and CFD predictions",
+        "journal": "Atmospheric Environment",
+        "year": 2010,
+        "citations": 159,
+        "authors": "Stephane B. Poussou, Sagnik Mazumdar, Michael W. Plesniak et al.",
+        "authors_list": [
+            "Stephane B. Poussou",
+            "Sagnik Mazumdar",
+            "Michael W. Plesniak",
+            "Paul E. Sojka",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 159,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s12273-021-0796-5",
+        "title": "Multi-objective optimization of building design for life cycle cost and CO2 emissions: A case study of a low-energy residential building in a severe cold climate",
+        "journal": "Building Simulation",
+        "year": 2021,
+        "citations": 157,
+        "authors": "Qingwen Xue, Zhaojun Wang, Qingyan Chen",
+        "authors_list": [
+            "Qingwen Xue",
+            "Zhaojun Wang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 157,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1600-0668.2006.00452.x",
+        "title": "Identification of contaminant sources in enclosed environments by inverse CFD modeling",
+        "journal": "Indoor Air",
+        "year": 2007,
+        "citations": 157,
+        "authors": "Tengfei Zhang, Qingyan Chen",
+        "authors_list": [
+            "Tengfei Zhang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 157,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.scs.2021.103408",
+        "title": "Effective ventilation and air disinfection system for reducing coronavirus disease 2019 (COVID-19) infection risk in office buildings",
+        "journal": "Sustainable Cities and Society",
+        "year": 2021,
+        "citations": 153,
+        "authors": "Shubham Srivastava, Xingwang Zhao, Ati Manay et al.",
+        "authors_list": [
+            "Shubham Srivastava",
+            "Xingwang Zhao",
+            "Ati Manay",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 153,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/8479514"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.scs.2022.103718",
+        "title": "Investigation of airborne particle exposure in an office with mixing and displacement ventilation",
+        "journal": "Sustainable Cities and Society",
+        "year": 2022,
+        "citations": 152,
+        "authors": "Sumei Liu, Mike Koupriyanov, Dale Paskaruk et al.",
+        "authors_list": [
+            "Sumei Liu",
+            "Mike Koupriyanov",
+            "Dale Paskaruk",
+            "Graham Fediuk",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 152,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://hdl.handle.net/10397/94816"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1029/2002jd003178",
+        "title": "A high‐resolution numerical study of the Asian dust storms of April 2001",
+        "journal": "Journal of Geophysical Research Atmospheres",
+        "year": 2003,
+        "citations": 152,
+        "authors": "Ming Liu, Douglas L. Westphal, Shigong Wang et al.",
+        "authors_list": [
+            "Ming Liu",
+            "Douglas L. Westphal",
+            "Shigong Wang",
+            "Atsushi Shimizu",
+            "Nobuo Sugimoto",
+            "Jun Zhou",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 152,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://ir.lzu.edu.cn/handle/262010/119023"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2017.02.021",
+        "title": "CFD simulations of wind distribution in an urban community with a full-scale geometrical model",
+        "journal": "Building and Environment",
+        "year": 2017,
+        "citations": 147,
+        "authors": "Sumei Liu, Wuxuan Pan, Hao Zhang et al.",
+        "authors_list": [
+            "Sumei Liu",
+            "Wuxuan Pan",
+            "Hao Zhang",
+            "Xionglei Cheng",
+            "Zhengwei Long",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 147,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0378-7788(01)00073-1",
+        "title": "Natural ventilation design for houses in Thailand",
+        "journal": "Energy and Buildings",
+        "year": 2001,
+        "citations": 147,
+        "authors": "Chalermwat Tantasavasdi, Jelena Srebric, Qingyan Chen",
+        "authors_list": [
+            "Chalermwat Tantasavasdi",
+            "Jelena Srebric",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 147,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0360-1323(01)00036-1",
+        "title": "Effect of fluctuating wind direction on cross natural ventilation in buildings from large eddy simulation",
+        "journal": "Building and Environment",
+        "year": 2002,
+        "citations": 144,
+        "authors": "Yi Jiang, Qingyan Chen",
+        "authors_list": [
+            "Yi Jiang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 144,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0360-1323(95)00049-6",
+        "title": "Prediction of room air motion by Reynolds-stress models",
+        "journal": "Building and Environment",
+        "year": 1996,
+        "citations": 138,
+        "authors": "Qingyan Chen",
+        "authors_list": [
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 138,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2012.07.028",
+        "title": "A new empirical model for predicting single-sided, wind-driven natural ventilation in buildings",
+        "journal": "Energy and Buildings",
+        "year": 2012,
+        "citations": 133,
+        "authors": "Haojie Wang, Qingyan Chen",
+        "authors_list": [
+            "Haojie Wang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 133,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2017.05.028",
+        "title": "Modelling dynamic thermal sensation of human subjects in outdoor environments",
+        "journal": "Energy and Buildings",
+        "year": 2017,
+        "citations": 128,
+        "authors": "Dayi Lai, Xiaojie Zhou, Qingyan Chen",
+        "authors_list": [
+            "Dayi Lai",
+            "Xiaojie Zhou",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1600-0668.2012.00773.x",
+        "title": "Risk assessment of airborne infectious diseases in aircraft cabins",
+        "journal": "Indoor Air",
+        "year": 2012,
+        "citations": 126,
+        "authors": "Jitendra Kumar Gupta, Chao‐Hsin Lin, Qingyan Chen",
+        "authors_list": [
+            "Jitendra Kumar Gupta",
+            "Chao‐Hsin Lin",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 126,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10789669.2009.10390885",
+        "title": "Experimental Study on Displacement and Mixing Ventilation Systems for a Patient Ward",
+        "journal": "Science and Technology for the Built Environment",
+        "year": 2009,
+        "citations": 126,
+        "authors": "Yonggao Yin, Weiran Xu, Jitendra Gupta et al.",
+        "authors_list": [
+            "Yonggao Yin",
+            "Weiran Xu",
+            "Jitendra Gupta",
+            "Arash Guity",
+            "Paul Marmion",
+            "A. J. Manning",
+            "Bob Gulick",
+            "Xiaosong Zhang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 126,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2018.06.060",
+        "title": "Artificial neural network models using thermal sensations and occupants’ behavior for predicting thermal comfort",
+        "journal": "Energy and Buildings",
+        "year": 2018,
+        "citations": 121,
+        "authors": "Zhipeng Deng, Qingyan Chen",
+        "authors_list": [
+            "Zhipeng Deng",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 121,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/ina.13056",
+        "title": "Airborne transmission of COVID‐19 virus in enclosed spaces: An overview of research methods",
+        "journal": "Indoor Air",
+        "year": 2022,
+        "citations": 121,
+        "authors": "Xingwang Zhao, Sumei Liu, Yonggao Yin et al.",
+        "authors_list": [
+            "Xingwang Zhao",
+            "Sumei Liu",
+            "Yonggao Yin",
+            "Tengfei Zhang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 121,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/9349854"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2009.08.008",
+        "title": "Fast and informative flow simulations in a building by using fast fluid dynamics model on graphics processing unit",
+        "journal": "Building and Environment",
+        "year": 2009,
+        "citations": 120,
+        "authors": "Wangda Zuo, Qingyan Chen",
+        "authors_list": [
+            "Wangda Zuo",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10789669.2002.10391442",
+        "title": "Simplified Numerical Models for Complex Air Supply Diffusers",
+        "journal": "Science and Technology for the Built Environment",
+        "year": 2002,
+        "citations": 118,
+        "authors": "Jelena Srebric, Qingyan Chen",
+        "authors_list": [
+            "Jelena Srebric",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0378-7788(02)00156-1",
+        "title": "Solution characters of iterative coupling between energy simulation and CFD programs",
+        "journal": "Energy and Buildings",
+        "year": 2003,
+        "citations": 116,
+        "authors": "Zhiqiang Zhai, Qingyan Chen",
+        "authors_list": [
+            "Zhiqiang Zhai",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2009.06.008",
+        "title": "Ventilation performance prediction for buildings: Model assessment",
+        "journal": "Building and Environment",
+        "year": 2009,
+        "citations": 114,
+        "authors": "Qingyan Chen, Kisup Lee, Sagnik Mazumdar et al.",
+        "authors_list": [
+            "Qingyan Chen",
+            "Kisup Lee",
+            "Sagnik Mazumdar",
+            "Stephane B. Poussou",
+            "Liangzhu Wang",
+            "Miao Wang",
+            "Zhao Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 114,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2011.05.018",
+        "title": "Advanced turbulence models for predicting particle transport in enclosed environments",
+        "journal": "Building and Environment",
+        "year": 2011,
+        "citations": 114,
+        "authors": "Miao Wang, Chao‐Hsin Lin, Qingyan Chen",
+        "authors_list": [
+            "Miao Wang",
+            "Chao‐Hsin Lin",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 114,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/ina.12578",
+        "title": "Evaluating the commercial airliner cabin environment with different air distribution systems",
+        "journal": "Indoor Air",
+        "year": 2019,
+        "citations": 113,
+        "authors": "Ruoyu You, Chao‐Hsin Lin, Daniel Wei et al.",
+        "authors_list": [
+            "Ruoyu You",
+            "Chao‐Hsin Lin",
+            "Daniel Wei",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 113,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2003.10.013",
+        "title": "Using computational tools to factor wind into architectural environment design",
+        "journal": "Energy and Buildings",
+        "year": 2004,
+        "citations": 111,
+        "authors": "Qingyan Chen",
+        "authors_list": [
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 111,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2014.06.036",
+        "title": "Design optimization and field demonstration of natural ventilation for high-rise residential buildings",
+        "journal": "Energy and Buildings",
+        "year": 2014,
+        "citations": 111,
+        "authors": "Chaobin Zhou, Zhiqiang Wang, Qingyan Chen et al.",
+        "authors_list": [
+            "Chaobin Zhou",
+            "Zhiqiang Wang",
+            "Qingyan Chen",
+            "Yi Jiang",
+            "Jingjing Pei"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 111,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0017-9310(99)00348-8",
+        "title": "Large eddy simulation of indoor airflow with a filtered dynamic subgrid scale model",
+        "journal": "International Journal of Heat and Mass Transfer",
+        "year": 2000,
+        "citations": 107,
+        "authors": "Wei Zhang, Qingyan Chen",
+        "authors_list": [
+            "Wei Zhang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 107,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2018.12.022",
+        "title": "Experimental investigation of thermal comfort in a passenger car under driving conditions",
+        "journal": "Building and Environment",
+        "year": 2018,
+        "citations": 105,
+        "authors": "Xiaojie Zhou, Dayi Lai, Qingyan Chen",
+        "authors_list": [
+            "Xiaojie Zhou",
+            "Dayi Lai",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2016.02.051",
+        "title": "A two-dimensional model for calculating heat transfer in the human body in a transient and non-uniform thermal environment",
+        "journal": "Energy and Buildings",
+        "year": 2016,
+        "citations": 104,
+        "authors": "Dayi Lai, Qingyan Chen",
+        "authors_list": [
+            "Dayi Lai",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2020.107016",
+        "title": "Improving indoor air quality and thermal comfort in residential kitchens with a new ventilation system",
+        "journal": "Building and Environment",
+        "year": 2020,
+        "citations": 104,
+        "authors": "Sumei Liu, Qing Cao, Xingwang Zhao et al.",
+        "authors_list": [
+            "Sumei Liu",
+            "Qing Cao",
+            "Xingwang Zhao",
+            "Zechao Lu",
+            "Zhipeng Deng",
+            "Jiankai Dong",
+            "Xiaorui Lin",
+            "Ke Qing",
+            "Weizhen Zhang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2013.03.018",
+        "title": "Evaluation of various categories of turbulence models for predicting air distribution in an airliner cabin",
+        "journal": "Building and Environment",
+        "year": 2013,
+        "citations": 102,
+        "authors": "Wei Liu, Jizhou Wen, Chao‐Hsin Lin et al.",
+        "authors_list": [
+            "Wei Liu",
+            "Jizhou Wen",
+            "Chao‐Hsin Lin",
+            "Junjie Liu",
+            "Zhengwei Long",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2021.110860",
+        "title": "Reinforcement learning of occupant behavior model for cross-building transfer learning to various HVAC control systems",
+        "journal": "Energy and Buildings",
+        "year": 2021,
+        "citations": 102,
+        "authors": "Zhipeng Deng, Qingyan Chen",
+        "authors_list": [
+            "Zhipeng Deng",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.atmosenv.2012.03.039",
+        "title": "Accurate and high-resolution boundary conditions and flow fields in the first-class cabin of an MD-82 commercial airliner",
+        "journal": "Atmospheric Environment",
+        "year": 2012,
+        "citations": 102,
+        "authors": "Wei Liu, Jizhou Wen, Jiangyue Chao et al.",
+        "authors_list": [
+            "Wei Liu",
+            "Jizhou Wen",
+            "Jiangyue Chao",
+            "Weiyou Yin",
+            "Chen Shen",
+            "Dayi Lai",
+            "Chao‐Hsin Lin",
+            "Junjie Liu",
+            "Hejiang Sun",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2021.108413",
+        "title": "Influencing factors in the simulation of airflow and particle transportation in aircraft cabins by CFD",
+        "journal": "Building and Environment",
+        "year": 2021,
+        "citations": 101,
+        "authors": "Qing Cao, Mingxin Liu, Xingyang Li et al.",
+        "authors_list": [
+            "Qing Cao",
+            "Mingxin Liu",
+            "Xingyang Li",
+            "Chao‐Hsin Lin",
+            "Daniel Wei",
+            "Shengcheng Ji",
+            "Tengfei Zhang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0360132321008106"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10789669.2010.10390932",
+        "title": "Using CFD Capabilities of CONTAM 3.0 for Simulating Airflow and Contaminant Transport in and around Buildings",
+        "journal": "Science and Technology for the Built Environment",
+        "year": 2010,
+        "citations": 101,
+        "authors": "Liangzhu Wang, W. Stuart Dols, Qingyan Chen",
+        "authors_list": [
+            "Liangzhu Wang",
+            "W. Stuart Dols",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2017.07.009",
+        "title": "Measurements and predictions of the skin temperature of human subjects on outdoor environment",
+        "journal": "Energy and Buildings",
+        "year": 2017,
+        "citations": 100,
+        "authors": "Dayi Lai, Xiaojie Zhou, Qingyan Chen",
+        "authors_list": [
+            "Dayi Lai",
+            "Xiaojie Zhou",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 100,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0378-7788(01)00083-4",
+        "title": "Simulation of wind-driven ventilative cooling systems for an apartment building in Beijing and Shanghai",
+        "journal": "Energy and Buildings",
+        "year": 2002,
+        "citations": 98,
+        "authors": "Guilherme Carrilho da Graça, Qingyan Chen, Leon R. Glicksman et al.",
+        "authors_list": [
+            "Guilherme Carrilho da Graça",
+            "Qingyan Chen",
+            "Leon R. Glicksman",
+            "L. K. Norford"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2007.10.010",
+        "title": "Evaluation of some assumptions used in multizone airflow network models",
+        "journal": "Building and Environment",
+        "year": 2007,
+        "citations": 96,
+        "authors": "Liangzhu Wang, Qingyan Chen",
+        "authors_list": [
+            "Liangzhu Wang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "System Performance Evaluation and Design Guidelines for Displacement Ventilation",
+        "journal": "Medical Entomology and Zoology",
+        "year": 2003,
+        "citations": 96,
+        "authors": "Qingyan Chen, Leon R. Glicksman",
+        "authors_list": [
+            "Qingyan Chen",
+            "Leon R. Glicksman"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2014.01.030",
+        "title": "Experimental and simulation study on the performance of daylighting in an industrial building and its energy saving potential",
+        "journal": "Energy and Buildings",
+        "year": 2014,
+        "citations": 96,
+        "authors": "Yuanyi Chen, Junjie Liu, Jingjing Pei et al.",
+        "authors_list": [
+            "Yuanyi Chen",
+            "Junjie Liu",
+            "Jingjing Pei",
+            "Xiaodong Cao",
+            "Qingyan Chen",
+            "Yi Jiang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2011.07.005",
+        "title": "State-of-the-art methods for studying air distributions in commercial airliner cabins",
+        "journal": "Building and Environment",
+        "year": 2011,
+        "citations": 95,
+        "authors": "Wei Liu, Sagnik Mazumdar, Zhao Zhang et al.",
+        "authors_list": [
+            "Wei Liu",
+            "Sagnik Mazumdar",
+            "Zhao Zhang",
+            "Stephane B. Poussou",
+            "Junjie Liu",
+            "Chao‐Hsin Lin",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/7126834"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0378-7788(02)00164-0",
+        "title": "Energy consumption and comfort analysis for different low-energy cooling systems in a mild climate",
+        "journal": "Energy and Buildings",
+        "year": 2003,
+        "citations": 93,
+        "authors": "Erik L. Olsen, Qingyan Chen",
+        "authors_list": [
+            "Erik L. Olsen",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 93,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2020.109872",
+        "title": "Development and validation of a smart HVAC control system for multi-occupant offices by using occupants’ physiological signals from wristband",
+        "journal": "Energy and Buildings",
+        "year": 2020,
+        "citations": 89,
+        "authors": "Zhipeng Deng, Qingyan Chen",
+        "authors_list": [
+            "Zhipeng Deng",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1352-2310(00)00397-6",
+        "title": "A mass transfer model for simulating VOC sorption on building materials",
+        "journal": "Atmospheric Environment",
+        "year": 2001,
+        "citations": 89,
+        "authors": "Xudong Yang, Qingyan Chen, J.S. Zhang et al.",
+        "authors_list": [
+            "Xudong Yang",
+            "Qingyan Chen",
+            "J.S. Zhang",
+            "Ying An",
+            "Jianxin Zeng",
+            "C.Y. Shaw"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://nrc-publications.canada.ca/eng/view/accepted/?id=c24e96cf-4a43-4545-86eb-802e482fc495"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2004.01.023",
+        "title": "Numerical determination and treatment of convective heat transfer coefficient in the coupled building energy and CFD simulation",
+        "journal": "Building and Environment",
+        "year": 2004,
+        "citations": 88,
+        "authors": "Zhiqiang Zhai, Qingyan Chen",
+        "authors_list": [
+            "Zhiqiang Zhai",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1034/j.1600-0668.2003.00186.x",
+        "title": "Air flow and particle control with different ventilation systems in a classroom",
+        "journal": "Indoor Air",
+        "year": 2003,
+        "citations": 88,
+        "authors": "Sture Holmberg, Qingyan Chen",
+        "authors_list": [
+            "Sture Holmberg",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1600-0668.2007.00489.x",
+        "title": "Identification of contaminant sources in enclosed spaces by a single sensor",
+        "journal": "Indoor Air",
+        "year": 2007,
+        "citations": 87,
+        "authors": "Tengfei Zhang, Qingyan Chen",
+        "authors_list": [
+            "Tengfei Zhang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1600-0668.2007.00489.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2014.01.022",
+        "title": "Assessment of various CFD models for predicting airflow and pressure drop through pleated filter system",
+        "journal": "Building and Environment",
+        "year": 2014,
+        "citations": 86,
+        "authors": "Zhuangbo Feng, Zhengwei Long, Qingyan Chen",
+        "authors_list": [
+            "Zhuangbo Feng",
+            "Zhengwei Long",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2006.01.016",
+        "title": "Floor-supply displacement ventilation for workshops",
+        "journal": "Building and Environment",
+        "year": 2006,
+        "citations": 85,
+        "authors": "Josephine Lau, Qingyan Chen",
+        "authors_list": [
+            "Josephine Lau",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 85,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2015.03.024",
+        "title": "A Markov chain model for predicting transient particle transport in enclosed environments",
+        "journal": "Building and Environment",
+        "year": 2015,
+        "citations": 84,
+        "authors": "Chun Chen, Wei Liu, Chao‐Hsin Lin et al.",
+        "authors_list": [
+            "Chun Chen",
+            "Wei Liu",
+            "Chao‐Hsin Lin",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/7117050"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.applthermaleng.2014.01.065",
+        "title": "CFD modeling of multiphase reacting flow in blast furnace shaft with layered burden",
+        "journal": "Applied Thermal Engineering",
+        "year": 2014,
+        "citations": 84,
+        "authors": "Dong Fu, Qingyan Chen, Yongfu Zhao et al.",
+        "authors_list": [
+            "Dong Fu",
+            "Qingyan Chen",
+            "Yongfu Zhao",
+            "John D’Alessio",
+            "Kyle J. Ferron",
+            "Chenn Q. Zhou"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.buildenv.2013.02.017",
+        "title": "Inverse prediction and optimization of flow control conditions for confined spaces using a CFD-based genetic algorithm",
+        "journal": "Building and Environment",
+        "year": 2013,
+        "citations": 82,
+        "authors": "Yu Xue, Zhiqiang Zhai, Qingyan Chen",
+        "authors_list": [
+            "Yu Xue",
+            "Zhiqiang Zhai",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2005.12.003",
+        "title": "Sensitivity analysis and application guides for integrated building energy and CFD simulation",
+        "journal": "Energy and Buildings",
+        "year": 2006,
+        "citations": 81,
+        "authors": "Zhiqiang Zhai, Qingyan Chen",
+        "authors_list": [
+            "Zhiqiang Zhai",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.atmosenv.2011.07.049",
+        "title": "Impact of scaling and body movement on contaminant transport in airliner cabins",
+        "journal": "Atmospheric Environment",
+        "year": 2011,
+        "citations": 80,
+        "authors": "Sagnik Mazumdar, Stephane B. Poussou, Chao‐Hsin Lin et al.",
+        "authors_list": [
+            "Sagnik Mazumdar",
+            "Stephane B. Poussou",
+            "Chao‐Hsin Lin",
+            "Sastry Isukapalli",
+            "Michael W. Plesniak",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1600-0668.2005.00373.x",
+        "title": "Using large eddy simulation to study particle motions in a room",
+        "journal": "Indoor Air",
+        "year": 2005,
+        "citations": 77,
+        "authors": "Claudine Béghein, Yuchao Jiang, Qingyan Chen",
+        "authors_list": [
+            "Claudine Béghein",
+            "Yuchao Jiang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2015.07.011",
+        "title": "Inverse design of the thermal environment in an airliner cabin by use of the CFD-based adjoint method",
+        "journal": "Energy and Buildings",
+        "year": 2015,
+        "citations": 77,
+        "authors": "Wei Liu, Ran Duan, Chun Chen et al.",
+        "authors_list": [
+            "Wei Liu",
+            "Ran Duan",
+            "Chun Chen",
+            "Chao‐Hsin Lin",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1600-0668.2009.00590.x",
+        "title": "A simplified approach to describe complex diffusers in displacement ventilation for CFD simulations",
+        "journal": "Indoor Air",
+        "year": 2009,
+        "citations": 76,
+        "authors": "Tengfei Zhang, Kisup Lee, Qingyan Chen",
+        "authors_list": [
+            "Tengfei Zhang",
+            "Kisup Lee",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10789669.2007.10390954",
+        "title": "Validation of a Coupled Multizone-CFD Program for Building Airflow and Contaminant Transport Simulations",
+        "journal": "Science and Technology for the Built Environment",
+        "year": 2007,
+        "citations": 74,
+        "authors": "Liangzhu Wang, Qingyan Chen",
+        "authors_list": [
+            "Liangzhu Wang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1600-0668.2007.00481.x",
+        "title": "Theoretical and numerical studies of coupling multizone and CFD models for building air distribution simulations",
+        "journal": "Indoor Air",
+        "year": 2007,
+        "citations": 73,
+        "authors": "Liangzhu Wang, Qingyan Chen",
+        "authors_list": [
+            "Liangzhu Wang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/ina.12058",
+        "title": "Ozone reaction with clothing and its initiated VOC emissions in an environmental chamber",
+        "journal": "Indoor Air",
+        "year": 2013,
+        "citations": 72,
+        "authors": "A. C. Rai, Bing Guo, Chao‐Hsin Lin et al.",
+        "authors_list": [
+            "A. C. Rai",
+            "Bing Guo",
+            "Chao‐Hsin Lin",
+            "J. Zhang",
+            "Jingjing Pei",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.enbuild.2009.07.006",
+        "title": "Experimental and numerical analysis of heat transfer and airflow on an interactive building facade",
+        "journal": "Energy and Buildings",
+        "year": 2009,
+        "citations": 71,
+        "authors": "Roberto Fuliotto, Francesco Cambuli, Natalino Mandas et al.",
+        "authors_list": [
+            "Roberto Fuliotto",
+            "Francesco Cambuli",
+            "Natalino Mandas",
+            "Nicoletta Bacchin",
+            "Giampiero Manara",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://hdl.handle.net/11584/265972"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/1420326x03035918",
+        "title": "Floor-Supply Displacement Ventilation in a Small Office",
+        "journal": "Indoor and Built Environment",
+        "year": 2003,
+        "citations": 71,
+        "authors": "Nobukazu Kobayashi, Qingyan Chen",
+        "authors_list": [
+            "Nobukazu Kobayashi",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Significant questions in predicting room air motion",
+        "journal": "TNO Repository",
+        "year": 1992,
+        "citations": 69,
+        "authors": "Qingyan Chen, Zaisheng Jiang",
+        "authors_list": [
+            "Qingyan Chen",
+            "Zaisheng Jiang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0017-9310(98)00081-7",
+        "title": "A new turbulence model for near-wall natural convection",
+        "journal": "International Journal of Heat and Mass Transfer",
+        "year": 1998,
+        "citations": 68,
+        "authors": "W. Xu, Qingyan Chen, F. T. M. Nieuwstadt",
+        "authors_list": [
+            "W. Xu",
+            "Qingyan Chen",
+            "F. T. M. Nieuwstadt"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/ina.12810",
+        "title": "Associations of indoor carbon dioxide concentrations, air temperature, and humidity with perceived air quality and sick building syndrome symptoms in Chinese homes",
+        "journal": "Indoor Air",
+        "year": 2021,
+        "citations": 68,
+        "authors": "Jing Hou, Yuexia Sun, Xilei Dai et al.",
+        "authors_list": [
+            "Jing Hou",
+            "Yuexia Sun",
+            "Xilei Dai",
+            "Junjie Liu",
+            "Xiong Shen",
+            "Hongwei Tan",
+            "Haiguo Yin",
+            "Kailiang Huang",
+            "Yao Gao",
+            "Dayi Lai",
+            "Weiping Hong",
+            "Xinping Zhai",
+            "Dan Norbäck",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/ina.12056",
+        "title": "Predicting transient particle transport in enclosed environments with the combined computational fluid dynamics and Markov chain method",
+        "journal": "Indoor Air",
+        "year": 2013,
+        "citations": 67,
+        "authors": "Chun Chen, Chao‐Hsin Lin, Zhengwei Long et al.",
+        "authors_list": [
+            "Chun Chen",
+            "Chao‐Hsin Lin",
+            "Zhengwei Long",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.atmosenv.2020.117419",
+        "title": "An improved displacement ventilation system for a machining plant",
+        "journal": "Atmospheric Environment",
+        "year": 2020,
+        "citations": 67,
+        "authors": "Guanqiong Wei, Bingqian Chen, Dayi Lai et al.",
+        "authors_list": [
+            "Guanqiong Wei",
+            "Bingqian Chen",
+            "Dayi Lai",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.atmosenv.2013.11.049",
+        "title": "Experimental study of gaseous and particulate contaminants distribution in an aircraft cabin",
+        "journal": "Atmospheric Environment",
+        "year": 2013,
+        "citations": 67,
+        "authors": "Fei Li, Junjie Liu, Jingjing Pei et al.",
+        "authors_list": [
+            "Fei Li",
+            "Junjie Liu",
+            "Jingjing Pei",
+            "Chao‐Hsin Lin",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/7185754"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/19401493.2016.1257654",
+        "title": "Development of a fast fluid dynamics-based adjoint method for the inverse design of indoor environments",
+        "journal": "Journal of Building Performance Simulation",
+        "year": 2016,
+        "citations": 66,
+        "authors": "Wei Liu, Ruoyu You, Jie Zhang et al.",
+        "authors_list": [
+            "Wei Liu",
+            "Ruoyu You",
+            "Jie Zhang",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/ina.12979",
+        "title": "Evaluation of SARS‐COV‐2 transmission and infection in airliner cabins",
+        "journal": "Indoor Air",
+        "year": 2022,
+        "citations": 66,
+        "authors": "Wensi Wang, Feng Wang, Dayi Lai et al.",
+        "authors_list": [
+            "Wensi Wang",
+            "Feng Wang",
+            "Dayi Lai",
+            "Qingyan Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ina.12979"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.buildenv.2008.05.025",
+        "title": "Ventilation performance prediction for buildings: A method overview and recent applications",
+        "journal": "Building and Environment",
+        "year": 2009,
+        "citations": 775,
+        "authors": "Qingyan Chen",
+        "authors_list": [
+            "Qingyan Chen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 775
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.scitotenv.2019.01.062",
+        "title": "A review of mitigating strategies to improve the thermal environment and thermal comfort in urban outdoor spaces",
+        "journal": "Science of The Total Environment",
+        "year": 2019,
+        "citations": 784,
+        "authors": "Dayi Lai, Wenyu Liu, Tingting Gan et al.",
+        "authors_list": [
+            "Dayi Lai",
+            "Wenyu Liu",
+            "Tingting Gan",
+            "Kuixing Liu",
+            "Qingyan Chen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 784
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1080/10407799508928838",
+        "title": "COMPARISON OF DIFFERENT<i>k</i>-ε MODELS FOR INDOOR AIR FLOW COMPUTATIONS",
+        "journal": "Numerical Heat Transfer, Part B: Fundamentals",
+        "year": 1995,
+        "citations": 652,
+        "authors": "Q. Chen",
+        "authors_list": [
+            "Q. Chen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 652
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1080/10789669.2007.10391460",
+        "title": "Evaluation of Various Turbulence Models in Predicting Airflow and Turbulence in Enclosed Environments by CFD: Part 2—Comparison with Experimental Data from Literature",
+        "journal": "HVAC&amp;R Research",
+        "year": 2007,
+        "citations": 645,
+        "authors": "Zhao Zhang, Wei Zhang, Zhiqiang John Zhai et al.",
+        "authors_list": [
+            "Zhao Zhang",
+            "Wei Zhang",
+            "Zhiqiang John Zhai",
+            "Qingyan Yan Chen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 645
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1600-0668.2009.00619.x",
+        "title": "Flow dynamics and characterization of a cough",
+        "journal": "Indoor Air",
+        "year": 2009,
+        "citations": 566,
+        "authors": "J. K. Gupta, C.-H. Lin, Q. Chen",
+        "authors_list": [
+            "J. K. Gupta",
+            "C.-H. Lin",
+            "Q. Chen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 566
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1600-0668.2009.00619.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1600-0668.2009.00623.x",
+        "title": "Characterizing exhaled airflow from breathing and talking",
+        "journal": "Indoor Air",
+        "year": 2010,
+        "citations": 540,
+        "authors": "Jitendra K. Gupta, Chao-Hsin Lin, Qingyan Chen",
+        "authors_list": [
+            "Jitendra K. Gupta",
+            "Chao-Hsin Lin",
+            "Qingyan Chen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 540
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.atmosenv.2006.01.014",
+        "title": "Experimental measurements and numerical simulations of particle transport and distribution in ventilated rooms",
+        "journal": "Atmospheric Environment",
+        "year": 2006,
+        "citations": 356,
+        "authors": "Z. Zhang, Q. Chen",
+        "authors_list": [
+            "Z. Zhang",
+            "Q. Chen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 356
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.buildenv.2008.01.012",
+        "title": "Experimental and numerical investigation of airflow and contaminant transport in an airliner cabin mockup",
+        "journal": "Building and Environment",
+        "year": 2009,
+        "citations": 272,
+        "authors": "Zhao Zhang, Xi Chen, Sagnik Mazumdar et al.",
+        "authors_list": [
+            "Zhao Zhang",
+            "Xi Chen",
+            "Sagnik Mazumdar",
+            "Tengfei Zhang",
+            "Qingyan Chen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 272
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1080/10789669.2002.10391437",
+        "title": "A Procedure for Verification, Validation, and Reporting of Indoor Environment CFD Analyses",
+        "journal": "HVAC&amp;R Research",
+        "year": 2002,
+        "citations": 206,
+        "authors": "Qingyan Chen, J. Srebric",
+        "authors_list": [
+            "Qingyan Chen",
+            "J. Srebric"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 206
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1600-0668.2010.00676.x",
+        "title": "Transport of expiratory droplets in an aircraft cabin",
+        "journal": "Indoor Air",
+        "year": 2011,
+        "citations": 191,
+        "authors": "Jitendra K. Gupta, Chao-Hsin Lin, Qingyan Chen",
+        "authors_list": [
+            "Jitendra K. Gupta",
+            "Chao-Hsin Lin",
+            "Qingyan Chen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 191
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.buildenv.2006.02.014",
+        "title": "Novel air distribution systems for commercial aircraft cabins",
+        "journal": "Building and Environment",
+        "year": 2007,
+        "citations": 177,
+        "authors": "Tengfei Zhang, Qingyan (Yan) Chen",
+        "authors_list": [
+            "Tengfei Zhang",
+            "Qingyan (Yan) Chen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 177
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.atmosenv.2008.09.041",
+        "title": "Prediction of particle deposition onto indoor surfaces by CFD with a modified Lagrangian method",
+        "journal": "Atmospheric Environment",
+        "year": 2009,
+        "citations": 169,
+        "authors": "Z. Zhang, Q. Chen",
+        "authors_list": [
+            "Z. Zhang",
+            "Q. Chen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 169
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s0360-1323(00)00078-0",
+        "title": "Numerical simulation of VOC emissions from dry materials",
+        "journal": "Building and Environment",
+        "year": 2001,
+        "citations": 148,
+        "authors": "X Yang, Q Chen, J.S Zhang et al.",
+        "authors_list": [
+            "X Yang",
+            "Q Chen",
+            "J.S Zhang",
+            "R Magee",
+            "J Zeng",
+            "C.Y Shaw"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 148
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

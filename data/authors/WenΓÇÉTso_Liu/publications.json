@@ -1,0 +1,3887 @@
+[
+    {
+        "doi": "https://doi.org/10.1038/nbt.3893",
+        "title": "Minimum information about a single amplified genome (MISAG) and a metagenome-assembled genome (MIMAG) of bacteria and archaea",
+        "journal": "Nature Biotechnology",
+        "year": 2017,
+        "citations": 2793,
+        "authors": "Robert M. Bowers, Nikos C. Kyrpides, Ramūnas Stepanauskas et al.",
+        "authors_list": [
+            "Robert M. Bowers",
+            "Nikos C. Kyrpides",
+            "Ramūnas Stepanauskas",
+            "Miranda Harmon‐Smith",
+            "Devin F. R. Doud",
+            "T. B. K. Reddy",
+            "Frederik Schulz",
+            "Jessica K. Jarett",
+            "Adam R. Rivers",
+            "Emiley A. Eloe‐Fadrosh",
+            "Susannah G. Tringe",
+            "Natalia Ivanova",
+            "Alex Copeland",
+            "Alicia Clum",
+            "Eric D. Becraft",
+            "Rex R. Malmstrom",
+            "Bruce W. Birren",
+            "Mircea Podar",
+            "Peer Bork",
+            "George M. Weinstock",
+            "George M Garrity",
+            "Jeremy A. Dodsworth",
+            "Shibu Yooseph",
+            "Granger Sutton",
+            "Frank Oliver Glöckner",
+            "Jack A. Gilbert",
+            "William Nelson",
+            "Steven Hallam",
+            "Sean P. Jungbluth",
+            "Thijs J. G. Ettema",
+            "Scott Tighe",
+            "Konstantinos T. Konstantinidis",
+            "Wen‐Tso Liu",
+            "Brett J. Baker",
+            "Thomas Rattei",
+            "Jonathan A. Eisen",
+            "Brian P. Hedlund",
+            "Katherine D. McMahon",
+            "Noah Fierer",
+            "Rob Knight",
+            "ROBERT FINN",
+            "Guy Cochrane",
+            "Ilene Karsch‐Mizrachi",
+            "Gene W Tyson",
+            "Christian Rinke",
+            "Alla Lapidus",
+            "Folker Meyer",
+            "Pelin Yilmaz",
+            "Donovan H. Parks",
+            "A. Murat Eren",
+            "Lynn M. Schriml",
+            "Jillian F. Banfield",
+            "Philip Hugenholtz",
+            "Tanja Woyke"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2793,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/nbt.3893.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nature12352",
+        "title": "Insights into the phylogeny and coding potential of microbial dark matter",
+        "journal": "Nature",
+        "year": 2013,
+        "citations": 2464,
+        "authors": "Christian Rinke, Patrick Schwientek, Alexander Sczyrba et al.",
+        "authors_list": [
+            "Christian Rinke",
+            "Patrick Schwientek",
+            "Alexander Sczyrba",
+            "Natalia Ivanova",
+            "Iain Anderson",
+            "Jan‐Fang Cheng",
+            "Aaron E. Darling",
+            "Stephanie Malfatti",
+            "Brandon K. Swan",
+            "Esther Gies",
+            "Jeremy A. Dodsworth",
+            "Brian P. Hedlund",
+            "George Tsiamis",
+            "Stefan M. Sievert",
+            "Wen‐Tso Liu",
+            "Jonathan A. Eisen",
+            "Steven Hallam",
+            "Nikos C. Kyrpides",
+            "Ramūnas Stepanauskas",
+            "Edward M. Rubin",
+            "Philip Hugenholtz",
+            "Tanja Woyke"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2464,
+            "crossref": 2340
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/nature12352.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.63.11.4516-4522.1997",
+        "title": "Characterization of microbial diversity by determining terminal restriction fragment length polymorphisms of genes encoding 16S rRNA",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 1997,
+        "citations": 2267,
+        "authors": "Wen‐Tso Liu, Terence L. Marsh, Hans H. Cheng et al.",
+        "authors_list": [
+            "Wen‐Tso Liu",
+            "Terence L. Marsh",
+            "Hans H. Cheng",
+            "Larry J. Forney"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2267,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/63/11/4516.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1263/jbb.102.1",
+        "title": "Nanoparticles and their biological and environmental applications",
+        "journal": "Journal of Bioscience and Bioengineering",
+        "year": 2006,
+        "citations": 425,
+        "authors": "Wen‐Tso Liu",
+        "authors_list": [
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 425,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ismej.2014.256",
+        "title": "Microbial dark matter ecogenomics reveals complex synergistic networks in a methanogenic bioreactor",
+        "journal": "The ISME Journal",
+        "year": 2015,
+        "citations": 418,
+        "authors": "Masaru K. Nobu, Takashi Narihiro, Christian Rinke et al.",
+        "authors_list": [
+            "Masaru K. Nobu",
+            "Takashi Narihiro",
+            "Christian Rinke",
+            "Yoichi Kamagata",
+            "Susannah G. Tringe",
+            "Tanja Woyke",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 418,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ismej2014256.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.64.4.1220-1225.1998",
+        "title": "Analysis of BIOLOG GN Substrate Utilization Patterns by Microbial Communities",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 1998,
+        "citations": 401,
+        "authors": "Kornelia Smalla, Ute Wachtendorf, Holger Heuer et al.",
+        "authors_list": [
+            "Kornelia Smalla",
+            "Ute Wachtendorf",
+            "Holger Heuer",
+            "Wen‐Tso Liu",
+            "Larry J. Forney"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 401,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/64/4/1220.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2017.03.031",
+        "title": "Potential impacts of changing supply-water quality on drinking water distribution: A review",
+        "journal": "Water Research",
+        "year": 2017,
+        "citations": 343,
+        "authors": "Gang Liu, Ya Zhang, Willem Jan Knibbe et al.",
+        "authors_list": [
+            "Gang Liu",
+            "Ya Zhang",
+            "Willem Jan Knibbe",
+            "Cuijie Feng",
+            "Wen‐Tso Liu",
+            "Gertjan Medema",
+            "Walter van der Meer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 343,
+            "crossref": 301
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ars.els-cdn.com/content/image/1-s2.0-S0043135417302099-egi10VB7DTLJQZ_lrg.jpg"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ismej.2013.181",
+        "title": "Fish gut microbiota analysis differentiates physiology and behavior of invasive Asian carp and indigenous American fish",
+        "journal": "The ISME Journal",
+        "year": 2013,
+        "citations": 313,
+        "authors": "Lin Ye, Jon J. Amberg, Duane Chapman et al.",
+        "authors_list": [
+            "Lin Ye",
+            "Jon J. Amberg",
+            "Duane Chapman",
+            "Mark P. Gaikowski",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 313,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ismej2013181.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cell.2022.08.023",
+        "title": "Expansion of the global RNA virome reveals diverse clades of bacteriophages",
+        "journal": "Cell",
+        "year": 2022,
+        "citations": 311,
+        "authors": "Uri Neri, Yuri I. Wolf, Simon Roux et al.",
+        "authors_list": [
+            "Uri Neri",
+            "Yuri I. Wolf",
+            "Simon Roux",
+            "Antônio Pedro Camargo",
+            "Benjamin Lee",
+            "Darius Kazlauskas",
+            "I. Min Chen",
+            "Natalia Ivanova",
+            "Lisa Zeigler Allen",
+            "David Páez-Espino",
+            "Donald A. Bryant",
+            "Devaki Bhaya",
+            "Adrienne B. Narrowe",
+            "Alexander J. Probst",
+            "Alexander Sczyrba",
+            "Annegret Kohler",
+            "Armand Séguin",
+            "Ashley Shade",
+            "Barbara J. Campbell",
+            "Björn D. Lindahl",
+            "Brandi Kiel Reese",
+            "Breanna M. Roque",
+            "Chris DeRito",
+            "Colin Averill",
+            "Daniel Cullen",
+            "David A. C. Beck",
+            "David A. Walsh",
+            "David M. Ward",
+            "Dongying Wu",
+            "Emiley A. Eloe‐Fadrosh",
+            "Eoin Brodie",
+            "Erica B. Young",
+            "Erik A. Lilleskov",
+            "Federico Castillo",
+            "Francis Martin",
+            "Gary R. LeCleir",
+            "Graeme T. Attwood",
+            "Hinsby Cadillo‐Quiroz",
+            "Holly M. Simon",
+            "Ian Hewson",
+            "Igor V. Grigoriev",
+            "James M. Tiedje",
+            "Janet Jansson",
+            "Janey Lee",
+            "Jean S. VanderGheynst",
+            "Jeff Dangl",
+            "Jeff S. Bowman",
+            "Jeffrey L. Blanchard",
+            "Jennifer L. Bowen",
+            "Jiangbing Xu",
+            "Jillian F. Banfield",
+            "Jody W. Deming",
+            "Joel E. Kostka",
+            "John M. Gladden",
+            "Josephine Z. Rapp",
+            "Joshua Sharpe",
+            "Katherine D. McMahon",
+            "Kathleen K. Treseder",
+            "Kay D. Bidle",
+            "Kelly C. Wrighton",
+            "Kimberlee Thamatrakoln",
+            "Klaus Nüsslein",
+            "Laura K. Meredith",
+            "Lucı́a Ramı́rez",
+            "Marc Buée",
+            "Marcel Huntemann",
+            "Marina Kalyuzhnaya",
+            "Mark P. Waldrop",
+            "Matthew B. Sullivan",
+            "Matthew O. Schrenk",
+            "Matthias Hess",
+            "Michael Vega",
+            "Michelle O’Malley",
+            "Mónica Medina",
+            "Naomi E. Gilbert",
+            "Nathalie Delherbe",
+            "Olivia U. Mason",
+            "Paul Dijkstra",
+            "Peter F. Chuckran",
+            "Petr Baldrián",
+            "Philippe Constant",
+            "Ramūnas Stepanauskas",
+            "Rebecca A. Daly",
+            "Regina Lamendella",
+            "Robert J. Gruninger",
+            "Robert M. McKay",
+            "Samuel Hylander",
+            "Sarah L. Lebeis",
+            "Sarah P. Esser",
+            "Silvia G. Acinas",
+            "Steven S. Wilhelm",
+            "Steven W. Singer",
+            "Susannah G. Tringe",
+            "Tanja Woyke",
+            "T. B. K. Reddy",
+            "Terrence H. Bell",
+            "Thomas Möck",
+            "Tim A. McAllister",
+            "Vera Thiel",
+            "Vincent J. Denef"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 311,
+            "crossref": 282
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S0092867422011187/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ismej.2016.33",
+        "title": "Chasing the elusive Euryarchaeota class WSA2: genomes reveal a uniquely fastidious methyl-reducing methanogen",
+        "journal": "The ISME Journal",
+        "year": 2016,
+        "citations": 303,
+        "authors": "Masaru K. Nobu, Takashi Narihiro, Kyohei Kuroda et al.",
+        "authors_list": [
+            "Masaru K. Nobu",
+            "Takashi Narihiro",
+            "Kyohei Kuroda",
+            "Ran Mei",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 303,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ismej201633.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/es5009467",
+        "title": "Pyrosequencing Reveals Bacterial Communities in Unchlorinated Drinking Water Distribution System: An Integral Study of Bulk Water, Suspended Solids, Loose Deposits, and Pipe Wall Biofilm",
+        "journal": "Environmental Science & Technology",
+        "year": 2014,
+        "citations": 259,
+        "authors": "Gang Liu, Geo Bakker, Sheng Li et al.",
+        "authors_list": [
+            "Gang Liu",
+            "Geo Bakker",
+            "Sheng Li",
+            "J. H. G. Vreeburg",
+            "J.Q.J.C. Verberk",
+            "Gertjan Medema",
+            "Wen‐Tso Liu",
+            "Judith Dijk"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 259,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0025263",
+        "title": "Analysis of 16S rRNA Amplicon Sequencing Options on the Roche/454 Next-Generation Titanium Sequencing Platform",
+        "journal": "PLoS ONE",
+        "year": 2011,
+        "citations": 258,
+        "authors": "Hideyuki Tamaki, Chris Wright, Xiangzhen Li et al.",
+        "authors_list": [
+            "Hideyuki Tamaki",
+            "Chris Wright",
+            "Xiangzhen Li",
+            "Qiaoyan Lin",
+            "Chiachi Hwang",
+            "Shiping Wang",
+            "Jyothi Thimmapuram",
+            "Yoichi Kamagata",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 258,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0025263&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.aquaculture.2015.12.014",
+        "title": "Response of gut microbiota to salinity change in two euryhaline aquatic animals with reverse salinity preference",
+        "journal": "Aquaculture",
+        "year": 2015,
+        "citations": 249,
+        "authors": "Mei‐Ling Zhang, Yuhong Sun, Yukun Liu et al.",
+        "authors_list": [
+            "Mei‐Ling Zhang",
+            "Yuhong Sun",
+            "Yukun Liu",
+            "Fang Qiao",
+            "Liqiao Chen",
+            "Wen‐Tso Liu",
+            "Zhen‐Yu Du",
+            "Erchao Li"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 249,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.65.3.1251-1258.1999",
+        "title": "Identification of a Novel Group of Bacteria in Sludge from a Deteriorated Biological Phosphorus Removal Reactor",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 1999,
+        "citations": 246,
+        "authors": "Alex Toftgaard Nielsen, Wen‐Tso Liu, Carlos D. M. Filipe et al.",
+        "authors_list": [
+            "Alex Toftgaard Nielsen",
+            "Wen‐Tso Liu",
+            "Carlos D. M. Filipe",
+            "Leslie Grady",
+            "Søren Molin",
+            "David A. Stahl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 246,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/65/3/1251.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41396-018-0101-5",
+        "title": "Drinking water microbiome assembly induced by water stagnation",
+        "journal": "The ISME Journal",
+        "year": 2018,
+        "citations": 234,
+        "authors": "Fangqiong Ling, Rachel J. Whitaker, Mark W. LeChevallier et al.",
+        "authors_list": [
+            "Fangqiong Ling",
+            "Rachel J. Whitaker",
+            "Mark W. LeChevallier",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 234,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41396-018-0101-5.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2014.05.035",
+        "title": "Abundance and composition of indigenous bacterial communities in a multi-step biofiltration-based drinking water treatment plant",
+        "journal": "Water Research",
+        "year": 2014,
+        "citations": 222,
+        "authors": "Karin Lautenschlager, Chiachi Hwang, Fangqiong Ling et al.",
+        "authors_list": [
+            "Karin Lautenschlager",
+            "Chiachi Hwang",
+            "Fangqiong Ling",
+            "Wen‐Tso Liu",
+            "Nico Boon",
+            "Oliver Köster",
+            "Thomas Egli",
+            "Frederik Hammes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 222,
+            "crossref": 194
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/nar/gkw1030",
+        "title": "IMG/VR: a database of cultured and uncultured DNA Viruses and retroviruses",
+        "journal": "Nucleic Acids Research",
+        "year": 2016,
+        "citations": 212,
+        "authors": "David Páez-Espino, I.-Min A. Chen, Krishna Palaniappan et al.",
+        "authors_list": [
+            "David Páez-Espino",
+            "I.-Min A. Chen",
+            "Krishna Palaniappan",
+            "Anna Ratner",
+            "Ken Chu",
+            "Ernest Szeto",
+            "Manoj Pillay",
+            "Jinghua Huang",
+            "Victor Markowitz",
+            "Torben Nielsen",
+            "Marcel Huntemann",
+            "T. B. K. Reddy",
+            "Georgios A. Pavlopoulos",
+            "Matthew B. Sullivan",
+            "Barbara J. Campbell",
+            "Feng Chen",
+            "Katherine D. McMahon",
+            "Steve J. Hallam",
+            "Vincent J. Denef",
+            "Ricardo Cavicchioli",
+            "Sean M. Caffrey",
+            "Wolfgang R. Streit",
+            "John Webster",
+            "Kim M. Handley",
+            "Ghasem Hosseini Salekdeh",
+            "Nicolas Tsesmetzis",
+            "João Carlos Setúbal",
+            "Phillip B. Pope",
+            "Wen‐Tso Liu",
+            "Adam R. Rivers",
+            "Natalia Ivanova",
+            "Nikos C. Kyrpides"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 212,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/nar/article-pdf/45/D1/D457/8846621/gkw1030.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/es050170h",
+        "title": "Biofilm Formation Characteristics of Bacterial Isolates Retrieved from a Reverse Osmosis Membrane",
+        "journal": "Environmental Science & Technology",
+        "year": 2005,
+        "citations": 206,
+        "authors": "Chee Meng Pang, Pei‐Ying Hong, Huiling Guo et al.",
+        "authors_list": [
+            "Chee Meng Pang",
+            "Pei‐Ying Hong",
+            "Huiling Guo",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 206,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.1462-2920.2001.00164.x",
+        "title": "<i>In situ</i>\n                    identification of polyphosphate‐ and polyhydroxyalkanoate‐accumulating traits for microbial populations in a biological phosphorus removal process",
+        "journal": "Environmental Microbiology",
+        "year": 2001,
+        "citations": 203,
+        "authors": "Wen‐Tso Liu, Alex Toftgaard Nielsen, Jer‐Horng Wu et al.",
+        "authors_list": [
+            "Wen‐Tso Liu",
+            "Alex Toftgaard Nielsen",
+            "Jer‐Horng Wu",
+            "Chin‐Sun Tsai",
+            "Yoshitaka Matsuo",
+            "Søren Molin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 203,
+            "crossref": 177
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0043-1354(96)00352-1",
+        "title": "Internal energy-based competition between polyphosphate- and glycogen-accumulating bacteria in biological phosphorus removal reactors—Effect of PC feeding ratio",
+        "journal": "Water Research",
+        "year": 1997,
+        "citations": 201,
+        "authors": "Wen‐Tso Liu, Kazunori Nakamura, Tomonori Matsuo et al.",
+        "authors_list": [
+            "Wen‐Tso Liu",
+            "Kazunori Nakamura",
+            "Tomonori Matsuo",
+            "Takashi Mino"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 201,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2013.03.002",
+        "title": "A microbiology-based multi-parametric approach towards assessing biological stability in drinking water distribution networks",
+        "journal": "Water Research",
+        "year": 2013,
+        "citations": 192,
+        "authors": "Karin Lautenschlager, Chiachi Hwang, Wen‐Tso Liu et al.",
+        "authors_list": [
+            "Karin Lautenschlager",
+            "Chiachi Hwang",
+            "Wen‐Tso Liu",
+            "Nico Boon",
+            "Oliver Köster",
+            "Hans Vrouwenvelder",
+            "Thomas Egli",
+            "Frederik Hammes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 192,
+            "crossref": 175
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ars.els-cdn.com/content/image/1-s2.0-S0043135413001589-fx1_lrg.jpg"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1099/mic.0.27291-0",
+        "title": "Identification and occurrence of tetrad-forming Alphaproteobacteria in anaerobic–aerobic activated sludge processes",
+        "journal": "Microbiology",
+        "year": 2004,
+        "citations": 188,
+        "authors": "Man‐Tak Wong, Fea Mein Tan, Wun Jern Ng et al.",
+        "authors_list": [
+            "Man‐Tak Wong",
+            "Fea Mein Tan",
+            "Wun Jern Ng",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 188,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ismej.2015.97",
+        "title": "Phylogeny and physiology of candidate phylum ‘Atribacteria’ (OP9/JS1) inferred from cultivation-independent genomics",
+        "journal": "The ISME Journal",
+        "year": 2015,
+        "citations": 187,
+        "authors": "Masaru K. Nobu, Jeremy A. Dodsworth, Senthil K. Murugapiran et al.",
+        "authors_list": [
+            "Masaru K. Nobu",
+            "Jeremy A. Dodsworth",
+            "Senthil K. Murugapiran",
+            "Christian Rinke",
+            "Esther Gies",
+            "Gordon Webster",
+            "Patrick Schwientek",
+            "Peter Kille",
+            "R. John Parkes",
+            "Henrik Sass",
+            "Bo Barker Jørgensen",
+            "Andrew J. Weightman",
+            "Wen‐Tso Liu",
+            "Steven Hallam",
+            "George Tsiamis",
+            "Tanja Woyke",
+            "Brian P. Hedlund"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 187,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ismej201597.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.00281-10",
+        "title": "Pyrosequencing Analysis of Bacterial Biofilm Communities in Water Meters of a Drinking Water Distribution System",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 2010,
+        "citations": 186,
+        "authors": "Pei‐Ying Hong, Chiachi Hwang, Fangqiong Ling et al.",
+        "authors_list": [
+            "Pei‐Ying Hong",
+            "Chiachi Hwang",
+            "Fangqiong Ling",
+            "Gary L. Andersen",
+            "Mark W. LeChevallier",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 186,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2918972"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.mimet.2009.03.001",
+        "title": "Quantitative effects of position and type of single mismatch on single base primer extension",
+        "journal": "Journal of Microbiological Methods",
+        "year": 2009,
+        "citations": 179,
+        "authors": "Jer‐Horng Wu, Pei‐Ying Hong, Wen‐Tso Liu",
+        "authors_list": [
+            "Jer‐Horng Wu",
+            "Pei‐Ying Hong",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 179,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2018.03.043",
+        "title": "Assessing the origin of bacteria in tap water and distribution system in an unchlorinated drinking water system by SourceTracker using microbial community fingerprints",
+        "journal": "Water Research",
+        "year": 2018,
+        "citations": 174,
+        "authors": "Gang Liu, Ya Zhang, Ed van der Mark et al.",
+        "authors_list": [
+            "Gang Liu",
+            "Ya Zhang",
+            "Ed van der Mark",
+            "Aleksandra Magic-Knezev",
+            "Ameet Pinto",
+            "Bartholomeus van den Bogert",
+            "Wen‐Tso Liu",
+            "Walter van der Meer",
+            "Gertjan Medema"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 174,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ars.els-cdn.com/content/image/1-s2.0-S0043135418302392-fx1_lrg.jpg"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1099/00221287-147-2-373",
+        "title": "Characterization of microbial consortia in a terephthalate-degrading anaerobic granular sludge system The GenBank accession numbers for the sequences obtained in this work are AF229774–AF229793.",
+        "journal": "Microbiology",
+        "year": 2001,
+        "citations": 165,
+        "authors": "Jer‐Horng Wu, Wen‐Tso Liu, I‐Cheng Tseng et al.",
+        "authors_list": [
+            "Jer‐Horng Wu",
+            "Wen‐Tso Liu",
+            "I‐Cheng Tseng",
+            "Sheng-Shung Cheng"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 165,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2017.10.054",
+        "title": "Metagenomic characterization of biofilter microbial communities in a full-scale drinking water treatment plant",
+        "journal": "Water Research",
+        "year": 2017,
+        "citations": 161,
+        "authors": "Seungdae Oh, Frederik Hammes, Wen‐Tso Liu",
+        "authors_list": [
+            "Seungdae Oh",
+            "Frederik Hammes",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 161,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.01892-12",
+        "title": "Microbial Community Dynamics of an Urban Drinking Water Distribution System Subjected to Phases of Chloramination and Chlorination Treatments",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 2012,
+        "citations": 161,
+        "authors": "Chiachi Hwang, Fangqiong Ling, Gary L. Andersen et al.",
+        "authors_list": [
+            "Chiachi Hwang",
+            "Fangqiong Ling",
+            "Gary L. Andersen",
+            "Mark W. LeChevallier",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 161,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/78/22/7856.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0043-1354(02)00022-2",
+        "title": "Microbial community dynamics during start-up of acidogenic anaerobic reactors",
+        "journal": "Water Research",
+        "year": 2002,
+        "citations": 161,
+        "authors": "Wen‐Tso Liu, On-Chim Chan, Herbert H. P. Fang",
+        "authors_list": [
+            "Wen‐Tso Liu",
+            "On-Chim Chan",
+            "Herbert H. P. Fang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 161,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/1462-2920.12616",
+        "title": "The nexus of syntrophy‐associated microbiota in anaerobic digestion revealed by long‐term enrichment and community survey",
+        "journal": "Environmental Microbiology",
+        "year": 2014,
+        "citations": 159,
+        "authors": "Takashi Narihiro, Masaru K. Nobu, Na Kyung Kim et al.",
+        "authors_list": [
+            "Takashi Narihiro",
+            "Masaru K. Nobu",
+            "Na Kyung Kim",
+            "Yoichi Kamagata",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 159,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-017-01376-9",
+        "title": "Diverse Marinimicrobia bacteria may mediate coupled biogeochemical cycles along eco-thermodynamic gradients",
+        "journal": "Nature Communications",
+        "year": 2017,
+        "citations": 158,
+        "authors": "Alyse K. Hawley, Masaru K. Nobu, Jody J. Wright et al.",
+        "authors_list": [
+            "Alyse K. Hawley",
+            "Masaru K. Nobu",
+            "Jody J. Wright",
+            "W. Evan Durno",
+            "Connor Morgan‐Lang",
+            "Brent Sage",
+            "Patrick Schwientek",
+            "Brandon K. Swan",
+            "Christian Rinke",
+            "Mónica Torres-Beltrán",
+            "Keith Mewis",
+            "Wen‐Tso Liu",
+            "Ramūnas Stepanauskas",
+            "Tanja Woyke",
+            "Steven Hallam"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 158,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-017-01376-9.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.1462-2920.2002.00357.x",
+        "title": "Diversity and distribution of a deeply branched novel proteobacterial group found in anaerobic–aerobic activated sludge processes",
+        "journal": "Environmental Microbiology",
+        "year": 2002,
+        "citations": 152,
+        "authors": "Yunhong Kong, Say Leong Ong, Wun Jun Ng et al.",
+        "authors_list": [
+            "Yunhong Kong",
+            "Say Leong Ong",
+            "Wun Jun Ng",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 152,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0043-1354(95)00121-z",
+        "title": "Glycogen accumulating population and its anaerobic substrate uptake in anaerobic-aerobic activated sludge without biological phosphorus removal",
+        "journal": "Water Research",
+        "year": 1996,
+        "citations": 149,
+        "authors": "Wen‐Tso Liu, Takashi Mino, Kazunori Nakamura et al.",
+        "authors_list": [
+            "Wen‐Tso Liu",
+            "Takashi Mino",
+            "Kazunori Nakamura",
+            "Tomonori Matsuo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 149,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.1462-2920.2001.00233.x",
+        "title": "Optimization of an oligonucleotide microchip for microbial identification studies: a non‐equilibrium dissociation approach",
+        "journal": "Environmental Microbiology",
+        "year": 2001,
+        "citations": 148,
+        "authors": "Wen‐Tso Liu, A.D. Mirzabekov, David A. Stahl",
+        "authors_list": [
+            "Wen‐Tso Liu",
+            "A.D. Mirzabekov",
+            "David A. Stahl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 148,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2005.05.015",
+        "title": "In situ identification and characterization of the microbial community structure of full-scale enhanced biological phosphorous removal plants in Japan",
+        "journal": "Water Research",
+        "year": 2005,
+        "citations": 147,
+        "authors": "Man‐Tak Wong, Takashi Mino, Robert J. Seviour et al.",
+        "authors_list": [
+            "Man‐Tak Wong",
+            "Takashi Mino",
+            "Robert J. Seviour",
+            "Motoharu Onuki",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 147,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1462-2920.2011.02630.x",
+        "title": "Metagenomic analysis of DNA viruses in a wastewater treatment plant in tropical climate",
+        "journal": "Environmental Microbiology",
+        "year": 2011,
+        "citations": 137,
+        "authors": "Hideyuki Tamaki, Rui Zhang, Florent Angly et al.",
+        "authors_list": [
+            "Hideyuki Tamaki",
+            "Rui Zhang",
+            "Florent Angly",
+            "Shota Nakamura",
+            "Pei‐Ying Hong",
+            "Teruo Yasunaga",
+            "Yoichi Kamagata",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 137,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.00557-15",
+        "title": "Responses of Bacterial Communities to Simulated Climate Changes in Alpine Meadow Soil of the Qinghai-Tibet Plateau",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 2015,
+        "citations": 136,
+        "authors": "Junpeng Rui, Jiabao Li, Shiping Wang et al.",
+        "authors_list": [
+            "Junpeng Rui",
+            "Jiabao Li",
+            "Shiping Wang",
+            "Jiaxing An",
+            "Wen‐Tso Liu",
+            "Qiaoyan Lin",
+            "Yunfeng Yang",
+            "Zhili He",
+            "Xiangzhen Li"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 136,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/81/17/6070.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.70.1.597-598.2004",
+        "title": "Quantum Dots as a Novel Immunofluorescent Detection System for <i>Cryptosporidium parvum</i> and <i>Giardia lamblia</i>",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 2004,
+        "citations": 133,
+        "authors": "Liang Zhu, Simon S. Ang, Wen‐Tso Liu",
+        "authors_list": [
+            "Liang Zhu",
+            "Simon S. Ang",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 133,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/321307"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ismej.2010.125",
+        "title": "Multiple syntrophic interactions in a terephthalate-degrading methanogenic consortium",
+        "journal": "The ISME Journal",
+        "year": 2010,
+        "citations": 133,
+        "authors": "Athanasios Lykidis, Chia-Lung Chen, Susannah G. Tringe et al.",
+        "authors_list": [
+            "Athanasios Lykidis",
+            "Chia-Lung Chen",
+            "Susannah G. Tringe",
+            "Alice C. McHardy",
+            "Alex Copeland",
+            "Nikos C. Kyrpides",
+            "Philip Hugenholtz",
+            "Hervé Macarie",
+            "Alejandro Olmos",
+            "O. Monroy",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 133,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ismej2010125.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/es505842v",
+        "title": "Role of Biofilm Roughness and Hydrodynamic Conditions in <i>Legionella pneumophila</i> Adhesion to and Detachment from Simulated Drinking Water Biofilms",
+        "journal": "Environmental Science & Technology",
+        "year": 2015,
+        "citations": 131,
+        "authors": "Yun Shen, Guillermo L. Monroy, Nicolas Derlon et al.",
+        "authors_list": [
+            "Yun Shen",
+            "Guillermo L. Monroy",
+            "Nicolas Derlon",
+            "Dao Janjaroen",
+            "Conghui Huang",
+            "Eberhard Morgenroth",
+            "Stephen A. Boppart",
+            "Nicholas J. Ashbolt",
+            "Wen‐Tso Liu",
+            "Thanh H. Nguyen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 131,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.dora.lib4ri.ch/eawag/islandora/object/eawag%3A8139"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0922-338x(94)90124-4",
+        "title": "Role of glycogen in acetate uptake and polyhydroxyalkanoate synthesis in anaerobic-aerobic activated sludge with a minimized polyphosphate content",
+        "journal": "Journal of Fermentation and Bioengineering",
+        "year": 1994,
+        "citations": 130,
+        "authors": "Wen‐Tso Liu, Takashi Mino, Kazunori Nakamura et al.",
+        "authors_list": [
+            "Wen‐Tso Liu",
+            "Takashi Mino",
+            "Kazunori Nakamura",
+            "Tomonori Matsuo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0043-1354(01)00377-3",
+        "title": "Characterization of microbial community in granular sludge treating brewery wastewater",
+        "journal": "Water Research",
+        "year": 2002,
+        "citations": 124,
+        "authors": "Wen‐Tso Liu, On-Chim Chan, Herbert H. P. Fang",
+        "authors_list": [
+            "Wen‐Tso Liu",
+            "On-Chim Chan",
+            "Herbert H. P. Fang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 124,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.chemosphere.2011.06.066",
+        "title": "Impact of silver nanoparticles on natural marine biofilm bacteria",
+        "journal": "Chemosphere",
+        "year": 2011,
+        "citations": 120,
+        "authors": "Julia Fabrega, Rui Zhang, Joanna C. Renshaw et al.",
+        "authors_list": [
+            "Julia Fabrega",
+            "Rui Zhang",
+            "Joanna C. Renshaw",
+            "Wen‐Tso Liu",
+            "Jamie R. Lead"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ismej.2015.136",
+        "title": "Core-satellite populations and seasonality of water meter biofilms in a metropolitan drinking water distribution system",
+        "journal": "The ISME Journal",
+        "year": 2015,
+        "citations": 119,
+        "authors": "Fangqiong Ling, Chiachi Hwang, Mark W. LeChevallier et al.",
+        "authors_list": [
+            "Fangqiong Ling",
+            "Chiachi Hwang",
+            "Mark W. LeChevallier",
+            "Gary L. Andersen",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 119,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00253-003-1286-7",
+        "title": "Community structure of microbial biofilms associated with membrane-based water purification processes as revealed using a polyphasic approach",
+        "journal": "Applied Microbiology and Biotechnology",
+        "year": 2004,
+        "citations": 118,
+        "authors": "Chia Lung Chen, Wen‐Tso Liu, Mei Ling Chong et al.",
+        "authors_list": [
+            "Chia Lung Chen",
+            "Wen‐Tso Liu",
+            "Mei Ling Chong",
+            "M.-T. Wong",
+            "Say Leong Ong",
+            "Harry Seah",
+            "Wenfa Ng"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1099/00207713-50-1-201",
+        "title": "Micropruina glycogenica gen. nov., sp. nov., a new Gram-positive glycogen-accumulating bacterium isolated from activated sludge.",
+        "journal": "INTERNATIONAL JOURNAL OF SYSTEMATIC AND EVOLUTIONARY MICROBIOLOGY",
+        "year": 2000,
+        "citations": 117,
+        "authors": "Takafumi Shintani, Wen‐Tso Liu, Satoshi Hanada et al.",
+        "authors_list": [
+            "Takafumi Shintani",
+            "Wen‐Tso Liu",
+            "Satoshi Hanada",
+            "Yoichi Kamagata",
+            "Shunsuke Miyaoka",
+            "Toshihiko Suzuki",
+            "Kohei Nakamura"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2017.08.002",
+        "title": "Hotspots for selected metal elements and microbes accumulation and the corresponding water quality deterioration potential in an unchlorinated drinking water distribution system",
+        "journal": "Water Research",
+        "year": 2017,
+        "citations": 117,
+        "authors": "Gang Liu, Yu Tao, Ya Zhang et al.",
+        "authors_list": [
+            "Gang Liu",
+            "Yu Tao",
+            "Ya Zhang",
+            "Maarten Lut",
+            "Willem Jan Knibbe",
+            "Paul W. J. J. van der Wielen",
+            "Wen‐Tso Liu",
+            "Gertjan Medema",
+            "Walter van der Meer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ars.els-cdn.com/content/image/1-s2.0-S0043135417306553-fx1_lrg.jpg"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/es0701614",
+        "title": "Community Structure Analysis of Reverse Osmosis Membrane Biofilms and the Significance of <i>Rhizobiales</i> Bacteria in Biofouling",
+        "journal": "Environmental Science & Technology",
+        "year": 2007,
+        "citations": 116,
+        "authors": "Chee Meng Pang, Wen‐Tso Liu",
+        "authors_list": [
+            "Chee Meng Pang",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0009964",
+        "title": "Comparative Analysis of Fecal Microbiota in Infants with and without Eczema",
+        "journal": "PLoS ONE",
+        "year": 2010,
+        "citations": 113,
+        "authors": "Pei‐Ying Hong, Bee Wah Lee, Marion Aw et al.",
+        "authors_list": [
+            "Pei‐Ying Hong",
+            "Bee Wah Lee",
+            "Marion Aw",
+            "Lynette Pei‐Chi Shek",
+            "Gaik Chin Yap",
+            "Kaw Yan Chua",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 113,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0009964&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2019.02.020",
+        "title": "Genome-centric metagenomics resolves microbial diversity and prevalent truncated denitrification pathways in a denitrifying PAO-enriched bioprocess",
+        "journal": "Water Research",
+        "year": 2019,
+        "citations": 110,
+        "authors": "Han Gao, Yanping Mao, Xiaotian Zhao et al.",
+        "authors_list": [
+            "Han Gao",
+            "Yanping Mao",
+            "Xiaotian Zhao",
+            "Wen‐Tso Liu",
+            "Tong Zhang",
+            "George Wells"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 110,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2008.11.039",
+        "title": "Determination of virus abundance, diversity and distribution in a municipal wastewater treatment plant",
+        "journal": "Water Research",
+        "year": 2008,
+        "citations": 109,
+        "authors": "Qinglong L. Wu, Wen‐Tso Liu",
+        "authors_list": [
+            "Qinglong L. Wu",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3389/fmicb.2020.593006",
+        "title": "Metagenomic and Metatranscriptomic Analyses Revealed Uncultured Bacteroidales Populations as the Dominant Proteolytic Amino Acid Degraders in Anaerobic Digesters",
+        "journal": "Frontiers in Microbiology",
+        "year": 2020,
+        "citations": 109,
+        "authors": "Ran Mei, Masaru K. Nobu, Takashi Narihiro et al.",
+        "authors_list": [
+            "Ran Mei",
+            "Masaru K. Nobu",
+            "Takashi Narihiro",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.frontiersin.org/articles/10.3389/fmicb.2020.593006/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s40168-020-00885-y",
+        "title": "Catabolism and interactions of uncultured organisms shaped by eco-thermodynamics in methanogenic bioprocesses",
+        "journal": "Microbiome",
+        "year": 2020,
+        "citations": 106,
+        "authors": "Masaru K. Nobu, Takashi Narihiro, Ran Mei et al.",
+        "authors_list": [
+            "Masaru K. Nobu",
+            "Takashi Narihiro",
+            "Ran Mei",
+            "Yoichi Kamagata",
+            "Patrick K. H. Lee",
+            "Po‐Heng Lee",
+            "Michael J. McInerney",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-020-00885-y"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2013.02.032",
+        "title": "Roles of ionic strength and biofilm roughness on adhesion kinetics of Escherichia coli onto groundwater biofilm grown on PVC surfaces",
+        "journal": "Water Research",
+        "year": 2013,
+        "citations": 105,
+        "authors": "Dao Janjaroen, Fangqiong Ling, Guillermo L. Monroy et al.",
+        "authors_list": [
+            "Dao Janjaroen",
+            "Fangqiong Ling",
+            "Guillermo L. Monroy",
+            "Nicolas Derlon",
+            "Eberhard Mogenroth",
+            "Stephen A. Boppart",
+            "Wen‐Tso Liu",
+            "Thanh H. Nguyen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.dora.lib4ri.ch/eawag/islandora/object/eawag%3A7264"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/srep34090",
+        "title": "Evaluating digestion efficiency in full-scale anaerobic digesters by identifying active microbial populations through the lens of microbial activity",
+        "journal": "Scientific Reports",
+        "year": 2016,
+        "citations": 105,
+        "authors": "Ran Mei, Takashi Narihiro, Masaru K. Nobu et al.",
+        "authors_list": [
+            "Ran Mei",
+            "Takashi Narihiro",
+            "Masaru K. Nobu",
+            "Kyohei Kuroda",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/srep34090.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2017.07.050",
+        "title": "Operation-driven heterogeneity and overlooked feed-associated populations in global anaerobic digester microbiome",
+        "journal": "Water Research",
+        "year": 2017,
+        "citations": 95,
+        "authors": "Ran Mei, Masaru K. Nobu, Takashi Narihiro et al.",
+        "authors_list": [
+            "Ran Mei",
+            "Masaru K. Nobu",
+            "Takashi Narihiro",
+            "Kyohei Kuroda",
+            "Julian D. Muñoz Sierra",
+            "Zhuoying Wu",
+            "Lin Ye",
+            "Patrick K. H. Lee",
+            "Po‐Heng Lee",
+            "J.B. van Lier",
+            "Michael J. McInerney",
+            "Yoichi Kamagata",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/am/pii/S0043135417306231?via%3Dihub"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.est.6b04896",
+        "title": "Complete Nutrient Removal Coupled to Nitrous Oxide Production as a Bioenergy Source by Denitrifying Polyphosphate-Accumulating Organisms",
+        "journal": "Environmental Science & Technology",
+        "year": 2017,
+        "citations": 92,
+        "authors": "Han Gao, Miao Liu, James S. Griffin et al.",
+        "authors_list": [
+            "Han Gao",
+            "Miao Liu",
+            "James S. Griffin",
+            "Longcheng Xu",
+            "Da Xiang",
+            "Yaniv D. Scherson",
+            "Wen‐Tso Liu",
+            "George Wells"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 92,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.est.5b04653",
+        "title": "Response of Simulated Drinking Water Biofilm Mechanical and Structural Properties to Long-Term Disinfectant Exposure",
+        "journal": "Environmental Science & Technology",
+        "year": 2016,
+        "citations": 89,
+        "authors": "Yun Shen, Conghui Huang, Guillermo L. Monroy et al.",
+        "authors_list": [
+            "Yun Shen",
+            "Conghui Huang",
+            "Guillermo L. Monroy",
+            "Dao Janjaroen",
+            "Nicolas Derlon",
+            "Jie Lin",
+            "Rosa M. Espinosa‐Marzal",
+            "Eberhard Morgenroth",
+            "Stephen A. Boppart",
+            "Nicholas J. Ashbolt",
+            "Wen‐Tso Liu",
+            "Thanh H. Nguyen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.dora.lib4ri.ch/eawag/islandora/object/eawag%3A10537"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1099/00207713-52-3-883",
+        "title": "Tetrasphaera elongata sp. nov., a polyphosphate-accumulating bacterium isolated from activated sludge.",
+        "journal": "INTERNATIONAL JOURNAL OF SYSTEMATIC AND EVOLUTIONARY MICROBIOLOGY",
+        "year": 2002,
+        "citations": 89,
+        "authors": "Satoshi Hanada, Wen‐Tso Liu, Tomoyoshi Shintani et al.",
+        "authors_list": [
+            "Satoshi Hanada",
+            "Wen‐Tso Liu",
+            "Tomoyoshi Shintani",
+            "Yoichi Kamagata",
+            "Kazunori Nakamura"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2018.10.026",
+        "title": "Novel Geobacter species and diverse methanogens contribute to enhanced methane production in media-added methanogenic reactors",
+        "journal": "Water Research",
+        "year": 2018,
+        "citations": 87,
+        "authors": "Ran Mei, Masaru K. Nobu, Takashi Narihiro et al.",
+        "authors_list": [
+            "Ran Mei",
+            "Masaru K. Nobu",
+            "Takashi Narihiro",
+            "Jimmy C. Yu",
+            "Arun Sathyagal",
+            "Eric Willman",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-021-23402-7",
+        "title": "Ecology and molecular targets of hypermutation in the global microbiome",
+        "journal": "Nature Communications",
+        "year": 2021,
+        "citations": 86,
+        "authors": "Simon Roux, Blair G. Paul, Sarah C. Bagby et al.",
+        "authors_list": [
+            "Simon Roux",
+            "Blair G. Paul",
+            "Sarah C. Bagby",
+            "Stephen Nayfach",
+            "Michelle A. Allen",
+            "Graeme T. Attwood",
+            "Ricardo Cavicchioli",
+            "Ludmila Chistoserdova",
+            "Robert J. Gruninger",
+            "Steven Hallam",
+            "Maria Hernandez",
+            "Matthias Hess",
+            "Wen‐Tso Liu",
+            "Tim A. McAllister",
+            "Michelle O’Malley",
+            "Xuefeng Peng",
+            "Virginia I. Rich",
+            "S. R. Saleska",
+            "Emiley A. Eloe‐Fadrosh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-021-23402-7.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.tibtech.2005.02.004",
+        "title": "Environmental microbiology-on-a-chip and its future impacts",
+        "journal": "Trends in biotechnology",
+        "year": 2005,
+        "citations": 86,
+        "authors": "Wen‐Tso Liu, Liang Zhu",
+        "authors_list": [
+            "Wen‐Tso Liu",
+            "Liang Zhu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1006/eesa.2001.2034",
+        "title": "Structure of Microbial Communities in Activated Sludge: Potential Implications for Assessing the Biodegradability of Chemicals",
+        "journal": "Ecotoxicology and Environmental Safety",
+        "year": 2001,
+        "citations": 84,
+        "authors": "Larry J. Forney, Wen‐Tso Liu, James B. Guckert et al.",
+        "authors_list": [
+            "Larry J. Forney",
+            "Wen‐Tso Liu",
+            "James B. Guckert",
+            "Yoshiharu Kumagai",
+            "Eun Ha Namkung",
+            "Tatsuji Nishihara",
+            "Robert J. Larson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/1462-2920.12444",
+        "title": "The genome of <scp> <i>S</i> </scp> <i>yntrophorhabdus aromaticivorans</i> strain <scp>UI</scp> provides new insights for syntrophic aromatic compound metabolism and electron flow",
+        "journal": "Environmental Microbiology",
+        "year": 2014,
+        "citations": 84,
+        "authors": "Masaru K. Nobu, Takashi Narihiro, Hideyuki Tamaki et al.",
+        "authors_list": [
+            "Masaru K. Nobu",
+            "Takashi Narihiro",
+            "Hideyuki Tamaki",
+            "Yanling Qiu",
+            "Yuji Sekiguchi",
+            "Tanja Woyke",
+            "Lynne Goodwin",
+            "Karen W. Davenport",
+            "Yoichi Kamagata",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.scitotenv.2017.09.008",
+        "title": "Distribution comparison and risk assessment of free-floating and particle-attached bacterial pathogens in urban recreational water: Implications for water quality management",
+        "journal": "The Science of The Total Environment",
+        "year": 2017,
+        "citations": 82,
+        "authors": "Tingting Fang, Qijia Cui, Yong Huang et al.",
+        "authors_list": [
+            "Tingting Fang",
+            "Qijia Cui",
+            "Yong Huang",
+            "Peiyan Dong",
+            "Hui Wang",
+            "Wen‐Tso Liu",
+            "Quanhui Ye"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/b401834f",
+        "title": "Filter-based microfluidic device as a platform for immunofluorescent assay of microbial cells",
+        "journal": "Lab on a Chip",
+        "year": 2004,
+        "citations": 82,
+        "authors": "Liang Zhu, Qing Zhang, Hanhua Feng et al.",
+        "authors_list": [
+            "Liang Zhu",
+            "Qing Zhang",
+            "Hanhua Feng",
+            "Simon S. Ang",
+            "Fook Siong Chau",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3389/fmicb.2019.01536",
+        "title": "Nexus of Stochastic and Deterministic Processes on Microbial Community Assembly in Biological Systems",
+        "journal": "Frontiers in Microbiology",
+        "year": 2019,
+        "citations": 81,
+        "authors": "Heyang Yuan, Ran Mei, Junhui Liao et al.",
+        "authors_list": [
+            "Heyang Yuan",
+            "Ran Mei",
+            "Junhui Liao",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.frontiersin.org/articles/10.3389/fmicb.2019.01536/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2007.11.037",
+        "title": "Identification of important microbial populations in the mesophilic and thermophilic phenol-degrading methanogenic consortia",
+        "journal": "Water Research",
+        "year": 2007,
+        "citations": 80,
+        "authors": "Chia-Lung Chen, Jer‐Horng Wu, Wen‐Tso Liu",
+        "authors_list": [
+            "Chia-Lung Chen",
+            "Jer‐Horng Wu",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/9781555815882.ch12",
+        "title": "Molecular Approaches for the Measurement of Density, Diversity, and Phylogeny",
+        "journal": "",
+        "year": 2007,
+        "citations": 80,
+        "authors": "Wen‐Tso Liu, David A. Stahl",
+        "authors_list": [
+            "Wen‐Tso Liu",
+            "David A. Stahl"
+        ],
+        "type": "other",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1264/jsme2.me11132",
+        "title": "Evaluation of Methods for the Extraction of DNA from Drinking Water Distribution System Biofilms",
+        "journal": "Microbes and Environments",
+        "year": 2011,
+        "citations": 79,
+        "authors": "Chiachi Hwang, Fangqiong Ling, Gary L. Andersen et al.",
+        "authors_list": [
+            "Chiachi Hwang",
+            "Fangqiong Ling",
+            "Gary L. Andersen",
+            "Mark W. LeChevallier",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 79,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.jstage.jst.go.jp/article/jsme2/27/1/27_ME11132/_pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s40168-020-0794-3",
+        "title": "Machine learning-aided analyses of thousands of draft genomes reveal specific features of activated sludge processes",
+        "journal": "Microbiome",
+        "year": 2020,
+        "citations": 79,
+        "authors": "Lin Ye, Ran Mei, Wen‐Tso Liu et al.",
+        "authors_list": [
+            "Lin Ye",
+            "Ran Mei",
+            "Wen‐Tso Liu",
+            "Hongqiang Ren",
+            "Xu-Xiang Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 79,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-020-0794-3"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2013.11.029",
+        "title": "Simultaneous nitrogen and phosphorus removal in the sulfur cycle-associated Enhanced Biological Phosphorus Removal (EBPR) process",
+        "journal": "Water Research",
+        "year": 2013,
+        "citations": 78,
+        "authors": "Di Wu, George A. Ekama, Haiguang Wang et al.",
+        "authors_list": [
+            "Di Wu",
+            "George A. Ekama",
+            "Haiguang Wang",
+            "Li Wei",
+            "Hui Lü",
+            "Ho-Kwong Chui",
+            "Wen‐Tso Liu",
+            "Damir Brdjanović",
+            "Mark C.M. van Loosdrecht",
+            "Guanghao Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nbt0718-660a",
+        "title": "Correction: Corrigendum: Minimum information about a single amplified genome (MISAG) and a metagenome-assembled genome (MIMAG) of bacteria and archaea",
+        "journal": "Nature Biotechnology",
+        "year": 2018,
+        "citations": 76,
+        "authors": "Robert M. Bowers, Nikos C. Kyrpides, Ramūnas Stepanauskas et al.",
+        "authors_list": [
+            "Robert M. Bowers",
+            "Nikos C. Kyrpides",
+            "Ramūnas Stepanauskas",
+            "Miranda Harmon‐Smith",
+            "Devin F. R. Doud",
+            "T. B. K. Reddy",
+            "Frederik Schulz",
+            "Jessica K. Jarett",
+            "Adam R. Rivers",
+            "Emiley A. Eloe‐Fadrosh",
+            "Susannah G. Tringe",
+            "Natalia Ivanova",
+            "Alex Copeland",
+            "Alicia Clum",
+            "Eric D. Becraft",
+            "Rex R. Malmstrom",
+            "Bruce W. Birren",
+            "Mircea Podar",
+            "Peer Bork",
+            "George M. Weinstock",
+            "George M Garrity",
+            "Jeremy A. Dodsworth",
+            "Shibu Yooseph",
+            "Granger Sutton",
+            "Frank Oliver Glöckner",
+            "Jack A. Gilbert",
+            "William Nelson",
+            "Steven Hallam",
+            "Sean P. Jungbluth",
+            "Thijs J. G. Ettema",
+            "Scott Tighe",
+            "Konstantinos T. Konstantinidis",
+            "Wen‐Tso Liu",
+            "Brett J. Baker",
+            "Thomas Rattei",
+            "Jonathan A. Eisen",
+            "Brian P. Hedlund",
+            "Katherine D. McMahon",
+            "Noah Fierer",
+            "Rob Knight",
+            "ROBERT FINN",
+            "Guy Cochrane",
+            "Ilene Karsch‐Mizrachi",
+            "Gene W Tyson",
+            "Christian Rinke",
+            "Alla Lapidus",
+            "Folker Meyer",
+            "Pelin Yilmaz",
+            "Donovan H. Parks",
+            "A. Murat Eren",
+            "Lynn M. Schriml",
+            "Jillian F. Banfield",
+            "Philip Hugenholtz",
+            "Tanja Woyke"
+        ],
+        "type": "erratum",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/nbt0718-660a.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/femsec/fiv152",
+        "title": "Soil bacterial community responses to warming and grazing in a Tibetan alpine meadow",
+        "journal": "FEMS Microbiology Ecology",
+        "year": 2015,
+        "citations": 75,
+        "authors": "Yaoming Li, Qiaoyan Lin, Shiping Wang et al.",
+        "authors_list": [
+            "Yaoming Li",
+            "Qiaoyan Lin",
+            "Shiping Wang",
+            "Xiangzhen Li",
+            "Wen‐Tso Liu",
+            "Caiyun Luo",
+            "Zhenhua Zhang",
+            "Xiaoxue Zhu",
+            "Lili Jiang",
+            "Xine Li"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/femsec/article-pdf/92/1/fiv152/16735283/fiv152.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.scitotenv.2014.05.086",
+        "title": "Tracing fecal pollution sources in karst groundwater by Bacteroidales genetic biomarkers, bacterial indicators, and environmental variables",
+        "journal": "The Science of The Total Environment",
+        "year": 2014,
+        "citations": 72,
+        "authors": "Ya Zhang, Walton R. Kelly, Samuel V. Panno et al.",
+        "authors_list": [
+            "Ya Zhang",
+            "Walton R. Kelly",
+            "Samuel V. Panno",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1099/00221287-146-5-1099",
+        "title": "Microbial community changes in biological phosphate-removal systems on altering sludge phosphorus content The GenBank/EMBL/DDBJ accession numbers for the sequences obtained in this report are AF109792 (strain Lpha5), AF109793 (strain Lpha7) and AF124650 to AF124659.",
+        "journal": "Microbiology",
+        "year": 2000,
+        "citations": 69,
+        "authors": "Wen‐Tso Liu, Katrina D. Linning, Kazunori Nakamura et al.",
+        "authors_list": [
+            "Wen‐Tso Liu",
+            "Katrina D. Linning",
+            "Kazunori Nakamura",
+            "Takashi Mino",
+            "Tomonori Matsuo",
+            "Larry J. Forney"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.01468-06",
+        "title": "Effects of Target Length on the Hybridization Efficiency and Specificity of rRNA-Based Oligonucleotide Microarrays",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 2006,
+        "citations": 69,
+        "authors": "Wen‐Tso Liu, Huiling Guo, Jer‐Horng Wu",
+        "authors_list": [
+            "Wen‐Tso Liu",
+            "Huiling Guo",
+            "Jer‐Horng Wu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/b509086e",
+        "title": "Microfluidic device as a new platform for immunofluorescent detection of viruses",
+        "journal": "Lab on a Chip",
+        "year": 2005,
+        "citations": 69,
+        "authors": "Wen‐Tso Liu, Liang Zhu, Qi-Wei Qin et al.",
+        "authors_list": [
+            "Wen‐Tso Liu",
+            "Liang Zhu",
+            "Qi-Wei Qin",
+            "Qing Zhang",
+            "Hanhua Feng",
+            "Simon S. Ang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2020.115815",
+        "title": "Superior resolution characterisation of microbial diversity in anaerobic digesters using full-length 16S rRNA gene amplicon sequencing",
+        "journal": "Water Research",
+        "year": 2020,
+        "citations": 68,
+        "authors": "Theo Y.C. Lam, Ran Mei, Zhuoying Wu et al.",
+        "authors_list": [
+            "Theo Y.C. Lam",
+            "Ran Mei",
+            "Zhuoying Wu",
+            "Patrick K. H. Lee",
+            "Patrick K. H. Lee",
+            "Wen‐Tso Liu",
+            "Po‐Heng Lee",
+            "Po‐Heng Lee"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.tim.2019.03.011",
+        "title": "Drinking Water Microbiome Project: Is it Time?",
+        "journal": "Trends in Microbiology",
+        "year": 2019,
+        "citations": 66,
+        "authors": "Natalie M. Hull, Fangqiong Ling, Ameet Pinto et al.",
+        "authors_list": [
+            "Natalie M. Hull",
+            "Fangqiong Ling",
+            "Ameet Pinto",
+            "Mads Albertsen",
+            "Hyunju Jang",
+            "Pei‐Ying Hong",
+            "Konstantinos T. Konstantinidis",
+            "Mark W. LeChevallier",
+            "Rita R. Colwell",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.soilbio.2019.02.018",
+        "title": "Warming counteracts grazing effects on the functional structure of the soil microbial community in a Tibetan grassland",
+        "journal": "Soil Biology and Biochemistry",
+        "year": 2019,
+        "citations": 65,
+        "authors": "Tang Li, Lei Zhong, Kai Xue et al.",
+        "authors_list": [
+            "Tang Li",
+            "Lei Zhong",
+            "Kai Xue",
+            "Shiping Wang",
+            "Zhihong Xu",
+            "Qiaoyan Lin",
+            "Caiyun Luo",
+            "Yichao Rui",
+            "Xiangzhen Li",
+            "Ming Li",
+            "Wen‐Tso Liu",
+            "Yunfeng Yang",
+            "Jizhong Zhou",
+            "Yanfen Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0038071719300586"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2015.10.013",
+        "title": "Membrane biofouling in a wastewater nitrification reactor: Microbial succession from autotrophic colonization to heterotrophic domination",
+        "journal": "Water Research",
+        "year": 2015,
+        "citations": 63,
+        "authors": "Huijie Lü, Zheng Xue, Pascal E. Saikaly et al.",
+        "authors_list": [
+            "Huijie Lü",
+            "Zheng Xue",
+            "Pascal E. Saikaly",
+            "Suzana P. Nunes",
+            "Ted R. Bluver",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/1462-2920.12325",
+        "title": "<scp> <i>H</i> </scp> <i>alomonas sulfidaeris</i> ‐dominated microbial community inhabits a 1.8 km‐deep subsurface <scp>C</scp> ambrian <scp>S</scp> andstone reservoir",
+        "journal": "Environmental Microbiology",
+        "year": 2013,
+        "citations": 62,
+        "authors": "Yiran Dong, Charu G. Kumar, Nicholas Chia et al.",
+        "authors_list": [
+            "Yiran Dong",
+            "Charu G. Kumar",
+            "Nicholas Chia",
+            "Pan‐Jun Kim",
+            "P. Miller",
+            "Nathan D. Price",
+            "Isaac Cann",
+            "Theodore M. Flynn",
+            "Robert A. Sanford",
+            "Ivan G. Krapac",
+            "Randall A. Locke",
+            "Pei‐Ying Hong",
+            "Hideyuki Tamaki",
+            "Wen‐Tso Liu",
+            "Roderick I. Mackie",
+            "Alvaro G. Hernandez",
+            "Chris Wright",
+            "Mark A. Mikel",
+            "Jared Walker",
+            "Mayandi Sivaguru",
+            "Glenn Fried",
+            "Anthony C. Yannarell",
+            "Bruce W. Fouke"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1462-2920.12325"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nbt0218-196a",
+        "title": "Erratum: Corrigendum: Minimum information about a single amplified genome (MISAG) and a metagenome-assembled genome (MIMAG) of bacteria and archaea",
+        "journal": "Nature Biotechnology",
+        "year": 2018,
+        "citations": 61,
+        "authors": "Robert M. Bowers, Nikos C. Kyrpides, Ramūnas Stepanauskas et al.",
+        "authors_list": [
+            "Robert M. Bowers",
+            "Nikos C. Kyrpides",
+            "Ramūnas Stepanauskas",
+            "Miranda Harmon‐Smith",
+            "Devin F. R. Doud",
+            "T. B. K. Reddy",
+            "Frederik Schulz",
+            "Jessica K. Jarett",
+            "Adam R. Rivers",
+            "Emiley A. Eloe‐Fadrosh",
+            "Susannah G. Tringe",
+            "Natalia Ivanova",
+            "Alex Copeland",
+            "Alicia Clum",
+            "Eric D. Becraft",
+            "Rex R. Malmstrom",
+            "Bruce W. Birren",
+            "Mircea Podar",
+            "Peer Bork",
+            "George M. Weinstock",
+            "George M Garrity",
+            "Jeremy A. Dodsworth",
+            "Shibu Yooseph",
+            "Granger Sutton",
+            "Frank Oliver Glöckner",
+            "Jack A. Gilbert",
+            "William Nelson",
+            "Steven Hallam",
+            "Sean P. Jungbluth",
+            "Thijs J. G. Ettema",
+            "Scott Tighe",
+            "Konstantinos T. Konstantinidis",
+            "Wen‐Tso Liu",
+            "Brett J. Baker",
+            "Thomas Rattei",
+            "Jonathan A. Eisen",
+            "Brian P. Hedlund",
+            "Katherine D. McMahon",
+            "Noah Fierer",
+            "Rob Knight",
+            "ROBERT FINN",
+            "Guy Cochrane",
+            "Ilene Karsch‐Mizrachi",
+            "Gene W Tyson",
+            "Christian Rinke",
+            "Alla Lapidus",
+            "Folker Meyer",
+            "Pelin Yilmaz",
+            "Donovan H. Parks",
+            "A. Murat Eren",
+            "Lynn M. Schriml",
+            "Jillian F. Banfield",
+            "Philip Hugenholtz",
+            "Tanja Woyke"
+        ],
+        "type": "erratum",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/nbt0218-196a.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00253-015-6993-3",
+        "title": "Effects of hydraulic retention time on aerobic granulation and granule growth kinetics at steady state with a fast start-up strategy",
+        "journal": "Applied Microbiology and Biotechnology",
+        "year": 2015,
+        "citations": 59,
+        "authors": "Yongqiang Liu, Xing Zhang, Rui Zhang et al.",
+        "authors_list": [
+            "Yongqiang Liu",
+            "Xing Zhang",
+            "Rui Zhang",
+            "Wen‐Tso Liu",
+            "Joo‐Hwa Tay"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.est.9b06603",
+        "title": "360-Degree Distribution of Biofilm Quantity and Community in an Operational Unchlorinated Drinking Water Distribution Pipe",
+        "journal": "Environmental Science & Technology",
+        "year": 2020,
+        "citations": 58,
+        "authors": "Gang Liu, Ya Zhang, Xinlei Liu et al.",
+        "authors_list": [
+            "Gang Liu",
+            "Ya Zhang",
+            "Xinlei Liu",
+            "Frederik Hammes",
+            "Wen‐Tso Liu",
+            "Gertjan Medema",
+            "Peter Wessels",
+            "Walter van der Meer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.acs.org/doi/pdf/10.1021/acs.est.9b06603"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.02568-07",
+        "title": "Relative Abundance of<i>Bacteroides</i>spp. in Stools and Wastewaters as Determined by Hierarchical Oligonucleotide Primer Extension",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 2008,
+        "citations": 58,
+        "authors": "Pei‐Ying Hong, Jer‐Horng Wu, Wen‐Tso Liu",
+        "authors_list": [
+            "Pei‐Ying Hong",
+            "Jer‐Horng Wu",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s40168-019-0760-0",
+        "title": "Quantifying the contribution of microbial immigration in engineered water systems",
+        "journal": "Microbiome",
+        "year": 2019,
+        "citations": 58,
+        "authors": "Ran Mei, Wen‐Tso Liu",
+        "authors_list": [
+            "Ran Mei",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-019-0760-0"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.celrep.2022.110984",
+        "title": "Thousands of small, novel genes predicted in global phage genomes",
+        "journal": "Cell Reports",
+        "year": 2022,
+        "citations": 56,
+        "authors": "Brayon J. Fremin, Ami S. Bhatt, Nikos C. Kyrpides et al.",
+        "authors_list": [
+            "Brayon J. Fremin",
+            "Ami S. Bhatt",
+            "Nikos C. Kyrpides",
+            "Aditi Sengupta",
+            "Alexander Sczyrba",
+            "Aline Maria da Silva",
+            "Alison Buchan",
+            "Amélie C. M. Gaudin",
+            "Andreas Brune",
+            "Ann M. Hirsch",
+            "Anthony P. Neumann",
+            "Ashley Shade",
+            "Axel Visel",
+            "Barbara J. Campbell",
+            "Brett J. Baker",
+            "Brian P. Hedlund",
+            "Byron C. Crump",
+            "Cameron R. Currie",
+            "Charlene N. Kelly",
+            "Chris Craft",
+            "Christina Hazard",
+            "Christopher Francis",
+            "Christopher W. Schadt",
+            "Colin Averill",
+            "Courtney Mobilian",
+            "D. H. Buckley",
+            "Dana E. Hunt",
+            "Daniel R. Noguera",
+            "David A. C. Beck",
+            "David L. Valentine",
+            "David A. Walsh",
+            "D. Y. Sumner",
+            "Despoina S. Lymperopoulou",
+            "Devaki Bhaya",
+            "Donald A. Bryant",
+            "Elise S. Morrison",
+            "Eoin Brodie",
+            "Erica B. Young",
+            "Erik A. Lilleskov",
+            "Eva Högfors‐Rönnholm",
+            "Feng Chen",
+            "Frank J. Stewart",
+            "Graeme W. Nicol",
+            "Hanno Teeling",
+            "Harry R. Beller",
+            "Hebe M. Dionisi",
+            "Hui-Ling Liao",
+            "J. Michael Beman",
+            "James Stegen",
+            "James M. Tiedje",
+            "Janet Jansson",
+            "Jean S. VanderGheynst",
+            "Jeanette M. Norton",
+            "Jeff Dangl",
+            "Jeffrey L. Blanchard",
+            "Jennifer L. Bowen",
+            "Jennifer L. Macalady",
+            "Jennifer Pett‐Ridge",
+            "Jeremy N. Rich",
+            "Jérôme P. Payet",
+            "John M. Gladden",
+            "Jonathan D. Raff",
+            "Jonathan L. Klassen",
+            "Jonathan Tarn",
+            "Josh D. Neufeld",
+            "Kelly Gravuer",
+            "Kirsten Hofmockel",
+            "Ko‐Hsuan Chen",
+            "Konstantinos T. Konstantinidis",
+            "Kristen M. DeAngelis",
+            "Laila P. Partida‐Martínez",
+            "Laura Meredith",
+            "Ludmila Chistoserdova",
+            "Mary Ann Moran",
+            "Matthew Scarborough",
+            "Matthew Schrenk",
+            "Matthew B. Sullivan",
+            "Maude M. David",
+            "Michelle O’Malley",
+            "Mónica Medina",
+            "Mussie Y. Habteselassie",
+            "Nicholas Ward",
+            "Nicole Pietrasiak",
+            "Olivia U. Mason",
+            "Patrick O. Sorensen",
+            "Paulina Estrada‐de los Santos",
+            "Petr Baldrián",
+            "R. Michael L. McKay",
+            "Rachel L. Simister",
+            "Ramūnas Stepanauskas",
+            "Rebecca B. Neumann",
+            "Rex R. Malmstrom",
+            "Ricardo Cavicchioli",
+            "Robert M. Kelly",
+            "Roland Hatzenpichler",
+            "Roman Stocker",
+            "Rose Ann Cattolico",
+            "Ryan Ziels",
+            "Rytas Vilgalys",
+            "Sara E. Blumer‐Schuette"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S2211124722007707/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41522-018-0058-1",
+        "title": "Effect of divalent ions and a polyphosphate on composition, structure, and stiffness of simulated drinking water biofilms",
+        "journal": "npj Biofilms and Microbiomes",
+        "year": 2018,
+        "citations": 56,
+        "authors": "Yun Shen, Pin Chieh Huang, Conghui Huang et al.",
+        "authors_list": [
+            "Yun Shen",
+            "Pin Chieh Huang",
+            "Conghui Huang",
+            "Peng Sun",
+            "Guillermo L. Monroy",
+            "Wenjing Wu",
+            "Jie Lin",
+            "Rosa M. Espinosa‐Marzal",
+            "Stephen A. Boppart",
+            "Wen‐Tso Liu",
+            "Thanh H. Nguyen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41522-018-0058-1.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.est.6b04754",
+        "title": "Effect of Disinfectant Exposure on <i>Legionella pneumophila</i> Associated with Simulated Drinking Water Biofilms: Release, Inactivation, and Infectivity",
+        "journal": "Environmental Science & Technology",
+        "year": 2017,
+        "citations": 56,
+        "authors": "Yun Shen, Conghui Huang, Jie Lin et al.",
+        "authors_list": [
+            "Yun Shen",
+            "Conghui Huang",
+            "Jie Lin",
+            "Wenjing Wu",
+            "Nicholas J. Ashbolt",
+            "Wen‐Tso Liu",
+            "Thanh H. Nguyen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2166/wst.1995.0066",
+        "title": "Modelling glycogen storage and denitrification capability of microorganisms in enhanced biological phosphate removal processes",
+        "journal": "Water Science & Technology",
+        "year": 1995,
+        "citations": 55,
+        "authors": "Takashi Mino, Wen‐Tso Liu, Futoshi Kurisu et al.",
+        "authors_list": [
+            "Takashi Mino",
+            "Wen‐Tso Liu",
+            "Futoshi Kurisu",
+            "Tomonori Matsuo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10643389.2019.1571351",
+        "title": "The application of molecular tools to study the drinking water microbiome – Current understanding and future needs",
+        "journal": "Critical Reviews in Environmental Science and Technology",
+        "year": 2019,
+        "citations": 54,
+        "authors": "Ya Zhang, Wen‐Tso Liu",
+        "authors_list": [
+            "Ya Zhang",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1080/10643389.2019.1571351"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jes.2016.05.042",
+        "title": "Characterization of bacterial community dynamics in a full-scale drinking water treatment plant",
+        "journal": "Journal of Environmental Sciences",
+        "year": 2016,
+        "citations": 53,
+        "authors": "Li Cuiping, Fangqiong Ling, Minglu Zhang et al.",
+        "authors_list": [
+            "Li Cuiping",
+            "Fangqiong Ling",
+            "Minglu Zhang",
+            "Wen‐Tso Liu",
+            "Wen-Tso Liu",
+            "Yuxian Li",
+            "Wenjun Liu",
+            "Wenjun Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2166/wst.2004.0483",
+        "title": "In-situ characterization of microbial community in an A/O submerged membrane bioreactor with nitrogen removal",
+        "journal": "Water Science & Technology",
+        "year": 2004,
+        "citations": 52,
+        "authors": "A. Sofia, Wen‐Tso Liu, Say Leong Ong et al.",
+        "authors_list": [
+            "A. Sofia",
+            "Wen‐Tso Liu",
+            "Say Leong Ong",
+            "Wun Jern Ng"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.bios.2008.06.044",
+        "title": "Silicon nanopillar substrates for enhancing signal intensity in DNA microarrays",
+        "journal": "Biosensors and Bioelectronics",
+        "year": 2008,
+        "citations": 52,
+        "authors": "B. Ramana Murthy, Johnson Kian Kok Ng, E.S. Selamat et al.",
+        "authors_list": [
+            "B. Ramana Murthy",
+            "Johnson Kian Kok Ng",
+            "E.S. Selamat",
+            "N. Balasubramanian",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1128/aem.71.10.6453-6457.2005",
+        "title": "Emission Characteristics of Fluorescent Labels with Respect to Temperature Changes and Subsequent Effects on DNA Microchip Studies",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 2005,
+        "citations": 52,
+        "authors": "Wen‐Tso Liu, Jer‐Horng Wu, Emily Sze-Ying Li et al.",
+        "authors_list": [
+            "Wen‐Tso Liu",
+            "Jer‐Horng Wu",
+            "Emily Sze-Ying Li",
+            "E.S. Selamat"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/1265978"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.watres.2013.03.009",
+        "title": "A new biological phosphorus removal process in association with sulfur cycle",
+        "journal": "Water Research",
+        "year": 2013,
+        "citations": 51,
+        "authors": "Di Wu, George A. Ekama, Hui Lü et al.",
+        "authors_list": [
+            "Di Wu",
+            "George A. Ekama",
+            "Hui Lü",
+            "Ho-Kwong Chui",
+            "Wen‐Tso Liu",
+            "Damir Brdjanović",
+            "Mark C.M. van Loosdrecht",
+            "Guanghao Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0167788",
+        "title": "A Single-Granule-Level Approach Reveals Ecological Heterogeneity in an Upflow Anaerobic Sludge Blanket Reactor",
+        "journal": "PLoS ONE",
+        "year": 2016,
+        "citations": 51,
+        "authors": "Kyohei Kuroda, Masaru K. Nobu, Ran Mei et al.",
+        "authors_list": [
+            "Kyohei Kuroda",
+            "Masaru K. Nobu",
+            "Ran Mei",
+            "Takashi Narihiro",
+            "Benjamin Bocher",
+            "Takashi Yamaguchi",
+            "Wen‐Tso Liu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0167788&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/nbt.3893",
+        "title": "Minimum information about a single amplified genome (MISAG) and a metagenome-assembled genome (MIMAG) of bacteria and archaea",
+        "journal": "Nature Biotechnology",
+        "year": 2017,
+        "citations": 2451,
+        "authors": "Robert M Bowers, Nikos C Kyrpides, Ramunas Stepanauskas et al.",
+        "authors_list": [
+            "Robert M Bowers",
+            "Nikos C Kyrpides",
+            "Ramunas Stepanauskas",
+            "Miranda Harmon-Smith",
+            "Devin Doud",
+            "T B K Reddy",
+            "Frederik Schulz",
+            "Jessica Jarett",
+            "Adam R Rivers",
+            "Emiley A Eloe-Fadrosh",
+            "Susannah G Tringe",
+            "Natalia N Ivanova",
+            "Alex Copeland",
+            "Alicia Clum",
+            "Eric D Becraft",
+            "Rex R Malmstrom",
+            "Bruce Birren",
+            "Mircea Podar",
+            "Peer Bork",
+            "George M Weinstock",
+            "George M Garrity",
+            "Jeremy A Dodsworth",
+            "Shibu Yooseph",
+            "Granger Sutton",
+            "Frank O Glöckner",
+            "Jack A Gilbert",
+            "William C Nelson",
+            "Steven J Hallam",
+            "Sean P Jungbluth",
+            "Thijs J G Ettema",
+            "Scott Tighe",
+            "Konstantinos T Konstantinidis",
+            "Wen-Tso Liu",
+            "Brett J Baker",
+            "Thomas Rattei",
+            "Jonathan A Eisen",
+            "Brian Hedlund",
+            "Katherine D McMahon",
+            "Noah Fierer",
+            "Rob Knight",
+            "Rob Finn",
+            "Guy Cochrane",
+            "Ilene Karsch-Mizrachi",
+            "Gene W Tyson",
+            "Christian Rinke",
+            "Alla Lapidus",
+            "Folker Meyer",
+            "Pelin Yilmaz",
+            "Donovan H Parks",
+            "A Murat Eren",
+            "Lynn Schriml",
+            "Jillian F Banfield",
+            "Philip Hugenholtz",
+            "Tanja Woyke"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 2451
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/nbt.3893.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1263/jbb.102.1",
+        "title": "Nanoparticles and their biological and environmental applications",
+        "journal": "Journal of Bioscience and Bioengineering",
+        "year": 2006,
+        "citations": 349,
+        "authors": "Wen-Tso Liu",
+        "authors_list": [
+            "Wen-Tso Liu"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 349
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/ismej.2014.256",
+        "title": "Microbial dark matter ecogenomics reveals complex synergistic networks in a methanogenic bioreactor",
+        "journal": "The ISME Journal",
+        "year": 2015,
+        "citations": 379,
+        "authors": "Masaru K Nobu, Takashi Narihiro, Christian Rinke et al.",
+        "authors_list": [
+            "Masaru K Nobu",
+            "Takashi Narihiro",
+            "Christian Rinke",
+            "Yoichi Kamagata",
+            "Susannah G Tringe",
+            "Tanja Woyke",
+            "Wen-Tso Liu"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 379
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ismej2014256.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1128/aem.64.4.1220-1225.1998",
+        "title": "Analysis of BIOLOG GN Substrate Utilization Patterns by Microbial Communities",
+        "journal": "Applied and Environmental Microbiology",
+        "year": 1998,
+        "citations": 298,
+        "authors": "Kornelia Smalla, Ute Wachtendorf, Holger Heuer et al.",
+        "authors_list": [
+            "Kornelia Smalla",
+            "Ute Wachtendorf",
+            "Holger Heuer",
+            "Wen-tso Liu",
+            "Larry Forney"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 298
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aem.asm.org/content/aem/64/4/1220.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1021/es5009467",
+        "title": "Pyrosequencing Reveals Bacterial Communities in Unchlorinated Drinking Water Distribution System: An Integral Study of Bulk Water, Suspended Solids, Loose Deposits, and Pipe Wall Biofilm",
+        "journal": "Environmental Science &amp; Technology",
+        "year": 2014,
+        "citations": 243,
+        "authors": "G. Liu, G. L. Bakker, S. Li et al.",
+        "authors_list": [
+            "G. Liu",
+            "G. L. Bakker",
+            "S. Li",
+            "J. H. G. Vreeburg",
+            "J. Q. J. C. Verberk",
+            "G. J. Medema",
+            "W. T. Liu",
+            "J. C. Van Dijk"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 243
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1371/journal.pone.0025263",
+        "title": "Analysis of 16S rRNA Amplicon Sequencing Options on the Roche/454 Next-Generation Titanium Sequencing Platform",
+        "journal": "PLoS ONE",
+        "year": null,
+        "citations": 227,
+        "authors": "Hideyuki Tamaki, Chris L. Wright, Xiangzhen Li et al.",
+        "authors_list": [
+            "Hideyuki Tamaki",
+            "Chris L. Wright",
+            "Xiangzhen Li",
+            "Qiaoyan Lin",
+            "Chiachi Hwang",
+            "Shiping Wang",
+            "Jyothi Thimmapuram",
+            "Yoichi Kamagata",
+            "Wen-Tso Liu"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 227
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0025263&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/s41396-018-0101-5",
+        "title": "Drinking water microbiome assembly induced by water stagnation",
+        "journal": "The ISME Journal",
+        "year": 2018,
+        "citations": 220,
+        "authors": "Fangqiong Ling, Rachel Whitaker, Mark W LeChevallier et al.",
+        "authors_list": [
+            "Fangqiong Ling",
+            "Rachel Whitaker",
+            "Mark W LeChevallier",
+            "Wen-Tso Liu"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 220
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41396-018-0101-5.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/ismej.2015.97",
+        "title": "Phylogeny and physiology of candidate phylum ‘Atribacteria’ (OP9/JS1) inferred from cultivation-independent genomics",
+        "journal": "The ISME Journal",
+        "year": 2016,
+        "citations": 169,
+        "authors": "Masaru K Nobu, Jeremy A Dodsworth, Senthil K Murugapiran et al.",
+        "authors_list": [
+            "Masaru K Nobu",
+            "Jeremy A Dodsworth",
+            "Senthil K Murugapiran",
+            "Christian Rinke",
+            "Esther A Gies",
+            "Gordon Webster",
+            "Patrick Schwientek",
+            "Peter Kille",
+            "R John Parkes",
+            "Henrik Sass",
+            "Bo B Jørgensen",
+            "Andrew J Weightman",
+            "Wen-Tso Liu",
+            "Steven J Hallam",
+            "George Tsiamis",
+            "Tanja Woyke",
+            "Brian P Hedlund"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 169
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ismej201597.pdf"
+        }
+    }
+]

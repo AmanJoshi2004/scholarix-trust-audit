@@ -1,0 +1,37 @@
+[
+    {
+        "url": "https://cropsciences.illinois.edu/directory/sjclough",
+        "snippet": "Steven J Clough. USDA-ARS. 238 National ... Resistance of soybean genotypes to Sclerotinia sclerotiorum isolates in different incubation environments.",
+        "category": "Publication",
+        "relevance_score": 98,
+        "reasoning": "The snippet includes a title of a research study and mentions the author's affiliation with USDA-ARS, indicating it is a publication."
+    },
+    {
+        "url": "https://www.researchgate.net/profile/Steven-Clough",
+        "snippet": "Transcript profiling during susceptible (S) and hypersensitive response-associated resistance (R) interactions was determined in soybean (Glycine max).",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet appears to be a summary of research findings, likely from an academic publication or profile on ResearchGate."
+    },
+    {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16353551/",
+        "snippet": "Expression profiling soybean response to Pseudomonas syringae reveals new ... Evan DeLucia, Steven J Clough. Affiliation. 1 Department of Crop Sciences ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "It is a PubMed link indicating a scientific study or article."
+    },
+    {
+        "url": "https://sciprofiles.com/profile/3661711",
+        "snippet": "Hartman; Steven J. Clough. 2026. \"TableTableEvaluation of foliar diseases for soybean genotypes in the Pan African Soybean Variety Trials.\" Crop Protection ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet contains a research paper title, authors, and year of publication."
+    },
+    {
+        "url": "https://lemann.illinois.edu/directory/profile/sjclough",
+        "snippet": "Steven J Clough. Steven J Clough. sjclough@illinois.edu ... Evaluation of foliar diseases for soybean genotypes in the Pan African Soybean Variety Trials.",
+        "category": "Publication",
+        "relevance_score": 92,
+        "reasoning": "The snippet appears to be a directory listing for an academic researcher, but the presence of 'Evaluation of foliar diseases' suggests it is related to a publication or research output."
+    }
+]

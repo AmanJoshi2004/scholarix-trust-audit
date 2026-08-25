@@ -1,0 +1,3053 @@
+[
+    {
+        "doi": "https://doi.org/10.1109/sp.1982.10014",
+        "title": "Security Policies and Security Models",
+        "journal": "",
+        "year": 1982,
+        "citations": 2107,
+        "authors": "Joseph A. Goguen, José Meseguer",
+        "authors_list": [
+            "Joseph A. Goguen",
+            "José Meseguer"
+        ],
+        "type": "conference-abstract",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2107,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0304-3975(92)90182-f",
+        "title": "Conditional rewriting logic as a unified model of concurrency",
+        "journal": "Theoretical Computer Science",
+        "year": 1992,
+        "citations": 1325,
+        "authors": "José Meseguer",
+        "authors_list": [
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1325,
+            "crossref": 1005
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/030439759290182F/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0304-3975(01)00359-0",
+        "title": "Maude: specification and programming in rewriting logic",
+        "journal": "Theoretical Computer Science",
+        "year": 2002,
+        "citations": 773,
+        "authors": "Manuel Clavel, Francisco Durán, Steven Eker et al.",
+        "authors_list": [
+            "Manuel Clavel",
+            "Francisco Durán",
+            "Steven Eker",
+            "Patrick Lincoln",
+            "Narciso Martı́-Oliet",
+            "José Meseguer",
+            "José F. Quesada"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 773,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0304397501003590/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-540-71999-1",
+        "title": "All About Maude - A High-Performance Logical Framework: How to Specify, Program, and Verify Systems in Rewriting Logic",
+        "journal": "",
+        "year": 2007,
+        "citations": 633,
+        "authors": "Manuel Clavel, Francisco Durán, Steven Eker et al.",
+        "authors_list": [
+            "Manuel Clavel",
+            "Francisco Durán",
+            "Steven Eker",
+            "Patrick Lincoln",
+            "Narciso Martı́-Oliet",
+            "José Meseguer",
+            "Carolyn Talcott"
+        ],
+        "type": "other",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 633,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0304-3975(92)90302-v",
+        "title": "Order-sorted algebra I: equational deduction for multiple inheritance, overloading, exceptions and partial operations",
+        "journal": "Theoretical Computer Science",
+        "year": 1992,
+        "citations": 498,
+        "authors": "Joseph A. Goguen, José Meseguer",
+        "authors_list": [
+            "Joseph A. Goguen",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 498,
+            "crossref": 313
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/318593.318610",
+        "title": "Principles of OBJ2",
+        "journal": "",
+        "year": 1985,
+        "citations": 468,
+        "authors": "Kokichi Futatsugi, Joseph A. Goguen, Jean-Pierre Jouannaud et al.",
+        "authors_list": [
+            "Kokichi Futatsugi",
+            "Joseph A. Goguen",
+            "Jean-Pierre Jouannaud",
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 468,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/sp.1984.10019",
+        "title": "Unwinding and Inference Control",
+        "journal": "",
+        "year": 1984,
+        "citations": 427,
+        "authors": "Joseph A. Goguen, José Meseguer",
+        "authors_list": [
+            "Joseph A. Goguen",
+            "José Meseguer"
+        ],
+        "type": "conference-abstract",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 427,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-64299-4_26",
+        "title": "Membership algebra as a logical framework for equational specification",
+        "journal": "Lecture Notes in Computer Science",
+        "year": 1998,
+        "citations": 419,
+        "authors": "José Meseguer",
+        "authors_list": [
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 419,
+            "crossref": 186
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0890-5401(90)90013-8",
+        "title": "Petri nets are monoids",
+        "journal": "Information and Computation",
+        "year": 1990,
+        "citations": 354,
+        "authors": "José Meseguer, Ugo Montanari",
+        "authors_list": [
+            "José Meseguer",
+            "Ugo Montanari"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 354,
+            "crossref": 235
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-94-017-0464-9_1",
+        "title": "Rewriting Logic as a Logical and Semantic Framework",
+        "journal": "",
+        "year": 2002,
+        "citations": 256,
+        "authors": "Narciso Martı́-Oliet, José Meseguer",
+        "authors_list": [
+            "Narciso Martı́-Oliet",
+            "José Meseguer"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 256,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10990-007-9001-5",
+        "title": "Semantics and pragmatics of Real-Time Maude",
+        "journal": "LISP and Symbolic Computation",
+        "year": 2007,
+        "citations": 250,
+        "authors": "Peter Csaba Ölveczky, José Meseguer",
+        "authors_list": [
+            "Peter Csaba Ölveczky",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 250,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1571-0661(05)82534-4",
+        "title": "The Maude LTL Model Checker",
+        "journal": "Electronic Notes in Theoretical Computer Science",
+        "year": 2004,
+        "citations": 241,
+        "authors": "Steven Eker, José Meseguer, Ambarish Sridharanarayanan",
+        "authors_list": [
+            "Steven Eker",
+            "José Meseguer",
+            "Ambarish Sridharanarayanan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 241,
+            "crossref": 99
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s1571-0661(05)82534-4"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0304-3975(99)00206-6",
+        "title": "Specification and proof in membership equational logic",
+        "journal": "Theoretical Computer Science",
+        "year": 2000,
+        "citations": 232,
+        "authors": "Adel Bouhoula, Jean-Pierre Jouannaud, José Meseguer",
+        "authors_list": [
+            "Adel Bouhoula",
+            "Jean-Pierre Jouannaud",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 232,
+            "crossref": 171
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0304397599002066/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1571-0661(04)00034-9",
+        "title": "Principles of Maude",
+        "journal": "Electronic Notes in Theoretical Computer Science",
+        "year": 1996,
+        "citations": 227,
+        "authors": "Manuel Clavel, Steven Eker, Per Lincoln et al.",
+        "authors_list": [
+            "Manuel Clavel",
+            "Steven Eker",
+            "Per Lincoln",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 227,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s1571-0661(04)00034-9"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-642-03829-7_1",
+        "title": "Maude-NPA: Cryptographic Protocol Analysis Modulo Equational Properties",
+        "journal": "Lecture notes in computer science",
+        "year": 2009,
+        "citations": 226,
+        "authors": "Santiago Escobar, Catherine Meadows, José Meseguer",
+        "authors_list": [
+            "Santiago Escobar",
+            "Catherine Meadows",
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 226,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.7551/mitpress/2087.003.0017",
+        "title": "A Logical Theory of Concurrent Objects and Its Realization in the Maude Language",
+        "journal": "The MIT Press eBooks",
+        "year": 1993,
+        "citations": 220,
+        "authors": "José Meseguer",
+        "authors_list": [
+            "José Meseguer"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 220,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/947864.947865",
+        "title": "Completeness of many-sorted equational logic",
+        "journal": "ACM SIGPLAN Notices",
+        "year": 1981,
+        "citations": 212,
+        "authors": "Joseph A. Goguen, José Meseguer",
+        "authors_list": [
+            "Joseph A. Goguen",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 212,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "EQLOG: Equality, Types, and Generic Modules For Logic Programming.",
+        "journal": "",
+        "year": 1986,
+        "citations": 206,
+        "authors": "Joseph A. Goguen, José Meseguer",
+        "authors_list": [
+            "Joseph A. Goguen",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 206,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jlap.2012.06.003",
+        "title": "Twenty years of rewriting logic",
+        "journal": "The Journal of Logic and Algebraic Programming",
+        "year": 2012,
+        "citations": 201,
+        "authors": "José Meseguer",
+        "authors_list": [
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 201,
+            "crossref": 175
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1567832612000707/pdf"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Initiality, induction, and computability",
+        "journal": "Cambridge University Press eBooks",
+        "year": 1986,
+        "citations": 196,
+        "authors": "José Meseguer, Joseph A. Goguen",
+        "authors_list": [
+            "José Meseguer",
+            "Joseph A. Goguen"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 196,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Unifying functional, object-oriented and relational programming with logical semantics",
+        "journal": "",
+        "year": 1987,
+        "citations": 177,
+        "authors": "Joseph A. Goguen, José Meseguer",
+        "authors_list": [
+            "Joseph A. Goguen",
+            "José Meseguer"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 177,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.tcs.2006.12.018",
+        "title": "The rewriting logic semantics project",
+        "journal": "Theoretical Computer Science",
+        "year": 2006,
+        "citations": 159,
+        "authors": "José Meseguer, Grigore Roşu",
+        "authors_list": [
+            "José Meseguer",
+            "Grigore Roşu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 159,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0304397506009042/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.entcs.2005.10.040",
+        "title": "PMaude: Rewrite-based Specification Language for Probabilistic Object Systems",
+        "journal": "Electronic Notes in Theoretical Computer Science",
+        "year": 2006,
+        "citations": 158,
+        "authors": "Gul Agha, José Meseguer, Koushik Sen",
+        "authors_list": [
+            "Gul Agha",
+            "José Meseguer",
+            "Koushik Sen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 158,
+            "crossref": 97
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1571066106002672/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0743-1066(84)90004-9",
+        "title": "Equality, types, modules, and (why not?) generics for logic programming",
+        "journal": "The Journal of Logic Programming",
+        "year": 1984,
+        "citations": 155,
+        "authors": "Joseph A. Goguen, José Meseguer",
+        "authors_list": [
+            "Joseph A. Goguen",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 155,
+            "crossref": 128
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0304-3975(01)00357-7",
+        "title": "Rewriting logic: roadmap and bibliography",
+        "journal": "Theoretical Computer Science",
+        "year": 2002,
+        "citations": 154,
+        "authors": "Narciso Martı́-Oliet, José Meseguer",
+        "authors_list": [
+            "Narciso Martı́-Oliet",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 154,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0304397501003577/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.tcs.2006.04.012",
+        "title": "Semantic foundations for generalized rewrite theories",
+        "journal": "Theoretical Computer Science",
+        "year": 2006,
+        "citations": 153,
+        "authors": "Roberto Bruni, José Meseguer",
+        "authors_list": [
+            "Roberto Bruni",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 153,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0304397506003379/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1142/9789812799623_0038",
+        "title": "PATHWAY LOGIC: SYMBOLIC ANALYSIS OF BIOLOGICAL SIGNALING",
+        "journal": "",
+        "year": 2001,
+        "citations": 153,
+        "authors": "Steven Eker, Merrill Knapp, Keith R. Laderoute et al.",
+        "authors_list": [
+            "Steven Eker",
+            "Merrill Knapp",
+            "Keith R. Laderoute",
+            "Patrick Lincoln",
+            "José Meseguer",
+            "Kemal Sönmez"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 153,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/b978-0-12-046371-8.50016-x",
+        "title": "Order-Sorted Equational Computation",
+        "journal": "Elsevier eBooks",
+        "year": 1989,
+        "citations": 147,
+        "authors": "Gert Smolka, Werner Nutt, Joseph A. Goguen et al.",
+        "authors_list": [
+            "Gert Smolka",
+            "Werner Nutt",
+            "Joseph A. Goguen",
+            "José Meseguer"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 147,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://dx.doi.org/10.22028/D291-40156"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bfb0012775",
+        "title": "Universal realization, persistent interconnection and implementation of abstract modules",
+        "journal": "Lecture notes in computer science",
+        "year": 1982,
+        "citations": 139,
+        "authors": "Joseph A. Goguen, José Meseguer",
+        "authors_list": [
+            "Joseph A. Goguen",
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 139,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-61604-7_64",
+        "title": "Rewriting logic as a semantic framework for concurrency: a progress report",
+        "journal": "Lecture notes in computer science",
+        "year": 1996,
+        "citations": 134,
+        "authors": "José Meseguer",
+        "authors_list": [
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 134,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0049-237x(08)70132-0",
+        "title": "General Logics",
+        "journal": "Studies in logic and the foundations of mathematics",
+        "year": 1989,
+        "citations": 130,
+        "authors": "José Meseguer",
+        "authors_list": [
+            "José Meseguer"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jlap.2012.01.002",
+        "title": "Folding variant narrowing and optimal variant termination",
+        "journal": "The Journal of Logic and Algebraic Programming",
+        "year": 2012,
+        "citations": 120,
+        "authors": "Santiago Escobar, Ralf Sasse, José Meseguer",
+        "authors_list": [
+            "Santiago Escobar",
+            "Ralf Sasse",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 94
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1567832612000033/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.tcs.2006.08.035",
+        "title": "A rewriting-based inference system for the NRL Protocol Analyzer and its meta-logical properties",
+        "journal": "Theoretical Computer Science",
+        "year": 2006,
+        "citations": 118,
+        "authors": "Santiago Escobar, Catherine Meadows, José Meseguer",
+        "authors_list": [
+            "Santiago Escobar",
+            "Catherine Meadows",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 83
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0304397506005780/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0304-3975(01)00363-2",
+        "title": "Specification of real-time and hybrid systems in rewriting logic",
+        "journal": "Theoretical Computer Science",
+        "year": 2002,
+        "citations": 118,
+        "authors": "Peter Csaba Ölveczky, José Meseguer",
+        "authors_list": [
+            "Peter Csaba Ölveczky",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-642-22944-2_28",
+        "title": "PVeStA: A Parallel Statistical Model Checking and Quantitative Analysis Tool",
+        "journal": "Lecture notes in computer science",
+        "year": 2011,
+        "citations": 114,
+        "authors": "Musab A. Alturki, José Meseguer",
+        "authors_list": [
+            "Musab A. Alturki",
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 114,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-1-4757-6541-0_1",
+        "title": "Introducing OBJ",
+        "journal": "Advances in formal methods",
+        "year": 2000,
+        "citations": 113,
+        "authors": "Joseph A. Goguen, Timothy Winkler, José Meseguer et al.",
+        "authors_list": [
+            "Joseph A. Goguen",
+            "Timothy Winkler",
+            "José Meseguer",
+            "Kokichi Futatsugi",
+            "Jean-Pierre Jouannaud"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 113,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-44881-0_7",
+        "title": "The Maude 2.0 System",
+        "journal": "Lecture notes in computer science",
+        "year": 2003,
+        "citations": 112,
+        "authors": "Manuel Clavel, Francisco Durán, Steven Eker et al.",
+        "authors_list": [
+            "Manuel Clavel",
+            "Francisco Durán",
+            "Steven Eker",
+            "Patrick Lincoln",
+            "Narciso Martı́-Oliet",
+            "José Meseguer",
+            "Carolyn Talcott"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 112,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bfb0039072",
+        "title": "Rewriting as a unified model of concurrency",
+        "journal": "Lecture notes in computer science",
+        "year": 2006,
+        "citations": 111,
+        "authors": "José Meseguer",
+        "authors_list": [
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 111,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bfb0015747",
+        "title": "Operational semantics for order-sorted algebra",
+        "journal": "Lecture notes in computer science",
+        "year": 2005,
+        "citations": 109,
+        "authors": "Joseph A. Goguen, Jean-Pierre Jouannaud, José Meseguer",
+        "authors_list": [
+            "Joseph A. Goguen",
+            "Jean-Pierre Jouannaud",
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bfb0014969",
+        "title": "Models and equality for logical programming",
+        "journal": "Lecture notes in computer science",
+        "year": 2005,
+        "citations": 109,
+        "authors": "Joseph A. Goguen, José Meseguer",
+        "authors_list": [
+            "Joseph A. Goguen",
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2FBFb0014969.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10990-007-9000-6",
+        "title": "Symbolic reachability analysis using narrowing and its application to verification of cryptographic protocols",
+        "journal": "LISP and Symbolic Computation",
+        "year": 2007,
+        "citations": 103,
+        "authors": "José Meseguer, Prasanna Thati",
+        "authors_list": [
+            "José Meseguer",
+            "Prasanna Thati"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-540-27813-9_46",
+        "title": "Formal Analysis of Java Programs in JavaFAN",
+        "journal": "Lecture notes in computer science",
+        "year": 2004,
+        "citations": 102,
+        "authors": "Azadeh Farzan, Feng Chen, José Meseguer et al.",
+        "authors_list": [
+            "Azadeh Farzan",
+            "Feng Chen",
+            "José Meseguer",
+            "Grigore Roşu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/97945.97958",
+        "title": "A logical theory of concurrent objects",
+        "journal": "",
+        "year": 1990,
+        "citations": 101,
+        "authors": "José Meseguer",
+        "authors_list": [
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/97946.97958"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/lics.1989.39172",
+        "title": "Axiomatizing net computations and processes",
+        "journal": "",
+        "year": 2003,
+        "citations": 97,
+        "authors": "Pierpaolo Degano, José Meseguer, Ugo Montanari",
+        "authors_list": [
+            "Pierpaolo Degano",
+            "José Meseguer",
+            "Ugo Montanari"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.tcs.2008.04.040",
+        "title": "Equational abstractions",
+        "journal": "Theoretical Computer Science",
+        "year": 2008,
+        "citations": 97,
+        "authors": "José Meseguer, Miguel Palomino, Narciso Martı́-Oliet",
+        "authors_list": [
+            "José Meseguer",
+            "Miguel Palomino",
+            "Narciso Martı́-Oliet"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0304397508003605/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-48685-2_18",
+        "title": "The Maude System",
+        "journal": "Lecture notes in computer science",
+        "year": 1999,
+        "citations": 97,
+        "authors": "Manuel Clavel, Francisco Durán, Steven Eker et al.",
+        "authors_list": [
+            "Manuel Clavel",
+            "Francisco Durán",
+            "Steven Eker",
+            "Per Lincoln",
+            "Narciso Martı́-Oliet",
+            "José Meseguer",
+            "José F. Quesada"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://hdl.handle.net/11441/87335"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-540-25984-8_1",
+        "title": "Rewriting Logic Semantics: From Language Specifications to Formal Analysis Tools",
+        "journal": "Lecture notes in computer science",
+        "year": 2004,
+        "citations": 92,
+        "authors": "José Meseguer, Grigore Roşu",
+        "authors_list": [
+            "José Meseguer",
+            "Grigore Roşu"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 92,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1006/inco.1993.1016",
+        "title": "Order-Sorted Algebra Solves the Constructor-Selector, Multiple Representation, and Coercion Problems",
+        "journal": "Information and Computation",
+        "year": 1993,
+        "citations": 88,
+        "authors": "José Meseguer, Joseph A. Goguen",
+        "authors_list": [
+            "José Meseguer",
+            "Joseph A. Goguen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bfb0018359",
+        "title": "From petri nets to linear logic",
+        "journal": "Lecture notes in computer science",
+        "year": 2005,
+        "citations": 83,
+        "authors": "Narciso Martı́-Oliet, José Meseguer",
+        "authors_list": [
+            "Narciso Martı́-Oliet",
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 83,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-45541-8_9",
+        "title": "Rewriting Logic as a Unifying Framework for Petri Nets",
+        "journal": "Lecture notes in computer science",
+        "year": 2001,
+        "citations": 83,
+        "authors": "Mark-Oliver Stehr, José Meseguer, Peter Csaba Ölveczky",
+        "authors_list": [
+            "Mark-Oliver Stehr",
+            "José Meseguer",
+            "Peter Csaba Ölveczky"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 83,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ic.2008.03.026",
+        "title": "A rewriting logic approach to operational semantics",
+        "journal": "Information and Computation",
+        "year": 2008,
+        "citations": 80,
+        "authors": "Traian Florin Şerbănuţă, Grigore Roşu, José Meseguer",
+        "authors_list": [
+            "Traian Florin Şerbănuţă",
+            "Grigore Roşu",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-19242-5_22",
+        "title": "An introduction to OBJ 3",
+        "journal": "Lecture notes in computer science",
+        "year": 1988,
+        "citations": 79,
+        "authors": "Joseph A. Goguen, Claude Kirchner, Hélène Kirchner et al.",
+        "authors_list": [
+            "Joseph A. Goguen",
+            "Claude Kirchner",
+            "Hélène Kirchner",
+            "Aristide Mégrelis",
+            "José Meseguer",
+            "Timothy Winkler"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 79,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-47910-4_13",
+        "title": "Solving the Inheritance Anomaly in Concurrent Object-Oriented Programming",
+        "journal": "Lecture notes in computer science",
+        "year": 2007,
+        "citations": 78,
+        "authors": "José Meseguer",
+        "authors_list": [
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/b978-044450556-9/50061-7",
+        "title": "Building Equational Proving Tools by Reflection in Rewriting Logic*",
+        "journal": "Elsevier eBooks",
+        "year": 2000,
+        "citations": 76,
+        "authors": "Manuel Clavel, Francisco Durán, Steven Eker et al.",
+        "authors_list": [
+            "Manuel Clavel",
+            "Francisco Durán",
+            "Steven Eker",
+            "José Meseguer"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/lics.1988.5114",
+        "title": "Petri nets are monoids: a new algebraic foundation for net theory",
+        "journal": "",
+        "year": 2003,
+        "citations": 76,
+        "authors": "José Meseguer, Ugo Montanari",
+        "authors_list": [
+            "José Meseguer",
+            "Ugo Montanari"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-44829-2_16",
+        "title": "The Maude LTL Model Checker and Its Implementation",
+        "journal": "Lecture notes in computer science",
+        "year": 2003,
+        "citations": 76,
+        "authors": "Steven Eker, José Meseguer, Ambarish Sridharanarayanan",
+        "authors_list": [
+            "Steven Eker",
+            "José Meseguer",
+            "Ambarish Sridharanarayanan"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-45061-0_22",
+        "title": "Generalized Rewrite Theories",
+        "journal": "Lecture notes in computer science",
+        "year": 2003,
+        "citations": 75,
+        "authors": "Roberto Bruni, José Meseguer",
+        "authors_list": [
+            "Roberto Bruni",
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.entcs.2004.06.020",
+        "title": "Towards a Strategy Language for Maude",
+        "journal": "Electronic Notes in Theoretical Computer Science",
+        "year": 2005,
+        "citations": 75,
+        "authors": "Narciso Martı́-Oliet, José Meseguer, Alberto Verdejo",
+        "authors_list": [
+            "Narciso Martı́-Oliet",
+            "José Meseguer",
+            "Alberto Verdejo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.entcs.2004.06.020"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ipl.2005.05.002",
+        "title": "Operational termination of conditional term rewriting systems",
+        "journal": "Information Processing Letters",
+        "year": 2005,
+        "citations": 75,
+        "authors": "Salvador Lucas, Claude Marché, José Meseguer",
+        "authors_list": [
+            "Salvador Lucas",
+            "Claude Marché",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bf03036469",
+        "title": "Axiomatizing the algebra of net computations and processes",
+        "journal": "Acta Informatica",
+        "year": 1996,
+        "citations": 71,
+        "authors": "Pierpaolo Degano, José Meseguer, Ugo Montanari",
+        "authors_list": [
+            "Pierpaolo Degano",
+            "José Meseguer",
+            "Ugo Montanari"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0304-3975(96)00160-0",
+        "title": "May I borrow your logic? (Transporting logical structures along maps)",
+        "journal": "Theoretical Computer Science",
+        "year": 1997,
+        "citations": 71,
+        "authors": "Maura Cerioli, José Meseguer",
+        "authors_list": [
+            "Maura Cerioli",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0304397596001600/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jlamp.2016.10.001",
+        "title": "Rewriting modulo SMT and open system analysis",
+        "journal": "Journal of Logical and Algebraic Methods in Programming",
+        "year": 2016,
+        "citations": 70,
+        "authors": "Camilo Rocha, José Meseguer, César Muñoz",
+        "authors_list": [
+            "Camilo Rocha",
+            "José Meseguer",
+            "César Muñoz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10990-008-9028-2",
+        "title": "Proving operational termination of membership equational programs",
+        "journal": "LISP and Symbolic Computation",
+        "year": 2008,
+        "citations": 69,
+        "authors": "Francisco Durán, Salvador Lucas, Claude Marché et al.",
+        "authors_list": [
+            "Francisco Durán",
+            "Salvador Lucas",
+            "Claude Marché",
+            "José Meseguer",
+            "Xavier Urbain"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1007/s10990-008-9028-2"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0747-7171(89)80036-7",
+        "title": "Order-sorted unification",
+        "journal": "Journal of Symbolic Computation",
+        "year": 1989,
+        "citations": 68,
+        "authors": "José Meseguer, Joseph A. Goguen, Gert Smolka",
+        "authors_list": [
+            "José Meseguer",
+            "Joseph A. Goguen",
+            "Gert Smolka"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-540-73449-9_13",
+        "title": "Symbolic Model Checking of Infinite-State Systems Using Narrowing",
+        "journal": "Lecture notes in computer science",
+        "year": 2007,
+        "citations": 67,
+        "authors": "Santiago Escobar, José Meseguer",
+        "authors_list": [
+            "Santiago Escobar",
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.entcs.2007.06.005",
+        "title": "Abstraction and Completeness for Real-Time Maude",
+        "journal": "Electronic Notes in Theoretical Computer Science",
+        "year": 2007,
+        "citations": 65,
+        "authors": "Peter Csaba Ölveczky, José Meseguer",
+        "authors_list": [
+            "Peter Csaba Ölveczky",
+            "José Meseguer"
+        ],
+        "type": "conference-abstract",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.entcs.2007.06.005"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10703-006-0015-0",
+        "title": "Specification and analysis of the AER/NCA active network protocol suite in Real-Time Maude",
+        "journal": "Formal Methods in System Design",
+        "year": 2006,
+        "citations": 64,
+        "authors": "Peter Csaba Ölveczky, José Meseguer, Carolyn Talcott",
+        "authors_list": [
+            "Peter Csaba Ölveczky",
+            "José Meseguer",
+            "Carolyn Talcott"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ideals.illinois.edu/items/10911/bitstreams/40354/data.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-47993-7_1",
+        "title": "Semantic Models for Distributed Object Reflection",
+        "journal": "Lecture notes in computer science",
+        "year": 2002,
+        "citations": 62,
+        "authors": "José Meseguer, Carolyn Talcott",
+        "authors_list": [
+            "José Meseguer",
+            "Carolyn Talcott"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-19488-6_123",
+        "title": "Operational semantics of OBJ-3",
+        "journal": "Lecture notes in computer science",
+        "year": 1988,
+        "citations": 62,
+        "authors": "Claude Kirchner, Claude Kirchner, José Meseguer",
+        "authors_list": [
+            "Claude Kirchner",
+            "Claude Kirchner",
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jlap.2011.12.004",
+        "title": "On the Church-Rosser and coherence properties of conditional order-sorted rewrite theories",
+        "journal": "The Journal of Logic and Algebraic Programming",
+        "year": 2012,
+        "citations": 62,
+        "authors": "Francisco Durán, José Meseguer",
+        "authors_list": [
+            "Francisco Durán",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1567832611001147/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-642-58622-4_10",
+        "title": "Research Directions in Rewriting Logic",
+        "journal": "",
+        "year": 1999,
+        "citations": 62,
+        "authors": "José Meseguer",
+        "authors_list": [
+            "José Meseguer"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1017/s0960129500000062",
+        "title": "From Petri nets to linear logic",
+        "journal": "Mathematical Structures in Computer Science",
+        "year": 1991,
+        "citations": 60,
+        "authors": "Narciso Martı́-Oliet, José Meseguer",
+        "authors_list": [
+            "Narciso Martı́-Oliet",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/947886.947887",
+        "title": "Completeness of many-sorted equational logic",
+        "journal": "ACM SIGPLAN Notices",
+        "year": 1982,
+        "citations": 60,
+        "authors": "Joseph A. Goguen, José Meseguer",
+        "authors_list": [
+            "Joseph A. Goguen",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bfb0084798",
+        "title": "On the semantics of Petri Nets",
+        "journal": "Lecture notes in computer science",
+        "year": 2006,
+        "citations": 60,
+        "authors": "José Meseguer, Ugo Montanari, Vladimiro Sassone",
+        "authors_list": [
+            "José Meseguer",
+            "Ugo Montanari",
+            "Vladimiro Sassone"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://eprints.soton.ac.uk/261942/1/petri-conc-fin.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-540-27815-3_29",
+        "title": "Modular Rewriting Semantics of Programming Languages",
+        "journal": "Lecture notes in computer science",
+        "year": 2004,
+        "citations": 58,
+        "authors": "José Meseguer, Christiano Braga",
+        "authors_list": [
+            "José Meseguer",
+            "Christiano Braga"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-48118-4_39",
+        "title": "Maude as a formal meta-tool",
+        "journal": "Lecture notes in computer science",
+        "year": 1999,
+        "citations": 57,
+        "authors": "Manuel Clavel, Francisco Durán, Steven Eker et al.",
+        "authors_list": [
+            "Manuel Clavel",
+            "Francisco Durán",
+            "Steven Eker",
+            "José Meseguer",
+            "Mark-Oliver Stehr"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/1006258.1006273",
+        "title": "Rapid prototyping",
+        "journal": "ACM SIGSOFT Software Engineering Notes",
+        "year": 1982,
+        "citations": 57,
+        "authors": "Joseph A. Goguen, José Meseguer",
+        "authors_list": [
+            "Joseph A. Goguen",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/1006258.1006273"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-55160-3_49",
+        "title": "Parallel programming in maude",
+        "journal": "Lecture notes in computer science",
+        "year": 1992,
+        "citations": 56,
+        "authors": "José Meseguer, Timothy Winkler",
+        "authors_list": [
+            "José Meseguer",
+            "Timothy Winkler"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/dasc.2009.5347579",
+        "title": "Implementing logical synchrony in integrated modular avionics",
+        "journal": "",
+        "year": 2009,
+        "citations": 56,
+        "authors": "Steven P. Miller, Darren Cofer, Lui Sha et al.",
+        "authors_list": [
+            "Steven P. Miller",
+            "Darren Cofer",
+            "Lui Sha",
+            "José Meseguer",
+            "Abdullah Al-Nayeem"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-0-387-35520-7_5",
+        "title": "Rewriting Logic and Maude: A Wide-Spectrum Semantic Framework for Object-Based Distributed Systems",
+        "journal": "IFIP advances in information and communication technology",
+        "year": 2000,
+        "citations": 56,
+        "authors": "José Meseguer",
+        "authors_list": [
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-0-387-35520-7_5.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4230/lipics.rta.2013.81",
+        "title": "Abstract Logical Model Checking of Infinite-State Systems Using Narrowing",
+        "journal": "DROPS (Schloss Dagstuhl – Leibniz Center for Informatics)",
+        "year": 2013,
+        "citations": 56,
+        "authors": "Kyungmin Bae, Santiago Escobar, José Meseguer",
+        "authors_list": [
+            "Kyungmin Bae",
+            "Santiago Escobar",
+            "José Meseguer"
+        ],
+        "type": "conference-abstract",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.entcs.2006.03.017",
+        "title": "Deduction, Strategies, and Rewriting",
+        "journal": "Electronic Notes in Theoretical Computer Science",
+        "year": 2007,
+        "citations": 55,
+        "authors": "Steven Eker, Narciso Martı́-Oliet, José Meseguer et al.",
+        "authors_list": [
+            "Steven Eker",
+            "Narciso Martı́-Oliet",
+            "José Meseguer",
+            "Alberto Verdejo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.entcs.2006.03.017"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1017/s0960129597002314",
+        "title": "On the semantics of place/transition Petri nets",
+        "journal": "Mathematical Structures in Computer Science",
+        "year": 1997,
+        "citations": 55,
+        "authors": "José Meseguer, Ugo Montanari, Vladimiro Sassone",
+        "authors_list": [
+            "José Meseguer",
+            "Ugo Montanari",
+            "Vladimiro Sassone"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-540-78800-3_23",
+        "title": "The Real-Time Maude Tool",
+        "journal": "Lecture notes in computer science",
+        "year": 2008,
+        "citations": 54,
+        "authors": "Peter Csaba Ölveczky, José Meseguer",
+        "authors_list": [
+            "Peter Csaba Ölveczky",
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-64299-4_27",
+        "title": "Mapping tile logic into rewriting logic",
+        "journal": "Lecture notes in computer science",
+        "year": 1998,
+        "citations": 53,
+        "authors": "José Meseguer, Ugo Montanari",
+        "authors_list": [
+            "José Meseguer",
+            "Ugo Montanari"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-540-68863-1_10",
+        "title": "Redesign of the LMST Wireless Sensor Protocol through Formal Modeling and Statistical Model Checking",
+        "journal": "Lecture notes in computer science",
+        "year": 2008,
+        "citations": 52,
+        "authors": "Michael Katelman, José Meseguer, Jennifer C. Hou",
+        "authors_list": [
+            "Michael Katelman",
+            "José Meseguer",
+            "Jennifer C. Hou"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-540-68863-1_10.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1571-0661(05)80134-3",
+        "title": "Real-Time Maude: A Tool for Simulating and Analyzing Real-Time and Hybrid Systems",
+        "journal": "Electronic Notes in Theoretical Computer Science",
+        "year": 2000,
+        "citations": 52,
+        "authors": "Peter Csaba Ölveczky, José Meseguer",
+        "authors_list": [
+            "Peter Csaba Ölveczky",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1571066105801343/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0304-3975(95)00121-2",
+        "title": "Process versus unfolding semantics for Place/Transition Petri nets",
+        "journal": "Theoretical Computer Science",
+        "year": 1996,
+        "citations": 51,
+        "authors": "José Meseguer, Ugo Montanari, Vladimiro Sassone",
+        "authors_list": [
+            "José Meseguer",
+            "Ugo Montanari",
+            "Vladimiro Sassone"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/0304397595001212/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/discex.2000.825030",
+        "title": "Formal specification and analysis of active networks and communication protocols: the Maude experience",
+        "journal": "",
+        "year": 2002,
+        "citations": 50,
+        "authors": "Grit Denker, José Meseguer, Carolyn Talcott",
+        "authors_list": [
+            "Grit Denker",
+            "José Meseguer",
+            "Carolyn Talcott"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-642-04222-5_15",
+        "title": "Termination Modulo Combinations of Equational Theories",
+        "journal": "Lecture notes in computer science",
+        "year": 2009,
+        "citations": 50,
+        "authors": "Francisco Durán, Salvador Lucas, José Meseguer",
+        "authors_list": [
+            "Francisco Durán",
+            "Salvador Lucas",
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/sp.2007.6",
+        "title": "A Systematic Approach to Uncover Security Flaws in GUI Logic",
+        "journal": "",
+        "year": 2007,
+        "citations": 50,
+        "authors": "Shuo Chen, José Meseguer, Ralf Sasse et al.",
+        "authors_list": [
+            "Shuo Chen",
+            "José Meseguer",
+            "Ralf Sasse",
+            "Helen J. Wang",
+            "Yi‐Min Wang"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0304-3975(01)00360-7",
+        "title": "Reflection in conditional rewriting logic",
+        "journal": "Theoretical Computer Science",
+        "year": 2002,
+        "citations": 48,
+        "authors": "Manuel Clavel, José Meseguer",
+        "authors_list": [
+            "Manuel Clavel",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0304397501003607/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-540-68679-8_22",
+        "title": "The Temporal Logic of Rewriting: A Gentle Introduction",
+        "journal": "Lecture notes in computer science",
+        "year": 2008,
+        "citations": 47,
+        "authors": "José Meseguer",
+        "authors_list": [
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.scico.2017.09.001",
+        "title": "Variant-based satisfiability in initial algebras",
+        "journal": "Science of Computer Programming",
+        "year": 2017,
+        "citations": 47,
+        "authors": "José Meseguer",
+        "authors_list": [
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ic.2014.01.006",
+        "title": "A modular order-sorted equational generalization algorithm",
+        "journal": "Information and Computation",
+        "year": 2014,
+        "citations": 47,
+        "authors": "Marı́a Alpuente, Santiago Escobar, Javier Espert et al.",
+        "authors_list": [
+            "Marı́a Alpuente",
+            "Santiago Escobar",
+            "Javier Espert",
+            "José Meseguer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0890540114000078/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-540-71070-7_27",
+        "title": "MTT: The Maude Termination Tool (System Description)",
+        "journal": "Lecture notes in computer science",
+        "year": 2008,
+        "citations": 46,
+        "authors": "Francisco Durán, Salvador Lucas, José Meseguer",
+        "authors_list": [
+            "Francisco Durán",
+            "Salvador Lucas",
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 46,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/scam.2006.16",
+        "title": "Formal Specification and Verification of Java Refactorings",
+        "journal": "",
+        "year": 2006,
+        "citations": 46,
+        "authors": "Alejandra Garrido, José Meseguer",
+        "authors_list": [
+            "Alejandra Garrido",
+            "José Meseguer"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 46,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ideals.illinois.edu/items/11229/bitstreams/41312/data.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.tcs.2006.12.009",
+        "title": "Reflection in membership equational logic, many-sorted equational logic, Horn logic with equality, and rewriting logic",
+        "journal": "Theoretical Computer Science",
+        "year": 2006,
+        "citations": 46,
+        "authors": "Manuel Clavel, José Meseguer, Miguel Palomino",
+        "authors_list": [
+            "Manuel Clavel",
+            "José Meseguer",
+            "Miguel Palomino"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 46,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0304397506008991/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-642-28872-2_6",
+        "title": "Stable Availability under Denial of Service Attacks through Formal Patterns",
+        "journal": "Lecture notes in computer science",
+        "year": 2012,
+        "citations": 45,
+        "authors": "Jonas Eckhardt, Tobias Mühlbauer, Musab A. Alturki et al.",
+        "authors_list": [
+            "Jonas Eckhardt",
+            "Tobias Mühlbauer",
+            "Musab A. Alturki",
+            "José Meseguer",
+            "Martin Wirsing"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ic.2014.07.007",
+        "title": "State space reduction in the Maude-NRL Protocol Analyzer",
+        "journal": "Information and Computation",
+        "year": 2014,
+        "citations": 45,
+        "authors": "Santiago Escobar, Catherine Meadows, José Meseguer et al.",
+        "authors_list": [
+            "Santiago Escobar",
+            "Catherine Meadows",
+            "José Meseguer",
+            "Sonia Santiago"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://hdl.handle.net/10251/49240"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/sp.1982.10014",
+        "title": "Security Policies and Security Models",
+        "journal": "1982 IEEE Symposium on Security and Privacy",
+        "year": 1982,
+        "citations": 1244,
+        "authors": "J. A. Goguen, J. Meseguer",
+        "authors_list": [
+            "J. A. Goguen",
+            "J. Meseguer"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1244
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s0304-3975(01)00359-0",
+        "title": "Maude: specification and programming in rewriting logic",
+        "journal": "Theoretical Computer Science",
+        "year": 2002,
+        "citations": 380,
+        "authors": "M. Clavel, F. Durán, S. Eker et al.",
+        "authors_list": [
+            "M. Clavel",
+            "F. Durán",
+            "S. Eker",
+            "P. Lincoln",
+            "N. Martı́-Oliet",
+            "J. Meseguer",
+            "J.F. Quesada"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 380
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0304397501003590/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1145/318593.318610",
+        "title": "Principles of OBJ2",
+        "journal": "Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages  - POPL '85",
+        "year": 1985,
+        "citations": 265,
+        "authors": "Kokichi Futatsugi, Joseph A. Goguen, Jean-Pierre Jouannaud et al.",
+        "authors_list": [
+            "Kokichi Futatsugi",
+            "Joseph A. Goguen",
+            "Jean-Pierre Jouannaud",
+            "José Meseguer"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 265
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/sp.1984.10019",
+        "title": "Unwinding and Inference Control",
+        "journal": "1984 IEEE Symposium on Security and Privacy",
+        "year": 1984,
+        "citations": 258,
+        "authors": "Joseph A. Goguen, Jose Meseguer",
+        "authors_list": [
+            "Joseph A. Goguen",
+            "Jose Meseguer"
+        ],
+        "type": "proceedings-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 258
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s1571-0661(04)00034-9",
+        "title": "Principles of Maude",
+        "journal": "Electronic Notes in Theoretical Computer Science",
+        "year": 1996,
+        "citations": 103,
+        "authors": "M. Clavel, S. Eker, P. Lincoln et al.",
+        "authors_list": [
+            "M. Clavel",
+            "S. Eker",
+            "P. Lincoln",
+            "J. Meseguer"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 103
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s1571-0661(04)00034-9"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.tcs.2006.12.018",
+        "title": "The rewriting logic semantics project",
+        "journal": "Theoretical Computer Science",
+        "year": 2007,
+        "citations": 97,
+        "authors": "José Meseguer, Grigore Roşu",
+        "authors_list": [
+            "José Meseguer",
+            "Grigore Roşu"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 97
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0304397506009042/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/b978-0-12-046371-8.50016-x",
+        "title": "Order-Sorted Equational Computation",
+        "journal": "Rewriting Techniques",
+        "year": 1989,
+        "citations": 45,
+        "authors": "GERT SMOLKA, WERNER NUTT, JOSEPH A. GOGUEN et al.",
+        "authors_list": [
+            "GERT SMOLKA",
+            "WERNER NUTT",
+            "JOSEPH A. GOGUEN",
+            "JOSÉ MESEGUER"
+        ],
+        "type": "book-chapter",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 45
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://dx.doi.org/10.22028/D291-40156"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s0049-237x(08)70132-0",
+        "title": "General Logics",
+        "journal": "Studies in Logic and the Foundations of Mathematics",
+        "year": 1989,
+        "citations": 130,
+        "authors": "",
+        "authors_list": [],
+        "type": "book-chapter",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 130
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

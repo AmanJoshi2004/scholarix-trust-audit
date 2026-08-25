@@ -1,0 +1,51 @@
+[
+    {
+        "url": "https://scholar.google.com/citations?user=SxFFCWsAAAAJ&hl=en",
+        "snippet": "Recognition of RNA N-methyladenosine by IGF2BP proteins enhances mRNA ... RNA–protein interaction mapping via MS2-or Cas13-based APEX targeting. S Han ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet appears to be a citation summary for an academic publication, with author initials and keywords relevant to molecular biology."
+    },
+    {
+        "url": "https://www.researchgate.net/profile/Boxuan-Zhao-2",
+        "snippet": "Publisher Correction: Recognition of RNA N6-methyladenosine by IGF2BP proteins enhances mRNA stability and translation ... RNA–protein interaction mapping via MS2 ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet appears to be a correction notice from a publisher, indicating it's related to a published research paper."
+    },
+    {
+        "url": "https://mcb.illinois.edu/news/2025-11-21/highly-cited-researchers-boxuan-zhao-recognized-global-impact",
+        "snippet": "“I'm honored by this recognition, which really belongs to my ... Targeting Cookies are based on uniquely identifying your browser and ...",
+        "category": "News",
+        "relevance_score": 95,
+        "reasoning": "The URL is a news page on the University of Illinois website, and the snippet includes an honor or recognition mention."
+    },
+    {
+        "url": "https://www.linkedin.com/in/boxuan-zhao-54223036",
+        "snippet": "Coordinated with senior graduate students in projects including constructing protein-based biosensors and developing single-base pair DNA modification ...",
+        "category": "Website",
+        "relevance_score": 92,
+        "reasoning": "The URL appears to be a LinkedIn profile, which is a professional networking website."
+    },
+    {
+        "url": "https://mcb.illinois.edu/directory/profile/zbx",
+        "snippet": "Boxuan Zhao. Boxuan Zhao. Contact Information. Morrill Hall Room 539, 505 S ... RNA-protein interaction mapping via MS2- or Cas13-based APEX targeting.",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL appears to be a researcher's profile on the University of Illinois' departmental website, listing their contact information and research focus, which is likely an online publication or academic bio."
+    },
+    {
+        "url": "https://calendars.illinois.edu/detail/7744/33524399",
+        "snippet": "Test AI Events SearchBIOE Seminar Series: Assistant Professor Boxuan Zhao. BIOE Seminar Series: Assistant Professor Boxuan Zhao. Oct 15, 2025 12:00 - 12:50 pm.",
+        "category": "News",
+        "relevance_score": 90,
+        "reasoning": "The snippet is an announcement for a future event on the university's calendar, indicating it's a news item related to the academic profile."
+    },
+    {
+        "url": "https://www.google.com/goto?url=CAESYwHuR6pNcWdYNxJwagsBDf1N78K978Qbg1dzAax6tzo43JeGMIz0wlyuEHWrBV5IGRhcqKSxkGdJ3HqgXBBfvSstUeOa2-T8C8IKC9plWoIE8fPV48jh6iAfC7-232cCANLHpg==",
+        "snippet": "Look no further than our latest 2️⃣3️⃣ Questions with MCB, this month with Cell and Developmental Biology professor Dr. Boxuan Zhao. After ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The snippet appears to be a news article or blog post about an interview with a professor, indicating the category is News."
+    }
+]

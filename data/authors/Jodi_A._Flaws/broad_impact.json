@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://scholar.google.com/citations?user=auKthEEAAAAJ&hl=en",
+        "snippet": "2001. Defects in regulation of apoptosis in caspase-2-deficient mice. L ... Physiological role of the aryl hydrocarbon receptor in mouse ovary development.",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is a Google Scholar citation page, and the snippet mentions specific research studies."
+    },
+    {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34707890/",
+        "snippet": "... mice. Therefore, we tested the hypothesis that prenatal exposure to a phthalate mixture accelerates the age-related decline in reproductive ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is a PubMed entry, indicating a scientific publication with a DOI number."
+    },
+    {
+        "url": "https://www.facebook.com/ASRMFB/videos/-speaker-spotlight-for-our-next-speakerspotlight-meet-jodi-a-flaws-phd-a-profess/1505552383414145/",
+        "snippet": "SPEAKER SPOTLIGHT For our next #SpeakerSpotlight, meet Jodi A. Flaws, PhD ... Don't miss her SSR Keynote Lecture titled \"Environmental ...",
+        "category": "News",
+        "relevance_score": 90,
+        "reasoning": "The URL is a Facebook video post featuring a speaker spotlight, indicating it's a news article or announcement from an academic conference."
+    },
+    {
+        "url": "https://orcid.org/0000-0001-5579-9268",
+        "snippet": "Jodi A. Flaws; Megan M. Mahoney. Show more detail. Source: check_circle. Multidisciplinary Digital Publishing Institute. Exposure to Zinc Oxide Nanoparticles ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL appears to be an ORCID ID, which is a unique identifier for researchers and is often associated with publications in their profile."
+    },
+    {
+        "url": "https://www.researchgate.net/scientific-contributions/Jodi-A-Flaws-39378192",
+        "snippet": "Effects of Phthalate Metabolite Mixture Exposure on Mouse Oocyte Development ... Dietary exposure to di(2-ethylhexyl) phthalate for 6 months alters markers of ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The snippet appears to be an abstract of a scientific research article, likely from the provided ResearchGate profile."
+    },
+    {
+        "url": "https://experts.illinois.edu/en/persons/jodi-a-flaws/",
+        "snippet": "... mice. Ojo, Y., Weis, K., Laws, M., Chiang, C., Santacruz-Marquez, R., Ntomb ... Effects of phthalate metabolite mixture exposure on mouse oocyte development.",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The snippet mentions a research study with specific authors and keywords, indicating an academic publication."
+    },
+    {
+        "url": "https://www.instagram.com/reel/C-8IflLPTvF/",
+        "snippet": "MEET OUR SPEAKERS Jodi A. Flaws, PhD DON'T MISS HER SSR KEYNOTE LECTURE TITLED ENVIRONMENTAL ENDOCRINE DISRUPTORS AND FEMALE REPRODUCTIVE AGING ON TUESDAY ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The snippet appears to be promoting a keynote lecture, indicating that it is related to recent news or events in the academic field."
+    },
+    {
+        "url": "https://www.facebook.com/VetMed.Illinois/posts/congratulations-to-dr-jodi-flaws-professor-in-comparative-biosciences-during-the/736975694556283/",
+        "snippet": "SPEAKER SPOTLIGHT For our next #SpeakerSpotlight, meet Jodi A. Flaws, PhD, a Professor of Comparative Biosciences at the University of Illinois Urbana ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "It mentions a recent achievement of the professor at a specific university, indicating it's a news article or press release."
+    }
+]

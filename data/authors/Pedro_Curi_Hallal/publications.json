@@ -1,0 +1,3759 @@
+[
+    {
+        "doi": "https://doi.org/10.1016/s0140-6736(12)60646-1",
+        "title": "Global physical activity levels: surveillance progress, pitfalls, and prospects",
+        "journal": "The Lancet",
+        "year": 2012,
+        "citations": 5851,
+        "authors": "Pedro Curi Hallal, Lars Bo Andersen, Fiona Bull et al.",
+        "authors_list": [
+            "Pedro Curi Hallal",
+            "Lars Bo Andersen",
+            "Fiona Bull",
+            "Regina Guthold",
+            "William Haskell",
+            "Ulf Ekelund"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 5851,
+            "crossref": 4161
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://research-repository.uwa.edu.au/en/publications/40f0c3d1-39d1-441f-b893-4617f1caa365"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0140-6736(16)30581-5",
+        "title": "Progress in physical activity over the Olympic quadrennium",
+        "journal": "The Lancet",
+        "year": 2016,
+        "citations": 969,
+        "authors": "James F. Sallis, Fiona Bull, Regina Guthold et al.",
+        "authors_list": [
+            "James F. Sallis",
+            "Fiona Bull",
+            "Regina Guthold",
+            "Gregory W. Heath",
+            "Shigeru Inoue",
+            "Paul Kelly",
+            "Adewale L. Oyeyemi",
+            "Lilian G. Perez",
+            "Justin Richards",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 969,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s12966-015-0274-5",
+        "title": "Objectively measured physical activity and sedentary time in youth: the International children’s accelerometry database (ICAD)",
+        "journal": "International Journal of Behavioral Nutrition and Physical Activity",
+        "year": 2015,
+        "citations": 860,
+        "authors": "Ashley R Cooper, Anna Goodman, Angie S Page et al.",
+        "authors_list": [
+            "Ashley R Cooper",
+            "Anna Goodman",
+            "Angie S Page",
+            "Lauren B. Sherar",
+            "Dale Esliger",
+            "Esther van Sluijs",
+            "Lars Bo Andersen",
+            "Sigmund A. Anderssen",
+            "Greet Cardon",
+            "Rachel Davey",
+            "Karsten Froberg",
+            "Pedro Curi Hallal",
+            "Kathleen F. Janz",
+            "Katarzyna Kordas",
+            "Susi Kreimler",
+            "R. R. Pate",
+            "Jardena J. Puder",
+            "John J. Reilly",
+            "Jo Salmon",
+            "Luís B. Sardinha",
+            "Anna Timperio",
+            "Ulf Ekelund"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 860,
+            "crossref": 638
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ijbnpa.biomedcentral.com/track/pdf/10.1186/s12966-015-0274-5"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0140-6736(12)60435-8",
+        "title": "Shaping cities for health: complexity and the planning of urban environments in the 21st century",
+        "journal": "The Lancet",
+        "year": 2012,
+        "citations": 842,
+        "authors": "Yvonne Rydin, Ana Bleahu, Michael Davies et al.",
+        "authors_list": [
+            "Yvonne Rydin",
+            "Ana Bleahu",
+            "Michael Davies",
+            "Julio D. Dávila",
+            "Sharon Friel",
+            "Giovanni De Grandis",
+            "Nora Groce",
+            "Pedro Curi Hallal",
+            "Ian Hamilton",
+            "Philippa Howden‐Chapman",
+            "Ka Man Lai",
+            "CJ Lim",
+            "Juliana Martins",
+            "David Osrin",
+            "Ian Ridley",
+            "Ian Scott",
+            "Myfanwy Taylor",
+            "Paul Wilkinson",
+            "James Wilson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 842,
+            "crossref": 663
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://figshare.com/articles/journal_contribution/Shaping_cities_for_health_complexity_and_the_planning_of_urban_environments_in_the_21st_century/27447099"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ypmed.2016.11.027",
+        "title": "Global participation in sport and leisure-time physical activities: A systematic review and meta-analysis",
+        "journal": "Preventive Medicine",
+        "year": 2016,
+        "citations": 614,
+        "authors": "Ryan M. Hulteen, Jordan Smith, Philip J. Morgan et al.",
+        "authors_list": [
+            "Ryan M. Hulteen",
+            "Jordan Smith",
+            "Philip J. Morgan",
+            "Lisa M. Barnett",
+            "Pedro Curi Hallal",
+            "Kim Colyvas",
+            "David R. Lubans"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 614,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0091743516303838"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ypmed.2011.02.017",
+        "title": "Worldwide prevalence of physical inactivity and its association with human development index in 76 countries",
+        "journal": "Preventive Medicine",
+        "year": 2011,
+        "citations": 574,
+        "authors": "Samuel Carvalho Dumith, Pedro Curi Hallal, Rodrigo Siqueira Reis et al.",
+        "authors_list": [
+            "Samuel Carvalho Dumith",
+            "Pedro Curi Hallal",
+            "Rodrigo Siqueira Reis",
+            "Harold W. Kohl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 574,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://repositorio.furg.br/handle/1/4068"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00038-006-5062-1",
+        "title": "Gender differences in leisure-time physical activity",
+        "journal": "Sozial- und Präventivmedizin",
+        "year": 2007,
+        "citations": 573,
+        "authors": "Mário Renato Azevedo, Cora Luíza Araújo, Felipe Fossati Reichert et al.",
+        "authors_list": [
+            "Mário Renato Azevedo",
+            "Cora Luíza Araújo",
+            "Felipe Fossati Reichert",
+            "Fernando Vinholes Siqueira",
+            "Marcelo Cozzensa da Silva",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 573,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/s00038-006-5062-1.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2105/ajph.2005.070144",
+        "title": "The Role of Perceived Personal Barriers to Engagement in Leisure-Time Physical Activity",
+        "journal": "American Journal of Public Health",
+        "year": 2007,
+        "citations": 514,
+        "authors": "Felipe Fossati Reichert, Aluísio J. D. Barros, Marlos Rodrigues Domingues et al.",
+        "authors_list": [
+            "Felipe Fossati Reichert",
+            "Aluísio J. D. Barros",
+            "Marlos Rodrigues Domingues",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 514,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/1805028"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.7.s2.s259",
+        "title": "Lessons Learned After 10 Years of IPAQ Use in Brazil and Colombia",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2010,
+        "citations": 353,
+        "authors": "Pedro Curi Hallal, Luis Fernando Gómez, Diana C. Parra et al.",
+        "authors_list": [
+            "Pedro Curi Hallal",
+            "Luis Fernando Gómez",
+            "Diana C. Parra",
+            "Felipe Lobelo",
+            "Janeth Mosquera",
+            "Alex Antônio Florindo",
+            "Rodrigo Siqueira Reis",
+            "Michael Pratt",
+            "Olga L. Sarmiento"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 353,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.6.5.548",
+        "title": "Temporal Trends in Physical Activity: A Systematic Review",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2009,
+        "citations": 352,
+        "authors": "Alan Goularte Knuth, Pedro Curi Hallal",
+        "authors_list": [
+            "Alan Goularte Knuth",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 352,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/ije/dyu203",
+        "title": "Physical activity levels in three Brazilian birth cohorts as assessed with raw triaxial wrist accelerometry",
+        "journal": "International Journal of Epidemiology",
+        "year": 2014,
+        "citations": 273,
+        "authors": "Inácio Crochemore‐Silva, Vincent T. van Hees, Virgílio Viana Ramires et al.",
+        "authors_list": [
+            "Inácio Crochemore‐Silva",
+            "Vincent T. van Hees",
+            "Virgílio Viana Ramires",
+            "Alan Goularte Knuth",
+            "Renata Moraes Bielemann",
+            "Ulf Ekelund",
+            "Søren Brage",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 273,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/ije/article-pdf/43/6/1959/14152697/dyu203.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/ije/dym177",
+        "title": "Cohort Profile: The 1993 Pelotas (Brazil) Birth Cohort Study",
+        "journal": "International Journal of Epidemiology",
+        "year": 2007,
+        "citations": 254,
+        "authors": "César G. Victora, Pedro Curi Hallal, Cristina da Silva Araújo et al.",
+        "authors_list": [
+            "César G. Victora",
+            "Pedro Curi Hallal",
+            "Cristina da Silva Araújo",
+            "Ana Maria Baptista Menezes",
+            "Jonathan C. K. Wells",
+            "Fernando C. Barros"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 254,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/ije/article-pdf/37/4/704/2190349/dym177.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s0034-89102007000100010",
+        "title": "Tracking of physical activity from adolescence to adulthood: a population-based study",
+        "journal": "Revista de Saúde Pública",
+        "year": 2007,
+        "citations": 247,
+        "authors": "Mário Renato Azevedo, Cora Luíza Araújo, Marcelo Cozzensa da Silva et al.",
+        "authors_list": [
+            "Mário Renato Azevedo",
+            "Cora Luíza Araújo",
+            "Marcelo Cozzensa da Silva",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 247,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/rsp/a/hmxfBRW5t4vSyjnXmCcjhqh/?lang=en&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.2021-0413",
+        "title": "Physical Activity Promotion and the United Nations Sustainable Development Goals: Building Synergies to Maximize Impact",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2021,
+        "citations": 218,
+        "authors": "Deborah Salvo, Leandro García, Rodrigo Siqueira Reis et al.",
+        "authors_list": [
+            "Deborah Salvo",
+            "Leandro García",
+            "Rodrigo Siqueira Reis",
+            "Ivana Stankov",
+            "Rahul Goel",
+            "Jasper Schipperijn",
+            "Pedro Curi Hallal",
+            "Ding Ding",
+            "Michael Pratt"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 218,
+            "crossref": 174
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.humankinetics.com/downloadpdf/journals/jpah/18/10/article-p1163.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s0034-89102007000500009",
+        "title": "Prevalência de quedas em idosos e fatores associados",
+        "journal": "Revista de Saúde Pública",
+        "year": 2007,
+        "citations": 216,
+        "authors": "Fernando Vinholes Siqueira, Luiz Augusto Facchini, Roberto Xavier Piccini et al.",
+        "authors_list": [
+            "Fernando Vinholes Siqueira",
+            "Luiz Augusto Facchini",
+            "Roberto Xavier Piccini",
+            "Elaine Tomasi",
+            "Elaine Thumé",
+            "Denise Silva da Silveira",
+            "Vera Regina de Aquino Vieira",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 216,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/rsp/a/BN8nvPz8gZ4KcP3Tc9wXRch/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/ckj/sfv099",
+        "title": "Effects of exercise in the whole spectrum of chronic kidney disease: a systematic review",
+        "journal": "Clinical Kidney Journal",
+        "year": 2015,
+        "citations": 210,
+        "authors": "Franklin Corrêa Barcellos, Iná S. Santos, Daniel Umpierre et al.",
+        "authors_list": [
+            "Franklin Corrêa Barcellos",
+            "Iná S. Santos",
+            "Daniel Umpierre",
+            "Maristela Böhlke",
+            "Pedro Curi Hallal"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 210,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/ckj/article-pdf/8/6/753/1190046/sfv099.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/ije/dyx219",
+        "title": "Cohort Profile: The 2015 Pelotas (Brazil) Birth Cohort Study",
+        "journal": "International Journal of Epidemiology",
+        "year": 2017,
+        "citations": 202,
+        "authors": "Pedro Curi Hallal, Andréa Dâmaso Bertoldi, Marlos Rodrigues Domingues et al.",
+        "authors_list": [
+            "Pedro Curi Hallal",
+            "Andréa Dâmaso Bertoldi",
+            "Marlos Rodrigues Domingues",
+            "Mariângela Freitas da Silveira",
+            "Flávio Fernando Demarco",
+            "Inácio Crochemore‐Silva",
+            "Fernando C. Barros",
+            "César G. Victora",
+            "Diego G. Bassani"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 202,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/ije/article-pdf/47/4/1048/25687578/dyx219.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0140-6736(12)61027-7",
+        "title": "Physical activity: more of the same is not enough",
+        "journal": "The Lancet",
+        "year": 2012,
+        "citations": 199,
+        "authors": "Pedro Curi Hallal, Adrian Bauman, Gregory W. Heath et al.",
+        "authors_list": [
+            "Pedro Curi Hallal",
+            "Adrian Bauman",
+            "Gregory W. Heath",
+            "Harold W. Kohl",
+            "I‐Min Lee",
+            "Michael Pratt"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 199,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s40279-016-0565-2",
+        "title": "Leisure-Time Physical Activity in Pregnancy and Maternal-Child Health: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Cohort Studies",
+        "journal": "Sports Medicine",
+        "year": 2016,
+        "citations": 190,
+        "authors": "Shana Ginar da Silva, Luiza Isnardi Cardoso Ricardo, Kelly R. Evenson et al.",
+        "authors_list": [
+            "Shana Ginar da Silva",
+            "Luiza Isnardi Cardoso Ricardo",
+            "Kelly R. Evenson",
+            "Pedro Curi Hallal"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 190,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s1415-790x2012000100018",
+        "title": "Validade e reprodutibilidade de um questionário para medida de atividade física em adolescentes: uma adaptação do Self-Administered Physical Activity Checklist",
+        "journal": "Revista Brasileira de Epidemiologia",
+        "year": 2012,
+        "citations": 174,
+        "authors": "José Cazuza de Farias Júnior, Adair da Silva Lopes, Jorge Mota et al.",
+        "authors_list": [
+            "José Cazuza de Farias Júnior",
+            "Adair da Silva Lopes",
+            "Jorge Mota",
+            "Maria Paula Santos",
+            "José Carlos Ribeiro",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 174,
+            "crossref": 142
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/rbepid/a/nzZzK5bxQBxtVfpYJKzgCmc/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1136/bjsports-2020-102345",
+        "title": "Joint association between accelerometry-measured daily combination of time spent in physical activity, sedentary behaviour and sleep and all-cause mortality: a pooled analysis of six prospective cohorts using compositional analysis",
+        "journal": "British Journal of Sports Medicine",
+        "year": 2021,
+        "citations": 158,
+        "authors": "Sébastien Chastin, Duncan McGregor, Javier Palarea‐Albaladejo et al.",
+        "authors_list": [
+            "Sébastien Chastin",
+            "Duncan McGregor",
+            "Javier Palarea‐Albaladejo",
+            "Keith M. Diaz",
+            "María Hagströmer",
+            "Pedro Curi Hallal",
+            "Vincent T. van Hees",
+            "Steven P. Hooker",
+            "Virginia J. Howard",
+            "I‐Min Lee",
+            "Philip Rosen",
+            "Sèverine Sabia",
+            "Eric J. Shiroma",
+            "Manasa Shanta Yerramalla",
+            "Philippa Dall"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 158,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bjsm.bmj.com/content/bjsports/55/22/1277.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s0102-311x2005000100030",
+        "title": "Epidemiology of leisure-time physical activity: a population-based study in southern Brazil",
+        "journal": "Cadernos de Saúde Pública",
+        "year": 2005,
+        "citations": 151,
+        "authors": "Juvenal Soares Dias da Costa, Pedro Curi Hallal, Jonathan C. K. Wells et al.",
+        "authors_list": [
+            "Juvenal Soares Dias da Costa",
+            "Pedro Curi Hallal",
+            "Jonathan C. K. Wells",
+            "Tiago Daltoé",
+            "Sandra Cristina Pereira Costa Fuchs",
+            "Ana Maria Baptista Menezes",
+            "Maria Teresa Anselmo Olinto"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 151,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/csp/a/G49VTH7RvypWqNVT3scCWbK/?lang=en&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2105/ajph.2008.141978",
+        "title": "Effects of a Community-Based, Professionally Supervised Intervention on Physical Activity Levels Among Residents of Recife, Brazil",
+        "journal": "American Journal of Public Health",
+        "year": 2008,
+        "citations": 149,
+        "authors": "Eduardo J. Simões, Pedro Curi Hallal, Michael Pratt et al.",
+        "authors_list": [
+            "Eduardo J. Simões",
+            "Pedro Curi Hallal",
+            "Michael Pratt",
+            "Luiz Roberto Ramos",
+            "Marcia Munk",
+            "Wilson Damascena",
+            "Diana C. Parra",
+            "Christine M. Hoehner",
+            "David A. Gilbertz",
+            "Déborah Carvalho Malta",
+            "Ross C. Brownson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 149,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2636600"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s12966-023-01496-0",
+        "title": "Gender differences in the distribution of children’s physical activity: evidence from nine countries",
+        "journal": "International Journal of Behavioral Nutrition and Physical Activity",
+        "year": 2023,
+        "citations": 146,
+        "authors": "Luke Kretschmer, Gül Deniz Salalι, Lars Bo Andersen et al.",
+        "authors_list": [
+            "Luke Kretschmer",
+            "Gül Deniz Salalι",
+            "Lars Bo Andersen",
+            "Pedro Curi Hallal",
+            "Kate Northstone",
+            "Luís B. Sardinha",
+            "Mark Dyble",
+            "David Bann",
+            "International Children’s Accelerometry Database (ICAD) Collaborators",
+            "Lars Bo Andersen",
+            "Sigmund A. Anderssen",
+            "Greet Cardon",
+            "Rachel Davey",
+            "Russell Jago",
+            "Kathleen F. Janz",
+            "Susi Kriemler",
+            "Niels Christian Møller",
+            "Kate Northstone",
+            "Russell R. Pate",
+            "Jardena J. Puder",
+            "John J. Reilly",
+            "Jo Salmon",
+            "Luís B. Sardinha",
+            "Esther van Sluijs"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 146,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ijbnpa.biomedcentral.com/counter/pdf/10.1186/s12966-023-01496-0"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.vaccine.2021.04.046",
+        "title": "Missed childhood immunizations during the COVID-19 pandemic in Brazil: Analyses of routine statistics and of a national household survey",
+        "journal": "Vaccine",
+        "year": 2021,
+        "citations": 146,
+        "authors": "Mariângela Freitas da Silveira, Cristian Tedesco Tonial, Ana Goretti Kalume Maranhão et al.",
+        "authors_list": [
+            "Mariângela Freitas da Silveira",
+            "Cristian Tedesco Tonial",
+            "Ana Goretti Kalume Maranhão",
+            "Antônia Maria Teixeira",
+            "Pedro Curi Hallal",
+            "Ana Maria Baptista Menezes",
+            "Bernardo Lessa Horta",
+            "Fernando Pires Hartwig",
+            "Aluísio J. D. Barros",
+            "César G. Victora"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 146,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/9756801"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/1980-549720200032",
+        "title": "O que é urgente e necessário para subsidiar as políticas de enfrentamento da pandemia de COVID-19 no Brasil?",
+        "journal": "Revista Brasileira de Epidemiologia",
+        "year": 2020,
+        "citations": 146,
+        "authors": "Maurício L. Barreto, Aluísio J. D. Barros, Marília Sá Carvalho et al.",
+        "authors_list": [
+            "Maurício L. Barreto",
+            "Aluísio J. D. Barros",
+            "Marília Sá Carvalho",
+            "Cláudia Torres Codeço",
+            "Pedro Curi Hallal",
+            "Roberto de Andrade Medronho",
+            "Cláudio J. Struchiner",
+            "César G. Victora",
+            "Guilherme Loureiro Werneck"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 146,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/rbepid/a/6rBw5h7FvZThJDcwS9WJkfw/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s0102-311x2005000200024",
+        "title": "Physical activity in adults from two Brazilian areas: similarities and differences",
+        "journal": "Cadernos de Saúde Pública",
+        "year": 2005,
+        "citations": 145,
+        "authors": "Pedro Curi Hallal, Sandra Mahecha Matsudo, Victor Keihan Rodrigues Matsudo et al.",
+        "authors_list": [
+            "Pedro Curi Hallal",
+            "Sandra Mahecha Matsudo",
+            "Victor Keihan Rodrigues Matsudo",
+            "Timóteo Leandro Araújo",
+            "Douglas Roque Andrade",
+            "Andréa Dâmaso Bertoldi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 145,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/csp/a/gkyzjcpxWCxKmjM4DTShS9c/?lang=en&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s12889-016-3778-2",
+        "title": "Health promoting practices and personal lifestyle behaviors of Brazilian health professionals",
+        "journal": "BMC Public Health",
+        "year": 2016,
+        "citations": 145,
+        "authors": "Karen Hidalgo, Grégore Iven Mielke, Diana C. Parra et al.",
+        "authors_list": [
+            "Karen Hidalgo",
+            "Grégore Iven Mielke",
+            "Diana C. Parra",
+            "Felipe Lobelo",
+            "Eduardo J. Simões",
+            "Grace O. Gomes",
+            "Alex Antônio Florindo",
+            "M Bracco",
+            "Lenildo de Moura",
+            "Ross C. Brownson",
+            "Michael Pratt",
+            "Luiz Roberto Ramos",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 145,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-016-3778-2"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.5.6.777",
+        "title": "Prevalence of Insufficient Physical Activity and Associated Factors in Brazilian Adolescents",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2008,
+        "citations": 141,
+        "authors": "Juliano Peixoto Bastos, Cora Luíza Araújo, Pedro Curi Hallal",
+        "authors_list": [
+            "Juliano Peixoto Bastos",
+            "Cora Luíza Araújo",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 141,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ypmed.2012.03.014",
+        "title": "Clustering of risk factors for chronic diseases among adolescents from Southern Brazil",
+        "journal": "Preventive Medicine",
+        "year": 2012,
+        "citations": 133,
+        "authors": "Samuel Carvalho Dumith, Ludmila Corrêa Muniz, Rafael Miranda Tassitano et al.",
+        "authors_list": [
+            "Samuel Carvalho Dumith",
+            "Ludmila Corrêa Muniz",
+            "Rafael Miranda Tassitano",
+            "Pedro Curi Hallal",
+            "Ana Maria Baptista Menezes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 133,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0091743512001004/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/1477-7525-7-95",
+        "title": "Social and dental status along the life course and oral health impacts in adolescents: a population-based birth cohort",
+        "journal": "Health and Quality of Life Outcomes",
+        "year": 2009,
+        "citations": 131,
+        "authors": "Karen Glazer Peres, Marco Aurélio Peres, Cora L. Araújo et al.",
+        "authors_list": [
+            "Karen Glazer Peres",
+            "Marco Aurélio Peres",
+            "Cora L. Araújo",
+            "Ana Menezes",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 131,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://hqlo.biomedcentral.com/counter/pdf/10.1186/1477-7525-7-95"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.pcad.2014.09.002",
+        "title": "Can Population Levels of Physical Activity Be Increased? Global Evidence and Experience",
+        "journal": "Progress in Cardiovascular Diseases",
+        "year": 2014,
+        "citations": 131,
+        "authors": "Michael Pratt, Lilian G. Perez, Shifalika Goenka et al.",
+        "authors_list": [
+            "Michael Pratt",
+            "Lilian G. Perez",
+            "Shifalika Goenka",
+            "Ross C. Brownson",
+            "Adrian Bauman",
+            "Olga L. Sarmiento",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 131,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/4749397"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s0034-89102004000200012",
+        "title": "Utilização de medicamentos em adultos: prevalência e determinantes individuais",
+        "journal": "Revista de Saúde Pública",
+        "year": 2004,
+        "citations": 127,
+        "authors": "Andréa Dâmaso Bertoldi, Aluísio J. D. Barros, Pedro Curi Hallal et al.",
+        "authors_list": [
+            "Andréa Dâmaso Bertoldi",
+            "Aluísio J. D. Barros",
+            "Pedro Curi Hallal",
+            "Rosângela C. Lima"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 127,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/rsp/a/3DXpLSFjqy4nfVytbK6TZ6G/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s0034-89102009000900009",
+        "title": "Prática de atividades físicas e fatores associados em adultos, Brasil, 2006",
+        "journal": "Revista de Saúde Pública",
+        "year": 2009,
+        "citations": 127,
+        "authors": "Alex Antônio Florindo, Pedro Curi Hallal, Erly Catarina de Moura et al.",
+        "authors_list": [
+            "Alex Antônio Florindo",
+            "Pedro Curi Hallal",
+            "Erly Catarina de Moura",
+            "Déborah Carvalho Malta"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 127,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/rsp/a/CDgLbGC6mLV7xgSbhfVwNKL/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.7.5.641",
+        "title": "Overweight/Obesity and Physical Fitness Among Children and Adolescents",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2010,
+        "citations": 127,
+        "authors": "Samuel Carvalho Dumith, Virgílio Viana Ramires, Matheus Alves Souza et al.",
+        "authors_list": [
+            "Samuel Carvalho Dumith",
+            "Virgílio Viana Ramires",
+            "Matheus Alves Souza",
+            "Daniel Souza Moraes",
+            "Fabrício Godoy Petry",
+            "Eduardo Soldera Oliveira",
+            "Sandro Viana Ramires",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 127,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s12966-021-01095-x",
+        "title": "Children’s moderate-to-vigorous physical activity on weekdays versus weekend days: a multi-country analysis",
+        "journal": "International Journal of Behavioral Nutrition and Physical Activity",
+        "year": 2021,
+        "citations": 123,
+        "authors": "on behalf of the International Children’s Accelerometry Database (ICAD) Collaborators, Keith Brazendale, Michael W. Beets et al.",
+        "authors_list": [
+            "on behalf of the International Children’s Accelerometry Database (ICAD) Collaborators",
+            "Keith Brazendale",
+            "Michael W. Beets",
+            "Bridget Armstrong",
+            "R. Glenn Weaver",
+            "Ethan T. Hunt",
+            "Russell R. Pate",
+            "Timothy A. Brusseau",
+            "Amy M. Bohnert",
+            "Tim Olds",
+            "Rafael Miranda Tassitano",
+            "Maria Cecília Marinho Tenório",
+            "Jeanette M. Garcia",
+            "Lars Bo Andersen",
+            "Rachel Davey",
+            "Pedro Curi Hallal",
+            "Russell Jago",
+            "Elin Kolle",
+            "Susi Kriemler",
+            "Peter Lund Kristensen",
+            "Soyang Kwon",
+            "Jardena J. Puder",
+            "Jo Salmon",
+            "Luís B. Sardinha",
+            "Esther van Sluijs"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 123,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ijbnpa.biomedcentral.com/track/pdf/10.1186/s12966-021-01095-x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s1020-49892007000900004",
+        "title": "Fatores socioculturais e nível de atividade física no início da adolescência",
+        "journal": "Revista Panamericana de Salud Pública",
+        "year": 2007,
+        "citations": 123,
+        "authors": "Helen Gonçalves, Pedro Curi Hallal, Tales Costa Amorim et al.",
+        "authors_list": [
+            "Helen Gonçalves",
+            "Pedro Curi Hallal",
+            "Tales Costa Amorim",
+            "Cora L. Araújo",
+            "Ana Maria Baptista Menezes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 123,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://scielosp.org/article/ssm/content/raw/?resource_ssm_path=/media/assets/rpsp/v22n4/04.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ypmed.2010.12.008",
+        "title": "Perceived environmental correlates of physical activity for leisure and transportation in Curitiba, Brazil",
+        "journal": "Preventive Medicine",
+        "year": 2010,
+        "citations": 121,
+        "authors": "Diana C. Parra, Christine M. Hoehner, Pedro Curi Hallal et al.",
+        "authors_list": [
+            "Diana C. Parra",
+            "Christine M. Hoehner",
+            "Pedro Curi Hallal",
+            "Isabela C. Ribeiro",
+            "Rodrigo Siqueira Reis",
+            "Ross C. Brownson",
+            "Michael Pratt",
+            "Eduardo J. Simões"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 121,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s12966-017-0632-6",
+        "title": "A randomized controlled trial of exercise during pregnancy on maternal and neonatal outcomes: results from the PAMELA study",
+        "journal": "International Journal of Behavioral Nutrition and Physical Activity",
+        "year": 2017,
+        "citations": 118,
+        "authors": "Shana Ginar da Silva, Pedro Curi Hallal, Marlos Rodrigues Domingues et al.",
+        "authors_list": [
+            "Shana Ginar da Silva",
+            "Pedro Curi Hallal",
+            "Marlos Rodrigues Domingues",
+            "Andréa Dâmaso Bertoldi",
+            "Mariângela Freitas da Silveira",
+            "Diego G. Bassani",
+            "Inácio Crochemore‐Silva",
+            "Bruna Gonçalves Cordeiro da Silva",
+            "Carolina V. N. Coll",
+            "Kelly R. Evenson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ijbnpa.biomedcentral.com/track/pdf/10.1186/s12966-017-0632-6"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.pmedr.2016.05.006",
+        "title": "Age-related patterns of vigorous-intensity physical activity in youth: The International Children's Accelerometry Database",
+        "journal": "Preventive Medicine Reports",
+        "year": 2016,
+        "citations": 117,
+        "authors": "Kirsten Corder, Stephen J. Sharp, Andrew J. Atkin et al.",
+        "authors_list": [
+            "Kirsten Corder",
+            "Stephen J. Sharp",
+            "Andrew J. Atkin",
+            "Lars Bo Andersen",
+            "Greet Cardon",
+            "Angie S Page",
+            "Rachel Davey",
+            "Anders Grøntved",
+            "Pedro Curi Hallal",
+            "Kathleen F. Janz",
+            "Katarzyna Kordas",
+            "Susi Kriemler",
+            "Jardena J. Puder",
+            "Luís B. Sardinha",
+            "Ulf Ekelund",
+            "Esther van Sluijs"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S2211335516300365/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s0034-89102009005000057",
+        "title": "[NO TITLE AVAILABLE]",
+        "journal": "Revista de Saúde Pública",
+        "year": 2009,
+        "citations": 116,
+        "authors": "Giovâni Firpo Del Duca, Marcelo Cozzensa da Silva, Pedro Curi Hallal",
+        "authors_list": [
+            "Giovâni Firpo Del Duca",
+            "Marcelo Cozzensa da Silva",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/rsp/a/K5Kdxz7HnKLmhCfrtB9xNtd/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2165/00007256-200939040-00002",
+        "title": "Physical Activity as a Predictor of Adolescent Body Fatness",
+        "journal": "Sports Medicine",
+        "year": 2009,
+        "citations": 116,
+        "authors": "Felipe Fossati Reichert, Ana Maria Baptista Menezes, Jonathan C. K. Wells et al.",
+        "authors_list": [
+            "Felipe Fossati Reichert",
+            "Ana Maria Baptista Menezes",
+            "Jonathan C. K. Wells",
+            "Samuel Carvalho Dumith",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s12966-020-01008-4",
+        "title": "Worldwide surveillance of self-reported sitting time: a scoping review",
+        "journal": "International Journal of Behavioral Nutrition and Physical Activity",
+        "year": 2020,
+        "citations": 115,
+        "authors": "Matthew Mclaughlin, Andrew J. Atkin, Luke Starr et al.",
+        "authors_list": [
+            "Matthew Mclaughlin",
+            "Andrew J. Atkin",
+            "Luke Starr",
+            "Alix Hall",
+            "Luke Wolfenden",
+            "Rachel Sutherland",
+            "John Wiggers",
+            "Andrea Ramírez Varela",
+            "Pedro Curi Hallal",
+            "Michael Pratt",
+            "Brigid M. Lynch",
+            "Katrien Wijndaele",
+            "Saiful Adli",
+            "Paul A. Gardiner",
+            "Ciarán Doyle",
+            "Angela Meadows",
+            "Ruth Mabry",
+            "Alberto Flórez Pregonero",
+            "Kabir P. Sadarangani",
+            "Nyssa Hadgraft",
+            "Terry Boyle",
+            "Nicolás Aguilar-Farías",
+            "Jacqueline L. Mair",
+            "Siosaia F. Hafoka",
+            "Grégore Iven Mielke",
+            "Selina Khoo",
+            "Vienna McLeod",
+            "Chathuranga Ranasinghe",
+            "Paul C. Storning",
+            "Ing‐Mari Dohrn",
+            "Falk Müller-Riemenschnieder",
+            "Lyutha K. Al Subhi",
+            "Anne Chu",
+            "Mayuri Gad",
+            "Adilson Marques",
+            "Elli Kontostoli"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 115,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ijbnpa.biomedcentral.com/track/pdf/10.1186/s12966-020-01008-4"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s1413-81232010000800008",
+        "title": "Prática de atividade física em adolescentes brasileiros",
+        "journal": "Ciência & Saúde Coletiva",
+        "year": 2010,
+        "citations": 112,
+        "authors": "Pedro Curi Hallal, Alan Goularte Knuth, Danielle Keylla Alencar Cruz et al.",
+        "authors_list": [
+            "Pedro Curi Hallal",
+            "Alan Goularte Knuth",
+            "Danielle Keylla Alencar Cruz",
+            "Maria Isabel Mendes",
+            "Déborah Carvalho Malta"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 112,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/csc/a/hQTGBQxmpTKMQg7p4X7gSKh/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.7.s2.s137",
+        "title": "Promoting Physical Activity Through Community-Wide Policies and Planning: Findings From Curitiba, Brazil",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2010,
+        "citations": 111,
+        "authors": "Rodrigo Siqueira Reis, Pedro Curi Hallal, Diana C. Parra et al.",
+        "authors_list": [
+            "Rodrigo Siqueira Reis",
+            "Pedro Curi Hallal",
+            "Diana C. Parra",
+            "Isabela C. Ribeiro",
+            "Ross C. Brownson",
+            "Michael Pratt",
+            "Christine M. Hoehner",
+            "Luiz Roberto Ramos"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 111,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s0034-89102004000200019",
+        "title": "Consumo abusivo de álcool e fatores associados: estudo de base populacional",
+        "journal": "Revista de Saúde Pública",
+        "year": 2004,
+        "citations": 108,
+        "authors": "Juvenal Soares Dias da Costa, Mariângela Freitas da Silveira, Fernando Kratz Gazalle et al.",
+        "authors_list": [
+            "Juvenal Soares Dias da Costa",
+            "Mariângela Freitas da Silveira",
+            "Fernando Kratz Gazalle",
+            "Sandro Schreiber de Oliveira",
+            "Pedro Curi Hallal",
+            "Ana Maria B. Menezes",
+            "Denise Petrucci Gigante",
+            "Maria Teresa Anselmo Olinto",
+            "Silvia Macedo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 108,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/rsp/a/NQKbrM4nQzhPrDDG3xPQGxx/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s0034-89102004000300005",
+        "title": "Sintomas depressivos e fatores associados em população idosa no Sul do Brasil",
+        "journal": "Revista de Saúde Pública",
+        "year": 2004,
+        "citations": 105,
+        "authors": "Fernando Kratz Gazalle, Maurício Silva de Lima, Beatriz Frank Tavares et al.",
+        "authors_list": [
+            "Fernando Kratz Gazalle",
+            "Maurício Silva de Lima",
+            "Beatriz Frank Tavares",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/rsp/a/KyhmPJpPdpWDZ6G8F49FdDD/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amepre.2012.10.026",
+        "title": "Physical Activity Interventions in Latin America",
+        "journal": "American Journal of Preventive Medicine",
+        "year": 2013,
+        "citations": 105,
+        "authors": "Christine M. Hoehner, Isabela C. Ribeiro, Diana C. Parra et al.",
+        "authors_list": [
+            "Christine M. Hoehner",
+            "Isabela C. Ribeiro",
+            "Diana C. Parra",
+            "Rodrigo Siqueira Reis",
+            "Mário Renato Azevedo",
+            "Adriano Akira Ferreira Hino",
+            "Jesus Soares",
+            "Pedro Curi Hallal",
+            "Eduardo J. Simões",
+            "Ross C. Brownson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.ajpmonline.org/article/S0749379712009087/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/1744-8603-9-62",
+        "title": "Epidemiology, management, complications and costs associated with type 2 diabetes in Brazil: a comprehensive literature review",
+        "journal": "Globalization and Health",
+        "year": 2013,
+        "citations": 101,
+        "authors": "Andréa Dâmaso Bertoldi, Panos Kanavos, Giovanny Vinícius Araújo de França et al.",
+        "authors_list": [
+            "Andréa Dâmaso Bertoldi",
+            "Panos Kanavos",
+            "Giovanny Vinícius Araújo de França",
+            "André Carraro",
+            "César Augusto Oviedo Tejada",
+            "Pedro Curi Hallal",
+            "Alessandra Ferrario",
+            "Maria Schmidt"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://globalizationandhealth.biomedcentral.com/counter/pdf/10.1186/1744-8603-9-62"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amepre.2013.04.020",
+        "title": "Walkability and Physical Activity",
+        "journal": "American Journal of Preventive Medicine",
+        "year": 2013,
+        "citations": 100,
+        "authors": "Rodrigo Siqueira Reis, Adriano Akira Ferreira Hino, Cassiano Ricardo Rech et al.",
+        "authors_list": [
+            "Rodrigo Siqueira Reis",
+            "Adriano Akira Ferreira Hino",
+            "Cassiano Ricardo Rech",
+            "Jacqueline Kerr",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 100,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3748398/pdf/nihms493683.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s11136-011-0083-5",
+        "title": "Quality of life and physical activity among adults: population-based study in Brazilian adults",
+        "journal": "Quality of Life Research",
+        "year": 2012,
+        "citations": 100,
+        "authors": "Gabrielle Cristine Moura Fernandes Pucci, Rodrigo Siqueira Reis, Cassiano Ricardo Rech et al.",
+        "authors_list": [
+            "Gabrielle Cristine Moura Fernandes Pucci",
+            "Rodrigo Siqueira Reis",
+            "Cassiano Ricardo Rech",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 100,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s12966-014-0101-4",
+        "title": "Time trends of physical activity and television viewing time in Brazil: 2006-2012",
+        "journal": "International Journal of Behavioral Nutrition and Physical Activity",
+        "year": 2014,
+        "citations": 99,
+        "authors": "Grégore Iven Mielke, Pedro Curi Hallal, Déborah Carvalho Malta et al.",
+        "authors_list": [
+            "Grégore Iven Mielke",
+            "Pedro Curi Hallal",
+            "Déborah Carvalho Malta",
+            "I‐Min Lee"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ijbnpa.biomedcentral.com/counter/pdf/10.1186/s12966-014-0101-4"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0091614",
+        "title": "Brazilian Adults' Sedentary Behaviors by Life Domain: Population-Based Study",
+        "journal": "PLoS ONE",
+        "year": 2014,
+        "citations": 98,
+        "authors": "Grégore Iven Mielke, Inácio Crochemore‐Silva, Neville Owen et al.",
+        "authors_list": [
+            "Grégore Iven Mielke",
+            "Inácio Crochemore‐Silva",
+            "Neville Owen",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0091614&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s0102-311x2009001100007",
+        "title": "Fatores associados ao consumo de frutas, legumes e verduras em adultos de uma cidade no Sul do Brasil",
+        "journal": "Cadernos de Saúde Pública",
+        "year": 2009,
+        "citations": 98,
+        "authors": "Marilda Borges Neutzling, Aírton José Rombaldi, Mário Renato Azevedo et al.",
+        "authors_list": [
+            "Marilda Borges Neutzling",
+            "Aírton José Rombaldi",
+            "Mário Renato Azevedo",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/csp/a/X3tmZJWB5QrzV5RKzdgPjDz/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s1415-790x2010000100010",
+        "title": "Atividade física e comportamento sedentário em adolescentes estudantes do ensino médio",
+        "journal": "Revista Brasileira de Epidemiologia",
+        "year": 2010,
+        "citations": 96,
+        "authors": "Maria Cecília Marinho Tenório, Mauro Virgílio Gomes de Barros, Rafael Miranda Tassitano et al.",
+        "authors_list": [
+            "Maria Cecília Marinho Tenório",
+            "Mauro Virgílio Gomes de Barros",
+            "Rafael Miranda Tassitano",
+            "Jorge Bezerra",
+            "Juliana Marinho Tenório",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/rbepid/a/vMMB43JSNFP3r8yVSQBhTHF/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1101/2020.05.30.20117531",
+        "title": "Remarkable variability in SARS-CoV-2 antibodies across Brazilian regions: nationwide serological household survey in 27 states",
+        "journal": "medRxiv",
+        "year": 2020,
+        "citations": 96,
+        "authors": "Pedro Curi Hallal, Fernando Pires Hartwig, Bernardo Lessa Horta et al.",
+        "authors_list": [
+            "Pedro Curi Hallal",
+            "Fernando Pires Hartwig",
+            "Bernardo Lessa Horta",
+            "Gabriel D. Victora",
+            "Mariângela Freitas da Silveira",
+            "Cláudio J. Struchiner",
+            "Luís Paulo Vidaleti",
+            "Nelson Arns Neumann",
+            "Lúcia Campos Pellanda",
+            "Odir Antônio Dellagostin",
+            "Marcelo Nascimento Burattini",
+            "Ana Menezes",
+            "Fernando C. Barros",
+            "Aluísio J. D. Barros",
+            "César G. Victora"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.medrxiv.org/content/medrxiv/early/2020/05/30/2020.05.30.20117531.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.healthpol.2008.07.001",
+        "title": "Medicine access and utilization in a population covered by primary health care in Brazil",
+        "journal": "Health Policy",
+        "year": 2008,
+        "citations": 87,
+        "authors": "Andréa Dâmaso Bertoldi, Aluísio J. D. Barros, Anita K. Wagner et al.",
+        "authors_list": [
+            "Andréa Dâmaso Bertoldi",
+            "Aluísio J. D. Barros",
+            "Anita K. Wagner",
+            "Dennis Ross‐Degnan",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.7.3.402",
+        "title": "Validity and Reliability of the Telephone-Administered International Physical Activity Questionnaire in Brazil",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2010,
+        "citations": 87,
+        "authors": "Pedro Curi Hallal, Eduardo J. Simões, Felipe F. Reichert et al.",
+        "authors_list": [
+            "Pedro Curi Hallal",
+            "Eduardo J. Simões",
+            "Felipe F. Reichert",
+            "Mário Renato Azevedo",
+            "Luiz Roberto Ramos",
+            "Michael Pratt",
+            "Ross C. Brownson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.2016-0626",
+        "title": "Worldwide Surveillance, Policy, and Research on Physical Activity and Health: The Global Observatory for Physical Activity",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2017,
+        "citations": 86,
+        "authors": "Andrea Ramírez Varela, Michael Pratt, Kenneth E. Powell et al.",
+        "authors_list": [
+            "Andrea Ramírez Varela",
+            "Michael Pratt",
+            "Kenneth E. Powell",
+            "I‐Min Lee",
+            "Adrian Bauman",
+            "Gregory W. Heath",
+            "Rafaela Costa Martins",
+            "Harold W. Kohl",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Prevalence and associated factors of back pain in adults from southern Brazil: a population-based study.",
+        "journal": "PubMed",
+        "year": 2011,
+        "citations": 85,
+        "authors": "Gustavo Dorneles Ferreira, Marcelo Cozzensa da Silva, Aírton José Rombaldi et al.",
+        "authors_list": [
+            "Gustavo Dorneles Ferreira",
+            "Marcelo Cozzensa da Silva",
+            "Aírton José Rombaldi",
+            "Eduardo D. Wrege",
+            "Fernando Vinholes Siqueira",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 85,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s0034-89102012000100018",
+        "title": "Indicadores da institucionalização de idosos: estudo de casos e controles",
+        "journal": "Revista de Saúde Pública",
+        "year": 2012,
+        "citations": 85,
+        "authors": "Giovâni Firpo Del Duca, Shana Ginar da Silva, Elaine Thumé et al.",
+        "authors_list": [
+            "Giovâni Firpo Del Duca",
+            "Shana Ginar da Silva",
+            "Elaine Thumé",
+            "Iná S. Santos",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 85,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/rsp/a/spfGNXdSDTVyWxB4N8vcCbG/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.7.s2.s204",
+        "title": "Physical Activity Levels According to Physical and Social Environmental Factors in a Sample of Adults Living in South Brazil",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2010,
+        "citations": 85,
+        "authors": "Tales Costa Amorim, Mário Renato Azevedo, Pedro Curi Hallal",
+        "authors_list": [
+            "Tales Costa Amorim",
+            "Mário Renato Azevedo",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 85,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1600-9657.2009.00852.x",
+        "title": "Traumatic dental injuries in primary dentition: epidemiological study among preschool children in South Brazil",
+        "journal": "Dental Traumatology",
+        "year": 2010,
+        "citations": 85,
+        "authors": "Flávia Prietsch Wendt, Dione Dias Torriani, Maria Cecília Formoso Assunção et al.",
+        "authors_list": [
+            "Flávia Prietsch Wendt",
+            "Dione Dias Torriani",
+            "Maria Cecília Formoso Assunção",
+            "Ana Regina Romano",
+            "Maria Laura Menezes Bonow",
+            "Catiara Terra da Costa",
+            "Marília Leão Goettems",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 85,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1600-9657.2009.00852.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1183/09031936.00118808",
+        "title": "Occupational exposures and COPD: an ecological analysis of international data",
+        "journal": "European Respiratory Journal",
+        "year": 2008,
+        "citations": 85,
+        "authors": "Paul D. Blanc, Ana Menezes, Estel Plana et al.",
+        "authors_list": [
+            "Paul D. Blanc",
+            "Ana Menezes",
+            "Estel Plana",
+            "David M. Mannino",
+            "Pedro Curi Hallal",
+            "Kjell Torén",
+            "Mark D. Eisner",
+            "JP Zock"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 85,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://erj.ersjournals.com/content/33/2/298.full.pdf+html"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/1413-812320202511.29072020",
+        "title": "Prática de atividade física em meio à pandemia da COVID-19: estudo de base populacional em cidade do sul do Brasil",
+        "journal": "Ciência & Saúde Coletiva",
+        "year": 2020,
+        "citations": 84,
+        "authors": "Inácio Crochemore‐Silva, Alan Goularte Knuth, Andrea Wendt et al.",
+        "authors_list": [
+            "Inácio Crochemore‐Silva",
+            "Alan Goularte Knuth",
+            "Andrea Wendt",
+            "Bruno Pereira Nunes",
+            "Pedro Curi Hallal",
+            "Leonardo Pozza Santos",
+            "Jenifer Härter",
+            "Débora da Cruz Payão Pellegrini"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/csc/a/VgMDpDhJLhhVKGq5CJLqJGR/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.7.s2.s213",
+        "title": "Association Between Perceived Environmental Attributes and Physical Activity Among Adults in Recife, Brazil",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2010,
+        "citations": 81,
+        "authors": "Pedro Curi Hallal, Rodrigo Siqueira Reis, Diana C. Parra et al.",
+        "authors_list": [
+            "Pedro Curi Hallal",
+            "Rodrigo Siqueira Reis",
+            "Diana C. Parra",
+            "Christine M. Hoehner",
+            "Ross C. Brownson",
+            "Eduardo J. Simões"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s1413-35552011005000001",
+        "title": "Prevalência de dor nas costas e fatores associados em adultos do sul do Brasil: estudo de base populacional",
+        "journal": "Brazilian Journal of Physical Therapy",
+        "year": 2011,
+        "citations": 81,
+        "authors": "Gustavo Dias Ferreira, Marcelo Cozzensa da Silva, Aírton José Rombaldi et al.",
+        "authors_list": [
+            "Gustavo Dias Ferreira",
+            "Marcelo Cozzensa da Silva",
+            "Aírton José Rombaldi",
+            "Eduardo D. Wrege",
+            "Fernando Vinholes Siqueira",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.scielo.br/pdf/rbfis/v15n1/en_AOP 002_11.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s0102-311x2010000100008",
+        "title": "Avaliação do programa de promoção da atividade física Academia da Cidade de Recife, Pernambuco, Brasil: percepções de usuários e não-usuários",
+        "journal": "Cadernos de Saúde Pública",
+        "year": 2010,
+        "citations": 81,
+        "authors": "Pedro Curi Hallal, Maria Cecília Marinho Tenório, Rafael Miranda Tassitano et al.",
+        "authors_list": [
+            "Pedro Curi Hallal",
+            "Maria Cecília Marinho Tenório",
+            "Rafael Miranda Tassitano",
+            "Rodrigo Siqueira Reis",
+            "Yara Maria de Carvalho",
+            "Danielle Keylla Alencar Cruz",
+            "Wilson Damascena",
+            "Déborah Carvalho Malta"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/csp/a/79mMF9DvqzxwqSHF6NQP6Rs/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.7.s2.s131",
+        "title": "Project GUIA: A Model for Understanding and Promoting Physical Activity in Brazil and Latin America",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2010,
+        "citations": 78,
+        "authors": "Michael Pratt, Ross C. Brownson, Luiz Roberto Ramos et al.",
+        "authors_list": [
+            "Michael Pratt",
+            "Ross C. Brownson",
+            "Luiz Roberto Ramos",
+            "Déborah Carvalho Malta",
+            "Pedro Curi Hallal",
+            "Rodrigo Siqueira Reis",
+            "Diana C. Parra",
+            "Eduardo J. Simões"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/1479-5868-8-111",
+        "title": "Walking for leisure among adults from three Brazilian cities and its association with perceived environment attributes and personal factors",
+        "journal": "International Journal of Behavioral Nutrition and Physical Activity",
+        "year": 2011,
+        "citations": 78,
+        "authors": "Grace AO Gomes, Rodrigo Siqueira Reis, Diana C. Parra et al.",
+        "authors_list": [
+            "Grace AO Gomes",
+            "Rodrigo Siqueira Reis",
+            "Diana C. Parra",
+            "Isabela Ribeiro",
+            "Adriano Akira Ferreira Hino",
+            "Pedro Curi Hallal",
+            "Déborah Carvalho Malta",
+            "Ross C. Brownson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ijbnpa.biomedcentral.com/counter/pdf/10.1186/1479-5868-8-111"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0140-6736(21)01165-x",
+        "title": "An evidence-based assessment of the impact of the Olympic Games on population levels of physical activity",
+        "journal": "The Lancet",
+        "year": 2021,
+        "citations": 78,
+        "authors": "Adrian Bauman, Masamitsu Kamada, Rodrigo Siqueira Reis et al.",
+        "authors_list": [
+            "Adrian Bauman",
+            "Masamitsu Kamada",
+            "Rodrigo Siqueira Reis",
+            "Richard P. Troiano",
+            "Ding Ding",
+            "Karen Milton",
+            "Niamh Murphy",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ueaeprints.uea.ac.uk/id/eprint/80719/1/Accepted_Manuscript.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/1471-2288-12-65",
+        "title": "Quality of DNA extracted from saliva samples collected with the Oragene™ DNA self-collection kit",
+        "journal": "BMC Medical Research Methodology",
+        "year": 2012,
+        "citations": 78,
+        "authors": "Ana Paula Nunes, Isabel Oliveira, Betânia Rodrigues dos Santos et al.",
+        "authors_list": [
+            "Ana Paula Nunes",
+            "Isabel Oliveira",
+            "Betânia Rodrigues dos Santos",
+            "Cristini Millech",
+            "Liziane P Silva",
+            "David Alejandro González",
+            "Pedro Curi Hallal",
+            "Ana Maria Baptista Menezes",
+            "Cora L. Araújo",
+            "Fernando C. Barros"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/1471-2288-12-65"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/1471-2458-6-224",
+        "title": "Physical activity and medicine use: evidence from a population-based study",
+        "journal": "BMC Public Health",
+        "year": 2006,
+        "citations": 77,
+        "authors": "Andréa Dâmaso Bertoldi, Pedro Curi Hallal, Aluísio J. D. Barros",
+        "authors_list": [
+            "Andréa Dâmaso Bertoldi",
+            "Pedro Curi Hallal",
+            "Aluísio J. D. Barros"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/1471-2458-6-224"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.2017-0262",
+        "title": "Overall and Leisure-Time Physical Activity Among Brazilian Adults: National Survey Based on the Global Physical Activity Questionnaire",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2017,
+        "citations": 77,
+        "authors": "Inácio Crochemore M. da Silva, Grégore Iven Mielke, Andréa Dâmaso Bertoldi et al.",
+        "authors_list": [
+            "Inácio Crochemore M. da Silva",
+            "Grégore Iven Mielke",
+            "Andréa Dâmaso Bertoldi",
+            "Paulo Sérgio Dourado Arrais",
+            "Vera Lúcia Luiza",
+            "Sotero Serrate Mengue",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.humankinetics.com/downloadpdf/journals/jpah/15/3/article-p212.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41371-018-0055-0",
+        "title": "Exercise in patients with hypertension and chronic kidney disease: a randomized controlled trial",
+        "journal": "Journal of Human Hypertension",
+        "year": 2018,
+        "citations": 76,
+        "authors": "Franklin Corrêa Barcellos, Fabrício Boscolo Del Vecchio, Annelise Reges et al.",
+        "authors_list": [
+            "Franklin Corrêa Barcellos",
+            "Fabrício Boscolo Del Vecchio",
+            "Annelise Reges",
+            "Grégore Iven Mielke",
+            "Iná S. Santos",
+            "Daniel Umpierre",
+            "Maristela Böhlke",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0140-6736(14)61321-0",
+        "title": "The Lancet Physical Activity Observatory: promoting physical activity worldwide",
+        "journal": "The Lancet",
+        "year": 2014,
+        "citations": 74,
+        "authors": "Pedro Curi Hallal, Rafaela Costa Martins, Andrea Ramírez Varela",
+        "authors_list": [
+            "Pedro Curi Hallal",
+            "Rafaela Costa Martins",
+            "Andrea Ramírez Varela"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ypmed.2017.10.020",
+        "title": "Mapping the historical development of physical activity and health research: A structured literature review and citation network analysis",
+        "journal": "Preventive Medicine",
+        "year": 2018,
+        "citations": 74,
+        "authors": "Andrea Ramírez Varela, Michael Pratt, Jenine K. Harris et al.",
+        "authors_list": [
+            "Andrea Ramírez Varela",
+            "Michael Pratt",
+            "Jenine K. Harris",
+            "Jesse D. Lecy",
+            "Deborah Salvo",
+            "Ross C. Brownson",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.5123/s1679-49742015000200010",
+        "title": "Prática de atividade física e hábito de assistir à televisão entre adultos no Brasil: Pesquisa Nacional de Saúde 2013",
+        "journal": "Epidemiologia e Serviços de Saúde",
+        "year": 2015,
+        "citations": 73,
+        "authors": "Grégore Iven Mielke, Pedro Curi Hallal, Gisele Balbino Araújo Rodrigues et al.",
+        "authors_list": [
+            "Grégore Iven Mielke",
+            "Pedro Curi Hallal",
+            "Gisele Balbino Araújo Rodrigues",
+            "Célia Landmann Szwarcwald",
+            "Flávia Vinhaes Santos",
+            "Déborah Carvalho Malta"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://scielo.iec.pa.gov.br/scielo.php?script=sci_arttext&pid=S1679-49742015000200010&lng=en&nrm=iso&tlng=en"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s1413-81232011001000007",
+        "title": "Prática de atividade física e sedentarismo em brasileiros: resultados da Pesquisa Nacional por Amostra de Domicílios (PNAD) 2008",
+        "journal": "Ciência & Saúde Coletiva",
+        "year": 2011,
+        "citations": 73,
+        "authors": "Alan Goularte Knuth, Déborah Carvalho Malta, Samuel Carvalho Dumith et al.",
+        "authors_list": [
+            "Alan Goularte Knuth",
+            "Déborah Carvalho Malta",
+            "Samuel Carvalho Dumith",
+            "Cimar Azeredo Pereira",
+            "Otaliba Libânio de Morais Neto",
+            "José Gomes Temporäo",
+            "Gerson Oliveira Penna",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/csc/a/RHLPWLGjwx6rQFsyts3bMws/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1136/jech-2015-205763",
+        "title": "Association between maternal education and objectively measured physical activity and sedentary time in adolescents",
+        "journal": "Journal of Epidemiology & Community Health",
+        "year": 2016,
+        "citations": 73,
+        "authors": "Lauren B. Sherar, Tom Griffin, Ulf Ekelund et al.",
+        "authors_list": [
+            "Lauren B. Sherar",
+            "Tom Griffin",
+            "Ulf Ekelund",
+            "Ashley R Cooper",
+            "Dale Esliger",
+            "Esther van Sluijs",
+            "Lars Bo Andersen",
+            "Greet Cardon",
+            "Rachel Davey",
+            "Karsten Froberg",
+            "Pedro Curi Hallal",
+            "Kathleen F. Janz",
+            "Katarzyna Kordas",
+            "Susi Kriemler",
+            "Russell R. Pate",
+            "Jardena J. Puder",
+            "Luís B. Sardinha",
+            "Anna Timperio",
+            "Angie S Page"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://jech.bmj.com/content/jech/70/6/541.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/1471-2458-13-794",
+        "title": "Physical activity counseling in primary health care in Brazil: a national study on prevalence and associated factors",
+        "journal": "BMC Public Health",
+        "year": 2013,
+        "citations": 72,
+        "authors": "Alex Antônio Florindo, Grégore Iven Mielke, Grace Angélica de Oliveira Gomes et al.",
+        "authors_list": [
+            "Alex Antônio Florindo",
+            "Grégore Iven Mielke",
+            "Grace Angélica de Oliveira Gomes",
+            "Luiz Roberto Ramos",
+            "M Bracco",
+            "Diana C. Parra",
+            "Eduardo J. Simões",
+            "Felipe Lobelo",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/1471-2458-13-794"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/s12966-020-01071-x",
+        "title": "Global, regional, and national trends and patterns in physical activity research since 1950: a systematic review",
+        "journal": "International Journal of Behavioral Nutrition and Physical Activity",
+        "year": 2021,
+        "citations": 72,
+        "authors": "Andrea Ramírez Varela, Glória Isabel Niño Cruz, Pedro Curi Hallal et al.",
+        "authors_list": [
+            "Andrea Ramírez Varela",
+            "Glória Isabel Niño Cruz",
+            "Pedro Curi Hallal",
+            "Cauane Blumenberg",
+            "Shana Ginar da Silva",
+            "Deborah Salvo",
+            "Rafaela Costa Martins",
+            "Bruna Gonçalves Cordeiro da Silva",
+            "Eugen Reséndiz",
+            "Maria Catalina del Portillo",
+            "Luciana Zaranza Monteiro",
+            "Selina Khoo",
+            "Kar Hau Chong",
+            "Marcelo Cozzensa da Silva",
+            "Alice Mannocci",
+            "Ding Ding",
+            "Michael Pratt"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ijbnpa.biomedcentral.com/track/pdf/10.1186/s12966-020-01071-x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.6.2.163",
+        "title": "Effectiveness of a School-Based Intervention on Physical Activity for High School Students in Brazil: The Saude na Boa Project",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2009,
+        "citations": 72,
+        "authors": "Mauro Virgílio Gomes de Barros, Markus Vinı́cius Nahas, Pedro Curi Hallal et al.",
+        "authors_list": [
+            "Mauro Virgílio Gomes de Barros",
+            "Markus Vinı́cius Nahas",
+            "Pedro Curi Hallal",
+            "José Cazuza de Farias Júnior",
+            "Alex Antônio Florindo",
+            "Simone Storino Honda Barros"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0016125",
+        "title": "Does Birth Weight Influence Physical Activity in Youth? A Combined Analysis of Four Studies Using Objectively Measured Physical Activity",
+        "journal": "PLoS ONE",
+        "year": 2011,
+        "citations": 71,
+        "authors": "Charlotte L Ridgway, Søren Brage, Stephen J. Sharp et al.",
+        "authors_list": [
+            "Charlotte L Ridgway",
+            "Søren Brage",
+            "Stephen J. Sharp",
+            "Kirsten Corder",
+            "Kate Westgate",
+            "Esther van Sluijs",
+            "Ian Goodyer",
+            "Pedro Curi Hallal",
+            "Sigmund A. Anderssen",
+            "Luís B. Sardinha",
+            "Lars Bo Andersen",
+            "Ulf Ekelund"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0016125&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/1413-81232020256.1.09632020",
+        "title": "Evolução da prevalência de infecção por COVID-19 no Rio Grande do Sul, Brasil: inquéritos sorológicos seriados",
+        "journal": "Ciência & Saúde Coletiva",
+        "year": 2020,
+        "citations": 68,
+        "authors": "Pedro Curi Hallal, Bernardo Lessa Horta, Aluísio J. D. Barros et al.",
+        "authors_list": [
+            "Pedro Curi Hallal",
+            "Bernardo Lessa Horta",
+            "Aluísio J. D. Barros",
+            "Odir Antônio Dellagostin",
+            "Fernando Pires Hartwig",
+            "Lúcia Campos Pellanda",
+            "Cláudio J. Struchiner",
+            "Marcelo Nascimento Burattini",
+            "Mariângela Freitas da Silveira",
+            "Ana Maria Baptista Menezes",
+            "Fernando C. Barros",
+            "César G. Victora"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/csc/a/KBKX4tnMGDpjzBj7qNqGvqw/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.amepre.2012.10.014",
+        "title": "Bicycling and Walking for Transportation in Three Brazilian Cities",
+        "journal": "American Journal of Preventive Medicine",
+        "year": 2013,
+        "citations": 67,
+        "authors": "Rodrigo Siqueira Reis, Adriano Akira Ferreira Hino, Diana C. Parra et al.",
+        "authors_list": [
+            "Rodrigo Siqueira Reis",
+            "Adriano Akira Ferreira Hino",
+            "Diana C. Parra",
+            "Pedro Curi Hallal",
+            "Ross C. Brownson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/4763277"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.atherosclerosis.2015.09.005",
+        "title": "Objectively measured physical activity and sedentary-time are associated with arterial stiffness in Brazilian young adults",
+        "journal": "Atherosclerosis",
+        "year": 2015,
+        "citations": 67,
+        "authors": "Bernardo Lessa Horta, Beatriz D. Schaan, Renata Moraes Bielemann et al.",
+        "authors_list": [
+            "Bernardo Lessa Horta",
+            "Beatriz D. Schaan",
+            "Renata Moraes Bielemann",
+            "Carolina Ávila Vianna",
+            "Denise Petrucci Gigante",
+            "Fernando C. Barros",
+            "Ulf Ekelund",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.atherosclerosis-journal.com/article/S0021915015301179/pdf"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Prática de atividade física e fatores associados em adolescentes no Nordeste do Brasil",
+        "journal": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+        "year": 2012,
+        "citations": 66,
+        "authors": "José Cazuza de Farias Júnior, Adair da Silva Lopes, Jorge Mota et al.",
+        "authors_list": [
+            "José Cazuza de Farias Júnior",
+            "Adair da Silva Lopes",
+            "Jorge Mota",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ypmed.2013.10.023",
+        "title": "Personal, social and environmental correlates of physical activity in adults from Curitiba, Brazil",
+        "journal": "Preventive Medicine",
+        "year": 2013,
+        "citations": 65,
+        "authors": "Cassiano Ricardo Rech, Rodrigo Siqueira Reis, Adriano Akira Ferreira Hino et al.",
+        "authors_list": [
+            "Cassiano Ricardo Rech",
+            "Rodrigo Siqueira Reis",
+            "Adriano Akira Ferreira Hino",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1249/mss.0b013e3181e1fe8e",
+        "title": "Time Trends in Physical Activity in the State of São Paulo, Brazil",
+        "journal": "Medicine & Science in Sports & Exercise",
+        "year": 2010,
+        "citations": 62,
+        "authors": "Victor Keihan Rodrigues Matsudo, Sandra Mahecha Matsudo, Timóteo Leandro Araújo et al.",
+        "authors_list": [
+            "Victor Keihan Rodrigues Matsudo",
+            "Sandra Mahecha Matsudo",
+            "Timóteo Leandro Araújo",
+            "Douglas Roque Andrade",
+            "Luís Carlos de Oliveira",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1590/s0034-89102010000300009",
+        "title": "Prevalence and correlates of physical activity among adolescents from Southern Brazil",
+        "journal": "Revista de Saúde Pública",
+        "year": 2010,
+        "citations": 61,
+        "authors": "Samuel Carvalho Dumith, Marlos Rodrigues Domingues, Denise Petrucci Gigante et al.",
+        "authors_list": [
+            "Samuel Carvalho Dumith",
+            "Marlos Rodrigues Domingues",
+            "Denise Petrucci Gigante",
+            "Pedro Curi Hallal",
+            "Ana Maria Baptista Menezes",
+            "Harold W. Kohl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/rsp/a/QcwSjcnFGhBvrWB98NMWVNm/?lang=en&format=pdf"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Atividade física em adolescentes brasileiros: uma revisão sistemática",
+        "journal": "",
+        "year": 2007,
+        "citations": 60,
+        "authors": "Rafael Miranda Tassitano, Jorge Bezerra, Maria Cecília Marinho Tenório et al.",
+        "authors_list": [
+            "Rafael Miranda Tassitano",
+            "Jorge Bezerra",
+            "Maria Cecília Marinho Tenório",
+            "Viviane Colares",
+            "Mauro Virgílio Gomes de Barros",
+            "Pedro Curi Hallal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.2021-0757",
+        "title": "Physical Activity Guidelines for the Brazilian Population: Recommendations Report",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2022,
+        "citations": 60,
+        "authors": "Daniel Umpierre, Christianne de Faria Coelho‐Ravagnani, Maria Cecília Marinho Tenório et al.",
+        "authors_list": [
+            "Daniel Umpierre",
+            "Christianne de Faria Coelho‐Ravagnani",
+            "Maria Cecília Marinho Tenório",
+            "Douglas Roque Andrade",
+            "Roseanne Autran",
+            "Mauro Virgílio Gomes de Barros",
+            "Tânia Rosane Bertoldo Benedetti",
+            "Fabiana Vieira Santos Azevedo Cavalcante",
+            "Edílson Serpeloni Cyrino",
+            "Samuel Carvalho Dumith",
+            "Alex Antônio Florindo",
+            "Leandro García",
+            "Sofia Wolker Manta",
+            "Grégore Iven Mielke",
+            "Raphael Mendes Ritti‐Dias",
+            "Lorena Lima Magalhães",
+            "Paula Fabrício Sandreschi",
+            "Juliana Rezende Melo da Silva",
+            "Kelly Samara da Silva",
+            "Fernando Vinholes Siqueira",
+            "Pedro Curi Hallal",
+            "_ _"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pure.qub.ac.uk/en/publications/ae2d90b3-cef6-42e2-907f-1dd0fc6ce13d"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/cdoe.12113",
+        "title": "Dental trauma: prevalence and risk factors in schoolchildren",
+        "journal": "Community Dentistry And Oral Epidemiology",
+        "year": 2014,
+        "citations": 60,
+        "authors": "Marília Leão Goettems, Dione Dias Torriani, Pedro Curi Hallal et al.",
+        "authors_list": [
+            "Marília Leão Goettems",
+            "Dione Dias Torriani",
+            "Pedro Curi Hallal",
+            "Marcos Britto Corrêa",
+            "Flávio Fernando Demarco"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ypmed.2012.11.007",
+        "title": "Prevalence and sociodemographic correlates of all domains of physical activity in Brazilian adults",
+        "journal": "Preventive Medicine",
+        "year": 2012,
+        "citations": 60,
+        "authors": "Giovâni Firpo Del Duca, Markus Vinı́cius Nahas, Leandro García et al.",
+        "authors_list": [
+            "Giovâni Firpo Del Duca",
+            "Markus Vinı́cius Nahas",
+            "Leandro García",
+            "Jorge Mota",
+            "Pedro Curi Hallal",
+            "Marco Aurélio Peres"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Atividade física e fatores associados em adultos de área rural em Minas Gerais, Brasil",
+        "journal": "Redalyc (Universidad Autónoma del Estado de México)",
+        "year": 2010,
+        "citations": 59,
+        "authors": "Paula Gonçalves Bicalho, Pedro Curi Hallal, Andréa Gazzinelli et al.",
+        "authors_list": [
+            "Paula Gonçalves Bicalho",
+            "Pedro Curi Hallal",
+            "Andréa Gazzinelli",
+            "Alan Goularte Knuth",
+            "Gustavo Velásquez-Meléndez"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1123/jpah.2015-0355",
+        "title": "Built Environment and Walking Behavior Among Brazilian Older Adults: A Population-Based Study",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2015,
+        "citations": 59,
+        "authors": "Maruí Weber Corseuil Giehl, Pedro Curi Hallal, Cláudia Weber Corseuil et al.",
+        "authors_list": [
+            "Maruí Weber Corseuil Giehl",
+            "Pedro Curi Hallal",
+            "Cláudia Weber Corseuil",
+            "Ione Jayce Ceola Schneider",
+            "Eleonora d’Orsi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ypmed.2016.09.032",
+        "title": "Effectiveness of a scaled up physical activity intervention in Brazil: A natural experiment",
+        "journal": "Preventive Medicine",
+        "year": 2016,
+        "citations": 58,
+        "authors": "Eduardo J. Simões, Pedro Curi Hallal, Fernando Vinholes Siqueira et al.",
+        "authors_list": [
+            "Eduardo J. Simões",
+            "Pedro Curi Hallal",
+            "Fernando Vinholes Siqueira",
+            "Chester Schmaltz",
+            "Danielle Menor",
+            "Déborah Carvalho Malta",
+            "Hebe Duarte",
+            "Adriano Akira Ferreira Hino",
+            "Grégore Iven Mielke",
+            "Michael Pratt",
+            "Rodrigo Siqueira Reis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0091743516302900/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.rppede.2015.09.002",
+        "title": "Prevalence of sedentary behavior and its correlates among primary and secondary school students",
+        "journal": "Revista Paulista de Pediatria (English Edition)",
+        "year": 2015,
+        "citations": 58,
+        "authors": "Rodrigo Wiltgen Ferreira, Aírton José Rombaldi, Luiza Isnardi Cardoso Ricardo et al.",
+        "authors_list": [
+            "Rodrigo Wiltgen Ferreira",
+            "Aírton José Rombaldi",
+            "Luiza Isnardi Cardoso Ricardo",
+            "Pedro Curi Hallal",
+            "Mário Renato Azevedo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S2359348215000573/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s0140-6736(16)30581-5",
+        "title": "Progress in physical activity over the Olympic quadrennium",
+        "journal": "The Lancet",
+        "year": 2016,
+        "citations": 747,
+        "authors": "James F Sallis, Fiona Bull, Regina Guthold et al.",
+        "authors_list": [
+            "James F Sallis",
+            "Fiona Bull",
+            "Regina Guthold",
+            "Gregory W Heath",
+            "Shigeru Inoue",
+            "Paul Kelly",
+            "Adewale L Oyeyemi",
+            "Lilian G Perez",
+            "Justin Richards",
+            "Pedro C Hallal"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 747
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.ypmed.2011.02.017",
+        "title": "Worldwide prevalence of physical inactivity and its association with human development index in 76 countries",
+        "journal": "Preventive Medicine",
+        "year": 2011,
+        "citations": 390,
+        "authors": "Samuel C. Dumith, Pedro C. Hallal, Rodrigo S. Reis et al.",
+        "authors_list": [
+            "Samuel C. Dumith",
+            "Pedro C. Hallal",
+            "Rodrigo S. Reis",
+            "Harold W. Kohl"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 390
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://repositorio.furg.br/handle/1/4068"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1007/s00038-006-5062-1",
+        "title": "Gender differences in leisure-time physical activity",
+        "journal": "International Journal of Public Health",
+        "year": 2007,
+        "citations": 395,
+        "authors": "Mario Renato Azevedo, Cora Luiza Pavin Araújo, Felipe Fossati Reichert et al.",
+        "authors_list": [
+            "Mario Renato Azevedo",
+            "Cora Luiza Pavin Araújo",
+            "Felipe Fossati Reichert",
+            "Fernando Vinholes Siqueira",
+            "Marcelo Cozzensa da Silva",
+            "Pedro Curi Hallal"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 395
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/s00038-006-5062-1.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.2105/ajph.2005.070144",
+        "title": "The Role of Perceived Personal Barriers to Engagement in Leisure-Time Physical Activity",
+        "journal": "American Journal of Public Health",
+        "year": 2007,
+        "citations": 312,
+        "authors": "Felipe F. Reichert, Aluísio J.D. Barros, Marlos R. Domingues et al.",
+        "authors_list": [
+            "Felipe F. Reichert",
+            "Aluísio J.D. Barros",
+            "Marlos R. Domingues",
+            "Pedro C. Hallal"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 312
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/1805028"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1123/jpah.7.s2.s259",
+        "title": "Lessons Learned After 10 Years of IPAQ Use in Brazil and Colombia",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2010,
+        "citations": 219,
+        "authors": "Pedro C. Hallal, Luis Fernando Gomez, Diana C. Parra et al.",
+        "authors_list": [
+            "Pedro C. Hallal",
+            "Luis Fernando Gomez",
+            "Diana C. Parra",
+            "Felipe Lobelo",
+            "Janeth Mosquera",
+            "Alex A. Florindo",
+            "Rodrigo S. Reis",
+            "Michael Pratt",
+            "Olga L. Sarmiento"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 219
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1123/jpah.6.5.548",
+        "title": "Temporal Trends in Physical Activity: A Systematic Review",
+        "journal": "Journal of Physical Activity and Health",
+        "year": 2009,
+        "citations": 236,
+        "authors": "Alan G. Knuth, Pedro C. Hallal",
+        "authors_list": [
+            "Alan G. Knuth",
+            "Pedro C. Hallal"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 236
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1590/s0034-89102007000100010",
+        "title": "Tracking of physical activity from adolescence to adulthood: a population-based study",
+        "journal": "Revista de Saúde Pública",
+        "year": 2007,
+        "citations": 105,
+        "authors": "Mario Renato Azevedo, Cora Luiza Araújo, Marcelo Cozzensa da Silva et al.",
+        "authors_list": [
+            "Mario Renato Azevedo",
+            "Cora Luiza Araújo",
+            "Marcelo Cozzensa da Silva",
+            "Pedro Curi Hallal"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 105
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/rsp/a/hmxfBRW5t4vSyjnXmCcjhqh/?lang=en&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1093/ckj/sfv099",
+        "title": "Effects of exercise in the whole spectrum of chronic kidney disease: a systematic review",
+        "journal": "Clinical Kidney Journal",
+        "year": 2015,
+        "citations": 175,
+        "authors": "Franklin C. Barcellos, Iná S. Santos, Daniel Umpierre et al.",
+        "authors_list": [
+            "Franklin C. Barcellos",
+            "Iná S. Santos",
+            "Daniel Umpierre",
+            "Maristela Bohlke",
+            "Pedro C. Hallal"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 175
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/ckj/article-pdf/8/6/753/1190046/sfv099.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1186/s12966-023-01496-0",
+        "title": "Gender differences in the distribution of children’s physical activity: evidence from nine countries",
+        "journal": "International Journal of Behavioral Nutrition and Physical Activity",
+        "year": null,
+        "citations": 109,
+        "authors": "Luke Kretschmer, Gul Deniz Salali, Lars Bo Andersen et al.",
+        "authors_list": [
+            "Luke Kretschmer",
+            "Gul Deniz Salali",
+            "Lars Bo Andersen",
+            "Pedro C. Hallal",
+            "Kate Northstone",
+            "Luís B. Sardinha",
+            "Mark Dyble",
+            "David Bann",
+            "L. B. Andersen",
+            "S. Anderssen",
+            "G. Cardon",
+            "R. Davey",
+            "R. Jago",
+            "K. F. Janz",
+            "S. Kriemler",
+            "N. Møller",
+            "K. Northstone",
+            "R. Pate",
+            "J. J. Puder",
+            "J. Reilly",
+            "J. Salmon",
+            "L. B. Sardinha",
+            "E. M. F. van Sluijs"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 109
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ijbnpa.biomedcentral.com/counter/pdf/10.1186/s12966-023-01496-0"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.vaccine.2021.04.046",
+        "title": "Missed childhood immunizations during the COVID-19 pandemic in Brazil: Analyses of routine statistics and of a national household survey",
+        "journal": "Vaccine",
+        "year": 2021,
+        "citations": 75,
+        "authors": "Mariangela F. Silveira, Cristian T. Tonial, Ana Goretti K. Maranhão et al.",
+        "authors_list": [
+            "Mariangela F. Silveira",
+            "Cristian T. Tonial",
+            "Ana Goretti K. Maranhão",
+            "Antonia M.S. Teixeira",
+            "Pedro C. Hallal",
+            "Ana Maria B. Menezes",
+            "Bernardo L. Horta",
+            "Fernando P. Hartwig",
+            "Aluisio J.D. Barros",
+            "Cesar G. Victora"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 75
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/9756801"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1590/1980-549720200032",
+        "title": "O que é urgente e necessário para subsidiar as políticas de enfrentamento da pandemia de COVID-19 no Brasil?",
+        "journal": "Revista Brasileira de Epidemiologia",
+        "year": null,
+        "citations": 66,
+        "authors": "Mauricio Lima Barreto, Aluisio Jardim Dornellas de Barros, Marília Sá Carvalho et al.",
+        "authors_list": [
+            "Mauricio Lima Barreto",
+            "Aluisio Jardim Dornellas de Barros",
+            "Marília Sá Carvalho",
+            "Claudia Torres Codeço",
+            "Pedro Rodrigues Curi Hallal",
+            "Roberto de Andrade Medronho",
+            "Claudio José Struchiner",
+            "Cesar Gomes Victora",
+            "Guilherme Loureiro Werneck"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 66
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/rbepid/a/6rBw5h7FvZThJDcwS9WJkfw/?lang=pt&format=pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1590/s0102-311x2005000200024",
+        "title": "Physical activity in adults from two Brazilian areas: similarities and differences",
+        "journal": "Cadernos de Saúde Pública",
+        "year": 2005,
+        "citations": 56,
+        "authors": "Pedro C. Hallal, Sandra M. Matsudo, Victor K. R. Matsudo et al.",
+        "authors_list": [
+            "Pedro C. Hallal",
+            "Sandra M. Matsudo",
+            "Victor K. R. Matsudo",
+            "Timóteo L. Araújo",
+            "Douglas R. Andrade",
+            "Andréa D. Bertoldi"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 56
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.scielo.br/j/csp/a/gkyzjcpxWCxKmjM4DTShS9c/?lang=en&format=pdf"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "url": "https://www.senate.illinois.edu/cc0201.asp",
+        "snippet": "Bryan A. White, Professor, Department of Animal Sciences, has received a broad scientific training in biology (B.A., 1978), microbiology (Ph.D., 1982), and ...",
+        "category": "News",
+        "relevance_score": 95,
+        "reasoning": "The snippet appears to be reporting on an achievement or event related to a faculty member at the University of Illinois, suggesting it is a news item about one of the author's colleagues."
+    },
+    {
+        "url": "https://www.congressgastrofunction.org/proceedings/1993%20Conference%20on%20Rumen%20Function.pdf",
+        "snippet": "The Rumen. Function Conference has been meeting in the Congress Hotel since November ... Krause•, Bryan A. White, Robert A. Easter, and Roderick I ...",
+        "category": "Conference",
+        "relevance_score": 95,
+        "reasoning": "The URL indicates a proceedings page for the Rumen Function Conference, and the snippet mentions meeting attendees."
+    },
+    {
+        "url": "https://www.researchgate.net/scientific-contributions/Bryan-A-White-38277574",
+        "snippet": "These findings suggest that the gut microbiome is a potential therapeutic target for IC/BPS. ... rumen microbiota of goats in the CON group and BP group.",
+        "category": "Publication",
+        "relevance_score": 92,
+        "reasoning": "The snippet appears to be an excerpt from a research paper or publication, specifically discussing scientific findings and methodology."
+    },
+    {
+        "url": "https://www.sciencedirect.com/author/7401649990/bryan-a-white",
+        "snippet": "... microbiota and early events of colorectal ... Gut Microbiome of Coexisting BaAka Pygmies and Bantu Reflects Gradients of Traditional Subsistence Patterns.",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL appears to be an author page on a scientific publication website, and the snippet is about a research paper."
+    },
+    {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3899005/",
+        "snippet": "... rumen microbiome. One apparent finding was a strong ... Rumen microbiota from each of the 15 individual animals were sampled ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The URL is a PubMed Central (PMC) article, indicating it's an open-access publication."
+    },
+    {
+        "url": "https://www.nature.com/articles/ismej201662",
+        "snippet": "... rumen microbiome. The ability of these ... (2011) The role of the Rumen microbiota in determining the feed efficiency of dairy cows.",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The URL is from a academic journal and the snippet refers to a published research paper."
+    }
+]

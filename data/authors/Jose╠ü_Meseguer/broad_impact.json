@@ -1,0 +1,30 @@
+[
+    {
+        "url": "https://dblp.org/pid/m/JoseMeseguer",
+        "snippet": "List of computer science publications by José Meseguer. ... Algebraic Methodology and Software Technology, 12th International Conference, AMAST 2008, Urbana ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet lists José Meseguer's publications, which is a typical feature of academic publication databases like DBLP."
+    },
+    {
+        "url": "https://scholar.google.com/citations?user=KZFo7ZkAAAAJ&hl=en",
+        "snippet": "Jose Meseguer. Professor of Computer Science, University of Illinois at ... International Conference on Rewriting Techniques and Applications, 76-87, 2003.",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The snippet contains information about an academic publication, specifically a paper by Jose Meseguer at the International Conference on Rewriting Techniques and Applications."
+    },
+    {
+        "url": "http://meseguer-fest.ifi.uio.no/",
+        "snippet": "The Festschrift Symposium will honor Professor José Meseguer, who will celebrate his 65th birthday in 2015. José Meseguer is a leading computer science ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The snippet describes a symposium honoring a professor's birthday, indicating a news-worthy event."
+    },
+    {
+        "url": "https://www.youtube.com/@JoseBird",
+        "snippet": "From Revival to Reboot José. Multiple playlists 21 Streams. Rightwing Media Reviews José",
+        "category": "Media/Video",
+        "relevance_score": 75,
+        "reasoning": "The presence of a YouTube channel with multiple playlists and streams suggests that the content is likely in video format."
+    }
+]

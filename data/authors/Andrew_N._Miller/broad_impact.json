@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://sciprofiles.com/profile/AndrewNMiller",
+        "snippet": "Andrew N. Miller ... He has published over 150 scientific and popular papers on fungi and presented various fungal lectures and workshops to a variety of ...",
+        "category": "Publication",
+        "relevance_score": 100,
+        "reasoning": "The snippet describes the author's publications and lectures, indicating a professional profile of academic achievements."
+    },
+    {
+        "url": "https://directory.illinois.edu/detail?userId=amiller7@illinois.edu&widgetId=15",
+        "snippet": "Dr. Miller was elected secretary of the International Committee on the Taxonomy of Fungi in 2011 and currently serves as associate editor for Fungal Biology, ...",
+        "category": "Publication/Professional History",
+        "relevance_score": 95,
+        "reasoning": "The snippet provides a brief description of Dr. Miller's professional roles and affiliations, which is typical for academic profiles."
+    },
+    {
+        "url": "https://experts.illinois.edu/en/publications/testing-the-phylogenetic-utility-of-mcm7-in-the-ascomycota-2/",
+        "snippet": ", Andrew N. Miller. Illinois Natural History Survey. Research output: Contribution to conference › Abstract › peer-review. Overview. Original language, English ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "It is a research output page on an expert's publication profile, indicating academic work."
+    },
+    {
+        "url": "https://mycokeys.pensoft.net/article/1170/",
+        "snippet": "Methven; ANM, Andrew N. Miller; CS, Carol Shearer hyphomycetes ... Conference Abstracts · Conference Proceedings. SERVICES. For Authors · For ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is for an online publication hosted on Pensoft.net, a platform for open access scientific publications."
+    },
+    {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S105579032500003X",
+        "snippet": "Andrew N. Miller: Writing – review & editing, Investigation. Michelle Orozco-Quime: Writing – review & editing, Project administration, Investigation. Sundy ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is a ScienceDirect article and the snippet mentions authors' contributions, indicating an academic publication."
+    },
+    {
+        "url": "https://scholar.google.com/citations?user=kdZhaugAAAAJ&hl=en",
+        "snippet": "A higher-level phylogenetic classification of the Fungi ... Fungal identification using molecular tools: a primer for the natural products research community.",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL points to a Google Scholar citation profile, indicating the author's publication history."
+    },
+    {
+        "url": "https://www.researchgate.net/profile/Andrew-Miller",
+        "snippet": "... phylogenetic contributions on fungal genera and species emphasis in south China ... Fungal Systematics and Evolution. Andrew N Miller.",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "Profile page on ResearchGate, likely containing information about Andrew Miller's academic publications and research interests."
+    },
+    {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11856669/",
+        "snippet": "1,*, Andrew N Miller. Andrew N Miller. 2Illinois Natural History ... Conference of the Extreme Science and Engineering Discovery ...",
+        "category": "Publication",
+        "relevance_score": 80,
+        "reasoning": "The URL points to a PubMed Central article (PMC number) which suggests it is a published research paper."
+    }
+]

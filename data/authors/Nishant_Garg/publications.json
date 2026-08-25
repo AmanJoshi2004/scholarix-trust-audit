@@ -1,0 +1,2738 @@
+[
+    {
+        "doi": "https://doi.org/10.1038/s41467-024-53993-w",
+        "title": "Automated estimation of cementitious sorptivity via computer vision",
+        "journal": "Nature Communications",
+        "year": 2024,
+        "citations": 154,
+        "authors": "Hossein Kabir, Jordan Wu, Sunav Dahal et al.",
+        "authors_list": [
+            "Hossein Kabir",
+            "Jordan Wu",
+            "Sunav Dahal",
+            "Tony Joo",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 154,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-024-53993-w.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41598-023-28763-1",
+        "title": "Machine learning enabled orthogonal camera goniometry for accurate and robust contact angle measurements",
+        "journal": "Scientific Reports",
+        "year": 2023,
+        "citations": 150,
+        "authors": "Hossein Kabir, Nishant Garg",
+        "authors_list": [
+            "Hossein Kabir",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 150,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41598-023-28763-1.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cemconres.2015.08.006",
+        "title": "Pozzolanic reactivity of a calcined interstratified illite/smectite (70/30) clay",
+        "journal": "Cement and Concrete Research",
+        "year": 2015,
+        "citations": 146,
+        "authors": "Nishant Garg, Jørgen Skibsted",
+        "authors_list": [
+            "Nishant Garg",
+            "Jørgen Skibsted"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 146,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp502529d",
+        "title": "Thermal Activation of a Pure Montmorillonite Clay and Its Reactivity in Cementitious Systems",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2014,
+        "citations": 136,
+        "authors": "Nishant Garg, Jørgen Skibsted",
+        "authors_list": [
+            "Nishant Garg",
+            "Jørgen Skibsted"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 136,
+            "crossref": 131
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c7ta00412e",
+        "title": "Mechanism of zinc oxide retardation in alkali-activated materials: an in situ X-ray pair distribution function investigation",
+        "journal": "Journal of Materials Chemistry A",
+        "year": 2017,
+        "citations": 125,
+        "authors": "Nishant Garg, Claire E. White",
+        "authors_list": [
+            "Nishant Garg",
+            "Claire E. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 125,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/jace.16663",
+        "title": "Dissolution kinetics of calcined kaolinite and montmorillonite in alkaline conditions: Evidence for reactive Al(V) sites",
+        "journal": "Journal of the American Ceramic Society",
+        "year": 2019,
+        "citations": 116,
+        "authors": "Nishant Garg, Jørgen Skibsted",
+        "authors_list": [
+            "Nishant Garg",
+            "Jørgen Skibsted"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cemconres.2013.06.009",
+        "title": "A Raman spectroscopic study of the evolution of sulfates and hydroxides in cement–fly ash pastes",
+        "journal": "Cement and Concrete Research",
+        "year": 2013,
+        "citations": 68,
+        "authors": "Nishant Garg, Kejin Wang, Steve W. Martin",
+        "authors_list": [
+            "Nishant Garg",
+            "Kejin Wang",
+            "Steve W. Martin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 67
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.jpcc.9b06412",
+        "title": "Nanoscale Ordering and Depolymerization of Calcium Silicate Hydrates in the Presence of Alkalis",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2019,
+        "citations": 57,
+        "authors": "Nishant Garg, V. Ongun Özçelik, Jørgen Skibsted et al.",
+        "authors_list": [
+            "Nishant Garg",
+            "V. Ongun Özçelik",
+            "Jørgen Skibsted",
+            "Claire E. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 55
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cscm.2023.e02832",
+        "title": "Quantifying the global warming potential of low carbon concrete mixes: Comparison of existing life cycle analysis tools",
+        "journal": "Case Studies in Construction Materials",
+        "year": 2023,
+        "citations": 45,
+        "authors": "Andrew Witte, Nishant Garg",
+        "authors_list": [
+            "Andrew Witte",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.cscm.2023.e02832"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.clay.2022.106486",
+        "title": "Evolution of kaolinite morphology upon exfoliation and dissolution: Evidence for nanoscale layer thinning in metakaolin",
+        "journal": "Applied Clay Science",
+        "year": 2022,
+        "citations": 40,
+        "authors": "Pablo Romero, Nishant Garg",
+        "authors_list": [
+            "Pablo Romero",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 40,
+            "crossref": 38
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41529-023-00371-4",
+        "title": "Rapid prediction of cementitious initial sorptivity via surface wettability",
+        "journal": "npj Materials Degradation",
+        "year": 2023,
+        "citations": 38,
+        "authors": "Hossein Kabir, Nishant Garg",
+        "authors_list": [
+            "Hossein Kabir",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 38,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41529-023-00371-4.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cemconres.2021.106592",
+        "title": "Enabling phase quantification of anhydrous cements via Raman imaging",
+        "journal": "Cement and Concrete Research",
+        "year": 2021,
+        "citations": 36,
+        "authors": "Krishna C. Polavaram, Nishant Garg",
+        "authors_list": [
+            "Krishna C. Polavaram",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 36,
+            "crossref": 36
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1976937"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.resconrec.2021.106009",
+        "title": "The chemical and physical origin of incineration ash reactivity in cementitious systems",
+        "journal": "Resources Conservation and Recycling",
+        "year": 2021,
+        "citations": 36,
+        "authors": "Vikram Kumar, Nishant Garg",
+        "authors_list": [
+            "Vikram Kumar",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 36,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1828778"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cemconres.2024.107612",
+        "title": "Particle shape, crystallinity, and degree of polymerization of fly ash via combined SEM-EDS and Raman spectroscopy",
+        "journal": "Cement and Concrete Research",
+        "year": 2024,
+        "citations": 28,
+        "authors": "Andrew Witte, Nishant Garg",
+        "authors_list": [
+            "Andrew Witte",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 27,
+            "crossref": 28
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.cemconres.2024.107612"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cemconres.2024.107662",
+        "title": "Quantitative phase analysis of anhydrous Portland cement via combined X-ray diffraction and Raman imaging: Synergy and impact of analysis parameters",
+        "journal": "Cement and Concrete Research",
+        "year": 2024,
+        "citations": 25,
+        "authors": "Chirayu Kothari, Nishant Garg",
+        "authors_list": [
+            "Chirayu Kothari",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 25,
+            "crossref": 23
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.cemconres.2024.107662"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jhazmat.2023.132462",
+        "title": "Enhancing phase identification in waste-to-energy fly ashes: Role of Raman spectroscopy, background fluorescence, and photobleaching",
+        "journal": "Journal of Hazardous Materials",
+        "year": 2023,
+        "citations": 25,
+        "authors": "Hamza Samouh, Vikram Kumar, Halle-Mari Santiago et al.",
+        "authors_list": [
+            "Hamza Samouh",
+            "Vikram Kumar",
+            "Halle-Mari Santiago",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 25
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/2000537"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/jrs.6483",
+        "title": "Tracking spatiotemporal evolution of cementitious carbonation via Raman imaging",
+        "journal": "Journal of Raman Spectroscopy",
+        "year": 2022,
+        "citations": 22,
+        "authors": "Sonali Srivastava, Nishant Garg",
+        "authors_list": [
+            "Sonali Srivastava",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 17,
+            "s2_url": "https://www.semanticscholar.org/paper/5fb41341396db6f6d7205b7436caedc8892539c9",
+            "openAccessPdf": "https://doi.org/10.1002/jrs.6483"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cemconres.2022.106855",
+        "title": "Ultra-high gamma irradiation of calcium silicate hydrates: Impact on mechanical properties, nanostructure, and atomic environments",
+        "journal": "Cement and Concrete Research",
+        "year": 2022,
+        "citations": 22,
+        "authors": "Aniruddha Baral, Elena Tajuelo Rodriguez, William Hunnicutt et al.",
+        "authors_list": [
+            "Aniruddha Baral",
+            "Elena Tajuelo Rodriguez",
+            "William Hunnicutt",
+            "Ercan Cakmak",
+            "Hongbin Sun",
+            "Ján Ilavský",
+            "Yann Le Pape",
+            "Thomas M. Rosseel",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1874452"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3389/fchem.2021.806532",
+        "title": "Impact of Na/Al Ratio on the Extent of Alkali-Activation Reaction: Non-linearity and Diminishing Returns",
+        "journal": "Frontiers in Chemistry",
+        "year": 2022,
+        "citations": 20,
+        "authors": "Omar Abdelrahman, Nishant Garg",
+        "authors_list": [
+            "Omar Abdelrahman",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 20,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.frontiersin.org/articles/10.3389/fchem.2021.806532/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41598-021-87488-1",
+        "title": "High-fidelity and high-resolution phase mapping of granites via confocal Raman imaging",
+        "journal": "Scientific Reports",
+        "year": 2021,
+        "citations": 19,
+        "authors": "Krishna C. Polavaram, Nishant Garg",
+        "authors_list": [
+            "Krishna C. Polavaram",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 19,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41598-021-87488-1.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.31274/etd-180810-1904",
+        "title": "Raman spectroscopy for characterizing and determining the pozzolanic reactivity of fly ashes",
+        "journal": "",
+        "year": 2012,
+        "citations": 18,
+        "authors": "Nishant Garg",
+        "authors_list": [
+            "Nishant Garg"
+        ],
+        "type": "dissertation",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 18,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=3589&context=etd"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/21650373.2014.954155",
+        "title": "Properties of self-consolidating concrete containing high-volume supplementary cementitious materials and nano-limestone",
+        "journal": "Journal of Sustainable Cement-Based Materials",
+        "year": 2014,
+        "citations": 18,
+        "authors": "Xin Wang, Kejin Wang, Jinxin Li et al.",
+        "authors_list": [
+            "Xin Wang",
+            "Kejin Wang",
+            "Jinxin Li",
+            "Nishant Garg",
+            "Surendra P. Shah"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 18,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/21650373.2012.745217",
+        "title": "Comparing the performance of different commercial clays in fly ash-modified mortars",
+        "journal": "Journal of Sustainable Cement-Based Materials",
+        "year": 2012,
+        "citations": 18,
+        "authors": "Nishant Garg, Kejin Wang",
+        "authors_list": [
+            "Nishant Garg",
+            "Kejin Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 18,
+            "crossref": 6
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1088/2634-4505/ac36bd",
+        "title": "National and regional waste stream in the United States: conformance and disparity",
+        "journal": "Environmental Research Infrastructure and Sustainability",
+        "year": 2021,
+        "citations": 17,
+        "authors": "Vikram Kumar, Nishant Garg",
+        "authors_list": [
+            "Vikram Kumar",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 17,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1088/2634-4505/ac36bd/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.jpcc.9b04031",
+        "title": "Symmetry-Induced Stability in Alkali-Doped Calcium Silicate Hydrate",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2019,
+        "citations": 17,
+        "authors": "V. Ongun Özçelik, Nishant Garg, Claire E. White",
+        "authors_list": [
+            "V. Ongun Özçelik",
+            "Nishant Garg",
+            "Claire E. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 17,
+            "crossref": 17
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1810.04925"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.jpcc.3c03453",
+        "title": "Elucidating the Size and Shape of Individual Clinker Phases via Raman Imaging: Impact on Cement Hydration",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2023,
+        "citations": 14,
+        "authors": "Krishna C. Polavaram, Nishant Garg",
+        "authors_list": [
+            "Krishna C. Polavaram",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 14,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-94-017-9939-3_15",
+        "title": "Heated Montmorillonite: Structure, Reactivity, and Dissolution",
+        "journal": "Rilem bookseries",
+        "year": 2015,
+        "citations": 13,
+        "authors": "Nishant Garg, Jørgen Skibsted",
+        "authors_list": [
+            "Nishant Garg",
+            "Jørgen Skibsted"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 13,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cemconres.2025.107806",
+        "title": "UR2: Ultra-rapid reactivity test for real-time, low-cost quality control of calcined clays",
+        "journal": "Cement and Concrete Research",
+        "year": 2025,
+        "citations": 14,
+        "authors": "Yujia Min, Hossein Kabir, Chirayu Kothari et al.",
+        "authors_list": [
+            "Yujia Min",
+            "Hossein Kabir",
+            "Chirayu Kothari",
+            "Mohammad Iqbal",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 13,
+            "crossref": 14
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.cemconres.2025.107806"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/3530190.3534817",
+        "title": "Accelerated Design and Deployment of Low-Carbon Concrete for Data Centers",
+        "journal": "",
+        "year": 2022,
+        "citations": 12,
+        "authors": "Xiou Ge, Richard Goodwin, Haizi Yu et al.",
+        "authors_list": [
+            "Xiou Ge",
+            "Richard Goodwin",
+            "Haizi Yu",
+            "Pablo Romero",
+            "Omar Abdelrahman",
+            "Amruta Sudhalkar",
+            "Julius Kusuma",
+            "Ryan Cialdella",
+            "Nishant Garg",
+            "Lav R. Varshney"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 12,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1617/s11527-022-02010-x",
+        "title": "FFT-based model for irradiated aggregate microstructures in concrete",
+        "journal": "Materials and Structures",
+        "year": 2022,
+        "citations": 12,
+        "authors": "Amani Cheniour, Yujie Li, Julien Sanahuja et al.",
+        "authors_list": [
+            "Amani Cheniour",
+            "Yujie Li",
+            "Julien Sanahuja",
+            "Yann Le Pape",
+            "Elena Tajuelo Rodriguez",
+            "Lawrence M. Anovitz",
+            "Krishna C. Polavaram",
+            "Nishant Garg",
+            "Thomas M. Rosseel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 12,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1897008"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cemconres.2024.107558",
+        "title": "Introducing Particle Shape Metric (PSM): A fundamental parameter that encapsulates role of aggregate shape in enhancing packing and performance",
+        "journal": "Cement and Concrete Research",
+        "year": 2024,
+        "citations": 12,
+        "authors": "Bayezid Baten, Nishant Garg",
+        "authors_list": [
+            "Bayezid Baten",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 12,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.cemconres.2024.107558"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cemconres.2025.108022",
+        "title": "Impact of calcination time on metakaolin morphology and enhancement of pozzolanic reactivity: Insights from in situ TEM",
+        "journal": "Cement and Concrete Research",
+        "year": 2025,
+        "citations": 11,
+        "authors": "Tausif E Elahi, Pablo Romero, Nishant Garg",
+        "authors_list": [
+            "Tausif E Elahi",
+            "Pablo Romero",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 11,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.cemconres.2025.108022"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0040-6090(84)90460-7",
+        "title": "Diffusion of silicon in aluminum-rich alloy thin films",
+        "journal": "Thin Solid Films",
+        "year": 1984,
+        "citations": 10,
+        "authors": "Nishant Garg, L.S. Castleman, Carmine D'Antonio",
+        "authors_list": [
+            "Nishant Garg",
+            "L.S. Castleman",
+            "Carmine D'Antonio"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 10,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsestengg.3c00597",
+        "title": "Reducing Pb and Cl Mobility in Waste-to-Energy Fly Ashes via Chlorellestadite Formation",
+        "journal": "ACS ES&T Engineering",
+        "year": 2024,
+        "citations": 9,
+        "authors": "Vikram Kumar, Aniruddha Baral, Jeffery R. Roesler et al.",
+        "authors_list": [
+            "Vikram Kumar",
+            "Aniruddha Baral",
+            "Jeffery R. Roesler",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 9,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/2322388"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.jchemed.3c00930",
+        "title": "Enhancing Learning Outcomes for Materials Crystallography via Virtual Reality: Role of User Comfort and Game Design",
+        "journal": "Journal of Chemical Education",
+        "year": 2024,
+        "citations": 9,
+        "authors": "Dhanush Sahasra Bejjarapu, Yize Chen, Jiyan Xu et al.",
+        "authors_list": [
+            "Dhanush Sahasra Bejjarapu",
+            "Yize Chen",
+            "Jiyan Xu",
+            "Eric Shaffer",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 9,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cscm.2023.e02353",
+        "title": "Early-stage performance enhancement of concrete via commercial C-S-H seeds: From lab investigation to field implementation in Illinois, US",
+        "journal": "Case Studies in Construction Materials",
+        "year": 2023,
+        "citations": 8,
+        "authors": "Faisal Qadri, Nishant Garg",
+        "authors_list": [
+            "Faisal Qadri",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 8,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.cscm.2023.e02353"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.trgeo.2025.101637",
+        "title": "Long-term strength development and durability assessment of cement-stabilized carbonate-based aggregate quarry by-products: Potential role of hydrotalcite",
+        "journal": "Transportation Geotechnics",
+        "year": 2025,
+        "citations": 7,
+        "authors": "Taeyun Kong, Chirayu Kothari, Issam I. A. Qamhia et al.",
+        "authors_list": [
+            "Taeyun Kong",
+            "Chirayu Kothari",
+            "Issam I. A. Qamhia",
+            "Erol Tutumluer",
+            "Nishant Garg",
+            "T. J. Peters",
+            "Andrew J. Stolba"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 7,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1177/03611981241236183",
+        "title": "Freeze–Thaw Performance Trends of Short-Term Cured Cement-Stabilized Aggregate Quarry By-Product Materials",
+        "journal": "Transportation Research Record Journal of the Transportation Research Board",
+        "year": 2024,
+        "citations": 7,
+        "authors": "Taeyun Kong, Chirayu Kothari, Issam I. A. Qamhia et al.",
+        "authors_list": [
+            "Taeyun Kong",
+            "Chirayu Kothari",
+            "Issam I. A. Qamhia",
+            "Erol Tutumluer",
+            "Nishant Garg",
+            "T. J. Peters",
+            "Andrew J. Stolba"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 7,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.mtcomm.2023.107763",
+        "title": "Impact of C–S–H seeds on cementitious hydration kinetics: New insights on porosity and microstructure",
+        "journal": "Materials Today Communications",
+        "year": 2023,
+        "citations": 7,
+        "authors": "Faisal Qadri, Sudharsan R. Kumar, Nishant Garg",
+        "authors_list": [
+            "Faisal Qadri",
+            "Sudharsan R. Kumar",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 7,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cej.2024.156038",
+        "title": "Chlorellestadite-enriched waste-to-energy fly ashes in cementitious systems: Implications of ash treatment on end use",
+        "journal": "Chemical Engineering Journal",
+        "year": 2024,
+        "citations": 6,
+        "authors": "Aniruddha Baral, Vikram Kumar, Jeffery R. Roesler et al.",
+        "authors_list": [
+            "Aniruddha Baral",
+            "Vikram Kumar",
+            "Jeffery R. Roesler",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 6,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.cej.2024.156038"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/21650373.2014.956239",
+        "title": "Estimating efficiency of fly ashes: an alternative definition of<i>k</i>values",
+        "journal": "Journal of Sustainable Cement-Based Materials",
+        "year": 2014,
+        "citations": 5,
+        "authors": "Nishant Garg, Kejin Wang",
+        "authors_list": [
+            "Nishant Garg",
+            "Kejin Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 5,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.13140/rg.2.2.17666.89283",
+        "title": "Structure, Reactivity, and Dissolution of Calcined Clays by Solid-state NMR",
+        "journal": "",
+        "year": 2015,
+        "citations": 5,
+        "authors": "Nishant Garg",
+        "authors_list": [
+            "Nishant Garg"
+        ],
+        "type": "other",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 5,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1061/9780784485965.026",
+        "title": "Use of Shear Wave Velocity to Evaluate Curing of Cement-Stabilized Carbonate Quarry By-Products at Different Temperatures",
+        "journal": "",
+        "year": 2025,
+        "citations": 4,
+        "authors": "Taeyun Kong, Chirayu Kothari, Y. S. Kim et al.",
+        "authors_list": [
+            "Taeyun Kong",
+            "Chirayu Kothari",
+            "Y. S. Kim",
+            "Issam I. A. Qamhia",
+            "Erol Tutumluer",
+            "Nishant Garg"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 4,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-981-97-8237-6_14",
+        "title": "Effect of Chemical and Mineralogical Composition of Quarry By-Products on Cement-Stabilization Efficiency Using Elastic Wave Signals",
+        "journal": "Lecture notes in civil engineering",
+        "year": 2024,
+        "citations": 4,
+        "authors": "Taeyun Kong, Chirayu Kothari, Issam I. A. Qamhia et al.",
+        "authors_list": [
+            "Taeyun Kong",
+            "Chirayu Kothari",
+            "Issam I. A. Qamhia",
+            "Erol Tutumluer",
+            "Nishant Garg"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 4,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1680/jadcr.23.00238",
+        "title": "Phase quantification of anhydrous CSA cements: a combined X-ray diffraction and Raman imaging approach",
+        "journal": "Advances in Cement Research",
+        "year": 2024,
+        "citations": 4,
+        "authors": "Chirayu Kothari, Nishant Garg",
+        "authors_list": [
+            "Chirayu Kothari",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 4,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.5033905",
+        "title": "A uniaxial load frame for <i>in situ</i> neutron studies of stress-induced changes in cementitious materials and related systems",
+        "journal": "Review of Scientific Instruments",
+        "year": 2018,
+        "citations": 4,
+        "authors": "Claire E. White, Nishant Garg, Daniel Olds et al.",
+        "authors_list": [
+            "Claire E. White",
+            "Nishant Garg",
+            "Daniel Olds",
+            "Joseph Vocaturo",
+            "Michelle Everett",
+            "Katharine Page"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 4,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41529-024-00506-1",
+        "title": "Silicon ion radiation as a viable surrogate for emulating neutron radiation damage in silicates",
+        "journal": "npj Materials Degradation",
+        "year": 2024,
+        "citations": 3,
+        "authors": "Krishna C. Polavaram, Sai Kalyan Evani, Sean M. Drewry et al.",
+        "authors_list": [
+            "Krishna C. Polavaram",
+            "Sai Kalyan Evani",
+            "Sean M. Drewry",
+            "Elena Tajuelo Rodriguez",
+            "Mohammed Alnaggar",
+            "C. J. Wetteland",
+            "Katharine Page",
+            "John S. Popovics",
+            "Kurt E. Sickafus",
+            "Yann Le Pape",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 3,
+            "s2_url": "https://www.semanticscholar.org/paper/ca458925b3da4b11f672e07c3f641be46262e8c0",
+            "openAccessPdf": "https://doi.org/10.1038/s41529-024-00506-1"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.resconrec.2025.108474",
+        "title": "Particle Packing Factor (PPF): A quantitative prediction parameter for designing sustainable Ultra-High Performance Concrete (UHPC)",
+        "journal": "Resources Conservation and Recycling",
+        "year": 2025,
+        "citations": 3,
+        "authors": "Bayezid Baten, Nishant Garg",
+        "authors_list": [
+            "Bayezid Baten",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 1,
+            "s2_url": "https://www.semanticscholar.org/paper/e8641d91de3623b7200fc4248cfda6806bf6eac6",
+            "openAccessPdf": "https://doi.org/10.1016/j.resconrec.2025.108474"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jcou.2024.102993",
+        "title": "Multi-modal imaging of the cementitious carbonation front: Evidence for pore refinement",
+        "journal": "Journal of CO2 Utilization",
+        "year": 2024,
+        "citations": 3,
+        "authors": "Sudharsan Rathnakumar, Nishant Garg",
+        "authors_list": [
+            "Sudharsan Rathnakumar",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.jcou.2024.102993"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.48550/arxiv.2310.18288",
+        "title": "Sustainable Concrete via Bayesian Optimization",
+        "journal": "arXiv (Cornell University)",
+        "year": 2023,
+        "citations": 3,
+        "authors": "Sebastian Ament, Andrew Witte, Nishant Garg et al.",
+        "authors_list": [
+            "Sebastian Ament",
+            "Andrew Witte",
+            "Nishant Garg",
+            "Julius Kusuma"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsaenm.2c00102",
+        "title": "Superhydrophobic and Self-Cleaning Aluminum via a Rapid and Controlled Process",
+        "journal": "ACS Applied Engineering Materials",
+        "year": 2022,
+        "citations": 3,
+        "authors": "Ravi Sharma, Nishant Garg",
+        "authors_list": [
+            "Ravi Sharma",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41597-025-05185-4",
+        "title": "SorpVision: A Comprehensive Dataset for Cementitious Sorptivity Analysis Powered by Computer Vision",
+        "journal": "Scientific Data",
+        "year": 2025,
+        "citations": 2,
+        "authors": "Hossein Kabir, Jordan Wu, Sunav Dahal et al.",
+        "authors_list": [
+            "Hossein Kabir",
+            "Jordan Wu",
+            "Sunav Dahal",
+            "Tony Joo",
+            "Nishant Garg"
+        ],
+        "type": "data-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41597-025-05185-4.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/21650373.2025.2497430",
+        "title": "Elucidating the role of particle packing on drying shrinkage behavior of ultra-high performance concrete (UHPC)",
+        "journal": "Journal of Sustainable Cement-Based Materials",
+        "year": 2025,
+        "citations": 2,
+        "authors": "Bayezid Baten, Nishant Garg",
+        "authors_list": [
+            "Bayezid Baten",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-981-16-9921-4_1",
+        "title": "Experimental Studies on Bio-bitumen Produced Using Charcoal from Coconut Shell Waste",
+        "journal": "Lecture notes in civil engineering",
+        "year": 2022,
+        "citations": 2,
+        "authors": "Nishant Garg, Tanuj Chopra, Anush K. Chandrappa",
+        "authors_list": [
+            "Nishant Garg",
+            "Tanuj Chopra",
+            "Anush K. Chandrappa"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-981-97-7467-8_12",
+        "title": "Assessment of Standard Anomaly Index (SAI) of Last 30 Years Spaceborne Precipitation Data of Uttarakhand",
+        "journal": "Lecture notes in civil engineering",
+        "year": 2024,
+        "citations": 2,
+        "authors": "Kamla Rawat, N. S. Bisht, Sanjeev Kumar et al.",
+        "authors_list": [
+            "Kamla Rawat",
+            "N. S. Bisht",
+            "Sanjeev Kumar",
+            "Nishant Garg",
+            "Alok Sati"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1061/9780784486221.005",
+        "title": "Strength Improvement of Aggregate Quarry Byproducts Stabilized with Cement and Metakaolin",
+        "journal": "",
+        "year": 2025,
+        "citations": 2,
+        "authors": "Taeyun Kong, Chirayu Kothari, Issam I. A. Qamhia et al.",
+        "authors_list": [
+            "Taeyun Kong",
+            "Chirayu Kothari",
+            "Issam I. A. Qamhia",
+            "Erol Tutumluer",
+            "Nishant Garg"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.36501/0197-9191/23-001",
+        "title": "Using Microcapsules and Bacteria for Self-Healing in Rigid and Flexible Pavements",
+        "journal": "",
+        "year": 2023,
+        "citations": 2,
+        "authors": "Ramez Hajj, Nishant Garg, Jacob W. Doehring et al.",
+        "authors_list": [
+            "Ramez Hajj",
+            "Nishant Garg",
+            "Jacob W. Doehring",
+            "Abhilash Vyas",
+            "Babak Asadi",
+            "Yujia Lu"
+        ],
+        "type": "report",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.36501/0197-9191/23-001"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2659651.2659694",
+        "title": "Analysis of Identity Forging Attack in MANETs",
+        "journal": "",
+        "year": 2014,
+        "citations": 1,
+        "authors": "Nishant Garg, Kuldeep Pareek, Manoj Singh Gaur et al.",
+        "authors_list": [
+            "Nishant Garg",
+            "Kuldeep Pareek",
+            "Manoj Singh Gaur",
+            "Vijay Laxmi",
+            "Chhagan Lal"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.36501/0197-9191/23-018",
+        "title": "Reducing Concrete Cure Times for Bridge Substructure Components and Box Culverts",
+        "journal": "",
+        "year": 2023,
+        "citations": 1,
+        "authors": "Faisal Qadri, Nishant Garg",
+        "authors_list": [
+            "Faisal Qadri",
+            "Nishant Garg"
+        ],
+        "type": "report",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.36501/0197-9191/23-018"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jobe.2025.114600",
+        "title": "Predicting cementitious set times via infrared thermography (IRT): Potential implications on real-time quality control during 3D concrete printing",
+        "journal": "Journal of Building Engineering",
+        "year": 2025,
+        "citations": 1,
+        "authors": "Brandy Diggs-McGee, Hamza Samouh, Nishant Garg",
+        "authors_list": [
+            "Brandy Diggs-McGee",
+            "Hamza Samouh",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.energyfuels.5c02683",
+        "title": "Enhancing the Quantification of Critical Elements in WTE and Coal Ash via Alkaline Fusion: Superiority of Lithium Metaborate (LiBO<sub>2</sub>)",
+        "journal": "Energy & Fuels",
+        "year": 2025,
+        "citations": 1,
+        "authors": "Vikram Kumar, John W. Scott, Linduo Zhao et al.",
+        "authors_list": [
+            "Vikram Kumar",
+            "John W. Scott",
+            "Linduo Zhao",
+            "Margarita Fyodorovna Bargon",
+            "Aniruddha Baral",
+            "Jeffery R. Roesler",
+            "Brajendra K. Sharma",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Pozzolanic reactivity of thermally activated kaolinite and montmorillonite in Portland cement blends and their impact on the formed C-S-H phase",
+        "journal": "",
+        "year": 2015,
+        "citations": 1,
+        "authors": "Nishant Garg, Kasper Enemark‐Rasmussen, Zhuo Dai et al.",
+        "authors_list": [
+            "Nishant Garg",
+            "Kasper Enemark‐Rasmussen",
+            "Zhuo Dai",
+            "Jørgen Skibsted"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jobe.2025.113797",
+        "title": "Understanding the visco-thermo-mechanical behavior of nitinol for climate-adaptive window shading devices",
+        "journal": "Journal of Building Engineering",
+        "year": 2025,
+        "citations": 1,
+        "authors": "Manal Anis, Hamza Samouh, Nishant Garg et al.",
+        "authors_list": [
+            "Manal Anis",
+            "Hamza Samouh",
+            "Nishant Garg",
+            "Yun Kyu Yi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.jobe.2025.113797"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.36501/0197-9191/25-013",
+        "title": "Investigation of Dolomite Aggregate Long-Term Cementation and Its Potential Advantage for Building Roads",
+        "journal": "",
+        "year": 2025,
+        "citations": 1,
+        "authors": "Taeyun Kong, Chirayu Kothari, Issam I. A. Qamhia et al.",
+        "authors_list": [
+            "Taeyun Kong",
+            "Chirayu Kothari",
+            "Issam I. A. Qamhia",
+            "Erol Tutumluer",
+            "Nishant Garg"
+        ],
+        "type": "report",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.36501/0197-9191/25-013"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.46427/gold2022.8787",
+        "title": "Irradiation impact in concrete: Gamma effects on cement paste constituents (calcium silicate hydrates) and neutron effects on minerals present in aggregates",
+        "journal": "Goldschmidt2022 abstracts",
+        "year": 2022,
+        "citations": 0,
+        "authors": "Elena Tajuelo Rodriguez, Aniruddha Baral, William Hunnicutt et al.",
+        "authors_list": [
+            "Elena Tajuelo Rodriguez",
+            "Aniruddha Baral",
+            "William Hunnicutt",
+            "Nishant Garg",
+            "Hongbin Sun",
+            "Ercan Cakmak",
+            "Jose Arregui Mena",
+            "Lawrence M. Anovitz",
+            "Ján Ilavský",
+            "Yann Le Pape",
+            "Thomas M. Rosseel"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://goldschmidtabstracts.info/2022/8787.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.7185/gold2023.20672",
+        "title": "Elucidating Radiation-Induced Degradation in Siliceous Minerals via Multi-modal Imaging",
+        "journal": "",
+        "year": 2023,
+        "citations": 0,
+        "authors": "Nishant Garg",
+        "authors_list": [
+            "Nishant Garg"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://goldschmidtabstracts.info/2023/20672.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.7185/gold2021.3742",
+        "title": "Reactivity of Municipal Solid Waste Incineration (MSWI) Ashes in a Cementitious Matrix",
+        "journal": "Goldschmidt2021 abstracts",
+        "year": 2021,
+        "citations": 0,
+        "authors": "Vikram Kumar, Nishant Garg",
+        "authors_list": [
+            "Vikram Kumar",
+            "Nishant Garg"
+        ],
+        "type": "conference-abstract",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://goldschmidtabstracts.info/2021/3742.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-031-53389-1_80",
+        "title": "Raman Imaging of Cementitious Systems",
+        "journal": "Rilem bookseries",
+        "year": 2024,
+        "citations": 0,
+        "authors": "Krishna C. Polavaram, Chirayu Kothari, Andrew Christopher Witte et al.",
+        "authors_list": [
+            "Krishna C. Polavaram",
+            "Chirayu Kothari",
+            "Andrew Christopher Witte",
+            "Sonali Srivastava",
+            "Sudharsan Rathna Kumar",
+            "Hamza Samouh",
+            "Nishant Garg"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2172/2352734",
+        "title": "Rapid AI-based Dissection of Ashes using Raman and XRF Spectroscopy (RADAR-X)",
+        "journal": "",
+        "year": 2023,
+        "citations": 0,
+        "authors": "Vikram Kumar, IL (United States) Univ. of Illinois at Urbana-Champaign, Aniruddha Baral et al.",
+        "authors_list": [
+            "Vikram Kumar",
+            "IL (United States) Univ. of Illinois at Urbana-Champaign",
+            "Aniruddha Baral",
+            "Razan Baltaji",
+            "Hamza Samouh",
+            "Xinbo Wu",
+            "Yujia Min",
+            "Connor Anderson",
+            "Brajendra K. Sharma",
+            "Jeffery R. Roesler",
+            "Lav R. Varshney",
+            "Nishant Garg"
+        ],
+        "type": "report",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/2352734"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/4.0000709",
+        "title": "Crystal Vision: A Virtual Reality Game for Learning Materials Crystallography",
+        "journal": "Structural Dynamics",
+        "year": 2025,
+        "citations": 0,
+        "authors": "Nafisa Tabassum, Eric Shaffer, Nishant Garg",
+        "authors_list": [
+            "Nafisa Tabassum",
+            "Eric Shaffer",
+            "Nishant Garg"
+        ],
+        "type": "conference-abstract",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1063/4.0000709"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1107/s1600577526006776",
+        "title": "Time-resolved synchrotron X-ray total scattering of alkali-activated materials with high and low calcium contents",
+        "journal": "Journal of Synchrotron Radiation",
+        "year": 2026,
+        "citations": 0,
+        "authors": "Hyeonseok Jee, Nishant Garg",
+        "authors_list": [
+            "Hyeonseok Jee",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1107/s1600577526006776"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.21012/fc12.1265",
+        "title": "Role of aggregate packing in enhancing concrete fracture response: insights from in-situ high-speed imaging",
+        "journal": "",
+        "year": 2025,
+        "citations": 0,
+        "authors": "Nischal Kanel, Bayezid Baten, Nishant Garg",
+        "authors_list": [
+            "Nischal Kanel",
+            "Bayezid Baten",
+            "Nishant Garg"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.21012/fc12.1265"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.36501/0197-9191/24-021",
+        "title": "Utilizing a Particle-packing Approach for an Illinois-specific, Nonproprietary, Low-shrinkage UHPC",
+        "journal": "",
+        "year": 2024,
+        "citations": 0,
+        "authors": "Bayezid Baten, Matthew Gombeda, Nishant Garg",
+        "authors_list": [
+            "Bayezid Baten",
+            "Matthew Gombeda",
+            "Nishant Garg"
+        ],
+        "type": "report",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-031-80892-0_26",
+        "title": "Screening Alternative Sources of Critical Metals Via Alkaline Fusion: The Effect of Flux on Digestion Efficiency",
+        "journal": "The minerals, metals & materials series",
+        "year": 2025,
+        "citations": 0,
+        "authors": "Vikram Kumar, John W. Scott, Linduo Zhao et al.",
+        "authors_list": [
+            "Vikram Kumar",
+            "John W. Scott",
+            "Linduo Zhao",
+            "Margarita Fyodorovna Bargon",
+            "Aniruddha Baral",
+            "Jeffery R. Roesler",
+            "Brajendra K. Sharma",
+            "Nishant Garg"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.48550/arxiv.2204.05397",
+        "title": "Accelerated Design and Deployment of Low-Carbon Concrete for Data Centers",
+        "journal": "arXiv (Cornell University)",
+        "year": 2022,
+        "citations": 0,
+        "authors": "Xiou Ge, Richard Goodwin, Haizi Yu et al.",
+        "authors_list": [
+            "Xiou Ge",
+            "Richard Goodwin",
+            "Haizi Yu",
+            "Pablo Romero",
+            "Omar Abdelrahman",
+            "Amruta Sudhalkar",
+            "Julius Kusuma",
+            "Ryan Cialdella",
+            "Nishant Garg",
+            "Lav R. Varshney"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.clema.2025.100356",
+        "title": "Macro- and meso-scale experimental study of encapsulated rejuvenators for self-healing asphalt system",
+        "journal": "Cleaner Materials",
+        "year": 2025,
+        "citations": 0,
+        "authors": "Yujia Lu, Jacob W. Doehring, Nishant Garg et al.",
+        "authors_list": [
+            "Yujia Lu",
+            "Jacob W. Doehring",
+            "Nishant Garg",
+            "Ramez Hajj"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.clema.2025.100356"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.clay.2025.108044",
+        "title": "OHSI – Onset Heat Size Index: A new parameter to predict rheology of cement-calcined clay blends",
+        "journal": "Applied Clay Science",
+        "year": 2025,
+        "citations": 0,
+        "authors": "Muhamad Iqbal, Nishant Garg",
+        "authors_list": [
+            "Muhamad Iqbal",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.clay.2025.108044"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Retardation in alkali-activated materials via zinc oxide: Mechanism and implications",
+        "journal": "",
+        "year": 2018,
+        "citations": 0,
+        "authors": "Nishant Garg, Claire E. White",
+        "authors_list": [
+            "Nishant Garg",
+            "Claire E. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2139/ssrn.5188250",
+        "title": "A Streamlined Methodology to Develop Nonproprietary Fiber-Reinforced Uhpc Mixes: Assessment of Mechanical Performance and Scalability",
+        "journal": "SSRN Electronic Journal",
+        "year": 2025,
+        "citations": 0,
+        "authors": "Kurt A. Ordillas, Bayezid Baten, Zoe N. Lallas et al.",
+        "authors_list": [
+            "Kurt A. Ordillas",
+            "Bayezid Baten",
+            "Zoe N. Lallas",
+            "Nishant Garg",
+            "Matthew J. Gombeda"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.2139/ssrn.5188250"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Thermal activation and pozzolanic reactivity of calcined clay minerals for applications in Portland cement blends",
+        "journal": "",
+        "year": 2015,
+        "citations": 0,
+        "authors": "Jørgen Skibsted, Zhuo Dai, Kasper Enemark‐Rasmussen et al.",
+        "authors_list": [
+            "Jørgen Skibsted",
+            "Zhuo Dai",
+            "Kasper Enemark‐Rasmussen",
+            "Nishant Garg"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cemconcomp.2025.106330",
+        "title": "CO2 mineralization mechanism of chlorellestadite: Impact on strength development",
+        "journal": "Cement and Concrete Composites",
+        "year": 2025,
+        "citations": 0,
+        "authors": "Mohamed Abdelrahman, Vikram Kumar, Hyeonseok Jee et al.",
+        "authors_list": [
+            "Mohamed Abdelrahman",
+            "Vikram Kumar",
+            "Hyeonseok Jee",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.cemconcomp.2025.106330"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/jrs.6527",
+        "title": "Featured Cover",
+        "journal": "Journal of Raman Spectroscopy",
+        "year": 2023,
+        "citations": 0,
+        "authors": "Sonali Srivastava, Nishant Garg",
+        "authors_list": [
+            "Sonali Srivastava",
+            "Nishant Garg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jrs.6527"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1504/jgba.2023.137473",
+        "title": "Investing in student well-being: how cyclic meditation can reduce stress and foster mindfulness in academic institutions: a case from India",
+        "journal": "J for Global Business Advancement",
+        "year": 2023,
+        "citations": 0,
+        "authors": "Nishant Garg, Neha Garg, Pankaj Kumar",
+        "authors_list": [
+            "Nishant Garg",
+            "Neha Garg",
+            "Pankaj Kumar"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": "https://www.semanticscholar.org/paper/1bfef5bbdf562974f1c475f23ceefa03302fdf7d",
+            "openAccessPdf": "http://dx.doi.org/10.1504/jgba.2023.137473"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.5703/1288284318004",
+        "title": "Advancing Characterization of Cementitious Systems via Raman Imaging",
+        "journal": "",
+        "year": 2025,
+        "citations": 0,
+        "authors": "Chirayu Kothari, Sudharsan Rathna Kumar, Yaman Garg et al.",
+        "authors_list": [
+            "Chirayu Kothari",
+            "Sudharsan Rathna Kumar",
+            "Yaman Garg",
+            "Nishant Garg"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1022&context=c3_2025"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Structure and reactivity of a thermally activated montmorillonite by solid-state NMR spectroscopy.",
+        "journal": "",
+        "year": 2013,
+        "citations": 0,
+        "authors": "Nishant Garg, Jørgen Skibsted",
+        "authors_list": [
+            "Nishant Garg",
+            "Jørgen Skibsted"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/s41467-024-53993-w",
+        "title": "Automated estimation of cementitious sorptivity via computer vision",
+        "journal": "Nature Communications",
+        "year": null,
+        "citations": 175,
+        "authors": "Hossein Kabir, Jordan Wu, Sunav Dahal et al.",
+        "authors_list": [
+            "Hossein Kabir",
+            "Jordan Wu",
+            "Sunav Dahal",
+            "Tony Joo",
+            "Nishant Garg"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 175
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-024-53993-w.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/s41598-023-28763-1",
+        "title": "Machine learning enabled orthogonal camera goniometry for accurate and robust contact angle measurements",
+        "journal": "Scientific Reports",
+        "year": null,
+        "citations": 143,
+        "authors": "Hossein Kabir, Nishant Garg",
+        "authors_list": [
+            "Hossein Kabir",
+            "Nishant Garg"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 143
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41598-023-28763-1.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.cemconres.2015.08.006",
+        "title": "Pozzolanic reactivity of a calcined interstratified illite/smectite (70/30) clay",
+        "journal": "Cement and Concrete Research",
+        "year": 2016,
+        "citations": 140,
+        "authors": "Nishant Garg, Jørgen Skibsted",
+        "authors_list": [
+            "Nishant Garg",
+            "Jørgen Skibsted"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 140
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1039/c7ta00412e",
+        "title": "Mechanism of zinc oxide retardation in alkali-activated materials: an in situ X-ray pair distribution function investigation",
+        "journal": "Journal of Materials Chemistry A",
+        "year": null,
+        "citations": 119,
+        "authors": "Nishant Garg, Claire E. White",
+        "authors_list": [
+            "Nishant Garg",
+            "Claire E. White"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 119
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/s41529-023-00371-4",
+        "title": "Rapid prediction of cementitious initial sorptivity via surface wettability",
+        "journal": "npj Materials Degradation",
+        "year": null,
+        "citations": 35,
+        "authors": "Hossein Kabir, Nishant Garg",
+        "authors_list": [
+            "Hossein Kabir",
+            "Nishant Garg"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 35
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41529-023-00371-4.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.resconrec.2021.106009",
+        "title": "The chemical and physical origin of incineration ash reactivity in cementitious systems",
+        "journal": "Resources, Conservation and Recycling",
+        "year": 2022,
+        "citations": 35,
+        "authors": "Vikram Kumar, Nishant Garg",
+        "authors_list": [
+            "Vikram Kumar",
+            "Nishant Garg"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 35
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1828778"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.3389/fchem.2021.806532",
+        "title": "Impact of Na/Al Ratio on the Extent of Alkali-Activation Reaction: Non-linearity and Diminishing Returns",
+        "journal": "Frontiers in Chemistry",
+        "year": null,
+        "citations": 19,
+        "authors": "Omar Abdelrahman, Nishant Garg",
+        "authors_list": [
+            "Omar Abdelrahman",
+            "Nishant Garg"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 19
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.frontiersin.org/articles/10.3389/fchem.2021.806532/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/s41598-021-87488-1",
+        "title": "High-fidelity and high-resolution phase mapping of granites via confocal Raman imaging",
+        "journal": "Scientific Reports",
+        "year": null,
+        "citations": 19,
+        "authors": "Krishna C. Polavaram, Nishant Garg",
+        "authors_list": [
+            "Krishna C. Polavaram",
+            "Nishant Garg"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 19
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41598-021-87488-1.pdf"
+        }
+    }
+]

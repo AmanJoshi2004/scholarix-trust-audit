@@ -1,0 +1,3272 @@
+[
+    {
+        "doi": "https://doi.org/10.1111/j.1469-8137.2004.01224.x",
+        "title": "What have we learned from 15 years of free‐air CO<sub>2</sub> enrichment (FACE)? A meta‐analytic review of the responses of photosynthesis, canopy properties and plant production to rising CO<sub>2</sub>",
+        "journal": "New Phytologist",
+        "year": 2004,
+        "citations": 3650,
+        "authors": "Elizabeth A. Ainsworth, Stephen P. Long",
+        "authors_list": [
+            "Elizabeth A. Ainsworth",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 3650,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-8137.2004.01224.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev-arplant-042809-112206",
+        "title": "Improving Photosynthetic Efficiency for Greater Yield",
+        "journal": "Annual Review of Plant Biology",
+        "year": 2010,
+        "citations": 1929,
+        "authors": "Xin-Guang Zhu, Stephen P. Long, Donald R. Ort",
+        "authors_list": [
+            "Xin-Guang Zhu",
+            "Stephen P. Long",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1929,
+            "crossref": 1649
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-042809-112206"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev.arplant.55.031903.141610",
+        "title": "RISING ATMOSPHERIC CARBON DIOXIDE: Plants FACE the Future",
+        "journal": "Annual Review of Plant Biology",
+        "year": 2004,
+        "citations": 1718,
+        "authors": "Stephen P. Long, Elizabeth A. Ainsworth, Alistair Rogers et al.",
+        "authors_list": [
+            "Stephen P. Long",
+            "Elizabeth A. Ainsworth",
+            "Alistair Rogers",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1718,
+            "crossref": 1452
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jxb/erp096",
+        "title": "Elevated CO2 effects on plant carbon, nitrogen, and water relations: six important lessons from FACE",
+        "journal": "Journal of Experimental Botany",
+        "year": 2009,
+        "citations": 1677,
+        "authors": "Andrew D. B. Leakey, Elizabeth A. Ainsworth, Carl J. Bernacchi et al.",
+        "authors_list": [
+            "Andrew D. B. Leakey",
+            "Elizabeth A. Ainsworth",
+            "Carl J. Bernacchi",
+            "Alistair Rogers",
+            "Stephen P. Long",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1677,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jxb/article-pdf/60/10/2859/18040455/erp096.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2005.01493.x",
+        "title": "Can improvement in photosynthesis increase crop yields?",
+        "journal": "Plant Cell & Environment",
+        "year": 2006,
+        "citations": 1600,
+        "authors": "Stephen P. Long, Xin‐Guang Zhu, Shawna L. Naidu et al.",
+        "authors_list": [
+            "Stephen P. Long",
+            "Xin‐Guang Zhu",
+            "Shawna L. Naidu",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1600,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2005.01493.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev.pp.45.060194.003221",
+        "title": "Photoinhibition of Photosynthesis in Nature",
+        "journal": "Annual Review of Plant Physiology and Plant Molecular Biology",
+        "year": 1994,
+        "citations": 1572,
+        "authors": "Stephen P. Long, S. W. Humphries, Paul G. Falkowski",
+        "authors_list": [
+            "Stephen P. Long",
+            "S. W. Humphries",
+            "Paul G. Falkowski"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1572,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1114722",
+        "title": "Food for Thought: Lower-Than-Expected Crop Yield Stimulation with Rising CO\n                    <sub>2</sub>\n                    Concentrations",
+        "journal": "Science",
+        "year": 2006,
+        "citations": 1513,
+        "authors": "Stephen P. Long, Elizabeth A. Ainsworth, Andrew D. B. Leakey et al.",
+        "authors_list": [
+            "Stephen P. Long",
+            "Elizabeth A. Ainsworth",
+            "Andrew D. B. Leakey",
+            "J. Nösberger",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1513,
+            "crossref": 1259
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.aai8878",
+        "title": "Improving photosynthesis and crop productivity by accelerating recovery from photoprotection",
+        "journal": "Science",
+        "year": 2016,
+        "citations": 1349,
+        "authors": "Johannes Kromdijk, Katarzyna Głowacka, Lauriebeth Leonelli et al.",
+        "authors_list": [
+            "Johannes Kromdijk",
+            "Katarzyna Głowacka",
+            "Lauriebeth Leonelli",
+            "Stéphane T. Gabilly",
+            "Masakazu Iwai",
+            "Krishna Niyogi",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1349,
+            "crossref": 1243
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://eprints.lancs.ac.uk/id/eprint/83711/1/Revised_main_manuscript.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1189268",
+        "title": "Feedstocks for Lignocellulosic Biofuels",
+        "journal": "Science",
+        "year": 2010,
+        "citations": 1335,
+        "authors": "Chris Somerville, Heather Youngs, Caroline M. Taylor et al.",
+        "authors_list": [
+            "Chris Somerville",
+            "Heather Youngs",
+            "Caroline M. Taylor",
+            "Sarah C. Davis",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1335,
+            "crossref": 1126
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jxb/erg262",
+        "title": "Gas exchange measurements, what can they tell us about the underlying limitations to photosynthesis? Procedures and sources of error",
+        "journal": "Journal of Experimental Botany",
+        "year": 2003,
+        "citations": 1247,
+        "authors": "Stephen P. Long",
+        "authors_list": [
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1247,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jxb/article-pdf/54/392/2393/1721442/erg262.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2001.00668.x",
+        "title": "Improved temperature response functions for models of Rubisco‐limited photosynthesis",
+        "journal": "Plant Cell & Environment",
+        "year": 2001,
+        "citations": 1189,
+        "authors": "Carl J. Bernacchi, Eric Singsaas, Carlos Pimentel et al.",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Eric Singsaas",
+            "Carlos Pimentel",
+            "Archie R. Portis",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1189,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2001.00668.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0304-3959(94)90097-3",
+        "title": "A comparison of pain measurement characteristics of mechanical visual analogue and simple numerical rating scales",
+        "journal": "Pain",
+        "year": 1994,
+        "citations": 1184,
+        "authors": "Donald D. Price, Francis M. Bush, Stephen P. Long et al.",
+        "authors_list": [
+            "Donald D. Price",
+            "Francis M. Bush",
+            "Stephen P. Long",
+            "Stephen W. Harkins"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1184,
+            "crossref": 935
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.copbio.2008.02.004",
+        "title": "What is the maximum efficiency with which photosynthesis can convert solar energy into biomass?",
+        "journal": "Current Opinion in Biotechnology",
+        "year": 2008,
+        "citations": 1155,
+        "authors": "Xin‐Guang Zhu, Stephen P. Long, Donald R. Ort",
+        "authors_list": [
+            "Xin‐Guang Zhu",
+            "Stephen P. Long",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1155,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.1991.tb01439.x",
+        "title": "Modification of the response of photosynthetic productivity to rising temperature by atmospheric CO<sub>2</sub> concentrations: Has its importance been underestimated?",
+        "journal": "Plant Cell & Environment",
+        "year": 1991,
+        "citations": 1065,
+        "authors": "Stephen P. Long",
+        "authors_list": [
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1065,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cell.2015.03.019",
+        "title": "Meeting the Global Food Demand of the Future by Engineering Crop Photosynthesis and Yield Potential",
+        "journal": "Cell",
+        "year": 2015,
+        "citations": 1061,
+        "authors": "Stephen P. Long, Amy Marshall‐Colón, Xin‐Guang Zhu",
+        "authors_list": [
+            "Stephen P. Long",
+            "Amy Marshall‐Colón",
+            "Xin‐Guang Zhu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1061,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S0092867415003062/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1424031112",
+        "title": "Redesigning photosynthesis to sustainably meet global food and bioenergy demand",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2015,
+        "citations": 1047,
+        "authors": "Donald R. Ort, Sabeeha Merchant, Jean Alric et al.",
+        "authors_list": [
+            "Donald R. Ort",
+            "Sabeeha Merchant",
+            "Jean Alric",
+            "Alice Barkan",
+            "Robert E. Blankenship",
+            "Ralph Bock",
+            "Roberta Croce",
+            "Maureen R. Hanson",
+            "Julian M. Hibberd",
+            "Stephen P. Long",
+            "Thomas A. Moore",
+            "James V. Moroney",
+            "Krishna Niyogi",
+            "M. A. J. Parry",
+            "Pamela Peralta‐Yahya",
+            "Roger C. Prince",
+            "Kevin Redding",
+            "Martin H. Spalding",
+            "Klaas J. van Wijk",
+            "Wim Vermaas",
+            "Susanne von Caemmerer",
+            "Andreas P.M. Weber",
+            "Todd O. Yeates",
+            "Joshua S. Yuan",
+            "Xin Zhu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1047,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/112/28/8529.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2486.2008.01662.x",
+        "title": "Meeting US biofuel goals with less land: the potential of Miscanthus",
+        "journal": "Global Change Biology",
+        "year": 2008,
+        "citations": 865,
+        "authors": "Emily A. Heaton, Frank G. Dohleman, Stephen P. Long",
+        "authors_list": [
+            "Emily A. Heaton",
+            "Frank G. Dohleman",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 865,
+            "crossref": 746
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2486.2008.01662.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.008250",
+        "title": "Temperature Response of Mesophyll Conductance. Implications for the Determination of Rubisco Enzyme Kinetics and for Limitations to Photosynthesis in Vivo",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 2002,
+        "citations": 780,
+        "authors": "Carl J. Bernacchi, Archie R. Portis, Hiromi Nakano et al.",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Archie R. Portis",
+            "Hiromi Nakano",
+            "Susanne von Caemmerer",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 780,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/130/4/1992/38691904/plphys_v130_4_1992.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/2389624",
+        "title": "Chlorophyll Fluorescence as a Probe of the Photosynthetic Competence of Leaves in the Field: A Review of Current Instrumentation",
+        "journal": "Functional Ecology",
+        "year": 1989,
+        "citations": 711,
+        "authors": "H. R. Bolhàr-Nordenkampf, Stephen P. Long, Neil R. Baker et al.",
+        "authors_list": [
+            "H. R. Bolhàr-Nordenkampf",
+            "Stephen P. Long",
+            "Neil R. Baker",
+            "Gunnar Öquist",
+            "Ulrich Schreiber",
+            "Elisabeth Lechner"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 711,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0065-2504(08)60028-8",
+        "title": "Free-air Carbon Dioxide Enrichment (FACE) in Global Change Research: A Review",
+        "journal": "Advances in ecological research/Advances in Ecological Research",
+        "year": 1999,
+        "citations": 687,
+        "authors": "Andrew McLeod, Stephen P. Long",
+        "authors_list": [
+            "Andrew McLeod",
+            "Stephen P. Long"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 687,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2486.2008.01774.x",
+        "title": "Quantifying the impact of current and future tropospheric ozone on tree biomass, growth, physiology and biochemistry: a quantitative meta‐analysis",
+        "journal": "Global Change Biology",
+        "year": 2008,
+        "citations": 600,
+        "authors": "Victoria E. Wittig, Elizabeth A. Ainsworth, Shawna L. Naidu et al.",
+        "authors_list": [
+            "Victoria E. Wittig",
+            "Elizabeth A. Ainsworth",
+            "Shawna L. Naidu",
+            "David F. Karnosky",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 600,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2486.2008.01774.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcb.15375",
+        "title": "30 years of free‐air carbon dioxide enrichment (FACE): What have we learned about future crop productivity and its potential for adaptation?",
+        "journal": "Global Change Biology",
+        "year": 2020,
+        "citations": 582,
+        "authors": "Elizabeth A. Ainsworth, Stephen P. Long",
+        "authors_list": [
+            "Elizabeth A. Ainsworth",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 582,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.105.073957",
+        "title": "Photosynthesis, Productivity, and Yield of Maize Are Not Affected by Open-Air Elevation of CO2 Concentration in the Absence of Drought",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 2006,
+        "citations": 558,
+        "authors": "Andrew D. B. Leakey, M. Uribelarrea, Elizabeth A. Ainsworth et al.",
+        "authors_list": [
+            "Andrew D. B. Leakey",
+            "M. Uribelarrea",
+            "Elizabeth A. Ainsworth",
+            "Shawna L. Naidu",
+            "Alistair Rogers",
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 558,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/140/2/779/37846342/plphys_v140_2_779.pdf"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Plants and temperature",
+        "journal": "Medical Entomology and Zoology",
+        "year": 1988,
+        "citations": 529,
+        "authors": "Stephen P. Long, F. I. Woodward",
+        "authors_list": [
+            "Stephen P. Long",
+            "F. I. Woodward"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 529,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.1365-2486.2002.00498.x",
+        "title": "A meta‐analysis of elevated [CO<sub>2</sub>] effects on soybean (<i>Glycine max</i>) physiology, growth and yield",
+        "journal": "Global Change Biology",
+        "year": 2002,
+        "citations": 486,
+        "authors": "Elizabeth A. Ainsworth, Phillip Davey, Carl J. Bernacchi et al.",
+        "authors_list": [
+            "Elizabeth A. Ainsworth",
+            "Phillip Davey",
+            "Carl J. Bernacchi",
+            "Orla Dermody",
+            "Emily A. Heaton",
+            "D. J. Moore",
+            "Patrick B. Morgan",
+            "Shawna L. Naidu",
+            "Hyung‐shim Yoo",
+            "Xin-Guang Zhu",
+            "Peter S. Curtis",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 486,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.0016-8025.2003.01050.x",
+        "title": "<i>In vivo</i> temperature response functions of parameters required to model RuBP‐limited photosynthesis",
+        "journal": "Plant Cell & Environment",
+        "year": 2003,
+        "citations": 478,
+        "authors": "Carl J. Bernacchi, Carlos Pimentel, Stephen P. Long",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Carlos Pimentel",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 478,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.0016-8025.2003.01050.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41477-018-0108-y",
+        "title": "Farming with crops and rocks to address global climate, food and soil security",
+        "journal": "Nature Plants",
+        "year": 2018,
+        "citations": 470,
+        "authors": "David J. Beerling, Jonathan R. Leake, Stephen P. Long et al.",
+        "authors_list": [
+            "David J. Beerling",
+            "Jonathan R. Leake",
+            "Stephen P. Long",
+            "Julie D. Scholes",
+            "Jurriaan Ton",
+            "Paul N. Nelson",
+            "Michael I. Bird",
+            "Euripides P. Kantzas",
+            "Lyla L. Taylor",
+            "Binoy Sarkar",
+            "Mike Kelland",
+            "Evan H. DeLucia",
+            "I. B. Kantola",
+            "Christoph Müller",
+            "Greg H. Rau",
+            "James E. Hansen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 470,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://eprints.lancs.ac.uk/id/eprint/135671/1/EW_perspective_4_Jan_2018.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2007.01717.x",
+        "title": "To what extent do current and projected increases in surface ozone affect photosynthesis and stomatal conductance of trees? A meta‐analytic review of the last 3 decades of experiments",
+        "journal": "Plant Cell & Environment",
+        "year": 2007,
+        "citations": 438,
+        "authors": "Victoria E. Wittig, Elizabeth A. Ainsworth, Stephen P. Long",
+        "authors_list": [
+            "Victoria E. Wittig",
+            "Elizabeth A. Ainsworth",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 438,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2007.01717.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.107.103713",
+        "title": "Optimizing the Distribution of Resources between Enzymes of Carbon Metabolism Can Dramatically Increase Photosynthetic Rate: A Numerical Simulation Using an Evolutionary Algorithm",
+        "journal": "Plant Physiology",
+        "year": 2007,
+        "citations": 437,
+        "authors": "Xin-Guang Zhu, Eric de Sturler, Stephen P. Long",
+        "authors_list": [
+            "Xin-Guang Zhu",
+            "Eric de Sturler",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 437,
+            "crossref": 385
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/145/2/513/37068887/plphys_v145_2_513.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.109.139162",
+        "title": "More Productive Than Maize in the Midwest: How Does Miscanthus Do It?\n \n ",
+        "journal": "Plant Physiology",
+        "year": 2009,
+        "citations": 400,
+        "authors": "Frank G. Dohleman, Stephen P. Long",
+        "authors_list": [
+            "Frank G. Dohleman",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 400,
+            "crossref": 352
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.plantphysiol.org/content/plantphysiol/150/4/2104.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.0016-8025.2003.01056.x",
+        "title": "How does elevated ozone impact soybean? A meta‐analysis of photosynthesis, growth and yield",
+        "journal": "Plant Cell & Environment",
+        "year": 2003,
+        "citations": 397,
+        "authors": "Patrick B. Morgan, Elizabeth A. Ainsworth, Stephen P. Long",
+        "authors_list": [
+            "Patrick B. Morgan",
+            "Elizabeth A. Ainsworth",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 397,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.0016-8025.2003.01056.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.pbi.2010.04.008",
+        "title": "More than taking the heat: crops and global change",
+        "journal": "Current Opinion in Plant Biology",
+        "year": 2010,
+        "citations": 384,
+        "authors": "Stephen P. Long, Donald R. Ort",
+        "authors_list": [
+            "Stephen P. Long",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 384,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.agrformet.2003.09.002",
+        "title": "Testing the “source–sink” hypothesis of down-regulation of photosynthesis in elevated [CO2] in the field with single gene substitutions in Glycine max",
+        "journal": "Agricultural and Forest Meteorology",
+        "year": 2003,
+        "citations": 368,
+        "authors": "Elizabeth A. Ainsworth, Alistair Rogers, Randall L. Nelson et al.",
+        "authors_list": [
+            "Elizabeth A. Ainsworth",
+            "Alistair Rogers",
+            "Randall L. Nelson",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 368,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.adc9831",
+        "title": "Soybean photosynthesis and crop yield are improved by accelerating recovery from photoprotection",
+        "journal": "Science",
+        "year": 2022,
+        "citations": 354,
+        "authors": "Amanda P. De Souza, Steven Burgess, Lynn Doran et al.",
+        "authors_list": [
+            "Amanda P. De Souza",
+            "Steven Burgess",
+            "Lynn Doran",
+            "Jeffrey Hansen",
+            "Lusya Manukyan",
+            "Nina Maryn",
+            "Dhananjay Gotarkar",
+            "Lauriebeth Leonelli",
+            "Krishna Niyogi",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 354,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1126/science.adc9831"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jxb/erh141",
+        "title": "The slow reversibility of photosystem II thermal energy dissipation on transfer from high to low light may cause large losses in carbon gain by crop canopies: a theoretical analysis",
+        "journal": "Journal of Experimental Botany",
+        "year": 2004,
+        "citations": 330,
+        "authors": "Xin‐Guang Zhu, Donald R. Ort, John Whitmarsh et al.",
+        "authors_list": [
+            "Xin‐Guang Zhu",
+            "Donald R. Ort",
+            "John Whitmarsh",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 330,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jxb/article-pdf/55/400/1167/18072143/erh141.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nplants.2016.132",
+        "title": "Intensifying drought eliminates the expected benefits of elevated carbon dioxide for soybean",
+        "journal": "Nature Plants",
+        "year": 2016,
+        "citations": 314,
+        "authors": "Sharon B. Gray, Orla Dermody, Stephanie P. Klein et al.",
+        "authors_list": [
+            "Sharon B. Gray",
+            "Orla Dermody",
+            "Stephanie P. Klein",
+            "Anna M. Locke",
+            "Justin M. McGrath",
+            "Rachel Paul",
+            "David M. Rosenthal",
+            "Ursula M. Ruiz‐Vera",
+            "Matthew H. Siebers",
+            "Reid S. Strellner",
+            "Elizabeth A. Ainsworth",
+            "Carl J. Bernacchi",
+            "Stephen P. Long",
+            "Donald R. Ort",
+            "Andrew D. B. Leakey"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 314,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/1365-3040.ep11612141",
+        "title": "C<sub>4</sub> photosynthesis at low temperatures",
+        "journal": "Plant Cell & Environment",
+        "year": 1983,
+        "citations": 312,
+        "authors": "Stephen P. Long",
+        "authors_list": [
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 312,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-94-011-1566-7_9",
+        "title": "Measurement of CO2 assimilation by plants in the field and the laboratory",
+        "journal": "",
+        "year": 1993,
+        "citations": 300,
+        "authors": "Stephen P. Long, J‐E. HÄLLGREN",
+        "authors_list": [
+            "Stephen P. Long",
+            "J‐E. HÄLLGREN"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 300,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1023/b:miti.0000038848.94134.be",
+        "title": "Miscanthus for Renewable Energy Generation: European Union Experience and Projections for Illinois",
+        "journal": "Mitigation and Adaptation Strategies for Global Change",
+        "year": 2004,
+        "citations": 295,
+        "authors": "Emily A. Heaton, Stephen P. Long, Thomas Voigt et al.",
+        "authors_list": [
+            "Emily A. Heaton",
+            "Stephen P. Long",
+            "Thomas Voigt",
+            "Michael B. Jones",
+            "J. C. Brown"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 295,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0961-9534(97)00016-0",
+        "title": "Seasonal dynamics of nutrient accumulation and partitioning in the perennial C4-grasses Miscanthus × giganteus and Spartina cynosuroides",
+        "journal": "Biomass and Bioenergy",
+        "year": 1997,
+        "citations": 294,
+        "authors": "C.V. Beale, Stephen P. Long",
+        "authors_list": [
+            "C.V. Beale",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 294,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1097/00002508-199809000-00008",
+        "title": "Analysis of Peak Magnitude and Duration of Analgesia Produced by Local Anesthetics Injected into Sympathetic Ganglia of Complex Regional Pain Syndrome Patients",
+        "journal": "Clinical Journal of Pain",
+        "year": 1998,
+        "citations": 284,
+        "authors": "Donald D. Price, Stephen P. Long, Barth Wilsey et al.",
+        "authors_list": [
+            "Donald D. Price",
+            "Stephen P. Long",
+            "Barth Wilsey",
+            "Amir Rafii"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 284,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.106.089557",
+        "title": "Decreases in Stomatal Conductance of Soybean under Open-Air Elevation of [CO2] Are Closely Coupled with Decreases in Ecosystem Evapotranspiration",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 2006,
+        "citations": 279,
+        "authors": "Carl J. Bernacchi, Bruce A. Kimball, Devin R. Quarles et al.",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Bruce A. Kimball",
+            "Devin R. Quarles",
+            "Stephen P. Long",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 279,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/143/1/134/38099780/plphys_v143_1_134.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1098/rstb.2005.1749",
+        "title": "Global food insecurity. Treatment of major food crops with elevated carbon dioxide or ozone under large-scale fully open-air conditions suggests recent models may have overestimated future yields",
+        "journal": "Philosophical Transactions of the Royal Society B Biological Sciences",
+        "year": 2005,
+        "citations": 276,
+        "authors": "Stephen P. Long, Elizabeth A. Ainsworth, Andrew D. B. Leakey et al.",
+        "authors_list": [
+            "Stephen P. Long",
+            "Elizabeth A. Ainsworth",
+            "Andrew D. B. Leakey",
+            "Patrick B. Morgan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 276,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/1569581"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00425-005-0064-4",
+        "title": "Chlorophyll a fluorescence induction kinetics in leaves predicted from a model describing each discrete step of excitation energy and electron transfer associated with Photosystem II",
+        "journal": "Planta",
+        "year": 2005,
+        "citations": 274,
+        "authors": "Xin‐Guang Zhu, Govind Jee, Neil R. Baker et al.",
+        "authors_list": [
+            "Xin‐Guang Zhu",
+            "Govind Jee",
+            "Neil R. Baker",
+            "Eric de Sturler",
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 274,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/b978-0-12-381518-7.00003-0",
+        "title": "Miscanthus",
+        "journal": "Advances in botanical research",
+        "year": 2010,
+        "citations": 257,
+        "authors": "Emily A. Heaton, Frank G. Dohleman, A. Fernando Miguez et al.",
+        "authors_list": [
+            "Emily A. Heaton",
+            "Frank G. Dohleman",
+            "A. Fernando Miguez",
+            "John A. Juvik",
+            "V. V. Lozovaya",
+            "Jack M. Widholm",
+            "Olga A. Zabotina",
+            "Gregory F. McIsaac",
+            "Mark B. David",
+            "Thomas Voigt",
+            "Nicholas N. Boersma",
+            "Stephen P. Long"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 257,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1098/rstb.2016.0543",
+        "title": "Slow induction of photosynthesis on shade to sun transitions in wheat may cost at least 21% of productivity",
+        "journal": "Philosophical Transactions of the Royal Society B Biological Sciences",
+        "year": 2017,
+        "citations": 257,
+        "authors": "Samuel H. Taylor, Stephen P. Long",
+        "authors_list": [
+            "Samuel H. Taylor",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 257,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2016.0543"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1469-8137.2008.02500.x",
+        "title": "FACE‐ing the facts: inconsistencies and interdependence among field, chamber and modeling studies of elevated [CO<sub>2</sub>] impacts on crop yield and food supply",
+        "journal": "New Phytologist",
+        "year": 2008,
+        "citations": 256,
+        "authors": "Elizabeth A. Ainsworth, Andrew D. B. Leakey, Donald R. Ort et al.",
+        "authors_list": [
+            "Elizabeth A. Ainsworth",
+            "Andrew D. B. Leakey",
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 256,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-8137.2008.02500.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-018-03231-x",
+        "title": "Photosystem II Subunit S overexpression increases the efficiency of water use in a field-grown crop",
+        "journal": "Nature Communications",
+        "year": 2018,
+        "citations": 246,
+        "authors": "Katarzyna Głowacka, Johannes Kromdijk, Katherine Kucera et al.",
+        "authors_list": [
+            "Katarzyna Głowacka",
+            "Johannes Kromdijk",
+            "Katherine Kucera",
+            "Jiayang Xie",
+            "Amanda P. Cavanagh",
+            "Lauriebeth Leonelli",
+            "Andrew D. B. Leakey",
+            "Donald R. Ort",
+            "Krishna Niyogi",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 246,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-018-03231-x.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/3899616",
+        "title": "Techniques in Bioproductivity and Photosynthesis",
+        "journal": "Journal of Range Management",
+        "year": 1987,
+        "citations": 244,
+        "authors": "Grant A. Harris, J. Coombs, D. D. Hall et al.",
+        "authors_list": [
+            "Grant A. Harris",
+            "J. Coombs",
+            "D. D. Hall",
+            "Stephen P. Long",
+            "J. M. O. Scurlock"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 244,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.1995.tb00565.x",
+        "title": "Can perennial C<sub>4</sub> grasses attain high efficiencies of radiant energy conversion in cool climates?",
+        "journal": "Plant Cell & Environment",
+        "year": 1995,
+        "citations": 240,
+        "authors": "C.V. Beale, Stephen P. Long",
+        "authors_list": [
+            "C.V. Beale",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 240,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev-arplant-070221-024745",
+        "title": "Into the Shadows and Back into Sunlight: Photosynthesis in Fluctuating Light",
+        "journal": "Annual Review of Plant Biology",
+        "year": 2022,
+        "citations": 235,
+        "authors": "Stephen P. Long, Samuel H. Taylor, Steven Burgess et al.",
+        "authors_list": [
+            "Stephen P. Long",
+            "Samuel H. Taylor",
+            "Steven Burgess",
+            "Elizabete Carmo‐Silva",
+            "Tracy Lawson",
+            "Amanda P. De Souza",
+            "Lauriebeth Leonelli",
+            "Yu Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 235,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/2403964",
+        "title": "Physiological Determinants of Crop Growth.",
+        "journal": "Journal of Applied Ecology",
+        "year": 1986,
+        "citations": 229,
+        "authors": "Stephen P. Long, D. A. Charles‐Edwards",
+        "authors_list": [
+            "Stephen P. Long",
+            "D. A. Charles‐Edwards"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 229,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.96.1.221",
+        "title": "Effect of the Long-Term Elevation of CO<sub>2</sub> Concentration in the Field on the Quantum Yield of Photosynthesis of the C<sub>3</sub> Sedge, <i>Scirpus olneyi</i>",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 1991,
+        "citations": 228,
+        "authors": "Stephen P. Long, Bert G. Drake",
+        "authors_list": [
+            "Stephen P. Long",
+            "Bert G. Drake"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 228,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1080736/pdf/plntphys00691-0230.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/b978-0-444-89608-7.50011-3",
+        "title": "Photosynthetic CO2 assimilation and rising atmospheric CO2 concentrations",
+        "journal": "Elsevier eBooks",
+        "year": 1992,
+        "citations": 226,
+        "authors": "Stephen P. Long, Bert G. Drake",
+        "authors_list": [
+            "Stephen P. Long",
+            "Bert G. Drake"
+        ],
+        "type": "book-chapter",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 226,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.103.021790",
+        "title": "Cold Tolerance of C4 photosynthesis in <i>Miscanthus</i> × <i>giganteus</i> : Adaptation in Amounts and Sequence of C4 Photosynthetic Enzymes",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 2003,
+        "citations": 225,
+        "authors": "Shawna L. Naidu, Stephen P. Moose, Abdul Khaliq Al-Shoaibi et al.",
+        "authors_list": [
+            "Shawna L. Naidu",
+            "Stephen P. Moose",
+            "Abdul Khaliq Al-Shoaibi",
+            "Christine A. Raines",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 225,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/132/3/1688/38699461/plphys_v132_3_1688.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1469-8137.2006.01679.x",
+        "title": "Season‐long elevation of ozone concentration to projected 2050 levels under fully open‐air conditions substantially decreases the growth and production of soybean",
+        "journal": "New Phytologist",
+        "year": 2006,
+        "citations": 224,
+        "authors": "Patrick B. Morgan, Timothy A. Mies, Germán A. Bollero et al.",
+        "authors_list": [
+            "Patrick B. Morgan",
+            "Timothy A. Mies",
+            "Germán A. Bollero",
+            "Randall L. Nelson",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 224,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bf00014595",
+        "title": "Acclimation of photosynthetic proteins to rising atmospheric CO2",
+        "journal": "Photosynthesis Research",
+        "year": 1994,
+        "citations": 222,
+        "authors": "Andrew N. Webber, Gui-Ying Nie, Stephen P. Long",
+        "authors_list": [
+            "Andrew N. Webber",
+            "Gui-Ying Nie",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 222,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1509777112",
+        "title": "An analysis of ozone damage to historical maize and soybean yields in the United States",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2015,
+        "citations": 219,
+        "authors": "Justin M. McGrath, Amy M. Betzelberger, Shaowen Wang et al.",
+        "authors_list": [
+            "Justin M. McGrath",
+            "Amy M. Betzelberger",
+            "Shaowen Wang",
+            "Eric Shook",
+            "Xin-Guang Zhu",
+            "Stephen P. Long",
+            "Elizabeth A. Ainsworth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 219,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/4655515"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/1941118",
+        "title": "The Productivity of the C_4 Grass Echinochloa Polystachya on the Amazon Floodplain",
+        "journal": "Ecology",
+        "year": 1991,
+        "citations": 219,
+        "authors": "María Teresa Fernández Piedade, W. J. Junk, Stephen P. Long",
+        "authors_list": [
+            "María Teresa Fernández Piedade",
+            "W. J. Junk",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 219,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://repositorio.inpa.gov.br/handle/1/22046"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.113.232611",
+        "title": "Can the Cyanobacterial Carbon-Concentrating Mechanism Increase Photosynthesis in Crop Species? A Theoretical Analysis    ",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 2014,
+        "citations": 217,
+        "authors": "Justin M. McGrath, Stephen P. Long",
+        "authors_list": [
+            "Justin M. McGrath",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 217,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/164/4/2247/37173118/plphys_v164_4_2247.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2004.01163.x",
+        "title": "Leaf photosynthesis and carbohydrate dynamics of soybeans grown throughout their life‐cycle under Free‐Air Carbon dioxide Enrichment",
+        "journal": "Plant Cell & Environment",
+        "year": 2004,
+        "citations": 216,
+        "authors": "Alistair Rogers, D. J. Allen, Phillip Davey et al.",
+        "authors_list": [
+            "Alistair Rogers",
+            "D. J. Allen",
+            "Phillip Davey",
+            "Patrick B. Morgan",
+            "Elizabeth A. Ainsworth",
+            "Carl J. Bernacchi",
+            "Gabriel Cornic",
+            "Orla Dermody",
+            "Frank G. Dohleman",
+            "Emily A. Heaton",
+            "John R. Mahoney",
+            "Xin-Guang Zhu",
+            "Evan H. DeLucia",
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 216,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2004.01163.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.95.2.529",
+        "title": "The Sequence of Change within the Photosynthetic Apparatus of Wheat following Short-Term Exposure to Ozone",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 1991,
+        "citations": 214,
+        "authors": "P. K. Farage, Stephen P. Long, Elisabeth Lechner et al.",
+        "authors_list": [
+            "P. K. Farage",
+            "Stephen P. Long",
+            "Elisabeth Lechner",
+            "Neil R. Baker"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 214,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/95/2/529/35643697/plphys_v95_2_529.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s00425-004-1320-8",
+        "title": "The growth of soybean under free air [CO2] enrichment (FACE) stimulates photosynthesis while decreasing in vivo Rubisco capacity",
+        "journal": "Planta",
+        "year": 2004,
+        "citations": 208,
+        "authors": "Carl J. Bernacchi, Patrick B. Morgan, Donald R. Ort et al.",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Patrick B. Morgan",
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 208,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.1365-3040.2004.01142.x",
+        "title": "Would transformation of C<sub>3</sub> crop plants with foreign Rubisco increase productivity? A computational analysis extrapolating from kinetic properties to canopy photosynthesis",
+        "journal": "Plant Cell & Environment",
+        "year": 2004,
+        "citations": 208,
+        "authors": "Xin-Guang Zhu, Archie R. Portis, Stephen P. Long",
+        "authors_list": [
+            "Xin-Guang Zhu",
+            "Archie R. Portis",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 208,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1757-1707.2010.01077.x",
+        "title": "The global potential for Agave as a biofuel feedstock",
+        "journal": "GCB Bioenergy",
+        "year": 2010,
+        "citations": 206,
+        "authors": "Sarah C. Davis, Frank G. Dohleman, Stephen P. Long",
+        "authors_list": [
+            "Sarah C. Davis",
+            "Frank G. Dohleman",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 206,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1757-1707.2010.01077.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0304-3959(92)90139-3",
+        "title": "Sensory testing of pathophysiological mechanisms of pain in patients with reflex sympathetic dystrophy",
+        "journal": "Pain",
+        "year": 1992,
+        "citations": 206,
+        "authors": "Donald D. Price, Stephen P. Long, Cora Huitt",
+        "authors_list": [
+            "Donald D. Price",
+            "Stephen P. Long",
+            "Cora Huitt"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 206,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1757-1707.2009.01022.x",
+        "title": "Seasonal nitrogen dynamics of <i>Miscanthus</i>×<i>giganteus</i> and <i>Panicum virgatum</i>",
+        "journal": "GCB Bioenergy",
+        "year": 2009,
+        "citations": 206,
+        "authors": "Emily A. Heaton, Frank G. Dohleman, Stephen P. Long",
+        "authors_list": [
+            "Emily A. Heaton",
+            "Frank G. Dohleman",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 206,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1757-1707.2009.01022.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.118.2.683",
+        "title": "Acclimation of Photosynthesis to Elevated CO2under Low-Nitrogen Nutrition Is Affected by the Capacity for Assimilate Utilization. Perennial Ryegrass under Free-Air CO2 Enrichment",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 1998,
+        "citations": 205,
+        "authors": "Alistair Rogers, Bernt Fischer, Jonathan B. Bryant et al.",
+        "authors_list": [
+            "Alistair Rogers",
+            "Bernt Fischer",
+            "Jonathan B. Bryant",
+            "Marco Frehner",
+            "Herbert Blum",
+            "Christine A. Raines",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 205,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.plantphysiol.org/content/plantphysiol/118/2/683.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nclimate3410",
+        "title": "Brazilian sugarcane ethanol as an expandable green alternative to crude oil use",
+        "journal": "Nature Climate Change",
+        "year": 2017,
+        "citations": 205,
+        "authors": "Deepak Jaiswal, Amanda P. De Souza, Søren Larsen et al.",
+        "authors_list": [
+            "Deepak Jaiswal",
+            "Amanda P. De Souza",
+            "Søren Larsen",
+            "David LeBauer",
+            "Fernando E. Miguez",
+            "Gerd Sparovek",
+            "Germán A. Bollero",
+            "Marcos Silveira Buckeridge",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 205,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://dx.doi.org/10.1038/nclimate3410"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.1365-3040.2003.01007.x",
+        "title": "Is stimulation of leaf photosynthesis by elevated carbon dioxide concentration maintained in the long term? A test with <i>Lolium perenne</i> grown for 10 years at two nitrogen fertilization levels under <i>F</i>ree <i>A</i>ir <i>C</i>O<sub>2</sub><i>E</i>nrichment (FACE)",
+        "journal": "Plant Cell & Environment",
+        "year": 2003,
+        "citations": 201,
+        "authors": "Elizabeth A. Ainsworth, Phillip Davey, Graham J. Hymus et al.",
+        "authors_list": [
+            "Elizabeth A. Ainsworth",
+            "Phillip Davey",
+            "Graham J. Hymus",
+            "Colin P. Osborne",
+            "Alistair Rogers",
+            "Hermann Blum",
+            "J. Nösberger",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 201,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.1991.tb01375.x",
+        "title": "Chilling stress and oxygen metabolizing enzymes in <i>Zea mays</i> and <i>Zea diploperennis</i>*",
+        "journal": "Plant Cell & Environment",
+        "year": 1991,
+        "citations": 199,
+        "authors": "Leland S. Jahnke, Mark R. Hull, Stephen P. Long",
+        "authors_list": [
+            "Leland S. Jahnke",
+            "Mark R. Hull",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 199,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2011.02378.x",
+        "title": "Accelerating yield potential in soybean: potential targets for biotechnological improvement",
+        "journal": "Plant Cell & Environment",
+        "year": 2011,
+        "citations": 198,
+        "authors": "Elizabeth A. Ainsworth, Craig R. Yendrek, Jeffrey A. Skoneczka et al.",
+        "authors_list": [
+            "Elizabeth A. Ainsworth",
+            "Craig R. Yendrek",
+            "Jeffrey A. Skoneczka",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 198,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1529-8817.2003.00767.x",
+        "title": "Will photosynthesis of maize (<i>Zea mays</i>) in the US Corn Belt increase in future [CO<sub>2</sub>] rich atmospheres? An analysis of diurnal courses of CO<sub>2</sub> uptake under free‐air concentration enrichment (FACE)",
+        "journal": "Global Change Biology",
+        "year": 2004,
+        "citations": 198,
+        "authors": "Andrew D. B. Leakey, Carl J. Bernacchi, Frank G. Dohleman et al.",
+        "authors_list": [
+            "Andrew D. B. Leakey",
+            "Carl J. Bernacchi",
+            "Frank G. Dohleman",
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 198,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1186/1471-2229-11-123",
+        "title": "Over-expressing the C3 photosynthesis cycle\\nenzyme Sedoheptulose-1-7 Bisphosphatase\\nimproves photosynthetic carbon gain and yield\\nunder fully open air CO2 fumigation (FACE)",
+        "journal": "Insecta mundi",
+        "year": 2011,
+        "citations": 196,
+        "authors": "David M. Rosenthal, Anna M. Locke, Mahdi Khozaei et al.",
+        "authors_list": [
+            "David M. Rosenthal",
+            "Anna M. Locke",
+            "Mahdi Khozaei",
+            "Christine A. Raines",
+            "Stephen P. Long",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 196,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://bmcplantbiol.biomedcentral.com/counter/pdf/10.1186/1471-2229-11-123"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bf00195081",
+        "title": "Quantum yields for uptake of carbon dioxide in C3 vascular plants of contrasting habitats and taxonomic groupings",
+        "journal": "Planta",
+        "year": 1993,
+        "citations": 195,
+        "authors": "Stephen P. Long, W. Postl, Harald Bolh�r-Nordenkampf",
+        "authors_list": [
+            "Stephen P. Long",
+            "W. Postl",
+            "Harald Bolh�r-Nordenkampf"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 195,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2006.01549.x",
+        "title": "Increased C availability at elevated carbon dioxide concentration improves N assimilation in a legume",
+        "journal": "Plant Cell & Environment",
+        "year": 2006,
+        "citations": 194,
+        "authors": "Alistair Rogers, Yves Gibon, Mark Stitt et al.",
+        "authors_list": [
+            "Alistair Rogers",
+            "Yves Gibon",
+            "Mark Stitt",
+            "Patrick B. Morgan",
+            "Carl J. Bernacchi",
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 194,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2006.01549.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jxb/47.11.1629",
+        "title": "Measurement of leaf and canopy photosynthetic CO<sub>2</sub>exchange in the field",
+        "journal": "Journal of Experimental Botany",
+        "year": 1996,
+        "citations": 190,
+        "authors": "Stephen P. Long, P. K. Farage, Richard L. Garcia",
+        "authors_list": [
+            "Stephen P. Long",
+            "P. K. Farage",
+            "Richard L. Garcia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 190,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jxb/article-pdf/47/11/1629/1636578/47-11-1629.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.agrformet.2008.03.010",
+        "title": "Meta-analysis of the effects of management factors on Miscanthus×giganteus growth and biomass production",
+        "journal": "Agricultural and Forest Meteorology",
+        "year": 2008,
+        "citations": 187,
+        "authors": "Fernando E. Miguez, María B. Villamil, Stephen P. Long et al.",
+        "authors_list": [
+            "Fernando E. Miguez",
+            "María B. Villamil",
+            "Stephen P. Long",
+            "Germán A. Bollero"
+        ],
+        "type": "review",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 187,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S016819230800097X"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Photosynthesis in Contrasting Environments",
+        "journal": "",
+        "year": 1986,
+        "citations": 183,
+        "authors": "N. R. Baker, Stephen P. Long",
+        "authors_list": [
+            "N. R. Baker",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 183,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.108.3.975",
+        "title": "Increased Accumulation of Carbohydrates and Decreased Photosynthetic Gene Transcript Levels in Wheat Grown at an Elevated CO2 Concentration in the Field",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 1995,
+        "citations": 177,
+        "authors": "Guiying Nie, Donald L. Hendrix, Andrew N. Webber et al.",
+        "authors_list": [
+            "Guiying Nie",
+            "Donald L. Hendrix",
+            "Andrew N. Webber",
+            "Bruce A. Kimball",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 177,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/108/3/975/35533443/plphys_v108_3_975.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1757-1707.2011.01153.x",
+        "title": "Seasonal dynamics of above‐ and below‐ground biomass and nitrogen partitioning in <i><scp>M</scp>iscanthus</i> × <i>giganteus</i> and <i><scp>P</scp>anicum virgatum</i> across three growing seasons",
+        "journal": "GCB Bioenergy",
+        "year": 2012,
+        "citations": 175,
+        "authors": "Frank G. Dohleman, Emily A. Heaton, Rebecca A. Arundale et al.",
+        "authors_list": [
+            "Frank G. Dohleman",
+            "Emily A. Heaton",
+            "Rebecca A. Arundale",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 175,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1757-1707.2011.01153.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1920877117",
+        "title": "Robust paths to net greenhouse gas mitigation and negative emissions via advanced biofuels",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2020,
+        "citations": 174,
+        "authors": "John Field, Tom L. Richard, Erica A. H. Smithwick et al.",
+        "authors_list": [
+            "John Field",
+            "Tom L. Richard",
+            "Erica A. H. Smithwick",
+            "Hao Cai",
+            "Mark Laser",
+            "David LeBauer",
+            "Stephen P. Long",
+            "Keith Paustian",
+            "Zhangcai Qin",
+            "John Sheehan",
+            "Pete Smith",
+            "Michael Wang",
+            "Lee R. Lynd"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 174,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/doi/full/10.1073/pnas.1920877117"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.copbio.2008.05.001",
+        "title": "Herbaceous energy crop development: recent progress and future prospects",
+        "journal": "Current Opinion in Biotechnology",
+        "year": 2008,
+        "citations": 174,
+        "authors": "Emily A. Heaton, R. B. Flavell, Peter N. Mascia et al.",
+        "authors_list": [
+            "Emily A. Heaton",
+            "R. B. Flavell",
+            "Peter N. Mascia",
+            "Steven R. Thomas",
+            "Frank G. Dohleman",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 174,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/gcb.13526",
+        "title": "Decreasing, not increasing, leaf area will raise crop yields under global atmospheric change",
+        "journal": "Global Change Biology",
+        "year": 2016,
+        "citations": 172,
+        "authors": "V. Srinivasan, Praveen Kumar, Stephen P. Long",
+        "authors_list": [
+            "V. Srinivasan",
+            "Praveen Kumar",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 172,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.13526"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1253884",
+        "title": "Limits on Yields in the Corn Belt",
+        "journal": "Science",
+        "year": 2014,
+        "citations": 169,
+        "authors": "Donald R. Ort, Stephen P. Long",
+        "authors_list": [
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "editorial",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 169,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.108.120709",
+        "title": "Cool C4 Photosynthesis: Pyruvate Pi Dikinase Expression and Activity Corresponds to the Exceptional Cold Tolerance of Carbon Assimilation in<i>Miscanthus</i>×<i>giganteus</i>     ",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 2008,
+        "citations": 165,
+        "authors": "Dafu Wang, Archie R. Portis, Stephen P. Moose et al.",
+        "authors_list": [
+            "Dafu Wang",
+            "Archie R. Portis",
+            "Stephen P. Moose",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 165,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/148/1/557/37095057/plphys_v148_1_557.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2006.01581.x",
+        "title": "Hourly and seasonal variation in photosynthesis and stomatal conductance of soybean grown at future CO<sub>2</sub> and ozone concentrations for 3 years under fully open‐air field conditions",
+        "journal": "Plant Cell & Environment",
+        "year": 2006,
+        "citations": 163,
+        "authors": "Carl J. Bernacchi, Andrew D. B. Leakey, Lindsey E. Heady et al.",
+        "authors_list": [
+            "Carl J. Bernacchi",
+            "Andrew D. B. Leakey",
+            "Lindsey E. Heady",
+            "Patrick B. Morgan",
+            "Frank G. Dohleman",
+            "Justin M. McGrath",
+            "Kelly M. Gillespie",
+            "Victoria E. Wittig",
+            "Alistair Rogers",
+            "Stephen P. Long",
+            "Donald R. Ort"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 163,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2006.01581.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jxb/34.2.177",
+        "title": "Chilling Damage to Photosynthesis in Young Zea mays: I. EFFECTS OF LIGHT AND TEMPERATURE VARIATION ON PHOTOSYNTHETIC CO2 ASSIMILATION",
+        "journal": "HighWire Press Open Archive",
+        "year": null,
+        "citations": 162,
+        "authors": "Stephen P. Long, T. M. EAST, N. R. Baker",
+        "authors_list": [
+            "Stephen P. Long",
+            "T. M. EAST",
+            "N. R. Baker"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 162,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.2008.01841.x",
+        "title": "Next generation of elevated [CO<sub>2</sub>] experiments with crops: a critical investment for feeding the future world",
+        "journal": "Plant Cell & Environment",
+        "year": 2008,
+        "citations": 158,
+        "authors": "Elizabeth A. Ainsworth, Claus Beier, Carlo Calfapietra et al.",
+        "authors_list": [
+            "Elizabeth A. Ainsworth",
+            "Claus Beier",
+            "Carlo Calfapietra",
+            "R. Ceulemans",
+            "Mylène Durand‐Tardif",
+            "Graham D. Farquhar",
+            "Douglas L. Godbold",
+            "George R. Hendrey",
+            "Thomas Hickler",
+            "Jörg Kaduk",
+            "David F. Karnosky",
+            "Bruce A. Kimball",
+            "Christian Körner",
+            "Maarten Koornneef",
+            "Tanguy Lafarge",
+            "Andrew D. B. Leakey",
+            "Keith F. Lewin",
+            "Stephen P. Long",
+            "REMY MANDERSCHEID",
+            "D. L. McNeil",
+            "Timothy A. Mies",
+            "F. Miglietta",
+            "JACK A. MORGAN",
+            "John A. Nagy",
+            "Richard J. Norby",
+            "Robert M. Norton",
+            "Kevin E. Percy",
+            "Alistair Rogers",
+            "Jean‐François Soussana",
+            "Mark Stitt",
+            "Hans‐Joachim Weigel",
+            "Jeffrey W. White"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 158,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2008.01841.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1098/rsbl.2016.0714",
+        "title": "Potential of global croplands and bioenergy crops for climate change mitigation through deployment for enhanced weathering",
+        "journal": "Biology Letters",
+        "year": 2017,
+        "citations": 156,
+        "authors": "I. B. Kantola, Michael D. Masters, David J. Beerling et al.",
+        "authors_list": [
+            "I. B. Kantola",
+            "Michael D. Masters",
+            "David J. Beerling",
+            "Stephen P. Long",
+            "Evan H. DeLucia"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 156,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2016.0714"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1029/2010jg001340",
+        "title": "Ecohydrological responses of dense canopies to environmental variability: 1. Interplay between vertical structure and photosynthetic pathway",
+        "journal": "Journal of Geophysical Research Atmospheres",
+        "year": 2010,
+        "citations": 156,
+        "authors": "D. Drewry, Praveen Kumar, Stephen P. Long et al.",
+        "authors_list": [
+            "D. Drewry",
+            "Praveen Kumar",
+            "Stephen P. Long",
+            "Carl J. Bernacchi",
+            "Xin‐Zhong Liang",
+            "Murugesu Sivapalan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 156,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2010JG001340"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2486.2005.001017.x",
+        "title": "Smaller than predicted increase in aboveground net primary production and yield of field‐grown soybean under fully open‐air [CO<sub>2</sub>] elevation",
+        "journal": "Global Change Biology",
+        "year": 2005,
+        "citations": 154,
+        "authors": "Patrick B. Morgan, Germán A. Bollero, Randall L. Nelson et al.",
+        "authors_list": [
+            "Patrick B. Morgan",
+            "Germán A. Bollero",
+            "Randall L. Nelson",
+            "Frank G. Dohleman",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 154,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/nph.16142",
+        "title": "Photosynthesis across African cassava germplasm is limited by Rubisco and mesophyll conductance at steady state, but by stomatal conductance in fluctuating light",
+        "journal": "New Phytologist",
+        "year": 2019,
+        "citations": 154,
+        "authors": "Amanda P. De Souza, Yu Wang, Douglas J. Orr et al.",
+        "authors_list": [
+            "Amanda P. De Souza",
+            "Yu Wang",
+            "Douglas J. Orr",
+            "Elizabete Carmo‐Silva",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 154,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1111/nph.16142"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1104/pp.104.043968",
+        "title": "An In Vivo Analysis of the Effect of Season-Long Open-Air Elevation of Ozone to Anticipated 2050 Levels on Photosynthesis in Soybean",
+        "journal": "PLANT PHYSIOLOGY",
+        "year": 2004,
+        "citations": 152,
+        "authors": "Patrick B. Morgan, Carl J. Bernacchi, Donald R. Ort et al.",
+        "authors_list": [
+            "Patrick B. Morgan",
+            "Carl J. Bernacchi",
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 152,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/plphys/article-pdf/135/4/2348/38704262/plphys_v135_4_2348.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/nph.16454",
+        "title": "Variation in photosynthetic induction between rice accessions and its potential for improving productivity",
+        "journal": "New Phytologist",
+        "year": 2020,
+        "citations": 152,
+        "authors": "Liana G. Acevedo‐Siaca, Robert A. Coe, Yu Wang et al.",
+        "authors_list": [
+            "Liana G. Acevedo‐Siaca",
+            "Robert A. Coe",
+            "Yu Wang",
+            "Johannes Kromdijk",
+            "W. Paul Quick",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 152,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.16454"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/pce.12025",
+        "title": "<i>e</i>‐photosynthesis: a comprehensive dynamic mechanistic model of C3 photosynthesis: from light capture to sucrose synthesis",
+        "journal": "Plant Cell & Environment",
+        "year": 2012,
+        "citations": 152,
+        "authors": "Xin‐Guang Zhu, Yu Wang, Donald R. Ort et al.",
+        "authors_list": [
+            "Xin‐Guang Zhu",
+            "Yu Wang",
+            "Donald R. Ort",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 152,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2307/2260439",
+        "title": "Techniques in Bioproductivity and Photosynthesis.",
+        "journal": "Journal of Ecology",
+        "year": 1987,
+        "citations": 147,
+        "authors": "J. Grace, J. Coombs, D. O. Hall et al.",
+        "authors_list": [
+            "J. Grace",
+            "J. Coombs",
+            "D. O. Hall",
+            "Stephen P. Long",
+            "J. M. O. Scurlock"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 147,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-3040.1995.tb00594.x",
+        "title": "Effects of free‐air CO<sub>2</sub> enrichment on the development of the photosynthetic apparatus in wheat, as indicated by changes in leaf proteins",
+        "journal": "Plant Cell & Environment",
+        "year": 1995,
+        "citations": 145,
+        "authors": "Guiying Nie, Stephen P. Long, Richard L. Garcia et al.",
+        "authors_list": [
+            "Guiying Nie",
+            "Stephen P. Long",
+            "Richard L. Garcia",
+            "Bruce A. Kimball",
+            "R. L. LaMorte",
+            "Paul J. Pinter",
+            "Gerard W. Wall",
+            "Andrew N. Webber"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 145,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/nph.14250",
+        "title": "Rooting for cassava: insights into photosynthesis and associated physiology as a route to improve yield potential",
+        "journal": "New Phytologist",
+        "year": 2016,
+        "citations": 143,
+        "authors": "Amanda P. De Souza, Lynnicia Massenburg, Deepak Jaiswal et al.",
+        "authors_list": [
+            "Amanda P. De Souza",
+            "Lynnicia Massenburg",
+            "Deepak Jaiswal",
+            "Siyuan Cheng",
+            "Rachel G Shekar",
+            "Stephen P. Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 143,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.14250"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1469-8137.2004.01224.x",
+        "title": "What have we learned from 15 years of free‐air CO<sub>2</sub> enrichment (FACE)? A meta‐analytic review of the responses of photosynthesis, canopy properties and plant production to rising CO<sub>2</sub>",
+        "journal": "New Phytologist",
+        "year": 2005,
+        "citations": 3216,
+        "authors": "Elizabeth A. Ainsworth, Stephen P. Long",
+        "authors_list": [
+            "Elizabeth A. Ainsworth",
+            "Stephen P. Long"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 3216
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-8137.2004.01224.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1365-3040.2005.01493.x",
+        "title": "Can improvement in photosynthesis increase crop yields?",
+        "journal": "Plant, Cell &amp; Environment",
+        "year": 2006,
+        "citations": 1336,
+        "authors": "STEPHEN P. LONG, XIN‐GUANG ZHU, SHAWNA L. NAIDU et al.",
+        "authors_list": [
+            "STEPHEN P. LONG",
+            "XIN‐GUANG ZHU",
+            "SHAWNA L. NAIDU",
+            "DONALD R. ORT"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1336
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2005.01493.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1146/annurev.pp.45.060194.003221",
+        "title": "Photoinhibition of Photosynthesis in Nature",
+        "journal": "Annual Review of Plant Physiology and Plant Molecular Biology",
+        "year": 1994,
+        "citations": 1259,
+        "authors": "S P Long, S Humphries, P G Falkowski",
+        "authors_list": [
+            "S P Long",
+            "S Humphries",
+            "P G Falkowski"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1259
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.copbio.2008.02.004",
+        "title": "What is the maximum efficiency with which photosynthesis can convert solar energy into biomass?",
+        "journal": "Current Opinion in Biotechnology",
+        "year": 2008,
+        "citations": 976,
+        "authors": "Xin-Guang Zhu, Stephen P Long, Donald R Ort",
+        "authors_list": [
+            "Xin-Guang Zhu",
+            "Stephen P Long",
+            "Donald R Ort"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 976
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1365-3040.1991.tb01439.x",
+        "title": "Modification of the response of photosynthetic productivity to rising temperature by atmospheric CO<sub>2</sub> concentrations: Has its importance been underestimated?",
+        "journal": "Plant, Cell &amp; Environment",
+        "year": 1991,
+        "citations": 866,
+        "authors": "S. P. LONG",
+        "authors_list": [
+            "S. P. LONG"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 866
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1046/j.1365-2486.2002.00498.x",
+        "title": "A meta‐analysis of elevated [CO<sub>2</sub>] effects on soybean (<i>Glycine max</i>) physiology, growth and yield",
+        "journal": "Global Change Biology",
+        "year": 2002,
+        "citations": 435,
+        "authors": "Elizabeth A. Ainsworth, Phillip A. Davey, Carl J. Bernacchi et al.",
+        "authors_list": [
+            "Elizabeth A. Ainsworth",
+            "Phillip A. Davey",
+            "Carl J. Bernacchi",
+            "Orla C. Dermody",
+            "Emily A. Heaton",
+            "David J. Moore",
+            "Patrick B. Morgan",
+            "Shawna L. Naidu",
+            "Hyung‐shim Yoo Ra",
+            "Xin‐guang Zhu",
+            "Peter S. Curtis",
+            "Stephen P. Long"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 435
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1365-3040.2007.01717.x",
+        "title": "To what extent do current and projected increases in surface ozone affect photosynthesis and stomatal conductance of trees? A meta‐analytic review of the last 3 decades of experiments",
+        "journal": "Plant, Cell &amp; Environment",
+        "year": 2007,
+        "citations": 338,
+        "authors": "VICTORIA E. WITTIG, ELIZABETH A. AINSWORTH, STEPHEN P. LONG",
+        "authors_list": [
+            "VICTORIA E. WITTIG",
+            "ELIZABETH A. AINSWORTH",
+            "STEPHEN P. LONG"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 338
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-3040.2007.01717.x"
+        }
+    }
+]

@@ -1,0 +1,244 @@
+{
+    "id": "A5035206469",
+    "name": "Karin A. Dahmen",
+    "affiliation": "University of Illinois Urbana-Champaign",
+    "topics": [
+        "Theoretical and Computational Physics",
+        "Metallic Glasses and Amorphous Alloys",
+        "earthquake and tectonic studies",
+        "Material Dynamics and Properties",
+        "High Entropy Alloys Studies"
+    ],
+    "keywords": [
+        "avalanches",
+        "behavior",
+        "alloys",
+        "noise",
+        "metallic"
+    ],
+    "metrics": {
+        "citations": 19617,
+        "h_index": 54,
+        "publications": 305
+    },
+    "counts_by_year": [
+        {
+            "year": 2026,
+            "works_count": 3,
+            "oa_works_count": 3,
+            "cited_by_count": 0
+        },
+        {
+            "year": 2025,
+            "works_count": 6,
+            "oa_works_count": 2,
+            "cited_by_count": 9
+        },
+        {
+            "year": 2024,
+            "works_count": 5,
+            "oa_works_count": 4,
+            "cited_by_count": 7
+        },
+        {
+            "year": 2023,
+            "works_count": 3,
+            "oa_works_count": 3,
+            "cited_by_count": 49
+        },
+        {
+            "year": 2022,
+            "works_count": 6,
+            "oa_works_count": 3,
+            "cited_by_count": 15
+        },
+        {
+            "year": 2021,
+            "works_count": 11,
+            "oa_works_count": 8,
+            "cited_by_count": 257
+        },
+        {
+            "year": 2020,
+            "works_count": 8,
+            "oa_works_count": 3,
+            "cited_by_count": 39
+        },
+        {
+            "year": 2019,
+            "works_count": 19,
+            "oa_works_count": 14,
+            "cited_by_count": 457
+        },
+        {
+            "year": 2018,
+            "works_count": 14,
+            "oa_works_count": 9,
+            "cited_by_count": 326
+        },
+        {
+            "year": 2017,
+            "works_count": 17,
+            "oa_works_count": 12,
+            "cited_by_count": 2009
+        },
+        {
+            "year": 2016,
+            "works_count": 19,
+            "oa_works_count": 10,
+            "cited_by_count": 711
+        },
+        {
+            "year": 2015,
+            "works_count": 22,
+            "oa_works_count": 13,
+            "cited_by_count": 932
+        },
+        {
+            "year": 2014,
+            "works_count": 17,
+            "oa_works_count": 9,
+            "cited_by_count": 1019
+        },
+        {
+            "year": 2013,
+            "works_count": 17,
+            "oa_works_count": 4,
+            "cited_by_count": 7617
+        },
+        {
+            "year": 2012,
+            "works_count": 17,
+            "oa_works_count": 4,
+            "cited_by_count": 889
+        },
+        {
+            "year": 2011,
+            "works_count": 15,
+            "oa_works_count": 7,
+            "cited_by_count": 403
+        },
+        {
+            "year": 2010,
+            "works_count": 11,
+            "oa_works_count": 3,
+            "cited_by_count": 113
+        },
+        {
+            "year": 2009,
+            "works_count": 14,
+            "oa_works_count": 2,
+            "cited_by_count": 472
+        },
+        {
+            "year": 2008,
+            "works_count": 7,
+            "oa_works_count": 3,
+            "cited_by_count": 40
+        },
+        {
+            "year": 2007,
+            "works_count": 5,
+            "oa_works_count": 1,
+            "cited_by_count": 26
+        },
+        {
+            "year": 2006,
+            "works_count": 5,
+            "oa_works_count": 3,
+            "cited_by_count": 252
+        },
+        {
+            "year": 2005,
+            "works_count": 8,
+            "oa_works_count": 4,
+            "cited_by_count": 44
+        },
+        {
+            "year": 2004,
+            "works_count": 9,
+            "oa_works_count": 2,
+            "cited_by_count": 6
+        },
+        {
+            "year": 2003,
+            "works_count": 5,
+            "oa_works_count": 2,
+            "cited_by_count": 123
+        },
+        {
+            "year": 2002,
+            "works_count": 8,
+            "oa_works_count": 4,
+            "cited_by_count": 191
+        },
+        {
+            "year": 2001,
+            "works_count": 10,
+            "oa_works_count": 2,
+            "cited_by_count": 1228
+        },
+        {
+            "year": 2000,
+            "works_count": 4,
+            "oa_works_count": 1,
+            "cited_by_count": 102
+        },
+        {
+            "year": 1999,
+            "works_count": 3,
+            "oa_works_count": 2,
+            "cited_by_count": 381
+        },
+        {
+            "year": 1998,
+            "works_count": 5,
+            "oa_works_count": 4,
+            "cited_by_count": 218
+        },
+        {
+            "year": 1997,
+            "works_count": 4,
+            "oa_works_count": 2,
+            "cited_by_count": 274
+        },
+        {
+            "year": 1996,
+            "works_count": 2,
+            "oa_works_count": 2,
+            "cited_by_count": 274
+        },
+        {
+            "year": 1995,
+            "works_count": 2,
+            "oa_works_count": 2,
+            "cited_by_count": 309
+        },
+        {
+            "year": 1994,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 27
+        },
+        {
+            "year": 1993,
+            "works_count": 2,
+            "oa_works_count": 2,
+            "cited_by_count": 798
+        }
+    ],
+    "verification": {
+        "personal_website": null,
+        "linkedin": null,
+        "researchgate": null,
+        "google_scholar": {
+            "verified": false,
+            "reason": "HTTP 429"
+        }
+    },
+    "orcid": {
+        "verified": false,
+        "orcid_id": null,
+        "current_institution": null
+    }
+}

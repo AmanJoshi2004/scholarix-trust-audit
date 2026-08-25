@@ -1,0 +1,3616 @@
+[
+    {
+        "doi": "https://doi.org/10.1126/science.1096502",
+        "title": "High Frequency of Mutations of the\n                    <i>PIK3CA</i>\n                    Gene in Human Cancers",
+        "journal": "Science",
+        "year": 2004,
+        "citations": 3452,
+        "authors": "Yardena Samuels, Zhenghe Wang, Alberto Bardelli et al.",
+        "authors_list": [
+            "Yardena Samuels",
+            "Zhenghe Wang",
+            "Alberto Bardelli",
+            "Natalie Silliman",
+            "Janine Ptak",
+            "Steve Szabo",
+            "Hai Yan",
+            "Adi F. Gazdar",
+            "Steven M. Powell",
+            "Gregory J. Riggins",
+            "James K. V. Willson",
+            "Sanford D. Markowitz",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein",
+            "Victor E. Velculescu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 3452,
+            "crossref": 3006
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1133427",
+        "title": "The Consensus Coding Sequences of Human Breast and Colorectal Cancers",
+        "journal": "Science",
+        "year": 2006,
+        "citations": 3181,
+        "authors": "Tobias Sjöblom, Siân Jones, Laura D. Wood et al.",
+        "authors_list": [
+            "Tobias Sjöblom",
+            "Siân Jones",
+            "Laura D. Wood",
+            "D. Williams Parsons",
+            "Jimmy Lin",
+            "Thomas D. Barber",
+            "Diana Mandelker",
+            "Rebecca Leary",
+            "Janine Ptak",
+            "Natalie Silliman",
+            "Steve Szabo",
+            "Phillip Buckhaults",
+            "Christopher Farrell",
+            "Paul F. Meeh",
+            "Sanford D. Markowitz",
+            "Joseph Willis",
+            "Dawn Dawson",
+            "James K. V. Willson",
+            "Adi F. Gazdar",
+            "James Hartigan",
+            "Leo Wu",
+            "Changsheng Liu",
+            "Giovanni Parmigiani",
+            "Ben Ho Park",
+            "Kurtis E. Bachman",
+            "Nickolas Papadopoulos",
+            "Bert Vogelstein",
+            "Kenneth W. Kinzler",
+            "Victor E. Velculescu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 3181,
+            "crossref": 2819
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1145720",
+        "title": "The Genomic Landscapes of Human Breast and Colorectal Cancers",
+        "journal": "Science",
+        "year": 2007,
+        "citations": 2855,
+        "authors": "Laura D. Wood, D. Williams Parsons, Siân Jones et al.",
+        "authors_list": [
+            "Laura D. Wood",
+            "D. Williams Parsons",
+            "Siân Jones",
+            "Jimmy Lin",
+            "Tobias Sjöblom",
+            "Rebecca Leary",
+            "Dong Shen",
+            "Simina M. Boca",
+            "Thomas D. Barber",
+            "Janine Ptak",
+            "Natalie Silliman",
+            "Steve Szabo",
+            "Zoltán Dezső",
+            "Vadim Ustyanksky",
+            "Tatiana Nikolskaya",
+            "Yuri Nikolsky",
+            "Rachel Karchin",
+            "Paul A. Wilson",
+            "Joshua S. Kaminker",
+            "Zemin Zhang",
+            "Randal Croshaw",
+            "Joseph Willis",
+            "Dawn Dawson",
+            "Michail Shipitsin",
+            "James K. V. Willson",
+            "Saraswati Sukumar",
+            "Kornélia Polyák",
+            "Ben Ho Park",
+            "Charit L. Pethiyagoda",
+            "P.V. Krishna Pant",
+            "Dennis G. Ballinger",
+            "Andrew B. Sparks",
+            "James Hartigan",
+            "Douglas R. Smith",
+            "Erick Suh",
+            "Nickolas Papadopoulos",
+            "Phillip Buckhaults",
+            "Sanford D. Markowitz",
+            "Giovanni Parmigiani",
+            "Kenneth W. Kinzler",
+            "Victor E. Velculescu",
+            "Bert Vogelstein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 2855,
+            "crossref": 2514
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.7761852",
+        "title": "Inactivation of the Type II TGF-β Receptor in Colon Cancer Cells with Microsatellite Instability",
+        "journal": "Science",
+        "year": 1995,
+        "citations": 2272,
+        "authors": "Sanford D. Markowitz, Jing Wang, Lois L. Myeroff et al.",
+        "authors_list": [
+            "Sanford D. Markowitz",
+            "Jing Wang",
+            "Lois L. Myeroff",
+            "Ramon Parsons",
+            "Lu‐Zhe Sun",
+            "James Lutterbaugh",
+            "Robert S. Fan",
+            "Elizabeth Zborowska",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein",
+            "Michael G. Brattain",
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 2272,
+            "crossref": 1757
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.95.12.6870",
+        "title": "Incidence and functional consequences of\n                    <i>hMLH1</i>\n                    promoter hypermethylation in colorectal carcinoma",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1998,
+        "citations": 1898,
+        "authors": "James G. Herman, Asad Umar, Kornélia Polyák et al.",
+        "authors_list": [
+            "James G. Herman",
+            "Asad Umar",
+            "Kornélia Polyák",
+            "Jeremy R. Graff",
+            "Nita Ahuja",
+            "Jean‐Pierre J. Issa",
+            "Sanford D. Markowitz",
+            "James K. V. Willson",
+            "Stanley R. Hamilton",
+            "Kenneth W. Kinzler",
+            "Michael Kane",
+            "Richard D. Kolodner",
+            "Bert Vogelstein",
+            "Thomas A. Kunkel",
+            "Stephen B. Baylin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1898,
+            "crossref": 1470
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/22665"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.2144057",
+        "title": "Suppression of Human Colorectal Carcinoma Cell Growth by Wild-Type p53",
+        "journal": "Science",
+        "year": 1990,
+        "citations": 1789,
+        "authors": "Suzanne J. Baker, Sanford D. Markowitz, Eric R. Fearon et al.",
+        "authors_list": [
+            "Suzanne J. Baker",
+            "Sanford D. Markowitz",
+            "Eric R. Fearon",
+            "James K. V. Willson",
+            "Bert Vogelstein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1789,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/32688",
+        "title": "Mutations of mitotic checkpoint genes in human cancers",
+        "journal": "Nature",
+        "year": 1998,
+        "citations": 1487,
+        "authors": "Daniel P. Cahill, Christoph Lengauer, Jian Yu et al.",
+        "authors_list": [
+            "Daniel P. Cahill",
+            "Christoph Lengauer",
+            "Jian Yu",
+            "Gregory J. Riggins",
+            "James K. V. Willson",
+            "Sanford D. Markowitz",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1487,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "p53 gene mutations occur in combination with 17p allelic deletions as late events in colorectal tumorigenesis.",
+        "journal": "PubMed",
+        "year": 1990,
+        "citations": 1079,
+        "authors": "Suzanne J. Baker, Antonette C. Preisinger, J. Milburn Jessup et al.",
+        "authors_list": [
+            "Suzanne J. Baker",
+            "Antonette C. Preisinger",
+            "J. Milburn Jessup",
+            "Christos Paraskeva",
+            "Sanford D. Markowitz",
+            "James K. V. Willson",
+            "Stanley R. Hamilton",
+            "Bert Vogelstein"
+        ],
+        "type": "conference-abstract",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1079,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1174229",
+        "title": "Glucose Deprivation Contributes to the Development of <i>KRAS</i> Pathway Mutations in Tumor Cells",
+        "journal": "Science",
+        "year": 2009,
+        "citations": 910,
+        "authors": "Jihye Yun, Carlo Rago, Ian Cheong et al.",
+        "authors_list": [
+            "Jihye Yun",
+            "Carlo Rago",
+            "Ian Cheong",
+            "Ray Pagliarini",
+            "Philipp Angenendt",
+            "Harith Rajagopalan",
+            "Kerstin Schmidt",
+            "James K. V. Willson",
+            "Sandy D. Markowitz",
+            "Shibin Zhou",
+            "Luis A. Díaz",
+            "Victor E. Velculescu",
+            "Christoph Lengauer",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein",
+            "Nickolas Papadopoulos"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 910,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2820374"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/3108",
+        "title": "Somatic mutations of the mitochondrial genome in human colorectal tumours",
+        "journal": "Nature Genetics",
+        "year": 1998,
+        "citations": 840,
+        "authors": "Kornélia Polyák, Yunbo Li, Hong Zhu et al.",
+        "authors_list": [
+            "Kornélia Polyák",
+            "Yunbo Li",
+            "Hong Zhu",
+            "Christoph Lengauer",
+            "James K. V. Willson",
+            "Sanford D. Markowitz",
+            "Michael A. Trush",
+            "K W Kinzler",
+            "Bert Vogelstein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 840,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ng0195-48",
+        "title": "Mismatch repair gene defects in sporadic colorectal cancers with microsatellite instability",
+        "journal": "Nature Genetics",
+        "year": 1995,
+        "citations": 814,
+        "authors": "Bo Liu, Nicholas C. Nicolaides, Sanford D. Markowitz et al.",
+        "authors_list": [
+            "Bo Liu",
+            "Nicholas C. Nicolaides",
+            "Sanford D. Markowitz",
+            "James K. V. Willson",
+            "Ramon Parsons",
+            "Jin Jen",
+            "Nickolas Papadopolous",
+            "Païvi Peltomäki",
+            "Albert de la Chapelle",
+            "Stanley R. Hamilton",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 814,
+            "crossref": 605
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Microsatellite instability and mutations of the transforming growth factor beta type II receptor gene in colorectal cancer.",
+        "journal": "PubMed",
+        "year": 1995,
+        "citations": 741,
+        "authors": "Ramon Parsons, Lois L. Myeroff, B. Liu et al.",
+        "authors_list": [
+            "Ramon Parsons",
+            "Lois L. Myeroff",
+            "B. Liu",
+            "James K. V. Willson",
+            "Sanford D. Markowitz",
+            "K W Kinzler",
+            "Bert Vogelstein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 741,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/436792a",
+        "title": "Mutations in a signalling pathway",
+        "journal": "Nature",
+        "year": 2005,
+        "citations": 634,
+        "authors": "D. Williams Parsons, Tian‐Li Wang, Yardena Samuels et al.",
+        "authors_list": [
+            "D. Williams Parsons",
+            "Tian‐Li Wang",
+            "Yardena Samuels",
+            "Alberto Bardelli",
+            "Jordan M. Cummins",
+            "Laura J. DeLong",
+            "Natalie Silliman",
+            "Janine Ptak",
+            "Steve Szabo",
+            "James K. V. Willson",
+            "Sanford D. Markowitz",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein",
+            "Christoph Lengauer",
+            "Victor E. Velculescu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 634,
+            "crossref": 469
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/436792a.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ng0796-343",
+        "title": "Evaluation of candidate tumour suppressor genes on chromosome 18 in colorectal cancers",
+        "journal": "Nature Genetics",
+        "year": 1996,
+        "citations": 611,
+        "authors": "Sam Thiagalingam, Christoph Lengauer, Frederick S. Leach et al.",
+        "authors_list": [
+            "Sam Thiagalingam",
+            "Christoph Lengauer",
+            "Frederick S. Leach",
+            "Mieke Schutte",
+            "Stephan A. Hahn",
+            "Joan Overhauser",
+            "James K. V. Willson",
+            "Sanford D. Markowitz",
+            "Stanley R. Hamilton",
+            "Scott E. Kern",
+            "K W Kinzler",
+            "Bert Vogelstein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 611,
+            "crossref": 462
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1096096",
+        "title": "Mutational Analysis of the Tyrosine Phosphatome in Colorectal Cancers",
+        "journal": "Science",
+        "year": 2004,
+        "citations": 528,
+        "authors": "Zhenghe Wang, Dong Shen, D. Williams Parsons et al.",
+        "authors_list": [
+            "Zhenghe Wang",
+            "Dong Shen",
+            "D. Williams Parsons",
+            "Alberto Bardelli",
+            "Jason A. Sager",
+            "Steve Szabo",
+            "Janine Ptak",
+            "Natalie Silliman",
+            "Brock A. Peters",
+            "Michiel S. van der Heijden",
+            "Giovanni Parmigiani",
+            "Hai Yan",
+            "Tian‐Li Wang",
+            "Greg Riggins",
+            "Steven M. Powell",
+            "James K. V. Willson",
+            "Sanford D. Markowitz",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein",
+            "Victor E. Velculescu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 528,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1082596",
+        "title": "Mutational Analysis of the Tyrosine Kinome in Colorectal Cancers",
+        "journal": "Science",
+        "year": 2003,
+        "citations": 484,
+        "authors": "Alberto Bardelli, D. Williams Parsons, Natalie Silliman et al.",
+        "authors_list": [
+            "Alberto Bardelli",
+            "D. Williams Parsons",
+            "Natalie Silliman",
+            "Janine Ptak",
+            "Steve Szabo",
+            "Saurabh Saha",
+            "Sanford D. Markowitz",
+            "James K. V. Willson",
+            "Giovanni Parmigiani",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein",
+            "Victor E. Velculescu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 484,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.7604266",
+        "title": "Mutations of\n            <i>GTBP</i>\n            in Genetically Unstable Cells",
+        "journal": "Science",
+        "year": 1995,
+        "citations": 471,
+        "authors": "Nickolas Papadopoulos, Nicholas C. Nicolaides, Bo Liu et al.",
+        "authors_list": [
+            "Nickolas Papadopoulos",
+            "Nicholas C. Nicolaides",
+            "Bo Liu",
+            "Ramon Parsons",
+            "Christoph Lengauer",
+            "Fabio Palombo",
+            "Antonello D’Arrigo",
+            "Sanford D. Markowitz",
+            "James K. V. Willson",
+            "Kenneth W. Kinzler",
+            "Josef Jiricny",
+            "Bert Vogelstein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 471,
+            "crossref": 361
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.90.7.2846",
+        "title": "The APC gene product in normal and tumor cells.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1993,
+        "citations": 435,
+        "authors": "K Smith, Karen A. Johnson, Tracy M. Bryan et al.",
+        "authors_list": [
+            "K Smith",
+            "Karen A. Johnson",
+            "Tracy M. Bryan",
+            "David E. Hill",
+            "Sanford D. Markowitz",
+            "James K. V. Willson",
+            "Christos Paraskeva",
+            "Gloria M. Petersen",
+            "Stanley R. Hamilton",
+            "Bert Vogelstein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 435,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Deletion of p16 and p15 genes in brain tumors.",
+        "journal": "PubMed",
+        "year": 1994,
+        "citations": 407,
+        "authors": "Joanna C. Jen, J. Wade Harper, Sandra H. Bigner et al.",
+        "authors_list": [
+            "Joanna C. Jen",
+            "J. Wade Harper",
+            "Sandra H. Bigner",
+            "Darell D. Bigner",
+            "Nikolaos G. Papadopoulos",
+            "Sanford D. Markowitz",
+            "James K. V. Willson",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 407,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Mutational inactivation of transforming growth factor beta receptor type II in microsatellite stable colon cancers.",
+        "journal": "PubMed",
+        "year": 1999,
+        "citations": 392,
+        "authors": "William M. Grady, Lois L. Myeroff, Sandra E. Swinler et al.",
+        "authors_list": [
+            "William M. Grady",
+            "Lois L. Myeroff",
+            "Sandra E. Swinler",
+            "Ashwani Rajput",
+            "Sam Thiagalingam",
+            "James Lutterbaugh",
+            "Aaron K. Neumann",
+            "Michael G. Brattain",
+            "Jay Chang",
+            "Seong‐Jin Kim",
+            "Ken W Kinzler",
+            "Bert Vogelstein",
+            "James K. V. Willson",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 392,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jnci/dji204",
+        "title": "Detection in Fecal DNA of Colon Cancer–Specific Methylation of the Nonexpressed Vimentin Gene",
+        "journal": "JNCI: Journal of the National Cancer Institute",
+        "year": 2005,
+        "citations": 371,
+        "authors": "Wei-Dong Chen, Zhifen Han, Joel Skoletsky et al.",
+        "authors_list": [
+            "Wei-Dong Chen",
+            "Zhifen Han",
+            "Joel Skoletsky",
+            "Jeff Olson",
+            "Jerome F. Sah",
+            "Lois L. Myeroff",
+            "Petra Platzer",
+            "Shi‐Long Lu",
+            "Dawn Dawson",
+            "Joseph Willis",
+            "Theresa P. Pretlow",
+            "James Lutterbaugh",
+            "Lakshmi Kasturi",
+            "James K. V. Willson",
+            "Jun Rao",
+            "Anthony P. Shuber",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 371,
+            "crossref": 304
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/jnci/article-pdf/97/15/1124/7686333/dji204.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.270.37.22044",
+        "title": "Demonstration That Mutation of the Type II Transforming Growth Factor β Receptor Inactivates Its Tumor Suppressor Activity in Replication Error-positive Colon Carcinoma Cells",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1995,
+        "citations": 339,
+        "authors": "Jing Wang, Lu‐Zhe Sun, Lois L. Myeroff et al.",
+        "authors_list": [
+            "Jing Wang",
+            "Lu‐Zhe Sun",
+            "Lois L. Myeroff",
+            "Xiao‐Fan Wang",
+            "L E Gentry",
+            "Junhua Yang",
+            "Jiurong Liang",
+            "Elizabeth Zborowska",
+            "Sanford D. Markowitz",
+            "James K. V. Willson",
+            "Michael G. Brattain"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 339,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925818902796/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.93.17.9049",
+        "title": "APC mutations in colorectal tumors with mismatch repair deficiency.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1996,
+        "citations": 330,
+        "authors": "Jing Huang, Nickolas Papadopoulos, A. McKinley et al.",
+        "authors_list": [
+            "Jing Huang",
+            "Nickolas Papadopoulos",
+            "A. McKinley",
+            "Susan M. Farrington",
+            "Lucy J. Curtis",
+            "A H Wyllie",
+            "Shutao Zheng",
+            "James K. V. Willson",
+            "Sanford D. Markowitz",
+            "Patrice J. Morin",
+            "K W Kinzler",
+            "Bert Vogelstein",
+            "Malcolm G. Dunlop"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 330,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/38593"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0021-9258(18)47215-8",
+        "title": "Expression of transforming growth factor beta type II receptor leads to reduced malignancy in human breast cancer MCF-7 cells",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1994,
+        "citations": 321,
+        "authors": "Lu‐Zhe Sun, Guanming Wu, James K. V. Willson et al.",
+        "authors_list": [
+            "Lu‐Zhe Sun",
+            "Guanming Wu",
+            "James K. V. Willson",
+            "Elizabeth Zborowska",
+            "Junhua Yang",
+            "I Rajkarunanayake",
+            "J. Wang",
+            "L E Gentry",
+            "X F Wang",
+            "Michael G. Brattain"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 321,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0021-9258(18)47215-8"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.0808041105",
+        "title": "Integrated analysis of homozygous deletions, focal amplifications, and sequence alterations in breast and colorectal cancers",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2008,
+        "citations": 311,
+        "authors": "Rebecca Leary, Jimmy Lin, Jordan M. Cummins et al.",
+        "authors_list": [
+            "Rebecca Leary",
+            "Jimmy Lin",
+            "Jordan M. Cummins",
+            "Simina M. Boca",
+            "Laura D. Wood",
+            "D. Williams Parsons",
+            "Siân Jones",
+            "Tobias Sjöblom",
+            "Ben-Ho Park",
+            "Ramon Parsons",
+            "Joseph Willis",
+            "Dawn Dawson",
+            "James K. V. Willson",
+            "Tatiana Nikolskaya",
+            "Yuri Nikolsky",
+            "Levy Kopelovich",
+            "Nick Papadopoulos",
+            "L Pennacchio",
+            "Tian‐Li Wang",
+            "Sanford D. Markowitz",
+            "Giovanni Parmigiani",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein",
+            "Victor E. Velculescu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 311,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2571022"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ng0796-347",
+        "title": "Mad-related genes in the human",
+        "journal": "Nature Genetics",
+        "year": 1996,
+        "citations": 310,
+        "authors": "Gregory J. Riggins, Sam Thiagalingam, Ester Rozenblum et al.",
+        "authors_list": [
+            "Gregory J. Riggins",
+            "Sam Thiagalingam",
+            "Ester Rozenblum",
+            "Craig L. Weinstein",
+            "Scott E. Kern",
+            "Stanley R. Hamilton",
+            "James K. V. Willson",
+            "Sanford D. Markowitz",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 310,
+            "crossref": 282
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.aaa2340",
+        "title": "Inhibition of the prostaglandin-degrading enzyme 15-PGDH potentiates tissue regeneration",
+        "journal": "Science",
+        "year": 2015,
+        "citations": 297,
+        "authors": "Yongyou Zhang, Amar Desai, Sung Yeun Yang et al.",
+        "authors_list": [
+            "Yongyou Zhang",
+            "Amar Desai",
+            "Sung Yeun Yang",
+            "Ki Beom Bae",
+            "Monika I. Antczak",
+            "Stephen P. Fink",
+            "Shruti Tiwari",
+            "Joseph Willis",
+            "Noelle S. Williams",
+            "Dawn Dawson",
+            "David N. Wald",
+            "Wei-Dong Chen",
+            "Zhenghe Wang",
+            "Lakshmi Kasturi",
+            "Gretchen LaRusch",
+            "Lucy He",
+            "Fabio Cominelli",
+            "Luca Di Martino",
+            "Zora Djurić",
+            "Ginger L. Milne",
+            "Mark R. Chance",
+            "Juan Sanabria",
+            "Chris Dealwis",
+            "Debra Mikkola",
+            "Jacinth Naidoo",
+            "Shuguang Wei",
+            "Hsin-Hsiung Tai",
+            "Stanton L. Gerson",
+            "Joseph M. Ready",
+            "Bruce A. Posner",
+            "James K. V. Willson",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 297,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/onc.2008.10",
+        "title": "Epigenetic silencing of the intronic microRNA hsa-miR-342 and its host gene EVL in colorectal cancer",
+        "journal": "Oncogene",
+        "year": 2008,
+        "citations": 295,
+        "authors": "William M. Grady, Rachael K. Parkin, Patrick S. Mitchell et al.",
+        "authors_list": [
+            "William M. Grady",
+            "Rachael K. Parkin",
+            "Patrick S. Mitchell",
+            "J. H. Lee",
+            "Y-H Kim",
+            "Karen D. Tsuchiya",
+            "M. Kay Washington",
+            "Christos Paraskeva",
+            "James K. V. Willson",
+            "Andrew M. Kaz",
+            "Evan M. Kroh",
+            "April N. Allen",
+            "Brian R. Fritz",
+            "Sanford D. Markowitz",
+            "Muneesh Tewari"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 295,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1430846100",
+        "title": "<i>SLC5A8</i>\n                    , a sodium transporter, is a tumor suppressor gene silenced by methylation in human colon aberrant crypt foci and cancers",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2003,
+        "citations": 294,
+        "authors": "Hui Li, Lois L. Myeroff, Dominic J. Smiraglia et al.",
+        "authors_list": [
+            "Hui Li",
+            "Lois L. Myeroff",
+            "Dominic J. Smiraglia",
+            "Michael F. Romero",
+            "Theresa P. Pretlow",
+            "Lakshmi Kasturi",
+            "James Lutterbaugh",
+            "Ronald M. Rerko",
+            "Graham Casey",
+            "Jean‐Pierre J. Issa",
+            "Joseph Willis",
+            "James K. V. Willson",
+            "Christoph Plass",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 294,
+            "crossref": 251
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/166243"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.0406142101",
+        "title": "15-Hydroxyprostaglandin dehydrogenase, a COX-2 oncogene antagonist, is a TGF-β-induced suppressor of human gastrointestinal cancers",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2004,
+        "citations": 244,
+        "authors": "Min Yan, Ronald M. Rerko, Petra Platzer et al.",
+        "authors_list": [
+            "Min Yan",
+            "Ronald M. Rerko",
+            "Petra Platzer",
+            "Dawn Dawson",
+            "Joseph Willis",
+            "Min Tong",
+            "Earl Lawrence",
+            "James Lutterbaugh",
+            "Shi‐Long Lu",
+            "James K. V. Willson",
+            "Guangbin Luo",
+            "Jack O. Hensold",
+            "Hsin-Hsiung Tai",
+            "Keith E. Wilson",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 244,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/536023"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Increased mutation rate at the hprt locus accompanies microsatellite instability in colon cancer.",
+        "journal": "PubMed",
+        "year": 1995,
+        "citations": 240,
+        "authors": "James R. Eshleman, Elena Lang, G K Bowerfind et al.",
+        "authors_list": [
+            "James R. Eshleman",
+            "Elena Lang",
+            "G K Bowerfind",
+            "Ramon Parsons",
+            "Bert Vogelstein",
+            "James K. V. Willson",
+            "Martina Veigl",
+            "W. David Sedwick",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 240,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.93.15.7832",
+        "title": "Expression of hyaluronidase by tumor cells induces angiogenesis in vivo.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 1996,
+        "citations": 231,
+        "authors": "Dantong Liu, Eric Pearlman, Eugenia Diaconu et al.",
+        "authors_list": [
+            "Dantong Liu",
+            "Eric Pearlman",
+            "Eugenia Diaconu",
+            "K Guo",
+            "Hiroshi Mori",
+            "Tariq M. Haqqi",
+            "Sanford D. Markowitz",
+            "James K. V. Willson",
+            "M S Sy"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 231,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.051625398",
+        "title": "Mechanisms underlying losses of heterozygosity in human colorectal cancers",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2001,
+        "citations": 225,
+        "authors": "Sam Thiagalingam, Steve Laken, James K. V. Willson et al.",
+        "authors_list": [
+            "Sam Thiagalingam",
+            "Steve Laken",
+            "James K. V. Willson",
+            "Sanford D. Markowitz",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein",
+            "Christoph Lengauer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 225,
+            "crossref": 169
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/30201"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bf00048384",
+        "title": "Heterogeneity of human colon carcinoma",
+        "journal": "Cancer and Metastasis Reviews",
+        "year": 1984,
+        "citations": 196,
+        "authors": "M. G. Brattain, Alan E. Levine, Samit Chakrabarty et al.",
+        "authors_list": [
+            "M. G. Brattain",
+            "Alan E. Levine",
+            "Samit Chakrabarty",
+            "Lynn C. Yeoman",
+            "James K. V. Willson",
+            "B H Long"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 196,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Amplification of cyclin genes in colorectal carcinomas.",
+        "journal": "PubMed",
+        "year": 1993,
+        "citations": 191,
+        "authors": "Fredrick S. Leach, Stephen J. Elledge, Charles J. Sherr et al.",
+        "authors_list": [
+            "Fredrick S. Leach",
+            "Stephen J. Elledge",
+            "Charles J. Sherr",
+            "James K. V. Willson",
+            "Sanford D. Markowitz",
+            "K W Kinzler",
+            "Bert Vogelstein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 191,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/0008-5472.can-04-0587",
+        "title": "Three Classes of Genes Mutated In Colorectal Cancers with Chromosomal Instability",
+        "journal": "Cancer Research",
+        "year": 2004,
+        "citations": 191,
+        "authors": "Zhenghe Wang, Jordan M. Cummins, Dong Shen et al.",
+        "authors_list": [
+            "Zhenghe Wang",
+            "Jordan M. Cummins",
+            "Dong Shen",
+            "Daniel P. Cahill",
+            "Prasad V. Jallepalli",
+            "Tian‐Li Wang",
+            "D. Williams Parsons",
+            "Giovanni Traverso",
+            "Mark M. Awad",
+            "Natalie Silliman",
+            "Janine Ptak",
+            "Steve Szabo",
+            "James K. V. Willson",
+            "Sanford D. Markowitz",
+            "Michael L. Goldberg",
+            "Roger E. Karess",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein",
+            "Victor E. Velculescu",
+            "Christoph Lengauer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 191,
+            "crossref": 150
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aacrjournals.org/cancerres/article-pdf/64/9/2998/2530495/zch00904002998.pdf"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Paradoxical inhibition of solid tumor cell growth by bcl2.",
+        "journal": "PubMed",
+        "year": 1994,
+        "citations": 186,
+        "authors": "J A Pietenpol, Nikolaos G. Papadopoulos, Sanford D. Markowitz et al.",
+        "authors_list": [
+            "J A Pietenpol",
+            "Nikolaos G. Papadopoulos",
+            "Sanford D. Markowitz",
+            "James K. V. Willson",
+            "Kenneth W. Kinzler",
+            "B Vogelstein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 186,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1083/jcb.116.1.187",
+        "title": "TGF-beta 1 is an autocrine-negative growth regulator of human colon carcinoma FET cells in vivo as revealed by transfection of an antisense expression vector.",
+        "journal": "The Journal of Cell Biology",
+        "year": 1992,
+        "citations": 182,
+        "authors": "Shaopeng Wu, Dan Theodorescu, Robert S. Kerbel et al.",
+        "authors_list": [
+            "Shaopeng Wu",
+            "Dan Theodorescu",
+            "Robert S. Kerbel",
+            "James K. V. Willson",
+            "Kathleen M. Mulder",
+            "Lisa E. Humphrey",
+            "Michael G. Brattain"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 182,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://rupress.org/jcb/article-pdf/116/1/187/1062336/187.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.261714699",
+        "title": "Prevalence of somatic alterations in the colorectal cancer cell genome",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2002,
+        "citations": 179,
+        "authors": "Tian‐Li Wang, Carlo Rago, Natalie Silliman et al.",
+        "authors_list": [
+            "Tian‐Li Wang",
+            "Carlo Rago",
+            "Natalie Silliman",
+            "Janine Ptak",
+            "Sanford D. Markowitz",
+            "James K. V. Willson",
+            "Giovanni Parmigiani",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein",
+            "Victor E. Velculescu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 179,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/122475"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.062459899",
+        "title": "HLTF gene silencing in human colon cancer",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2002,
+        "citations": 174,
+        "authors": "Helen Moinova, Wei-Dong Chen, Lanlan Shen et al.",
+        "authors_list": [
+            "Helen Moinova",
+            "Wei-Dong Chen",
+            "Lanlan Shen",
+            "Dominic J. Smiraglia",
+            "Joseph Olechnowicz",
+            "Lakshmeswari Ravi",
+            "Lakshmi Kasturi",
+            "Lois L. Myeroff",
+            "Christoph Plass",
+            "Ramon Parsons",
+            "John D. Minna",
+            "James K. V. Willson",
+            "Sylvan B. Green",
+            "Jean‐Pierre J. Issa",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 174,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/123687"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1535-6108(02)00053-3",
+        "title": "Focus on colon cancer",
+        "journal": "Cancer Cell",
+        "year": 2002,
+        "citations": 164,
+        "authors": "Sanford D. Markowitz, Dawn Dawson, Joseph Willis et al.",
+        "authors_list": [
+            "Sanford D. Markowitz",
+            "Dawn Dawson",
+            "Joseph Willis",
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 164,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S1535610802000533/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/jnci/83.10.712",
+        "title": "Induction of nm23 Gene Expression in Human Colonic Neoplasms and Equal Expressions in Colon Tumors of High and Low Metastatic Potential",
+        "journal": "JNCI Journal of the National Cancer Institute",
+        "year": 1991,
+        "citations": 157,
+        "authors": "Mitchell Haut, Patricia S. Steeg, James K. V. Willson et al.",
+        "authors_list": [
+            "Mitchell Haut",
+            "Patricia S. Steeg",
+            "James K. V. Willson",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 157,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Silence of chromosomal amplifications in colon cancer.",
+        "journal": "PubMed",
+        "year": 2002,
+        "citations": 150,
+        "authors": "Petra Platzer, Madhvi B. Upender, Keith E. Wilson et al.",
+        "authors_list": [
+            "Petra Platzer",
+            "Madhvi B. Upender",
+            "Keith E. Wilson",
+            "Joseph Willis",
+            "James Lutterbaugh",
+            "Arman Nosrati",
+            "James K. V. Willson",
+            "David H. Mack",
+            "Thomas Ried",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 150,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1172/jci114709",
+        "title": "Growth stimulation by coexpression of transforming growth factor-alpha and epidermal growth factor-receptor in normal and adenomatous human colon epithelium.",
+        "journal": "Journal of Clinical Investigation",
+        "year": 1990,
+        "citations": 146,
+        "authors": "Sanford D. Markowitz, K Molkentin, C Gerbic et al.",
+        "authors_list": [
+            "Sanford D. Markowitz",
+            "K Molkentin",
+            "C Gerbic",
+            "J. Brooks Jackson",
+            "T A Stellato",
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 146,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jci.org/articles/view/114709/files/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1417064112",
+        "title": "Novel recurrently mutated genes in African American colon cancers",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2015,
+        "citations": 145,
+        "authors": "Kishore Guda, Martina Veigl, Vinay Varadan et al.",
+        "authors_list": [
+            "Kishore Guda",
+            "Martina Veigl",
+            "Vinay Varadan",
+            "Arman Nosrati",
+            "Lakshmeswari Ravi",
+            "James Lutterbaugh",
+            "Lydia Beard",
+            "James K. V. Willson",
+            "W. David Sedwick",
+            "Zhenghe Wang",
+            "Neil Molyneaux",
+            "Alexander Miron",
+            "Mark D. Adams",
+            "Robert C. Elston",
+            "Sanford D. Markowitz",
+            "Joseph Willis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 145,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/112/4/1149.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.0901454106",
+        "title": "Inactivating germ-line and somatic mutations in polypeptide <i>N</i> -acetylgalactosaminyltransferase 12 in human colon cancers",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2009,
+        "citations": 143,
+        "authors": "Kishore Guda, Helen Moinova, Jian He et al.",
+        "authors_list": [
+            "Kishore Guda",
+            "Helen Moinova",
+            "Jian He",
+            "Oliver Jamison",
+            "Lakshmeswari Ravi",
+            "Leanna Natale",
+            "James Lutterbaugh",
+            "Earl Lawrence",
+            "Susan Lewis",
+            "James K. V. Willson",
+            "John B. Lowe",
+            "Georgia L. Wiesner",
+            "Giovanni Parmigiani",
+            "Jill S. Barnholtz‐Sloan",
+            "Dawn W. Dawson",
+            "Victor E. Velculescu",
+            "Kenneth W. Kinzler",
+            "Νικόλας Παπαδόπουλος",
+            "Bert Vogelstein",
+            "Joseph Willis",
+            "Thomas Gerken",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 143,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2722285"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Cell culture of human colon adenomas and carcinomas.",
+        "journal": "PubMed",
+        "year": 1987,
+        "citations": 138,
+        "authors": "James K. V. Willson, Gerard Bittner, Terry D. Oberley et al.",
+        "authors_list": [
+            "James K. V. Willson",
+            "Gerard Bittner",
+            "Terry D. Oberley",
+            "Lorraine F. Meisner",
+            "James L. Weese"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 138,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "O6-benzylguanine: a clinical trial establishing the biochemical modulatory dose in tumor tissue for alkyltransferase-directed DNA repair.",
+        "journal": "PubMed",
+        "year": 1999,
+        "citations": 129,
+        "authors": "Timothy P. Spiro, Stanton L. Gerson, Lili Liu et al.",
+        "authors_list": [
+            "Timothy P. Spiro",
+            "Stanton L. Gerson",
+            "Lili Liu",
+            "Susan M. Majka",
+            "J R Haaga",
+            "Charles L. Hoppel",
+            "Stephen T. Ingalls",
+            "James M. Pluda",
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 129,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/sj.onc.1201986",
+        "title": "Chromosome number and structure both are markedly stable in RER colorectal cancers and are not destabilized by mutation of p53",
+        "journal": "Oncogene",
+        "year": 1998,
+        "citations": 126,
+        "authors": "James R. Eshleman, Graham Casey, M Kochera et al.",
+        "authors_list": [
+            "James R. Eshleman",
+            "Graham Casey",
+            "M Kochera",
+            "W. David Sedwick",
+            "Sandra E. Swinler",
+            "Martina Veigl",
+            "James K. V. Willson",
+            "Stuart Schwartz",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 126,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/1201986.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ng0195-10",
+        "title": "Polymerase δ variants in RER colorectal tumours",
+        "journal": "Nature Genetics",
+        "year": 1995,
+        "citations": 124,
+        "authors": "Luís Teixeira da Costa, Bo Liu, Wafik S. El‐Deiry et al.",
+        "authors_list": [
+            "Luís Teixeira da Costa",
+            "Bo Liu",
+            "Wafik S. El‐Deiry",
+            "Stanley R. Hamilton",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein",
+            "Sanford D. Markowitz",
+            "James K. V. Willson",
+            "Albert de la Chapelle",
+            "Kathleen M. Downey",
+            "Antero G. So"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 124,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0039-6257(05)80024-4",
+        "title": "Treatment of metastatic uveal melanoma: Review and recommendations",
+        "journal": "Survey of Ophthalmology",
+        "year": 1992,
+        "citations": 121,
+        "authors": "D. M. Albert, Arysol Soltero Niffenegger, James K. V. Willson",
+        "authors_list": [
+            "D. M. Albert",
+            "Arysol Soltero Niffenegger",
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 121,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.271.29.17366",
+        "title": "Reduced Expression of Transforming Growth Factor β Type I Receptor Contributes to the Malignancy of Human Colon Carcinoma Cells",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1996,
+        "citations": 121,
+        "authors": "Jing Wang, Wei Han, Elizabeth Zborowska et al.",
+        "authors_list": [
+            "Jing Wang",
+            "Wei Han",
+            "Elizabeth Zborowska",
+            "Jiurong Liang",
+            "Xiao‐Fan Wang",
+            "James K. V. Willson",
+            "Lu‐Zhe Sun",
+            "Michael G. Brattain"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 121,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0021925818313425/pdf"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Evidence of selection for clones having genetic inactivation of the activin A type II receptor (ACVR2) gene in gastrointestinal cancers.",
+        "journal": "PubMed",
+        "year": 2003,
+        "citations": 116,
+        "authors": "Paula M. Hempen, Lin Zhang, Ravi Bansal et al.",
+        "authors_list": [
+            "Paula M. Hempen",
+            "Lin Zhang",
+            "Ravi Bansal",
+            "Christine A. Iacobuzio–Donahue",
+            "Kathleen M. Murphy",
+            "Anirban Maitra",
+            "Bert Vogelstein",
+            "Robert H. Whitehead",
+            "Sanford D. Markowitz",
+            "James K. V. Willson",
+            "Charles J. Yeo",
+            "Ralph H. Hruban",
+            "Scott E. Kern"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Evaluation of the FHIT gene in colorectal cancers.",
+        "journal": "PubMed",
+        "year": 1996,
+        "citations": 116,
+        "authors": "Sam Thiagalingam, Н. А. Лисицын, Masaaki Hamaguchi et al.",
+        "authors_list": [
+            "Sam Thiagalingam",
+            "Н. А. Лисицын",
+            "Masaaki Hamaguchi",
+            "Michael Wigler",
+            "James K. V. Willson",
+            "Sanford D. Markowitz",
+            "Frederick S. Leach",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Phase I study of taxol administered as a short i.v. infusion daily for 5 days.",
+        "journal": "PubMed",
+        "year": 1987,
+        "citations": 102,
+        "authors": "Jean L. Grem, K D Tutsch, Kris Simon et al.",
+        "authors_list": [
+            "Jean L. Grem",
+            "K D Tutsch",
+            "Kris Simon",
+            "Dona Alberti",
+            "James K. V. Willson",
+            "D C Tormey",
+            "S. Swaminathan",
+            "D L Trump"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Establishment and characterization of human colorectal cancer cell lines.",
+        "journal": "PubMed",
+        "year": 1984,
+        "citations": 98,
+        "authors": "John A. McBain, James L. Weese, Lorraine F. Meisner et al.",
+        "authors_list": [
+            "John A. McBain",
+            "James L. Weese",
+            "Lorraine F. Meisner",
+            "William H. Wolberg",
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/0008-5472.can-05-2506",
+        "title": "Blockade of EGFR and ErbB2 by the Novel Dual EGFR and ErbB2 Tyrosine Kinase Inhibitor GW572016 Sensitizes Human Colon Carcinoma GEO Cells to Apoptosis",
+        "journal": "Cancer Research",
+        "year": 2006,
+        "citations": 96,
+        "authors": "Yunfei Zhou, Song Li, Yi Peter Hu et al.",
+        "authors_list": [
+            "Yunfei Zhou",
+            "Song Li",
+            "Yi Peter Hu",
+            "Jing Wang",
+            "Jennie Hauser",
+            "Alexis Conway",
+            "Michelle A. Vinci",
+            "Lisa E. Humphrey",
+            "Elizabeth Zborowska",
+            "James K. V. Willson",
+            "Michael G. Brattain"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aacrjournals.org/cancerres/article-pdf/66/1/404/2548615/404.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1200/jco.1991.9.11.2027",
+        "title": "Pharmacokinetic and pharmacodynamic analysis of fluorouracil during 72-hour continuous infusion with and without dipyridamole.",
+        "journal": "Journal of Clinical Oncology",
+        "year": 1991,
+        "citations": 92,
+        "authors": "D L Trump, Merrill J. Egorin, Alan Forrest et al.",
+        "authors_list": [
+            "D L Trump",
+            "Merrill J. Egorin",
+            "Alan Forrest",
+            "James K. V. Willson",
+            "S. C. Remick",
+            "K D Tutsch"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 92,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Sequential tumor biopsies in early phase clinical trials of anticancer agents for pharmacodynamic evaluation.",
+        "journal": "PubMed",
+        "year": 2001,
+        "citations": 92,
+        "authors": "Afshin Dowlati, John R. Haaga, Scot C. Remick et al.",
+        "authors_list": [
+            "Afshin Dowlati",
+            "John R. Haaga",
+            "Scot C. Remick",
+            "Timothy P. Spiro",
+            "Stanton L. Gerson",
+            "Lili Liu",
+            "Sosamma J. Berger",
+            "Nathan A. Berger",
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 92,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/sj.onc.1206128",
+        "title": "TGF-β-induced nuclear localization of Smad2 and Smad3 in Smad4 null cancer cell lines",
+        "journal": "Oncogene",
+        "year": 2003,
+        "citations": 91,
+        "authors": "Stephen P. Fink, Debra Mikkola, James K. V. Willson et al.",
+        "authors_list": [
+            "Stephen P. Fink",
+            "Debra Mikkola",
+            "James K. V. Willson",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 91,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/1206128.pdf"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Inhibition of human ovarian cancer colony formation by adriamycin and its major metabolites.",
+        "journal": "PubMed",
+        "year": 1980,
+        "citations": 88,
+        "authors": "Robert F. Ozols, James K. V. Willson, Martin D. Weltz et al.",
+        "authors_list": [
+            "Robert F. Ozols",
+            "James K. V. Willson",
+            "Martin D. Weltz",
+            "Karen R. Grotzinger",
+            "Charles E. Myers",
+            "Robert C. Young"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "PMEPA1, a transforming growth factor-beta-induced marker of terminal colonocyte differentiation whose expression is maintained in primary and metastatic colon cancer.",
+        "journal": "PubMed",
+        "year": 2003,
+        "citations": 87,
+        "authors": "Elaine Brunschwig, Keith E. Wilson, David H. Mack et al.",
+        "authors_list": [
+            "Elaine Brunschwig",
+            "Keith E. Wilson",
+            "David H. Mack",
+            "Dawn Dawson",
+            "Earl Lawrence",
+            "James K. V. Willson",
+            "Shi‐Long Lu",
+            "Arman Nosrati",
+            "Ronald M. Rerko",
+            "Sandra E. Swinler",
+            "Lydia Beard",
+            "James Lutterbaugh",
+            "Joseph Willis",
+            "Petra Platzer",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0021-9258(18)54207-1",
+        "title": "Autocrine transforming growth factor-alpha is associated with progression of transformed properties in human colon cancer cells.",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1993,
+        "citations": 84,
+        "authors": "Barry L. Ziober, James K. V. Willson, L.E. Hymphrey et al.",
+        "authors_list": [
+            "Barry L. Ziober",
+            "James K. V. Willson",
+            "L.E. Hymphrey",
+            "Karla E. Childress‐Fields",
+            "Michael G. Brattain"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0021-9258(18)54207-1"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Both transforming growth factor-beta and substrate release are inducers of apoptosis in a human colon adenoma cell line.",
+        "journal": "PubMed",
+        "year": 1995,
+        "citations": 82,
+        "authors": "Cheng Ya Wang, James R. Eshleman, James K. V. Willson et al.",
+        "authors_list": [
+            "Cheng Ya Wang",
+            "James R. Eshleman",
+            "James K. V. Willson",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1097/coc.0b013e318168f6c4",
+        "title": "The Impact of Resection Margin Status and Postoperative CA19-9 Levels on Survival and Patterns of Recurrence After Postoperative High-Dose Radiotherapy With 5-FU—Based Concurrent Chemotherapy for Resectable Pancreatic Cancer",
+        "journal": "American Journal of Clinical Oncology",
+        "year": 2008,
+        "citations": 81,
+        "authors": "Timothy J. Kinsella, Yuji Seo, Joseph Willis et al.",
+        "authors_list": [
+            "Timothy J. Kinsella",
+            "Yuji Seo",
+            "Joseph Willis",
+            "Thomas A. Stellato",
+            "Christopher Siegel",
+            "Deborah Harpp",
+            "James K. V. Willson",
+            "Joseph Gibbons",
+            "Juan Sanabria",
+            "Jeffrey M. Hardacre",
+            "James P. Schulak"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cub.2004.07.056",
+        "title": "Latrotoxin Receptor Signaling Engages the UNC-13-Dependent Vesicle-Priming Pathway in C. elegans",
+        "journal": "Current Biology",
+        "year": 2004,
+        "citations": 81,
+        "authors": "James K. V. Willson, Kiran Amliwala, Andrew Davis et al.",
+        "authors_list": [
+            "James K. V. Willson",
+            "Kiran Amliwala",
+            "Andrew Davis",
+            "Alan F. Cook",
+            "Matthew F. Cuttle",
+            "Neline Kriek",
+            "Neil A. Hopper",
+            "Vincent O’Connor",
+            "Achim Harder",
+            "Robert Walker",
+            "Lindy Holden‐Dye"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S0960982204005597/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.18632/oncotarget.5921",
+        "title": "Induction of KIAA1199/CEMIP is associated with colon cancer phenotype and poor patient survival",
+        "journal": "Oncotarget",
+        "year": 2015,
+        "citations": 80,
+        "authors": "Stephen P. Fink, Lois L. Myeroff, Revital Kariv et al.",
+        "authors_list": [
+            "Stephen P. Fink",
+            "Lois L. Myeroff",
+            "Revital Kariv",
+            "Petra Platzer",
+            "Baozhong Xin",
+            "Debra Mikkola",
+            "Earl Lawrence",
+            "Nathan Morris",
+            "Arman Nosrati",
+            "James K. V. Willson",
+            "Joseph Willis",
+            "Martina Veigl",
+            "Jill S. Barnholtz‐Sloan",
+            "Zhenghe Wang",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=download&path%5B%5D=5921&path%5B%5D=14193"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Temozolomide: the effect of once- and twice-a-day dosing on tumor tissue levels of the DNA repair protein O(6)-alkylguanine-DNA-alkyltransferase.",
+        "journal": "PubMed",
+        "year": 2001,
+        "citations": 78,
+        "authors": "Timothy P. Spiro, Lili Liu, Susan M. Majka et al.",
+        "authors_list": [
+            "Timothy P. Spiro",
+            "Lili Liu",
+            "Susan M. Majka",
+            "John R. Haaga",
+            "James K. V. Willson",
+            "Stanton L. Gerson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tpds.2011.30",
+        "title": "Efficient Algorithms for Topology Control Problem with Routing Cost Constraints in Wireless Networks",
+        "journal": "IEEE Transactions on Parallel and Distributed Systems",
+        "year": 2011,
+        "citations": 78,
+        "authors": "Ling Ding, Weili Wu, James K. V. Willson et al.",
+        "authors_list": [
+            "Ling Ding",
+            "Weili Wu",
+            "James K. V. Willson",
+            "Hongjie Du",
+            "Wonjun Lee",
+            "Ding‐Zhu Du"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1148/72.5.672",
+        "title": "The Bone Lesions of Childhood Leukemia",
+        "journal": "Radiology",
+        "year": 1959,
+        "citations": 76,
+        "authors": "James K. V. Willson",
+        "authors_list": [
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/sj.onc.1205011",
+        "title": "Autocrine heregulin generates growth factor independence and blocks apoptosis in colon cancer cells",
+        "journal": "Oncogene",
+        "year": 2002,
+        "citations": 75,
+        "authors": "Srinivas Venkateswarlu, Dawn Dawson, Patricia St. Clair et al.",
+        "authors_list": [
+            "Srinivas Venkateswarlu",
+            "Dawn Dawson",
+            "Patricia St. Clair",
+            "Anjana Gupta",
+            "James K. V. Willson",
+            "Michael G. Brattain"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Role of alpha 5 beta 1 integrin in determining malignant properties of colon carcinoma cells.",
+        "journal": "PubMed",
+        "year": 1997,
+        "citations": 74,
+        "authors": "Jiangen Gong, DanHui Wang, LuZhe Sun et al.",
+        "authors_list": [
+            "Jiangen Gong",
+            "DanHui Wang",
+            "LuZhe Sun",
+            "Elizabeth Zborowska",
+            "James K. V. Willson",
+            "Michael G. Brattain"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0006-2952(93)90086-c",
+        "title": "Synergistic efficacy of O6benzylguanine and 1,3-bis(2-chloroethyl)-1-nitrosourea (BCNU) in a human colon cancer xenograft completely resistant to BCNU alone",
+        "journal": "Biochemical Pharmacology",
+        "year": 1993,
+        "citations": 74,
+        "authors": "Stanton L. Gerson, Elizabeth Zborowska, K. Barbara Norton et al.",
+        "authors_list": [
+            "Stanton L. Gerson",
+            "Elizabeth Zborowska",
+            "K. Barbara Norton",
+            "Nahida H. Gordon",
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0197-2456(01)00113-1",
+        "title": "Cause-Specific Mortality Coding",
+        "journal": "Controlled Clinical Trials",
+        "year": 2001,
+        "citations": 74,
+        "authors": "Claudia S. Moy, Daniel M. Albert, Marie Diener‐West et al.",
+        "authors_list": [
+            "Claudia S. Moy",
+            "Daniel M. Albert",
+            "Marie Diener‐West",
+            "Lee McCaffrey",
+            "Robert E. Scully",
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/infcom.2012.6195527",
+        "title": "Constant-approximation for target coverage problem in wireless sensor networks",
+        "journal": "",
+        "year": 2012,
+        "citations": 74,
+        "authors": "Ling Ding, Weili Wu, James K. V. Willson et al.",
+        "authors_list": [
+            "Ling Ding",
+            "Weili Wu",
+            "James K. V. Willson",
+            "Lidong Wu",
+            "Zaixin Lu",
+            "Wonjun Lee"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/gcc.20511",
+        "title": "Mutational inactivation of <i>TGFBR2</i> in microsatellite unstable colon cancer arises from the cooperation of genomic instability and the clonal outgrowth of transforming growth factor β resistant cells",
+        "journal": "Genes Chromosomes and Cancer",
+        "year": 2007,
+        "citations": 73,
+        "authors": "Swati Biswas, Patricia Trobridge, Judith Romero–Gallo et al.",
+        "authors_list": [
+            "Swati Biswas",
+            "Patricia Trobridge",
+            "Judith Romero–Gallo",
+            "Dean Billheimer",
+            "Lois L. Myeroff",
+            "James K. V. Willson",
+            "Sanford D. Markowitz",
+            "William M. Grady"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Cloning of human ovarian cancer cells in soft agar from malignant and peritoneal washings.",
+        "journal": "PubMed",
+        "year": 1980,
+        "citations": 72,
+        "authors": "Robert F. Ozols, James K. V. Willson, Karen R. Grotzinger et al.",
+        "authors_list": [
+            "Robert F. Ozols",
+            "James K. V. Willson",
+            "Karen R. Grotzinger",
+            "Robert C. Young"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Repression of autocrine transforming growth factor beta 1 and beta 2 in quiescent CBS colon carcinoma cells leads to progression of tumorigenic properties.",
+        "journal": "PubMed",
+        "year": 1993,
+        "citations": 71,
+        "authors": "Shao Ping Wu, Lu‐Zhe Sun, James K. V. Willson et al.",
+        "authors_list": [
+            "Shao Ping Wu",
+            "Lu‐Zhe Sun",
+            "James K. V. Willson",
+            "Lisa E. Humphrey",
+            "Robert S. Kerbel",
+            "Michael G. Brattain"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Transforming growth factor-beta-induced growth inhibition in a Smad4 mutant colon adenoma cell line.",
+        "journal": "PubMed",
+        "year": 2001,
+        "citations": 71,
+        "authors": "Stephen P. Fink, Sandra E. Swinler, James Lutterbaugh et al.",
+        "authors_list": [
+            "Stephen P. Fink",
+            "Sandra E. Swinler",
+            "James Lutterbaugh",
+            "Joan Massagué",
+            "Sam Thiagalingam",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein",
+            "James K. V. Willson",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Synergistic antiproliferative effects of human recombinant alpha 54- or beta ser-interferon with gamma-interferon on human cell lines of various histogenesis.",
+        "journal": "PubMed",
+        "year": 1986,
+        "citations": 67,
+        "authors": "Joan H. Schiller, Debra S. Groveman, Steven M. Schmid et al.",
+        "authors_list": [
+            "Joan H. Schiller",
+            "Debra S. Groveman",
+            "Steven M. Schmid",
+            "James K. V. Willson",
+            "Kenneth B. Cummings",
+            "Ernest C. Borden"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Synergistic antitumor effects of tumor necrosis factor and gamma-interferon on human colon carcinoma cell lines.",
+        "journal": "PubMed",
+        "year": 1987,
+        "citations": 67,
+        "authors": "Joan H. Schiller, Gerard Bittner, Barry Storer et al.",
+        "authors_list": [
+            "Joan H. Schiller",
+            "Gerard Bittner",
+            "Barry Storer",
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1172/jci117048",
+        "title": "A benign cultured colon adenoma bears three genetically altered colon cancer oncogenes, but progresses to tumorigenicity and transforming growth factor-beta independence without inactivating the p53 tumor suppressor gene.",
+        "journal": "Journal of Clinical Investigation",
+        "year": 1994,
+        "citations": 65,
+        "authors": "Sanford D. Markowitz, Lois L. Myeroff, Mark J. Cooper et al.",
+        "authors_list": [
+            "Sanford D. Markowitz",
+            "Lois L. Myeroff",
+            "Mark J. Cooper",
+            "June L. Traicoff",
+            "M Kochera",
+            "James Lutterbaugh",
+            "M Swiriduk",
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jci.org/articles/view/117048/files/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0889-8588(18)30103-5",
+        "title": "O6-Alkylguanine-DNA Alkyltransferase: A Target for the Modulation of Drug Resistance",
+        "journal": "Hematology/Oncology Clinics of North America",
+        "year": 1995,
+        "citations": 65,
+        "authors": "Stanton L. Gerson, James K. V. Willson",
+        "authors_list": [
+            "Stanton L. Gerson",
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1097/00001622-199601000-00009",
+        "title": "The type II transforming growth factor-β receptor as a tumor-suppressor gene",
+        "journal": "Current Opinion in Oncology",
+        "year": 1996,
+        "citations": 63,
+        "authors": "Michael G. Brattain, Sanford D. Markowitz, James K. V. Willson",
+        "authors_list": [
+            "Michael G. Brattain",
+            "Sanford D. Markowitz",
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/1535-7163.mct-06-0555",
+        "title": "Colon carcinoma cells harboring <i>PIK3CA</i> mutations display resistance to growth factor deprivation induced apoptosis",
+        "journal": "Molecular Cancer Therapeutics",
+        "year": 2007,
+        "citations": 61,
+        "authors": "Jing Wang, Karen K. Kuropatwinski, Jennie Hauser et al.",
+        "authors_list": [
+            "Jing Wang",
+            "Karen K. Kuropatwinski",
+            "Jennie Hauser",
+            "Michael R. Rossi",
+            "Yunfei Zhou",
+            "Alexis Conway",
+            "Julie L.C. Kan",
+            "Neil W. Gibson",
+            "James K. V. Willson",
+            "John K. Cowell",
+            "Michael G. Brattain"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aacrjournals.org/mct/article-pdf/6/3/1143/1876268/1143.pdf"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Detection of poly(ADP-ribose) polymerase cleavage in response to treatment with topoisomerase I inhibitors: a potential surrogate end point to assess treatment effectiveness.",
+        "journal": "PubMed",
+        "year": 1999,
+        "citations": 61,
+        "authors": "Cecilia M. Whitacre, Elizabeth Zborowska, James K. V. Willson et al.",
+        "authors_list": [
+            "Cecilia M. Whitacre",
+            "Elizabeth Zborowska",
+            "James K. V. Willson",
+            "Nathan A. Berger"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Sensitive enzymatic cycling assay for glutathione: measurements of glutathione content and its modulation by buthionine sulfoximine in vivo and in vitro in human colon cancer.",
+        "journal": "PubMed",
+        "year": 1994,
+        "citations": 60,
+        "authors": "S J Berger, David M. Gosky, Elizabeth Zborowska et al.",
+        "authors_list": [
+            "S J Berger",
+            "David M. Gosky",
+            "Elizabeth Zborowska",
+            "James K. V. Willson",
+            "Nathan A. Berger"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/sysbio/syab070",
+        "title": "DISCO: Species Tree Inference using Multicopy Gene Family Tree Decomposition",
+        "journal": "Systematic Biology",
+        "year": 2021,
+        "citations": 59,
+        "authors": "James K. V. Willson, Mrinmoy Saha Roddur, Baqiao Liu et al.",
+        "authors_list": [
+            "James K. V. Willson",
+            "Mrinmoy Saha Roddur",
+            "Baqiao Liu",
+            "Paul Zaharias",
+            "Tandy Warnow"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/sysbio/advance-article-pdf/doi/10.1093/sysbio/syab070/40513662/syab070.pdf"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Enhancement of the sensitivity of human colon cancer cells to growth inhibition by acivicin achieved through inhibition of nucleic acid precursor salvage by dipyridamole.",
+        "journal": "PubMed",
+        "year": 1984,
+        "citations": 59,
+        "authors": "Paul H. Fischer, Rifat Pamukcu, Gerard Bittner et al.",
+        "authors_list": [
+            "Paul H. Fischer",
+            "Rifat Pamukcu",
+            "Gerard Bittner",
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1017/s0031182002002639",
+        "title": "The effect of the anthelmintic emodepside at the neuromuscular junction of the parasitic nematode <i>Ascaris suum</i>",
+        "journal": "Parasitology",
+        "year": 2003,
+        "citations": 57,
+        "authors": "James K. V. Willson, Kiran Amliwala, Achim Harder et al.",
+        "authors_list": [
+            "James K. V. Willson",
+            "Kiran Amliwala",
+            "Achim Harder",
+            "Lindy Holden‐Dye",
+            "Robert Walker"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1200/jco.1987.5.8.1281",
+        "title": "Platinum analogue combination chemotherapy: cisplatin and carboplatin--a phase I trial with pharmacokinetic assessment of the effect of cisplatin administration on carboplatin excretion.",
+        "journal": "Journal of Clinical Oncology",
+        "year": 1987,
+        "citations": 57,
+        "authors": "D L Trump, Jean L. Grem, K D Tutsch et al.",
+        "authors_list": [
+            "D L Trump",
+            "Jean L. Grem",
+            "K D Tutsch",
+            "James K. V. Willson",
+            "Kris Simon",
+            "Dona Alberti",
+            "Barry E. Storer",
+            "D C Tormey"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 57,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0006-2952(87)90168-7",
+        "title": "Augmentation of methotrexate cytotoxicity in human colon cancer cells achieved through inhibition of thymidine salvage by dipyridamole",
+        "journal": "Biochemical Pharmacology",
+        "year": 1987,
+        "citations": 56,
+        "authors": "Timothy J. Van Mouwerik, Cynthia A. Pangallo, James K. V. Willson et al.",
+        "authors_list": [
+            "Timothy J. Van Mouwerik",
+            "Cynthia A. Pangallo",
+            "James K. V. Willson",
+            "Paul H. Fischer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Short mononucleotide repeat sequence variability in mismatch repair-deficient cancers.",
+        "journal": "PubMed",
+        "year": 2001,
+        "citations": 50,
+        "authors": "Lin Zhang, Jian Yu, James K. V. Willson et al.",
+        "authors_list": [
+            "Lin Zhang",
+            "Jian Yu",
+            "James K. V. Willson",
+            "Sanford D. Markowitz",
+            "Kenneth W. Kinzler",
+            "Bert Vogelstein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/0008-5472.can-06-2773",
+        "title": "A Novel Mechanism of Resistance to Epidermal Growth Factor Receptor Antagonism <i>In vivo</i>",
+        "journal": "Cancer Research",
+        "year": 2007,
+        "citations": 49,
+        "authors": "Ashwani Rajput, Alan Koterba, Jeffrey I. Kreisberg et al.",
+        "authors_list": [
+            "Ashwani Rajput",
+            "Alan Koterba",
+            "Jeffrey I. Kreisberg",
+            "Jason M. Foster",
+            "James K. V. Willson",
+            "Michael G. Brattain"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1097/00002371-199302000-00005",
+        "title": "Phase II Multicenter Evaluation of Prolonged Murine Monoclonal Antibody 17-1A Therapy in Pancreatic Carcinoma",
+        "journal": "Journal of Immunotherapy",
+        "year": 1993,
+        "citations": 48,
+        "authors": "Louis M. Weiner, Elizabeth Harvey, Kristin Padavic‐Shaller et al.",
+        "authors_list": [
+            "Louis M. Weiner",
+            "Elizabeth Harvey",
+            "Kristin Padavic‐Shaller",
+            "James K. V. Willson",
+            "Christine M. Walsh",
+            "Frank LaCreta",
+            "M.B. Khazaeli",
+            "John M. Kirkwood",
+            "Daniel G. Haller"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1158/0008-5472.can-08-1259",
+        "title": "Ugene, a Newly Identified Protein That Is Commonly Overexpressed in Cancer and Binds Uracil DNA Glycosylase",
+        "journal": "Cancer Research",
+        "year": 2008,
+        "citations": 48,
+        "authors": "Chunguang Guo, Xiaodong Zhang, Stephen P. Fink et al.",
+        "authors_list": [
+            "Chunguang Guo",
+            "Xiaodong Zhang",
+            "Stephen P. Fink",
+            "Petra Platzer",
+            "Keith E. Wilson",
+            "James K. V. Willson",
+            "Zhenghe Wang",
+            "Sanford D. Markowitz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aacrjournals.org/cancerres/article-pdf/68/15/6118/2593882/6118.pdf"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Pulmonary toxicity of antineoplastic drugs.",
+        "journal": "PubMed",
+        "year": 1978,
+        "citations": 46,
+        "authors": "James K. V. Willson",
+        "authors_list": [
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 46,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1074/jbc.274.18.12840",
+        "title": "Control of Type II Transforming Growth Factor-β Receptor Expression by Integrin Ligation",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1999,
+        "citations": 46,
+        "authors": "Dan Hui Wang, Lu Sun, Elizabeth Zborowska et al.",
+        "authors_list": [
+            "Dan Hui Wang",
+            "Lu Sun",
+            "Elizabeth Zborowska",
+            "James K. V. Willson",
+            "Jiangen Gong",
+            "Janaki Verraraghavan",
+            "Michael G. Brattain"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 46,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925819734267/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1148/62.2.203",
+        "title": "Nephrocalcinosis Associated with Sarcoidosis",
+        "journal": "Radiology",
+        "year": 1954,
+        "citations": 45,
+        "authors": "Charles N. Davidson, John M. Dennis, Eugene R. McNinch et al.",
+        "authors_list": [
+            "Charles N. Davidson",
+            "John M. Dennis",
+            "Eugene R. McNinch",
+            "James K. V. Willson",
+            "W. H. Brown"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0006-2952(92)90618-s",
+        "title": "Modulation of nitrosourea resistance in human colon cancer by O6-methylguanine",
+        "journal": "Biochemical Pharmacology",
+        "year": 1992,
+        "citations": 44,
+        "authors": "Stanton L. Gerson, Nathan A. Berger, Cheryl Arce et al.",
+        "authors_list": [
+            "Stanton L. Gerson",
+            "Nathan A. Berger",
+            "Cheryl Arce",
+            "Shirley J. Petzold",
+            "James K. V. Willson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 44,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1074/jbc.270.37.22044",
+        "title": "Demonstration That Mutation of the Type II Transforming Growth Factor β Receptor Inactivates Its Tumor Suppressor Activity in Replication Error-positive Colon Carcinoma Cells",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1995,
+        "citations": 267,
+        "authors": "Jing Wang, LuZhe Sun, Lois Myeroff et al.",
+        "authors_list": [
+            "Jing Wang",
+            "LuZhe Sun",
+            "Lois Myeroff",
+            "Xiaofan Wang",
+            "Larry E. Gentry",
+            "Junhua Yang",
+            "Jiurong Liang",
+            "Elizabeth Zborowska",
+            "Sanford Markowitz",
+            "James K.V. Willson",
+            "Michael G. Brattain"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 267
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jbc.org/article/S0021925818902796/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/s0021-9258(18)47215-8",
+        "title": "Expression of transforming growth factor beta type II receptor leads to reduced malignancy in human breast cancer MCF-7 cells",
+        "journal": "Journal of Biological Chemistry",
+        "year": 1994,
+        "citations": 233,
+        "authors": "L Sun, G Wu, J K Willson et al.",
+        "authors_list": [
+            "L Sun",
+            "G Wu",
+            "J K Willson",
+            "E Zborowska",
+            "J Yang",
+            "I Rajkarunanayake",
+            "J Wang",
+            "L E Gentry",
+            "X F Wang",
+            "M G Brattain"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 233
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/s0021-9258(18)47215-8"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1007/bf00048384",
+        "title": "Heterogeneity of human colon carcinoma",
+        "journal": "CANCER AND METASTASIS REVIEW",
+        "year": 1984,
+        "citations": 169,
+        "authors": "M. G. Brattain, A. E. Levine, S. Chakrabarty et al.",
+        "authors_list": [
+            "M. G. Brattain",
+            "A. E. Levine",
+            "S. Chakrabarty",
+            "L. C. Yeoman",
+            "J. K. V. Willson",
+            "B. Long"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 169
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

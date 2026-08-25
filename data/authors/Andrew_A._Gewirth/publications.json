@@ -1,0 +1,3230 @@
+[
+    {
+        "doi": "https://doi.org/10.1021/jacs.8b01868",
+        "title": "Nanoporous Copper–Silver Alloys by Additive-Controlled Electrodeposition for the Selective Electroreduction of CO<sub>2</sub> to Ethylene and Ethanol",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2018,
+        "citations": 847,
+        "authors": "Thao Thi Huong Hoang, Sumit Verma, Sichao Ma et al.",
+        "authors_list": [
+            "Thao Thi Huong Hoang",
+            "Sumit Verma",
+            "Sichao Ma",
+            "T. T. Fister",
+            "Janis Timoshenko",
+            "Anatoly I. Frenkel",
+            "Paul J. A. Kenis",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 847,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.chemrev.7b00335",
+        "title": "Nonprecious Metal Catalysts for Oxygen Reduction in Heterogeneous Aqueous Systems",
+        "journal": "Chemical Reviews",
+        "year": 2018,
+        "citations": 780,
+        "authors": "Andrew A. Gewirth, Jason A. Varnell, Angela M. DiAscro",
+        "authors_list": [
+            "Andrew A. Gewirth",
+            "Jason A. Varnell",
+            "Angela M. DiAscro"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 780,
+            "crossref": 761
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ic9022486",
+        "title": "Electroreduction of Dioxygen for Fuel-Cell Applications: Materials and Challenges",
+        "journal": "Inorganic Chemistry",
+        "year": 2010,
+        "citations": 702,
+        "authors": "Andrew A. Gewirth, Matthew S. Thorum",
+        "authors_list": [
+            "Andrew A. Gewirth",
+            "Matthew S. Thorum"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 702,
+            "crossref": 676
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41929-020-00547-0",
+        "title": "Electrochemical CO2-to-ethylene conversion on polyamine-incorporated Cu electrodes",
+        "journal": "Nature Catalysis",
+        "year": 2020,
+        "citations": 638,
+        "authors": "Xinyi Chen, Junfeng Chen, Nawal M. Alghoraibi et al.",
+        "authors_list": [
+            "Xinyi Chen",
+            "Junfeng Chen",
+            "Nawal M. Alghoraibi",
+            "Danielle A. Henckel",
+            "Ruixian Zhang",
+            "Uzoma O. Nwabara",
+            "Kenneth E. Madsen",
+            "Paul J. A. Kenis",
+            "Steven C. Zimmerman",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 638,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsenergylett.7b01096",
+        "title": "Insights into the Low Overpotential Electroreduction of CO<sub>2</sub> to CO on a Supported Gold Catalyst in an Alkaline Flow Electrolyzer",
+        "journal": "ACS Energy Letters",
+        "year": 2017,
+        "citations": 515,
+        "authors": "Sumit Verma, Yuki Hamasaki, Chaerin Kim et al.",
+        "authors_list": [
+            "Sumit Verma",
+            "Yuki Hamasaki",
+            "Chaerin Kim",
+            "Wenxin Huang",
+            "Shawn Lu",
+            "Huei-Ru Molly Jhong",
+            "Andrew A. Gewirth",
+            "Tsuyohiko Fujigaya",
+            "Naotoshi Nakashima",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 515,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/cr960067y",
+        "title": "Electrochemical Applications of<i>in Situ</i>Scanning Probe Microscopy",
+        "journal": "Chemical Reviews",
+        "year": 1997,
+        "citations": 451,
+        "authors": "Andrew A. Gewirth, Brian K. Niece",
+        "authors_list": [
+            "Andrew A. Gewirth",
+            "Brian K. Niece"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 451,
+            "crossref": 411
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.251.4990.183",
+        "title": "Atomic-Resolution Electrochemistry with the Atomic Force Microscope: Copper Deposition on Gold",
+        "journal": "Science",
+        "year": 1991,
+        "citations": 407,
+        "authors": "S. Manne, P. K. Hansma, J. Massié et al.",
+        "authors_list": [
+            "S. Manne",
+            "P. K. Hansma",
+            "J. Massié",
+            "Virgil B. Elings",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 407,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.joule.2022.04.017",
+        "title": "Highly reversible Zn anode with a practical areal capacity enabled by a sustainable electrolyte and superacid interfacial chemistry",
+        "journal": "Joule",
+        "year": 2022,
+        "citations": 338,
+        "authors": "Chang Li, Abhinandan Shyamsunder, Alexis Hoane et al.",
+        "authors_list": [
+            "Chang Li",
+            "Abhinandan Shyamsunder",
+            "Alexis Hoane",
+            "Daniel Long",
+            "Chun Yuen Kwok",
+            "Paul G. Kotula",
+            "Kevin R. Zavadil",
+            "Andrew A. Gewirth",
+            "Linda F. Nazar"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 337,
+            "crossref": 338
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S2542435122001842/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/am5072942",
+        "title": "In Situ Raman Spectroscopy of Sulfur Speciation in Lithium–Sulfur Batteries",
+        "journal": "ACS Applied Materials & Interfaces",
+        "year": 2014,
+        "citations": 327,
+        "authors": "Heng‐Liang Wu, Laura A. Huff, Andrew A. Gewirth",
+        "authors_list": [
+            "Heng‐Liang Wu",
+            "Laura A. Huff",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 327,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.nanoen.2016.06.024",
+        "title": "Nitrate reduction pathways on Cu single crystal surfaces: Effect of oxide and Cl−",
+        "journal": "Nano Energy",
+        "year": 2016,
+        "citations": 318,
+        "authors": "Dennis P. Butcher, Andrew A. Gewirth",
+        "authors_list": [
+            "Dennis P. Butcher",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 318,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms12582",
+        "title": "Identification of carbon-encapsulated iron nanoparticles as active species in non-precious metal oxygen reduction catalysts",
+        "journal": "Nature Communications",
+        "year": 2016,
+        "citations": 317,
+        "authors": "Jason A. Varnell, Edmund C. M. Tse, Charles E. Schulz et al.",
+        "authors_list": [
+            "Jason A. Varnell",
+            "Edmund C. M. Tse",
+            "Charles E. Schulz",
+            "T. T. Fister",
+            "Richard T. Haasch",
+            "Janis Timoshenko",
+            "Anatoly I. Frenkel",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 317,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms12582.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jz1016284",
+        "title": "Poisoning the Oxygen Reduction Reaction on Carbon-Supported Fe and Cu Electrocatalysts: Evidence for Metal-Centered Activity",
+        "journal": "The Journal of Physical Chemistry Letters",
+        "year": 2011,
+        "citations": 308,
+        "authors": "Matthew S. Thorum, Jeanne Hankett, Andrew A. Gewirth",
+        "authors_list": [
+            "Matthew S. Thorum",
+            "Jeanne Hankett",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 308,
+            "crossref": 303
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja071330n",
+        "title": "Nitrate Adsorption and Reduction on Cu(100) in Acidic Solution",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2007,
+        "citations": 304,
+        "authors": "Sang-Eun Bae, Karen L. Stewart, Andrew A. Gewirth",
+        "authors_list": [
+            "Sang-Eun Bae",
+            "Karen L. Stewart",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 304,
+            "crossref": 291
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acscatal.6b03613",
+        "title": "Nanoporous Copper Films by Additive-Controlled Electrodeposition: CO<sub>2</sub> Reduction Catalysis",
+        "journal": "ACS Catalysis",
+        "year": 2017,
+        "citations": 294,
+        "authors": "Thao Thi Huong Hoang, Sichao Ma, Jake I. Gold et al.",
+        "authors_list": [
+            "Thao Thi Huong Hoang",
+            "Sichao Ma",
+            "Jake I. Gold",
+            "Paul J. A. Kenis",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 294,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp034875m",
+        "title": "Inhibition Due to the Interaction of Polyethylene Glycol, Chloride, and Copper in Plating Baths:  A Surface-Enhanced Raman Study",
+        "journal": "The Journal of Physical Chemistry B",
+        "year": 2003,
+        "citations": 293,
+        "authors": "Z. Vivian Feng, Xiao Li, Andrew A. Gewirth",
+        "authors_list": [
+            "Z. Vivian Feng",
+            "Xiao Li",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 293,
+            "crossref": 281
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00220a015",
+        "title": "Electronic structure of plastocyanin:  excited state spectral features",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1988,
+        "citations": 262,
+        "authors": "Andrew A. Gewirth, Edward I. Solomon",
+        "authors_list": [
+            "Andrew A. Gewirth",
+            "Edward I. Solomon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 262,
+            "crossref": 250
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsenergylett.6b00194",
+        "title": "Sparingly Solvating Electrolytes for High Energy Density Lithium–Sulfur Batteries",
+        "journal": "ACS Energy Letters",
+        "year": 2016,
+        "citations": 247,
+        "authors": "Lei Cheng, Larry A. Curtiss, Kevin R. Zavadil et al.",
+        "authors_list": [
+            "Lei Cheng",
+            "Larry A. Curtiss",
+            "Kevin R. Zavadil",
+            "Andrew A. Gewirth",
+            "Yuyan Shao",
+            "Kevin G. Gallagher"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 247,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1339571"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jacs.6b04477",
+        "title": "A Highly Efficient Single-Chain Metal–Organic Nanoparticle Catalyst for Alkyne–Azide “Click” Reactions in Water and in Cells",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2016,
+        "citations": 239,
+        "authors": "Yugang Bai, Xinxin Feng, Hang Xing et al.",
+        "authors_list": [
+            "Yugang Bai",
+            "Xinxin Feng",
+            "Hang Xing",
+            "Yanhua Xu",
+            "Boo Kyung Kim",
+            "Noman Baig",
+            "Tianhui Zhou",
+            "Andrew A. Gewirth",
+            "Yi Lu",
+            "Eric Oldfield",
+            "Steven C. Zimmerman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 239,
+            "crossref": 229
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jacs.5b10987",
+        "title": "The Interplay of Al and Mg Speciation in Advanced Mg Battery Electrolyte Solutions",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2015,
+        "citations": 236,
+        "authors": "Kimberly A. See, Karena W. Chapman, Lingyang Zhu et al.",
+        "authors_list": [
+            "Kimberly A. See",
+            "Karena W. Chapman",
+            "Lingyang Zhu",
+            "Kamila M. Wiaderek",
+            "Olaf J. Borkiewicz",
+            "Christopher J. Barile",
+            "Peter J. Chupas",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 236,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00301a024",
+        "title": "Electronic structure and bonding of the blue copper site in plastocyanin",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1985,
+        "citations": 234,
+        "authors": "Kevin Penfield, Andrew A. Gewirth, Edward I. Solomon",
+        "authors_list": [
+            "Kevin Penfield",
+            "Andrew A. Gewirth",
+            "Edward I. Solomon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 234,
+            "crossref": 213
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsenergylett.1c02391",
+        "title": "Beyond Local Solvation Structure: Nanometric Aggregates in Battery Electrolytes and Their Effect on Electrolyte Properties",
+        "journal": "ACS Energy Letters",
+        "year": 2021,
+        "citations": 229,
+        "authors": "Yu Zhou, Nitash P. Balsara, Oleg Borodin et al.",
+        "authors_list": [
+            "Yu Zhou",
+            "Nitash P. Balsara",
+            "Oleg Borodin",
+            "Andrew A. Gewirth",
+            "Nathan Hahn",
+            "Edward J. Maginn",
+            "Kristin A. Persson",
+            "Venkat Srinivasan",
+            "Michael F. Toney",
+            "Kang Xu",
+            "Kevin R. Zavadil",
+            "Larry A. Curtiss",
+            "Lei Cheng"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 229,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ccr.2012.03.033",
+        "title": "Cu complexes that catalyze the oxygen reduction reaction",
+        "journal": "Coordination Chemistry Reviews",
+        "year": 2012,
+        "citations": 209,
+        "authors": "Matthew A. Thorseth, Claire E. Tornow, Edmund C. M. Tse et al.",
+        "authors_list": [
+            "Matthew A. Thorseth",
+            "Claire E. Tornow",
+            "Edmund C. M. Tse",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 209,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adfm.201002487",
+        "title": "Strain Anisotropies and Self‐Limiting Capacities in Single‐Crystalline 3D Silicon Microstructures: Models for High Energy Density Lithium‐Ion Battery Anodes",
+        "journal": "Advanced Functional Materials",
+        "year": 2011,
+        "citations": 206,
+        "authors": "Jason L. Goldman, Brandon R. Long, Andrew A. Gewirth et al.",
+        "authors_list": [
+            "Jason L. Goldman",
+            "Brandon R. Long",
+            "Andrew A. Gewirth",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 206,
+            "crossref": 193
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp506951b",
+        "title": "Electrolytic Conditioning of a Magnesium Aluminum Chloride Complex for Reversible Magnesium Deposition",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2014,
+        "citations": 201,
+        "authors": "Christopher J. Barile, Elizabeth C. Barile, Kevin R. Zavadil et al.",
+        "authors_list": [
+            "Christopher J. Barile",
+            "Elizabeth C. Barile",
+            "Kevin R. Zavadil",
+            "Ralph G. Nuzzo",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 201,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1235247"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acscatal.0c04297",
+        "title": "Potential Dependence of the Local pH in a CO<sub>2</sub> Reduction Electrolyzer",
+        "journal": "ACS Catalysis",
+        "year": 2020,
+        "citations": 201,
+        "authors": "Danielle A. Henckel, Michael J. Counihan, Hannah E. Holmes et al.",
+        "authors_list": [
+            "Danielle A. Henckel",
+            "Michael J. Counihan",
+            "Hannah E. Holmes",
+            "Xinyi Chen",
+            "Uzoma O. Nwabara",
+            "Sumit Verma",
+            "Joaquín Rodríguez‐López",
+            "Paul J. A. Kenis",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 201,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja308217w",
+        "title": "Nitrogen-Based Catalysts for the Electrochemical Reduction of CO<sub>2</sub> to CO",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2012,
+        "citations": 189,
+        "authors": "Claire E. Tornow, Michael R. Thorson, Sichao Ma et al.",
+        "authors_list": [
+            "Claire E. Tornow",
+            "Michael R. Thorson",
+            "Sichao Ma",
+            "Andrew A. Gewirth",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 189,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nmat4636",
+        "title": "Proton transfer dynamics control the mechanism of O2 reduction by a non-precious metal electrocatalyst",
+        "journal": "Nature Materials",
+        "year": 2016,
+        "citations": 184,
+        "authors": "Edmund C. M. Tse, Christopher J. Barile, Nicholas A. Kirchschlager et al.",
+        "authors_list": [
+            "Edmund C. M. Tse",
+            "Christopher J. Barile",
+            "Nicholas A. Kirchschlager",
+            "Ying Li",
+            "John P. Gewargis",
+            "Steven C. Zimmerman",
+            "Ali Hosseini",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 184,
+            "crossref": 183
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/anie.200803554",
+        "title": "Oxygen Reduction Activity of a Copper Complex of 3,5‐Diamino‐1,2,4‐triazole Supported on Carbon Black",
+        "journal": "Angewandte Chemie International Edition",
+        "year": 2008,
+        "citations": 173,
+        "authors": "Matthew S. Thorum, Jessica Yadav, Andrew A. Gewirth",
+        "authors_list": [
+            "Matthew S. Thorum",
+            "Jessica Yadav",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 173,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja0543393",
+        "title": "Potential Dependent Organization of Water at the Electrified Metal−Liquid Interface",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2005,
+        "citations": 171,
+        "authors": "Zachary D. Schultz, Scott K. Shaw, Andrew A. Gewirth",
+        "authors_list": [
+            "Zachary D. Schultz",
+            "Scott K. Shaw",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 171,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00028a009",
+        "title": "In situ atomic force microscopy of underpotential deposition of silver on gold(111)",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1992,
+        "citations": 171,
+        "authors": "Chun‐Hsien Chen, Scott M. Vesecky, Andrew A. Gewirth",
+        "authors_list": [
+            "Chun‐Hsien Chen",
+            "Scott M. Vesecky",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 171,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acscatal.5b02365",
+        "title": "High Activity Oxygen Evolution Reaction Catalysts from Additive-Controlled Electrodeposited Ni and NiFe Films",
+        "journal": "ACS Catalysis",
+        "year": 2015,
+        "citations": 170,
+        "authors": "Thao Thi Huong Hoang, Andrew A. Gewirth",
+        "authors_list": [
+            "Thao Thi Huong Hoang",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 170,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acscatal.9b04368",
+        "title": "Controlling Speciation during CO<sub>2</sub> Reduction on Cu-Alloy Electrodes",
+        "journal": "ACS Catalysis",
+        "year": 2019,
+        "citations": 162,
+        "authors": "Xinyi Chen, Danielle A. Henckel, Uzoma O. Nwabara et al.",
+        "authors_list": [
+            "Xinyi Chen",
+            "Danielle A. Henckel",
+            "Uzoma O. Nwabara",
+            "Yuanyuan Li",
+            "Anatoly I. Frenkel",
+            "T. T. Fister",
+            "Paul J. A. Kenis",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 162,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ic00254a032",
+        "title": "Spectroscopic and theoretical studies of the unusual EPR parameters of distorted tetrahedral cupric sites: correlations to x-ray spectral features of core levels",
+        "journal": "Inorganic Chemistry",
+        "year": 1987,
+        "citations": 159,
+        "authors": "Andrew A. Gewirth, Susan L. Cohen, Harvey J. Schugar et al.",
+        "authors_list": [
+            "Andrew A. Gewirth",
+            "Susan L. Cohen",
+            "Harvey J. Schugar",
+            "Edward I. Solomon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 159,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.chemmater.7b00034",
+        "title": "Evolution at the Solid Electrolyte/Gold Electrode Interface during Lithium Deposition and Stripping",
+        "journal": "Chemistry of Materials",
+        "year": 2017,
+        "citations": 158,
+        "authors": "Lingzi Sang, Richard T. Haasch, Andrew A. Gewirth et al.",
+        "authors_list": [
+            "Lingzi Sang",
+            "Richard T. Haasch",
+            "Andrew A. Gewirth",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 158,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1388302"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nmat4708",
+        "title": "Electrochemical stiffness in lithium-ion batteries",
+        "journal": "Nature Materials",
+        "year": 2016,
+        "citations": 156,
+        "authors": "Hadi Tavassol, Elizabeth M. C. Jones, Nancy R. Sottos et al.",
+        "authors_list": [
+            "Hadi Tavassol",
+            "Elizabeth M. C. Jones",
+            "Nancy R. Sottos",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 156,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jcat.2017.12.028",
+        "title": "On the mechanism of the electrochemical conversion of ammonia to dinitrogen on Pt(1 0 0) in alkaline environment",
+        "journal": "Journal of Catalysis",
+        "year": 2018,
+        "citations": 154,
+        "authors": "Ioannis Katsounaros, Marta C. Figueiredo, Federico Calle‐Vallejo et al.",
+        "authors_list": [
+            "Ioannis Katsounaros",
+            "Marta C. Figueiredo",
+            "Federico Calle‐Vallejo",
+            "Hongjiao Li",
+            "Andrew A. Gewirth",
+            "Nenad M. Marković",
+            "Marc T. M. Koper"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 154,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1461283"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.aah3862",
+        "title": "Restored iron transport by a small molecule promotes absorption and hemoglobinization in animals",
+        "journal": "Science",
+        "year": 2017,
+        "citations": 150,
+        "authors": "Anthony S. Grillo, Anna M. SantaMaria, Martin D. Kafina et al.",
+        "authors_list": [
+            "Anthony S. Grillo",
+            "Anna M. SantaMaria",
+            "Martin D. Kafina",
+            "Alexander G. Cioffi",
+            "Nicholas C. Huston",
+            "Murui Han",
+            "Young Ah Seo",
+            "Yvette Y. Yien",
+            "Christopher Nardone",
+            "Archita V. Menon",
+            "James Fan",
+            "Dillon C. Svoboda",
+            "Jacob B. Anderson",
+            "John D. Hong",
+            "Bruno G. Nicolau",
+            "Kiran Subedi",
+            "Andrew A. Gewirth",
+            "Marianne Wessling‐Resnick",
+            "Jonghan Kim",
+            "Barry H. Paw",
+            "Martin D. Burke"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 150,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/5470741"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jacs.9b11061",
+        "title": "Preparation of Nonprecious Metal Electrocatalysts for the Reduction of Oxygen Using a Low-Temperature Sacrificial Metal",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2020,
+        "citations": 146,
+        "authors": "Talha Al-Zoubi, Yu Zhou, Xi Yin et al.",
+        "authors_list": [
+            "Talha Al-Zoubi",
+            "Yu Zhou",
+            "Xi Yin",
+            "Blanka Janicek",
+            "Cheng‐Jun Sun",
+            "Charles E. Schulz",
+            "Xiaohui Zhang",
+            "Andrew A. Gewirth",
+            "Pinshane Y. Huang",
+            "Piotr Zelenay",
+            "Hong Yang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 146,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1632829"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp0549529",
+        "title": "Mechanism of Oxygen Electroreduction on Gold Surfaces in Basic Media",
+        "journal": "The Journal of Physical Chemistry B",
+        "year": 2006,
+        "citations": 146,
+        "authors": "Jongwon Kim, Andrew A. Gewirth",
+        "authors_list": [
+            "Jongwon Kim",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 146,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/celc.202000089",
+        "title": "System Design Rules for Intensifying the Electrochemical Reduction of CO<sub>2</sub> to CO on Ag Nanoparticles",
+        "journal": "ChemElectroChem",
+        "year": 2020,
+        "citations": 139,
+        "authors": "Saket Bhargava, Federica Proietto, Daniel Azmoodeh et al.",
+        "authors_list": [
+            "Saket Bhargava",
+            "Federica Proietto",
+            "Daniel Azmoodeh",
+            "Emiliana R. Cofell",
+            "Danielle A. Henckel",
+            "Sumit Verma",
+            "Christopher Brooks",
+            "Andrew A. Gewirth",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 139,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ac001426z",
+        "title": "A Method for Filling Complex Polymeric Microfluidic Devices and Arrays",
+        "journal": "Analytical Chemistry",
+        "year": 2001,
+        "citations": 138,
+        "authors": "Jennifer L. Monahan, Andrew A. Gewirth, Ralph G. Nuzzo",
+        "authors_list": [
+            "Jennifer L. Monahan",
+            "Andrew A. Gewirth",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 138,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Procedures in scanning probe microscopy",
+        "journal": "Max Planck Institute for Plasma Physics",
+        "year": 1998,
+        "citations": 132,
+        "authors": "Richard J. Colton, Andreas Engel, Jane Frommer et al.",
+        "authors_list": [
+            "Richard J. Colton",
+            "Andreas Engel",
+            "Jane Frommer",
+            "Hermann E. Gaub",
+            "Andrew A. Gewirth",
+            "R. Guckenberger",
+            "Wolfgang M. Heckl",
+            "B. A. Parkinson",
+            "Jürgen P. Rabe"
+        ],
+        "type": "book",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 132,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/aenm.201800589",
+        "title": "ZnNi<i><sub><b>x</b></sub></i>Mn<i><sub><b>x</b></sub></i>Co<sub>2–2</sub><i><sub><b>x</b></sub></i>O<sub>4</sub> Spinel as a High‐Voltage and High‐Capacity Cathode Material for Nonaqueous Zn‐Ion Batteries",
+        "journal": "Advanced Energy Materials",
+        "year": 2018,
+        "citations": 130,
+        "authors": "Chengsi Pan, Ruixian Zhang, Ralph G. Nuzzo et al.",
+        "authors_list": [
+            "Chengsi Pan",
+            "Ruixian Zhang",
+            "Ralph G. Nuzzo",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1437317"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.nanoen.2016.12.015",
+        "title": "Thiol-based electrolyte additives for high-performance lithium-sulfur batteries",
+        "journal": "Nano Energy",
+        "year": 2016,
+        "citations": 129,
+        "authors": "Heng‐Liang Wu, Minjeong Shin, Yao-Min Liu et al.",
+        "authors_list": [
+            "Heng‐Liang Wu",
+            "Minjeong Shin",
+            "Yao-Min Liu",
+            "Kimberly A. See",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 129,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1413053"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/cssc.201600843",
+        "title": "A Nitrogen‐Doped Carbon Catalyst for Electrochemical CO<sub>2</sub> Conversion to CO with High Selectivity and Current Density",
+        "journal": "ChemSusChem",
+        "year": 2016,
+        "citations": 127,
+        "authors": "Huei‐Ru “Molly” Jhong, Claire E. Tornow, Břetislav Šmíd et al.",
+        "authors_list": [
+            "Huei‐Ru “Molly” Jhong",
+            "Claire E. Tornow",
+            "Břetislav Šmíd",
+            "Andrew A. Gewirth",
+            "Stephen Matthew Lyth",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 127,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cssc.201600843"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja043170a",
+        "title": "Oxygen Electroreduction through a Superoxide Intermediate on Bi-Modified Au Surfaces",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2005,
+        "citations": 123,
+        "authors": "Li Xiao, Andrew A. Gewirth",
+        "authors_list": [
+            "Li Xiao",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 123,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0020-1693(95)04893-6",
+        "title": "Electronic structure of the oxidized and reduced blue copper sites: contributions to the electron transfer pathway, reduction potential, and geometry",
+        "journal": "Inorganica Chimica Acta",
+        "year": 1996,
+        "citations": 122,
+        "authors": "Edward I. Solomon, Kevin Penfield, Andrew A. Gewirth et al.",
+        "authors_list": [
+            "Edward I. Solomon",
+            "Kevin Penfield",
+            "Andrew A. Gewirth",
+            "Michael D. Lowery",
+            "Susan E. Shadle",
+            "Jeffrey A. Guckert",
+            "Louis B. LaCroix"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 122,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/0020169395048936/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp503598y",
+        "title": "In Situ Surface-Enhanced Raman Spectroscopy of the Electrochemical Reduction of Carbon Dioxide on Silver with 3,5-Diamino-1,2,4-Triazole",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2014,
+        "citations": 118,
+        "authors": "Kevin Gary Schmitt, Andrew A. Gewirth",
+        "authors_list": [
+            "Kevin Gary Schmitt",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/j100331a006",
+        "title": "In situ scanning tunneling microscopy of the anodic oxidation of highly oriented pyrolytic graphite surfaces",
+        "journal": "The Journal of Physical Chemistry",
+        "year": 1988,
+        "citations": 117,
+        "authors": "Andrew A. Gewirth, Allen J. Bard",
+        "authors_list": [
+            "Andrew A. Gewirth",
+            "Allen J. Bard"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00257a045",
+        "title": "Vibrational mode structure and symmetry in proteins and analogs containing Fe4S4 clusters: resonance Raman evidence that HiPIP is tetrahedral while ferredoxin undergoes a D2d distortion",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1987,
+        "citations": 117,
+        "authors": "Roman S. Czernuszewicz, Kathleen A. Macor, Michael K. Johnson et al.",
+        "authors_list": [
+            "Roman S. Czernuszewicz",
+            "Kathleen A. Macor",
+            "Michael K. Johnson",
+            "Andrew A. Gewirth",
+            "Thomas G. Spiro"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsami.6b08367",
+        "title": "“Rocking-Chair”-Type Metal Hybrid Supercapacitors",
+        "journal": "ACS Applied Materials & Interfaces",
+        "year": 2016,
+        "citations": 116,
+        "authors": "Hyun Deog Yoo, Sang‐Don Han, Ryan D. Bayliss et al.",
+        "authors_list": [
+            "Hyun Deog Yoo",
+            "Sang‐Don Han",
+            "Ryan D. Bayliss",
+            "Andrew A. Gewirth",
+            "Boštjan Genorio",
+            "Nav Nidhi Rajput",
+            "Kristin A. Persson",
+            "Anthony K. Burrell",
+            "Jordi Cabana"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1330727"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/1.1837174",
+        "title": "Mechanic Study of Copper Deposition onto Gold Surfaces by Scaling and Spectral Analysis of In Situ Atomic Force Microscopic Images",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 1996,
+        "citations": 111,
+        "authors": "Wolfgang U. Schmidt, Richard C. Alkire, Andrew A. Gewirth",
+        "authors_list": [
+            "Wolfgang U. Schmidt",
+            "Richard C. Alkire",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 111,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1149/1.1837174/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/j100130a028",
+        "title": "Electrodeposited bismuth monolayers on gold (111) electrodes: comparison of surface x-ray scattering, scanning tunneling microscopy, and atomic force microscopy lattice structures",
+        "journal": "The Journal of Physical Chemistry",
+        "year": 1993,
+        "citations": 109,
+        "authors": "Chun‐Hsien Chen, Keith D. Kepler, Andrew A. Gewirth et al.",
+        "authors_list": [
+            "Chun‐Hsien Chen",
+            "Keith D. Kepler",
+            "Andrew A. Gewirth",
+            "B. M. Ocko",
+            "Jia Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsaem.1c00715",
+        "title": "Binder-Focused Approaches to Improve the Stability of Cathodes for CO<sub>2</sub> Electroreduction",
+        "journal": "ACS Applied Energy Materials",
+        "year": 2021,
+        "citations": 109,
+        "authors": "Uzoma O. Nwabara, Anthony Hernandez, Danielle A. Henckel et al.",
+        "authors_list": [
+            "Uzoma O. Nwabara",
+            "Anthony Hernandez",
+            "Danielle A. Henckel",
+            "Xinyi Chen",
+            "Emiliana R. Cofell",
+            "Michiel P. de-Heer",
+            "Sumit Verma",
+            "Andrew A. Gewirth",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/1.1572152",
+        "title": "Influence of Additives on Copper Electrodeposition on Physical Vapor Deposited (PVD) Copper Substrates",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 2003,
+        "citations": 106,
+        "authors": "Myungchan Kang, Andrew A. Gewirth",
+        "authors_list": [
+            "Myungchan Kang",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1149/1.1572152/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/2.067206jes",
+        "title": "Solvent Oligomerization during SEI Formation on Model Systems for Li-Ion Battery Anodes",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 2012,
+        "citations": 106,
+        "authors": "Hadi Tavassol, Joseph W. Buthker, G. Ferguson et al.",
+        "authors_list": [
+            "Hadi Tavassol",
+            "Joseph W. Buthker",
+            "G. Ferguson",
+            "Larry A. Curtiss",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1149/2.067206jes/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00039a073",
+        "title": "Correlation of electrode surface structure with activity toward peroxide electroreduction for bismuth monolayers on gold(111)",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1992,
+        "citations": 104,
+        "authors": "Chun‐Hsien Chen, Andrew A. Gewirth",
+        "authors_list": [
+            "Chun‐Hsien Chen",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.89.246103",
+        "title": "Materials Science of the Gel to Fluid Phase Transition in a Supported Phospholipid Bilayer",
+        "journal": "Physical Review Letters",
+        "year": 2002,
+        "citations": 103,
+        "authors": "Anne Feng Xie, Ryo Yamada, Andrew A. Gewirth et al.",
+        "authors_list": [
+            "Anne Feng Xie",
+            "Ryo Yamada",
+            "Andrew A. Gewirth",
+            "Steve Granick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.chemmater.7b03340",
+        "title": "ZnAl<sub><i>x</i></sub>Co<sub>2–<i>x</i></sub>O<sub>4</sub> Spinels as Cathode Materials for Non-Aqueous Zn Batteries with an Open Circuit Voltage of ≤2 V",
+        "journal": "Chemistry of Materials",
+        "year": 2017,
+        "citations": 102,
+        "authors": "Chengsi Pan, Ralph G. Nuzzo, Andrew A. Gewirth",
+        "authors_list": [
+            "Chengsi Pan",
+            "Ralph G. Nuzzo",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jz100745s",
+        "title": "Direct, Electrocatalytic Oxygen Reduction by Laccase on Anthracene-2-methanethiol-Modified Gold",
+        "journal": "The Journal of Physical Chemistry Letters",
+        "year": 2010,
+        "citations": 101,
+        "authors": "Matthew S. Thorum, Cyrus A. Anderson, Jeremy J. Hatch et al.",
+        "authors_list": [
+            "Matthew S. Thorum",
+            "Cyrus A. Anderson",
+            "Jeremy J. Hatch",
+            "Andrew S. Campbell",
+            "Nicholas Marshall",
+            "Steven C. Zimmerman",
+            "Yi Lu",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/2938065"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsami.9b04926",
+        "title": "Understanding Ca Electrodeposition and Speciation Processes in Nonaqueous Electrolytes for Next-Generation Ca-Ion Batteries",
+        "journal": "ACS Applied Materials & Interfaces",
+        "year": 2019,
+        "citations": 101,
+        "authors": "Kim Ta, Ruixian Zhang, Minjeong Shin et al.",
+        "authors_list": [
+            "Kim Ta",
+            "Ruixian Zhang",
+            "Minjeong Shin",
+            "Ryan T. Rooney",
+            "Elizabeth K. Neumann",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp2060602",
+        "title": "Dopant Modulated Li Insertion in Si for Battery Anodes: Theory and Experiment",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2011,
+        "citations": 98,
+        "authors": "Brandon R. Long, Maria K. Y. Chan, Jeffrey Greeley et al.",
+        "authors_list": [
+            "Brandon R. Long",
+            "Maria K. Y. Chan",
+            "Jeffrey Greeley",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jphotochem.2013.12.007",
+        "title": "Fabrication of an oxysulfide of bismuth Bi2O2S and its photocatalytic activity in a Bi2O2S/In2O3 composite",
+        "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+        "year": 2013,
+        "citations": 98,
+        "authors": "Adele Pacquette, Hidehisa Hagiwara, Tatsumi Ishihara et al.",
+        "authors_list": [
+            "Adele Pacquette",
+            "Hidehisa Hagiwara",
+            "Tatsumi Ishihara",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja960498y",
+        "title": "Self-Assembly of Silicotungstate Anions on Silver Surfaces",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1996,
+        "citations": 97,
+        "authors": "Maohuı Ge, Bianxiao Zhong, W. G. Klemperer et al.",
+        "authors_list": [
+            "Maohuı Ge",
+            "Bianxiao Zhong",
+            "W. G. Klemperer",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.chemmater.8b02368",
+        "title": "Understanding the Effect of Interlayers at the Thiophosphate Solid Electrolyte/Lithium Interface for All-Solid-State Li Batteries",
+        "journal": "Chemistry of Materials",
+        "year": 2018,
+        "citations": 97,
+        "authors": "Lingzi Sang, Kimberly L. Bassett, Fernando C. Castro et al.",
+        "authors_list": [
+            "Lingzi Sang",
+            "Kimberly L. Bassett",
+            "Fernando C. Castro",
+            "Matthias J. Young",
+            "Lin Chen",
+            "Richard T. Haasch",
+            "Jeffrey W. Elam",
+            "Vinayak P. Dravid",
+            "Ralph G. Nuzzo",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1500114"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acscatal.6b01170",
+        "title": "Observation of an Inverse Kinetic Isotope Effect in Oxygen Evolution Electrochemistry",
+        "journal": "ACS Catalysis",
+        "year": 2016,
+        "citations": 96,
+        "authors": "Edmund C. M. Tse, Thao Thi Huong Hoang, Jason A. Varnell et al.",
+        "authors_list": [
+            "Edmund C. M. Tse",
+            "Thao Thi Huong Hoang",
+            "Jason A. Varnell",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/1.2139952",
+        "title": "Vibrational Spectroscopic and Mass Spectrometric Studies of the Interaction of Bis(3-sulfopropyl)-disulfide with Cu Surfaces",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 2006,
+        "citations": 95,
+        "authors": "Zachary D. Schultz, Z. Vivian Feng, Mary Ellen Biggin et al.",
+        "authors_list": [
+            "Zachary D. Schultz",
+            "Z. Vivian Feng",
+            "Mary Ellen Biggin",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1149/1.2139952/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ic501080c",
+        "title": "Multicopper Models for the Laccase Active Site: Effect of Nuclearity on Electrocatalytic Oxygen Reduction",
+        "journal": "Inorganic Chemistry",
+        "year": 2014,
+        "citations": 94,
+        "authors": "Edmund C. M. Tse, David Schilter, Danielle L. Gray et al.",
+        "authors_list": [
+            "Edmund C. M. Tse",
+            "David Schilter",
+            "Danielle L. Gray",
+            "Thomas B. Rauchfuss",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 94,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.jpclett.5b02556",
+        "title": "Evidence for Decoupled Electron and Proton Transfer in the Electrochemical Oxidation of Ammonia on Pt(100)",
+        "journal": "The Journal of Physical Chemistry Letters",
+        "year": 2016,
+        "citations": 91,
+        "authors": "Ioannis Katsounaros, Ting Chen, Andrew A. Gewirth et al.",
+        "authors_list": [
+            "Ioannis Katsounaros",
+            "Ting Chen",
+            "Andrew A. Gewirth",
+            "Nenad M. Marković",
+            "Marc T. M. Koper"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 91,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1248379"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja210465x",
+        "title": "In Situ Electrochemical X-ray Absorption Spectroscopy of Oxygen Reduction Electrocatalysis with High Oxygen Flux",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2011,
+        "citations": 90,
+        "authors": "Evan M. Erickson, Matthew S. Thorum, Relja Vasić et al.",
+        "authors_list": [
+            "Evan M. Erickson",
+            "Matthew S. Thorum",
+            "Relja Vasić",
+            "Nebojša Marinković",
+            "Anatoly I. Frenkel",
+            "Andrew A. Gewirth",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1529/biophysj.104.052456",
+        "title": "Direct Visualization of Asymmetric Behavior in Supported Lipid Bilayers at the Gel-Fluid Phase Transition",
+        "journal": "Biophysical Journal",
+        "year": 2005,
+        "citations": 90,
+        "authors": "Z. Vivian Feng, Tighe A. Spurlin, Andrew A. Gewirth",
+        "authors_list": [
+            "Z. Vivian Feng",
+            "Tighe A. Spurlin",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.cell.com/article/S000634950573277X/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0022-0728(89)85018-1",
+        "title": "Fabrication and characterization of microtips for in situ scanning tunneling microscopy",
+        "journal": "Journal of Electroanalytical Chemistry",
+        "year": 1989,
+        "citations": 89,
+        "authors": "Andrew A. Gewirth, Derek H. Craston, Allen J. Bard",
+        "authors_list": [
+            "Andrew A. Gewirth",
+            "Derek H. Craston",
+            "Allen J. Bard"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acscatal.3c00999",
+        "title": "Enhanced Nitrate Reduction Activity from Cu-Alloy Electrodes in an Alkaline Electrolyte",
+        "journal": "ACS Catalysis",
+        "year": 2023,
+        "citations": 89,
+        "authors": "Akhil Paliwal, Christopher D. Bandas, Eric S. Thornburg et al.",
+        "authors_list": [
+            "Akhil Paliwal",
+            "Christopher D. Bandas",
+            "Eric S. Thornburg",
+            "Richard T. Haasch",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja104767w",
+        "title": "A Carbon-Supported Copper Complex of 3,5-Diamino-1,2,4-triazole as a Cathode Catalyst for Alkaline Fuel Cell Applications",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2010,
+        "citations": 87,
+        "authors": "Fikile R. Brushett, Matthew S. Thorum, Nicholas S. Lioutas et al.",
+        "authors_list": [
+            "Fikile R. Brushett",
+            "Matthew S. Thorum",
+            "Nicholas S. Lioutas",
+            "Matthew S. Naughton",
+            "Claire E. Tornow",
+            "Huei‐Ru “Molly” Jhong",
+            "Andrew A. Gewirth",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/jrs.2989",
+        "title": "Shell‐isolated nanoparticle enhanced Raman spectroscopy (SHINERS) investigation of benzotriazole film formation on Cu(100), Cu(111), and Cu(poly)",
+        "journal": "Journal of Raman Spectroscopy",
+        "year": 2011,
+        "citations": 87,
+        "authors": "Nicole R. Honesty, Andrew A. Gewirth",
+        "authors_list": [
+            "Nicole R. Honesty",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0039-6028(93)90845-b",
+        "title": "In situ observations of oxygen adsorption on a Cu(100) substrate using atomic force microscopy",
+        "journal": "Surface Science",
+        "year": 1993,
+        "citations": 84,
+        "authors": "Brandon J. Cruickshank, Douglas D. Sneddon, Andrew A. Gewirth",
+        "authors_list": [
+            "Brandon J. Cruickshank",
+            "Douglas D. Sneddon",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsami.6b11358",
+        "title": "Effect of Hydrofluoroether Cosolvent Addition on Li Solvation in Acetonitrile-Based Solvate Electrolytes and Its Influence on S Reduction in a Li–S Battery",
+        "journal": "ACS Applied Materials & Interfaces",
+        "year": 2016,
+        "citations": 83,
+        "authors": "Kimberly A. See, Heng‐Liang Wu, Kah Chun Lau et al.",
+        "authors_list": [
+            "Kimberly A. See",
+            "Heng‐Liang Wu",
+            "Kah Chun Lau",
+            "Minjeong Shin",
+            "Lei Cheng",
+            "Mahalingam Balasubramanian",
+            "Kevin G. Gallagher",
+            "Larry A. Curtiss",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 83,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1374850"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/1.1393902",
+        "title": "Benzotriazole as an Additive for Copper Electrodeposition Influence of Triazole Ring Substitution",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 2000,
+        "citations": 83,
+        "authors": "T. Y. B. Leung, Myungchan Kang, Brian F. Corry et al.",
+        "authors_list": [
+            "T. Y. B. Leung",
+            "Myungchan Kang",
+            "Brian F. Corry",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 83,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ic301656x",
+        "title": "Ligand Effects on the Overpotential for Dioxygen Reduction by Tris(2-pyridylmethyl)amine Derivatives",
+        "journal": "Inorganic Chemistry",
+        "year": 2012,
+        "citations": 81,
+        "authors": "Matthew A. Thorseth, Christopher S. Letko, Edmund C. M. Tse et al.",
+        "authors_list": [
+            "Matthew A. Thorseth",
+            "Christopher S. Letko",
+            "Edmund C. M. Tse",
+            "Thomas B. Rauchfuss",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la0508745",
+        "title": "Electroreduction Activity of Hydrogen Peroxide on Pt and Au Electrodes",
+        "journal": "Langmuir",
+        "year": 2005,
+        "citations": 81,
+        "authors": "Xiao Li, Dodi Heryadi, Andrew A. Gewirth",
+        "authors_list": [
+            "Xiao Li",
+            "Dodi Heryadi",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsami.7b11566",
+        "title": "Effect of the Hydrofluoroether Cosolvent Structure in Acetonitrile-Based Solvate Electrolytes on the Li<sup>+</sup> Solvation Structure and Li–S Battery Performance",
+        "journal": "ACS Applied Materials & Interfaces",
+        "year": 2017,
+        "citations": 80,
+        "authors": "Minjeong Shin, Heng‐Liang Wu, Badri Narayanan et al.",
+        "authors_list": [
+            "Minjeong Shin",
+            "Heng‐Liang Wu",
+            "Badri Narayanan",
+            "Kimberly A. See",
+            "Rajeev S. Assary",
+            "Lingyang Zhu",
+            "Richard T. Haasch",
+            "Shuo Zhang",
+            "Zhengcheng Zhang",
+            "Larry A. Curtiss",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja047055b",
+        "title": "Organic Nanoparticles Whose Size and Rigidity Are Finely Tuned by Cross-Linking the End Groups of Dendrimers",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2004,
+        "citations": 79,
+        "authors": "N. Gabriel Lemcoff, Tighe A. Spurlin, Andrew A. Gewirth et al.",
+        "authors_list": [
+            "N. Gabriel Lemcoff",
+            "Tighe A. Spurlin",
+            "Andrew A. Gewirth",
+            "Steven C. Zimmerman",
+            "James B. Beil",
+            "Stephanie L. Elmer",
+            "H. George Vandeveer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 79,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsami.7b08088",
+        "title": "Effect of Concentration on the Electrochemistry and Speciation of the Magnesium Aluminum Chloride Complex Electrolyte Solution",
+        "journal": "ACS Applied Materials & Interfaces",
+        "year": 2017,
+        "citations": 79,
+        "authors": "Kimberly A. See, Yao-Min Liu, Yeyoung Ha et al.",
+        "authors_list": [
+            "Kimberly A. See",
+            "Yao-Min Liu",
+            "Yeyoung Ha",
+            "Christopher J. Barile",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 79,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la7013557",
+        "title": "Mechanism of Electrochemical Reduction of Hydrogen Peroxide on Copper in Acidic Sulfate Solutions",
+        "journal": "Langmuir",
+        "year": 2007,
+        "citations": 78,
+        "authors": "Karen L. Stewart, Andrew A. Gewirth",
+        "authors_list": [
+            "Karen L. Stewart",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja034125q",
+        "title": "Peroxide Electroreduction on Bi-Modified Au Surfaces:  Vibrational Spectroscopy and Density Functional Calculations",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2003,
+        "citations": 77,
+        "authors": "Li Xiao, Andrew A. Gewirth",
+        "authors_list": [
+            "Li Xiao",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/j100140a036",
+        "title": "In situ atomic force microscope study of lead underpotential deposition on gold (111): structural properties of the catalytically active phase",
+        "journal": "The Journal of Physical Chemistry",
+        "year": 1993,
+        "citations": 77,
+        "authors": "Chun‐Hsien Chen, Newell R. Washburn, Andrew A. Gewirth",
+        "authors_list": [
+            "Chun‐Hsien Chen",
+            "Newell R. Washburn",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp503506c",
+        "title": "Investigating the Reversibility of in Situ Generated Magnesium Organohaloaluminates for Magnesium Deposition and Dissolution",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2014,
+        "citations": 76,
+        "authors": "Christopher J. Barile, Russell Leonard Spatney, Kevin R. Zavadil et al.",
+        "authors_list": [
+            "Christopher J. Barile",
+            "Russell Leonard Spatney",
+            "Kevin R. Zavadil",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/aenm.201700960",
+        "title": "Toward a Four‐Electron Redox Quinone Polymer for High Capacity Lithium Ion Storage",
+        "journal": "Advanced Energy Materials",
+        "year": 2017,
+        "citations": 75,
+        "authors": "Aaron Petronico, Kimberly L. Bassett, Bruno G. Nicolau et al.",
+        "authors_list": [
+            "Aaron Petronico",
+            "Kimberly L. Bassett",
+            "Bruno G. Nicolau",
+            "Andrew A. Gewirth",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 75,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1469964"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.jpclett.6b01235",
+        "title": "Elucidating Proton Involvement in the Rate-Determining Step for Pt/Pd-Based and Non-Precious-Metal Oxygen Reduction Reaction Catalysts Using the Kinetic Isotope Effect",
+        "journal": "The Journal of Physical Chemistry Letters",
+        "year": 2016,
+        "citations": 74,
+        "authors": "Edmund C. M. Tse, Jason A. Varnell, Thao Thi Huong Hoang et al.",
+        "authors_list": [
+            "Edmund C. M. Tse",
+            "Jason A. Varnell",
+            "Thao Thi Huong Hoang",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.analchem.6b01292",
+        "title": "Characterization of the Cathode Electrolyte Interface in Lithium Ion Batteries by Desorption Electrospray Ionization Mass Spectrometry",
+        "journal": "Analytical Chemistry",
+        "year": 2016,
+        "citations": 74,
+        "authors": "Yao-Min Liu, Bruno G. Nicolau, Jennifer Esbenshade et al.",
+        "authors_list": [
+            "Yao-Min Liu",
+            "Bruno G. Nicolau",
+            "Jennifer Esbenshade",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/2.0451610jes",
+        "title": "Practical Stability Limits of Magnesium Electrolytes",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 2016,
+        "citations": 73,
+        "authors": "Albert L. Lipson, Sang‐Don Han, Baofei Pan et al.",
+        "authors_list": [
+            "Albert L. Lipson",
+            "Sang‐Don Han",
+            "Baofei Pan",
+            "Kimberly A. See",
+            "Andrew A. Gewirth",
+            "Chen Liao",
+            "John T. Vaughey",
+            "Brian J. Ingram"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1339620"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.jpcc.5b03508",
+        "title": "Exploring Salt and Solvent Effects in Chloride-Based Electrolytes for Magnesium Electrodeposition and Dissolution",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2015,
+        "citations": 73,
+        "authors": "Christopher J. Barile, Ralph G. Nuzzo, Andrew A. Gewirth",
+        "authors_list": [
+            "Christopher J. Barile",
+            "Ralph G. Nuzzo",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/1.1837370",
+        "title": "Copper Deposition in the Presence of Surface‐Confined Additives",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 1997,
+        "citations": 72,
+        "authors": "Elias D. Eliadis, Ralph G. Nuzzo, Andrew A. Gewirth et al.",
+        "authors_list": [
+            "Elias D. Eliadis",
+            "Ralph G. Nuzzo",
+            "Andrew A. Gewirth",
+            "Richard C. Alkire"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1149/1.1837370/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp211884s",
+        "title": "Face-Dependent Shell-Isolated Nanoparticle Enhanced Raman Spectroscopy of 2,2′-Bipyridine on Au(100) and Au(111)",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2012,
+        "citations": 72,
+        "authors": "Dennis P. Butcher, Stefano P. Boulos, Catherine J. Murphy et al.",
+        "authors_list": [
+            "Dennis P. Butcher",
+            "Stefano P. Boulos",
+            "Catherine J. Murphy",
+            "Renato Canha Ambrosio",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.susc.2014.07.027",
+        "title": "Identification of lithium–sulfur battery discharge products through 6Li and 33S solid-state MAS and 7Li solution NMR spectroscopy",
+        "journal": "Surface Science",
+        "year": 2014,
+        "citations": 72,
+        "authors": "Laura A. Huff, Jennifer L. Rapp, Jessi A. Baughman et al.",
+        "authors_list": [
+            "Laura A. Huff",
+            "Jennifer L. Rapp",
+            "Jessi A. Baughman",
+            "Peter L. Rinaldi",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1244731"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/cphc.201700815",
+        "title": "Gold Nanoparticles on Polymer‐Wrapped Carbon Nanotubes: An Efficient and Selective Catalyst for the Electroreduction of CO<sub>2</sub>",
+        "journal": "ChemPhysChem",
+        "year": 2017,
+        "citations": 71,
+        "authors": "Huei‐Ru “Molly” Jhong, Claire E. Tornow, Chaerin Kim et al.",
+        "authors_list": [
+            "Huei‐Ru “Molly” Jhong",
+            "Claire E. Tornow",
+            "Chaerin Kim",
+            "Sumit Verma",
+            "Justin L. Oberst",
+            "Paul Anderson",
+            "Andrew A. Gewirth",
+            "Tsuyohiko Fujigaya",
+            "Naotoshi Nakashima",
+            "Paul J. A. Kenis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cphc.201700815"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/0013-4686(94)00249-z",
+        "title": "Coadsorption of sulfate anions and silver adatoms on the Au(111) single crystal electrode. Ex situ and in situ comparison",
+        "journal": "Electrochimica Acta",
+        "year": 1995,
+        "citations": 70,
+        "authors": "P. Mrozek, Yung‐Eun Sung, Moonsup Han et al.",
+        "authors_list": [
+            "P. Mrozek",
+            "Yung‐Eun Sung",
+            "Moonsup Han",
+            "Maria Gamboa-Aldeco",
+            "Andrzej Więckowski",
+            "Chun‐hsien Chen",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/anie.201710454",
+        "title": "The Long‐Term Stability of KO<sub>2</sub> in K‐O<sub>2</sub> Batteries",
+        "journal": "Angewandte Chemie International Edition",
+        "year": 2017,
+        "citations": 69,
+        "authors": "Neng Xiao, Ryan T. Rooney, Andrew A. Gewirth et al.",
+        "authors_list": [
+            "Neng Xiao",
+            "Ryan T. Rooney",
+            "Andrew A. Gewirth",
+            "Yiying Wu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00209a041",
+        "title": "Variable photon energy photoelectron spectroscopic studies of copper chlorides: an experimental probe of metal-ligand bonding and changes in electronic structure on ionization",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1988,
+        "citations": 69,
+        "authors": "Stephen V. Didziulis, Susan L. Cohen, Andrew A. Gewirth et al.",
+        "authors_list": [
+            "Stephen V. Didziulis",
+            "Susan L. Cohen",
+            "Andrew A. Gewirth",
+            "Edward I. Solomon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/am508593s",
+        "title": "Investigation of Fluoroethylene Carbonate Effects on Tin-based Lithium-Ion Battery Electrodes",
+        "journal": "ACS Applied Materials & Interfaces",
+        "year": 2015,
+        "citations": 68,
+        "authors": "Zhenzhen Yang, Andrew A. Gewirth, Lynn Trahey",
+        "authors_list": [
+            "Zhenzhen Yang",
+            "Andrew A. Gewirth",
+            "Lynn Trahey"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/s41929-020-00547-0",
+        "title": "Electrochemical CO2-to-ethylene conversion on polyamine-incorporated Cu electrodes",
+        "journal": "Nature Catalysis",
+        "year": null,
+        "citations": 619,
+        "authors": "Xinyi Chen, Junfeng Chen, Nawal M. Alghoraibi et al.",
+        "authors_list": [
+            "Xinyi Chen",
+            "Junfeng Chen",
+            "Nawal M. Alghoraibi",
+            "Danielle A. Henckel",
+            "Ruixian Zhang",
+            "Uzoma O. Nwabara",
+            "Kenneth E. Madsen",
+            "Paul J. A. Kenis",
+            "Steven C. Zimmerman",
+            "Andrew A. Gewirth"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 619
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1021/acsenergylett.7b01096",
+        "title": "Insights into the Low Overpotential Electroreduction of CO<sub>2</sub> to CO on a Supported Gold Catalyst in an Alkaline Flow Electrolyzer",
+        "journal": "ACS Energy Letters",
+        "year": 2018,
+        "citations": 506,
+        "authors": "Sumit Verma, Yuki Hamasaki, Chaerin Kim et al.",
+        "authors_list": [
+            "Sumit Verma",
+            "Yuki Hamasaki",
+            "Chaerin Kim",
+            "Wenxin Huang",
+            "Shawn Lu",
+            "Huei-Ru Molly Jhong",
+            "Andrew A. Gewirth",
+            "Tsuyohiko Fujigaya",
+            "Naotoshi Nakashima",
+            "Paul J. A. Kenis"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 506
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1126/science.251.4990.183",
+        "title": "Atomic-Resolution Electrochemistry with the Atomic Force Microscope: Copper Deposition on Gold",
+        "journal": "Science",
+        "year": 1991,
+        "citations": 369,
+        "authors": "S. Manne, P. K. Hansma, J. Massie et al.",
+        "authors_list": [
+            "S. Manne",
+            "P. K. Hansma",
+            "J. Massie",
+            "V. B. Elings",
+            "A. A. Gewirth"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 369
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1021/am5072942",
+        "title": "In Situ Raman Spectroscopy of Sulfur Speciation in Lithium–Sulfur Batteries",
+        "journal": "ACS Applied Materials &amp; Interfaces",
+        "year": 2015,
+        "citations": 322,
+        "authors": "Heng-Liang Wu, Laura A. Huff, Andrew A. Gewirth",
+        "authors_list": [
+            "Heng-Liang Wu",
+            "Laura A. Huff",
+            "Andrew A. Gewirth"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 322
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1021/jacs.5b10987",
+        "title": "The Interplay of Al and Mg Speciation in Advanced Mg Battery Electrolyte Solutions",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2016,
+        "citations": 226,
+        "authors": "Kimberly A. See, Karena W. Chapman, Lingyang Zhu et al.",
+        "authors_list": [
+            "Kimberly A. See",
+            "Karena W. Chapman",
+            "Lingyang Zhu",
+            "Kamila M. Wiaderek",
+            "Olaf J. Borkiewicz",
+            "Christopher J. Barile",
+            "Peter J. Chupas",
+            "Andrew A. Gewirth"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 226
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

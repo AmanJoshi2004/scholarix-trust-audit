@@ -1,0 +1,44 @@
+[
+    {
+        "url": "https://link.aps.org/doi/10.1103/PhysRevB.83.245132",
+        "snippet": "Inversion-symmetric topological insulators. Taylor L. Hughes1, Emil Prodan2, and B. ... The anisotropic classes, the so-called weak topological insulators, are ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "Journal article DOI and citation format suggest a publication in a scientific journal, indicating relevance to academic research."
+    },
+    {
+        "url": "https://experts.illinois.edu/en/persons/taylor-l-hughes/",
+        "snippet": "Taylor L Hughes. Donald Biggar Willett Faculty Scholar, Physics; Professor ... 1 Conference article. Research output per year. Research output per year ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet lists research output and mentions conference articles, indicating it is about an academic's publication record."
+    },
+    {
+        "url": "https://primo-pmtca01.hosted.exlibrisgroup.com/primo-explore/fulldisplay?vid=SFUL&tab=default_tab&docid=01SFUL_ALMA21151032070003611&lang=en_US&context=L&query=lsr31%2Cexact%2CPhysica%20C.%20Superconductivity%2C%2CAND&mode=advanced&offset=0",
+        "snippet": "Topological insulators and topological superconductors / B. Andrei Bernevig with Taylor L. Hughes. 2013.",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL appears to be a library catalog entry and the snippet mentions a book title, indicating it's likely a publication."
+    },
+    {
+        "url": "https://press.princeton.edu/our-authors/hughes-taylor-l?srsltid=AfmBOooLlABAmlOn4b_sXYr3QJ9UUBycsiOoEtkOyUMVLBTntVcjIqNw",
+        "snippet": "Taylor L. Hughes. Books 1. Topological Insulators and Topological Superconductors B. Andrei Bernevig.",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "Author information page with book publications listed"
+    },
+    {
+        "url": "https://physics.illinois.edu/people/directory/profile/hughest",
+        "snippet": "... topological response theory of 3D time-reversal invariant topological insulators. ... Quantum Spin Hall Effect and Topological Phase Transition in HgTe Quantum ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The URL appears to be a researcher's profile page, likely hosted on a university website, and the snippet includes technical terms related to physics research."
+    },
+    {
+        "url": "https://arxiv.org/a/hughes_t_1",
+        "snippet": "Title: Quantum Spin Hall Effect and Topological Phase Transition in HgTe Quantum Wells. Authors: B. Andrei Bernevig, Taylor L. Hughes, Shou-Cheng Zhang.",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "This is an ArXiv URL, indicating a pre-print research publication with the title and authors clearly stated."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://buildings.lbl.gov/publications?author=Qingyan%20Chen",
+        "snippet": "Zuo, Wangda, and Qingyan Chen.\"Real time airflow simulation in buildings.\"the 6th International Indoor Air Quality, Ventilation and Energy Conservation in ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet is a citation from an academic publication, listing authors and a specific title."
+    },
+    {
+        "url": "https://scholar.google.com/citations?user=4ZPviaAAAAAJ&hl=en",
+        "snippet": "Natural ventilation in buildings: measurement in a wind tunnel and numerical simulation with large-eddy simulation. Y Jiang, D Alexander, H Jenkins, R Arthur ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL is a Google Scholar citation page, and the snippet describes a specific academic publication."
+    },
+    {
+        "url": "https://www.polyu.edu.hk/beee/people/academic-staff/professor-chen-qingyan/",
+        "snippet": "Professor Chen Qingyan · Location HJ201a (PAIR) · Phone +852 3400 3038 (PAIR) · mail qingyan.chen@polyu.edu.hk.",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "This appears to be a faculty profile page, which is typically a type of publication or academic resource."
+    },
+    {
+        "url": "https://engineering.purdue.edu/~yanchen/publications.html",
+        "snippet": "\"Real time airflow simulation in buildings,\" Proceedings of the 6th ... \"Simulation of ventilation effectiveness and indoor air quality in ice rink ...",
+        "category": "Publication",
+        "relevance_score": 92,
+        "reasoning": "The URL is a personal publications page with specific paper titles, indicating academic publication content."
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ZiU3rA1Mwek",
+        "snippet": "Faculty Colloquium: Dr. Qingyan Chen. Purdue Engineering · 1.1K views ; Nexus of Building Decarbonization: sufficiency, energy efficiency...... by ...",
+        "category": "Media/Video",
+        "relevance_score": 90,
+        "reasoning": "The URL indicates a YouTube video, and the snippet mentions a colloquium and a specific professor, suggesting it is related to academic or professional news."
+    },
+    {
+        "url": "https://grantome.com/grant/NSF/CMMI-9877118",
+        "snippet": "Study of Natural Ventilation in Buildings by Large Eddy Simulation ... Search grants from Qingyan Chen ... airflow in buildings. Although the approach can ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The URL is for a specific NSF grant, suggesting it's a publication or research paper related to the author's work."
+    },
+    {
+        "url": "https://www.researchgate.net/profile/Qingyan-Chen",
+        "snippet": "Qingyan Chen. Fast fluid dynamics (FFD) could provide informative and efficient airflow and concentration simulation. The commonly used ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "Author's research profile on a academic networking site, indicating publication of research work"
+    },
+    {
+        "url": "https://www.facebook.com/PurdueforLife/photos/qingyan-chenacademic-distinguished-and-named-professorjames-g-dwyer-professor-of/1896332447152335/",
+        "snippet": "Qingyan Chen Academic Distinguished and Named Professor James G. Dwyer Professor of Mechanical Engineering, Engineering Qingyan “Yan” Chen ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The URL appears to be a Facebook post from the official Purdue for Life page, which suggests it's a news or announcement type content."
+    }
+]

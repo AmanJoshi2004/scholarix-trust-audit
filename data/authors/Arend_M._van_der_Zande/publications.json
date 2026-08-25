@@ -1,0 +1,3670 @@
+[
+    {
+        "doi": "https://doi.org/10.1021/nl801457b",
+        "title": "Impermeable Atomic Membranes from Graphene Sheets",
+        "journal": "Nano Letters",
+        "year": 2008,
+        "citations": 2911,
+        "authors": "J. Scott Bunch, Scott S. Verbridge, Jonathan S. Alden et al.",
+        "authors_list": [
+            "J. Scott Bunch",
+            "Scott S. Verbridge",
+            "Jonathan S. Alden",
+            "Arend M. van der Zande",
+            "J. M. Parpia",
+            "Harold G. Craighead",
+            "Paul L. McEuen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2911,
+            "crossref": 2661
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0805.3309"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1136836",
+        "title": "Electromechanical Resonators from Graphene Sheets",
+        "journal": "Science",
+        "year": 2007,
+        "citations": 2886,
+        "authors": "J. Scott Bunch, Arend M. van der Zande, Scott S. Verbridge et al.",
+        "authors_list": [
+            "J. Scott Bunch",
+            "Arend M. van der Zande",
+            "Scott S. Verbridge",
+            "Ian W. Frank",
+            "David M. Tanenbaum",
+            "J. M. Parpia",
+            "Harold G. Craighead",
+            "Paul L. McEuen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 2886,
+            "crossref": 2687
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nnano.2014.150",
+        "title": "Atomically thin p–n junctions with van der Waals heterointerfaces",
+        "journal": "Nature Nanotechnology",
+        "year": 2014,
+        "citations": 2306,
+        "authors": "Chul‐Ho Lee, Gwan‐Hyoung Lee, Arend M. van der Zande et al.",
+        "authors_list": [
+            "Chul‐Ho Lee",
+            "Gwan‐Hyoung Lee",
+            "Arend M. van der Zande",
+            "Wenchao Chen",
+            "Yilei Li",
+            "Minyong Han",
+            "Xu Cui",
+            "Ghidewon Arefe",
+            "Colin Nuckolls",
+            "Tony F. Heinz",
+            "Jing Guo",
+            "James Hone",
+            "Philip Kim"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2306,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1403.3062"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nmat3633",
+        "title": "Grains and grain boundaries in highly crystalline monolayer molybdenum disulphide",
+        "journal": "Nature Materials",
+        "year": 2013,
+        "citations": 2194,
+        "authors": "Arend M. van der Zande, Pinshane Y. Huang, Daniel Chenet et al.",
+        "authors_list": [
+            "Arend M. van der Zande",
+            "Pinshane Y. Huang",
+            "Daniel Chenet",
+            "Timothy C. Berkelbach",
+            "YuMeng You",
+            "Gwan‐Hyoung Lee",
+            "Tony F. Heinz",
+            "David R. Reichman",
+            "David A. Muller",
+            "James Hone"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2194,
+            "crossref": 2096
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1301.1985"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nature09718",
+        "title": "Grains and grain boundaries in single-layer graphene atomic patchwork quilts",
+        "journal": "Nature",
+        "year": 2011,
+        "citations": 2020,
+        "authors": "Pinshane Y. Huang, Carlos Ruiz‐Vargas, Arend M. van der Zande et al.",
+        "authors_list": [
+            "Pinshane Y. Huang",
+            "Carlos Ruiz‐Vargas",
+            "Arend M. van der Zande",
+            "William S. Whitney",
+            "Mark Levendorf",
+            "Joshua W. Kevek",
+            "Shivank Garg",
+            "Jonathan S. Alden",
+            "Caleb Hustedt",
+            "Ye Zhu",
+            "Jiwoong Park",
+            "Paul L. McEuen",
+            "David A. Muller"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2020,
+            "crossref": 1871
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1009.4714"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.90.205422",
+        "title": "Measurement of the optical dielectric function of monolayer transition-metal dichalcogenides:<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:msub><mml:mi>MoS</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:math>,<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mrow><mml:mi>Mo</mml:mi><mml:mi mathvariant=\"normal\">S</mml:mi><mml:msub><mml:mi mathvariant=\"normal\">e</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>,<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:msub><mml:mi>WS</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:math>, and<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mrow><mml:mi>WS</mml:mi><mml:msub><mml:mi mathvariant=\"normal\">e</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>",
+        "journal": "Physical Review B",
+        "year": 2014,
+        "citations": 1327,
+        "authors": "Yilei Li, Alexey Chernikov, Xian Zhang et al.",
+        "authors_list": [
+            "Yilei Li",
+            "Alexey Chernikov",
+            "Xian Zhang",
+            "Albert F. Rigosi",
+            "Heather M. Hill",
+            "Arend M. van der Zande",
+            "Daniel Chenet",
+            "En-Min Shih",
+            "James Hone",
+            "Tony F. Heinz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1327,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1610.04671"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.2789446",
+        "title": "Mechanical properties of suspended graphene sheets",
+        "journal": "Journal of Vacuum Science & Technology B Microelectronics and Nanometer Structures Processing Measurement and Phenomena",
+        "year": 2007,
+        "citations": 1156,
+        "authors": "Ian W. Frank, David M. Tanenbaum, Arend M. van der Zande et al.",
+        "authors_list": [
+            "Ian W. Frank",
+            "David M. Tanenbaum",
+            "Arend M. van der Zande",
+            "Paul L. McEuen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1156,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1235126",
+        "title": "High-Strength Chemical-Vapor–Deposited Graphene and Grain Boundaries",
+        "journal": "Science",
+        "year": 2013,
+        "citations": 896,
+        "authors": "Gwan‐Hyoung Lee, Ryan C. Cooper, Sung Joo An et al.",
+        "authors_list": [
+            "Gwan‐Hyoung Lee",
+            "Ryan C. Cooper",
+            "Sung Joo An",
+            "Sunwoo Lee",
+            "Arend M. van der Zande",
+            "Nicholas Petrone",
+            "Alexandra G. Hammerberg",
+            "Changgu Lee",
+            "Bryan Crawford",
+            "W. C. Oliver",
+            "Jeffrey W. Kysar",
+            "James Hone"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 896,
+            "crossref": 848
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nphoton.2012.147",
+        "title": "Regenerative oscillation and four-wave mixing in graphene optoelectronics",
+        "journal": "Nature Photonics",
+        "year": 2012,
+        "citations": 672,
+        "authors": "Tingyi Gu, Nicholas Petrone, James F. McMillan et al.",
+        "authors_list": [
+            "Tingyi Gu",
+            "Nicholas Petrone",
+            "James F. McMillan",
+            "Arend M. van der Zande",
+            "Mingbin Yu",
+            "G. Q. Lo",
+            "Dim‐Lee Kwong",
+            "James Hone",
+            "Chee Wei Wong"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 672,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1205.4333"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nl903451y",
+        "title": "Photo-Thermoelectric Effect at a Graphene Interface Junction",
+        "journal": "Nano Letters",
+        "year": 2009,
+        "citations": 622,
+        "authors": "Xiaodong Xu, Nathaniel M. Gabor, Jonathan S. Alden et al.",
+        "authors_list": [
+            "Xiaodong Xu",
+            "Nathaniel M. Gabor",
+            "Jonathan S. Alden",
+            "Arend M. van der Zande",
+            "Paul L. McEuen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 622,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0907.3173"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.111.106801",
+        "title": "Direct Measurement of the Thickness-Dependent Electronic Band Structure of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msub><mml:mi>MoS</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:math>Using Angle-Resolved Photoemission Spectroscopy",
+        "journal": "Physical Review Letters",
+        "year": 2013,
+        "citations": 542,
+        "authors": "Wencan Jin, Po‐Chun Yeh, Nader Zaki et al.",
+        "authors_list": [
+            "Wencan Jin",
+            "Po‐Chun Yeh",
+            "Nader Zaki",
+            "Datong Zhang",
+            "Jerzy T. Sadowski",
+            "Abdullah Al‐Mahboob",
+            "Arend M. van der Zande",
+            "Daniel Chenet",
+            "Jerry I. Dadap",
+            "Irving P. Herman",
+            "Peter Sutter",
+            "James Hone",
+            "Richard M. Osgood"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 542,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.113.266804",
+        "title": "Valley Splitting and Polarization by the Zeeman Effect in Monolayer<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mrow><mml:mi>MoSe</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math>",
+        "journal": "Physical Review Letters",
+        "year": 2014,
+        "citations": 521,
+        "authors": "Yilei Li, Jonathan Ludwig, Tony Low et al.",
+        "authors_list": [
+            "Yilei Li",
+            "Jonathan Ludwig",
+            "Tony Low",
+            "Alexey Chernikov",
+            "Xu Cui",
+            "Ghidewon Arefe",
+            "Young Duck Kim",
+            "Arend M. van der Zande",
+            "Albert F. Rigosi",
+            "Heather M. Hill",
+            "Suk Hyun Kim",
+            "James Hone",
+            "Zhiqiang Li",
+            "Dmitry Smirnov",
+            "Tony F. Heinz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 521,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1409.8538"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.nanolett.5b00910",
+        "title": "In-Plane Anisotropy in Mono- and Few-Layer ReS<sub>2</sub> Probed by Raman Spectroscopy and Scanning Transmission Electron Microscopy",
+        "journal": "Nano Letters",
+        "year": 2015,
+        "citations": 508,
+        "authors": "Daniel Chenet, Burak Aslan, Pinshane Y. Huang et al.",
+        "authors_list": [
+            "Daniel Chenet",
+            "Burak Aslan",
+            "Pinshane Y. Huang",
+            "Chris Fan",
+            "Arend M. van der Zande",
+            "Tony F. Heinz",
+            "James Hone"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 508,
+            "crossref": 496
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nl102713c",
+        "title": "Large-Scale Arrays of Single-Layer Graphene Resonators",
+        "journal": "Nano Letters",
+        "year": 2010,
+        "citations": 435,
+        "authors": "Arend M. van der Zande, Robert A. Barton, Jonathan S. Alden et al.",
+        "authors_list": [
+            "Arend M. van der Zande",
+            "Robert A. Barton",
+            "Jonathan S. Alden",
+            "Carlos Ruiz‐Vargas",
+            "William S. Whitney",
+            "Phi H. Q. Pham",
+            "Jiwoong Park",
+            "J. M. Parpia",
+            "Harold G. Craighead",
+            "Paul L. McEuen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 435,
+            "crossref": 390
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-020-15330-9",
+        "title": "Ultrasensitive detection of nucleic acids using deformed graphene channel field effect biosensors",
+        "journal": "Nature Communications",
+        "year": 2020,
+        "citations": 426,
+        "authors": "Michael Taeyoung Hwang, Mohammad Heiranian, Yerim Kim et al.",
+        "authors_list": [
+            "Michael Taeyoung Hwang",
+            "Mohammad Heiranian",
+            "Yerim Kim",
+            "Seungyong You",
+            "Juyoung Leem",
+            "Amir Taqieddin",
+            "Vahid Faramarzi",
+            "Yuhang Jing",
+            "Insu Park",
+            "Arend M. van der Zande",
+            "SungWoo Nam",
+            "N. R. Aluru",
+            "Rashid Bashir"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 426,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-020-15330-9.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.115.126802",
+        "title": "Electrical Tuning of Exciton Binding Energies in Monolayer<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mrow><mml:mi>WS</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math>",
+        "journal": "Physical Review Letters",
+        "year": 2015,
+        "citations": 417,
+        "authors": "Alexey Chernikov, Arend M. van der Zande, Heather M. Hill et al.",
+        "authors_list": [
+            "Alexey Chernikov",
+            "Arend M. van der Zande",
+            "Heather M. Hill",
+            "Albert F. Rigosi",
+            "Ajanth Velauthapillai",
+            "James Hone",
+            "Tony F. Heinz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 417,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1370372"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nl204481s",
+        "title": "Chemical Vapor Deposition-Derived Graphene with Electrical Performance of Exfoliated Graphene",
+        "journal": "Nano Letters",
+        "year": 2012,
+        "citations": 416,
+        "authors": "Nicholas Petrone, Cory R. Dean, Inanc Meric et al.",
+        "authors_list": [
+            "Nicholas Petrone",
+            "Cory R. Dean",
+            "Inanc Meric",
+            "Arend M. van der Zande",
+            "Pinshane Y. Huang",
+            "Lei Wang",
+            "David A. Muller",
+            "Kenneth L. Shepard",
+            "James Hone"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 416,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nl200429f",
+        "title": "Softened Elastic Response and Unzipping in Chemical Vapor Deposition Graphene Membranes",
+        "journal": "Nano Letters",
+        "year": 2011,
+        "citations": 372,
+        "authors": "Carlos Ruiz‐Vargas, Houlong Zhuang, Pinshane Y. Huang et al.",
+        "authors_list": [
+            "Carlos Ruiz‐Vargas",
+            "Houlong Zhuang",
+            "Pinshane Y. Huang",
+            "Arend M. van der Zande",
+            "Shivank Garg",
+            "Paul L. McEuen",
+            "David A. Muller",
+            "Richard G. Hennig",
+            "Jiwoong Park"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 372,
+            "crossref": 349
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nl080201h",
+        "title": "Imaging Mechanical Vibrations in Suspended Graphene Sheets",
+        "journal": "Nano Letters",
+        "year": 2008,
+        "citations": 363,
+        "authors": "David García-Sánchez, Arend M. van der Zande, Álvaro San Paulo et al.",
+        "authors_list": [
+            "David García-Sánchez",
+            "Arend M. van der Zande",
+            "Álvaro San Paulo",
+            "B. Lassagne",
+            "Paul L. McEuen",
+            "Adrian Bachtold"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 363,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0805.3498"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.92.045414",
+        "title": "Excitons in ultrathin organic-inorganic perovskite crystals",
+        "journal": "Physical Review B",
+        "year": 2015,
+        "citations": 333,
+        "authors": "Omer Yaffe, Alexey Chernikov, Zachariah M. Norman et al.",
+        "authors_list": [
+            "Omer Yaffe",
+            "Alexey Chernikov",
+            "Zachariah M. Norman",
+            "Yu Zhong",
+            "A. Velauthapillai",
+            "Arend M. van der Zande",
+            "Jonathan S. Owen",
+            "Tony F. Heinz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 333,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1385960"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nl501077m",
+        "title": "Tailoring the Electronic Structure in Bilayer Molybdenum Disulfide via Interlayer Twist",
+        "journal": "Nano Letters",
+        "year": 2014,
+        "citations": 331,
+        "authors": "Arend M. van der Zande, Jens Kunstmann, Alexey Chernikov et al.",
+        "authors_list": [
+            "Arend M. van der Zande",
+            "Jens Kunstmann",
+            "Alexey Chernikov",
+            "Daniel Chenet",
+            "Yu‐Meng You",
+            "Xiaoxiao Zhang",
+            "Pinshane Y. Huang",
+            "Timothy C. Berkelbach",
+            "Lei Wang",
+            "Fan Zhang",
+            "Mark S. Hybertsen",
+            "David A. Muller",
+            "David R. Reichman",
+            "Tony F. Heinz",
+            "James Hone"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 331,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsphotonics.5b00486",
+        "title": "Linearly Polarized Excitons in Single- and Few-Layer ReS<sub>2</sub> Crystals",
+        "journal": "ACS Photonics",
+        "year": 2015,
+        "citations": 279,
+        "authors": "Burak Aslan, Daniel Chenet, Arend M. van der Zande et al.",
+        "authors_list": [
+            "Burak Aslan",
+            "Daniel Chenet",
+            "Arend M. van der Zande",
+            "James Hone",
+            "Tony F. Heinz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 279,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41563-019-0529-7",
+        "title": "Ultrasoft slip-mediated bending in few-layer graphene",
+        "journal": "Nature Materials",
+        "year": 2019,
+        "citations": 276,
+        "authors": "Edmund Han, Jaehyung Yu, Emil Annevelink et al.",
+        "authors_list": [
+            "Edmund Han",
+            "Jaehyung Yu",
+            "Emil Annevelink",
+            "Jangyup Son",
+            "Dongyun A. Kang",
+            "Kenji Watanabe",
+            "Takashi Taniguchi",
+            "Elif Ertekin",
+            "Pinshane Y. Huang",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 276,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nl1042227",
+        "title": "High, Size-Dependent Quality Factor in an Array of Graphene Mechanical Resonators",
+        "journal": "Nano Letters",
+        "year": 2011,
+        "citations": 252,
+        "authors": "Robert A. Barton, B. Ilic, Arend M. van der Zande et al.",
+        "authors_list": [
+            "Robert A. Barton",
+            "B. Ilic",
+            "Arend M. van der Zande",
+            "William S. Whitney",
+            "Paul L. McEuen",
+            "J. M. Parpia",
+            "Harold G. Craighead"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 252,
+            "crossref": 232
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4826679",
+        "title": "Controlling the spontaneous emission rate of monolayer MoS<sub>2</sub> in a photonic crystal nanocavity",
+        "journal": "Applied Physics Letters",
+        "year": 2013,
+        "citations": 227,
+        "authors": "Xuetao Gan, Yuanda Gao, Kin Fai Mak et al.",
+        "authors_list": [
+            "Xuetao Gan",
+            "Yuanda Gao",
+            "Kin Fai Mak",
+            "Xinwen Yao",
+            "Ren-Jye Shiue",
+            "Arend M. van der Zande",
+            "Matthew E. Trusheim",
+            "Fariba Hatami",
+            "Tony F. Heinz",
+            "James Hone",
+            "Dirk Englund"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 227,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1063/1.4826679"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.nanolett.5b05012",
+        "title": "Energy Transfer from Quantum Dots to Graphene and MoS<sub>2</sub>: The Role of Absorption and Screening in Two-Dimensional Materials",
+        "journal": "Nano Letters",
+        "year": 2016,
+        "citations": 218,
+        "authors": "Archana Raja, Andrés Montoya−Castillo, Johanna Zultak et al.",
+        "authors_list": [
+            "Archana Raja",
+            "Andrés Montoya−Castillo",
+            "Johanna Zultak",
+            "Xiaoxiao Zhang",
+            "Ziliang Ye",
+            "Cyrielle Roquelet",
+            "Daniel Chenet",
+            "Arend M. van der Zande",
+            "Pinshane Y. Huang",
+            "Steffen Jockusch",
+            "James Hone",
+            "David R. Reichman",
+            "Louis E. Brus",
+            "Tony F. Heinz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 218,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.117.246802",
+        "title": "Structural Phase Transition and Material Properties of Few-Layer Monochalcogenides",
+        "journal": "Physical Review Letters",
+        "year": 2016,
+        "citations": 121,
+        "authors": "Mehrshad Mehboudi, Benjamin M. Fregoso, Yurong Yang et al.",
+        "authors_list": [
+            "Mehrshad Mehboudi",
+            "Benjamin M. Fregoso",
+            "Yurong Yang",
+            "Wenjuan Zhu",
+            "Arend M. van der Zande",
+            "Jaime Ferrer",
+            "L. Bellaïche",
+            "Pradeep Kumar",
+            "Salvador Barraza‐Lopez"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 121,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevLett.117.246802"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.nanolett.5b04613",
+        "title": "Two-Dimensional Disorder in Black Phosphorus and Monochalcogenide Monolayers",
+        "journal": "Nano Letters",
+        "year": 2016,
+        "citations": 109,
+        "authors": "Mehrshad Mehboudi, Alex M. Dorio, Wenjuan Zhu et al.",
+        "authors_list": [
+            "Mehrshad Mehboudi",
+            "Alex M. Dorio",
+            "Wenjuan Zhu",
+            "Arend M. van der Zande",
+            "Hugh Churchill",
+            "Alejandro Pacheco-Sanjuán",
+            "Edmund Harriss",
+            "Pradeep Kumar",
+            "Salvador Barraza‐Lopez"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1510.09153"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ssc.2012.04.005",
+        "title": "Graphene growth on h-BN by molecular beam epitaxy",
+        "journal": "Solid State Communications",
+        "year": 2012,
+        "citations": 107,
+        "authors": "J. M. Garcı́a, Ulrich Wurstbauer, Antonio Levy et al.",
+        "authors_list": [
+            "J. M. Garcı́a",
+            "Ulrich Wurstbauer",
+            "Antonio Levy",
+            "L. N. Pfeiffer",
+            "A. Pinczuk",
+            "A. S. Plaut",
+            "Lei Wang",
+            "Cory R. Dean",
+            "Roberto Buizza",
+            "Arend M. van der Zande",
+            "James Hone",
+            "Kenji Watanabe",
+            "Takashi Taniguchi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 107,
+            "crossref": 101
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1204.2443"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.jpclett.6b01308",
+        "title": "Limits of Carrier Diffusion in <i>n</i>-Type and <i>p</i>-Type CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> Perovskite Single Crystals",
+        "journal": "The Journal of Physical Chemistry Letters",
+        "year": 2016,
+        "citations": 101,
+        "authors": "Octavi E. Semonin, Giselle A. Elbaz, Daniel B. Straus et al.",
+        "authors_list": [
+            "Octavi E. Semonin",
+            "Giselle A. Elbaz",
+            "Daniel B. Straus",
+            "Trevor D. Hull",
+            "Daniel W. Paley⧓",
+            "Arend M. van der Zande",
+            "James Hone",
+            "Ioannis Kymissis",
+            "Cherie R. Kagan",
+            "Xavier Roy",
+            "Jonathan S. Owen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 100
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/admt.202100712",
+        "title": "Ultrasensitive Detection of Dopamine, IL‐6 and SARS‐CoV‐2 Proteins on Crumpled Graphene FET Biosensor",
+        "journal": "Advanced Materials Technologies",
+        "year": 2021,
+        "citations": 99,
+        "authors": "Michael Taeyoung Hwang, Insu Park, Mohammad Heiranian et al.",
+        "authors_list": [
+            "Michael Taeyoung Hwang",
+            "Insu Park",
+            "Mohammad Heiranian",
+            "Amir Taqieddin",
+            "Seungyong You",
+            "Vahid Faramarzi",
+            "Anna Pak",
+            "Arend M. van der Zande",
+            "N. R. Aluru",
+            "Rashid Bashir"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/admt.202100712"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.nanolett.9b00271",
+        "title": "Monolayer MoS<sub>2</sub> Nanoribbon Transistors Fabricated by Scanning Probe Lithography",
+        "journal": "Nano Letters",
+        "year": 2019,
+        "citations": 98,
+        "authors": "Sihan Chen, SunPhil Kim, Weibing Chen et al.",
+        "authors_list": [
+            "Sihan Chen",
+            "SunPhil Kim",
+            "Weibing Chen",
+            "Jiangtan Yuan",
+            "Rashid Bashir",
+            "Jun Lou",
+            "Arend M. van der Zande",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1364/cleo_si.2012.cth5c.2",
+        "title": "Regenerative oscillation and four-wave mixing in graphene optoelectronics",
+        "journal": "",
+        "year": 2012,
+        "citations": 92,
+        "authors": "T. Gu, Nicholas Petrone, James F. McMillan et al.",
+        "authors_list": [
+            "T. Gu",
+            "Nicholas Petrone",
+            "James F. McMillan",
+            "Arend M. van der Zande",
+            "Minghui Yu",
+            "G. Q. Lo",
+            "Dim‐Lee Kwong",
+            "James Hone",
+            "Chee Wei Wong"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 92,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-018-06524-3",
+        "title": "Atomically precise graphene etch stops for three dimensional integrated systems from two dimensional material heterostructures",
+        "journal": "Nature Communications",
+        "year": 2018,
+        "citations": 90,
+        "authors": "Jangyup Son, Junyoung Kwon, SunPhil Kim et al.",
+        "authors_list": [
+            "Jangyup Son",
+            "Junyoung Kwon",
+            "SunPhil Kim",
+            "Yinchuan Lv",
+            "Jaehyung Yu",
+            "Jong‐Young Lee",
+            "Huije Ryu",
+            "Kenji Watanabe",
+            "Takashi Taniguchi",
+            "Rita Garrido-Menacho",
+            "Nadya Mason",
+            "Elif Ertekin",
+            "Pinshane Y. Huang",
+            "Gwan‐Hyoung Lee",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-018-06524-3.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4894830",
+        "title": "Enhanced four-wave mixing in graphene-silicon slow-light photonic crystal waveguides",
+        "journal": "Applied Physics Letters",
+        "year": 2014,
+        "citations": 76,
+        "authors": "Hao Zhou, Tingyi Gu, James F. McMillan et al.",
+        "authors_list": [
+            "Hao Zhou",
+            "Tingyi Gu",
+            "James F. McMillan",
+            "Nicholas Petrone",
+            "Arend M. van der Zande",
+            "James Hone",
+            "Mingbin Yu",
+            "Guo‐Qiang Lo",
+            "Dim-Lee Kwong",
+            "Guoying Feng",
+            "Shouhuan Zhou",
+            "Chee Wei Wong"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1216407109",
+        "title": "Fluctuation broadening in carbon nanotube resonators",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2012,
+        "citations": 71,
+        "authors": "Arthur Barnard, V. A. Sazonova, Arend M. van der Zande et al.",
+        "authors_list": [
+            "Arthur Barnard",
+            "V. A. Sazonova",
+            "Arend M. van der Zande",
+            "Paul L. McEuen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/109/47/19093.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.adl2029",
+        "title": "Achieving sub-0.5-angstrom–resolution ptychography in an uncorrected electron microscope",
+        "journal": "Science",
+        "year": 2024,
+        "citations": 69,
+        "authors": "Kayla X. Nguyen, Yi Jiang, Chia‐Hao Lee et al.",
+        "authors_list": [
+            "Kayla X. Nguyen",
+            "Yi Jiang",
+            "Chia‐Hao Lee",
+            "Priti Kharel",
+            "Yue Zhang",
+            "Arend M. van der Zande",
+            "Pinshane Y. Huang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 69,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/2323561"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4894435",
+        "title": "Heterostructures based on inorganic and organic van der Waals systems",
+        "journal": "APL Materials",
+        "year": 2014,
+        "citations": 63,
+        "authors": "Gwan‐Hyoung Lee, Chul‐Ho Lee, Arend M. van der Zande et al.",
+        "authors_list": [
+            "Gwan‐Hyoung Lee",
+            "Chul‐Ho Lee",
+            "Arend M. van der Zande",
+            "Minyong Han",
+            "Xu Cui",
+            "Ghidewon Arefe",
+            "Colin Nuckolls",
+            "Tony F. Heinz",
+            "James Hone",
+            "Philip Kim"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aip.scitation.org/doi/pdf/10.1063/1.4894435"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.202007269",
+        "title": "Designing the Bending Stiffness of 2D Material Heterostructures",
+        "journal": "Advanced Materials",
+        "year": 2021,
+        "citations": 62,
+        "authors": "Jaehyung Yu, Edmund Han, M. Abir Hossain et al.",
+        "authors_list": [
+            "Jaehyung Yu",
+            "Edmund Han",
+            "M. Abir Hossain",
+            "Kenji Watanabe",
+            "Takashi Taniguchi",
+            "Elif Ertekin",
+            "Arend M. van der Zande",
+            "Pinshane Y. Huang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsnano.4c01457",
+        "title": "Enhancing Carrier Mobility in Monolayer MoS<sub>2</sub> Transistors with Process-Induced Strain",
+        "journal": "ACS Nano",
+        "year": 2024,
+        "citations": 60,
+        "authors": "Yue Zhang, He Zhao, Siyuan Huang et al.",
+        "authors_list": [
+            "Yue Zhang",
+            "He Zhao",
+            "Siyuan Huang",
+            "M. Abir Hossain",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.nanolett.8b01926",
+        "title": "Nano-electromechanical Drumhead Resonators from Two-Dimensional Material Bimorphs",
+        "journal": "Nano Letters",
+        "year": 2018,
+        "citations": 60,
+        "authors": "SunPhil Kim, Jaehyung Yu, Arend M. van der Zande",
+        "authors_list": [
+            "SunPhil Kim",
+            "Jaehyung Yu",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s43246-021-00185-4",
+        "title": "Evolution of defect formation during atomically precise desulfurization of monolayer MoS2",
+        "journal": "Communications Materials",
+        "year": 2021,
+        "citations": 55,
+        "authors": "Jong‐Young Lee, Jong Hun Kim, Yeonjoon Jung et al.",
+        "authors_list": [
+            "Jong‐Young Lee",
+            "Jong Hun Kim",
+            "Yeonjoon Jung",
+            "June Chul Shin",
+            "Yangjin Lee",
+            "Kwanpyo Kim",
+            "Namwon Kim",
+            "Arend M. van der Zande",
+            "Jangyup Son",
+            "Gwan‐Hyoung Lee"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s43246-021-00185-4.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/5.0106731",
+        "title": "Nanoelectromechanical systems from two-dimensional materials",
+        "journal": "Applied Physics Reviews",
+        "year": 2023,
+        "citations": 46,
+        "authors": "Paolo F. Ferrari, SunPhil Kim, Arend M. van der Zande",
+        "authors_list": [
+            "Paolo F. Ferrari",
+            "SunPhil Kim",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 46,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsomega.0c05934",
+        "title": "Tip-Based Cleaning and Smoothing Improves Performance in Monolayer MoS<sub>2</sub> Devices",
+        "journal": "ACS Omega",
+        "year": 2021,
+        "citations": 41,
+        "authors": "Sihan Chen, Jangyup Son, Siyuan Huang et al.",
+        "authors_list": [
+            "Sihan Chen",
+            "Jangyup Son",
+            "Siyuan Huang",
+            "Kenji Watanabe",
+            "Takashi Taniguchi",
+            "Rashid Bashir",
+            "Arend M. van der Zande",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 41,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1021/acsomega.0c05934"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsami.2c18329",
+        "title": "The Surface Energy of Hydrogenated and Fluorinated Graphene",
+        "journal": "ACS Applied Materials & Interfaces",
+        "year": 2022,
+        "citations": 37,
+        "authors": "James Carpenter, Hyunchul Kim, Jules Suarez et al.",
+        "authors_list": [
+            "James Carpenter",
+            "Hyunchul Kim",
+            "Jules Suarez",
+            "Arend M. van der Zande",
+            "Nenad Miljkovic"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 37,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.201903424",
+        "title": "Tailoring Surface Properties via Functionalized Hydrofluorinated Graphene Compounds",
+        "journal": "Advanced Materials",
+        "year": 2019,
+        "citations": 35,
+        "authors": "Jangyup Son, Nikita Buzov, Sihan Chen et al.",
+        "authors_list": [
+            "Jangyup Son",
+            "Nikita Buzov",
+            "Sihan Chen",
+            "Dongchul Sung",
+            "Huije Ryu",
+            "Junyoung Kwon",
+            "SunPhil Kim",
+            "Shunya Namiki",
+            "Jingwei Xu",
+            "Suklyun Hong",
+            "Kenji Watanabe",
+            "Takashi Taniguchi",
+            "William P. King",
+            "Gwan‐Hyoung Lee",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 35,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/smll.201603042",
+        "title": "Carbon Nanotube‐Quantum Dot Nanohybrids: Coupling with Single‐Particle Control in Aqueous Solution",
+        "journal": "Small",
+        "year": 2017,
+        "citations": 29,
+        "authors": "Antonio Attanzio, Andrei Sapelkin, Felice Gesuele et al.",
+        "authors_list": [
+            "Antonio Attanzio",
+            "Andrei Sapelkin",
+            "Felice Gesuele",
+            "Arend M. van der Zande",
+            "W. P. Gillin",
+            "Ming Zheng",
+            "Matteo Palma"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 29,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.nanolett.1c02369",
+        "title": "Dissipation from Interlayer Friction in Graphene Nanoelectromechanical Resonators",
+        "journal": "Nano Letters",
+        "year": 2021,
+        "citations": 28,
+        "authors": "Paolo F. Ferrari, SunPhil Kim, Arend M. van der Zande",
+        "authors_list": [
+            "Paolo F. Ferrari",
+            "SunPhil Kim",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 28,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.nanolett.0c03237",
+        "title": "Tailoring Single- and Double-Sided Fluorination of Bilayer Graphene via Substrate Interactions",
+        "journal": "Nano Letters",
+        "year": 2020,
+        "citations": 27,
+        "authors": "Jangyup Son, Huije Ryu, Junyoung Kwon et al.",
+        "authors_list": [
+            "Jangyup Son",
+            "Huije Ryu",
+            "Junyoung Kwon",
+            "Siyuan Huang",
+            "Jaehyung Yu",
+            "Jingwei Xu",
+            "Kenji Watanabe",
+            "Takashi Taniguchi",
+            "Eunji Ji",
+            "Sol Lee",
+            "Yongjoon Shin",
+            "Jong Hun Kim",
+            "Kwanpyo Kim",
+            "Arend M. van der Zande",
+            "Gwan‐Hyoung Lee"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 27,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsami.9b20909",
+        "title": "Material-Dependent Evolution of Mechanical Folding Instabilities in Two-Dimensional Atomic Membranes",
+        "journal": "ACS Applied Materials & Interfaces",
+        "year": 2020,
+        "citations": 27,
+        "authors": "Jaehyung Yu, SunPhil Kim, Elif Ertekin et al.",
+        "authors_list": [
+            "Jaehyung Yu",
+            "SunPhil Kim",
+            "Elif Ertekin",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 27,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.nanolett.9b04619",
+        "title": "Stochastic Stress Jumps Due to Soliton Dynamics in Two-Dimensional van der Waals Interfaces",
+        "journal": "Nano Letters",
+        "year": 2020,
+        "citations": 25,
+        "authors": "SunPhil Kim, Emil Annevelink, Edmund Han et al.",
+        "authors_list": [
+            "SunPhil Kim",
+            "Emil Annevelink",
+            "Edmund Han",
+            "Jaehyung Yu",
+            "Pinshane Y. Huang",
+            "Elif Ertekin",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 25,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4930232",
+        "title": "Rapid, all-optical crystal orientation imaging of two-dimensional transition metal dichalcogenide monolayers",
+        "journal": "Applied Physics Letters",
+        "year": 2015,
+        "citations": 25,
+        "authors": "Sabrina David, Yao Zhai, Arend M. van der Zande et al.",
+        "authors_list": [
+            "Sabrina David",
+            "Yao Zhai",
+            "Arend M. van der Zande",
+            "Kevin P. O’Brien",
+            "Pinshane Y. Huang",
+            "Daniel Chenet",
+            "James Hone",
+            "Xiang Zhang",
+            "Xiaobo Yin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 25,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1371063"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsnano.8b09578",
+        "title": "A Scalable, Solution-Based Approach to Tuning the Solubility and Improving the Photoluminescence of Chemically Exfoliated MoS<sub>2</sub>",
+        "journal": "ACS Nano",
+        "year": 2019,
+        "citations": 25,
+        "authors": "Myung Jin Park, Steven Gravelsins, Jangyup Son et al.",
+        "authors_list": [
+            "Myung Jin Park",
+            "Steven Gravelsins",
+            "Jangyup Son",
+            "Arend M. van der Zande",
+            "Al-Amin Dhirani"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 25,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsnano.3c09354",
+        "title": "Patternable Process-Induced Strain in 2D Monolayers and Heterobilayers",
+        "journal": "ACS Nano",
+        "year": 2024,
+        "citations": 24,
+        "authors": "Yue Zhang, M. Abir Hossain, Kelly J. Hwang et al.",
+        "authors_list": [
+            "Yue Zhang",
+            "M. Abir Hossain",
+            "Kelly J. Hwang",
+            "Paolo F. Ferrari",
+            "Joseph Maduzia",
+            "Tara Peña",
+            "Stephen M. Wu",
+            "Elif Ertekin",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nl4020414",
+        "title": "Graphene Metallization of High-Stress Silicon Nitride Resonators for Electrical Integration",
+        "journal": "Nano Letters",
+        "year": 2013,
+        "citations": 23,
+        "authors": "Sunwoo Lee, Vivekananda P. Adiga, Robert A. Barton et al.",
+        "authors_list": [
+            "Sunwoo Lee",
+            "Vivekananda P. Adiga",
+            "Robert A. Barton",
+            "Arend M. van der Zande",
+            "Gwan‐Hyoung Lee",
+            "B. Ilic",
+            "Alexander Gondarenko",
+            "J. M. Parpia",
+            "Harold G. Craighead",
+            "James Hone"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 23,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1305.4852"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nphoton.2012.303",
+        "title": "Inspired by strain",
+        "journal": "Nature Photonics",
+        "year": 2012,
+        "citations": 23,
+        "authors": "Arend M. van der Zande, James Hone",
+        "authors_list": [
+            "Arend M. van der Zande",
+            "James Hone"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 23,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsami.0c10787",
+        "title": "Realizing Optoelectronic Devices from Crumpled Two-Dimensional Material Heterostructures",
+        "journal": "ACS Applied Materials & Interfaces",
+        "year": 2020,
+        "citations": 22,
+        "authors": "M. Abir Hossain, Jaehyung Yu, Arend M. van der Zande",
+        "authors_list": [
+            "M. Abir Hossain",
+            "Jaehyung Yu",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.acs.org/doi/pdf/10.1021/acsami.0c10787"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsnano.3c11558",
+        "title": "Depolarization Field-Induced Photovoltaic Effect in Graphene/α-In<sub>2</sub>Se<sub>3</sub>/Graphene Heterostructures",
+        "journal": "ACS Nano",
+        "year": 2024,
+        "citations": 22,
+        "authors": "Shahriar Muhammad Nahid, SungWoo Nam, Arend M. van der Zande",
+        "authors_list": [
+            "Shahriar Muhammad Nahid",
+            "SungWoo Nam",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.89.155408",
+        "title": "Probing substrate-dependent long-range surface structure of single-layer and multilayer<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mi>Mo</mml:mi><mml:msub><mml:mi mathvariant=\"normal\">S</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:math>by low-energy electron microscopy and microprobe diffraction",
+        "journal": "Physical Review B",
+        "year": 2014,
+        "citations": 20,
+        "authors": "Po‐Chun Yeh, Wencan Jin, Nader Zaki et al.",
+        "authors_list": [
+            "Po‐Chun Yeh",
+            "Wencan Jin",
+            "Nader Zaki",
+            "Datong Zhang",
+            "Jerzy T. Sadowski",
+            "Abdullah Al‐Mahboob",
+            "Arend M. van der Zande",
+            "Daniel Chenet",
+            "Jerry I. Dadap",
+            "Irving P. Herman",
+            "Peter Sutter",
+            "James Hone",
+            "Richard M. Osgood"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 20,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsnano.3c01311",
+        "title": "Bend-Induced Ferroelectric Domain Walls in α-In<sub>2</sub>Se<sub>3</sub>",
+        "journal": "ACS Nano",
+        "year": 2023,
+        "citations": 19,
+        "authors": "Edmund Han, Shahriar Muhammad Nahid, Tawfiqur Rakib et al.",
+        "authors_list": [
+            "Edmund Han",
+            "Shahriar Muhammad Nahid",
+            "Tawfiqur Rakib",
+            "Gillian Nolan",
+            "Paolo F. Ferrari",
+            "M. Abir Hossain",
+            "André Schleife",
+            "SungWoo Nam",
+            "Elif Ertekin",
+            "Arend M. van der Zande",
+            "Pinshane Y. Huang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 19,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ymssp.2023.110331",
+        "title": "Ultra-Tuning of nonlinear drumhead MEMS resonators by Electro-Thermoelastic buckling",
+        "journal": "Mechanical Systems and Signal Processing",
+        "year": 2023,
+        "citations": 19,
+        "authors": "Ali Kanj, Paolo F. Ferrari, Arend M. van der Zande et al.",
+        "authors_list": [
+            "Ali Kanj",
+            "Paolo F. Ferrari",
+            "Arend M. van der Zande",
+            "Alexander F. Vakakis",
+            "Sameh Tawfick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 19,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0927-6505(02)00143-3",
+        "title": "Geometry and optics calibration for air fluorescence detectors using star light",
+        "journal": "Astroparticle Physics",
+        "year": 2002,
+        "citations": 18,
+        "authors": "P.A Sadowski, Arend M. van der Zande, R Abbasi et al.",
+        "authors_list": [
+            "P.A Sadowski",
+            "Arend M. van der Zande",
+            "R Abbasi",
+            "T. Abu‐Zayyad",
+            "G. Archbold",
+            "Jose A. Bellido",
+            "K. Belov",
+            "J. W. Belz",
+            "D. R. Bergman",
+            "J. Boyer",
+            "Z. Cao",
+            "R. W. Clay",
+            "B. R. Dawson",
+            "Adam Everett",
+            "J. H. Girard",
+            "R. Gray",
+            "W. Hanlon",
+            "B. F. Jones",
+            "C. C. H. Jui",
+            "D. Kieda",
+            "K Kim",
+            "B. Knapp",
+            "W Lee",
+            "E. C. Loh",
+            "K. Martens",
+            "G Martin",
+            "Naohiro Manago",
+            "E. J. Mannel",
+            "J. A. J. Matthews",
+            "J. N. Matthews",
+            "J. R. Meyer",
+            "T. Minagawa",
+            "Sheva Moore",
+            "P. Morrison",
+            "A. N. Moosman",
+            "J.R. Mumford",
+            "L. Perera",
+            "K. Reil",
+            "R. Riehle",
+            "M. S. Roberts",
+            "M. Sasaki",
+            "M. Sasano",
+            "M. Seman",
+            "S. Schnetzer",
+            "P. R. Shen",
+            "K. M. Simpson",
+            "J. D. Smith",
+            "P. Sokolsky",
+            "C. Song",
+            "R. W. Springer",
+            "B. T. Stokes",
+            "M. Teshima",
+            "S. B. Thomas",
+            "G. B. Thomson",
+            "T. Vanderveen",
+            "S. Westerhoff",
+            "L. R. Wiencke",
+            "A. Zech",
+            "X Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 18,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.202313694",
+        "title": "Edge‐Passivated Monolayer WSe<sub>2</sub> Nanoribbon Transistors",
+        "journal": "Advanced Materials",
+        "year": 2024,
+        "citations": 17,
+        "authors": "Sihan Chen, Yue Zhang, William P. King et al.",
+        "authors_list": [
+            "Sihan Chen",
+            "Yue Zhang",
+            "William P. King",
+            "Rashid Bashir",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 17,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.202313694"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.nanolett.3c05091",
+        "title": "Stretchable Thin-Film Transistors Based on Wrinkled Graphene and MoS<sub>2</sub> Heterostructures",
+        "journal": "Nano Letters",
+        "year": 2024,
+        "citations": 17,
+        "authors": "Hyunchul Kim, He Zhao, Arend M. van der Zande",
+        "authors_list": [
+            "Hyunchul Kim",
+            "He Zhao",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 17,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.device.2024.100572",
+        "title": "Multi-modal biosensing enabled by on-chip nano-corrugated graphene",
+        "journal": "Device",
+        "year": 2024,
+        "citations": 17,
+        "authors": "Nik Humaidi Nik Zulkarnine, Vahid Faramarzi, Siyuan Huang et al.",
+        "authors_list": [
+            "Nik Humaidi Nik Zulkarnine",
+            "Vahid Faramarzi",
+            "Siyuan Huang",
+            "Narendhar Chandrasekar",
+            "Ramaswamy Sandeep Perala",
+            "Ju Seong Park",
+            "Katherine Koprowski",
+            "Sihan Chen",
+            "Yue Zhang",
+            "Sriya Darsi",
+            "Maher Adoni",
+            "Alicia Y. Kim",
+            "Jun Baek",
+            "Enrique Valera",
+            "Jaechul Ryu",
+            "Arend M. van der Zande",
+            "Myung Jong Kim",
+            "Insu Park",
+            "Rashid Bashir",
+            "Michael Taeyoung Hwang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 17,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.nanolett.1c00764",
+        "title": "Buckling-Mediated Phase Transitions in Nano-Electromechanical Phononic Waveguides",
+        "journal": "Nano Letters",
+        "year": 2021,
+        "citations": 15,
+        "authors": "SunPhil Kim, Jonathan Bunyan, Paolo F. Ferrari et al.",
+        "authors_list": [
+            "SunPhil Kim",
+            "Jonathan Bunyan",
+            "Paolo F. Ferrari",
+            "Ali Kanj",
+            "Alexander F. Vakakis",
+            "Arend M. van der Zande",
+            "Sameh Tawfick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 15,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.nanolett.5c04115",
+        "title": "The Next 25 Years of Nanoscience and Nanotechnology: A <i>Nano Letters</i> Roadmap",
+        "journal": "Nano Letters",
+        "year": 2025,
+        "citations": 15,
+        "authors": "Wooyoung Shim, Douglas Natelson, Jordi Arbiol et al.",
+        "authors_list": [
+            "Wooyoung Shim",
+            "Douglas Natelson",
+            "Jordi Arbiol",
+            "Elena Besley",
+            "Jennifer A. Dionne",
+            "Carmen Herrmann",
+            "Deep Jariwala",
+            "Chun Ning Lau",
+            "Lain‐Jong Li",
+            "Liberato Manna",
+            "Ki Tae Nam",
+            "Guangjun Nie",
+            "Amy L. Prieto",
+            "Benjamin C. K. Tee",
+            "Arend M. van der Zande",
+            "Latha Venkataraman",
+            "Haotian Wang",
+            "Yiguang Wang",
+            "Qihua Xiong",
+            "Jun Zhu",
+            "Teri W. Odom"
+        ],
+        "type": "editorial",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 15,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.acs.org/doi/pdf/10.1021/acs.nanolett.5c04115?ref=article_openPDF"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cossms.2021.100900",
+        "title": "Mechanically sensing and tailoring electronic properties in two-dimensional atomic membranes",
+        "journal": "Current Opinion in Solid State and Materials Science",
+        "year": 2021,
+        "citations": 15,
+        "authors": "Jaehyung Yu, M. Abir Hossain, SunPhil Kim et al.",
+        "authors_list": [
+            "Jaehyung Yu",
+            "M. Abir Hossain",
+            "SunPhil Kim",
+            "Paolo F. Ferrari",
+            "Siyuan Huang",
+            "Yue Zhang",
+            "Hyunchul Kim",
+            "D. Michel",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 15,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1149/1945-7111/ac9c33",
+        "title": "A Surface Modification Strategy Towards Reversible Na-ion Intercalation on Graphitic Carbon Using Fluorinated Few-Layer Graphene",
+        "journal": "Journal of The Electrochemical Society",
+        "year": 2022,
+        "citations": 15,
+        "authors": "Dipobrato Sarbapalli, Yu-Hsiu Lin, Sean M. Stafford et al.",
+        "authors_list": [
+            "Dipobrato Sarbapalli",
+            "Yu-Hsiu Lin",
+            "Sean M. Stafford",
+            "Jangyup Son",
+            "Abhiroop Mishra",
+            "Jingshu Hui",
+            "A. Nijamudheen",
+            "Adolfo I. B. Romo",
+            "Zachary T. Gossage",
+            "Arend M. van der Zande",
+            "José L. Mendoza-Cortés",
+            "Joaquín Rodríguez‐López"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 15,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.adw7751",
+        "title": "Atom-by-atom imaging of moiré phasons with electron ptychography",
+        "journal": "Science",
+        "year": 2025,
+        "citations": 14,
+        "authors": "Yichao Zhang, Ballal Ahammed, Sang Hyun Bae et al.",
+        "authors_list": [
+            "Yichao Zhang",
+            "Ballal Ahammed",
+            "Sang Hyun Bae",
+            "Chia‐Hao Lee",
+            "Jeffrey Huang",
+            "M. Abir Hossain",
+            "Tawfiqur Rakib",
+            "Arend M. van der Zande",
+            "Elif Ertekin",
+            "Pinshane Y. Huang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 14,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/transducers.2013.6626834",
+        "title": "A transconductive graphene pressure sensor",
+        "journal": "",
+        "year": 2013,
+        "citations": 14,
+        "authors": "Adam M. Hurst, Sunwoo Lee, Nicholas Petrone et al.",
+        "authors_list": [
+            "Adam M. Hurst",
+            "Sunwoo Lee",
+            "Nicholas Petrone",
+            "Joe VanDeWeert",
+            "Arend M. van der Zande",
+            "James Hone"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 14,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/jstqe.2013.2290274",
+        "title": "Coherent Four-Wave Mixing on Hybrid Graphene-Silicon Photonic Crystals",
+        "journal": "IEEE Journal of Selected Topics in Quantum Electronics",
+        "year": 2014,
+        "citations": 13,
+        "authors": "Tingyi Gu, Hao Zhou, James F. McMillan et al.",
+        "authors_list": [
+            "Tingyi Gu",
+            "Hao Zhou",
+            "James F. McMillan",
+            "Nicholas Petrone",
+            "Arend M. van der Zande",
+            "James Hone",
+            "Mingbin Yu",
+            "Guo‐Qiang Lo",
+            "Dim‐Lee Kwong",
+            "Chee Wei Wong"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 13,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.apsusc.2023.158857",
+        "title": "Facilitated fluorination and etching of 2D materials",
+        "journal": "Applied Surface Science",
+        "year": 2023,
+        "citations": 12,
+        "authors": "Yong-Jun Shin, Subin Shin, Dongchul Sung et al.",
+        "authors_list": [
+            "Yong-Jun Shin",
+            "Subin Shin",
+            "Dongchul Sung",
+            "Janghwan Cha",
+            "Hyeong-Kyu Choi",
+            "Yunjo Jeong",
+            "Min Ji Im",
+            "Yang Hui Kim",
+            "Seokhoon Ahn",
+            "Sukang Bae",
+            "Joonwon Lim",
+            "Edmund Han",
+            "Pinshane Y. Huang",
+            "Arend M. van der Zande",
+            "Suklyun Hong",
+            "Gwan‐Hyoung Lee",
+            "Jangyup Son"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 12,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.apsusc.2023.158857"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/aelm.202101370",
+        "title": "Fluorinated Graphene Contacts and Passivation Layer for MoS<sub>2</sub> Field Effect Transistors",
+        "journal": "Advanced Electronic Materials",
+        "year": 2022,
+        "citations": 12,
+        "authors": "Huije Ryu, Dong‐Hyun Kim, Junyoung Kwon et al.",
+        "authors_list": [
+            "Huije Ryu",
+            "Dong‐Hyun Kim",
+            "Junyoung Kwon",
+            "Sang Kyu Park",
+            "Wanggon Lee",
+            "Hyungtak Seo",
+            "Kenji Watanabe",
+            "Takashi Taniguchi",
+            "SunPhil Kim",
+            "Arend M. van der Zande",
+            "Jangyup Son",
+            "Gwan‐Hyoung Lee"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 12,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1002/aelm.202101370"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/aelm.202400843",
+        "title": "Extension Doping with Low‐Resistance Contacts for P‐Type Monolayer WSe<sub>2</sub> Field‐Effect Transistors",
+        "journal": "Advanced Electronic Materials",
+        "year": 2024,
+        "citations": 12,
+        "authors": "Sihan Chen, Yue Zhang, William P. King et al.",
+        "authors_list": [
+            "Sihan Chen",
+            "Yue Zhang",
+            "William P. King",
+            "Rashid Bashir",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 12,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aelm.202400843"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10762-012-9889-7",
+        "title": "High-Contrast Imaging of Graphene via Time-Domain Terahertz Spectroscopy",
+        "journal": "Journal of Infrared Millimeter and Terahertz Waves",
+        "year": 2012,
+        "citations": 11,
+        "authors": "J. L. Tomaino, A. Jameson, M. J. Paul et al.",
+        "authors_list": [
+            "J. L. Tomaino",
+            "A. Jameson",
+            "M. J. Paul",
+            "J. W. Kevek",
+            "Arend M. van der Zande",
+            "Robert A. Barton",
+            "Jaeseok Choi",
+            "Paul L. McEuen",
+            "Ethan D. Minot",
+            "Yun-Shik Lee"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 11,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1364/sensors.2012.sw1c.1",
+        "title": "Terahertz Imaging and Spectroscopy of Large-Area Single-Layer Graphene",
+        "journal": "",
+        "year": 2012,
+        "citations": 11,
+        "authors": "M. J. Paul, J. L. Tomaino, A. Jameson et al.",
+        "authors_list": [
+            "M. J. Paul",
+            "J. L. Tomaino",
+            "A. Jameson",
+            "J. W. Kevek",
+            "Tristan DeBorde",
+            "Z. Thompson",
+            "Arend M. van der Zande",
+            "Robert A. Barton",
+            "Paul L. McEuen",
+            "Ethan D. Minot",
+            "Yun-Shik Lee"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 11,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevapplied.14.034062",
+        "title": "Intrinsic Dissipation Due to Mode Coupling in Two-Dimensional-Material Resonators Revealed Through a Multiscale Approach",
+        "journal": "Physical Review Applied",
+        "year": 2020,
+        "citations": 9,
+        "authors": "Subhadeep De, Arend M. van der Zande, N. R. Aluru",
+        "authors_list": [
+            "Subhadeep De",
+            "Arend M. van der Zande",
+            "N. R. Aluru"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 9,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c4nr04875j",
+        "title": "Electronic transport in nanoparticle monolayers sandwiched between graphene electrodes",
+        "journal": "Nanoscale",
+        "year": 2014,
+        "citations": 8,
+        "authors": "Chenguang Lu, Datong Zhang, Arend M. van der Zande et al.",
+        "authors_list": [
+            "Chenguang Lu",
+            "Datong Zhang",
+            "Arend M. van der Zande",
+            "Philip Kim",
+            "Irving P. Herman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 8,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0275079",
+        "title": "Multiscale compression-induced restructuring of stacked lipid bilayers: From buckling delamination to molecular packing",
+        "journal": "PLoS ONE",
+        "year": 2022,
+        "citations": 8,
+        "authors": "Marilyn Porras-Gómez, Hyunchul Kim, Mohan Teja Dronadula et al.",
+        "authors_list": [
+            "Marilyn Porras-Gómez",
+            "Hyunchul Kim",
+            "Mohan Teja Dronadula",
+            "Nurila Kambar",
+            "Christopher J. B. Metellus",
+            "N. R. Aluru",
+            "Arend M. van der Zande",
+            "Cecília Leal"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 8,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0275079&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.optcom.2013.10.066",
+        "title": "Optical bistability and free carrier dynamics in graphene–silicon photonic crystal cavities",
+        "journal": "Optics Communications",
+        "year": 2013,
+        "citations": 8,
+        "authors": "Tingyi Gu, James F. McMillan, Nicholas Petrone et al.",
+        "authors_list": [
+            "Tingyi Gu",
+            "James F. McMillan",
+            "Nicholas Petrone",
+            "Arend M. van der Zande",
+            "James Hone",
+            "Mingbin Yu",
+            "Guo-Qiang Lo",
+            "Dim-Lee Kwong",
+            "Chee Wei Wong"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 8,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsnano.5c06381",
+        "title": "Programmable Strainscapes in a Two-Dimensional (2D) Material Monolayer",
+        "journal": "ACS Nano",
+        "year": 2025,
+        "citations": 8,
+        "authors": "Qingchang Liu, Yue Zhang, Haiyue Dong et al.",
+        "authors_list": [
+            "Qingchang Liu",
+            "Yue Zhang",
+            "Haiyue Dong",
+            "Nadya Mason",
+            "Arend M. van der Zande",
+            "Harley T. Johnson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 8,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.langmuir.2c00570",
+        "title": "Role of Interfacial Interactions in the Graphene-Directed Assembly of Monolayer Conjugated Polymers",
+        "journal": "Langmuir",
+        "year": 2022,
+        "citations": 6,
+        "authors": "Prapti Kafle, Siyuan Huang, Kyung Sun Park et al.",
+        "authors_list": [
+            "Prapti Kafle",
+            "Siyuan Huang",
+            "Kyung Sun Park",
+            "Fengjiao Zhang",
+            "Hao Yu",
+            "Caroline E. Kasprzak",
+            "Hyunchul Kim",
+            "Charles M. Schroeder",
+            "Arend M. van der Zande",
+            "Ying Diao"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 6,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/d3nr01022h",
+        "title": "Probing antiferromagnetism in exfoliated Fe <sub>3</sub> GeTe <sub>2</sub> using magneto-transport measurements",
+        "journal": "Nanoscale",
+        "year": 2023,
+        "citations": 6,
+        "authors": "Stasiu T. Chyczewski, Ji Shi, Hanwool Lee et al.",
+        "authors_list": [
+            "Stasiu T. Chyczewski",
+            "Ji Shi",
+            "Hanwool Lee",
+            "Paolo F. Furlanetto",
+            "Kai Xu",
+            "Arend M. van der Zande",
+            "Wenjuan Zhu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 6,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsnano.4c01279",
+        "title": "Ultrathin and Deformable Graphene Etch Mask for Fabrication of 3D Microstructures",
+        "journal": "ACS Nano",
+        "year": 2024,
+        "citations": 6,
+        "authors": "Jiwoo Kim, Donghoon Moon, Hyunchul Kim et al.",
+        "authors_list": [
+            "Jiwoo Kim",
+            "Donghoon Moon",
+            "Hyunchul Kim",
+            "Arend M. van der Zande",
+            "Gwan‐Hyoung Lee"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 6,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1017/s143192761100835x",
+        "title": "Imaging Grains and Grain Boundaries in Single-Layer Graphene: An Atomic Patchwork Quilt",
+        "journal": "Microscopy and Microanalysis",
+        "year": 2011,
+        "citations": 6,
+        "authors": "Pinshane Y. Huang, Arend M. van der Zande, Carlos Ruiz‐Vargas et al.",
+        "authors_list": [
+            "Pinshane Y. Huang",
+            "Arend M. van der Zande",
+            "Carlos Ruiz‐Vargas",
+            "William S. Whitney",
+            "Mark Levendorf",
+            "J. W. Kevek",
+            "Ye Zhu",
+            "J Park",
+            "Paul L. McEuen",
+            "David A. Muller"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 6,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C852D40820CA639AE266BFC043827F82/S143192761100835Xa.pdf/div-class-title-imaging-grains-and-grain-boundaries-in-single-layer-graphene-an-atomic-patchwork-quilt-div.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/5.0274935",
+        "title": "Two-dimensional materials and heterostructures under strain",
+        "journal": "Journal of Applied Physics",
+        "year": 2025,
+        "citations": 4,
+        "authors": "Kirill I. Bolotin, Arend M. van der Zande, Stephen M. Wu et al.",
+        "authors_list": [
+            "Kirill I. Bolotin",
+            "Arend M. van der Zande",
+            "Stephen M. Wu",
+            "J. Scott Bunch"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 4,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c9py00335e",
+        "title": "Hierarchical patterns with sub-20 nm pattern fidelity <i>via</i> block copolymer self-assembly and soft nanotransfer printing",
+        "journal": "Polymer Chemistry",
+        "year": 2019,
+        "citations": 3,
+        "authors": "Helen Tran, Harrison M. Bergman, Kaia R. Parenti et al.",
+        "authors_list": [
+            "Helen Tran",
+            "Harrison M. Bergman",
+            "Kaia R. Parenti",
+            "Arend M. van der Zande",
+            "Cory R. Dean",
+            "Luis M. Campos"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/iedm45625.2022.10019512",
+        "title": "Advances in Electronic Nano-biosensors and New Frontiers in Bioengineering",
+        "journal": "2022 International Electron Devices Meeting (IEDM)",
+        "year": 2022,
+        "citations": 3,
+        "authors": "Sihan Chen, Michael Taeyoung Hwang, Jiaojiao Wang et al.",
+        "authors_list": [
+            "Sihan Chen",
+            "Michael Taeyoung Hwang",
+            "Jiaojiao Wang",
+            "Anurup Ganguli",
+            "Insu Park",
+            "Yongdeok Kim",
+            "Enrique Valera",
+            "SungWoo Nam",
+            "N. R. Aluru",
+            "Arend M. van der Zande",
+            "Rashid Bashir"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "The Structure And Mechanics Of Atomically-Thin Graphene Membranes",
+        "journal": "eCommons (Cornell University)",
+        "year": 2011,
+        "citations": 3,
+        "authors": "Arend M. van der Zande",
+        "authors_list": [
+            "Arend M. van der Zande"
+        ],
+        "type": "dissertation",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1364/cleo_qels.2014.ff1k.8",
+        "title": "Four-wave mixing in slow-light graphene-silicon photonic crystal waveguides",
+        "journal": "",
+        "year": 2014,
+        "citations": 3,
+        "authors": "Hao Zhou, Tingyi Gu, James F. McMillan et al.",
+        "authors_list": [
+            "Hao Zhou",
+            "Tingyi Gu",
+            "James F. McMillan",
+            "Nicholas Petrone",
+            "Arend M. van der Zande",
+            "James Hone",
+            "Mingbin Yu",
+            "Guo‐Qiang Lo",
+            "Dim-Lee Kwong",
+            "Guoying Feng",
+            "Shouhuan Zhou",
+            "Chee Wei Wong"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1117/12.2567539",
+        "title": "Three-dimensional deformation and stretchable photonics enabled by interfacial slip in 2D material heterostructures",
+        "journal": "",
+        "year": 2020,
+        "citations": 3,
+        "authors": "Mohammad Ali Hossein, Yue Zhang, Arend M. van der Zande",
+        "authors_list": [
+            "Mohammad Ali Hossein",
+            "Yue Zhang",
+            "Arend M. van der Zande"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 3,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-018-07297-5",
+        "title": "Author Correction: Atomically precise graphene etch stops for three dimensional integrated systems from two dimensional material heterostructures",
+        "journal": "Nature Communications",
+        "year": 2018,
+        "citations": 2,
+        "authors": "Jangyup Son, Junyoung Kwon, Sun Phil Kim et al.",
+        "authors_list": [
+            "Jangyup Son",
+            "Junyoung Kwon",
+            "Sun Phil Kim",
+            "Yinchuan Lv",
+            "Jaehyung Yu",
+            "Jong‐Young Lee",
+            "Huije Ryu",
+            "Kenji Watanabe",
+            "Takashi Taniguchi",
+            "Rita Garrido-Menacho",
+            "Nadya Mason",
+            "Elif Ertekin",
+            "Pinshane Y. Huang",
+            "Gwan‐Hyoung Lee",
+            "Arend M. van der Zande"
+        ],
+        "type": "erratum",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-018-07297-5.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41699-026-00689-y",
+        "title": "Strain-tunable inter-valley scattering defines universal mobility enhancement in n- and p-type 2D TMDs",
+        "journal": "npj 2D Materials and Applications",
+        "year": 2026,
+        "citations": 2,
+        "authors": "Sheikh Mohd. Ta-Seen Afrid, He Zhao, Arend M. van der Zande et al.",
+        "authors_list": [
+            "Sheikh Mohd. Ta-Seen Afrid",
+            "He Zhao",
+            "Arend M. van der Zande",
+            "Shaloo Rakheja"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41699-026-00689-y_reference.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.2422135122",
+        "title": "Detecting DNA translocation through a nanopore using a van der Waals heterojunction diode",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2025,
+        "citations": 2,
+        "authors": "Sihan Chen, Siyuan Huang, Jangyup Son et al.",
+        "authors_list": [
+            "Sihan Chen",
+            "Siyuan Huang",
+            "Jangyup Son",
+            "Edmund Han",
+            "Kenji Watanabe",
+            "Takashi Taniguchi",
+            "Pinshane Y. Huang",
+            "William P. King",
+            "Arend M. van der Zande",
+            "Rashid Bashir"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1073/pnas.2422135122"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1017/s1431927621003482",
+        "title": "Deep Learning Enabled Atom-by-Atom Analysis of 2D materials on the Million-Atom Scale",
+        "journal": "Microscopy and Microanalysis",
+        "year": 2021,
+        "citations": 2,
+        "authors": "Chia‐Hao Lee, Abid Khan, Di Luo et al.",
+        "authors_list": [
+            "Chia‐Hao Lee",
+            "Abid Khan",
+            "Di Luo",
+            "Chuqiao Shi",
+            "Yue Zhang",
+            "M. Abir Hossain",
+            "Arend M. van der Zande",
+            "Bryan K. Clark",
+            "Pinshane Y. Huang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3D988B4DA74CB2C7B090ED534420A23F/S1431927621003482a.pdf/div-class-title-deep-learning-enabled-atom-by-atom-analysis-of-2d-materials-on-the-million-atom-scale-div.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1017/s1431927622011424",
+        "title": "Automated Acquisition and Deep Learning of 2D Materials on the Million-Atom Scale",
+        "journal": "Microscopy and Microanalysis",
+        "year": 2022,
+        "citations": 2,
+        "authors": "Chia‐Hao Lee, Abid Khan, Yue Zhang et al.",
+        "authors_list": [
+            "Chia‐Hao Lee",
+            "Abid Khan",
+            "Yue Zhang",
+            "M. Abir Hossain",
+            "Arend M. van der Zande",
+            "Bryan K. Clark",
+            "Pinshane Y. Huang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.21203/rs.3.rs-5193820/v4",
+        "title": "Detecting DNA Translocation through a Nanopore using a van der Waals Heterojunction Diode",
+        "journal": "Research Square",
+        "year": 2025,
+        "citations": 1,
+        "authors": "Sihan Chen, Siyuan Huang, Jangyup Son et al.",
+        "authors_list": [
+            "Sihan Chen",
+            "Siyuan Huang",
+            "Jangyup Son",
+            "Edmund Han",
+            "Kenji Watanabe",
+            "Takashi Taniguchi",
+            "Pinshane Y. Huang",
+            "William P. King",
+            "Arend M. van der Zande",
+            "Rashid Bashir"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.21203/rs.3.rs-5193820/v4"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.202470315",
+        "title": "Edge‐Passivated Monolayer WSe<sub>2</sub> Nanoribbon Transistors (Adv. Mater. 39/2024)",
+        "journal": "Advanced Materials",
+        "year": 2024,
+        "citations": 1,
+        "authors": "Sihan Chen, Yue Zhang, William P. King et al.",
+        "authors_list": [
+            "Sihan Chen",
+            "Yue Zhang",
+            "William P. King",
+            "Rashid Bashir",
+            "Arend M. van der Zande"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.202470315"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.inorgchem.3c03493",
+        "title": "Exfoliable Transition Metal Chalcogenide Semiconductor NbSe <sub>2</sub> I <sub>2</sub>",
+        "journal": "Inorganic Chemistry",
+        "year": 2024,
+        "citations": 1,
+        "authors": "Kejian Qu, Yue Zhang, Peng Cheng et al.",
+        "authors_list": [
+            "Kejian Qu",
+            "Yue Zhang",
+            "Peng Cheng",
+            "Zachary W. Riedel",
+            "Juyeon Won",
+            "Rong Zhang",
+            "Toby J. Woods",
+            "Tom Devereaux",
+            "Arend M. van der Zande",
+            "Daniel P. Shoemaker"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1021/nl903451y",
+        "title": "Photo-Thermoelectric Effect at a Graphene Interface Junction",
+        "journal": "Nano Letters",
+        "year": 2010,
+        "citations": 575,
+        "authors": "Xiaodong Xu, Nathaniel M. Gabor, Jonathan S. Alden et al.",
+        "authors_list": [
+            "Xiaodong Xu",
+            "Nathaniel M. Gabor",
+            "Jonathan S. Alden",
+            "Arend M. van der Zande",
+            "Paul L. McEuen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 575
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0907.3173"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.111.106801",
+        "title": "Direct Measurement of the Thickness-Dependent Electronic Band Structure of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msub><mml:mi>MoS</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:math>Using Angle-Resolved Photoemission Spectroscopy",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 509,
+        "authors": "Wencan Jin, Po-Chun Yeh, Nader Zaki et al.",
+        "authors_list": [
+            "Wencan Jin",
+            "Po-Chun Yeh",
+            "Nader Zaki",
+            "Datong Zhang",
+            "Jerzy T. Sadowski",
+            "Abdullah Al-Mahboob",
+            "Arend M. van der Zande",
+            "Daniel A. Chenet",
+            "Jerry I. Dadap",
+            "Irving P. Herman",
+            "Peter Sutter",
+            "James Hone",
+            "Richard M. Osgood"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 509
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.115.126802",
+        "title": "Electrical Tuning of Exciton Binding Energies in Monolayer<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mrow><mml:mi>WS</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math>",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 400,
+        "authors": "Alexey Chernikov, Arend M. van der Zande, Heather M. Hill et al.",
+        "authors_list": [
+            "Alexey Chernikov",
+            "Arend M. van der Zande",
+            "Heather M. Hill",
+            "Albert F. Rigosi",
+            "Ajanth Velauthapillai",
+            "James Hone",
+            "Tony F. Heinz"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 400
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1370372"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.92.045414",
+        "title": "Excitons in ultrathin organic-inorganic perovskite crystals",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 313,
+        "authors": "Omer Yaffe, Alexey Chernikov, Zachariah M. Norman et al.",
+        "authors_list": [
+            "Omer Yaffe",
+            "Alexey Chernikov",
+            "Zachariah M. Norman",
+            "Yu Zhong",
+            "Ajanthkrishna Velauthapillai",
+            "Arend van der Zande",
+            "Jonathan S. Owen",
+            "Tony F. Heinz"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 313
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1385960"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1021/acsphotonics.5b00486",
+        "title": "Linearly Polarized Excitons in Single- and Few-Layer ReS<sub>2</sub> Crystals",
+        "journal": "ACS Photonics",
+        "year": 2016,
+        "citations": 276,
+        "authors": "Burak Aslan, Daniel A. Chenet, Arend M. van der Zande et al.",
+        "authors_list": [
+            "Burak Aslan",
+            "Daniel A. Chenet",
+            "Arend M. van der Zande",
+            "James C. Hone",
+            "Tony F. Heinz"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 276
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.117.246802",
+        "title": "Structural Phase Transition and Material Properties of Few-Layer Monochalcogenides",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 111,
+        "authors": "Mehrshad Mehboudi, Benjamin M. Fregoso, Yurong Yang et al.",
+        "authors_list": [
+            "Mehrshad Mehboudi",
+            "Benjamin M. Fregoso",
+            "Yurong Yang",
+            "Wenjuan Zhu",
+            "Arend van der Zande",
+            "Jaime Ferrer",
+            "L. Bellaiche",
+            "Pradeep Kumar",
+            "Salvador Barraza-Lopez"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 111
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevLett.117.246802"
+        }
+    }
+]

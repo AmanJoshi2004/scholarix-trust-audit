@@ -1,0 +1,3837 @@
+[
+    {
+        "doi": "https://doi.org/10.1038/nphys3883",
+        "title": "Direct observation of the skyrmion Hall effect",
+        "journal": "Nature Physics",
+        "year": 2016,
+        "citations": 1262,
+        "authors": "Wanjun Jiang, Xichao Zhang, Guoqiang Yu et al.",
+        "authors_list": [
+            "Wanjun Jiang",
+            "Xichao Zhang",
+            "Guoqiang Yu",
+            "Wei Zhang",
+            "Xiao Wang",
+            "M. Benjamin Jungfleisch",
+            "John E. Pearson",
+            "Xuemei Cheng",
+            "Olle Heinonen",
+            "Kang L. Wang",
+            "Yan Zhou",
+            "Axel Hoffmann",
+            "S. G. E. te Velthuis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1262,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1603.07393"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tmag.2013.2262947",
+        "title": "Spin Hall Effects in Metals",
+        "journal": "IEEE Transactions on Magnetics",
+        "year": 2013,
+        "citations": 1089,
+        "authors": "Axel Hoffmann",
+        "authors_list": [
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1089,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/revmodphys.89.025006",
+        "title": "Interface-induced phenomena in magnetism",
+        "journal": "Reviews of Modern Physics",
+        "year": 2017,
+        "citations": 909,
+        "authors": "F. Hellman, Axel Hoffmann, Yaroslav Tserkovnyak et al.",
+        "authors_list": [
+            "F. Hellman",
+            "Axel Hoffmann",
+            "Yaroslav Tserkovnyak",
+            "Geoffrey S. D. Beach",
+            "Eric E. Fullerton",
+            "Chris Leighton",
+            "A. H. MacDonald",
+            "Daniel C. Ralph",
+            "Darío Arena",
+            "H. A. Dürr",
+            "Peter Fischer",
+            "J. Grollier",
+            "Joseph P. Heremans",
+            "T. Jungwirth",
+            "A. V. Kimel",
+            "B. Koopmans",
+            "I. N. Krivorotov",
+            "Steven J. May",
+            "A. K. Petford‐Long",
+            "James M. Rondinelli",
+            "Nitin Samarth",
+            "Iván K. Schuller",
+            "A. N. Slavin",
+            "M. D. Stiles",
+            "Oleg Tchernyshyov",
+            "A. Thiaville",
+            "Barry Zink"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 909,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/RevModPhys.89.025006"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nl5025535",
+        "title": "Tunable Transport Gap in Phosphorene",
+        "journal": "Nano Letters",
+        "year": 2014,
+        "citations": 749,
+        "authors": "Saptarshi Das, Wei Zhang, M. Demarteau et al.",
+        "authors_list": [
+            "Saptarshi Das",
+            "Wei Zhang",
+            "M. Demarteau",
+            "Axel Hoffmann",
+            "Madan Dubey",
+            "Andreas Roelofs"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 749,
+            "crossref": 717
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1357473"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.104.046601",
+        "title": "Quantifying Spin Hall Angles from Spin Pumping: Experiments and Theory",
+        "journal": "Physical Review Letters",
+        "year": 2010,
+        "citations": 727,
+        "authors": "O. Mosendz, John E. Pearson, F. Y. Fradin et al.",
+        "authors_list": [
+            "O. Mosendz",
+            "John E. Pearson",
+            "F. Y. Fradin",
+            "G. Bauer",
+            "S. D. Bader",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 727,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0911.2725"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.82.214403",
+        "title": "Detection and quantification of inverse spin Hall effect from spin pumping in permalloy/normal metal bilayers",
+        "journal": "Physical Review B",
+        "year": 2010,
+        "citations": 551,
+        "authors": "O. Mosendz, Vincent Vlaminck, John E. Pearson et al.",
+        "authors_list": [
+            "O. Mosendz",
+            "Vincent Vlaminck",
+            "John E. Pearson",
+            "F. Y. Fradin",
+            "G. Bauer",
+            "S. D. Bader",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 551,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevB.82.214403"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41567-018-0062-7",
+        "title": "Spin transport and spin torque in antiferromagnetic devices",
+        "journal": "Nature Physics",
+        "year": 2018,
+        "citations": 474,
+        "authors": "Jakub Železný, P. Wadley, K. Olejník et al.",
+        "authors_list": [
+            "Jakub Železný",
+            "P. Wadley",
+            "K. Olejník",
+            "Axel Hoffmann",
+            "Hideo Ohno"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 474,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://nottingham-repository.worktribe.com/output/917877"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Roadmap of Spin–Orbit Torques",
+        "journal": "DSpace@MIT (Massachusetts Institute of Technology)",
+        "year": 2021,
+        "citations": 439,
+        "authors": "Qiming Shao, Peng Li, Luqiao Liu et al.",
+        "authors_list": [
+            "Qiming Shao",
+            "Peng Li",
+            "Luqiao Liu",
+            "Hyunsoo Yang",
+            "Shunsuke Fukami",
+            "Armin Razavi",
+            "Hao Wu",
+            "Kang Wang",
+            "Frank Freimuth",
+            "Yuriy Mokrousov",
+            "M. D. Stiles",
+            "Satoru Emori",
+            "Axel Hoffmann",
+            "Johan Åkerman",
+            "Kaushik Roy",
+            "Jian‐Ping Wang",
+            "See‐Hun Yang",
+            "Kévin Garello",
+            "Wei Zhang"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 439,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms4727",
+        "title": "Realization of a spin-wave multiplexer",
+        "journal": "Nature Communications",
+        "year": 2014,
+        "citations": 408,
+        "authors": "K. Vogt, F. Y. Fradin, John E. Pearson et al.",
+        "authors_list": [
+            "K. Vogt",
+            "F. Y. Fradin",
+            "John E. Pearson",
+            "Tina Sebastian",
+            "S. D. Bader",
+            "B. Hillebrands",
+            "Axel Hoffmann",
+            "Katrin Schultheiß"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 408,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms4727.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.113.196602",
+        "title": "Spin Hall Effects in Metallic Antiferromagnets",
+        "journal": "Physical Review Letters",
+        "year": 2014,
+        "citations": 395,
+        "authors": "Wei Zhang, M. Benjamin Jungfleisch, Wanjun Jiang et al.",
+        "authors_list": [
+            "Wei Zhang",
+            "M. Benjamin Jungfleisch",
+            "Wanjun Jiang",
+            "John E. Pearson",
+            "Axel Hoffmann",
+            "Frank Freimuth",
+            "Yuriy Mokrousov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 395,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1181195"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevapplied.4.047001",
+        "title": "Opportunities at the Frontiers of Spintronics",
+        "journal": "Physical Review Applied",
+        "year": 2015,
+        "citations": 379,
+        "authors": "Axel Hoffmann, S. D. Bader",
+        "authors_list": [
+            "Axel Hoffmann",
+            "S. D. Bader"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 379,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1237926"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.116.097204",
+        "title": "Antiferromagnetic Spin Seebeck Effect",
+        "journal": "Physical Review Letters",
+        "year": 2016,
+        "citations": 344,
+        "authors": "Stephen M. Wu, Wei Zhang, Amit Kc et al.",
+        "authors_list": [
+            "Stephen M. Wu",
+            "Wei Zhang",
+            "Amit Kc",
+            "Pavel Borisov",
+            "John E. Pearson",
+            "J. S. Jiang",
+            "David Lederman",
+            "Axel Hoffmann",
+            "Anand Bhattacharya"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 344,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1509.00439"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/lmag.2014.2350958",
+        "title": "Nanometer-Thick Yttrium Iron Garnet Films With Extremely Low Damping",
+        "journal": "IEEE Magnetics Letters",
+        "year": 2014,
+        "citations": 331,
+        "authors": "Houchen Chang, Peng Li, Wei Zhang et al.",
+        "authors_list": [
+            "Houchen Chang",
+            "Peng Li",
+            "Wei Zhang",
+            "Tao Liu",
+            "Axel Hoffmann",
+            "Longjiang Deng",
+            "Mingzhong Wu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 331,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.physleta.2018.01.008",
+        "title": "Perspectives of antiferromagnetic spintronics",
+        "journal": "Physics Letters A",
+        "year": 2018,
+        "citations": 301,
+        "authors": "M. Benjamin Jungfleisch, Wei Zhang, Axel Hoffmann",
+        "authors_list": [
+            "M. Benjamin Jungfleisch",
+            "Wei Zhang",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 301,
+            "crossref": 284
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1548793"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.95.057204",
+        "title": "Origin of the Asymmetric Magnetization Reversal Behavior in Exchange-Biased Systems: Competing Anisotropies",
+        "journal": "Physical Review Letters",
+        "year": 2005,
+        "citations": 286,
+        "authors": "J. Julio Camarero, Jordi Sort, Axel Hoffmann et al.",
+        "authors_list": [
+            "J. Julio Camarero",
+            "Jordi Sort",
+            "Axel Hoffmann",
+            "José Miguel García‐Martín",
+            "B. Diény",
+            "Rodolfo Miranda",
+            "J. Nogués"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 286,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ddd.uab.cat/record/114364"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4759039",
+        "title": "Growth and ferromagnetic resonance properties of nanometer-thick yttrium iron garnet films",
+        "journal": "Applied Physics Letters",
+        "year": 2012,
+        "citations": 284,
+        "authors": "Yiyan Sun, Young‐Yeal Song, Houchen Chang et al.",
+        "authors_list": [
+            "Yiyan Sun",
+            "Young‐Yeal Song",
+            "Houchen Chang",
+            "Michael Kabatek",
+            "Michael Jantz",
+            "W. R. Schneider",
+            "Mingzhong Wu",
+            "Helmut Schultheiß",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 284,
+            "crossref": 242
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.93.097203",
+        "title": "Symmetry Driven Irreversibilities at Ferromagnetic-Antiferromagnetic Interfaces",
+        "journal": "Physical Review Letters",
+        "year": 2004,
+        "citations": 277,
+        "authors": "Axel Hoffmann",
+        "authors_list": [
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 277,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.111.106601",
+        "title": "Damping in Yttrium Iron Garnet Nanoscale Films Capped by Platinum",
+        "journal": "Physical Review Letters",
+        "year": 2013,
+        "citations": 272,
+        "authors": "Yiyan Sun, Houchen Chang, Michael Kabatek et al.",
+        "authors_list": [
+            "Yiyan Sun",
+            "Houchen Chang",
+            "Michael Kabatek",
+            "Young‐Yeal Song",
+            "Zihui Wang",
+            "Michael Jantz",
+            "W. R. Schneider",
+            "Mingzhong Wu",
+            "Eric Montoya",
+            "B. Kardasz",
+            "B. Heinrich",
+            "S. G. E. te Velthuis",
+            "Helmut Schultheiß",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 272,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "Skyrmions in magnetic multilayers",
+        "journal": "eScholarship (California Digital Library)",
+        "year": 2017,
+        "citations": 240,
+        "authors": "Wanjun Jiang, Gong Chen, Kai Liu et al.",
+        "authors_list": [
+            "Wanjun Jiang",
+            "Gong Chen",
+            "Kai Liu",
+            "Jiadong Zang",
+            "te Velthuis, Suzanne G.E.",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 240,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1801687",
+        "title": "Biological sensors based on Brownian relaxation of magnetic nanoparticles",
+        "journal": "Applied Physics Letters",
+        "year": 2004,
+        "citations": 237,
+        "authors": "Seok-Hwan Chung, Axel Hoffmann, S. D. Bader et al.",
+        "authors_list": [
+            "Seok-Hwan Chung",
+            "Axel Hoffmann",
+            "S. D. Bader",
+            "C. Liu",
+            "Brian K. Kay",
+            "Lee Makowski",
+            "L. Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 237,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.123.107701",
+        "title": "Strong Coupling between Magnons and Microwave Photons in On-Chip Ferromagnet-Superconductor Thin-Film Devices",
+        "journal": "Physical Review Letters",
+        "year": 2019,
+        "citations": 227,
+        "authors": "Yi Li, Tomas Polakovic, Yong-Lei Wang et al.",
+        "authors_list": [
+            "Yi Li",
+            "Tomas Polakovic",
+            "Yong-Lei Wang",
+            "Jing Xu",
+            "Sergi Lendínez",
+            "Zhizhi Zhang",
+            "J. Ding",
+            "Trupti Khaire",
+            "Hilal Saglam",
+            "Ralu Divan",
+            "John E. Pearson",
+            "W. K. Kwok",
+            "Zhili Xiao",
+            "V. Novosad",
+            "Axel Hoffmann",
+            "Wei Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 227,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1902.09715"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1467-7652.2004.00100.x",
+        "title": "Targeted knockouts of <i>Physcomitrella</i> lacking plant‐specific immunogenic <i>N</i>‐glycans",
+        "journal": "Plant Biotechnology Journal",
+        "year": 2004,
+        "citations": 224,
+        "authors": "Anna Kopřivová, Christian Stemmer, Friedrich Altmann et al.",
+        "authors_list": [
+            "Anna Kopřivová",
+            "Christian Stemmer",
+            "Friedrich Altmann",
+            "Axel Hoffmann",
+            "Stanislav Kopřiva",
+            "Gilbert Gorr",
+            "Ralf Reski",
+            "Eva L. Decker"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 224,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jmmm.2008.06.013",
+        "title": "Superconducting vortex pinning with artificial magnetic nanostructures",
+        "journal": "Journal of Magnetism and Magnetic Materials",
+        "year": 2008,
+        "citations": 213,
+        "authors": "M. Vélez, J. I. Martı́n, Javier E. Villegas et al.",
+        "authors_list": [
+            "M. Vélez",
+            "J. I. Martı́n",
+            "Javier E. Villegas",
+            "Axel Hoffmann",
+            "E. M. González",
+            "J. L. Vicent",
+            "Iván K. Schuller"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 213,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://hdl.handle.net/10651/10766"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.83.1022",
+        "title": "Artificially Induced Reconfiguration of the Vortex Lattice by Arrays of Magnetic Dots",
+        "journal": "Physical Review Letters",
+        "year": 1999,
+        "citations": 211,
+        "authors": "J. I. Martı́n, M. Vélez, Axel Hoffmann et al.",
+        "authors_list": [
+            "J. I. Martı́n",
+            "M. Vélez",
+            "Axel Hoffmann",
+            "Iván K. Schuller",
+            "J. L. Vicent"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 211,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.94.057002",
+        "title": "Giant Magnetoresistance in Ferromagnet/Superconductor Superlattices",
+        "journal": "Physical Review Letters",
+        "year": 2005,
+        "citations": 206,
+        "authors": "V. Peña, Z. Sefrioui, D. Arias et al.",
+        "authors_list": [
+            "V. Peña",
+            "Z. Sefrioui",
+            "D. Arias",
+            "C. León",
+            "J. Santamarı́a",
+            "J. L. Martı́nez",
+            "S. G. E. te Velthuis",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 206,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://eprints.ucm.es/id/eprint/30634/1/LeonC68libre.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.120.207207",
+        "title": "Control of Terahertz Emission by Ultrafast Spin-Charge Current Conversion at Rashba Interfaces",
+        "journal": "Physical Review Letters",
+        "year": 2018,
+        "citations": 192,
+        "authors": "M. Benjamin Jungfleisch, Qi Zhang, Wei Zhang et al.",
+        "authors_list": [
+            "M. Benjamin Jungfleisch",
+            "Qi Zhang",
+            "Wei Zhang",
+            "John E. Pearson",
+            "Richard D. Schaller",
+            "Haidan Wen",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 192,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1437690"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4848102",
+        "title": "Determination of the Pt spin diffusion length by spin-pumping and spin Hall effect",
+        "journal": "Applied Physics Letters",
+        "year": 2013,
+        "citations": 183,
+        "authors": "Wei Zhang, Vincent Vlaminck, John E. Pearson et al.",
+        "authors_list": [
+            "Wei Zhang",
+            "Vincent Vlaminck",
+            "John E. Pearson",
+            "Ralu Divan",
+            "S. D. Bader",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 183,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4852135",
+        "title": "Ferromagnetic resonance of sputtered yttrium iron garnet nanometer films",
+        "journal": "Journal of Applied Physics",
+        "year": 2014,
+        "citations": 172,
+        "authors": "Tao Liu, Houchen Chang, Vincent Vlaminck et al.",
+        "authors_list": [
+            "Tao Liu",
+            "Houchen Chang",
+            "Vincent Vlaminck",
+            "Yiyan Sun",
+            "Michael Kabatek",
+            "Axel Hoffmann",
+            "Longjiang Deng",
+            "Mingzhong Wu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 172,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jmmm.2003.09.046",
+        "title": "Neutron scattering studies of nanomagnetism and artificially structured materials",
+        "journal": "Journal of Magnetism and Magnetic Materials",
+        "year": 2003,
+        "citations": 162,
+        "authors": "M. R. Fitzsimmons, S. D. Bader, J. A. Borchers et al.",
+        "authors_list": [
+            "M. R. Fitzsimmons",
+            "S. D. Bader",
+            "J. A. Borchers",
+            "G. P. Felcher",
+            "J. K. Furdyna",
+            "Axel Hoffmann",
+            "Jeffrey B. Kortright",
+            "Iván K. Schuller",
+            "T. C. Schulthess",
+            "S. K. Sinha",
+            "Michael F. Toney",
+            "D. Weller",
+            "Stefan Wolf"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 162,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://digital.library.unt.edu/ark:/67531/metadc786991/m2/1/high_res_d/823210.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/app.1994.070541203",
+        "title": "Influence of water uptake on the mechanical properties of jute fiber‐reinforced polypropylene",
+        "journal": "Journal of Applied Polymer Science",
+        "year": 1994,
+        "citations": 161,
+        "authors": "A. C. Karmaker, Axel Hoffmann, G. Hinrichsen",
+        "authors_list": [
+            "A. C. Karmaker",
+            "Axel Hoffmann",
+            "G. Hinrichsen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 161,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4738887",
+        "title": "Spin waves turning a corner",
+        "journal": "Applied Physics Letters",
+        "year": 2012,
+        "citations": 152,
+        "authors": "K. Vogt, Katrin Schultheiß, S. Jain et al.",
+        "authors_list": [
+            "K. Vogt",
+            "Katrin Schultheiß",
+            "S. Jain",
+            "John E. Pearson",
+            "Axel Hoffmann",
+            "S. D. Bader",
+            "B. Hillebrands"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 152,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.aip.org/aip/apl/article-pdf/doi/10.1063/1.4738887/14261403/042410_1_online.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tqe.2021.3057799",
+        "title": "Quantum Engineering With Hybrid Magnonic Systems and Materials <i>(Invited Paper)</i>",
+        "journal": "IEEE Transactions on Quantum Engineering",
+        "year": 2021,
+        "citations": 153,
+        "authors": "D. D. Awschalom, Chunhui Du, Rui He et al.",
+        "authors_list": [
+            "D. D. Awschalom",
+            "Chunhui Du",
+            "Rui He",
+            "F. Joseph Heremans",
+            "Axel Hoffmann",
+            "Justin T. Hou",
+            "H. Kurebayashi",
+            "Yi Li",
+            "Luqiao Liu",
+            "V. Novosad",
+            "Joseph Sklenar",
+            "Sean E. Sullivan",
+            "Dali Sun",
+            "Hong X. Tang",
+            "Vasyl Tyberkevych",
+            "Cody Trevillian",
+            "Adam W. Tsen",
+            "Leah R. Weiss",
+            "Wei Zhang",
+            "Xu‐Feng Zhang",
+            "Liuyan Zhao",
+            "Ch. W. Zollitsch"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 151,
+            "crossref": 153
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ieeexplore.ieee.org/ielx7/8924785/9347847/09350187.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1841455",
+        "title": "Spin injection, diffusion, and detection in lateral spin-valves",
+        "journal": "Applied Physics Letters",
+        "year": 2004,
+        "citations": 140,
+        "authors": "Yi Ji, Axel Hoffmann, J. S. Jiang et al.",
+        "authors_list": [
+            "Yi Ji",
+            "Axel Hoffmann",
+            "J. S. Jiang",
+            "S. D. Bader"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 140,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.61.6958",
+        "title": "Periodic vortex pinning with magnetic and nonmagnetic dots: The influence of size",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 2000,
+        "citations": 134,
+        "authors": "Axel Hoffmann, P. Prieto, Iván K. Schuller",
+        "authors_list": [
+            "Axel Hoffmann",
+            "P. Prieto",
+            "Iván K. Schuller"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 134,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.86.4394",
+        "title": "Two-Stage Magnetization Reversal in Exchange Biased Bilayers",
+        "journal": "Physical Review Letters",
+        "year": 2001,
+        "citations": 132,
+        "authors": "Chris Leighton, M. R. Fitzsimmons, P. Yashar et al.",
+        "authors_list": [
+            "Chris Leighton",
+            "M. R. Fitzsimmons",
+            "P. Yashar",
+            "Axel Hoffmann",
+            "J. Nogués",
+            "Joseph A. Dura",
+            "C. F. Majkrzak",
+            "Iván K. Schuller"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 132,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevLett.86.4394"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.111.217602",
+        "title": "Universal Method for Separating Spin Pumping from Spin Rectification Voltage of Ferromagnetic Resonance",
+        "journal": "Physical Review Letters",
+        "year": 2013,
+        "citations": 132,
+        "authors": "Lihui Bai, Paul Hyde, Y. S. Gui et al.",
+        "authors_list": [
+            "Lihui Bai",
+            "Paul Hyde",
+            "Y. S. Gui",
+            "C.‐M. Hu",
+            "Vincent Vlaminck",
+            "John E. Pearson",
+            "S. D. Bader",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 132,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1308.4041"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.88.064414",
+        "title": "Dependence of spin-pumping spin Hall effect measurements on layer thicknesses and stacking order",
+        "journal": "Physical Review B",
+        "year": 2013,
+        "citations": 128,
+        "authors": "Vincent Vlaminck, John E. Pearson, S. D. Bader et al.",
+        "authors_list": [
+            "Vincent Vlaminck",
+            "John E. Pearson",
+            "S. D. Bader",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1305.0745"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.92.144405",
+        "title": "All-electrical manipulation of magnetization dynamics in a ferromagnet by antiferromagnets with anisotropic spin Hall effects",
+        "journal": "Physical Review B",
+        "year": 2015,
+        "citations": 122,
+        "authors": "Wei Zhang, M. Benjamin Jungfleisch, Frank Freimuth et al.",
+        "authors_list": [
+            "Wei Zhang",
+            "M. Benjamin Jungfleisch",
+            "Frank Freimuth",
+            "Wanjun Jiang",
+            "Joseph Sklenar",
+            "John E. Pearson",
+            "J. B. Ketterson",
+            "Yuriy Mokrousov",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 122,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1508.07906"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.80.014415",
+        "title": "Emergence of noncollinear anisotropies from interfacial magnetic frustration in exchange-bias systems",
+        "journal": "Physical Review B",
+        "year": 2009,
+        "citations": 121,
+        "authors": "E. Jiménez, J. Julio Camarero, Jordi Sort et al.",
+        "authors_list": [
+            "E. Jiménez",
+            "J. Julio Camarero",
+            "Jordi Sort",
+            "J. Nogués",
+            "N. Mikuszeit",
+            "José Miguel García‐Martín",
+            "Axel Hoffmann",
+            "B. Diény",
+            "Rodolfo Miranda"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 121,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevB.80.014415"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.124.117202",
+        "title": "Coherent Spin Pumping in a Strongly Coupled Magnon-Magnon Hybrid System",
+        "journal": "Physical Review Letters",
+        "year": 2020,
+        "citations": 118,
+        "authors": "Yi Li, Wei Cao, Vivek Amin et al.",
+        "authors_list": [
+            "Yi Li",
+            "Wei Cao",
+            "Vivek Amin",
+            "Zhizhi Zhang",
+            "Jonathan Gibbons",
+            "Joseph Sklenar",
+            "John E. Pearson",
+            "Paul M. Haney",
+            "M. D. Stiles",
+            "W. E. Bailey",
+            "V. Novosad",
+            "Axel Hoffmann",
+            "Wei Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1910.14470"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4915479",
+        "title": "Spin pumping and inverse Rashba-Edelstein effect in NiFe/Ag/Bi and NiFe/Ag/Sb",
+        "journal": "Journal of Applied Physics",
+        "year": 2015,
+        "citations": 115,
+        "authors": "Wei Zhang, M. Benjamin Jungfleisch, Wanjun Jiang et al.",
+        "authors_list": [
+            "Wei Zhang",
+            "M. Benjamin Jungfleisch",
+            "Wanjun Jiang",
+            "John E. Pearson",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 115,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1357023"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.65.064403",
+        "title": "Thickness-dependent coercive mechanisms in exchange-biased bilayers",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 2002,
+        "citations": 112,
+        "authors": "Chris Leighton, M. R. Fitzsimmons, Axel Hoffmann et al.",
+        "authors_list": [
+            "Chris Leighton",
+            "M. R. Fitzsimmons",
+            "Axel Hoffmann",
+            "Joseph A. Dura",
+            "C. F. Majkrzak",
+            "M. S. Lund",
+            "Iván K. Schuller"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 112,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.122.117203",
+        "title": "Giant Anisotropy of Gilbert Damping in Epitaxial CoFe Films",
+        "journal": "Physical Review Letters",
+        "year": 2019,
+        "citations": 111,
+        "authors": "Yi Li, Fanlong Zeng, Steven S.-L. Zhang et al.",
+        "authors_list": [
+            "Yi Li",
+            "Fanlong Zeng",
+            "Steven S.-L. Zhang",
+            "Hyeondeok Shin",
+            "Hilal Saglam",
+            "Vedat Karakaş",
+            "O. Ozatay",
+            "John E. Pearson",
+            "Olle Heinonen",
+            "Yizheng Wu",
+            "Axel Hoffmann",
+            "Wei Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 111,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1901.01941"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms12688",
+        "title": "Spin–orbit torque-assisted switching in magnetic insulator thin films with perpendicular magnetic anisotropy",
+        "journal": "Nature Communications",
+        "year": 2016,
+        "citations": 111,
+        "authors": "Peng Li, Tao Liu, Houchen Chang et al.",
+        "authors_list": [
+            "Peng Li",
+            "Tao Liu",
+            "Houchen Chang",
+            "Alan Kalitsov",
+            "Wei Zhang",
+            "György Csaba",
+            "Wei Li",
+            "Daniel Richardson",
+            "August DeMann",
+            "Gaurab Rimal",
+            "Himadri Dey",
+            "J. S. Jiang",
+            "Wolfgang Porod",
+            "Stuart B. Field",
+            "Jinke Tang",
+            "M. C. Marconi",
+            "Axel Hoffmann",
+            "O. N. Mryasov",
+            "Mingzhong Wu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 111,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms12688.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.93.100401",
+        "title": "Dynamic response of an artificial square spin ice",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2016,
+        "citations": 101,
+        "authors": "M. Benjamin Jungfleisch, Wenli Zhang, Ezio Iacocca et al.",
+        "authors_list": [
+            "M. Benjamin Jungfleisch",
+            "Wenli Zhang",
+            "Ezio Iacocca",
+            "Joseph Sklenar",
+            "J. Ding",
+            "Wanjun Jiang",
+            "S. Zhang",
+            "John E. Pearson",
+            "V. Novosad",
+            "J. B. Ketterson",
+            "Olle Heinonen",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 101,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevB.93.100401"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1853694",
+        "title": "Biological sensing with magnetic nanoparticles using Brownian relaxation (invited)",
+        "journal": "Journal of Applied Physics",
+        "year": 2005,
+        "citations": 97,
+        "authors": "S.H. Chung, Axel Hoffmann, K. Y. Guslienko et al.",
+        "authors_list": [
+            "S.H. Chung",
+            "Axel Hoffmann",
+            "K. Y. Guslienko",
+            "S. D. Bader",
+            "C. Liu",
+            "Brian K. Kay",
+            "Lee Makowski",
+            "L. Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.aip.org/aip/jap/article-pdf/doi/10.1063/1.1853694/14952509/10r101_1_online.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4943076",
+        "title": "Research Update: Spin transfer torques in permalloy on monolayer MoS2",
+        "journal": "APL Materials",
+        "year": 2016,
+        "citations": 97,
+        "authors": "Wei Zhang, Joseph Sklenar, Bo Hsu et al.",
+        "authors_list": [
+            "Wei Zhang",
+            "Joseph Sklenar",
+            "Bo Hsu",
+            "Wanjun Jiang",
+            "M. Benjamin Jungfleisch",
+            "Jiao Xiao",
+            "F. Y. Fradin",
+            "Yaohua Liu",
+            "John E. Pearson",
+            "J. B. Ketterson",
+            "Zheng Yang",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aip.scitation.org/doi/pdf/10.1063/1.4943076"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.91.115316",
+        "title": "Reduced spin-Hall effects from magnetic proximity",
+        "journal": "Physical Review B",
+        "year": 2015,
+        "citations": 97,
+        "authors": "Wei Zhang, M. Benjamin Jungfleisch, Wanjun Jiang et al.",
+        "authors_list": [
+            "Wei Zhang",
+            "M. Benjamin Jungfleisch",
+            "Wanjun Jiang",
+            "Yaohua Liu",
+            "John E. Pearson",
+            "S. G. E. te Velthuis",
+            "Axel Hoffmann",
+            "Frank Freimuth",
+            "Yuriy Mokrousov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1357481"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.72.140407",
+        "title": "Suppressed magnetization in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mi>La</mml:mi><mml:mn>0.7</mml:mn></mml:msub><mml:msub><mml:mi>Ca</mml:mi><mml:mn>0.3</mml:mn></mml:msub><mml:msub><mml:mi>MnO</mml:mi><mml:mn>3</mml:mn></mml:msub><mml:mo>∕</mml:mo><mml:msub><mml:mi>YBa</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi>Cu</mml:mi><mml:mn>3</mml:mn></mml:msub><mml:msub><mml:mi mathvariant=\"normal\">O</mml:mi><mml:mrow><mml:mn>7</mml:mn><mml:mo>−</mml:mo><mml:mi>δ</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math>superlattices",
+        "journal": "Physical Review B",
+        "year": 2005,
+        "citations": 96,
+        "authors": "Axel Hoffmann, S. G. E. te Velthuis, Z. Sefrioui et al.",
+        "authors_list": [
+            "Axel Hoffmann",
+            "S. G. E. te Velthuis",
+            "Z. Sefrioui",
+            "J. Santamarı́a",
+            "M. R. Fitzsimmons",
+            "Sungkyun Park",
+            "M. Varela"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0507123"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/5.0047054",
+        "title": "Advances in coherent coupling between magnons and acoustic phonons",
+        "journal": "APL Materials",
+        "year": 2021,
+        "citations": 95,
+        "authors": "Yi Li, Chenbo Zhao, Wei Zhang et al.",
+        "authors_list": [
+            "Yi Li",
+            "Chenbo Zhao",
+            "Wei Zhang",
+            "Axel Hoffmann",
+            "V. Novosad"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1063/5.0047054"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.103.166601",
+        "title": "Negative Nonlocal Resistance in Mesoscopic Gold Hall Bars: Absence of the Giant Spin Hall Effect",
+        "journal": "Physical Review Letters",
+        "year": 2009,
+        "citations": 94,
+        "authors": "G. Mihajlović, John E. Pearson, M. A. Garcı̀a et al.",
+        "authors_list": [
+            "G. Mihajlović",
+            "John E. Pearson",
+            "M. A. Garcı̀a",
+            "S. D. Bader",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 94,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0902.3686"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/sciadv.aaw3415",
+        "title": "Magnetization switching using topological surface states",
+        "journal": "Science Advances",
+        "year": 2019,
+        "citations": 93,
+        "authors": "Peng Li, James Kally, Steven S.-L. Zhang et al.",
+        "authors_list": [
+            "Peng Li",
+            "James Kally",
+            "Steven S.-L. Zhang",
+            "Timothy Pillsbury",
+            "Jinjun Ding",
+            "György Csaba",
+            "J. Ding",
+            "J. S. Jiang",
+            "Yunzhi Liu",
+            "Robert Sinclair",
+            "Chong Bi",
+            "August DeMann",
+            "Gaurab Rimal",
+            "Wei Zhang",
+            "Stuart B. Field",
+            "Jinke Tang",
+            "Weigang Wang",
+            "Olle Heinonen",
+            "V. Novosad",
+            "Axel Hoffmann",
+            "Nitin Samarth",
+            "Mingzhong Wu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 93,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://advances.sciencemag.org/content/advances/5/8/eaaw3415.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.90.257201",
+        "title": "Exchange-Induced Anisotropies at Ferromagnetic-Antiferromagnetic Interfaces above and below the Néel Temperature",
+        "journal": "Physical Review Letters",
+        "year": 2003,
+        "citations": 91,
+        "authors": "M. Grimsditch, Axel Hoffmann, P. Vavassori et al.",
+        "authors_list": [
+            "M. Grimsditch",
+            "Axel Hoffmann",
+            "P. Vavassori",
+            "Hongtao Shi",
+            "David Lederman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 91,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/5.0009445",
+        "title": "Metallic antiferromagnets",
+        "journal": "Journal of Applied Physics",
+        "year": 2020,
+        "citations": 89,
+        "authors": "Saima A. Siddiqui, Joseph Sklenar, Kisung Kang et al.",
+        "authors_list": [
+            "Saima A. Siddiqui",
+            "Joseph Sklenar",
+            "Kisung Kang",
+            "Matthew J. Gilbert",
+            "André Schleife",
+            "Nadya Mason",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aip.scitation.org/doi/pdf/10.1063/5.0009445"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jmmm.2006.06.033",
+        "title": "Advances in nanomagnetism via X-ray techniques",
+        "journal": "Journal of Magnetism and Magnetic Materials",
+        "year": 2006,
+        "citations": 87,
+        "authors": "G. Srajer, L. H. Lewis, S. D. Bader et al.",
+        "authors_list": [
+            "G. Srajer",
+            "L. H. Lewis",
+            "S. D. Bader",
+            "A. J. Epstein",
+            "C. S. Fadley",
+            "Eric E. Fullerton",
+            "Axel Hoffmann",
+            "Jeffrey B. Kortright",
+            "Kannan M. Krishnan",
+            "Sara A. Majetich",
+            "Talat S. Rahman",
+            "C. A. Ross",
+            "M. B. Salamon",
+            "Iván K. Schuller",
+            "T. C. Schulthess",
+            "J. Z. Sun"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.124.087204",
+        "title": "Magnetic Damping Modulation in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mrow><mml:mi>IrMn</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msub><mml:mo>/</mml:mo><mml:msub><mml:mrow><mml:mi>Ni</mml:mi></mml:mrow><mml:mrow><mml:mn>80</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>Fe</mml:mi></mml:mrow><mml:mrow><mml:mn>20</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math> via the Magnetic Spin Hall Effect",
+        "journal": "Physical Review Letters",
+        "year": 2020,
+        "citations": 84,
+        "authors": "José Holanda, Hilal Saglam, Vedat Karakaş et al.",
+        "authors_list": [
+            "José Holanda",
+            "Hilal Saglam",
+            "Vedat Karakaş",
+            "Zhizhi Zang",
+            "Yi Li",
+            "Ralu Divan",
+            "Yuzi Liu",
+            "O. Ozatay",
+            "V. Novosad",
+            "John E. Pearson",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1911.00943"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.67.220406",
+        "title": "Tailoring the exchange bias via shape anisotropy in ferromagnetic/antiferromagnetic exchange-coupled systems",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 2003,
+        "citations": 84,
+        "authors": "Axel Hoffmann, M. Grimsditch, John E. Pearson et al.",
+        "authors_list": [
+            "Axel Hoffmann",
+            "M. Grimsditch",
+            "John E. Pearson",
+            "J. Nogués",
+            "W. A. A. Macedo",
+            "Iván K. Schuller"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.93.224419",
+        "title": "Interface-driven spin-torque ferromagnetic resonance by Rashba coupling at the interface between nonmagnetic materials",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2016,
+        "citations": 84,
+        "authors": "M. Benjamin Jungfleisch, Wenli Zhang, Joseph Sklenar et al.",
+        "authors_list": [
+            "M. Benjamin Jungfleisch",
+            "Wenli Zhang",
+            "Joseph Sklenar",
+            "Wanjun Jiang",
+            "John E. Pearson",
+            "J. B. Ketterson",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1508.01410"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.2170138",
+        "title": "Enhanced spin injection polarization in Co∕Cu∕Co nonlocal lateral spin valves",
+        "journal": "Applied Physics Letters",
+        "year": 2006,
+        "citations": 83,
+        "authors": "Yi Ji, Axel Hoffmann, John E. Pearson et al.",
+        "authors_list": [
+            "Yi Ji",
+            "Axel Hoffmann",
+            "John E. Pearson",
+            "S. D. Bader"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 83,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.71.214430",
+        "title": "Interplay between exchange bias and uniaxial anisotropy in a ferromagnetic/antiferromagnetic exchange-coupled system",
+        "journal": "Physical Review B",
+        "year": 2005,
+        "citations": 81,
+        "authors": "S.H. Chung, Axel Hoffmann, M. Grimsditch",
+        "authors_list": [
+            "S.H. Chung",
+            "Axel Hoffmann",
+            "M. Grimsditch"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.368042",
+        "title": "Fabrication of submicrometric magnetic structures by electron-beam lithography",
+        "journal": "Journal of Applied Physics",
+        "year": 1998,
+        "citations": 80,
+        "authors": "J. I. Martı́n, Y. Jaccard, Axel Hoffmann et al.",
+        "authors_list": [
+            "J. I. Martı́n",
+            "Y. Jaccard",
+            "Axel Hoffmann",
+            "J. Nogués",
+            "J.-M. George",
+            "J. L. Vicent",
+            "Iván K. Schuller"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.62.9110",
+        "title": "Temperature dependence and mechanisms of vortex pinning by periodic arrays of Ni dots in Nb films",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 2000,
+        "citations": 80,
+        "authors": "J. I. Martı́n, M. Vélez, Axel Hoffmann et al.",
+        "authors_list": [
+            "J. I. Martı́n",
+            "M. Vélez",
+            "Axel Hoffmann",
+            "Iván K. Schuller",
+            "J. L. Vicent"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0009257"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.125.097201",
+        "title": "Intrinsic Mechanism for Anisotropic Magnetoresistance and Experimental Confirmation in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>Co</mml:mi></mml:mrow><mml:mrow><mml:mi>x</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>Fe</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:mi>x</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mrow></mml:math> Single-Crystal Films",
+        "journal": "Physical Review Letters",
+        "year": 2020,
+        "citations": 80,
+        "authors": "Fanlong Zeng, Z. Y. Ren, Y. Li et al.",
+        "authors_list": [
+            "Fanlong Zeng",
+            "Z. Y. Ren",
+            "Y. Li",
+            "Jiang Zeng",
+            "Mengwen Jia",
+            "Jun Miao",
+            "Axel Hoffmann",
+            "Wenli Zhang",
+            "Yizheng Wu",
+            "Zhe Yuan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevLett.125.097201"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.116703",
+        "title": "Dynamics of bound-exciton luminescences from epitaxial GaN",
+        "journal": "Applied Physics Letters",
+        "year": 1996,
+        "citations": 78,
+        "authors": "L. Eckey, J.-Ch. Holst, Peter E. Maxim et al.",
+        "authors_list": [
+            "L. Eckey",
+            "J.-Ch. Holst",
+            "Peter E. Maxim",
+            "R. Heitz",
+            "Axel Hoffmann",
+            "I. Broser",
+            "Bernhard Meyer",
+            "Christian Wetzel",
+            "E. N. Mokhov",
+            "P. G. Baranov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.116.057601",
+        "title": "Large Spin-Wave Bullet in a Ferrimagnetic Insulator Driven by the Spin Hall Effect",
+        "journal": "Physical Review Letters",
+        "year": 2016,
+        "citations": 77,
+        "authors": "M. Benjamin Jungfleisch, Wenli Zhang, Joseph Sklenar et al.",
+        "authors_list": [
+            "M. Benjamin Jungfleisch",
+            "Wenli Zhang",
+            "Joseph Sklenar",
+            "J. Ding",
+            "Wanjun Jiang",
+            "Houchen Chang",
+            "F. Y. Fradin",
+            "John E. Pearson",
+            "J. B. Ketterson",
+            "V. Novosad",
+            "Mingzhong Wu",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1508.01427"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/5.0094205",
+        "title": "Quantum materials for energy-efficient neuromorphic computing: Opportunities and challenges",
+        "journal": "APL Materials",
+        "year": 2022,
+        "citations": 74,
+        "authors": "Axel Hoffmann, Shriram Ramanathan, Julie Grollier et al.",
+        "authors_list": [
+            "Axel Hoffmann",
+            "Shriram Ramanathan",
+            "Julie Grollier",
+            "Andrew D. Kent",
+            "M. J. Rozenberg",
+            "Iván K. Schuller",
+            "Oleg Shpyrko",
+            "R. C. Dynes",
+            "Yeshaiahu Fainman",
+            "Alex Frañó",
+            "Eric E. Fullerton",
+            "Giulia Galli",
+            "Vitaliy Lomakin",
+            "Shyue Ping Ong",
+            "A. K. Petford‐Long",
+            "J. A. Schuller",
+            "M. D. Stiles",
+            "Yayoi Takamura",
+            "Yimei Zhu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aip.scitation.org/doi/pdf/10.1063/5.0094205"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41563-024-01838-8",
+        "title": "Inverse chirality-induced spin selectivity effect in chiral assemblies of π-conjugated polymers",
+        "journal": "Nature Materials",
+        "year": 2024,
+        "citations": 70,
+        "authors": "Rui Sun, Kyung Sun Park, Andrew H. Comstock et al.",
+        "authors_list": [
+            "Rui Sun",
+            "Kyung Sun Park",
+            "Andrew H. Comstock",
+            "Aeron McConnell",
+            "Yen-Chi Chen",
+            "Peng Zhang",
+            "David N. Beratan",
+            "Wei You",
+            "Axel Hoffmann",
+            "Zhi Yu",
+            "Ying Diao",
+            "Dali Sun"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/2349518"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1046/j.1365-2818.2000.00698.x",
+        "title": "Micromanipulation by laser microbeam and optical tweezers: from plant cells to single molecules",
+        "journal": "Journal of Microscopy",
+        "year": 2000,
+        "citations": 67,
+        "authors": "Karl Otto Greulich, G. Pilarczyk, Axel Hoffmann et al.",
+        "authors_list": [
+            "Karl Otto Greulich",
+            "G. Pilarczyk",
+            "Axel Hoffmann",
+            "Gerd Meyer zu Hörste",
+            "Bürk Schäfer",
+            "Volker Uhl",
+            "Shamci Monajembashi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.65.134436",
+        "title": "Influence of in-plane crystalline quality of an antiferromagnet on perpendicular exchange coupling and exchange bias",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 2002,
+        "citations": 66,
+        "authors": "M. R. Fitzsimmons, C. Leighton, J. Nogués et al.",
+        "authors_list": [
+            "M. R. Fitzsimmons",
+            "C. Leighton",
+            "J. Nogués",
+            "Axel Hoffmann",
+            "Kai Liu",
+            "C. F. Majkrzak",
+            "Joseph A. Dura",
+            "J. R. Groves",
+            "R. W. Springer",
+            "P. N. Arendt",
+            "V. Leiner",
+            "Valeria Lauter",
+            "Iván K. Schuller"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://escholarship.org/content/qt5nc7n4gj/qt5nc7n4gj.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.95.067201",
+        "title": "Magnetization Reversal in Submicron Disks: Exchange Biased Vortices",
+        "journal": "Physical Review Letters",
+        "year": 2005,
+        "citations": 66,
+        "authors": "Jordi Sort, Axel Hoffmann, S.H. Chung et al.",
+        "authors_list": [
+            "Jordi Sort",
+            "Axel Hoffmann",
+            "S.H. Chung",
+            "Kristen Buchanan",
+            "M. Grimsditch",
+            "M.D. Baró",
+            "B. Diény",
+            "J. Nogués"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ddd.uab.cat/record/114352"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.81.241309",
+        "title": "Exciton fine-structure splitting in GaN/AlN quantum dots",
+        "journal": "Physical Review B",
+        "year": 2010,
+        "citations": 65,
+        "authors": "Christian Kindel, Satoshi Kako, Takeshi Kawano et al.",
+        "authors_list": [
+            "Christian Kindel",
+            "Satoshi Kako",
+            "Takeshi Kawano",
+            "H. Oishi",
+            "Yasuhiko Arakawa",
+            "Gerald Hönig",
+            "M. Winkelnkemper",
+            "A. Schliwa",
+            "Axel Hoffmann",
+            "D. Bimberg"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.92.174406",
+        "title": "Driving and detecting ferromagnetic resonance in insulators with the spin Hall effect",
+        "journal": "Physical Review B",
+        "year": 2015,
+        "citations": 64,
+        "authors": "Joseph Sklenar, Wei Zhang, M. Benjamin Jungfleisch et al.",
+        "authors_list": [
+            "Joseph Sklenar",
+            "Wei Zhang",
+            "M. Benjamin Jungfleisch",
+            "Wanjun Jiang",
+            "Houchen Chang",
+            "John E. Pearson",
+            "Mingzhong Wu",
+            "J. B. Ketterson",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1505.07791"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.64.052503",
+        "title": "Individual and multiple vortex pinning in systems with periodic pinning arrays",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 2001,
+        "citations": 62,
+        "authors": "C. Reichhardt, Gergely T. Zimányi, Richard T. Scalettar et al.",
+        "authors_list": [
+            "C. Reichhardt",
+            "Gergely T. Zimányi",
+            "Richard T. Scalettar",
+            "Axel Hoffmann",
+            "Iván K. Schuller"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0102266"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.19970090321",
+        "title": "Persistent photoinduced effects in high‐<i>T</i><sub><i>e</i></sub> superconductors",
+        "journal": "Advanced Materials",
+        "year": 1997,
+        "citations": 62,
+        "authors": "Axel Hoffmann, D. Reznik, Iván K. Schuller",
+        "authors_list": [
+            "Axel Hoffmann",
+            "D. Reznik",
+            "Iván K. Schuller"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.104.237202",
+        "title": "Surface Spin Flip Probability of Mesoscopic Ag Wires",
+        "journal": "Physical Review Letters",
+        "year": 2010,
+        "citations": 61,
+        "authors": "G. Mihajlović, John E. Pearson, S. D. Bader et al.",
+        "authors_list": [
+            "G. Mihajlović",
+            "John E. Pearson",
+            "S. D. Bader",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 61,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0910.2744"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.3236768",
+        "title": "Highly asymmetric magnetic behavior in exchange biased systems induced by noncollinear field cooling",
+        "journal": "Applied Physics Letters",
+        "year": 2009,
+        "citations": 60,
+        "authors": "E. Jiménez, J. Julio Camarero, Jordi Sort et al.",
+        "authors_list": [
+            "E. Jiménez",
+            "J. Julio Camarero",
+            "Jordi Sort",
+            "J. Nogués",
+            "Axel Hoffmann",
+            "Francisco J. Terán",
+            "Paolo Perna",
+            "José Miguel García‐Martín",
+            "B. Diény",
+            "Rodolfo Miranda"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aip.scitation.org/doi/pdf/10.1063/1.3236768"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.66.220406",
+        "title": "Induced magnetic moments at a ferromagnet-antiferromagnet interface",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 2002,
+        "citations": 60,
+        "authors": "Axel Hoffmann, Jin Won Seo, M. R. Fitzsimmons et al.",
+        "authors_list": [
+            "Axel Hoffmann",
+            "Jin Won Seo",
+            "M. R. Fitzsimmons",
+            "H. Siegwart",
+            "J. Fompeyrine",
+            "Jean‐Pierre Locquet",
+            "Joseph A. Dura",
+            "C. F. Majkrzak"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4913887",
+        "title": "Spin pumping and inverse spin Hall effects—Insights for future spin-orbitronics (invited)",
+        "journal": "Journal of Applied Physics",
+        "year": 2015,
+        "citations": 58,
+        "authors": "Wei Zhang, M. Benjamin Jungfleisch, Wanjun Jiang et al.",
+        "authors_list": [
+            "Wei Zhang",
+            "M. Benjamin Jungfleisch",
+            "Wanjun Jiang",
+            "Joseph Sklenar",
+            "F. Y. Fradin",
+            "John E. Pearson",
+            "J. B. Ketterson",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1357012"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.97.067201",
+        "title": "Imprinting Vortices into Antiferromagnets",
+        "journal": "Physical Review Letters",
+        "year": 2006,
+        "citations": 58,
+        "authors": "Jordi Sort, Kristen Buchanan, V. Novosad et al.",
+        "authors_list": [
+            "Jordi Sort",
+            "Kristen Buchanan",
+            "V. Novosad",
+            "Axel Hoffmann",
+            "Germán Salazar‐Alvarez",
+            "A. Bollero",
+            "M.D. Baró",
+            "B. Diény",
+            "J. Nogués"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 58,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevLett.97.067201"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/bf01543997",
+        "title": "Cluster matter: the transition of optical elastic scattering to regular reflection",
+        "journal": "Zeitschrift für Physik D Atoms Molecules and Clusters",
+        "year": 1991,
+        "citations": 56,
+        "authors": "B. Dusemund, Axel Hoffmann, T. Salzmann et al.",
+        "authors_list": [
+            "B. Dusemund",
+            "Axel Hoffmann",
+            "T. Salzmann",
+            "Uwe Kreibig",
+            "G. Schmid"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.93.094407",
+        "title": "Generation of magnetic skyrmion bubbles by inhomogeneous spin Hall currents",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2016,
+        "citations": 55,
+        "authors": "Olle Heinonen, Wanjun Jiang, H.H. Somaily et al.",
+        "authors_list": [
+            "Olle Heinonen",
+            "Wanjun Jiang",
+            "H.H. Somaily",
+            "S. G. E. te Velthuis",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1511.04630"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/pssc.200775942",
+        "title": "Pure spin‐currents",
+        "journal": "Physica status solidi. C, Conferences and critical reviews/Physica status solidi. C, Current topics in solid state physics",
+        "year": 2007,
+        "citations": 55,
+        "authors": "Axel Hoffmann",
+        "authors_list": [
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.69.081307",
+        "title": "Annealing-dependent magnetic depth profile in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant=\"normal\">Ga</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mi>−</mml:mi><mml:mi>x</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant=\"normal\">Mn</mml:mi></mml:mrow><mml:mrow><mml:mi>x</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mi mathvariant=\"normal\">As</mml:mi></mml:math>",
+        "journal": "Physical Review B",
+        "year": 2004,
+        "citations": 54,
+        "authors": "B. J. Kirby, J. A. Borchers, J. J. Rhyne et al.",
+        "authors_list": [
+            "B. J. Kirby",
+            "J. A. Borchers",
+            "J. J. Rhyne",
+            "S. G. E. te Velthuis",
+            "Axel Hoffmann",
+            "K. V. O’Donovan",
+            "T. Wójtowicz",
+            "X. Liu",
+            "W. L. Lim",
+            "J. K. Furdyna"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0311119"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.88.165411",
+        "title": "Multiphoton resonant excitations and high-harmonic generation in bilayer graphene",
+        "journal": "Physical Review B",
+        "year": 2013,
+        "citations": 54,
+        "authors": "H. K. Avetissian, G. F. Mkrtchian, К. Г. Батраков et al.",
+        "authors_list": [
+            "H. K. Avetissian",
+            "G. F. Mkrtchian",
+            "К. Г. Батраков",
+            "С. А. Максименко",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.78.094515",
+        "title": "Origin of the inverse spin-switch behavior in manganite/cuprate/manganite trilayers",
+        "journal": "Physical Review B",
+        "year": 2008,
+        "citations": 54,
+        "authors": "N. M. Nemes, M. Garcı́a-Hernández, S. G. E. te Velthuis et al.",
+        "authors_list": [
+            "N. M. Nemes",
+            "M. Garcı́a-Hernández",
+            "S. G. E. te Velthuis",
+            "Axel Hoffmann",
+            "C. Visani",
+            "Javier García‐Barriocanal",
+            "V. Peña",
+            "D. Arias",
+            "Z. Sefrioui",
+            "C. León",
+            "J. Santamarı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevB.78.094515"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1565711",
+        "title": "Isothermal tuning of exchange bias using pulsed fields",
+        "journal": "Applied Physics Letters",
+        "year": 2003,
+        "citations": 51,
+        "authors": "J. Nogués, Jordi Sort, S. Suriñach et al.",
+        "authors_list": [
+            "J. Nogués",
+            "Jordi Sort",
+            "S. Suriñach",
+            "J. S. Muñoz",
+            "M.D. Baró",
+            "J. F. Bobo",
+            "Ulrike Lüders",
+            "E. Haanappel",
+            "M. R. Fitzsimmons",
+            "Axel Hoffmann",
+            "Jianwang Cai"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aip.scitation.org/doi/pdf/10.1063/1.1565711"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1088/0022-3727/40/5/s13",
+        "title": "Non-local spin injection in lateral spin valves",
+        "journal": "Journal of Physics D Applied Physics",
+        "year": 2007,
+        "citations": 50,
+        "authors": "Yi Ji, Axel Hoffmann, J. S. Jiang et al.",
+        "authors_list": [
+            "Yi Ji",
+            "Axel Hoffmann",
+            "J. S. Jiang",
+            "John E. Pearson",
+            "S. D. Bader"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.94.140412",
+        "title": "Spin transport through the metallic antiferromagnet FeMn",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2016,
+        "citations": 50,
+        "authors": "H. Sağlam, Wenli Zhang, M. Benjamin Jungfleisch et al.",
+        "authors_list": [
+            "H. Sağlam",
+            "Wenli Zhang",
+            "M. Benjamin Jungfleisch",
+            "Joseph Sklenar",
+            "John E. Pearson",
+            "J. B. Ketterson",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1609.04834"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.nanolett.0c03195",
+        "title": "Topological Hall Effect in a Topological Insulator Interfaced with a Magnetic Insulator",
+        "journal": "Nano Letters",
+        "year": 2020,
+        "citations": 50,
+        "authors": "Peng Li, Jinjun Ding, Steven S.-L. Zhang et al.",
+        "authors_list": [
+            "Peng Li",
+            "Jinjun Ding",
+            "Steven S.-L. Zhang",
+            "James Kally",
+            "Timothy Pillsbury",
+            "Olle Heinonen",
+            "Gaurab Rimal",
+            "Chong Bi",
+            "August DeMann",
+            "Stuart B. Field",
+            "Weigang Wang",
+            "Jinke Tang",
+            "J. S. Jiang",
+            "Axel Hoffmann",
+            "Nitin Samarth",
+            "Mingzhong Wu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/2012.09107"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.3447798",
+        "title": "Reduction of the transverse effective charge of optical phonons in ZnO under pressure",
+        "journal": "Applied Physics Letters",
+        "year": 2010,
+        "citations": 49,
+        "authors": "J. S. Reparaz, Leonardo Muniz, Markus R. Wagner et al.",
+        "authors_list": [
+            "J. S. Reparaz",
+            "Leonardo Muniz",
+            "Markus R. Wagner",
+            "A. R. Goñi",
+            "M. I. Alonso",
+            "Axel Hoffmann",
+            "B. K. Meyer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.3654148",
+        "title": "Electric control of magnetization relaxation in thin film magnetic insulators",
+        "journal": "Applied Physics Letters",
+        "year": 2011,
+        "citations": 48,
+        "authors": "Zihui Wang, Yiyan Sun, Young‐Yeal Song et al.",
+        "authors_list": [
+            "Zihui Wang",
+            "Yiyan Sun",
+            "Young‐Yeal Song",
+            "Mingzhong Wu",
+            "Helmut Schultheiß",
+            "John E. Pearson",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4967391",
+        "title": "Perspective: Interface generation of spin-orbit torques",
+        "journal": "Journal of Applied Physics",
+        "year": 2016,
+        "citations": 47,
+        "authors": "Joseph Sklenar, Wei Zhang, M. Benjamin Jungfleisch et al.",
+        "authors_list": [
+            "Joseph Sklenar",
+            "Wei Zhang",
+            "M. Benjamin Jungfleisch",
+            "Wanjun Jiang",
+            "Hilal Saglam",
+            "John E. Pearson",
+            "J. B. Ketterson",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1352575"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4943757",
+        "title": "Mobile Néel skyrmions at room temperature: status and future",
+        "journal": "AIP Advances",
+        "year": 2016,
+        "citations": 46,
+        "authors": "Wanjun Jiang, Wei Zhang, Guoqiang Yu et al.",
+        "authors_list": [
+            "Wanjun Jiang",
+            "Wei Zhang",
+            "Guoqiang Yu",
+            "M. Benjamin Jungfleisch",
+            "Pramey Upadhyaya",
+            "H.H. Somaily",
+            "John E. Pearson",
+            "Yaroslav Tserkovnyak",
+            "Kang L. Wang",
+            "Olle Heinonen",
+            "S. G. E. te Velthuis",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 46,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aip.scitation.org/doi/pdf/10.1063/1.4943757"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.114796",
+        "title": "Zeeman spectroscopy of the Fe3+ center in GaN",
+        "journal": "Applied Physics Letters",
+        "year": 1995,
+        "citations": 45,
+        "authors": "R. Heitz, P. Thurian, I. Loa et al.",
+        "authors_list": [
+            "R. Heitz",
+            "P. Thurian",
+            "I. Loa",
+            "L. Eckey",
+            "Axel Hoffmann",
+            "I. Broser",
+            "K. Pressel",
+            "B. K. Meyer",
+            "E. N. Mokhov"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 45,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.48.8672",
+        "title": "Magneto-optics of Ni-bound shallow states in ZnS and CdS",
+        "journal": "Physical review. B, Condensed matter",
+        "year": 1993,
+        "citations": 43,
+        "authors": "R. Heitz, Axel Hoffmann, I. Broser",
+        "authors_list": [
+            "R. Heitz",
+            "Axel Hoffmann",
+            "I. Broser"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 43,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.88.094306",
+        "title": "Spatiotemporal buildup of the Kondo screening cloud",
+        "journal": "Physical Review B",
+        "year": 2013,
+        "citations": 43,
+        "authors": "M. V. Medvedyeva, Axel Hoffmann, Stefan Kehrein",
+        "authors_list": [
+            "M. V. Medvedyeva",
+            "Axel Hoffmann",
+            "Stefan Kehrein"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 43,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1307.5488"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-021-26011-6",
+        "title": "Coherent control of asymmetric spintronic terahertz emission from two-dimensional hybrid metal halides",
+        "journal": "Nature Communications",
+        "year": 2021,
+        "citations": 42,
+        "authors": "Kankan Cong, Eric Vetter, Liang Yan et al.",
+        "authors_list": [
+            "Kankan Cong",
+            "Eric Vetter",
+            "Liang Yan",
+            "Yi Li",
+            "Qi Zhang",
+            "Yuzan Xiong",
+            "Hongwei Qu",
+            "Richard D. Schaller",
+            "Axel Hoffmann",
+            "A. F. Kemper",
+            "Yongxin Yao",
+            "Jigang Wang",
+            "Wei You",
+            "Haidan Wen",
+            "Wei Zhang",
+            "Dali Sun"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 42,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-021-26011-6.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.98.094407",
+        "title": "Independence of spin-orbit torques from the exchange bias direction in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mrow><mml:mi mathvariant=\"normal\">N</mml:mi><mml:msub><mml:mi mathvariant=\"normal\">i</mml:mi><mml:mn>81</mml:mn></mml:msub><mml:mi mathvariant=\"normal\">F</mml:mi><mml:msub><mml:mi mathvariant=\"normal\">e</mml:mi><mml:mn>19</mml:mn></mml:msub><mml:mo>/</mml:mo><mml:mi>IrMn</mml:mi></mml:mrow></mml:math> bilayers",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2018,
+        "citations": 42,
+        "authors": "Hilal Saglam, Juan‐Carlos Rojas‐Sánchez, S. Petit et al.",
+        "authors_list": [
+            "Hilal Saglam",
+            "Juan‐Carlos Rojas‐Sánchez",
+            "S. Petit",
+            "M. Hehn",
+            "Wei Zhang",
+            "John E. Pearson",
+            "S. Mangin",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 42,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevB.98.094407"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41598-020-69364-6",
+        "title": "Probing magnon–magnon coupling in exchange coupled Y$$_3$$Fe$$_5$$O$$_{12}$$/Permalloy bilayers with magneto-optical effects",
+        "journal": "Scientific Reports",
+        "year": 2020,
+        "citations": 41,
+        "authors": "Yuzan Xiong, Yi Li, Mouhamad Hammami et al.",
+        "authors_list": [
+            "Yuzan Xiong",
+            "Yi Li",
+            "Mouhamad Hammami",
+            "Rao Bidthanapally",
+            "Joseph Sklenar",
+            "Xu‐Feng Zhang",
+            "Hongwei Qu",
+            "G. Srinivasan",
+            "John E. Pearson",
+            "Axel Hoffmann",
+            "V. Novosad",
+            "Wei Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 41,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41598-020-69364-6.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.102.104403",
+        "title": "Coupled skyrmion breathing modes in synthetic ferri- and antiferromagnets",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2020,
+        "citations": 39,
+        "authors": "Martin Lonsky, Axel Hoffmann",
+        "authors_list": [
+            "Martin Lonsky",
+            "Axel Hoffmann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 39,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/2006.11318"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/revmodphys.89.025006",
+        "title": "Interface-induced phenomena in magnetism",
+        "journal": "Reviews of Modern Physics",
+        "year": null,
+        "citations": 853,
+        "authors": "Frances Hellman, Axel Hoffmann, Yaroslav Tserkovnyak et al.",
+        "authors_list": [
+            "Frances Hellman",
+            "Axel Hoffmann",
+            "Yaroslav Tserkovnyak",
+            "Geoffrey S. D. Beach",
+            "Eric E. Fullerton",
+            "Chris Leighton",
+            "Allan H. MacDonald",
+            "Daniel C. Ralph",
+            "Dario A. Arena",
+            "Hermann A. Dürr",
+            "Peter Fischer",
+            "Julie Grollier",
+            "Joseph P. Heremans",
+            "Tomas Jungwirth",
+            "Alexey V. Kimel",
+            "Bert Koopmans",
+            "Ilya N. Krivorotov",
+            "Steven J. May",
+            "Amanda K. Petford-Long",
+            "James M. Rondinelli",
+            "Nitin Samarth",
+            "Ivan K. Schuller",
+            "Andrei N. Slavin",
+            "Mark D. Stiles",
+            "Oleg Tchernyshyov",
+            "André Thiaville",
+            "Barry L. Zink"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 853
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/RevModPhys.89.025006"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.104.046601",
+        "title": "Quantifying Spin Hall Angles from Spin Pumping: Experiments and Theory",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 679,
+        "authors": "O. Mosendz, J. E. Pearson, F. Y. Fradin et al.",
+        "authors_list": [
+            "O. Mosendz",
+            "J. E. Pearson",
+            "F. Y. Fradin",
+            "G. E. W. Bauer",
+            "S. D. Bader",
+            "A. Hoffmann"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 679
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0911.2725"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/s41567-018-0062-7",
+        "title": "Spin transport and spin torque in antiferromagnetic devices",
+        "journal": "Nature Physics",
+        "year": 2018,
+        "citations": 438,
+        "authors": "J. Železný, P. Wadley, K. Olejník et al.",
+        "authors_list": [
+            "J. Železný",
+            "P. Wadley",
+            "K. Olejník",
+            "A. Hoffmann",
+            "H. Ohno"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 438
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://nottingham-repository.worktribe.com/output/917877"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/ncomms4727",
+        "title": "Realization of a spin-wave multiplexer",
+        "journal": "Nature Communications",
+        "year": null,
+        "citations": 381,
+        "authors": "K. Vogt, F.Y. Fradin, J.E. Pearson et al.",
+        "authors_list": [
+            "K. Vogt",
+            "F.Y. Fradin",
+            "J.E. Pearson",
+            "T. Sebastian",
+            "S.D. Bader",
+            "B. Hillebrands",
+            "A. Hoffmann",
+            "H. Schultheiss"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 381
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms4727.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.113.196602",
+        "title": "Spin Hall Effects in Metallic Antiferromagnets",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 366,
+        "authors": "Wei Zhang, Matthias B. Jungfleisch, Wanjun Jiang et al.",
+        "authors_list": [
+            "Wei Zhang",
+            "Matthias B. Jungfleisch",
+            "Wanjun Jiang",
+            "John E. Pearson",
+            "Axel Hoffmann",
+            "Frank Freimuth",
+            "Yuriy Mokrousov"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 366
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1181195"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevapplied.4.047001",
+        "title": "Opportunities at the Frontiers of Spintronics",
+        "journal": "Physical Review Applied",
+        "year": null,
+        "citations": 352,
+        "authors": "Axel Hoffmann, Sam D. Bader",
+        "authors_list": [
+            "Axel Hoffmann",
+            "Sam D. Bader"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 352
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1237926"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.116.097204",
+        "title": "Antiferromagnetic Spin Seebeck Effect",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 319,
+        "authors": "Stephen M. Wu, Wei Zhang, Amit KC et al.",
+        "authors_list": [
+            "Stephen M. Wu",
+            "Wei Zhang",
+            "Amit KC",
+            "Pavel Borisov",
+            "John E. Pearson",
+            "J. Samuel Jiang",
+            "David Lederman",
+            "Axel Hoffmann",
+            "Anand Bhattacharya"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 319
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1509.00439"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.111.106601",
+        "title": "Damping in Yttrium Iron Garnet Nanoscale Films Capped by Platinum",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 249,
+        "authors": "Yiyan Sun, Houchen Chang, Michael Kabatek et al.",
+        "authors_list": [
+            "Yiyan Sun",
+            "Houchen Chang",
+            "Michael Kabatek",
+            "Young-Yeal Song",
+            "Zihui Wang",
+            "Michael Jantz",
+            "William Schneider",
+            "Mingzhong Wu",
+            "E. Montoya",
+            "B. Kardasz",
+            "B. Heinrich",
+            "Suzanne G. E. te Velthuis",
+            "Helmut Schultheiss",
+            "Axel Hoffmann"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 249
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.jmmm.2008.06.013",
+        "title": "Superconducting vortex pinning with artificial magnetic nanostructures",
+        "journal": "Journal of Magnetism and Magnetic Materials",
+        "year": 2008,
+        "citations": 200,
+        "authors": "M. Vélez, J.I. Martín, J.E. Villegas et al.",
+        "authors_list": [
+            "M. Vélez",
+            "J.I. Martín",
+            "J.E. Villegas",
+            "A. Hoffmann",
+            "E.M. González",
+            "J.L. Vicent",
+            "Ivan K. Schuller"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 200
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://hdl.handle.net/10651/10766"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.83.1022",
+        "title": "Artificially Induced Reconfiguration of the Vortex Lattice by Arrays of Magnetic Dots",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 202,
+        "authors": "José I. Martín, M. Vélez, A. Hoffmann et al.",
+        "authors_list": [
+            "José I. Martín",
+            "M. Vélez",
+            "A. Hoffmann",
+            "Ivan K. Schuller",
+            "J. L. Vicent"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 202
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.jmmm.2003.09.046",
+        "title": "Neutron scattering studies of nanomagnetism and artificially structured materials",
+        "journal": "Journal of Magnetism and Magnetic Materials",
+        "year": 2004,
+        "citations": 156,
+        "authors": "M.R. Fitzsimmons, S.D. Bader, J.A. Borchers et al.",
+        "authors_list": [
+            "M.R. Fitzsimmons",
+            "S.D. Bader",
+            "J.A. Borchers",
+            "G.P. Felcher",
+            "J.K. Furdyna",
+            "A. Hoffmann",
+            "J.B. Kortright",
+            "Ivan K. Schuller",
+            "T.C. Schulthess",
+            "S.K. Sinha",
+            "M.F. Toney",
+            "D. Weller",
+            "S. Wolf"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 156
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://digital.library.unt.edu/ark:/67531/metadc786991/m2/1/high_res_d/823210.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1063/1.4738887",
+        "title": "Spin waves turning a corner",
+        "journal": "Applied Physics Letters",
+        "year": 2012,
+        "citations": 140,
+        "authors": "K. Vogt, H. Schultheiss, S. Jain et al.",
+        "authors_list": [
+            "K. Vogt",
+            "H. Schultheiss",
+            "S. Jain",
+            "J. E. Pearson",
+            "A. Hoffmann",
+            "S. D. Bader",
+            "B. Hillebrands"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 140
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.aip.org/aip/apl/article-pdf/doi/10.1063/1.4738887/14261403/042410_1_online.pdf"
+        }
+    }
+]

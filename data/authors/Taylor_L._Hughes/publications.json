@@ -1,0 +1,3465 @@
+[
+    {
+        "doi": "https://doi.org/10.1126/science.1133734",
+        "title": "Quantum Spin Hall Effect and Topological Phase Transition in HgTe Quantum Wells",
+        "journal": "Science",
+        "year": 2006,
+        "citations": 7110,
+        "authors": "B. Andrei Bernevig, Taylor L. Hughes, Shou-Cheng Zhang",
+        "authors_list": [
+            "B. Andrei Bernevig",
+            "Taylor L. Hughes",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 7110,
+            "crossref": 6474
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0611399"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.78.195424",
+        "title": "Topological field theory of time-reversal invariant insulators",
+        "journal": "Physical Review B",
+        "year": 2008,
+        "citations": 3347,
+        "authors": "Xiao‐Liang Qi, Taylor L. Hughes, Shou-Cheng Zhang",
+        "authors_list": [
+            "Xiao‐Liang Qi",
+            "Taylor L. Hughes",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 3347,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0802.3537"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.96.245115",
+        "title": "Electric multipole moments, topological multipole moment pumping, and chiral hinge states in crystalline insulators",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2017,
+        "citations": 1397,
+        "authors": "Wladimir A. Benalcazar, B. Andrei Bernevig, Taylor L. Hughes",
+        "authors_list": [
+            "Wladimir A. Benalcazar",
+            "B. Andrei Bernevig",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1397,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1708.04230"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nature25777",
+        "title": "A quantized microwave quadrupole insulator with topologically protected corner states",
+        "journal": "Nature",
+        "year": 2018,
+        "citations": 839,
+        "authors": "Christopher W. Peterson, Wladimir A. Benalcazar, Taylor L. Hughes et al.",
+        "authors_list": [
+            "Christopher W. Peterson",
+            "Wladimir A. Benalcazar",
+            "Taylor L. Hughes",
+            "Gaurav Bahl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 839,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1710.03231"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1143/jpsj.77.031007",
+        "title": "The Quantum Spin Hall Effect: Theory and Experiment",
+        "journal": "Journal of the Physical Society of Japan",
+        "year": 2008,
+        "citations": 808,
+        "authors": "Markus König, H. Buhmann, L. W. Molenkamp et al.",
+        "authors_list": [
+            "Markus König",
+            "H. Buhmann",
+            "L. W. Molenkamp",
+            "Taylor L. Hughes",
+            "Chao‐Xing Liu",
+            "Xiao-Liang Qi",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 808,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0801.0901"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.99.245151",
+        "title": "Quantization of fractional corner charge in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:msub><mml:mi>C</mml:mi><mml:mi>n</mml:mi></mml:msub></mml:math>-symmetric higher-order topological crystalline insulators",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2019,
+        "citations": 785,
+        "authors": "Wladimir A. Benalcazar, Tianhe Li, Taylor L. Hughes",
+        "authors_list": [
+            "Wladimir A. Benalcazar",
+            "Tianhe Li",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 785,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1809.02142"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.100.236601",
+        "title": "Quantum Spin Hall Effect in Inverted Type-II Semiconductors",
+        "journal": "Physical Review Letters",
+        "year": 2008,
+        "citations": 769,
+        "authors": "Chao‐Xing Liu, Taylor L. Hughes, Xiao-Liang Qi et al.",
+        "authors_list": [
+            "Chao‐Xing Liu",
+            "Taylor L. Hughes",
+            "Xiao-Liang Qi",
+            "Kang Wang",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 769,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0801.2831"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.102.187001",
+        "title": "Time-Reversal-Invariant Topological Superconductors and Superfluids in Two and Three Dimensions",
+        "journal": "Physical Review Letters",
+        "year": 2009,
+        "citations": 724,
+        "authors": "Xiao-Liang Qi, Taylor L. Hughes, S. Raghu et al.",
+        "authors_list": [
+            "Xiao-Liang Qi",
+            "Taylor L. Hughes",
+            "S. Raghu",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 724,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0803.3614"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.82.184516",
+        "title": "Chiral topological superconductor from the quantum Hall state",
+        "journal": "Physical Review B",
+        "year": 2010,
+        "citations": 573,
+        "authors": "Xiao-Liang Qi, Taylor L. Hughes, Shou-Cheng Zhang",
+        "authors_list": [
+            "Xiao-Liang Qi",
+            "Taylor L. Hughes",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 573,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1003.5448"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.83.245132",
+        "title": "Inversion-symmetric topological insulators",
+        "journal": "Physical Review B",
+        "year": 2011,
+        "citations": 558,
+        "authors": "Taylor L. Hughes, Emil Prodan, B. Andrei Bernevig",
+        "authors_list": [
+            "Taylor L. Hughes",
+            "Emil Prodan",
+            "B. Andrei Bernevig"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 558,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1010.4508"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.aat3406",
+        "title": "Observation of the topological Anderson insulator in disordered atomic wires",
+        "journal": "Science",
+        "year": 2018,
+        "citations": 361,
+        "authors": "Η. Meier, Fangzhao Alex An, Alexandre Dauphin et al.",
+        "authors_list": [
+            "Η. Meier",
+            "Fangzhao Alex An",
+            "Alexandre Dauphin",
+            "Maria Maffei",
+            "Pietro Massignan",
+            "Taylor L. Hughes",
+            "Bryce Gadway"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 361,
+            "crossref": 334
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://hdl.handle.net/2117/127477"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.81.134508",
+        "title": "Topological invariants for the Fermi surface of a time-reversal-invariant superconductor",
+        "journal": "Physical Review B",
+        "year": 2010,
+        "citations": 304,
+        "authors": "Xiao‐Liang Qi, Taylor L. Hughes, Shou-Cheng Zhang",
+        "authors_list": [
+            "Xiao‐Liang Qi",
+            "Taylor L. Hughes",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 304,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0908.3550"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41563-021-01138-5",
+        "title": "Topological spintronics and magnetoelectronics",
+        "journal": "Nature Materials",
+        "year": 2021,
+        "citations": 295,
+        "authors": "Qinglin He, Taylor L. Hughes, N. P. Armitage et al.",
+        "authors_list": [
+            "Qinglin He",
+            "Taylor L. Hughes",
+            "N. P. Armitage",
+            "Yoshinori Tokura",
+            "Kang L. Wang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 295,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.113.046802",
+        "title": "Topological Criticality in the Chiral-Symmetric AIII Class at Strong Disorder",
+        "journal": "Physical Review Letters",
+        "year": 2014,
+        "citations": 287,
+        "authors": "Ian Mondragon-Shem, Taylor L. Hughes, Juntao Song et al.",
+        "authors_list": [
+            "Ian Mondragon-Shem",
+            "Taylor L. Hughes",
+            "Juntao Song",
+            "Emil Prodan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 287,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1311.5233"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.105.115501",
+        "title": "Entanglement Spectrum of a Disordered Topological Chern Insulator",
+        "journal": "Physical Review Letters",
+        "year": 2010,
+        "citations": 283,
+        "authors": "Emil Prodan, Taylor L. Hughes, B. Andrei Bernevig",
+        "authors_list": [
+            "Emil Prodan",
+            "Taylor L. Hughes",
+            "B. Andrei Bernevig"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 283,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1005.5148"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.95.066601",
+        "title": "Orbitronics: The Intrinsic Orbital Current in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>p</mml:mi></mml:math>-Doped Silicon",
+        "journal": "Physical Review Letters",
+        "year": 2005,
+        "citations": 274,
+        "authors": "B. Andrei Bernevig, Taylor L. Hughes, Shou-Cheng Zhang",
+        "authors_list": [
+            "B. Andrei Bernevig",
+            "Taylor L. Hughes",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 274,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0502345"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.84.153101",
+        "title": "Absence of topological insulator phases in non-Hermitian<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi>P</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:math>-symmetric Hamiltonians",
+        "journal": "Physical Review B",
+        "year": 2011,
+        "citations": 266,
+        "authors": "Yichen Hu, Taylor L. Hughes",
+        "authors_list": [
+            "Yichen Hu",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 266,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1107.1064"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.103.261601",
+        "title": "Topological Entanglement Rényi Entropy and Reduced Density Matrix Structure",
+        "journal": "Physical Review Letters",
+        "year": 2009,
+        "citations": 243,
+        "authors": "Steven T. Flammia, Alioscia Hamma, Taylor L. Hughes et al.",
+        "authors_list": [
+            "Steven T. Flammia",
+            "Alioscia Hamma",
+            "Taylor L. Hughes",
+            "Xiao-Gang Wen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 243,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0909.3305"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.aba7604",
+        "title": "A fractional corner anomaly reveals higher-order topology",
+        "journal": "Science",
+        "year": 2020,
+        "citations": 222,
+        "authors": "Christopher W. Peterson, Tianhe Li, Wladimir A. Benalcazar et al.",
+        "authors_list": [
+            "Christopher W. Peterson",
+            "Tianhe Li",
+            "Wladimir A. Benalcazar",
+            "Taylor L. Hughes",
+            "Gaurav Bahl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 222,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/2001.03629"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nphys1626",
+        "title": "Observation of a one-dimensional spin–orbit gap in a quantum wire",
+        "journal": "Nature Physics",
+        "year": 2010,
+        "citations": 221,
+        "authors": "C. H. L. Quay, Taylor L. Hughes, Joseph Sulpizio et al.",
+        "authors_list": [
+            "C. H. L. Quay",
+            "Taylor L. Hughes",
+            "Joseph Sulpizio",
+            "L. N. Pfeiffer",
+            "K. W. Baldwin",
+            "K. W. West",
+            "David Goldhaber‐Gordon",
+            "R. de Picciotto"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 221,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/nphys1626.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nphys913",
+        "title": "Fractional charge and quantized current in the quantum spin Hall state",
+        "journal": "Nature Physics",
+        "year": 2008,
+        "citations": 216,
+        "authors": "Xiao-Liang Qi, Taylor L. Hughes, Shou Cheng Zhang",
+        "authors_list": [
+            "Xiao-Liang Qi",
+            "Taylor L. Hughes",
+            "Shou Cheng Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 216,
+            "crossref": 204
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/nphys913.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.98.165144",
+        "title": "Weak-pairing higher order topological superconductors",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2018,
+        "citations": 214,
+        "authors": "Yuxuan Wang, Mao Lin, Taylor L. Hughes",
+        "authors_list": [
+            "Yuxuan Wang",
+            "Mao Lin",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 214,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1804.01531"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.77.125319",
+        "title": "Helical edge and surface states in HgTe quantum wells and bulk insulators",
+        "journal": "Physical Review B",
+        "year": 2008,
+        "citations": 208,
+        "authors": "Xi Dai, Taylor L. Hughes, Xiao‐Liang Qi et al.",
+        "authors_list": [
+            "Xi Dai",
+            "Taylor L. Hughes",
+            "Xiao‐Liang Qi",
+            "Zhong Fang",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 208,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0705.1516"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev-conmatphys-062910-140538",
+        "title": "The Quantum Spin Hall Effect",
+        "journal": "Annual Review of Condensed Matter Physics",
+        "year": 2011,
+        "citations": 205,
+        "authors": "Joseph Maciejko, Taylor L. Hughes, Shou-Cheng Zhang",
+        "authors_list": [
+            "Joseph Maciejko",
+            "Taylor L. Hughes",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 205,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.89.224503",
+        "title": "Classification of two-dimensional topological crystalline superconductors and Majorana bound states at disclinations",
+        "journal": "Physical Review B",
+        "year": 2014,
+        "citations": 204,
+        "authors": "Wladimir A. Benalcazar, Jeffrey C. Y. Teo, Taylor L. Hughes",
+        "authors_list": [
+            "Wladimir A. Benalcazar",
+            "Jeffrey C. Y. Teo",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 204,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1311.0496"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.aaw8419",
+        "title": "Evidence for dispersing 1D Majorana channels in an iron-based superconductor",
+        "journal": "Science",
+        "year": 2020,
+        "citations": 193,
+        "authors": "Zhenyu Wang, Jorge Olivares Rodriguez, Lin Jiao et al.",
+        "authors_list": [
+            "Zhenyu Wang",
+            "Jorge Olivares Rodriguez",
+            "Lin Jiao",
+            "Sean Howard",
+            "Martin Graham",
+            "Genda Gu",
+            "Taylor L. Hughes",
+            "Dirk K. Morr",
+            "Vidya Madhavan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 193,
+            "crossref": 168
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1903.00515"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.98.241103",
+        "title": "Topological quadrupolar semimetals",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2018,
+        "citations": 191,
+        "authors": "Mao Lin, Taylor L. Hughes",
+        "authors_list": [
+            "Mao Lin",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 191,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1708.08457"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.111.047006",
+        "title": "Existence of Majorana-Fermion Bound States on Disclinations and the Classification of Topological Crystalline Superconductors in Two Dimensions",
+        "journal": "Physical Review Letters",
+        "year": 2013,
+        "citations": 177,
+        "authors": "Jeffrey C. Y. Teo, Taylor L. Hughes",
+        "authors_list": [
+            "Jeffrey C. Y. Teo",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 177,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1208.6303"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.bios.2016.01.068",
+        "title": "Nanostructured SERS-electrochemical biosensors for testing of anticancer drug interactions with DNA",
+        "journal": "Biosensors and Bioelectronics",
+        "year": 2016,
+        "citations": 170,
+        "authors": "Hoda Ilkhani, Taylor L. Hughes, Jing Li et al.",
+        "authors_list": [
+            "Hoda Ilkhani",
+            "Taylor L. Hughes",
+            "Jing Li",
+            "Chuan‐Jian Zhong",
+            "Maria Hepel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 170,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevd.88.025040",
+        "title": "Torsional anomalies, Hall viscosity, and bulk-boundary correspondence in topological states",
+        "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D. Particles and fields",
+        "year": 2013,
+        "citations": 170,
+        "authors": "Taylor L. Hughes, Robert G. Leigh, Onkar Parrikar",
+        "authors_list": [
+            "Taylor L. Hughes",
+            "Robert G. Leigh",
+            "Onkar Parrikar"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 170,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1211.6442"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.125.266804",
+        "title": "Higher-Order Weyl Semimetals",
+        "journal": "Physical Review Letters",
+        "year": 2020,
+        "citations": 167,
+        "authors": "Sayed Ali Akbar Ghorashi, Tianhe Li, Taylor L. Hughes",
+        "authors_list": [
+            "Sayed Ali Akbar Ghorashi",
+            "Tianhe Li",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 167,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/2007.02956"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41586-020-03117-3",
+        "title": "Trapped fractional charges at bulk defects in topological insulators",
+        "journal": "Nature",
+        "year": 2021,
+        "citations": 164,
+        "authors": "Christopher W. Peterson, Tianhe Li, Wentao Jiang et al.",
+        "authors_list": [
+            "Christopher W. Peterson",
+            "Tianhe Li",
+            "Wentao Jiang",
+            "Taylor L. Hughes",
+            "Gaurav Bahl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 164,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.101.115115",
+        "title": "Fractional disclination charge in two-dimensional <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:msub><mml:mi>C</mml:mi><mml:mi>n</mml:mi></mml:msub></mml:math>-symmetric topological crystalline insulators",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2020,
+        "citations": 160,
+        "authors": "Tianhe Li, Penghao Zhu, Wladimir A. Benalcazar et al.",
+        "authors_list": [
+            "Tianhe Li",
+            "Penghao Zhu",
+            "Wladimir A. Benalcazar",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 160,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1906.02752"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.100.245135",
+        "title": "Many-body electric multipole operators in extended systems",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2019,
+        "citations": 151,
+        "authors": "William A. Wheeler, Lucas K. Wagner, Taylor L. Hughes",
+        "authors_list": [
+            "William A. Wheeler",
+            "Lucas K. Wagner",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 151,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1812.06990"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nphys1911",
+        "title": "Transport through Andreev bound states in a graphene quantum dot",
+        "journal": "Nature Physics",
+        "year": 2011,
+        "citations": 149,
+        "authors": "Travis Dirks, Taylor L. Hughes, Siddhartha Lal et al.",
+        "authors_list": [
+            "Travis Dirks",
+            "Taylor L. Hughes",
+            "Siddhartha Lal",
+            "Bruno Uchoa",
+            "Yung‐Fu Chen",
+            "Cesar Chialvo",
+            "Paul M. Goldbart",
+            "Nadya Mason"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 149,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/nphys1911.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.107.075502",
+        "title": "Torsional Response and Dissipationless Viscosity in Topological Insulators",
+        "journal": "Physical Review Letters",
+        "year": 2011,
+        "citations": 147,
+        "authors": "Taylor L. Hughes, Robert G. Leigh, Eduardo Fradkin",
+        "authors_list": [
+            "Taylor L. Hughes",
+            "Robert G. Leigh",
+            "Eduardo Fradkin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 147,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1101.3541"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.133.106601",
+        "title": "Altermagnetic Routes to Majorana Modes in Zero Net Magnetization",
+        "journal": "Physical Review Letters",
+        "year": 2024,
+        "citations": 146,
+        "authors": "Sayed Ali Akbar Ghorashi, Taylor L. Hughes, Jennifer Cano",
+        "authors_list": [
+            "Sayed Ali Akbar Ghorashi",
+            "Taylor L. Hughes",
+            "Jennifer Cano"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 146,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/2474337"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.103.l140201",
+        "title": "Skin effect and winding number in disordered non-Hermitian systems",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2021,
+        "citations": 144,
+        "authors": "Jahan Claes, Taylor L. Hughes",
+        "authors_list": [
+            "Jahan Claes",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 144,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/2007.03738"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.aop.2015.05.012",
+        "title": "Theory of twist liquids: Gauging an anyonic symmetry",
+        "journal": "Annals of Physics",
+        "year": 2015,
+        "citations": 131,
+        "authors": "Jeffrey C. Y. Teo, Taylor L. Hughes, Eduardo Fradkin",
+        "authors_list": [
+            "Jeffrey C. Y. Teo",
+            "Taylor L. Hughes",
+            "Eduardo Fradkin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 131,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1503.06812"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.100.020509",
+        "title": "Second-order Dirac superconductors and magnetic field induced Majorana hinge modes",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2019,
+        "citations": 119,
+        "authors": "Sayed Ali Akbar Ghorashi, Xiang Hu, Taylor L. Hughes et al.",
+        "authors_list": [
+            "Sayed Ali Akbar Ghorashi",
+            "Xiang Hu",
+            "Taylor L. Hughes",
+            "Enrico Rossi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 119,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1901.07579"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.84.195103",
+        "title": "Trace index and spectral flow in the entanglement spectrum of topological insulators",
+        "journal": "Physical Review B",
+        "year": 2011,
+        "citations": 102,
+        "authors": "A. Alexandradinata, Taylor L. Hughes, B. Andrei Bernevig",
+        "authors_list": [
+            "A. Alexandradinata",
+            "Taylor L. Hughes",
+            "B. Andrei Bernevig"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1108.2907"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.99.146804",
+        "title": "Theory of the Three-Dimensional Quantum Hall Effect in Graphite",
+        "journal": "Physical Review Letters",
+        "year": 2007,
+        "citations": 100,
+        "authors": "B. Andrei Bernevig, Taylor L. Hughes, S. Raghu et al.",
+        "authors_list": [
+            "B. Andrei Bernevig",
+            "Taylor L. Hughes",
+            "S. Raghu",
+            "Daniel P. Arovas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 100,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0701436"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev-conmatphys-031016-025154",
+        "title": "Topological Defects in Symmetry-Protected Topological Phases",
+        "journal": "Annual Review of Condensed Matter Physics",
+        "year": 2017,
+        "citations": 98,
+        "authors": "Jeffrey C. Y. Teo, Taylor L. Hughes",
+        "authors_list": [
+            "Jeffrey C. Y. Teo",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.127.066401",
+        "title": "Geometric Response and Disclination-Induced Skin Effects in Non-Hermitian Systems",
+        "journal": "Physical Review Letters",
+        "year": 2021,
+        "citations": 98,
+        "authors": "Xiao-Qi Sun, Penghao Zhu, Taylor L. Hughes",
+        "authors_list": [
+            "Xiao-Qi Sun",
+            "Penghao Zhu",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/2102.05667"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.93.075108",
+        "title": "Phase diagrams of disordered Weyl semimetals",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2016,
+        "citations": 97,
+        "authors": "Hassan Shapourian, Taylor L. Hughes",
+        "authors_list": [
+            "Hassan Shapourian",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1509.02933"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Quantum Spin Hall Effect and Topological Phase Transition in HgTe Quantum Wells",
+        "journal": "Bulletin of the American Physical Society",
+        "year": 2007,
+        "citations": 95,
+        "authors": "Shoucheng Zhang, B. Andrei Bernevig, Taylor L. Hughes",
+        "authors_list": [
+            "Shoucheng Zhang",
+            "B. Andrei Bernevig",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.99.121111",
+        "title": "Semiclassical wave packet dynamics in nonuniform electric fields",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2019,
+        "citations": 89,
+        "authors": "Matthew F. Lapa, Taylor L. Hughes",
+        "authors_list": [
+            "Matthew F. Lapa",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1812.10497"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physreve.89.043019",
+        "title": "Swimming at low Reynolds number in fluids with odd, or Hall, viscosity",
+        "journal": "Physical Review E",
+        "year": 2014,
+        "citations": 88,
+        "authors": "Matthew F. Lapa, Taylor L. Hughes",
+        "authors_list": [
+            "Matthew F. Lapa",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1310.6270"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.92.165131",
+        "title": "Viscoelastic response of topological tight-binding models in two and three dimensions",
+        "journal": "Physical Review B",
+        "year": 2015,
+        "citations": 82,
+        "authors": "Hassan Shapourian, Taylor L. Hughes, Shinsei Ryu",
+        "authors_list": [
+            "Hassan Shapourian",
+            "Taylor L. Hughes",
+            "Shinsei Ryu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1505.03868"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevd.90.105004",
+        "title": "Torsion, parity-odd response, and anomalies in topological states",
+        "journal": "Physical review. D. Particles, fields, gravitation, and cosmology/Physical review. D. Particles and fields",
+        "year": 2014,
+        "citations": 81,
+        "authors": "Onkar Parrikar, Taylor L. Hughes, Robert G. Leigh",
+        "authors_list": [
+            "Onkar Parrikar",
+            "Taylor L. Hughes",
+            "Robert G. Leigh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1407.7043"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.103.245128",
+        "title": "Multipolar topological field theories: Bridging higher order topological insulators and fractons",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2021,
+        "citations": 79,
+        "authors": "Yizhi You, F. J. Burnell, Taylor L. Hughes",
+        "authors_list": [
+            "Yizhi You",
+            "F. J. Burnell",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 79,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1909.05868"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.92.035154",
+        "title": "Phase diagram of the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:msub><mml:mi>Z</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:math>parafermionic chain with chiral interactions",
+        "journal": "Physical Review B",
+        "year": 2015,
+        "citations": 76,
+        "authors": "Ye Zhuang, Hitesh J. Changlani, Norm M. Tubman et al.",
+        "authors_list": [
+            "Ye Zhuang",
+            "Hitesh J. Changlani",
+            "Norm M. Tubman",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1502.05049"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.84.144507",
+        "title": "Vortex lines in topological insulator-superconductor heterostructures",
+        "journal": "Physical Review B",
+        "year": 2011,
+        "citations": 73,
+        "authors": "Ching‐Kai Chiu, Matthew J. Gilbert, Taylor L. Hughes",
+        "authors_list": [
+            "Ching‐Kai Chiu",
+            "Matthew J. Gilbert",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1108.4711"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-021-24561-3",
+        "title": "Evidence for one-dimensional chiral edge states in a magnetic Weyl semimetal Co3Sn2S2",
+        "journal": "Nature Communications",
+        "year": 2021,
+        "citations": 71,
+        "authors": "Sean Howard, Lin Jiao, Zhenyu Wang et al.",
+        "authors_list": [
+            "Sean Howard",
+            "Lin Jiao",
+            "Zhenyu Wang",
+            "Noam Morali",
+            "Rajib Batabyal",
+            "Pranab Kumar-Nag",
+            "Nurit Avraham",
+            "Haim Beidenkopf",
+            "Praveen Vir",
+            "Enke Liu",
+            "Chandra Shekhar",
+            "Claudia Felser",
+            "Taylor L. Hughes",
+            "Vidya Madhavan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-021-24561-3.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.92.064203",
+        "title": "Many-body mobility edge due to symmetry-constrained dynamics and strong interactions",
+        "journal": "Physical Review B",
+        "year": 2015,
+        "citations": 70,
+        "authors": "Ian Mondragon-Shem, Arijeet Pal, Taylor L. Hughes et al.",
+        "authors_list": [
+            "Ian Mondragon-Shem",
+            "Arijeet Pal",
+            "Taylor L. Hughes",
+            "Chris R. Laumann"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1501.03824"
+        }
+    },
+    {
+        "doi": null,
+        "title": "Evidence for higher order topology in Bi and Bi0.92Sb0.08",
+        "journal": "RePEc: Research Papers in Economics",
+        "year": null,
+        "citations": 70,
+        "authors": "Leena Aggarwal, Penghao Zhu, Taylor L. Hughes et al.",
+        "authors_list": [
+            "Leena Aggarwal",
+            "Penghao Zhu",
+            "Taylor L. Hughes",
+            "Vidya Madhavan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 70,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.93.134512",
+        "title": "Topological superconducting phases from inversion symmetry breaking order in spin-orbit-coupled systems",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2016,
+        "citations": 66,
+        "authors": "Yuxuan Wang, Gil Young Cho, Taylor L. Hughes et al.",
+        "authors_list": [
+            "Yuxuan Wang",
+            "Gil Young Cho",
+            "Taylor L. Hughes",
+            "Eduardo Fradkin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1602.02778"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.92.085105",
+        "title": "Patterns of electromagnetic response in topological semimetals",
+        "journal": "Physical Review B",
+        "year": 2015,
+        "citations": 65,
+        "authors": "Srinidhi T. Ramamurthy, Taylor L. Hughes",
+        "authors_list": [
+            "Srinidhi T. Ramamurthy",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1405.7377"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.94.085102",
+        "title": "Response properties of axion insulators and Weyl semimetals driven by screw dislocations and dynamical axion strings",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2016,
+        "citations": 65,
+        "authors": "Yizhi You, Gil Young Cho, Taylor L. Hughes",
+        "authors_list": [
+            "Yizhi You",
+            "Gil Young Cho",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1605.02734"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-023-36130-x",
+        "title": "Higher rank chirality and non-Hermitian skin effect in a topolectrical circuit",
+        "journal": "Nature Communications",
+        "year": 2023,
+        "citations": 62,
+        "authors": "Penghao Zhu, Xiao-Qi Sun, Taylor L. Hughes et al.",
+        "authors_list": [
+            "Penghao Zhu",
+            "Xiao-Qi Sun",
+            "Taylor L. Hughes",
+            "Gaurav Bahl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-023-36130-x.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.92.075104",
+        "title": "Interactions along an entanglement cut in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mrow><mml:mo>2</mml:mo><mml:mo>+</mml:mo><mml:mn>1</mml:mn><mml:mi mathvariant=\"normal\">D</mml:mi></mml:mrow></mml:math>Abelian topological phases",
+        "journal": "Physical Review B",
+        "year": 2015,
+        "citations": 62,
+        "authors": "Jennifer Cano, Taylor L. Hughes, Michael Mulligan",
+        "authors_list": [
+            "Jennifer Cano",
+            "Taylor L. Hughes",
+            "Michael Mulligan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 62,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1411.5369"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.90.235123",
+        "title": "Majorana zero modes in dislocations of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:msub><mml:mi mathvariant=\"normal\">Sr</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi mathvariant=\"normal\">RuO</mml:mi><mml:mn>4</mml:mn></mml:msub></mml:math>",
+        "journal": "Physical Review B",
+        "year": 2014,
+        "citations": 59,
+        "authors": "Taylor L. Hughes, Hong Yao, Xiao‐Liang Qi",
+        "authors_list": [
+            "Taylor L. Hughes",
+            "Hong Yao",
+            "Xiao‐Liang Qi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1303.1539"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.87.085132",
+        "title": "Effective field theories for topological insulators by functional bosonization",
+        "journal": "Physical Review B",
+        "year": 2013,
+        "citations": 59,
+        "authors": "AtMa P. O. Chan, Taylor L. Hughes, Shinsei Ryu et al.",
+        "authors_list": [
+            "AtMa P. O. Chan",
+            "Taylor L. Hughes",
+            "Shinsei Ryu",
+            "Eduardo Fradkin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1210.4305"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.125.037001",
+        "title": "Vortex and Surface Phase Transitions in Superconducting Higher-order Topological Insulators",
+        "journal": "Physical Review Letters",
+        "year": 2020,
+        "citations": 59,
+        "authors": "Sayed Ali Akbar Ghorashi, Taylor L. Hughes, Enrico Rossi",
+        "authors_list": [
+            "Sayed Ali Akbar Ghorashi",
+            "Taylor L. Hughes",
+            "Enrico Rossi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1909.10536"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.115.257402",
+        "title": "Surface Collective Modes in the Topological Insulators<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>Bi</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>Se</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mrow></mml:math>and<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>Bi</mml:mi></mml:mrow><mml:mrow><mml:mn>0.5</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>Sb</mml:mi></mml:mrow><mml:mrow><mml:mn>1.5</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>Te</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn><mml:mo>−</mml:mo><mml:mi>x</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:msub><mml:mrow><mml:mi>Se</mml:mi></mml:mrow><mml:mrow><mml:mi>x</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mrow></mml:mrow></mml:math>",
+        "journal": "Physical Review Letters",
+        "year": 2015,
+        "citations": 55,
+        "authors": "Anshul Kogar, Sean Vig, A. Thaler et al.",
+        "authors_list": [
+            "Anshul Kogar",
+            "Sean Vig",
+            "A. Thaler",
+            "Man Hoi Wong",
+            "Yiran Xiao",
+            "Dalmau Reig‐i‐Plessis",
+            "Gil Young Cho",
+            "T. Valla",
+            "Z.-H. Pan",
+            "John Schneeloch",
+            "Ruidan Zhong",
+            "Genda Gu",
+            "Taylor L. Hughes",
+            "G. J. MacDougall",
+            "T.‐C. Chiang",
+            "Peter Abbamonte"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1505.03784"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.95.075138",
+        "title": "Quasitopological electromagnetic response of line-node semimetals",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2017,
+        "citations": 54,
+        "authors": "Srinidhi T. Ramamurthy, Taylor L. Hughes",
+        "authors_list": [
+            "Srinidhi T. Ramamurthy",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1508.01205"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-022-29785-5",
+        "title": "Bound states at partial dislocation defects in multipole higher-order topological insulators",
+        "journal": "Nature Communications",
+        "year": 2022,
+        "citations": 53,
+        "authors": "Sasha S. Yamada, Tianhe Li, Mao Lin et al.",
+        "authors_list": [
+            "Sasha S. Yamada",
+            "Tianhe Li",
+            "Mao Lin",
+            "Christopher W. Peterson",
+            "Taylor L. Hughes",
+            "Gaurav Bahl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-022-29785-5.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.110.046806",
+        "title": "Characterizing Disordered Fermion Systems Using the Momentum-Space Entanglement Spectrum",
+        "journal": "Physical Review Letters",
+        "year": 2013,
+        "citations": 48,
+        "authors": "Ian Mondragon-Shem, Mayukh Nilay Khan, Taylor L. Hughes",
+        "authors_list": [
+            "Ian Mondragon-Shem",
+            "Mayukh Nilay Khan",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1206.3313"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/jhep09(2017)056",
+        "title": "Interface contributions to topological entanglement in abelian Chern-Simons theory",
+        "journal": "Journal of High Energy Physics",
+        "year": 2017,
+        "citations": 47,
+        "authors": "Jackson R. Fliss, Xueda Wen, Onkar Parrikar et al.",
+        "authors_list": [
+            "Jackson R. Fliss",
+            "Xueda Wen",
+            "Onkar Parrikar",
+            "Chang-Tse Hsieh",
+            "Bo Han",
+            "Taylor L. Hughes",
+            "Robert G. Leigh"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 47,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2FJHEP09%282017%29056.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.123.063901",
+        "title": "Strong Nonreciprocity in Modulated Resonator Chains through Synthetic Electric and Magnetic Fields",
+        "journal": "Physical Review Letters",
+        "year": 2019,
+        "citations": 46,
+        "authors": "Christopher W. Peterson, Wladimir A. Benalcazar, Mao Lin et al.",
+        "authors_list": [
+            "Christopher W. Peterson",
+            "Wladimir A. Benalcazar",
+            "Mao Lin",
+            "Taylor L. Hughes",
+            "Gaurav Bahl"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 46,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1903.07408"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.94.115104",
+        "title": "Composite particle theory of three-dimensional gapped fermionic phases: Fractional topological insulators and charge-loop excitation symmetry",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2016,
+        "citations": 43,
+        "authors": "Peng Ye, Taylor L. Hughes, Joseph Maciejko et al.",
+        "authors_list": [
+            "Peng Ye",
+            "Taylor L. Hughes",
+            "Joseph Maciejko",
+            "Eduardo Fradkin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 43,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1603.02696"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.133.136503",
+        "title": "Many-Body Non-Hermitian Skin Effect for Multipoles",
+        "journal": "Physical Review Letters",
+        "year": 2024,
+        "citations": 36,
+        "authors": "Jacopo Gliozzi, Giuseppe De Tomasi, Taylor L. Hughes",
+        "authors_list": [
+            "Jacopo Gliozzi",
+            "Giuseppe De Tomasi",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 36,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.90.235149",
+        "title": "Anyonic symmetries and topological defects in Abelian topological phases: An application to the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mrow><mml:mi>A</mml:mi><mml:mi>D</mml:mi><mml:mi>E</mml:mi></mml:mrow></mml:math>classification",
+        "journal": "Physical Review B",
+        "year": 2014,
+        "citations": 33,
+        "authors": "Mayukh Nilay Khan, Jeffrey C. Y. Teo, Taylor L. Hughes",
+        "authors_list": [
+            "Mayukh Nilay Khan",
+            "Jeffrey C. Y. Teo",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 33,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1403.6478"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41535-022-00433-x",
+        "title": "Nanoscale studies of electric field effects on monolayer 1T′-WTe2",
+        "journal": "npj Quantum Materials",
+        "year": 2022,
+        "citations": 32,
+        "authors": "Yulia Maximenko, Yueqing Chang, Guannan Chen et al.",
+        "authors_list": [
+            "Yulia Maximenko",
+            "Yueqing Chang",
+            "Guannan Chen",
+            "Mark R. Hirsbrunner",
+            "W. Świȩch",
+            "Taylor L. Hughes",
+            "Lucas K. Wagner",
+            "Vidya Madhavan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 32,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41535-022-00433-x.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.98.075131",
+        "title": "Symmetry-protected topological interfaces and entanglement sequences",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2018,
+        "citations": 31,
+        "authors": "Luiz H. Santos, Jennifer Cano, Michael Mulligan et al.",
+        "authors_list": [
+            "Luiz H. Santos",
+            "Jennifer Cano",
+            "Michael Mulligan",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 31,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1803.04418"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.116.086802",
+        "title": "Bulk Topological Proximity Effect",
+        "journal": "Physical Review Letters",
+        "year": 2016,
+        "citations": 31,
+        "authors": "Timothy H. Hsieh, Hiroaki Ishizuka, Leon Balents et al.",
+        "authors_list": [
+            "Timothy H. Hsieh",
+            "Hiroaki Ishizuka",
+            "Leon Balents",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 31,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1510.02803"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.95.035149",
+        "title": "Topological electromagnetic responses of bosonic quantum Hall, topological insulator, and chiral semimetal phases in all dimensions",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2017,
+        "citations": 30,
+        "authors": "Matthew F. Lapa, Chao‐Ming Jian, Peng Ye et al.",
+        "authors_list": [
+            "Matthew F. Lapa",
+            "Chao‐Ming Jian",
+            "Peng Ye",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 30,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1611.03504"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.111.025304",
+        "title": "Disclination Classes, Fractional Excitations, and the Melting of Quantum Liquid Crystals",
+        "journal": "Physical Review Letters",
+        "year": 2013,
+        "citations": 30,
+        "authors": "Sarang Gopalakrishnan, Jeffrey C. Y. Teo, Taylor L. Hughes",
+        "authors_list": [
+            "Sarang Gopalakrishnan",
+            "Jeffrey C. Y. Teo",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 30,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1302.3617"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.86.201406",
+        "title": "Designer quantum spin Hall phase transition in molecular graphene",
+        "journal": "Physical Review B",
+        "year": 2012,
+        "citations": 30,
+        "authors": "Pouyan Ghaemi, Sarang Gopalakrishnan, Taylor L. Hughes",
+        "authors_list": [
+            "Pouyan Ghaemi",
+            "Sarang Gopalakrishnan",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 30,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1205.4728"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.81.159901",
+        "title": "Erratum: Topological field theory of time-reversal invariant insulators [Phys. Rev. B<b>78</b>, 195424 (2008)]",
+        "journal": "Physical Review B",
+        "year": 2010,
+        "citations": 30,
+        "authors": "Xiao‐Liang Qi, Taylor L. Hughes, Shou-Cheng Zhang",
+        "authors_list": [
+            "Xiao‐Liang Qi",
+            "Taylor L. Hughes",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "erratum",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 30,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://link.aps.org/pdf/10.1103/PhysRevB.81.159901"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.103.024205",
+        "title": "Topological crystalline phases in a disordered inversion-symmetric chain",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2021,
+        "citations": 29,
+        "authors": "Saavanth Velury, Barry Bradlyn, Taylor L. Hughes",
+        "authors_list": [
+            "Saavanth Velury",
+            "Barry Bradlyn",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 29,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/2007.11585"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.87.035401",
+        "title": "Vortex lattices in the superconducting phases of doped topological insulators and heterostructures",
+        "journal": "Physical Review B",
+        "year": 2013,
+        "citations": 29,
+        "authors": "Hsiang-Hsuan Hung, Pouyan Ghaemi, Taylor L. Hughes et al.",
+        "authors_list": [
+            "Hsiang-Hsuan Hung",
+            "Pouyan Ghaemi",
+            "Taylor L. Hughes",
+            "Matthew J. Gilbert"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 29,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1209.6373"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.aop.2020.168297",
+        "title": "Higher-form gauge symmetries in multipole topological phases",
+        "journal": "Annals of Physics",
+        "year": 2020,
+        "citations": 28,
+        "authors": "Oleg Dubinkin, Alex Rasmussen, Taylor L. Hughes",
+        "authors_list": [
+            "Oleg Dubinkin",
+            "Alex Rasmussen",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 28,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/2007.05539"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.93.115131",
+        "title": "Interaction-enabled topological crystalline phases",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2016,
+        "citations": 28,
+        "authors": "Matthew F. Lapa, Jeffrey C. Y. Teo, Taylor L. Hughes",
+        "authors_list": [
+            "Matthew F. Lapa",
+            "Jeffrey C. Y. Teo",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 28,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1409.1234"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.81.060403",
+        "title": "Topological quantum phase transition in an exactly solvable model of a chiral spin liquid at finite temperature",
+        "journal": "Physical Review B",
+        "year": 2010,
+        "citations": 28,
+        "authors": "Suk Bum Chung, Hong Yao, Taylor L. Hughes et al.",
+        "authors_list": [
+            "Suk Bum Chung",
+            "Hong Yao",
+            "Taylor L. Hughes",
+            "Eun-Ah Kim"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 28,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0909.2655"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.109.237009",
+        "title": "Stabilization of Majorana Modes in Magnetic Vortices in the Superconducting Phase of Topological Insulators using Topologically Trivial Bands",
+        "journal": "Physical Review Letters",
+        "year": 2012,
+        "citations": 27,
+        "authors": "Ching‐Kai Chiu, Pouyan Ghaemi, Taylor L. Hughes",
+        "authors_list": [
+            "Ching‐Kai Chiu",
+            "Pouyan Ghaemi",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 27,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1203.2958"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.106.235130",
+        "title": "Fracton critical point at a higher-order topological phase transition",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2022,
+        "citations": 27,
+        "authors": "Yizhi You, Julian Bibo, Frank Pollmann et al.",
+        "authors_list": [
+            "Yizhi You",
+            "Julian Bibo",
+            "Frank Pollmann",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 27,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.118.136801",
+        "title": "Parafermionic Wires at the Interface of Chiral Topological States",
+        "journal": "Physical Review Letters",
+        "year": 2017,
+        "citations": 26,
+        "authors": "Luiz H. Santos, Taylor L. Hughes",
+        "authors_list": [
+            "Luiz H. Santos",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 26,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1609.06714"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1142/s0217979206035448",
+        "title": "BAND COLLAPSE AND THE QUANTUM HALL EFFECT IN GRAPHENE",
+        "journal": "International Journal of Modern Physics B",
+        "year": 2006,
+        "citations": 26,
+        "authors": "B. Andrei Bernevig, Taylor L. Hughes, Shou-Cheng Zhang et al.",
+        "authors_list": [
+            "B. Andrei Bernevig",
+            "Taylor L. Hughes",
+            "Shou-Cheng Zhang",
+            "Han-Dong Chen",
+            "Congjun Wu"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 26,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0607774"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.90.205403",
+        "title": "Spin-transfer torque and electric current in helical edge states in quantum spin Hall devices",
+        "journal": "Physical Review B",
+        "year": 2014,
+        "citations": 26,
+        "authors": "Qinglei Meng, Smitha Vishveshwara, Taylor L. Hughes",
+        "authors_list": [
+            "Qinglei Meng",
+            "Smitha Vishveshwara",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 26,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1312.7303"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.86.134201",
+        "title": "Rényi entropy and the multifractal spectra of systems near the localization transition",
+        "journal": "Physical Review B",
+        "year": 2012,
+        "citations": 25,
+        "authors": "Xiao Chen, Benjamin Hsu, Taylor L. Hughes et al.",
+        "authors_list": [
+            "Xiao Chen",
+            "Benjamin Hsu",
+            "Taylor L. Hughes",
+            "Eduardo Fradkin"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 25,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1205.5276"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.105.245122",
+        "title": "Interaction-enabled fractonic higher-order topological phases",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2022,
+        "citations": 25,
+        "authors": "Julian May-Mann, Yizhi You, Taylor L. Hughes et al.",
+        "authors_list": [
+            "Julian May-Mann",
+            "Yizhi You",
+            "Taylor L. Hughes",
+            "Zhen Bi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 25,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/2202.01231"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.109.176803",
+        "title": "Topological Insulator Magnetic Tunnel Junctions: Quantum Hall Effect and Fractional Charge via Folding",
+        "journal": "Physical Review Letters",
+        "year": 2012,
+        "citations": 24,
+        "authors": "Qinglei Meng, Smitha Vishveshwara, Taylor L. Hughes",
+        "authors_list": [
+            "Qinglei Meng",
+            "Smitha Vishveshwara",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1202.5297"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41535-023-00564-9",
+        "title": "Higher order topological superconductivity in magnet-superconductor hybrid systems",
+        "journal": "npj Quantum Materials",
+        "year": 2023,
+        "citations": 24,
+        "authors": "Ka Ho Wong, Mark R. Hirsbrunner, Jacopo Gliozzi et al.",
+        "authors_list": [
+            "Ka Ho Wong",
+            "Mark R. Hirsbrunner",
+            "Jacopo Gliozzi",
+            "Arbaz Malik",
+            "Barry Bradlyn",
+            "Taylor L. Hughes",
+            "Dirk K. Morr"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41535-023-00564-9.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.90.104204",
+        "title": "Signatures of metal-insulator and topological phase transitions in the entanglement of one-dimensional disordered fermions",
+        "journal": "Physical Review B",
+        "year": 2014,
+        "citations": 24,
+        "authors": "Ian Mondragon-Shem, Taylor L. Hughes",
+        "authors_list": [
+            "Ian Mondragon-Shem",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1403.6129"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.100.115126",
+        "title": "Embedded topological insulators",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2019,
+        "citations": 24,
+        "authors": "Thomas I. Tuegel, Victor Chua, Taylor L. Hughes",
+        "authors_list": [
+            "Thomas I. Tuegel",
+            "Victor Chua",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1802.06790"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.101.224201",
+        "title": "Disorder driven phase transitions in weak AIII topological insulators",
+        "journal": "Physical review. B./Physical review. B",
+        "year": 2020,
+        "citations": 24,
+        "authors": "Jahan Claes, Taylor L. Hughes",
+        "authors_list": [
+            "Jahan Claes",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 24,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1910.11352"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevb.86.165110",
+        "title": "Fractional spin Josephson effect and electrically controlled magnetization in quantum spin Hall edges",
+        "journal": "Physical Review B",
+        "year": 2012,
+        "citations": 22,
+        "authors": "Qinglei Meng, Vasudha Shivamoggi, Taylor L. Hughes et al.",
+        "authors_list": [
+            "Qinglei Meng",
+            "Vasudha Shivamoggi",
+            "Taylor L. Hughes",
+            "Matthew J. Gilbert",
+            "Smitha Vishveshwara"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1206.1295"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1556-4029.2011.01875.x",
+        "title": "A Simulation for Exploring the Effects of the “Trait List” Method’s Subjectivity on Consistency and Accuracy of Ancestry Estimations*",
+        "journal": "Journal of Forensic Sciences",
+        "year": 2011,
+        "citations": 22,
+        "authors": "Cris E Hughes, Chelsey A. Juarez, Taylor L. Hughes et al.",
+        "authors_list": [
+            "Cris E Hughes",
+            "Chelsey A. Juarez",
+            "Taylor L. Hughes",
+            "Alison Galloway",
+            "Gillian Fowler",
+            "Shirley Chacon"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 22,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://figshare.com/articles/journal_contribution/A_simulation_for_exploring_the_effects_of_the_trait_list_method_s_subjectivity_on_consistency_and_accuracy_of_ancestry_estimations/24405223"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.106.161102",
+        "title": "Torsional Monopoles and Torqued Geometries in Gravity and Condensed Matter",
+        "journal": "Physical Review Letters",
+        "year": 2011,
+        "citations": 21,
+        "authors": "Andrew Randono, Taylor L. Hughes",
+        "authors_list": [
+            "Andrew Randono",
+            "Taylor L. Hughes"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 21,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1010.1031"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.78.195424",
+        "title": "Topological field theory of time-reversal invariant insulators",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 2977,
+        "authors": "Xiao-Liang Qi, Taylor L. Hughes, Shou-Cheng Zhang",
+        "authors_list": [
+            "Xiao-Liang Qi",
+            "Taylor L. Hughes",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 2977
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0802.3537"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1143/jpsj.77.031007",
+        "title": "The Quantum Spin Hall Effect: Theory and Experiment",
+        "journal": "Journal of the Physical Society of Japan",
+        "year": 2008,
+        "citations": 739,
+        "authors": "Markus König, Hartmut Buhmann, Laurens W. Molenkamp et al.",
+        "authors_list": [
+            "Markus König",
+            "Hartmut Buhmann",
+            "Laurens W. Molenkamp",
+            "Taylor Hughes",
+            "Chao-Xing Liu",
+            "Xiao-Liang Qi",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 739
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0801.0901"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.99.245151",
+        "title": "Quantization of fractional corner charge in \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:msub><mml:mi>C</mml:mi><mml:mi>n</mml:mi></mml:msub></mml:math>\n-symmetric higher-order topological crystalline insulators",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 728,
+        "authors": "Wladimir A. Benalcazar, Tianhe Li, Taylor L. Hughes",
+        "authors_list": [
+            "Wladimir A. Benalcazar",
+            "Tianhe Li",
+            "Taylor L. Hughes"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 728
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1809.02142"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.100.236601",
+        "title": "Quantum Spin Hall Effect in Inverted Type-II Semiconductors",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 702,
+        "authors": "Chaoxing Liu, Taylor L. Hughes, Xiao-Liang Qi et al.",
+        "authors_list": [
+            "Chaoxing Liu",
+            "Taylor L. Hughes",
+            "Xiao-Liang Qi",
+            "Kang Wang",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 702
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0801.2831"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.102.187001",
+        "title": "Time-Reversal-Invariant Topological Superconductors and Superfluids in Two and Three Dimensions",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 677,
+        "authors": "Xiao-Liang Qi, Taylor L. Hughes, S. Raghu et al.",
+        "authors_list": [
+            "Xiao-Liang Qi",
+            "Taylor L. Hughes",
+            "S. Raghu",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 677
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0803.3614"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.82.184516",
+        "title": "Chiral topological superconductor from the quantum Hall state",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 521,
+        "authors": "Xiao-Liang Qi, Taylor L. Hughes, Shou-Cheng Zhang",
+        "authors_list": [
+            "Xiao-Liang Qi",
+            "Taylor L. Hughes",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 521
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1003.5448"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.83.245132",
+        "title": "Inversion-symmetric topological insulators",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 492,
+        "authors": "Taylor L. Hughes, Emil Prodan, B. Andrei Bernevig",
+        "authors_list": [
+            "Taylor L. Hughes",
+            "Emil Prodan",
+            "B. Andrei Bernevig"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 492
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1010.4508"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.81.134508",
+        "title": "Topological invariants for the Fermi surface of a time-reversal-invariant superconductor",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 274,
+        "authors": "Xiao-Liang Qi, Taylor L. Hughes, Shou-Cheng Zhang",
+        "authors_list": [
+            "Xiao-Liang Qi",
+            "Taylor L. Hughes",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 274
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0908.3550"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/s41563-021-01138-5",
+        "title": "Topological spintronics and magnetoelectronics",
+        "journal": "Nature Materials",
+        "year": 2022,
+        "citations": 272,
+        "authors": "Qing Lin He, Taylor L. Hughes, N. Peter Armitage et al.",
+        "authors_list": [
+            "Qing Lin He",
+            "Taylor L. Hughes",
+            "N. Peter Armitage",
+            "Yoshinori Tokura",
+            "Kang L. Wang"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 272
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.113.046802",
+        "title": "Topological Criticality in the Chiral-Symmetric AIII Class at Strong Disorder",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 256,
+        "authors": "Ian Mondragon-Shem, Taylor L. Hughes, Juntao Song et al.",
+        "authors_list": [
+            "Ian Mondragon-Shem",
+            "Taylor L. Hughes",
+            "Juntao Song",
+            "Emil Prodan"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 256
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1311.5233"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.95.066601",
+        "title": "Orbitronics: The Intrinsic Orbital Current in<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>p</mml:mi></mml:math>-Doped Silicon",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 259,
+        "authors": "B. Andrei Bernevig, Taylor L. Hughes, Shou-Cheng Zhang",
+        "authors_list": [
+            "B. Andrei Bernevig",
+            "Taylor L. Hughes",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 259
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/cond-mat/0502345"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevlett.103.261601",
+        "title": "Topological Entanglement Rényi Entropy and Reduced Density Matrix Structure",
+        "journal": "Physical Review Letters",
+        "year": null,
+        "citations": 176,
+        "authors": "Steven T. Flammia, Alioscia Hamma, Taylor L. Hughes et al.",
+        "authors_list": [
+            "Steven T. Flammia",
+            "Alioscia Hamma",
+            "Taylor L. Hughes",
+            "Xiao-Gang Wen"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 176
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0909.3305"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.98.165144",
+        "title": "Weak-pairing higher order topological superconductors",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 185,
+        "authors": "Yuxuan Wang, Mao Lin, Taylor L. Hughes",
+        "authors_list": [
+            "Yuxuan Wang",
+            "Mao Lin",
+            "Taylor L. Hughes"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 185
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1804.01531"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.77.125319",
+        "title": "Helical edge and surface states in HgTe quantum wells and bulk insulators",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 194,
+        "authors": "Xi Dai, Taylor L. Hughes, Xiao-Liang Qi et al.",
+        "authors_list": [
+            "Xi Dai",
+            "Taylor L. Hughes",
+            "Xiao-Liang Qi",
+            "Zhong Fang",
+            "Shou-Cheng Zhang"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 194
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/0705.1516"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.89.224503",
+        "title": "Classification of two-dimensional topological crystalline superconductors and Majorana bound states at disclinations",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 187,
+        "authors": "Wladimir A. Benalcazar, Jeffrey C. Y. Teo, Taylor L. Hughes",
+        "authors_list": [
+            "Wladimir A. Benalcazar",
+            "Jeffrey C. Y. Teo",
+            "Taylor L. Hughes"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 187
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1311.0496"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1103/physrevb.98.241103",
+        "title": "Topological quadrupolar semimetals",
+        "journal": "Physical Review B",
+        "year": null,
+        "citations": 174,
+        "authors": "Mao Lin, Taylor L. Hughes",
+        "authors_list": [
+            "Mao Lin",
+            "Taylor L. Hughes"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 174
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://arxiv.org/pdf/1708.08457"
+        }
+    }
+]

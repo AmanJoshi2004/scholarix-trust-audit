@@ -1,0 +1,51 @@
+[
+    {
+        "url": "https://communication.illinois.edu/directory/profile/mspoole",
+        "snippet": "Marshall Scott Poole. Marshall Scott Poole. Contact ... Group communication; Communication and collaboration; Organizational communication; Communication ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "This is a profile page with academic information, likely from a university website"
+    },
+    {
+        "url": "https://journals.sagepub.com/doi/10.1177/009365093020002002",
+        "snippet": "Group Decision Support Systems and Group Communication: A Comparison of Decision Making in Computer-Supported and Nonsupported Groups. MARSHALL SCOTT POOLE, ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "This is a research article from a academic journal, matching the author's profile as an expert in research assistance."
+    },
+    {
+        "url": "https://illinois.academia.edu/MarshallScottPoole/CurriculumVitae",
+        "snippet": "... Conference Programs \"Focus on the work of Marshall Scott Poole. ... Invited presentation for Texas Conference on Organizations, Lake Franklin, Texas.",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The snippet is about Marshall Scott Poole's curriculum vitae, which is likely related to academic publications."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Marshall_Scott_Poole",
+        "snippet": "Marshall Scott Poole (born 1951) is an American communication ... The Emerald Handbook of Group and Team Communication Research. Emerald Group ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "Snippet mentions a publication by the author, The Emerald Handbook of Group and Team Communication Research."
+    },
+    {
+        "url": "http://www.afirstlook.com/docs/adaptiveStruct.pdf",
+        "snippet": "Expanded treatment: Marshall Scott Poole, David Seibold, and Robert McPhee, \"The Struc turation of Group Decisions,\" in Communication and Group Decision Making, ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "PDF document available on a webpage, likely an academic publication or research paper"
+    },
+    {
+        "url": "https://scholar.google.com/citations?user=YvsRxGUAAAAJ&hl=en",
+        "snippet": "Marshall Scott Poole. Professor of Communication University of Illinois Urbana ... Communication and group decision making. RY Hirokawa, MS Poole. Sage ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The snippet appears to be a reference list entry from a scholar's profile, indicating a publication of some sort."
+    },
+    {
+        "url": "https://experts.illinois.edu/en/persons/marshall-scott-poole/",
+        "snippet": "Marshall Scott Poole is the David L. Swanson Professor of Communication, Senior Research Scientist at the National Center for Supercomputing Applications, ...",
+        "category": "Publication",
+        "relevance_score": 70,
+        "reasoning": "Author's profile on a university experts website, indicating academic publication"
+    }
+]

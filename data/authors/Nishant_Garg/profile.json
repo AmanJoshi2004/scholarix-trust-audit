@@ -1,0 +1,128 @@
+{
+    "id": "A5073814953",
+    "name": "Nishant Garg",
+    "affiliation": "University of Illinois Urbana-Champaign",
+    "topics": [
+        "Concrete and Cement Materials Research",
+        "Innovative concrete reinforcement materials",
+        "Recycling and utilization of industrial and municipal waste in materials production",
+        "Nuclear materials and radiation effects",
+        "Building materials and conservation"
+    ],
+    "keywords": [
+        "cementitious",
+        "reactivity",
+        "raman",
+        "concrete",
+        "imaging"
+    ],
+    "metrics": {
+        "citations": 1603,
+        "h_index": 19,
+        "publications": 86
+    },
+    "counts_by_year": [
+        {
+            "year": 2026,
+            "works_count": 1,
+            "oa_works_count": 1,
+            "cited_by_count": 0
+        },
+        {
+            "year": 2025,
+            "works_count": 20,
+            "oa_works_count": 13,
+            "cited_by_count": 48
+        },
+        {
+            "year": 2024,
+            "works_count": 15,
+            "oa_works_count": 8,
+            "cited_by_count": 265
+        },
+        {
+            "year": 2023,
+            "works_count": 15,
+            "oa_works_count": 12,
+            "cited_by_count": 292
+        },
+        {
+            "year": 2022,
+            "works_count": 10,
+            "oa_works_count": 6,
+            "cited_by_count": 133
+        },
+        {
+            "year": 2021,
+            "works_count": 5,
+            "oa_works_count": 5,
+            "cited_by_count": 108
+        },
+        {
+            "year": 2019,
+            "works_count": 3,
+            "oa_works_count": 1,
+            "cited_by_count": 189
+        },
+        {
+            "year": 2018,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 4
+        },
+        {
+            "year": 2017,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 125
+        },
+        {
+            "year": 2015,
+            "works_count": 5,
+            "oa_works_count": 1,
+            "cited_by_count": 165
+        },
+        {
+            "year": 2014,
+            "works_count": 4,
+            "oa_works_count": 0,
+            "cited_by_count": 160
+        },
+        {
+            "year": 2013,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 68
+        },
+        {
+            "year": 2012,
+            "works_count": 2,
+            "oa_works_count": 1,
+            "cited_by_count": 36
+        },
+        {
+            "year": 1984,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 10
+        }
+    ],
+    "verification": {
+        "personal_website": null,
+        "linkedin": null,
+        "researchgate": null,
+        "google_scholar": {
+            "verified": false,
+            "reason": "HTTP 429"
+        }
+    },
+    "orcid": {
+        "verified": true,
+        "orcid_id": "0000-0001-9292-8364",
+        "current_institution": [
+            "Aarhus Universitet",
+            "Princeton University",
+            "University of Illinois at Urbana-Champaign"
+        ]
+    }
+}

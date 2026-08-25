@@ -1,0 +1,340 @@
+{
+    "id": "A5045151661",
+    "name": "James K. V. Willson",
+    "affiliation": "University of Illinois Urbana-Champaign",
+    "topics": [
+        "Genetic factors in colorectal cancer",
+        "Colorectal Cancer Treatments and Studies",
+        "TGF-β signaling in diseases",
+        "Cancer Genomics and Diagnostics",
+        "DNA Repair Mechanisms"
+    ],
+    "keywords": [
+        "colon",
+        "human",
+        "cancer",
+        "growth",
+        "colorectal"
+    ],
+    "metrics": {
+        "citations": 37039,
+        "h_index": 74,
+        "publications": 226
+    },
+    "counts_by_year": [
+        {
+            "year": 2026,
+            "works_count": 4,
+            "oa_works_count": 3,
+            "cited_by_count": 4
+        },
+        {
+            "year": 2025,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 0
+        },
+        {
+            "year": 2024,
+            "works_count": 1,
+            "oa_works_count": 1,
+            "cited_by_count": 0
+        },
+        {
+            "year": 2023,
+            "works_count": 15,
+            "oa_works_count": 15,
+            "cited_by_count": 6
+        },
+        {
+            "year": 2021,
+            "works_count": 5,
+            "oa_works_count": 4,
+            "cited_by_count": 62
+        },
+        {
+            "year": 2019,
+            "works_count": 1,
+            "oa_works_count": 1,
+            "cited_by_count": 19
+        },
+        {
+            "year": 2017,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 13
+        },
+        {
+            "year": 2016,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 41
+        },
+        {
+            "year": 2015,
+            "works_count": 6,
+            "oa_works_count": 3,
+            "cited_by_count": 546
+        },
+        {
+            "year": 2014,
+            "works_count": 3,
+            "oa_works_count": 1,
+            "cited_by_count": 17
+        },
+        {
+            "year": 2013,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 15
+        },
+        {
+            "year": 2012,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 74
+        },
+        {
+            "year": 2011,
+            "works_count": 3,
+            "oa_works_count": 0,
+            "cited_by_count": 97
+        },
+        {
+            "year": 2010,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 14
+        },
+        {
+            "year": 2009,
+            "works_count": 5,
+            "oa_works_count": 2,
+            "cited_by_count": 1096
+        },
+        {
+            "year": 2008,
+            "works_count": 7,
+            "oa_works_count": 4,
+            "cited_by_count": 782
+        },
+        {
+            "year": 2007,
+            "works_count": 6,
+            "oa_works_count": 2,
+            "cited_by_count": 3089
+        },
+        {
+            "year": 2006,
+            "works_count": 5,
+            "oa_works_count": 1,
+            "cited_by_count": 3277
+        },
+        {
+            "year": 2005,
+            "works_count": 4,
+            "oa_works_count": 3,
+            "cited_by_count": 1030
+        },
+        {
+            "year": 2004,
+            "works_count": 8,
+            "oa_works_count": 5,
+            "cited_by_count": 4528
+        },
+        {
+            "year": 2003,
+            "works_count": 9,
+            "oa_works_count": 2,
+            "cited_by_count": 1196
+        },
+        {
+            "year": 2002,
+            "works_count": 10,
+            "oa_works_count": 3,
+            "cited_by_count": 758
+        },
+        {
+            "year": 2001,
+            "works_count": 9,
+            "oa_works_count": 1,
+            "cited_by_count": 620
+        },
+        {
+            "year": 1999,
+            "works_count": 6,
+            "oa_works_count": 1,
+            "cited_by_count": 670
+        },
+        {
+            "year": 1998,
+            "works_count": 13,
+            "oa_works_count": 7,
+            "cited_by_count": 4491
+        },
+        {
+            "year": 1997,
+            "works_count": 3,
+            "oa_works_count": 0,
+            "cited_by_count": 106
+        },
+        {
+            "year": 1996,
+            "works_count": 12,
+            "oa_works_count": 3,
+            "cited_by_count": 1840
+        },
+        {
+            "year": 1995,
+            "works_count": 11,
+            "oa_works_count": 1,
+            "cited_by_count": 5203
+        },
+        {
+            "year": 1994,
+            "works_count": 6,
+            "oa_works_count": 2,
+            "cited_by_count": 1071
+        },
+        {
+            "year": 1993,
+            "works_count": 8,
+            "oa_works_count": 2,
+            "cited_by_count": 909
+        },
+        {
+            "year": 1992,
+            "works_count": 4,
+            "oa_works_count": 1,
+            "cited_by_count": 391
+        },
+        {
+            "year": 1991,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 249
+        },
+        {
+            "year": 1990,
+            "works_count": 5,
+            "oa_works_count": 1,
+            "cited_by_count": 3060
+        },
+        {
+            "year": 1989,
+            "works_count": 5,
+            "oa_works_count": 0,
+            "cited_by_count": 139
+        },
+        {
+            "year": 1988,
+            "works_count": 4,
+            "oa_works_count": 0,
+            "cited_by_count": 86
+        },
+        {
+            "year": 1987,
+            "works_count": 9,
+            "oa_works_count": 0,
+            "cited_by_count": 454
+        },
+        {
+            "year": 1986,
+            "works_count": 5,
+            "oa_works_count": 0,
+            "cited_by_count": 143
+        },
+        {
+            "year": 1985,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 32
+        },
+        {
+            "year": 1984,
+            "works_count": 6,
+            "oa_works_count": 0,
+            "cited_by_count": 422
+        },
+        {
+            "year": 1982,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 40
+        },
+        {
+            "year": 1981,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 28
+        },
+        {
+            "year": 1980,
+            "works_count": 4,
+            "oa_works_count": 0,
+            "cited_by_count": 162
+        },
+        {
+            "year": 1978,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 48
+        },
+        {
+            "year": 1976,
+            "works_count": 2,
+            "oa_works_count": 2,
+            "cited_by_count": 44
+        },
+        {
+            "year": 1975,
+            "works_count": 1,
+            "oa_works_count": 1,
+            "cited_by_count": 16
+        },
+        {
+            "year": 1974,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 0
+        },
+        {
+            "year": 1971,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 5
+        },
+        {
+            "year": 1970,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 25
+        },
+        {
+            "year": 1959,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 76
+        },
+        {
+            "year": 1954,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 45
+        }
+    ],
+    "verification": {
+        "personal_website": null,
+        "linkedin": null,
+        "researchgate": null,
+        "google_scholar": {
+            "verified": false,
+            "reason": "HTTP 429"
+        }
+    },
+    "orcid": {
+        "verified": false,
+        "orcid_id": null,
+        "current_institution": null
+    }
+}

@@ -1,0 +1,3394 @@
+[
+    {
+        "doi": "https://doi.org/10.1111/j.1750-3841.2010.01561.x",
+        "title": "Caffeine (1, 3, 7‐trimethylxanthine) in Foods: A Comprehensive Review on Consumption, Functionality, Safety, and Regulatory Matters",
+        "journal": "Journal of Food Science",
+        "year": 2010,
+        "citations": 911,
+        "authors": "Melanie A. Heckman, Jorge Weil, Elvira González de Mejı́a",
+        "authors_list": [
+            "Melanie A. Heckman",
+            "Jorge Weil",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 911,
+            "crossref": 713
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1750-3841.2010.01561.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1750-3841.2007.00535.x",
+        "title": "Yerba Mate Tea ( <i>Ilex paraguariensis</i> ): A Comprehensive Review on Chemistry, Health Implications, and Technological Considerations",
+        "journal": "Journal of Food Science",
+        "year": 2007,
+        "citations": 705,
+        "authors": "Caleb I. Heck, Elvira González de Mejı́a",
+        "authors_list": [
+            "Caleb I. Heck",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 705,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1750-3841.2007.00535.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/1541-4337.12244",
+        "title": "Natural Pigments: Stabilization Methods of Anthocyanins for Food Applications",
+        "journal": "Comprehensive Reviews in Food Science and Food Safety",
+        "year": 2016,
+        "citations": 515,
+        "authors": "Regina Cortez, Diego A. Luna‐Vital, Daniel Margulis et al.",
+        "authors_list": [
+            "Regina Cortez",
+            "Diego A. Luna‐Vital",
+            "Daniel Margulis",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 515,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1541-4337.2005.tb00075.x",
+        "title": "A New Frontier in Soy Bioactive Peptides that May Prevent Age‐related Chronic Diseases",
+        "journal": "Comprehensive Reviews in Food Science and Food Safety",
+        "year": 2005,
+        "citations": 390,
+        "authors": "Wenyi Wang, Elvira González de Mejı́a",
+        "authors_list": [
+            "Wenyi Wang",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 390,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1541-4337.2005.tb00075.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1541-4337.2010.00111.x",
+        "title": "Energy Drinks: An Assessment of Their Market Size, Consumer Demographics, Ingredient Profile, Functionality, and Regulations in the United States",
+        "journal": "Comprehensive Reviews in Food Science and Food Safety",
+        "year": 2010,
+        "citations": 381,
+        "authors": "Melanie A. Heckman, K. Sherry, Elvira González de Mejı́a",
+        "authors_list": [
+            "Melanie A. Heckman",
+            "K. Sherry",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 381,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10408390591034445",
+        "title": "Lectins as Bioactive Plant Proteins: A Potential in Cancer Treatment",
+        "journal": "Critical Reviews in Food Science and Nutrition",
+        "year": 2005,
+        "citations": 347,
+        "authors": "Elvira González de Mejı́a, Valentin Prisecaru",
+        "authors_list": [
+            "Elvira González de Mejı́a",
+            "Valentin Prisecaru"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 347,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.tem.2014.07.003",
+        "title": "Impact of caffeine and coffee on our health",
+        "journal": "Trends in Endocrinology and Metabolism",
+        "year": 2014,
+        "citations": 300,
+        "authors": "Elvira González de Mejı́a, Marco Vinicio Ramı́rez-Mares",
+        "authors_list": [
+            "Elvira González de Mejı́a",
+            "Marco Vinicio Ramı́rez-Mares"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 300,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf072911z",
+        "title": "Bioactive Peptides in Amaranth (<i>Amaranthus hypochondriacus</i>) Seed",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2008,
+        "citations": 278,
+        "authors": "Cecilia Silva-Sánchez, A. P. Barba de la Rosa, Ma. Fabiola León‐Galván et al.",
+        "authors_list": [
+            "Cecilia Silva-Sánchez",
+            "A. P. Barba de la Rosa",
+            "Ma. Fabiola León‐Galván",
+            "Ben O. de Lumen",
+            "Antonio De León‐Rodríguez",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 278,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf0352632",
+        "title": "Polyphenolic Compounds, Antioxidant Capacity, and Quinone Reductase Activity of an Aqueous Extract of <i>Ardisia compressa</i> in Comparison to Mate (<i>Ilex paraguariensis</i>) and Green (<i>Camellia sinensis</i>) Teas",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2004,
+        "citations": 267,
+        "authors": "Sonia Chandra, Elvira González de Mejı́a",
+        "authors_list": [
+            "Sonia Chandra",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 267,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.bbi.2009.02.013",
+        "title": "Bioactive components of tea: Cancer, inflammation and behavior",
+        "journal": "Brain Behavior and Immunity",
+        "year": 2009,
+        "citations": 234,
+        "authors": "Elvira González de Mejı́a, Marco Vinicio Ramı́rez-Mares, Sirima Puangpraphant",
+        "authors_list": [
+            "Elvira González de Mejı́a",
+            "Marco Vinicio Ramı́rez-Mares",
+            "Sirima Puangpraphant"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 234,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/1541-4337.12423",
+        "title": "Chia Seed ( <i>Salvia hispanica</i> L.) as a Source of Proteins and Bioactive Peptides with Health Benefits: A Review",
+        "journal": "Comprehensive Reviews in Food Science and Food Safety",
+        "year": 2019,
+        "citations": 226,
+        "authors": "Mariana Grancieri, Hércia Stampini Duarte Martino, Elvira González de Mejı́a",
+        "authors_list": [
+            "Mariana Grancieri",
+            "Hércia Stampini Duarte Martino",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 226,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodchem.2007.11.013",
+        "title": "Immunoreactivity reduction of soybean meal by fermentation, effect on amino acid composition and antigenicity of commercial soy products",
+        "journal": "Food Chemistry",
+        "year": 2007,
+        "citations": 216,
+        "authors": "Y-S Song, Juana Frı́as, Cristina Martínez‐Villaluenga et al.",
+        "authors_list": [
+            "Y-S Song",
+            "Juana Frı́as",
+            "Cristina Martínez‐Villaluenga",
+            "C Vidal-Valdeverde",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 216,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1089/jmf.2009.0233",
+        "title": "Berries from South America: A Comprehensive Review on Chemistry, Health Potential, and Commercialization",
+        "journal": "Journal of Medicinal Food",
+        "year": 2010,
+        "citations": 210,
+        "authors": "Maria Elisa Schreckinger, Jennifer Lotton, Mary Ann Lila et al.",
+        "authors_list": [
+            "Maria Elisa Schreckinger",
+            "Jennifer Lotton",
+            "Mary Ann Lila",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 210,
+            "crossref": 159
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodchem.2012.08.032",
+        "title": "In vitro inhibition of dipeptidyl peptidase IV by peptides derived from the hydrolysis of amaranth (Amaranthus hypochondriacus L.) proteins",
+        "journal": "Food Chemistry",
+        "year": 2012,
+        "citations": 207,
+        "authors": "Aída Jimena Velarde‐Salcedo, Alberto Barrera-Pacheco, Samuel Lara‐González et al.",
+        "authors_list": [
+            "Aída Jimena Velarde‐Salcedo",
+            "Alberto Barrera-Pacheco",
+            "Samuel Lara‐González",
+            "Gabriela M. Montero-Morán",
+            "Agustín Díaz-Gois",
+            "Elvira González de Mejı́a",
+            "Ana P. Barba de la Rosa"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 207,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf072177j",
+        "title": "Immunoreactivity and Amino Acid Content of Fermented Soybean Products",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2007,
+        "citations": 203,
+        "authors": "Juana Frı́as, Young Soo Song, Cristina Martínez‐Villaluenga et al.",
+        "authors_list": [
+            "Juana Frı́as",
+            "Young Soo Song",
+            "Cristina Martínez‐Villaluenga",
+            "Elvira González de Mejı́a",
+            "Concepción Vidal-Valverde"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 203,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodres.2014.11.024",
+        "title": "Biological potential of protein hydrolysates and peptides from common bean (Phaseolus vulgaris L.): A review",
+        "journal": "Food Research International",
+        "year": 2014,
+        "citations": 197,
+        "authors": "Diego A. Luna‐Vital, Luís Mojica, Elvira González de Mejı́a et al.",
+        "authors_list": [
+            "Diego A. Luna‐Vital",
+            "Luís Mojica",
+            "Elvira González de Mejı́a",
+            "Sandra Mendoza",
+            "Guadalupe Lóarca-Piña"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 197,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1155/2013/479505",
+        "title": "Berry and Citrus Phenolic Compounds Inhibit Dipeptidyl Peptidase IV: Implications in Diabetes Management",
+        "journal": "Evidence-based Complementary and Alternative Medicine",
+        "year": 2013,
+        "citations": 194,
+        "authors": "Junfeng Fan, Michele H. Johnson, Mary Ann Lila et al.",
+        "authors_list": [
+            "Junfeng Fan",
+            "Michele H. Johnson",
+            "Mary Ann Lila",
+            "Gad G. Yousef",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 194,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://downloads.hindawi.com/journals/ecam/2013/479505.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodchem.2018.01.055",
+        "title": "Extraction techniques and analysis of anthocyanins from food sources by mass spectrometry: An update",
+        "journal": "Food Chemistry",
+        "year": 2018,
+        "citations": 182,
+        "authors": "Paulina Ongkowijoyo, Diego A. Luna‐Vital, Elvira González de Mejı́a",
+        "authors_list": [
+            "Paulina Ongkowijoyo",
+            "Diego A. Luna‐Vital",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 182,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/1541-4337.12017",
+        "title": "Identification of Bioactive Peptides from Cereal Storage Proteins and Their Potential Role in Prevention of Chronic Diseases",
+        "journal": "Comprehensive Reviews in Food Science and Food Safety",
+        "year": 2013,
+        "citations": 177,
+        "authors": "Ariel Cavazos, Elvira González de Mejı́a",
+        "authors_list": [
+            "Ariel Cavazos",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 177,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s10555-010-9241-4",
+        "title": "The role of nutraceutical proteins and peptides in apoptosis, angiogenesis, and metastasis of cancer cells",
+        "journal": "Cancer and Metastasis Reviews",
+        "year": 2010,
+        "citations": 176,
+        "authors": "Elvira González de Mejı́a, Vermont P. Día",
+        "authors_list": [
+            "Elvira González de Mejı́a",
+            "Vermont P. Día"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 176,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodchem.2017.02.124",
+        "title": "Black bean anthocyanin-rich extracts as food colorants: Physicochemical stability and antidiabetes potential",
+        "journal": "Food Chemistry",
+        "year": 2017,
+        "citations": 176,
+        "authors": "Luís Mojica, Mark A. Berhow, Elvira González de Mejı́a",
+        "authors_list": [
+            "Luís Mojica",
+            "Mark A. Berhow",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 176,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.peptides.2009.08.005",
+        "title": "Lunasin and lunasin-like peptides inhibit inflammation through suppression of NF-κB pathway in the macrophage",
+        "journal": "Peptides",
+        "year": 2009,
+        "citations": 173,
+        "authors": "Elvira González de Mejı́a, Vermont P. Día",
+        "authors_list": [
+            "Elvira González de Mejı́a",
+            "Vermont P. Día"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 173,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodres.2014.12.007",
+        "title": "Bean cultivars (Phaseolus vulgaris L.) have similar high antioxidant capacity, in vitro inhibition of α-amylase and α-glucosidase while diverse phenolic composition and concentration",
+        "journal": "Food Research International",
+        "year": 2014,
+        "citations": 171,
+        "authors": "Luís Mojica, Allison Meyer, Mark A. Berhow et al.",
+        "authors_list": [
+            "Luís Mojica",
+            "Allison Meyer",
+            "Mark A. Berhow",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 171,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev-food-032519-051729",
+        "title": "The Colors of Health: Chemistry, Bioactivity, and Market Demand for Colorful Foods and Natural Food Sources of Colorants",
+        "journal": "Annual Review of Food Science and Technology",
+        "year": 2020,
+        "citations": 170,
+        "authors": "Elvira González de Mejı́a, Qiaozhi Zhang, Kayla Penta et al.",
+        "authors_list": [
+            "Elvira González de Mejı́a",
+            "Qiaozhi Zhang",
+            "Kayla Penta",
+            "Abdulkerim Eroglu",
+            "Mary Ann Lila"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 170,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1753-4887.2005.tb00121.x",
+        "title": "Allergenic Proteins in Soybean: Processing and Reduction of P34 Allergenicity",
+        "journal": "Nutrition Reviews",
+        "year": 2005,
+        "citations": 164,
+        "authors": "S. C. Wilson, Kristen Blaschek, Elvira González de Mejı́a",
+        "authors_list": [
+            "S. C. Wilson",
+            "Kristen Blaschek",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 164,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/nutritionreviews/article-pdf/63/2/47/24091347/nutritionreviews63-0047.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf201720z",
+        "title": "Cultivar Evaluation and Effect of Fermentation on Antioxidant Capacity and <i>in Vitro</i> Inhibition of α-Amylase and α-Glucosidase by Highbush Blueberry (<i>Vaccinium corombosum</i>)",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2011,
+        "citations": 163,
+        "authors": "Michele H. Johnson, Anita Lucius, Tessa Meyer et al.",
+        "authors_list": [
+            "Michele H. Johnson",
+            "Anita Lucius",
+            "Tessa Meyer",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 163,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c5fo01204j",
+        "title": "Optimization of enzymatic production of anti-diabetic peptides from black bean (Phaseolus vulgaris L.) proteins, their characterization and biological potential",
+        "journal": "Food & Function",
+        "year": 2016,
+        "citations": 157,
+        "authors": "Luís Mojica, Elvira González de Mejı́a",
+        "authors_list": [
+            "Luís Mojica",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 157,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jep.2004.09.037",
+        "title": "The genus Ardisia: a novel source of health-promoting compounds and phytopharmaceuticals",
+        "journal": "Journal of Ethnopharmacology",
+        "year": 2004,
+        "citations": 153,
+        "authors": "Hideka Kobayashi, Elvira González de Mejı́a",
+        "authors_list": [
+            "Hideka Kobayashi",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 153,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jff.2009.12.003",
+        "title": "Yerba mate tea (Ilex paraguariensis): Phenolics, antioxidant capacity and in vitro inhibition of colon cancer cell proliferation",
+        "journal": "Journal of Functional Foods",
+        "year": 2010,
+        "citations": 152,
+        "authors": "Elvira González de Mejı́a, Young Soo Song, Caleb I. Heck et al.",
+        "authors_list": [
+            "Elvira González de Mejı́a",
+            "Young Soo Song",
+            "Caleb I. Heck",
+            "MarcoVinicio Ramírez-Mares"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 152,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doaj.org/article/f475ac54d18a401f98199446c77afce3"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf100975m",
+        "title": "Antioxidant Capacity and in Vitro Inhibition of Adipogenesis and Inflammation by Phenolic Extracts of Vaccinium floribundum and Aristotelia chilensis",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2010,
+        "citations": 148,
+        "authors": "Maria Elisa Schreckinger, Jinzhi Wang, Gad G. Yousef et al.",
+        "authors_list": [
+            "Maria Elisa Schreckinger",
+            "Jinzhi Wang",
+            "Gad G. Yousef",
+            "Mary Ann Lila",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 148,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodchem.2008.09.023",
+        "title": "Isolation, purification and characterisation of lunasin from defatted soybean flour and in vitro evaluation of its anti-inflammatory activity",
+        "journal": "Food Chemistry",
+        "year": 2008,
+        "citations": 144,
+        "authors": "Vermont P. Día, W. Wang, V.L. Oh et al.",
+        "authors_list": [
+            "Vermont P. Día",
+            "W. Wang",
+            "V.L. Oh",
+            "Ben O. de Lumen",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 144,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodres.2015.07.046",
+        "title": "Hard-to-cook bean ( Phaseolus vulgaris L.) proteins hydrolyzed by alcalase and bromelain produced bioactive peptide fractions that inhibit targets of type-2 diabetes and oxidative stress",
+        "journal": "Food Research International",
+        "year": 2015,
+        "citations": 137,
+        "authors": "Miguel E. Oseguera‐Toledo, Elvira González de Mejı́a, Silvia L. Amaya‐Llano",
+        "authors_list": [
+            "Miguel E. Oseguera‐Toledo",
+            "Elvira González de Mejı́a",
+            "Silvia L. Amaya‐Llano"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 137,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/1750-3841.12726",
+        "title": "Impact of Commercial Precooking of Common Bean ( <i>Phaseolus vulgaris</i> ) on the Generation of Peptides, After Pepsin–Pancreatin Hydrolysis, Capable to Inhibit Dipeptidyl Peptidase‐IV",
+        "journal": "Journal of Food Science",
+        "year": 2014,
+        "citations": 137,
+        "authors": "Luís Mojica, Karen Chen, Elvira González de Mejı́a",
+        "authors_list": [
+            "Luís Mojica",
+            "Karen Chen",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 137,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf500639f",
+        "title": "Bioactive Compounds from Culinary Herbs Inhibit a Molecular Target for Type 2 Diabetes Management, Dipeptidyl Peptidase IV",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2014,
+        "citations": 137,
+        "authors": "Allyson M. Bower, Luis M. Real Hernandez, Mark A. Berhow et al.",
+        "authors_list": [
+            "Allyson M. Bower",
+            "Luis M. Real Hernandez",
+            "Mark A. Berhow",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 137,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/mnfr.201200678",
+        "title": "Anthocyanins and proanthocyanidins from blueberry–blackberry fermented beverages inhibit markers of inflammation in macrophages and carbohydrate‐utilizing enzymes in vitro",
+        "journal": "Molecular Nutrition & Food Research",
+        "year": 2013,
+        "citations": 136,
+        "authors": "Michele H. Johnson, Elvira González de Mejı́a, Junfeng Fan et al.",
+        "authors_list": [
+            "Michele H. Johnson",
+            "Elvira González de Mejı́a",
+            "Junfeng Fan",
+            "Mary Ann Lila",
+            "Gad G. Yousef"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 136,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/10408398.2013.805713",
+        "title": "The Health Benefits of Selected Culinary Herbs and Spices Found in the Traditional Mediterranean Diet",
+        "journal": "Critical Reviews in Food Science and Nutrition",
+        "year": 2015,
+        "citations": 134,
+        "authors": "Allyson M. Bower, Susan Marquez, Elvira González de Mejı́a",
+        "authors_list": [
+            "Allyson M. Bower",
+            "Susan Marquez",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 134,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/1750-3841.14781",
+        "title": "Blackcurrants ( <i>Ribes nigrum</i> ): A Review on Chemistry, Processing, and Health Benefits",
+        "journal": "Journal of Food Science",
+        "year": 2019,
+        "citations": 129,
+        "authors": "Regina Cortez, Elvira González de Mejı́a",
+        "authors_list": [
+            "Regina Cortez",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 129,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1750-3841.14781"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s11101-015-9443-z",
+        "title": "Phenolic compounds in fruits and beverages consumed as part of the mediterranean diet: their role in prevention of chronic diseases",
+        "journal": "Phytochemistry Reviews",
+        "year": 2015,
+        "citations": 128,
+        "authors": "Yolanda Aguilera, María Á. Martín-Cabrejas, Elvira González de Mejı́a",
+        "authors_list": [
+            "Yolanda Aguilera",
+            "María Á. Martín-Cabrejas",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.mrfmmm.2004.03.002",
+        "title": "In vitro chemopreventive activity of Camellia sinensis, Ilex paraguariensis and Ardisia compressa tea extracts and selected polyphenols",
+        "journal": "Mutation research. Fundamental and molecular mechanisms of mutagenesis",
+        "year": 2004,
+        "citations": 128,
+        "authors": "Marco Vinicio Ramı́rez-Mares, Sonia Chandra, Elvira González de Mejı́a",
+        "authors_list": [
+            "Marco Vinicio Ramı́rez-Mares",
+            "Sonia Chandra",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 128,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf2028973",
+        "title": "Optimization of the Enzymatic Deamidation of Soy Protein by Protein-Glutaminase and Its Effect on the Functional Properties of the Protein",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2011,
+        "citations": 127,
+        "authors": "Inthawoot Suppavorasatit, Elvira González de Mejı́a, Keith R. Cadwallader",
+        "authors_list": [
+            "Inthawoot Suppavorasatit",
+            "Elvira González de Mejı́a",
+            "Keith R. Cadwallader"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 127,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf803303k",
+        "title": "Presence of Lunasin in Plasma of Men after Soy Protein Consumption",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2009,
+        "citations": 126,
+        "authors": "Vermont P. Día, Sofía Torres, Ben O. de Lumen et al.",
+        "authors_list": [
+            "Vermont P. Día",
+            "Sofía Torres",
+            "Ben O. de Lumen",
+            "John W. Erdman",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 126,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jff.2017.02.006",
+        "title": "Evaluation of the hypoglycemic potential of a black bean hydrolyzed protein isolate and its pure peptides using in silico, in vitro and in vivo approaches",
+        "journal": "Journal of Functional Foods",
+        "year": 2017,
+        "citations": 123,
+        "authors": "Luís Mojica, Elvira González de Mejı́a, María Ángeles Granados-Silvestre et al.",
+        "authors_list": [
+            "Luís Mojica",
+            "Elvira González de Mejı́a",
+            "María Ángeles Granados-Silvestre",
+            "Marta Menjívar"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 123,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doaj.org/article/23fb4bdcc1ae4835bae798eb6d0895d6"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodchem.2014.02.050",
+        "title": "Peptides in common bean fractions inhibit human colorectal cancer cells",
+        "journal": "Food Chemistry",
+        "year": 2014,
+        "citations": 121,
+        "authors": "Diego A. Luna‐Vital, Elvira González de Mejı́a, Vermont P. Día et al.",
+        "authors_list": [
+            "Diego A. Luna‐Vital",
+            "Elvira González de Mejı́a",
+            "Vermont P. Día",
+            "Guadalupe Lóarca-Piña"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 121,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodres.2009.09.016",
+        "title": "Effect of time and temperature on bioactive compounds in germinated Brazilian soybean cultivar BRS 258",
+        "journal": "Food Research International",
+        "year": 2009,
+        "citations": 120,
+        "authors": "Luz María Paucar‐Menacho, Mark A. Berhow, J. M. G. Mandarino et al.",
+        "authors_list": [
+            "Luz María Paucar‐Menacho",
+            "Mark A. Berhow",
+            "J. M. G. Mandarino",
+            "Yoon Kil Chang",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S0963996909002816/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodchem.2017.09.086",
+        "title": "Comparison of the effect of chemical composition of anthocyanin-rich plant extracts on colon cancer cell proliferation and their potential mechanism of action using in vitro, in silico, and biochemical assays",
+        "journal": "Food Chemistry",
+        "year": 2017,
+        "citations": 120,
+        "authors": "Candice Mazewski, Katie Liang, Elvira González de Mejı́a",
+        "authors_list": [
+            "Candice Mazewski",
+            "Katie Liang",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/mnfr.201300764",
+        "title": "Extrusion improved the anti‐inflammatory effect of amaranth (<i><scp>A</scp>maranthus hypochondriacus</i>) hydrolysates in <scp>LPS</scp>‐induced human <scp>THP</scp>‐1 macrophage‐like and mouse <scp>RAW</scp> 264.7 macrophages by preventing activation of <scp>NF</scp>‐κ<scp>B</scp> signaling",
+        "journal": "Molecular Nutrition & Food Research",
+        "year": 2014,
+        "citations": 120,
+        "authors": "Alvaro Montoya‐Rodríguez, Elvira González de Mejı́a, Vermont P. Día et al.",
+        "authors_list": [
+            "Alvaro Montoya‐Rodríguez",
+            "Elvira González de Mejı́a",
+            "Vermont P. Día",
+            "Cuauhtémoc Reyes‐Moreno",
+            "Jorge Milán‐Carrillo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1383-5718(99)00040-6",
+        "title": "Antimutagenic effects of natural phenolic compounds in beans",
+        "journal": "Mutation Research/Genetic Toxicology and Environmental Mutagenesis",
+        "year": 1999,
+        "citations": 119,
+        "authors": "Elvira González de Mejı́a, Eduardo Castaño‐Tostado, Guadalupe Lóarca-Piña",
+        "authors_list": [
+            "Elvira González de Mejı́a",
+            "Eduardo Castaño‐Tostado",
+            "Guadalupe Lóarca-Piña"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 119,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0378-4274(99)00062-4",
+        "title": "Effect of lycopene on lipid peroxidation and glutathione-dependent enzymes induced by T-2 toxin in vivo",
+        "journal": "Toxicology Letters",
+        "year": 1999,
+        "citations": 118,
+        "authors": "Myriam Leal, Armando S. Shimada, Felipe Ruı́z et al.",
+        "authors_list": [
+            "Myriam Leal",
+            "Armando S. Shimada",
+            "Felipe Ruı́z",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf047802o",
+        "title": "Characterization of Polyphenolics in the Seed Coat of Black Jamapa Bean (<i>Phaseolus vulgaris</i> L.)",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2005,
+        "citations": 118,
+        "authors": "Xóchitl Aparicio-Fernández, Gad G. Yousef, Guadalupe Lóarca-Piña et al.",
+        "authors_list": [
+            "Xóchitl Aparicio-Fernández",
+            "Gad G. Yousef",
+            "Guadalupe Lóarca-Piña",
+            "Elvira González de Mejı́a",
+            "Mary Ann Lila"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/jsfa.8053",
+        "title": "Characterization of peptides from common bean protein isolates and their potential to inhibit markers of type‐2 diabetes, hypertension and oxidative stress",
+        "journal": "Journal of the Science of Food and Agriculture",
+        "year": 2016,
+        "citations": 118,
+        "authors": "Luís Mojica, Diego A. Luna‐Vital, Elvira González de Mejı́a",
+        "authors_list": [
+            "Luís Mojica",
+            "Diego A. Luna‐Vital",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.canlet.2011.09.002",
+        "title": "Lunasin potentiates the effect of oxaliplatin preventing outgrowth of colon cancer metastasis, binds to α5β1 integrin and suppresses FAK/ERK/NF-κB signaling",
+        "journal": "Cancer Letters",
+        "year": 2011,
+        "citations": 116,
+        "authors": "Vermont P. Día, Elvira González de Mejı́a",
+        "authors_list": [
+            "Vermont P. Día",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 116,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1089/jmf.2010.0310",
+        "title": "Citrus Flavonoids Luteolin, Apigenin, and Quercetin Inhibit Glycogen Synthase Kinase-3β Enzymatic Activity by Lowering the Interaction Energy Within the Binding Cavity",
+        "journal": "Journal of Medicinal Food",
+        "year": 2011,
+        "citations": 115,
+        "authors": "Jodee L. Johnson, Sanjeewa G. Rupasinghe, Felicia Stefani et al.",
+        "authors_list": [
+            "Jodee L. Johnson",
+            "Sanjeewa G. Rupasinghe",
+            "Felicia Stefani",
+            "Mary A. Schuler",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 115,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3123937"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/1541-4337.12125",
+        "title": "Identification of Bioactive Peptide Sequences from Amaranth ( <i>Amaranthus hypochondriacus</i> ) Seed Proteins and Their Potential Role in the Prevention of Chronic Diseases",
+        "journal": "Comprehensive Reviews in Food Science and Food Safety",
+        "year": 2015,
+        "citations": 113,
+        "authors": "Alvaro Montoya‐Rodríguez, Mario Armando Gómez-Favela, Cuauhtémoc Reyes‐Moreno et al.",
+        "authors_list": [
+            "Alvaro Montoya‐Rodríguez",
+            "Mario Armando Gómez-Favela",
+            "Cuauhtémoc Reyes‐Moreno",
+            "Jorge Milán‐Carrillo",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 113,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/mnfr.201700362",
+        "title": "Anthocyanins from Purple Corn Ameliorated Tumor Necrosis Factor‐α‐Induced Inflammation and Insulin Resistance in 3T3‐L1 Adipocytes via Activation of Insulin Signaling and Enhanced GLUT4 Translocation",
+        "journal": "Molecular Nutrition & Food Research",
+        "year": 2017,
+        "citations": 112,
+        "authors": "Diego A. Luna‐Vital, Matthew J. Weiss, Elvira González de Mejı́a",
+        "authors_list": [
+            "Diego A. Luna‐Vital",
+            "Matthew J. Weiss",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 112,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": null,
+        "title": "[Oregano: properties, composition and biological activity].",
+        "journal": "PubMed",
+        "year": 2004,
+        "citations": 111,
+        "authors": "Cynthia Arcila-Lozano, Guadalupe Lóarca-Piña, Salvador Lecona-Uribe et al.",
+        "authors_list": [
+            "Cynthia Arcila-Lozano",
+            "Guadalupe Lóarca-Piña",
+            "Salvador Lecona-Uribe",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "other",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 111,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.canlet.2010.02.010",
+        "title": "Lunasin promotes apoptosis in human colon cancer cells by mitochondrial pathway activation and induction of nuclear clusterin expression",
+        "journal": "Cancer Letters",
+        "year": 2010,
+        "citations": 111,
+        "authors": "Vermont P. Día, Elvira González de Mejı́a",
+        "authors_list": [
+            "Vermont P. Día",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 111,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf801748s",
+        "title": "Effect of Growing and Drying Conditions on the Phenolic Composition of Mate Teas (<i>Ilex paraguariensis</i>)",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2008,
+        "citations": 110,
+        "authors": "Caleb I. Heck, Miguel E. Schmalko, Elvira González de Mejı́a",
+        "authors_list": [
+            "Caleb I. Heck",
+            "Miguel E. Schmalko",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 110,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodchem.2019.03.116",
+        "title": "Relationship of phenolic composition of selected purple maize (Zea mays L.) genotypes with their anti-inflammatory, anti-adipogenic and anti-diabetic potential",
+        "journal": "Food Chemistry",
+        "year": 2019,
+        "citations": 106,
+        "authors": "Qiaozhi Zhang, Elvira González de Mejı́a, Diego A. Luna‐Vital et al.",
+        "authors_list": [
+            "Qiaozhi Zhang",
+            "Elvira González de Mejı́a",
+            "Diego A. Luna‐Vital",
+            "Tianyi Tao",
+            "Subhiksha Chandrasekaran",
+            "Laura A. Chatham",
+            "John A. Juvik",
+            "Vijay Singh",
+            "Deepak Kumar"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf902693r",
+        "title": "Alaskan Wild Berry Resources and Human Health under the Cloud of Climate Change",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2009,
+        "citations": 105,
+        "authors": "Joshua J. Kellogg, Jinzhi Wang, Courtney G. Flint et al.",
+        "authors_list": [
+            "Joshua J. Kellogg",
+            "Jinzhi Wang",
+            "Courtney G. Flint",
+            "David Ribnicky",
+            "Peter Kühn",
+            "Elvira González de Mejı́a",
+            "Ilya Raskin",
+            "Mary Ann Lila"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.fct.2019.110672",
+        "title": "Phenolic compounds from coffee by-products modulate adipogenesis-related inflammation, mitochondrial dysfunction, and insulin resistance in adipocytes, via insulin/PI3K/AKT signaling pathways",
+        "journal": "Food and Chemical Toxicology",
+        "year": 2019,
+        "citations": 104,
+        "authors": "Miguel Rebollo‐Hernanz, Qiaozhi Zhang, Yolanda Aguilera et al.",
+        "authors_list": [
+            "Miguel Rebollo‐Hernanz",
+            "Qiaozhi Zhang",
+            "Yolanda Aguilera",
+            "María Á. Martín-Cabrejas",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/am/pii/S0278691519304612?via%3Dihub"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodchem.2012.04.037",
+        "title": "Antioxidant and antiinflammatory properties of germinated and hydrolysed Brazilian soybean flours",
+        "journal": "Food Chemistry",
+        "year": 2012,
+        "citations": 104,
+        "authors": "María Gabriela Vernaza Leoro, Vermont P. Día, Elvira González de Mejı́a et al.",
+        "authors_list": [
+            "María Gabriela Vernaza Leoro",
+            "Vermont P. Día",
+            "Elvira González de Mejı́a",
+            "Yoon Kil Chang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 104,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodres.2017.11.004",
+        "title": "Physicochemical and nutraceutical properties of moringa ( Moringa oleifera ) leaves and their effects in an in vivo AOM/DSS-induced colorectal carcinogenesis model",
+        "journal": "Food Research International",
+        "year": 2017,
+        "citations": 103,
+        "authors": "M. Liceth Cuellar-Núñez, Iván Luzardo‐Ocampo, Rocío Campos-Vega et al.",
+        "authors_list": [
+            "M. Liceth Cuellar-Núñez",
+            "Iván Luzardo‐Ocampo",
+            "Rocío Campos-Vega",
+            "Marco Alonso Gallegos‐Corona",
+            "Elvira González de Mejı́a",
+            "Guadalupe Lóarca-Piña"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf902255h",
+        "title": "Saponins in Yerba Mate Tea (Ilex paraguariensis A. St.-Hil) and Quercetin Synergistically Inhibit iNOS and COX-2 in Lipopolysaccharide-Induced Macrophages through NFκB Pathways",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2009,
+        "citations": 103,
+        "authors": "Sirima Puangpraphant, Elvira González de Mejı́a",
+        "authors_list": [
+            "Sirima Puangpraphant",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf0496752",
+        "title": "Lunasin Concentration in Different Soybean Genotypes, Commercial Soy Protein, and Isoflavone Products",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2004,
+        "citations": 99,
+        "authors": "Elvira González de Mejı́a, Miguel Vásconez, Ben O. de Lumen et al.",
+        "authors_list": [
+            "Elvira González de Mejı́a",
+            "Miguel Vásconez",
+            "Ben O. de Lumen",
+            "Randall L. Nelson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1089/jmf.2010.1021",
+        "title": "Phenolic-Containing Organic Extracts of Mulberry ( <i>Morus alba</i> L.) Leaves Inhibit HepG2 Hepatoma Cells Through G2/M Phase Arrest, Induction of Apoptosis, and Inhibition of Topoisomerase IIα Activity",
+        "journal": "Journal of Medicinal Food",
+        "year": 2010,
+        "citations": 98,
+        "authors": "Wanlaya Naowaratwattana, Wanchai De‐Eknamkul, Elvira González de Mejı́a",
+        "authors_list": [
+            "Wanlaya Naowaratwattana",
+            "Wanchai De‐Eknamkul",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodchem.2011.01.121",
+        "title": "Common bean (Phaseolus vulgaris L.) hydrolysates inhibit inflammation in LPS-induced macrophages through suppression of NF-κB pathways",
+        "journal": "Food Chemistry",
+        "year": 2011,
+        "citations": 97,
+        "authors": "Miguel E. Oseguera‐Toledo, Elvira González de Mejı́a, Vermont P. Día et al.",
+        "authors_list": [
+            "Miguel E. Oseguera‐Toledo",
+            "Elvira González de Mejı́a",
+            "Vermont P. Día",
+            "Silvia L. Amaya‐Llano"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/mnfr.201000419",
+        "title": "Lunasin induces apoptosis and modifies the expression of genes associated with extracellular matrix and cell adhesion in human metastatic colon cancer cells",
+        "journal": "Molecular Nutrition & Food Research",
+        "year": 2011,
+        "citations": 96,
+        "authors": "Vermont P. Día, Elvira González de Mejı́a",
+        "authors_list": [
+            "Vermont P. Día",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/mnfr.201100128",
+        "title": "Dicaffeoylquinic acids in Yerba mate (<i>Ilex paraguariensis</i> St. Hilaire) inhibit NF‐κB nucleus translocation in macrophages and induce apoptosis by activating caspases‐8 and ‐3 in human colon cancer cells",
+        "journal": "Molecular Nutrition & Food Research",
+        "year": 2011,
+        "citations": 95,
+        "authors": "Sirima Puangpraphant, Mark A. Berhow, Karl E. Vermillion et al.",
+        "authors_list": [
+            "Sirima Puangpraphant",
+            "Mark A. Berhow",
+            "Karl E. Vermillion",
+            "Greg Potts",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodchem.2016.06.022",
+        "title": "Black bean coats: New source of anthocyanins stabilized by β-cyclodextrin copigmentation in a sport beverage",
+        "journal": "Food Chemistry",
+        "year": 2016,
+        "citations": 91,
+        "authors": "Yolanda Aguilera, Luís Mojica, Miguel Rebollo‐Hernanz et al.",
+        "authors_list": [
+            "Yolanda Aguilera",
+            "Luís Mojica",
+            "Miguel Rebollo‐Hernanz",
+            "Mark A. Berhow",
+            "Elvira González de Mejı́a",
+            "María Á. Martín-Cabrejas"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 91,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.4161/gmic.21578",
+        "title": "Consumption of different soymilk formulations differentially affects the gut microbiomes of overweight and obese men",
+        "journal": "Gut Microbes",
+        "year": 2012,
+        "citations": 91,
+        "authors": "Dina Fernandez-Raudales, Jennifer L. Hoeflinger, Neal A. Bringe et al.",
+        "authors_list": [
+            "Dina Fernandez-Raudales",
+            "Jennifer L. Hoeflinger",
+            "Neal A. Bringe",
+            "Stephen B. Cox",
+            "Scot E. Dowd",
+            "Michael J. Miller",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 91,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.tandfonline.com/doi/pdf/10.4161/gmic.21578?needAccess=true&role=button"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/mnfr.201200301",
+        "title": "RGD‐peptide lunasin inhibits Akt‐mediated NF‐κB activation in human macrophages through interaction with the αVβ3 integrin",
+        "journal": "Molecular Nutrition & Food Research",
+        "year": 2012,
+        "citations": 90,
+        "authors": "Anthony Cam, Elvira González de Mejı́a",
+        "authors_list": [
+            "Anthony Cam",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf8002009",
+        "title": "β-Conglycinins among Sources of Bioactives in Hydrolysates of Different Soybean Varieties That Inhibit Leukemia Cells in Vitro",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2008,
+        "citations": 89,
+        "authors": "Wenyi Wang, Neal A. Bringe, Mark A. Berhow et al.",
+        "authors_list": [
+            "Wenyi Wang",
+            "Neal A. Bringe",
+            "Mark A. Berhow",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1007/s11130-015-0477-6",
+        "title": "Characterization and Comparison of Protein and Peptide Profiles and their Biological Activities of Improved Common Bean Cultivars (Phaseolus vulgaris L.) from Mexico and Brazil",
+        "journal": "Plant Foods for Human Nutrition",
+        "year": 2015,
+        "citations": 89,
+        "authors": "Luís Mojica, Elvira González de Mejı́a",
+        "authors_list": [
+            "Luís Mojica",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodres.2014.08.016",
+        "title": "Impact of germination and enzymatic hydrolysis of cowpea bean ( Vigna unguiculata ) on the generation of peptides capable of inhibiting dipeptidyl peptidase IV",
+        "journal": "Food Research International",
+        "year": 2014,
+        "citations": 89,
+        "authors": "Thaís de Souza Rocha, Luis M. Real Hernandez, Yoon Kil Chang et al.",
+        "authors_list": [
+            "Thaís de Souza Rocha",
+            "Luis M. Real Hernandez",
+            "Yoon Kil Chang",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 89,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodres.2015.04.041",
+        "title": "Germination of Phaseolus vulgaris and alcalase hydrolysis of its proteins produced bioactive peptides capable of improving markers related to type-2 diabetes in vitro",
+        "journal": "Food Research International",
+        "year": 2015,
+        "citations": 87,
+        "authors": "Thaís de Souza Rocha, Luis M. Real Hernandez, Luís Mojica et al.",
+        "authors_list": [
+            "Thaís de Souza Rocha",
+            "Luis M. Real Hernandez",
+            "Luís Mojica",
+            "Michelle H. Johnson",
+            "Yoon Kil Chang",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1742-4658.2010.07577.x",
+        "title": "Peptides from purified soybean β‐conglycinin inhibit fatty acid synthase by interaction with the thioesterase catalytic domain",
+        "journal": "FEBS Journal",
+        "year": 2010,
+        "citations": 87,
+        "authors": "Cristina Martínez‐Villaluenga, Sanjeewa G. Rupasinghe, Mary A. Schuler et al.",
+        "authors_list": [
+            "Cristina Martínez‐Villaluenga",
+            "Sanjeewa G. Rupasinghe",
+            "Mary A. Schuler",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1742-4658.2010.07577.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.fct.2013.07.036",
+        "title": "Interactions between dietary flavonoids apigenin or luteolin and chemotherapeutic drugs to potentiate anti-proliferative effect on human pancreatic cancer cells, in vitro",
+        "journal": "Food and Chemical Toxicology",
+        "year": 2013,
+        "citations": 87,
+        "authors": "Jodee L. Johnson, Elvira González de Mejı́a",
+        "authors_list": [
+            "Jodee L. Johnson",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1301/nr.2003.jul.239-246",
+        "title": "The Anticarcinogenic Potential of Soybean Lectin and Lunasin",
+        "journal": "Nutrition Reviews",
+        "year": 2003,
+        "citations": 86,
+        "authors": "Elvira González de Mejı́a, Traliece Bradford, Clare M. Hasler",
+        "authors_list": [
+            "Elvira González de Mejı́a",
+            "Traliece Bradford",
+            "Clare M. Hasler"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41598-019-47903-0",
+        "title": "Anthocyanins, delphinidin-3-O-glucoside and cyanidin-3-O-glucoside, inhibit immune checkpoints in human colorectal cancer cells in vitro and in silico",
+        "journal": "Scientific Reports",
+        "year": 2019,
+        "citations": 84,
+        "authors": "Candice Mazewski, Morgan Sanha Kim, Elvira González de Mejı́a",
+        "authors_list": [
+            "Candice Mazewski",
+            "Morgan Sanha Kim",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41598-019-47903-0.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodchem.2013.11.155",
+        "title": "Peptides in pepsin–pancreatin hydrolysates from commercially available soy products that inhibit lipopolysaccharide-induced inflammation in macrophages",
+        "journal": "Food Chemistry",
+        "year": 2013,
+        "citations": 84,
+        "authors": "Vermont P. Día, Neal A. Bringe, Elvira González de Mejı́a",
+        "authors_list": [
+            "Vermont P. Día",
+            "Neal A. Bringe",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 84,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jnutbio.2020.108343",
+        "title": "Maize extract rich in ferulic acid and anthocyanins prevents high-fat-induced obesity in mice by modulating SIRT1, AMPK and IL-6 associated metabolic and inflammatory pathways",
+        "journal": "The Journal of Nutritional Biochemistry",
+        "year": 2020,
+        "citations": 83,
+        "authors": "Diego A. Luna‐Vital, Iván Luzardo‐Ocampo, M. Liceth Cuellar-Núñez et al.",
+        "authors_list": [
+            "Diego A. Luna‐Vital",
+            "Iván Luzardo‐Ocampo",
+            "M. Liceth Cuellar-Núñez",
+            "Guadalupe Lóarca-Piña",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 83,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.anifeedsci.2010.04.011",
+        "title": "Fermentation of soybean meal and its inclusion in diets for newly weaned pigs reduced diarrhea and measures of immunoreactivity in the plasma",
+        "journal": "Animal Feed Science and Technology",
+        "year": 2010,
+        "citations": 82,
+        "authors": "Young Soo Song, V. Pérez, J. E. Pettigrew et al.",
+        "authors_list": [
+            "Young Soo Song",
+            "V. Pérez",
+            "J. E. Pettigrew",
+            "Cristina Martínez‐Villaluenga",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf102590p",
+        "title": "Inhibition of Pro-inflammatory Responses and Antioxidant Capacity of Mexican Blackberry (Rubus spp.) Extracts",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2010,
+        "citations": 81,
+        "authors": "Edith Oliva Cuevas‐Rodríguez, Vermont P. Día, Gad G. Yousef et al.",
+        "authors_list": [
+            "Edith Oliva Cuevas‐Rodríguez",
+            "Vermont P. Día",
+            "Gad G. Yousef",
+            "Pedro Antonio García-Saucedo",
+            "J. A. Medina",
+            "Octavio Paredes‐López",
+            "Elvira González de Mejı́a",
+            "Mary Ann Lila"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 81,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/mnfr.200800473",
+        "title": "Protein hydrolysates from β‐conglycinin enriched soybean genotypes inhibit lipid accumulation and inflammation <i>in vitro</i>",
+        "journal": "Molecular Nutrition & Food Research",
+        "year": 2009,
+        "citations": 80,
+        "authors": "Cristina Martínez‐Villaluenga, Vermont P. Día, Mark A. Berhow et al.",
+        "authors_list": [
+            "Cristina Martínez‐Villaluenga",
+            "Vermont P. Día",
+            "Mark A. Berhow",
+            "Neal A. Bringe",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 80,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jff.2017.04.038",
+        "title": "Inhibitory potential of anthocyanin-rich purple and red corn extracts on human colorectal cancer cell proliferation in vitro",
+        "journal": "Journal of Functional Foods",
+        "year": 2017,
+        "citations": 79,
+        "authors": "Candice Mazewski, Katie Liang, Elvira González de Mejı́a",
+        "authors_list": [
+            "Candice Mazewski",
+            "Katie Liang",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 79,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doaj.org/article/f4cbd59730394e598560d1407ff47502"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodres.2021.110318",
+        "title": "Moringa oleifera leaves alleviated inflammation through downregulation of IL-2, IL-6, and TNF-α in a colitis-associated colorectal cancer model",
+        "journal": "Food Research International",
+        "year": 2021,
+        "citations": 78,
+        "authors": "M. Liceth Cuellar-Núñez, Elvira González de Mejı́a, Guadalupe Lóarca-Piña",
+        "authors_list": [
+            "M. Liceth Cuellar-Núñez",
+            "Elvira González de Mejı́a",
+            "Guadalupe Lóarca-Piña"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/am/pii/S0963996921002179?via%3Dihub"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf048158g",
+        "title": "Effect of Yerba Mate (<i>Ilex paraguariensis</i>) Tea on Topoisomerase Inhibition and Oral Carcinoma Cell Proliferation",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2005,
+        "citations": 78,
+        "authors": "Elvira González de Mejı́a, Young Soo Song, Marco Vinicio Ramı́rez-Mares et al.",
+        "authors_list": [
+            "Elvira González de Mejı́a",
+            "Young Soo Song",
+            "Marco Vinicio Ramı́rez-Mares",
+            "Hideka Kobayashi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/19970504nt6",
+        "title": "Antitumor effect of plant lectins",
+        "journal": "Natural Toxins",
+        "year": 1997,
+        "citations": 78,
+        "authors": "Fikrat Abdullaev, Elvira González de Mejı́a",
+        "authors_list": [
+            "Fikrat Abdullaev",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf030046m",
+        "title": "Effect of Cultivar and Growing Location on the Trypsin Inhibitors, Tannins, and Lectins of Common Beans (<i>Phaseolus vulgaris </i>L.) Grown in the Semiarid Highlands of Mexico",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2003,
+        "citations": 77,
+        "authors": "Elvira González de Mejı́a, Salvador Horacio Guzmán-Maldonado, Jorge Alberto Acosta Gallegos et al.",
+        "authors_list": [
+            "Elvira González de Mejı́a",
+            "Salvador Horacio Guzmán-Maldonado",
+            "Jorge Alberto Acosta Gallegos",
+            "Rosalía Reynoso‐Camacho",
+            "Ericka Ramírez-Rodríguez",
+            "José Luis Pons-Hernández",
+            "Mario Martín González-Chavira",
+            "J. Z. Castellanos",
+            "James D. Kelly"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0378-4274(01)00427-1",
+        "title": "α-Tocopherol modulates liver toxicity of the pyrethroid cypermethrin",
+        "journal": "Toxicology Letters",
+        "year": 2001,
+        "citations": 77,
+        "authors": "Lourdes Aldana, Vı́ctor Tsutsumi, Arthur L. Craigmill et al.",
+        "authors_list": [
+            "Lourdes Aldana",
+            "Vı́ctor Tsutsumi",
+            "Arthur L. Craigmill",
+            "Maria Isabel Silveira",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodchem.2017.03.146",
+        "title": "A comparative study of anthocyanin distribution in purple and blue corn coproducts from three conventional fractionation processes",
+        "journal": "Food Chemistry",
+        "year": 2017,
+        "citations": 76,
+        "authors": "Qian Li, Pavel Somavat, Vijay Singh et al.",
+        "authors_list": [
+            "Qian Li",
+            "Pavel Somavat",
+            "Vijay Singh",
+            "Laura A. Chatham",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.foodchem.2019.03.036",
+        "title": "Digested total protein and protein fractions from chia seed (Salvia hispanica L.) had high scavenging capacity and inhibited 5-LOX, COX-1-2, and iNOS enzymes",
+        "journal": "Food Chemistry",
+        "year": 2019,
+        "citations": 76,
+        "authors": "Mariana Grancieri, Hércia Stampini Duarte Martino, Elvira González de Mejı́a",
+        "authors_list": [
+            "Mariana Grancieri",
+            "Hércia Stampini Duarte Martino",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 76,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1111/j.1365-2621.1988.tb09295.x",
+        "title": "Carotenoid Content and Vitamin A Activity of Some Common Cultivars of Mexican Peppers ( <i>Caps&amp;m annuum</i> ) as Determined by HPLC",
+        "journal": "Journal of Food Science",
+        "year": 1988,
+        "citations": 74,
+        "authors": "L A Mejía, Elizabeth P. Hudson, Elvira González de Mejı́a et al.",
+        "authors_list": [
+            "L A Mejía",
+            "Elizabeth P. Hudson",
+            "Elvira González de Mejı́a",
+            "Francisco Vázquez"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jep.2010.05.051",
+        "title": "Comparative in vitro bioactivities of tea extracts from six species of Ardisia and their effect on growth inhibition of HepG2 cells",
+        "journal": "Journal of Ethnopharmacology",
+        "year": 2010,
+        "citations": 73,
+        "authors": "Amanda M. B. Newell, Gad G. Yousef, Mary Ann Lila et al.",
+        "authors_list": [
+            "Amanda M. B. Newell",
+            "Gad G. Yousef",
+            "Mary Ann Lila",
+            "Marco Vinicio Ramı́rez-Mares",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 73,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.peptides.2010.06.014",
+        "title": "Amaranth lunasin-like peptide internalizes into the cell nucleus and inhibits chemical carcinogen-induced transformation of NIH-3T3 cells",
+        "journal": "Peptides",
+        "year": 2010,
+        "citations": 72,
+        "authors": "Enrique Maldonado Cervantes, Hyung Jin Jeong, Ma. Fabiola León‐Galván et al.",
+        "authors_list": [
+            "Enrique Maldonado Cervantes",
+            "Hyung Jin Jeong",
+            "Ma. Fabiola León‐Galván",
+            "Alberto Barrera-Pacheco",
+            "Antonio De León‐Rodríguez",
+            "Elvira González de Mejı́a",
+            "Ben O. de Lumen",
+            "Ana P. Barba de la Rosa"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.3390/antiox8080279",
+        "title": "Relationship of the Phytochemicals from Coffee and Cocoa By-Products with their Potential to Modulate Biomarkers of Metabolic Syndrome In Vitro",
+        "journal": "Antioxidants",
+        "year": 2019,
+        "citations": 72,
+        "authors": "Miguel Rebollo‐Hernanz, Qiaozhi Zhang, Yolanda Aguilera et al.",
+        "authors_list": [
+            "Miguel Rebollo‐Hernanz",
+            "Qiaozhi Zhang",
+            "Yolanda Aguilera",
+            "María Á. Martín-Cabrejas",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.mdpi.com/2076-3921/8/8/279/pdf?version=1565002300"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s0278-6915(02)00215-6",
+        "title": "Purification and acute toxicity of a lectin extracted from tepary bean (Phaseolus acutifolius)",
+        "journal": "Food and Chemical Toxicology",
+        "year": 2002,
+        "citations": 72,
+        "authors": "Rosalía Reynoso‐Camacho, Elvira González de Mejı́a, Guadalupe Lóarca-Piña",
+        "authors_list": [
+            "Rosalía Reynoso‐Camacho",
+            "Elvira González de Mejı́a",
+            "Guadalupe Lóarca-Piña"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1371/journal.pone.0200449",
+        "title": "Anthocyanins from purple corn activate free fatty acid-receptor 1 and glucokinase enhancing in vitro insulin secretion and hepatic glucose uptake",
+        "journal": "PLoS ONE",
+        "year": 2018,
+        "citations": 72,
+        "authors": "Diego A. Luna‐Vital, Elvira González de Mejı́a",
+        "authors_list": [
+            "Diego A. Luna‐Vital",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0200449&type=printable"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.2147/ijn.s263516",
+        "title": "&lt;p&gt;Development, Characterization and Use of Liposomes as Amphipathic Transporters of Bioactive Compounds for Melanoma Treatment and Reduction of Skin Inflammation: A Review&lt;/p&gt;",
+        "journal": "International Journal of Nanomedicine",
+        "year": 2020,
+        "citations": 72,
+        "authors": "Erick Damián Castañeda-Reyes, María de Jesús Perea‐Flores, Gloria Dávila-Ortíz et al.",
+        "authors_list": [
+            "Erick Damián Castañeda-Reyes",
+            "María de Jesús Perea‐Flores",
+            "Gloria Dávila-Ortíz",
+            "Youngsoo Lee",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.dovepress.com/getfile.php?fileID=62264"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jf960804r",
+        "title": "Stability of Betalain Pigments from a Cactacea Fruit",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 1997,
+        "citations": 72,
+        "authors": "Rosalía Reynoso, Fatima Angelyna J. Garcia, D. Morales et al.",
+        "authors_list": [
+            "Rosalía Reynoso",
+            "Fatima Angelyna J. Garcia",
+            "D. Morales",
+            "Elvira González de Mejı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1750-3841.2007.00535.x",
+        "title": "Yerba Mate Tea (\n                    <i>Ilex paraguariensis</i>\n                    ): A Comprehensive Review on Chemistry, Health Implications, and Technological Considerations",
+        "journal": "Journal of Food Science",
+        "year": 2007,
+        "citations": 593,
+        "authors": "C.I. Heck, E.G. De Mejia",
+        "authors_list": [
+            "C.I. Heck",
+            "E.G. De Mejia"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 593
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1750-3841.2007.00535.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/1541-4337.12244",
+        "title": "Natural Pigments: Stabilization Methods of Anthocyanins for Food Applications",
+        "journal": "Comprehensive Reviews in Food Science and Food Safety",
+        "year": 2017,
+        "citations": 465,
+        "authors": "Regina Cortez, Diego A. Luna‐Vital, Daniel Margulis et al.",
+        "authors_list": [
+            "Regina Cortez",
+            "Diego A. Luna‐Vital",
+            "Daniel Margulis",
+            "Elvira Gonzalez de Mejia"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 465
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1541-4337.2005.tb00075.x",
+        "title": "A New Frontier in Soy Bioactive Peptides that May Prevent Age‐related Chronic Diseases",
+        "journal": "Comprehensive Reviews in Food Science and Food Safety",
+        "year": 2005,
+        "citations": 320,
+        "authors": "Wenyi Wang, Elvira Gonzalez De Mejia",
+        "authors_list": [
+            "Wenyi Wang",
+            "Elvira Gonzalez De Mejia"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 320
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1541-4337.2005.tb00075.x"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/j.1541-4337.2010.00111.x",
+        "title": "Energy Drinks: An Assessment of Their Market Size, Consumer Demographics, Ingredient Profile, Functionality, and Regulations in the United States",
+        "journal": "Comprehensive Reviews in Food Science and Food Safety",
+        "year": 2010,
+        "citations": 287,
+        "authors": "M.A. Heckman, K. Sherry, E. Gonzalez De Mejia",
+        "authors_list": [
+            "M.A. Heckman",
+            "K. Sherry",
+            "E. Gonzalez De Mejia"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 287
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1080/10408390591034445",
+        "title": "Lectins as Bioactive Plant Proteins: A Potential in Cancer Treatment",
+        "journal": "Critical Reviews in Food Science and Nutrition",
+        "year": 2005,
+        "citations": 275,
+        "authors": "Elvira González De Mejía, Valentin I. Prisecaru",
+        "authors_list": [
+            "Elvira González De Mejía",
+            "Valentin I. Prisecaru"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 275
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1021/jf0352632",
+        "title": "Polyphenolic Compounds, Antioxidant Capacity, and Quinone Reductase Activity of an Aqueous Extract of <i>Ardisia compressa</i> in Comparison to Mate (<i>Ilex paraguariensis</i>) and Green (<i>Camellia sinensis</i>) Teas",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2004,
+        "citations": 210,
+        "authors": "Sonia Chandra, Elvira Gonzalez de Mejia",
+        "authors_list": [
+            "Sonia Chandra",
+            "Elvira Gonzalez de Mejia"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 210
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.bbi.2009.02.013",
+        "title": "Bioactive components of tea: Cancer, inflammation and behavior",
+        "journal": "Brain, Behavior, and Immunity",
+        "year": 2009,
+        "citations": 192,
+        "authors": "Elvira Gonzalez de Mejia, Marco Vinicio Ramirez-Mares, Sirima Puangpraphant",
+        "authors_list": [
+            "Elvira Gonzalez de Mejia",
+            "Marco Vinicio Ramirez-Mares",
+            "Sirima Puangpraphant"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 192
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/1541-4337.12423",
+        "title": "Chia Seed (\n                    <i>Salvia hispanica</i>\n                    L.) as a Source of Proteins and Bioactive Peptides with Health Benefits: A Review",
+        "journal": "Comprehensive Reviews in Food Science and Food Safety",
+        "year": 2019,
+        "citations": 200,
+        "authors": "Mariana Grancieri, Hercia Stampini Duarte Martino, Elvira Gonzalez de Mejia",
+        "authors_list": [
+            "Mariana Grancieri",
+            "Hercia Stampini Duarte Martino",
+            "Elvira Gonzalez de Mejia"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 200
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1155/2013/479505",
+        "title": "Berry and Citrus Phenolic Compounds Inhibit Dipeptidyl Peptidase IV: Implications in Diabetes Management",
+        "journal": "Evidence-Based Complementary and Alternative Medicine",
+        "year": 2013,
+        "citations": 127,
+        "authors": "Junfeng Fan, Michelle H. Johnson, Mary Ann Lila et al.",
+        "authors_list": [
+            "Junfeng Fan",
+            "Michelle H. Johnson",
+            "Mary Ann Lila",
+            "Gad Yousef",
+            "Elvira Gonzalez de Mejia"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 127
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://downloads.hindawi.com/journals/ecam/2013/479505.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.foodchem.2018.01.055",
+        "title": "Extraction techniques and analysis of anthocyanins from food sources by mass spectrometry: An update",
+        "journal": "Food Chemistry",
+        "year": 2018,
+        "citations": 170,
+        "authors": "Paulina Ongkowijoyo, Diego A. Luna-Vital, Elvira Gonzalez de Mejia",
+        "authors_list": [
+            "Paulina Ongkowijoyo",
+            "Diego A. Luna-Vital",
+            "Elvira Gonzalez de Mejia"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 170
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1111/1541-4337.12017",
+        "title": "Identification of Bioactive Peptides from Cereal Storage Proteins and Their Potential Role in Prevention of Chronic Diseases",
+        "journal": "Comprehensive Reviews in Food Science and Food Safety",
+        "year": 2013,
+        "citations": 160,
+        "authors": "Ariel Cavazos, Elvira Gonzalez de Mejia",
+        "authors_list": [
+            "Ariel Cavazos",
+            "Elvira Gonzalez de Mejia"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 160
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.foodchem.2017.02.124",
+        "title": "Black bean anthocyanin-rich extracts as food colorants: Physicochemical stability and antidiabetes potential",
+        "journal": "Food Chemistry",
+        "year": 2017,
+        "citations": 155,
+        "authors": "Luis Mojica, Mark Berhow, Elvira Gonzalez de Mejia",
+        "authors_list": [
+            "Luis Mojica",
+            "Mark Berhow",
+            "Elvira Gonzalez de Mejia"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 155
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.peptides.2009.08.005",
+        "title": "Lunasin and lunasin-like peptides inhibit inflammation through suppression of NF-κB pathway in the macrophage",
+        "journal": "Peptides",
+        "year": 2009,
+        "citations": 150,
+        "authors": "Elvira Gonzalez de Mejia, Vermont P. Dia",
+        "authors_list": [
+            "Elvira Gonzalez de Mejia",
+            "Vermont P. Dia"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 150
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1021/jf201720z",
+        "title": "Cultivar Evaluation and Effect of Fermentation on Antioxidant Capacity and <i>in Vitro</i> Inhibition of α-Amylase and α-Glucosidase by Highbush Blueberry (<i>Vaccinium corombosum</i>)",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2011,
+        "citations": 152,
+        "authors": "Michelle H. Johnson, Anita Lucius, Tessa Meyer et al.",
+        "authors_list": [
+            "Michelle H. Johnson",
+            "Anita Lucius",
+            "Tessa Meyer",
+            "Elvira Gonzalez de Mejia"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 152
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1039/c5fo01204j",
+        "title": "Optimization of enzymatic production of anti-diabetic peptides from black bean (Phaseolus vulgaris L.) proteins, their characterization and biological potential",
+        "journal": "Food &amp; Function",
+        "year": null,
+        "citations": 148,
+        "authors": "Luis Mojica, Elvira González de Mejía",
+        "authors_list": [
+            "Luis Mojica",
+            "Elvira González de Mejía"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 148
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.jep.2004.09.037",
+        "title": "The genus Ardisia: a novel source of health-promoting compounds and phytopharmaceuticals",
+        "journal": "Journal of Ethnopharmacology",
+        "year": 2005,
+        "citations": 117,
+        "authors": "Hideka Kobayashi, Elvira de Mejía",
+        "authors_list": [
+            "Hideka Kobayashi",
+            "Elvira de Mejía"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 117
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1021/jf100975m",
+        "title": "Antioxidant Capacity and in Vitro Inhibition of Adipogenesis and Inflammation by Phenolic Extracts of Vaccinium floribundum and Aristotelia chilensis",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "year": 2010,
+        "citations": 123,
+        "authors": "Maria Elisa Schreckinger, Jinzhi Wang, Gad Yousef et al.",
+        "authors_list": [
+            "Maria Elisa Schreckinger",
+            "Jinzhi Wang",
+            "Gad Yousef",
+            "Mary Ann Lila",
+            "Elvira Gonzalez de Mejia"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 123
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

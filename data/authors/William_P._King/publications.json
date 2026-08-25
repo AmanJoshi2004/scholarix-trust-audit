@@ -1,0 +1,3441 @@
+[
+    {
+        "doi": "https://doi.org/10.1063/1.4832615",
+        "title": "Nanoscale thermal transport. II. 2003–2012",
+        "journal": "Applied Physics Reviews",
+        "year": 2014,
+        "citations": 1714,
+        "authors": "David G. Cahill, Paul V. Braun, Gang Chen et al.",
+        "authors_list": [
+            "David G. Cahill",
+            "Paul V. Braun",
+            "Gang Chen",
+            "David R. Clarke",
+            "Shanhui Fan",
+            "Kenneth E. Goodson",
+            "Pawel Keblinski",
+            "William P. King",
+            "G. D. Mahan",
+            "Arun Majumdar",
+            "Humphrey J. Maris",
+            "Simon R. Phillpot",
+            "Eric Pop",
+            "Li Shi"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 1714,
+            "crossref": 1607
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aip.scitation.org/doi/pdf/10.1063/1.4832615"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1188119",
+        "title": "Nanoscale Tunable Reduction of Graphene Oxide for Graphene Electronics",
+        "journal": "Science",
+        "year": 2010,
+        "citations": 722,
+        "authors": "Zhongqing Wei, Debin Wang, Suenne Kim et al.",
+        "authors_list": [
+            "Zhongqing Wei",
+            "Debin Wang",
+            "Suenne Kim",
+            "Soo Young Kim",
+            "Yike Hu",
+            "Michael K. Yakes",
+            "A. R. Laracuente",
+            "Zhenting Dai",
+            "Seth R. Marder",
+            "Claire Berger",
+            "William P. King",
+            "Walter A. de Heer",
+            "Paul E. Sheehan",
+            "Elisa Riedo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 722,
+            "crossref": 679
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://hal.science/hal-01003133"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms2747",
+        "title": "High-power lithium ion microbatteries from interdigitated three-dimensional bicontinuous nanoporous electrodes",
+        "journal": "Nature Communications",
+        "year": 2013,
+        "citations": 624,
+        "authors": "James H. Pikul, Huigang Zhang, Jiung Cho et al.",
+        "authors_list": [
+            "James H. Pikul",
+            "Huigang Zhang",
+            "Jiung Cho",
+            "Paul V. Braun",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 624,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms2747.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.2014739117",
+        "title": "Rapid isothermal amplification and portable detection system for SARS-CoV-2",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2020,
+        "citations": 425,
+        "authors": "Anurup Ganguli, Ariana Mostafa, Jacob Berger et al.",
+        "authors_list": [
+            "Anurup Ganguli",
+            "Ariana Mostafa",
+            "Jacob Berger",
+            "Mehmet Y. Aydin",
+            "Fu Sun",
+            "Sarah A. Stewart de Ramirez",
+            "Enrique Valera",
+            "Brian T. Cunningham",
+            "William P. King",
+            "Rashid Bashir"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 425,
+            "crossref": 373
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1073/pnas.2014739117"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41560-017-0071-2",
+        "title": "3D printing of shape-conformable thermoelectric materials using all-inorganic Bi2Te3-based inks",
+        "journal": "Nature Energy",
+        "year": 2018,
+        "citations": 353,
+        "authors": "Fredrick Kim, Beomjin Kwon, Youngho Eom et al.",
+        "authors_list": [
+            "Fredrick Kim",
+            "Beomjin Kwon",
+            "Youngho Eom",
+            "Ji Eun Lee",
+            "Sangmin Park",
+            "Seungki Jo",
+            "Sung Hoon Park",
+            "Bong-Seo Kim",
+            "Hye Jin Im",
+            "Min Ho Lee",
+            "Tae Sik Min",
+            "Kyung Tae Kim",
+            "Han Gi Chae",
+            "William P. King",
+            "Jae Sung Son"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 353,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nnano.2011.39",
+        "title": "Nanoscale Joule heating, Peltier cooling and current crowding at graphene–metal contacts",
+        "journal": "Nature Nanotechnology",
+        "year": 2011,
+        "citations": 339,
+        "authors": "Kyle L. Grosse, Myung‐Ho Bae, Feifei Lian et al.",
+        "authors_list": [
+            "Kyle L. Grosse",
+            "Myung‐Ho Bae",
+            "Feifei Lian",
+            "Eric Pop",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 339,
+            "crossref": 304
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jqsrt.2007.08.022",
+        "title": "Performance analysis of near-field thermophotovoltaic devices considering absorption distribution",
+        "journal": "Journal of Quantitative Spectroscopy and Radiative Transfer",
+        "year": 2007,
+        "citations": 297,
+        "authors": "K. Park, Soumyadipta Basu, William P. King et al.",
+        "authors_list": [
+            "K. Park",
+            "Soumyadipta Basu",
+            "William P. King",
+            "Zhiming Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 297,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.biomaterials.2007.01.020",
+        "title": "Myoblast alignment and differentiation on cell culture substrates with microscale topography and model chemistries",
+        "journal": "Biomaterials",
+        "year": 2007,
+        "citations": 265,
+        "authors": "Joseph L. Charest, Andrés J. Garcı́a, William P. King",
+        "authors_list": [
+            "Joseph L. Charest",
+            "Andrés J. Garcı́a",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 265,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.triboint.2012.07.020",
+        "title": "Friction characteristics of microtextured surfaces under mixed and hydrodynamic lubrication",
+        "journal": "Tribology International",
+        "year": 2012,
+        "citations": 257,
+        "authors": "Ashwin Ramesh, Wasim Akram, Surya P. Mishra et al.",
+        "authors_list": [
+            "Ashwin Ramesh",
+            "Wasim Akram",
+            "Surya P. Mishra",
+            "Andrew Cannon",
+            "Andreas A. Polycarpou",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 257,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1423889112",
+        "title": "Holographic patterning of high-performance on-chip 3D lithium-ion microbatteries",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2015,
+        "citations": 230,
+        "authors": "Hailong Ning, James H. Pikul, Runyu Zhang et al.",
+        "authors_list": [
+            "Hailong Ning",
+            "James H. Pikul",
+            "Runyu Zhang",
+            "Xuejiao Li",
+            "Sheng Xu",
+            "Junjie Wang",
+            "John A. Rogers",
+            "William P. King",
+            "Paul V. Braun"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 230,
+            "crossref": 217
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/112/21/6573.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.biomaterials.2005.11.022",
+        "title": "Combined microscale mechanical topography and chemical patterns on polymer cell culture substrates",
+        "journal": "Biomaterials",
+        "year": 2005,
+        "citations": 217,
+        "authors": "Joseph L. Charest, Marcus T. Eliason, Andrés J. Garcı́a et al.",
+        "authors_list": [
+            "Joseph L. Charest",
+            "Marcus T. Eliason",
+            "Andrés J. Garcı́a",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 217,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/srep30328",
+        "title": "Water droplet impact on elastic superhydrophobic surfaces",
+        "journal": "Scientific Reports",
+        "year": 2016,
+        "citations": 210,
+        "authors": "Patricia B. Weisensee, Junjiao Tian, Nenad Miljkovic et al.",
+        "authors_list": [
+            "Patricia B. Weisensee",
+            "Junjiao Tian",
+            "Nenad Miljkovic",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 210,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/srep30328.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cossms.2012.05.002",
+        "title": "High power rechargeable batteries",
+        "journal": "Current Opinion in Solid State and Materials Science",
+        "year": 2012,
+        "citations": 209,
+        "authors": "Paul V. Braun, Jiung Cho, James H. Pikul et al.",
+        "authors_list": [
+            "Paul V. Braun",
+            "Jiung Cho",
+            "James H. Pikul",
+            "William P. King",
+            "Huigang Zhang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 209,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/jmems.2006.886020",
+        "title": "Electrical, Thermal, and Mechanical Characterization of Silicon Microcantilever Heaters",
+        "journal": "Journal of Microelectromechanical Systems",
+        "year": 2006,
+        "citations": 208,
+        "authors": "Jungchul Lee, Thomas E. Beechem, Tanya L. Wright et al.",
+        "authors_list": [
+            "Jungchul Lee",
+            "Thomas E. Beechem",
+            "Tanya L. Wright",
+            "Brent Nelson",
+            "Samuel Graham",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 208,
+            "crossref": 188
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.xcrp.2021.100540",
+        "title": "Phase change material-based thermal energy storage",
+        "journal": "Cell Reports Physical Science",
+        "year": 2021,
+        "citations": 202,
+        "authors": "Tianyu Yang, William P. King, Nenad Miljkovic",
+        "authors_list": [
+            "Tianyu Yang",
+            "William P. King",
+            "Nenad Miljkovic"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 202,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.xcrp.2021.100540"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41560-022-00986-y",
+        "title": "High power and energy density dynamic phase change materials using pressure-enhanced close contact melting",
+        "journal": "Nature Energy",
+        "year": 2022,
+        "citations": 199,
+        "authors": "Wuchen Fu, Xiao Yan, Yashraj Gurumukhi et al.",
+        "authors_list": [
+            "Wuchen Fu",
+            "Xiao Yan",
+            "Yashraj Gurumukhi",
+            "Vivek S. Garimella",
+            "William P. King",
+            "Nenad Miljkovic"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 199,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nnano.2013.56",
+        "title": "Using nanoscale thermocapillary flows to create arrays of purely semiconducting single-walled carbon nanotubes",
+        "journal": "Nature Nanotechnology",
+        "year": 2013,
+        "citations": 198,
+        "authors": "Sung Hun Jin, Simon Dunham, Jizhou Song et al.",
+        "authors_list": [
+            "Sung Hun Jin",
+            "Simon Dunham",
+            "Jizhou Song",
+            "Xu Xie",
+            "Ji-Hun Kim",
+            "Chaofeng Lü",
+            "Ahmad E. Islam",
+            "Frank Du",
+            "Jae-Seong Kim",
+            "Johnny Felts",
+            "Yuhang Li",
+            "Feng Xiong",
+            "Muhammad Abdul Wahab",
+            "M. A.",
+            "Eugene Cho",
+            "Kyle L. Grosse",
+            "Dong Joon Lee",
+            "Ha Uk Chung",
+            "Eric Pop",
+            "Muhammad A. Alam",
+            "William P. King",
+            "Yonggang Huang",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 198,
+            "crossref": 178
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1088/0960-1317/15/12/025",
+        "title": "Impact of polymer film thickness and cavity size on polymer flow during embossing: toward process design rules for nanoimprint lithography",
+        "journal": "Journal of Micromechanics and Microengineering",
+        "year": 2005,
+        "citations": 186,
+        "authors": "Harry D. Rowland, Amy Cha-Tien Sun, Peter Schunk et al.",
+        "authors_list": [
+            "Harry D. Rowland",
+            "Amy Cha-Tien Sun",
+            "Peter Schunk",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 186,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1088/0960-1317/15/12/025/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1093/cid/cis237",
+        "title": "Detection of Infectious Influenza Virus in Cough Aerosols Generated in a Simulated Patient Examination Room",
+        "journal": "Clinical Infectious Diseases",
+        "year": 2012,
+        "citations": 179,
+        "authors": "John D. Noti, William G. Lindsley, Françoise M. Blachère et al.",
+        "authors_list": [
+            "John D. Noti",
+            "William G. Lindsley",
+            "Françoise M. Blachère",
+            "Gang Cao",
+            "Michael L. Kashon",
+            "Robert E. Thewlis",
+            "Cynthia M. McMillen",
+            "William P. King",
+            "Jonathan V. Szalajda",
+            "Donald H. Beezhold"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 179,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://academic.oup.com/cid/article-pdf/54/11/1569/916813/cis237.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nl070300f",
+        "title": "High-Speed, Sub-15 nm Feature Size Thermochemical Nanolithography",
+        "journal": "Nano Letters",
+        "year": 2007,
+        "citations": 176,
+        "authors": "Robert Szoszkiewicz, Takashi Okada, Simon C. Jones et al.",
+        "authors_list": [
+            "Robert Szoszkiewicz",
+            "Takashi Okada",
+            "Simon C. Jones",
+            "Tai‐De Li",
+            "William P. King",
+            "Seth R. Marder",
+            "Elisa Riedo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 176,
+            "crossref": 162
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1351846",
+        "title": "Atomic force microscope cantilevers for combined thermomechanical data writing and reading",
+        "journal": "Applied Physics Letters",
+        "year": 2001,
+        "citations": 170,
+        "authors": "William P. King, Thomas W. Kenny, Kenneth E. Goodson et al.",
+        "authors_list": [
+            "William P. King",
+            "Thomas W. Kenny",
+            "Kenneth E. Goodson",
+            "Graham L. W. Cross",
+            "M. Despont",
+            "U. Dürig",
+            "H. Rothuizen",
+            "G. Binnig",
+            "P. Vettiger"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 170,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.aip.org/aip/apl/article-pdf/78/9/1300/7818976/1300_1_online.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2017.01.119",
+        "title": "Condensate droplet size distribution on lubricant-infused surfaces",
+        "journal": "International Journal of Heat and Mass Transfer",
+        "year": 2017,
+        "citations": 167,
+        "authors": "Patricia B. Weisensee, Yunbo Wang, Hongliang Qian et al.",
+        "authors_list": [
+            "Patricia B. Weisensee",
+            "Yunbo Wang",
+            "Hongliang Qian",
+            "Daniel Schultz",
+            "William P. King",
+            "Nenad Miljkovic"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 167,
+            "crossref": 158
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nnano.2016.25",
+        "title": "Nanopatterning reconfigurable magnetic landscapes via thermally assisted scanning probe lithography",
+        "journal": "Nature Nanotechnology",
+        "year": 2016,
+        "citations": 161,
+        "authors": "Edoardo Albisetti, Daniela Petti, Matteo Pancaldi et al.",
+        "authors_list": [
+            "Edoardo Albisetti",
+            "Daniela Petti",
+            "Matteo Pancaldi",
+            "M. Madami",
+            "S. Tacchi",
+            "Jennifer E. Curtis",
+            "William P. King",
+            "Ádám Papp",
+            "György Csaba",
+            "Wolfgang Porod",
+            "P. Vavassori",
+            "Elisa Riedo",
+            "R. Bertacco"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 161,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://hdl.handle.net/11311/1004182"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1785860",
+        "title": "Nanoscale deposition of solid inks via thermal dip pen nanolithography",
+        "journal": "Applied Physics Letters",
+        "year": 2004,
+        "citations": 154,
+        "authors": "Paul E. Sheehan, L. J. Whitman, William P. King et al.",
+        "authors_list": [
+            "Paul E. Sheehan",
+            "L. J. Whitman",
+            "William P. King",
+            "Brent Nelson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 154,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pubs.aip.org/aip/apl/article-pdf/85/9/1589/14323159/1589_1_online.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.biomaterials.2003.12.011",
+        "title": "Hot embossing for micropatterned cell substrates",
+        "journal": "Biomaterials",
+        "year": 2004,
+        "citations": 151,
+        "authors": "Joseph L. Charest, Lindsay E. Bryant, Andrés J. Garcı́a et al.",
+        "authors_list": [
+            "Joseph L. Charest",
+            "Lindsay E. Bryant",
+            "Andrés J. Garcı́a",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 151,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.2435589",
+        "title": "Measuring material softening with nanoscale spatial resolution using heated silicon probes",
+        "journal": "Review of Scientific Instruments",
+        "year": 2007,
+        "citations": 133,
+        "authors": "Brent Nelson, William P. King",
+        "authors_list": [
+            "Brent Nelson",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 133,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/jmems.2002.803283",
+        "title": "Design of atomic force microscope cantilevers for combined thermomechanical writing and thermal reading in array operation",
+        "journal": "Journal of Microelectromechanical Systems",
+        "year": 2002,
+        "citations": 131,
+        "authors": "William P. King, Thomas W. Kenny, Kenneth E. Goodson et al.",
+        "authors_list": [
+            "William P. King",
+            "Thomas W. Kenny",
+            "Kenneth E. Goodson",
+            "Graham L. W. Cross",
+            "M. Despont",
+            "U. Dürig",
+            "H. Rothuizen",
+            "G. Binnig",
+            "P. Vettiger"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 131,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1157945",
+        "title": "Molecular Confinement Accelerates Deformation of Entangled Polymers During Squeeze Flow",
+        "journal": "Science",
+        "year": 2008,
+        "citations": 127,
+        "authors": "Harry D. Rowland, William P. King, J. B. Pethica et al.",
+        "authors_list": [
+            "Harry D. Rowland",
+            "William P. King",
+            "J. B. Pethica",
+            "Graham L. W. Cross"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 127,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/15459620802275387",
+        "title": "Filtration Performance of NIOSH-Approved N95 and P100 Filtering Facepiece Respirators Against 4 to 30 Nanometer-Size Nanoparticles",
+        "journal": "Journal of Occupational and Environmental Hygiene",
+        "year": 2008,
+        "citations": 126,
+        "authors": "Samy Rengasamy, William P. King, Benjamin C. Eimer et al.",
+        "authors_list": [
+            "Samy Rengasamy",
+            "William P. King",
+            "Benjamin C. Eimer",
+            "Ronald E. Shaffer"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 126,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nl061196p",
+        "title": "Nanoscale Thermal Analysis of an Energetic Material",
+        "journal": "Nano Letters",
+        "year": 2006,
+        "citations": 118,
+        "authors": "William P. King, Shubham Saxena, Brent Nelson et al.",
+        "authors_list": [
+            "William P. King",
+            "Shubham Saxena",
+            "Brent Nelson",
+            "Brandon L. Weeks",
+            "Rajasekar Pitchimani"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 118,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ac0400818",
+        "title": "Scanning Probe Microscopy",
+        "journal": "Analytical Chemistry",
+        "year": 2004,
+        "citations": 117,
+        "authors": "Mark A. Poggi, Elizabeth Deibler Gadsby, Lawrence A. Bottomley et al.",
+        "authors_list": [
+            "Mark A. Poggi",
+            "Elizabeth Deibler Gadsby",
+            "Lawrence A. Bottomley",
+            "William P. King",
+            "Emin Oroudjev",
+            "Helen G. Hansma"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 117,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ie060456a",
+        "title": "Sorbents for Mercury Capture from Fuel Gas with Application to Gasification Systems",
+        "journal": "Industrial & Engineering Chemistry Research",
+        "year": 2006,
+        "citations": 114,
+        "authors": "Evan Granite, Christina R. Myers, William P. King et al.",
+        "authors_list": [
+            "Evan Granite",
+            "Christina R. Myers",
+            "William P. King",
+            "Dennis C. Stanko",
+            "Henry W. Pennline"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 114,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.2164394",
+        "title": "Direct deposition of continuous metal nanostructures by thermal dip-pen nanolithography",
+        "journal": "Applied Physics Letters",
+        "year": 2006,
+        "citations": 111,
+        "authors": "Brent Nelson, William P. King, A. R. Laracuente et al.",
+        "authors_list": [
+            "Brent Nelson",
+            "William P. King",
+            "A. R. Laracuente",
+            "Paul E. Sheehan",
+            "L. J. Whitman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 111,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ma0615912",
+        "title": "1,3-Dipolar Cycloaddition for the Generation of Nanostructured Semiconductors by Heated Probe Tips",
+        "journal": "Macromolecules",
+        "year": 2006,
+        "citations": 107,
+        "authors": "S. Bakbak, Peter J. Leech, Bradley E. Carson et al.",
+        "authors_list": [
+            "S. Bakbak",
+            "Peter J. Leech",
+            "Bradley E. Carson",
+            "Shubham Saxena",
+            "William P. King",
+            "Uwe H. F. Bunz"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 107,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c3an02295a",
+        "title": "Single nanoparticle detection using photonic crystal enhanced microscopy",
+        "journal": "The Analyst",
+        "year": 2014,
+        "citations": 105,
+        "authors": "Yue Zhuo, Huan Hu, Weili Chen et al.",
+        "authors_list": [
+            "Yue Zhuo",
+            "Huan Hu",
+            "Weili Chen",
+            "Meng Lu",
+            "Limei Tian",
+            "Hojeong Yu",
+            "Kenneth D. Long",
+            "Edmond Chow",
+            "William P. King",
+            "Srikanth Singamaneni",
+            "Brian T. Cunningham"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1088/0960-1317/14/12/005",
+        "title": "Polymer deformation and filling modes during microembossing",
+        "journal": "Journal of Micromechanics and Microengineering",
+        "year": 2004,
+        "citations": 105,
+        "authors": "Harry D. Rowland, William P. King",
+        "authors_list": [
+            "Harry D. Rowland",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1088/0960-1317/14/12/005/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.polymer.2007.03.029",
+        "title": "Nanoindentation of shape memory polymer networks",
+        "journal": "Polymer",
+        "year": 2007,
+        "citations": 105,
+        "authors": "Edem Wornyo, Ken Gall, Fuzheng Yang et al.",
+        "authors_list": [
+            "Edem Wornyo",
+            "Ken Gall",
+            "Fuzheng Yang",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 105,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.joule.2021.08.004",
+        "title": "Ultra-power-dense heat exchanger development through genetic algorithm design and additive manufacturing",
+        "journal": "Joule",
+        "year": 2021,
+        "citations": 103,
+        "authors": "Hyunkyu Moon, Davis J. McGregor, Nenad Miljkovic et al.",
+        "authors_list": [
+            "Hyunkyu Moon",
+            "Davis J. McGregor",
+            "Nenad Miljkovic",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 103,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.nanolett.9b00271",
+        "title": "Monolayer MoS<sub>2</sub> Nanoribbon Transistors Fabricated by Scanning Probe Lithography",
+        "journal": "Nano Letters",
+        "year": 2019,
+        "citations": 98,
+        "authors": "Sihan Chen, SunPhil Kim, Weibing Chen et al.",
+        "authors_list": [
+            "Sihan Chen",
+            "SunPhil Kim",
+            "Weibing Chen",
+            "Jiangtan Yuan",
+            "Rashid Bashir",
+            "Jun Lou",
+            "Arend M. van der Zande",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 98,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/15567265.2015.1031857",
+        "title": "Evaluating Broader Impacts of Nanoscale Thermal Transport Research",
+        "journal": "Nanoscale and Microscale Thermophysical Engineering",
+        "year": 2015,
+        "citations": 97,
+        "authors": "Li Shi, Chris Dames, Jennifer R. Lukes et al.",
+        "authors_list": [
+            "Li Shi",
+            "Chris Dames",
+            "Jennifer R. Lukes",
+            "Pramod Reddy",
+            "John C. Duda",
+            "David G. Cahill",
+            "Jaeho Lee",
+            "Amy Marconnet",
+            "Kenneth E. Goodson",
+            "Je‐Hyeong Bahk",
+            "Ali Shakouri",
+            "Ravi Prasher",
+            "Jonathan R. Felts",
+            "William P. King",
+            "Bumsoo Han",
+            "John C. Bischof"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.scriptamat.2012.06.031",
+        "title": "Grain boundary doping strengthens nanocrystalline copper alloys",
+        "journal": "Scripta Materialia",
+        "year": 2012,
+        "citations": 96,
+        "authors": "Sezer Özerinç, Kaiping Tai, Nhon Q. Vo et al.",
+        "authors_list": [
+            "Sezer Özerinç",
+            "Kaiping Tai",
+            "Nhon Q. Vo",
+            "Pascal Bellon",
+            "R. S. Averback",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/15459624.2012.725986",
+        "title": "Dispersion and Exposure to a Cough-Generated Aerosol in a Simulated Medical Examination Room",
+        "journal": "Journal of Occupational and Environmental Hygiene",
+        "year": 2012,
+        "citations": 96,
+        "authors": "William G. Lindsley, William P. King, Robert E. Thewlis et al.",
+        "authors_list": [
+            "William G. Lindsley",
+            "William P. King",
+            "Robert E. Thewlis",
+            "Jeffrey Reynolds",
+            "Kedar V. Panday",
+            "Gang Cao",
+            "Jonathan V. Szalajda"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/4688889"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1006660107",
+        "title": "Surface functionalization of thin-film diamond for highly stable and selective biological interfaces",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2010,
+        "citations": 95,
+        "authors": "Courtney Stavis, Tami Lasseter Clare, J. E. Butler et al.",
+        "authors_list": [
+            "Courtney Stavis",
+            "Tami Lasseter Clare",
+            "J. E. Butler",
+            "Adarsh D. Radadia",
+            "Rogan Carr",
+            "Hongjun Zeng",
+            "William P. King",
+            "John A. Carlisle",
+            "Aleksei Aksimentiev",
+            "Rashid Bashir",
+            "Robert J. Hamers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3024699"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2020.119591",
+        "title": "High power density thermal energy storage using additively manufactured heat exchangers and phase change material",
+        "journal": "International Journal of Heat and Mass Transfer",
+        "year": 2020,
+        "citations": 94,
+        "authors": "Hyunkyu Moon, Nenad Miljkovic, William P. King",
+        "authors_list": [
+            "Hyunkyu Moon",
+            "Nenad Miljkovic",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 94,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c4lc01179a",
+        "title": "Biophysical properties of human breast cancer cells measured using silicon MEMS resonators and atomic force microscopy",
+        "journal": "Lab on a Chip",
+        "year": 2014,
+        "citations": 92,
+        "authors": "Elise A. Corbin, Fang Kong, Chwee Teck Lim et al.",
+        "authors_list": [
+            "Elise A. Corbin",
+            "Fang Kong",
+            "Chwee Teck Lim",
+            "William P. King",
+            "Rashid Bashir"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 92,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.sna.2007.06.008",
+        "title": "Temperature calibration of heated silicon atomic force microscope cantilevers",
+        "journal": "Sensors and Actuators A Physical",
+        "year": 2007,
+        "citations": 88,
+        "authors": "Brent Nelson, William P. King",
+        "authors_list": [
+            "Brent Nelson",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 88,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tcpmt.2019.2936852",
+        "title": "Air Jet Impingement Cooling of Electronic Devices Using Additively Manufactured Nozzles",
+        "journal": "IEEE Transactions on Components Packaging and Manufacturing Technology",
+        "year": 2019,
+        "citations": 87,
+        "authors": "Beomjin Kwon, Thomas Foulkes, Tianyu Yang et al.",
+        "authors_list": [
+            "Beomjin Kwon",
+            "Thomas Foulkes",
+            "Tianyu Yang",
+            "Nenad Miljkovic",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 87,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://ieeexplore.ieee.org/ielx7/5503870/8985439/08809671.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nl203225w",
+        "title": "Chemically Isolated Graphene Nanoribbons Reversibly Formed in Fluorographene Using Polymer Nanowire Masks",
+        "journal": "Nano Letters",
+        "year": 2011,
+        "citations": 86,
+        "authors": "Woo-Kyung Lee, Jeremy T. Robinson, Daniel Gunlycke et al.",
+        "authors_list": [
+            "Woo-Kyung Lee",
+            "Jeremy T. Robinson",
+            "Daniel Gunlycke",
+            "R. R. Stine",
+            "Cy R. Tamanaha",
+            "William P. King",
+            "Paul E. Sheehan"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 86,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nn302620f",
+        "title": "Nanometer-Scale Infrared Spectroscopy of Heterogeneous Polymer Nanostructures Fabricated by Tip-Based Nanofabrication",
+        "journal": "ACS Nano",
+        "year": 2012,
+        "citations": 82,
+        "authors": "Jonathan R. Felts, Kevin Kjoller, Michael Lo et al.",
+        "authors_list": [
+            "Jonathan R. Felts",
+            "Kevin Kjoller",
+            "Michael Lo",
+            "Craig Prater",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 82,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2019.03.133",
+        "title": "Heat transfer enhancement of internal laminar flows using additively manufactured static mixers",
+        "journal": "International Journal of Heat and Mass Transfer",
+        "year": 2019,
+        "citations": 78,
+        "authors": "Beomjin Kwon, Leon Liebenberg, Anthony M. Jacobi et al.",
+        "authors_list": [
+            "Beomjin Kwon",
+            "Leon Liebenberg",
+            "Anthony M. Jacobi",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 78,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2021.121033",
+        "title": "Phase Change Material Heat Sink for Transient Cooling of High-Power Devices",
+        "journal": "International Journal of Heat and Mass Transfer",
+        "year": 2021,
+        "citations": 77,
+        "authors": "Tianyu Yang, Paul V. Braun, Nenad Miljkovic et al.",
+        "authors_list": [
+            "Tianyu Yang",
+            "Paul V. Braun",
+            "Nenad Miljkovic",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 77,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nn100203d",
+        "title": "Wear-Resistant Diamond Nanoprobe Tips with Integrated Silicon Heater for Tip-Based Nanomanufacturing",
+        "journal": "ACS Nano",
+        "year": 2010,
+        "citations": 74,
+        "authors": "Patrick C. Fletcher, Jonathan R. Felts, Zhenting Dai et al.",
+        "authors_list": [
+            "Patrick C. Fletcher",
+            "Jonathan R. Felts",
+            "Zhenting Dai",
+            "Tevis D. B. Jacobs",
+            "Hongjun Zeng",
+            "Woo Lee",
+            "Paul E. Sheehan",
+            "John A. Carlisle",
+            "Robert W. Carpick",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 74,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevfluids.2.103601",
+        "title": "Droplet impact on vibrating superhydrophobic surfaces",
+        "journal": "Physical Review Fluids",
+        "year": 2017,
+        "citations": 72,
+        "authors": "Patricia B. Weisensee, Jingcheng Ma, Young Hwan Shin et al.",
+        "authors_list": [
+            "Patricia B. Weisensee",
+            "Jingcheng Ma",
+            "Young Hwan Shin",
+            "Junjiao Tian",
+            "Yujin Chang",
+            "William P. King",
+            "Nenad Miljkovic"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 72,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1615/annualrevheattransfer.v16.100",
+        "title": "HEATED ATOMIC FORCE MICROSCOPE CANTILEVERS AND THEIR APPLICATIONS",
+        "journal": "Annual Reviews of Heat Transfer",
+        "year": 2013,
+        "citations": 71,
+        "authors": "William P. King, Bikramjit Bhatia, Jonathan R. Felts et al.",
+        "authors_list": [
+            "William P. King",
+            "Bikramjit Bhatia",
+            "Jonathan R. Felts",
+            "Hoe Joon Kim",
+            "Beomjin Kwon",
+            "Byeonghee Lee",
+            "Suhas Somnath",
+            "Matthew R. Rosenberger"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 71,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adfm.200901057",
+        "title": "Thermochemical Nanolithography of Multifunctional Nanotemplates for Assembling Nano‐Objects",
+        "journal": "Advanced Functional Materials",
+        "year": 2009,
+        "citations": 68,
+        "authors": "Debin Wang, Vamsi Kodali, William D. Underwood et al.",
+        "authors_list": [
+            "Debin Wang",
+            "Vamsi Kodali",
+            "William D. Underwood",
+            "Jonas E. Jarvholm",
+            "T. Okada",
+            "Simon C. Jones",
+            "Mariacristina Rumi",
+            "Zhenting Dai",
+            "William P. King",
+            "Seth R. Marder",
+            "Jennifer E. Curtis",
+            "Elisa Riedo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1145/2976749.2978323",
+        "title": "Leave Your Phone at the Door",
+        "journal": "",
+        "year": 2016,
+        "citations": 68,
+        "authors": "Avesta Hojjati, Anku Adhikari, Katarina M Struckmann et al.",
+        "authors_list": [
+            "Avesta Hojjati",
+            "Anku Adhikari",
+            "Katarina M Struckmann",
+            "Edward Chou",
+            "Thi Ngoc Tho Nguyen",
+            "Kushagra Madan",
+            "Marianne Winslett",
+            "Carl A. Gunter",
+            "William P. King"
+        ],
+        "type": "conference-paper",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.2403862",
+        "title": "Thermal conduction from microcantilever heaters in partial vacuum",
+        "journal": "Journal of Applied Physics",
+        "year": 2007,
+        "citations": 68,
+        "authors": "Jungchul Lee, Tanya L. Wright, Mark R. Abel et al.",
+        "authors_list": [
+            "Jungchul Lee",
+            "Tanya L. Wright",
+            "Mark R. Abel",
+            "Erik O. Sunden",
+            "Alexei Marchenkov",
+            "Samuel Graham",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://repository.gatech.edu/bitstreams/79f58a94-eb00-4c46-8ed7-7dd8dd7d04b6/download"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-020-17241-1",
+        "title": "Spatial defects nanoengineering for bipolar conductivity in MoS2",
+        "journal": "Nature Communications",
+        "year": 2020,
+        "citations": 68,
+        "authors": "Xiaorui Zheng, Annalisa Calò, Tengfei Cao et al.",
+        "authors_list": [
+            "Xiaorui Zheng",
+            "Annalisa Calò",
+            "Tengfei Cao",
+            "Xiangyu Liu",
+            "Zhujun Huang",
+            "Paul Masih Das",
+            "Marija Drndić",
+            "Edoardo Albisetti",
+            "Francesco Lavini",
+            "Tai‐De Li",
+            "V. Narang",
+            "William P. King",
+            "John W. Harrold",
+            "Michele Vittadello",
+            "C. Aruta",
+            "Davood Shahrjerdi",
+            "Elisa Riedo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-020-17241-1.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja0612807",
+        "title": "Direct Writing of a Conducting Polymer with Molecular-Level Control of Physical Dimensions and Orientation",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2006,
+        "citations": 68,
+        "authors": "Minchul Yang, Paul E. Sheehan, William P. King et al.",
+        "authors_list": [
+            "Minchul Yang",
+            "Paul E. Sheehan",
+            "William P. King",
+            "L. J. Whitman"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 68,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1787160",
+        "title": "Comparison of thermal and piezoresistive sensing approaches for atomic force microscopy topography measurements",
+        "journal": "Applied Physics Letters",
+        "year": 2004,
+        "citations": 67,
+        "authors": "William P. King, Thomas W. Kenny, Kenneth E. Goodson",
+        "authors_list": [
+            "William P. King",
+            "Thomas W. Kenny",
+            "Kenneth E. Goodson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.5013623",
+        "title": "Millimeter-scale liquid metal droplet thermal switch",
+        "journal": "Applied Physics Letters",
+        "year": 2018,
+        "citations": 67,
+        "authors": "Tianyu Yang, Beomjin Kwon, Patricia B. Weisensee et al.",
+        "authors_list": [
+            "Tianyu Yang",
+            "Beomjin Kwon",
+            "Patricia B. Weisensee",
+            "Jin Gu Kang",
+            "Xiaojing Li",
+            "Paul V. Braun",
+            "Nenad Miljkovic",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 67,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nl102809k",
+        "title": "Local Nanoscale Heating Modulates Single-Asperity Friction",
+        "journal": "Nano Letters",
+        "year": 2010,
+        "citations": 66,
+        "authors": "Christian Greiner, Jonathan R. Felts, Zhenting Dai et al.",
+        "authors_list": [
+            "Christian Greiner",
+            "Jonathan R. Felts",
+            "Zhenting Dai",
+            "William P. King",
+            "Robert W. Carpick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.sna.2008.06.016",
+        "title": "The effect of piezoresistive microcantilever geometry on cantilever sensitivity during surface stress chemical sensing",
+        "journal": "Sensors and Actuators A Physical",
+        "year": 2008,
+        "citations": 66,
+        "authors": "A. Loui, Fabian T. Goericke, Timothy V. Ratto et al.",
+        "authors_list": [
+            "A. Loui",
+            "Fabian T. Goericke",
+            "Timothy V. Ratto",
+            "Jungchul Lee",
+            "Bradley R. Hart",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.applthermaleng.2008.07.019",
+        "title": "Thermal conduction between a heated microcantilever and a surrounding air environment",
+        "journal": "Applied Thermal Engineering",
+        "year": 2008,
+        "citations": 66,
+        "authors": "Kyoung Joon Kim, William P. King",
+        "authors_list": [
+            "Kyoung Joon Kim",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 66,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/jid.2008.265",
+        "title": "Cadherin-Mediated Cell–Cell Contact Regulates Keratinocyte Differentiation",
+        "journal": "Journal of Investigative Dermatology",
+        "year": 2008,
+        "citations": 65,
+        "authors": "Joseph L. Charest, Jean Marie Jennings, William P. King et al.",
+        "authors_list": [
+            "Joseph L. Charest",
+            "Jean Marie Jennings",
+            "William P. King",
+            "Andrew P. Kowalczyk",
+            "Andrés J. Garcı́a"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://www.jidonline.org/article/S0022202X15342561/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.addma.2018.11.002",
+        "title": "Mechanical properties of hexagonal lattice structures fabricated using continuous liquid interface production additive manufacturing",
+        "journal": "Additive manufacturing",
+        "year": 2018,
+        "citations": 65,
+        "authors": "Davis J. McGregor, Sameh Tawfick, William P. King",
+        "authors_list": [
+            "Davis J. McGregor",
+            "Sameh Tawfick",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 65,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1088/0957-4484/21/18/185705",
+        "title": "High-sensitivity nanometer-scale infrared spectroscopy using a contact mode microcantilever with an internal resonator paddle",
+        "journal": "Nanotechnology",
+        "year": 2010,
+        "citations": 64,
+        "authors": "K. Kjoller, Jonathan R. Felts, Daniel Cook et al.",
+        "authors_list": [
+            "K. Kjoller",
+            "Jonathan R. Felts",
+            "Daniel Cook",
+            "Craig Prater",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 64,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/b923791g",
+        "title": "Rapid thermal lysis of cells using silicon–diamond microcantilever heaters",
+        "journal": "Lab on a Chip",
+        "year": 2010,
+        "citations": 63,
+        "authors": "Natalya L. Privorotskaya, Yi-Shao Liu, Jungchul Lee et al.",
+        "authors_list": [
+            "Natalya L. Privorotskaya",
+            "Yi-Shao Liu",
+            "Jungchul Lee",
+            "Hongjun Zeng",
+            "John A. Carlisle",
+            "Adarsh D. Radadia",
+            "Larry J. Millet",
+            "Rashid Bashir",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.5135568",
+        "title": "A composite phase change material thermal buffer based on porous metal foam and low-melting-temperature metal alloy",
+        "journal": "Applied Physics Letters",
+        "year": 2020,
+        "citations": 63,
+        "authors": "Tianyu Yang, Jin Gu Kang, Patricia B. Weisensee et al.",
+        "authors_list": [
+            "Tianyu Yang",
+            "Jin Gu Kang",
+            "Patricia B. Weisensee",
+            "Beomjin Kwon",
+            "Paul V. Braun",
+            "Nenad Miljkovic",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1088/0960-1317/15/12/028",
+        "title": "Design analysis of heated atomic force microscope cantilevers for nanotopography measurements",
+        "journal": "Journal of Micromechanics and Microengineering",
+        "year": 2005,
+        "citations": 63,
+        "authors": "William P. King",
+        "authors_list": [
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1088/0960-1317/15/12/028/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1116/1.2127939",
+        "title": "Simulations of nonuniform embossing: The effect of asymmetric neighbor cavities on polymer flow during nanoimprint lithography",
+        "journal": "Journal of Vacuum Science & Technology B Microelectronics and Nanometer Structures Processing Measurement and Phenomena",
+        "year": 2005,
+        "citations": 63,
+        "authors": "Harry D. Rowland, William P. King, Amy Cha-Tien Sun et al.",
+        "authors_list": [
+            "Harry D. Rowland",
+            "William P. King",
+            "Amy Cha-Tien Sun",
+            "Peter Schunk"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nn300869w",
+        "title": "Controlling Nanoscale Friction through the Competition between Capillary Adsorption and Thermally Activated Sliding",
+        "journal": "ACS Nano",
+        "year": 2012,
+        "citations": 63,
+        "authors": "Christian Greiner, Jonathan R. Felts, Zhenting Dai et al.",
+        "authors_list": [
+            "Christian Greiner",
+            "Jonathan R. Felts",
+            "Zhenting Dai",
+            "William P. King",
+            "Robert W. Carpick"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 63,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1088/0960-1317/24/9/095020",
+        "title": "Hydrophobic and oleophobic re-entrant steel microstructures fabricated using micro electrical discharge machining",
+        "journal": "Journal of Micromechanics and Microengineering",
+        "year": 2014,
+        "citations": 60,
+        "authors": "Patricia B. Weisensee, Eduardo J. Torrealba, Mark S. Raleigh et al.",
+        "authors_list": [
+            "Patricia B. Weisensee",
+            "Eduardo J. Torrealba",
+            "Mark S. Raleigh",
+            "Anthony M. Jacobi",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 60,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1088/0960-1317/24/9/095020/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.2217828120",
+        "title": "Skin-integrated systems for power efficient, programmable thermal sensations across large body areas",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2023,
+        "citations": 59,
+        "authors": "Minsu Park, Jae‐Young Yoo, Tianyu Yang et al.",
+        "authors_list": [
+            "Minsu Park",
+            "Jae‐Young Yoo",
+            "Tianyu Yang",
+            "Yei Hwan Jung",
+            "Abraham Vázquez‐Guardado",
+            "Shupeng Li",
+            "Jae-Hwan Kim",
+            "Jaeho Shin",
+            "Woo‐Youl Maeng",
+            "Geumbee Lee",
+            "Seonggwang Yoo",
+            "Haiwen Luan",
+            "Jin‐Tae Kim",
+            "Hee‐Sup Shin",
+            "Matthew T. Flavin",
+            "Hong‐Joon Yoon",
+            "Nenad Miljkovic",
+            "Yonggang Huang",
+            "William P. King",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9963740/pdf/pnas.202217828.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4896676",
+        "title": "Direct observation of resistive heating at graphene wrinkles and grain boundaries",
+        "journal": "Applied Physics Letters",
+        "year": 2014,
+        "citations": 59,
+        "authors": "Kyle L. Grosse, Vincent E. Dorgan, David Estrada et al.",
+        "authors_list": [
+            "Kyle L. Grosse",
+            "Vincent E. Dorgan",
+            "David Estrada",
+            "Joshua D. Wood",
+            "Ivan Vlassiouk",
+            "Gyula Eres",
+            "Joseph W. Lyding",
+            "William P. King",
+            "Eric Pop"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1088/0960-1317/19/9/095016",
+        "title": "Casting metal microstructures from a flexible and reusable mold",
+        "journal": "Journal of Micromechanics and Microengineering",
+        "year": 2009,
+        "citations": 59,
+        "authors": "Andrew Cannon, William P. King",
+        "authors_list": [
+            "Andrew Cannon",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1088/0960-1317/19/9/095016/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1868883",
+        "title": "Shape recovery of nanoscale imprints in a thermoset “shape memory” polymer",
+        "journal": "Applied Physics Letters",
+        "year": 2005,
+        "citations": 59,
+        "authors": "Brent Nelson, William P. King, Ken Gall",
+        "authors_list": [
+            "Brent Nelson",
+            "William P. King",
+            "Ken Gall"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 59,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1023/a:1018844124754",
+        "title": "“Millipede” – an AFM data storage system at the frontier of nanotribology",
+        "journal": "Tribology Letters",
+        "year": 2000,
+        "citations": 56,
+        "authors": "U. Dürig, Graham L. W. Cross, M. Despont et al.",
+        "authors_list": [
+            "U. Dürig",
+            "Graham L. W. Cross",
+            "M. Despont",
+            "Ute Drechsler",
+            "W. Häberle",
+            "M. I. Lutwyche",
+            "H. Rothuizen",
+            "R. Stutz",
+            "Rudolf Widmer‐Schnidrig",
+            "P. Vettiger",
+            "G. Binnig",
+            "William P. King",
+            "Kenneth E. Goodson"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 56,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2024.126433",
+        "title": "Cooling high power electronics using dynamic phase change material",
+        "journal": "International Journal of Heat and Mass Transfer",
+        "year": 2024,
+        "citations": 55,
+        "authors": "Soonwook Kim, Robert A. Stavins, Vivek S. Garimella et al.",
+        "authors_list": [
+            "Soonwook Kim",
+            "Robert A. Stavins",
+            "Vivek S. Garimella",
+            "Elad Koronio",
+            "Tomer Shockner",
+            "G. Ziskind",
+            "Nenad Miljkovic",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1016/j.ijheatmasstransfer.2024.126433"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.2164916",
+        "title": "Room-temperature chemical vapor deposition and mass detection on a heated atomic force microscope cantilever",
+        "journal": "Applied Physics Letters",
+        "year": 2006,
+        "citations": 55,
+        "authors": "Erik O. Sunden, Tanya L. Wright, Jungchul Lee et al.",
+        "authors_list": [
+            "Erik O. Sunden",
+            "Tanya L. Wright",
+            "Jungchul Lee",
+            "William P. King",
+            "Samuel Graham"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://aip.scitation.org/doi/pdf/10.1063/1.2164916"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1101/2020.05.21.108381",
+        "title": "Rapid Isothermal Amplification and Portable Detection System for SARS-CoV-2",
+        "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+        "year": 2020,
+        "citations": 55,
+        "authors": "Anurup Ganguli, Ariana Mostafa, Jacob Berger et al.",
+        "authors_list": [
+            "Anurup Ganguli",
+            "Ariana Mostafa",
+            "Jacob Berger",
+            "Mehmet Y. Aydin",
+            "Fu Sun",
+            "Enrique Valera",
+            "Brian T. Cunningham",
+            "William P. King",
+            "Rashid Bashir"
+        ],
+        "type": "preprint",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 55,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.biorxiv.org/content/biorxiv/early/2020/05/21/2020.05.21.108381.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.nanolett.5b01036",
+        "title": "Three-Dimensional Integration of Graphene via Swelling, Shrinking, and Adaptation",
+        "journal": "Nano Letters",
+        "year": 2015,
+        "citations": 54,
+        "authors": "Jonghyun Choi, Hoe Joon Kim, Michael Cai Wang et al.",
+        "authors_list": [
+            "Jonghyun Choi",
+            "Hoe Joon Kim",
+            "Michael Cai Wang",
+            "Juyoung Leem",
+            "William P. King",
+            "SungWoo Nam"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-023-36690-y",
+        "title": "Responsive materials and mechanisms as thermal safety systems for skin-interfaced electronic devices",
+        "journal": "Nature Communications",
+        "year": 2023,
+        "citations": 54,
+        "authors": "Seonggwang Yoo, Tianyu Yang, Minsu Park et al.",
+        "authors_list": [
+            "Seonggwang Yoo",
+            "Tianyu Yang",
+            "Minsu Park",
+            "Hyoyoung Jeong",
+            "Young Joong Lee",
+            "Donghwi Cho",
+            "Joohee Kim",
+            "Sung Soo Kwak",
+            "Jaeho Shin",
+            "Yoonseok Park",
+            "Yue Wang",
+            "Nenad Miljkovic",
+            "William P. King",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-023-36690-y.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.tsf.2010.03.084",
+        "title": "Conformal ZnO nanocomposite coatings on micro-patterned surfaces for superhydrophobicity",
+        "journal": "Thin Solid Films",
+        "year": 2010,
+        "citations": 54,
+        "authors": "Adam Steele, Ilker S. Bayer, Stephen Moran et al.",
+        "authors_list": [
+            "Adam Steele",
+            "Ilker S. Bayer",
+            "Stephen Moran",
+            "Andrew Cannon",
+            "William P. King",
+            "Eric Loth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 54,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/jmems.2006.889498",
+        "title": "Frequency-Dependent Electrical and Thermal Response of Heated Atomic Force Microscope Cantilevers",
+        "journal": "Journal of Microelectromechanical Systems",
+        "year": 2007,
+        "citations": 53,
+        "authors": "Keunhan Park, Jungchul Lee, Zhuomin M. Zhang et al.",
+        "authors_list": [
+            "Keunhan Park",
+            "Jungchul Lee",
+            "Zhuomin M. Zhang",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c3nr05696a",
+        "title": "Parallelization of thermochemical nanolithography",
+        "journal": "Nanoscale",
+        "year": 2013,
+        "citations": 53,
+        "authors": "Keith M. Carroll, Xi Lu, Suenne Kim et al.",
+        "authors_list": [
+            "Keith M. Carroll",
+            "Xi Lu",
+            "Suenne Kim",
+            "Yang Gao",
+            "Hoe Joon Kim",
+            "Suhas Somnath",
+            "Laura Polloni",
+            "Roman Sordan",
+            "William P. King",
+            "Jennifer E. Curtis",
+            "Elisa Riedo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://hdl.handle.net/11311/772714"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/d2lc00021k",
+        "title": "Microfluidic point-of-care device for detection of early strains and B.1.1.7 variant of SARS-CoV-2 virus",
+        "journal": "Lab on a Chip",
+        "year": 2022,
+        "citations": 53,
+        "authors": "Jongwon Lim, Robert A. Stavins, Victoria Kindratenko et al.",
+        "authors_list": [
+            "Jongwon Lim",
+            "Robert A. Stavins",
+            "Victoria Kindratenko",
+            "Janice Mihyun Baek",
+            "Leyi Wang",
+            "Karen White",
+            "James Kumar",
+            "Enrique Valera",
+            "William P. King",
+            "Rashid Bashir"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 53,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1088/0957-4484/23/5/055709",
+        "title": "Lorentz force actuation of a heated atomic force microscope cantilever",
+        "journal": "Nanotechnology",
+        "year": 2012,
+        "citations": 52,
+        "authors": "Byeonghee Lee, Craig Prater, William P. King",
+        "authors_list": [
+            "Byeonghee Lee",
+            "Craig Prater",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://iopscience.iop.org/article/10.1088/0957-4484/23/5/055709/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.sna.2006.10.052",
+        "title": "Nanotopographical imaging using a heated atomic force microscope cantilever probe",
+        "journal": "Sensors and Actuators A Physical",
+        "year": 2006,
+        "citations": 52,
+        "authors": "K. J. Kim, K. Park, Jungchul Lee et al.",
+        "authors_list": [
+            "K. J. Kim",
+            "K. Park",
+            "Jungchul Lee",
+            "Zhiming Zhang",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tcpmt.2019.2930089",
+        "title": "An Integrated Liquid Metal Thermal Switch for Active Thermal Management of Electronics",
+        "journal": "IEEE Transactions on Components Packaging and Manufacturing Technology",
+        "year": 2019,
+        "citations": 52,
+        "authors": "Tianyu Yang, Thomas Foulkes, Beomjin Kwon et al.",
+        "authors_list": [
+            "Tianyu Yang",
+            "Thomas Foulkes",
+            "Beomjin Kwon",
+            "Jin Gu Kang",
+            "Paul V. Braun",
+            "William P. King",
+            "Nenad Miljkovic"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.sna.2006.10.051",
+        "title": "Microcantilever hotplates: Design, fabrication, and characterization",
+        "journal": "Sensors and Actuators A Physical",
+        "year": 2006,
+        "citations": 52,
+        "authors": "Jungchul Lee, William P. King",
+        "authors_list": [
+            "Jungchul Lee",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 52,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1088/0957-4484/23/21/215301",
+        "title": "Nanometer-scale flow of molten polyethylene from a heated atomic force microscope tip",
+        "journal": "Nanotechnology",
+        "year": 2012,
+        "citations": 51,
+        "authors": "Jonathan R. Felts, Suhas Somnath, Randy H. Ewoldt et al.",
+        "authors_list": [
+            "Jonathan R. Felts",
+            "Suhas Somnath",
+            "Randy H. Ewoldt",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1080/15567260701866769",
+        "title": "Modeling and Simulation of the Interface Temperature Between a Heated Silicon Tip and a Substrate",
+        "journal": "Nanoscale and Microscale Thermophysical Engineering",
+        "year": 2008,
+        "citations": 51,
+        "authors": "Brent Nelson, William P. King",
+        "authors_list": [
+            "Brent Nelson",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2021.121510",
+        "title": "Heat Transfer Enhancement of Single-Phase Internal Flows using Shape Optimization and Additively Manufactured Flow Structures",
+        "journal": "International Journal of Heat and Mass Transfer",
+        "year": 2021,
+        "citations": 51,
+        "authors": "Hyunkyu Moon, Kalyan Boyina, Nenad Miljkovic et al.",
+        "authors_list": [
+            "Hyunkyu Moon",
+            "Kalyan Boyina",
+            "Nenad Miljkovic",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/tcapt.2007.897993",
+        "title": "Thermal Metrology of Silicon Microstructures Using Raman Spectroscopy",
+        "journal": "IEEE Transactions on Components and Packaging Technologies",
+        "year": 2007,
+        "citations": 51,
+        "authors": "Mark R. Abel, Tanya L. Wright, William P. King et al.",
+        "authors_list": [
+            "Mark R. Abel",
+            "Tanya L. Wright",
+            "William P. King",
+            "Samuel Graham"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 51,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://repository.gatech.edu/bitstreams/0ae42c5b-0bb4-49cf-91d9-bea09d845374/download"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2023.124263",
+        "title": "Phase change material integrated cooling for transient thermal management of electronic devices",
+        "journal": "International Journal of Heat and Mass Transfer",
+        "year": 2023,
+        "citations": 50,
+        "authors": "Soonwook Kim, Tianyu Yang, Nenad Miljkovic et al.",
+        "authors_list": [
+            "Soonwook Kim",
+            "Tianyu Yang",
+            "Nenad Miljkovic",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 50,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41598-018-36901-3",
+        "title": "High strength metallic wood from nanostructured nickel inverse opal materials",
+        "journal": "Scientific Reports",
+        "year": 2019,
+        "citations": 49,
+        "authors": "James H. Pikul, Sezer Özerinç, Burigede Liu et al.",
+        "authors_list": [
+            "James H. Pikul",
+            "Sezer Özerinç",
+            "Burigede Liu",
+            "Runyu Zhang",
+            "Paul V. Braun",
+            "V.S. Deshpande",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41598-018-36901-3.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1115/1.2953238",
+        "title": "Experimental Investigation on the Heat Transfer Between a Heated Microcantilever and a Substrate",
+        "journal": "ASME Journal of Heat and Mass Transfer",
+        "year": 2008,
+        "citations": 49,
+        "authors": "Keunhan Park, Graham L. W. Cross, Zhuomin M. Zhang et al.",
+        "authors_list": [
+            "Keunhan Park",
+            "Graham L. W. Cross",
+            "Zhuomin M. Zhang",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 49,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.4901993",
+        "title": "High-frequency thermal-electrical cycles for pyroelectric energy conversion",
+        "journal": "Journal of Applied Physics",
+        "year": 2014,
+        "citations": 48,
+        "authors": "Bikram Bhatia, Anoop R. Damodaran, Hanna Cho et al.",
+        "authors_list": [
+            "Bikram Bhatia",
+            "Anoop R. Damodaran",
+            "Hanna Cho",
+            "Lane W. Martin",
+            "William P. King"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://escholarship.org/content/qt83m787bk/qt83m787bk.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.201402552",
+        "title": "Hydrothermal Fabrication of Three‐Dimensional Secondary Battery Anodes",
+        "journal": "Advanced Materials",
+        "year": 2014,
+        "citations": 48,
+        "authors": "Jinyun Liu, Huigang Zhang, Junjie Wang et al.",
+        "authors_list": [
+            "Jinyun Liu",
+            "Huigang Zhang",
+            "Junjie Wang",
+            "Jiung Cho",
+            "James H. Pikul",
+            "Eric S. Epstein",
+            "Xingjiu Huang",
+            "Jinhuai Liu",
+            "William P. King",
+            "Paul V. Braun"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 48,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1875501"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/ncomms2747",
+        "title": "High-power lithium ion microbatteries from interdigitated three-dimensional bicontinuous nanoporous electrodes",
+        "journal": "Nature Communications",
+        "year": null,
+        "citations": 589,
+        "authors": "James H. Pikul, Hui Gang Zhang, Jiung Cho et al.",
+        "authors_list": [
+            "James H. Pikul",
+            "Hui Gang Zhang",
+            "Jiung Cho",
+            "Paul V. Braun",
+            "William P. King"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 589
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms2747.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/s41560-017-0071-2",
+        "title": "3D printing of shape-conformable thermoelectric materials using all-inorganic Bi2Te3-based inks",
+        "journal": "Nature Energy",
+        "year": null,
+        "citations": 343,
+        "authors": "Fredrick Kim, Beomjin Kwon, Youngho Eom et al.",
+        "authors_list": [
+            "Fredrick Kim",
+            "Beomjin Kwon",
+            "Youngho Eom",
+            "Ji Eun Lee",
+            "Sangmin Park",
+            "Seungki Jo",
+            "Sung Hoon Park",
+            "Bong-Seo Kim",
+            "Hye Jin Im",
+            "Min Ho Lee",
+            "Tae Sik Min",
+            "Kyung Tae Kim",
+            "Han Gi Chae",
+            "William P. King",
+            "Jae Sung Son"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 343
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1016/j.jqsrt.2007.08.022",
+        "title": "Performance analysis of near-field thermophotovoltaic devices considering absorption distribution",
+        "journal": "Journal of Quantitative Spectroscopy and Radiative Transfer",
+        "year": 2008,
+        "citations": 270,
+        "authors": "K. Park, S. Basu, W.P. King et al.",
+        "authors_list": [
+            "K. Park",
+            "S. Basu",
+            "W.P. King",
+            "Z.M. Zhang"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 270
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/s41560-022-00986-y",
+        "title": "High power and energy density dynamic phase change materials using pressure-enhanced close contact melting",
+        "journal": "Nature Energy",
+        "year": null,
+        "citations": 198,
+        "authors": "Wuchen Fu, Xiao Yan, Yashraj Gurumukhi et al.",
+        "authors_list": [
+            "Wuchen Fu",
+            "Xiao Yan",
+            "Yashraj Gurumukhi",
+            "Vivek S. Garimella",
+            "William P. King",
+            "Nenad Miljkovic"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 198
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/nnano.2016.25",
+        "title": "Nanopatterning reconfigurable magnetic landscapes via thermally assisted scanning probe lithography",
+        "journal": "Nature Nanotechnology",
+        "year": 2016,
+        "citations": 155,
+        "authors": "E. Albisetti, D. Petti, M. Pancaldi et al.",
+        "authors_list": [
+            "E. Albisetti",
+            "D. Petti",
+            "M. Pancaldi",
+            "M. Madami",
+            "S. Tacchi",
+            "J. Curtis",
+            "W. P. King",
+            "A. Papp",
+            "G. Csaba",
+            "W. Porod",
+            "P. Vavassori",
+            "E. Riedo",
+            "R. Bertacco"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 155
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://hdl.handle.net/11311/1004182"
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1063/1.2435589",
+        "title": "Measuring material softening with nanoscale spatial resolution using heated silicon probes",
+        "journal": "Review of Scientific Instruments",
+        "year": 2007,
+        "citations": 121,
+        "authors": "B. A. Nelson, W. P. King",
+        "authors_list": [
+            "B. A. Nelson",
+            "W. P. King"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 121
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1109/jmems.2002.803283",
+        "title": "Design of atomic force microscope cantilevers for combined thermomechanical writing and thermal reading in array operation",
+        "journal": "Journal of Microelectromechanical Systems",
+        "year": 2002,
+        "citations": 106,
+        "authors": "W.P. King, T.W. Kenny, K.E. Goodson et al.",
+        "authors_list": [
+            "W.P. King",
+            "T.W. Kenny",
+            "K.E. Goodson",
+            "G.L.W. Cross",
+            "M. Despont",
+            "U.T. Durig",
+            "H. Rothuizen",
+            "G. Binnig",
+            "P. Vettiger"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 106
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

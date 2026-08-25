@@ -1,0 +1,51 @@
+[
+    {
+        "url": "https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1238014/prof-dr-axel-hoffmann",
+        "snippet": "His groundbreaking research in microwave spin-electronics, spin-current generation and skyrmion magnetic texture generation has opened novel paths towards ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL appears to be a biographical page on an academic's work, suggesting a connection to research publications."
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=aFTRKP3j8_s",
+        "snippet": "The fourth talk from JM's virtual conference, platinum ... Rh, Pd, Ir, Pt: what makes them special for spintronics? with Axel Hoffmann.",
+        "category": "Media/Video",
+        "relevance_score": 92,
+        "reasoning": "It's a YouTube video of a conference talk, suggesting it may be related to academic or professional content."
+    },
+    {
+        "url": "https://matse.illinois.edu/people/profile/axelh",
+        "snippet": "... Axel Hoffmann. Axel Hoffmann. Founder Professor in ... Magnetic Damping Modulation in IrMn3/Ni80Fe20 via the Magnetic Spin Hall Effect, J.",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The snippet mentions a specific research publication, J."
+    },
+    {
+        "url": "https://scholar.google.com/citations?user=x8LHkuwAAAAJ&hl=en",
+        "snippet": "Blowing magnetic skyrmion bubbles. W Jiang, P Upadhyaya, W Zhang, G Yu, MB ... Quantifying spin Hall angles from spin pumping: Experiments and theory. O ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The URL is a Google Scholar page with citations and authors listed, suggesting it's a publication or research paper."
+    },
+    {
+        "url": "https://dailyillini.com/news-stories/university-news/faculty/2025/01/02/uis-most-influential-axel-hoffmann-professor-in-materials-science/",
+        "snippet": "Hall of Fame ... Hoffmann's research group was one of the first to examine spin-orbit interactions, or how electrons in a magnetic field spin in ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The URL is a news article from the University of Illinois' student newspaper, highlighting an achievement by a faculty member."
+    },
+    {
+        "url": "https://magnetism.org/2026/contacts/axel-hoffman",
+        "snippet": "Axel Hoffmann. University of Illinois at Urbana-Champaign. 2027 ICM Conference ... This site is created, maintained, and managed by Conference Catalysts, LLC.",
+        "category": "Conference",
+        "relevance_score": 85,
+        "reasoning": "The snippet mentions a specific conference and an academic's participation in it."
+    },
+    {
+        "url": "https://www.researchgate.net/scientific-contributions/Axel-Hoffmann-2046856663",
+        "snippet": "Axel Hoffmann's 38 research items with 772 citations and 24311 reads, including: Why different trust relationships matter for information systems users.",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The snippet describes Axel Hoffmann's research items and citations, indicating a publication on ResearchGate."
+    }
+]

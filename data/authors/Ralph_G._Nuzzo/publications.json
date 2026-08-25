@@ -1,0 +1,3326 @@
+[
+    {
+        "doi": "https://doi.org/10.1021/cr0300789",
+        "title": "Self-Assembled Monolayers of Thiolates on Metals as a Form of Nanotechnology",
+        "journal": "Chemical Reviews",
+        "year": 2005,
+        "citations": 8207,
+        "authors": "J. Christopher Love, Lara A. Estroff, Jennah K. Kriebel et al.",
+        "authors_list": [
+            "J. Christopher Love",
+            "Lara A. Estroff",
+            "Jennah K. Kriebel",
+            "Ralph G. Nuzzo",
+            "George M. Whitesides"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 8207,
+            "crossref": 7652
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00183a049",
+        "title": "Formation of monolayer films by the spontaneous assembly of organic thiols from solution onto gold",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1989,
+        "citations": 3364,
+        "authors": "Colin D. Bain, E. B. Troughton, Yu‐Tai Tao et al.",
+        "authors_list": [
+            "Colin D. Bain",
+            "E. B. Troughton",
+            "Yu‐Tai Tao",
+            "Joseph Evall",
+            "George M. Whitesides",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 3364,
+            "crossref": 3020
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nmat4544",
+        "title": "Biomimetic 4D printing",
+        "journal": "Nature Materials",
+        "year": 2016,
+        "citations": 2972,
+        "authors": "A. Sydney Gladman, Elisabetta A. Matsumoto, Ralph G. Nuzzo et al.",
+        "authors_list": [
+            "A. Sydney Gladman",
+            "Elisabetta A. Matsumoto",
+            "Ralph G. Nuzzo",
+            "L. Mahadevan",
+            "Jennifer A. Lewis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 2972,
+            "crossref": 2883
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/cr068126n",
+        "title": "Nanostructured Plasmonic Sensors",
+        "journal": "Chemical Reviews",
+        "year": 2008,
+        "citations": 2396,
+        "authors": "Matthew E. Stewart, Christopher Anderton, Lucas B. Thompson et al.",
+        "authors_list": [
+            "Matthew E. Stewart",
+            "Christopher Anderton",
+            "Lucas B. Thompson",
+            "Joana Maria",
+            "Stephen K. Gray",
+            "John A. Rogers",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 2396,
+            "crossref": 2234
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00351a063",
+        "title": "Adsorption of bifunctional organic disulfides on gold surfaces",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1983,
+        "citations": 2288,
+        "authors": "Ralph G. Nuzzo, David L. Allara",
+        "authors_list": [
+            "Ralph G. Nuzzo",
+            "David L. Allara"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 2288,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00019a011",
+        "title": "Comparison of the structures and wetting properties of self-assembled monolayers of n-alkanethiols on the coinage metal surfaces, copper, silver, and gold",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1991,
+        "citations": 1963,
+        "authors": "Paul E. Laibinis, George M. Whitesides, David L. Allara et al.",
+        "authors_list": [
+            "Paul E. Laibinis",
+            "George M. Whitesides",
+            "David L. Allara",
+            "Yu‐Tai Tao",
+            "Atul N. Parikh",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1963,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1146/annurev.pc.43.100192.002253",
+        "title": "Synthesis, Structure, and Properties of Model Organic Surfaces",
+        "journal": "Annual Review of Physical Chemistry",
+        "year": 1992,
+        "citations": 1755,
+        "authors": "Lawrence H. Dubois, Ralph G. Nuzzo",
+        "authors_list": [
+            "Lawrence H. Dubois",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1755,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00158a012",
+        "title": "Fundamental studies of microscopic wetting on organic surfaces. 1. Formation and structural characterization of a self-consistent series of polyfunctional organic monolayers",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1990,
+        "citations": 1566,
+        "authors": "Ralph G. Nuzzo, Lawrence H. Dubois, David L. Allara",
+        "authors_list": [
+            "Ralph G. Nuzzo",
+            "Lawrence H. Dubois",
+            "David L. Allara"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1566,
+            "crossref": 1474
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nmat1532",
+        "title": "Transfer printing by kinetic control of adhesion to an elastomeric stamp",
+        "journal": "Nature Materials",
+        "year": 2005,
+        "citations": 1528,
+        "authors": "Matthew Meitl, Zhengtao Zhu, Vipan Kumar et al.",
+        "authors_list": [
+            "Matthew Meitl",
+            "Zhengtao Zhu",
+            "Vipan Kumar",
+            "Keon Jae Lee",
+            "Xue Feng",
+            "Yonggang Huang",
+            "Ilesanmi Adesida",
+            "Ralph G. Nuzzo",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 1528,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1168375",
+        "title": "Omnidirectional Printing of Flexible, Stretchable, and Spanning Silver Microelectrodes",
+        "journal": "Science",
+        "year": 2009,
+        "citations": 1189,
+        "authors": "Bok Yeop Ahn, Eric B. Duoss, Michael J. Motala et al.",
+        "authors_list": [
+            "Bok Yeop Ahn",
+            "Eric B. Duoss",
+            "Michael J. Motala",
+            "Xiaoying Guo",
+            "Sang-Il Park",
+            "Yujie Xiong",
+            "Jongseung Yoon",
+            "Ralph G. Nuzzo",
+            "John A. Rogers",
+            "Jennifer A. Lewis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 1189,
+            "crossref": 1119
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00237a017",
+        "title": "Fundamental studies of the chemisorption of organosulfur compounds on gold(111). Implications for molecular self-assembly on gold surfaces",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1987,
+        "citations": 938,
+        "authors": "Ralph G. Nuzzo, Bernard R. Zegarski, Lawrence H. Dubois",
+        "authors_list": [
+            "Ralph G. Nuzzo",
+            "Bernard R. Zegarski",
+            "Lawrence H. Dubois"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 938,
+            "crossref": 880
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1260960",
+        "title": "Assembly of micro/nanomaterials into complex, three-dimensional architectures by compressive buckling",
+        "journal": "Science",
+        "year": 2015,
+        "citations": 929,
+        "authors": "Sheng Xu, Zheng Yan, Kyung‐In Jang et al.",
+        "authors_list": [
+            "Sheng Xu",
+            "Zheng Yan",
+            "Kyung‐In Jang",
+            "Wen Huang",
+            "Haoran Fu",
+            "Jeonghyun Kim",
+            "Zijun Wei",
+            "Matthew T. Flavin",
+            "Joselle M. McCracken",
+            "Renhan Wang",
+            "Adina Badea",
+            "Yuhao Liu",
+            "Dongqing Xiao",
+            "Guo‐Yan Zhou",
+            "Jungwoo Lee",
+            "Ha Uk Chung",
+            "Huanyu Cheng",
+            "Wen Ren",
+            "Anthony Banks",
+            "Xiuling Li",
+            "Ungyu Paik",
+            "Ralph G. Nuzzo",
+            "Yonggang Huang",
+            "Yihui Zhang",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 929,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/2280416"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.201201386",
+        "title": "Transfer Printing Techniques for Materials Assembly and Micro/Nanodevice Fabrication",
+        "journal": "Advanced Materials",
+        "year": 2012,
+        "citations": 907,
+        "authors": "J. Andrew Carlson, Audrey M. Bowen, Yonggang Huang et al.",
+        "authors_list": [
+            "J. Andrew Carlson",
+            "Audrey M. Bowen",
+            "Yonggang Huang",
+            "Ralph G. Nuzzo",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 907,
+            "crossref": 871
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1876581"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nature10381",
+        "title": "Synthesis, assembly and applications of semiconductor nanomembranes",
+        "journal": "Nature",
+        "year": 2011,
+        "citations": 705,
+        "authors": "John A. Rogers, M. G. Lagally, Ralph G. Nuzzo",
+        "authors_list": [
+            "John A. Rogers",
+            "M. G. Lagally",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 705,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1876405"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1126/science.1132394",
+        "title": "Heterogeneous Three-Dimensional Electronics by Use of Printed Semiconductor Nanomaterials",
+        "journal": "Science",
+        "year": 2006,
+        "citations": 688,
+        "authors": "Jong‐Hyun Ahn, Hoon-Sik Kim, Keon Jae Lee et al.",
+        "authors_list": [
+            "Jong‐Hyun Ahn",
+            "Hoon-Sik Kim",
+            "Keon Jae Lee",
+            "Seokwoo Jeon",
+            "Seong Jun Kang",
+            "Yugang Sun",
+            "Ralph G. Nuzzo",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 688,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00242a020",
+        "title": "Spontaneously organized molecular assemblies. 3. Preparation and properties of solution adsorbed monolayers of organic disulfides on gold surfaces",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1987,
+        "citations": 684,
+        "authors": "Ralph G. Nuzzo, F. A. Fusco, David L. Allara",
+        "authors_list": [
+            "Ralph G. Nuzzo",
+            "F. A. Fusco",
+            "David L. Allara"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 684,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la00061a007",
+        "title": "Spontaneously organized molecular assemblies. 1. Formation, dynamics, and physical properties of n-alkanoic acids adsorbed from solution on an oxidized aluminum surface",
+        "journal": "Langmuir",
+        "year": 1985,
+        "citations": 656,
+        "authors": "David L. Allara, Ralph G. Nuzzo",
+        "authors_list": [
+            "David L. Allara",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 656,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp012769j",
+        "title": "A View from the Inside:  Complexity in the Atomic Scale Ordering of Supported Metal Nanoparticles",
+        "journal": "The Journal of Physical Chemistry B",
+        "year": 2001,
+        "citations": 644,
+        "authors": "Anatoly I. Frenkel, Charles W. Hills, Ralph G. Nuzzo",
+        "authors_list": [
+            "Anatoly I. Frenkel",
+            "Charles W. Hills",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 644,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nmat2879",
+        "title": "Waterproof AlInGaP optoelectronics on stretchable substrates with applications in biomedicine and robotics",
+        "journal": "Nature Materials",
+        "year": 2010,
+        "citations": 643,
+        "authors": "Rak-Hwan Kim, Dae‐Hyeong Kim, Jianliang Xiao et al.",
+        "authors_list": [
+            "Rak-Hwan Kim",
+            "Dae‐Hyeong Kim",
+            "Jianliang Xiao",
+            "Bong Hoon Kim",
+            "Sang-Il Park",
+            "Bruce Panilaitis",
+            "Roozbeh Ghaffari",
+            "Jimin Yao",
+            "Ming Li",
+            "Zhuangjian Liu",
+            "Viktor Malyarchuk",
+            "Dae Gon Kim",
+            "An‐Phong Le",
+            "Ralph G. Nuzzo",
+            "David L. Kaplan",
+            "Fiorenzo G. Omenetto",
+            "Yonggang Huang",
+            "Zhan Kang",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 643,
+            "crossref": 615
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1876413"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.201003734",
+        "title": "Conformal Printing of Electrically Small Antennas on Three‐Dimensional Surfaces",
+        "journal": "Advanced Materials",
+        "year": 2011,
+        "citations": 624,
+        "authors": "Jacob J. Adams, Eric B. Duoss, Thomas F. Malkowski et al.",
+        "authors_list": [
+            "Jacob J. Adams",
+            "Eric B. Duoss",
+            "Thomas F. Malkowski",
+            "Michael J. Motala",
+            "Bok Yeop Ahn",
+            "Ralph G. Nuzzo",
+            "Jennifer T. Bernhard",
+            "Jennifer A. Lewis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 624,
+            "crossref": 566
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1875112"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nmat2287",
+        "title": "Ultrathin silicon solar microcells for semitransparent, mechanically flexible and microconcentrator module designs",
+        "journal": "Nature Materials",
+        "year": 2008,
+        "citations": 615,
+        "authors": "Jongseung Yoon, Alfred J. Baca, Sang-Il Park et al.",
+        "authors_list": [
+            "Jongseung Yoon",
+            "Alfred J. Baca",
+            "Sang-Il Park",
+            "Paulius Elvikis",
+            "Joseph B. Geddes",
+            "Lanfang Li",
+            "Rak Hwan Kim",
+            "Jianliang Xiao",
+            "Shuodao Wang",
+            "Tae‐Ho Kim",
+            "Michael J. Motala",
+            "Bok Yeop Ahn",
+            "Eric B. Duoss",
+            "Jennifer A. Lewis",
+            "Ralph G. Nuzzo",
+            "Placid M. Ferreira",
+            "Yonggang Huang",
+            "Angus Rockett",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 615,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1876410"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la00080a021",
+        "title": "Monolayer films prepared by the spontaneous self-assembly of symmetrical and unsymmetrical dialkyl sulfides from solution onto gold substrates: structure, properties, and reactivity of constituent functional groups",
+        "journal": "Langmuir",
+        "year": 1988,
+        "citations": 577,
+        "authors": "Ernest B. Troughton, Colin D. Bain, George M. Whitesides et al.",
+        "authors_list": [
+            "Ernest B. Troughton",
+            "Colin D. Bain",
+            "George M. Whitesides",
+            "Ralph G. Nuzzo",
+            "David L. Allara",
+            "Marc D. Porter"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 577,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1369-7021(05)00702-9",
+        "title": "Recent progress in soft lithography",
+        "journal": "Materials Today",
+        "year": 2005,
+        "citations": 504,
+        "authors": "John A. Rogers, Ralph G. Nuzzo",
+        "authors_list": [
+            "John A. Rogers",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 504,
+            "crossref": 439
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.sciencedirect.com/science/article/pii/S1369702105007029/pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.464613",
+        "title": "Molecular ordering of organosulfur compounds on Au(111) and Au(100): Adsorption from solution and in ultrahigh vacuum",
+        "journal": "The Journal of Chemical Physics",
+        "year": 1993,
+        "citations": 448,
+        "authors": "Lawrence H. Dubois, Bernard R. Zegarski, Ralph G. Nuzzo",
+        "authors_list": [
+            "Lawrence H. Dubois",
+            "Bernard R. Zegarski",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 448,
+            "crossref": 424
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la701555n",
+        "title": "Competing Fracture in Kinetically Controlled Transfer Printing",
+        "journal": "Langmuir",
+        "year": 2007,
+        "citations": 406,
+        "authors": "Xue Feng, Matthew Meitl, Audrey M. Bowen et al.",
+        "authors_list": [
+            "Xue Feng",
+            "Matthew Meitl",
+            "Audrey M. Bowen",
+            "Yonggang Huang",
+            "Ralph G. Nuzzo",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 406,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nmat2132",
+        "title": "Coordination-dependent surface atomic contraction in nanocrystals revealed by coherent diffraction",
+        "journal": "Nature Materials",
+        "year": 2008,
+        "citations": 366,
+        "authors": "Wentao Huang, Ruoshi Sun, Jing Tao et al.",
+        "authors_list": [
+            "Wentao Huang",
+            "Ruoshi Sun",
+            "Jing Tao",
+            "Laurent Ménard",
+            "Ralph G. Nuzzo",
+            "Jian‐Min Zuo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 366,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1767591",
+        "title": "A printable form of silicon for high performance thin film transistors on plastic substrates",
+        "journal": "Applied Physics Letters",
+        "year": 2004,
+        "citations": 365,
+        "authors": "Etienne Menard, Keon Jae Lee, Dahl‐Young Khang et al.",
+        "authors_list": [
+            "Etienne Menard",
+            "Keon Jae Lee",
+            "Dahl‐Young Khang",
+            "Ralph G. Nuzzo",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 365,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.459528",
+        "title": "Studies of the temperature-dependent phase behavior of long chain <i>n</i>-alkyl thiol monolayers on gold",
+        "journal": "The Journal of Chemical Physics",
+        "year": 1990,
+        "citations": 356,
+        "authors": "Ralph G. Nuzzo, Eileen M. Korenic, Lawrence H. Dubois",
+        "authors_list": [
+            "Ralph G. Nuzzo",
+            "Eileen M. Korenic",
+            "Lawrence H. Dubois"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 356,
+            "crossref": 348
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja0452471",
+        "title": "Near-IR Luminescence of Monolayer-Protected Metal Clusters",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2004,
+        "citations": 337,
+        "authors": "Gangli Wang, Tao Huang, Royce W. Murray et al.",
+        "authors_list": [
+            "Gangli Wang",
+            "Tao Huang",
+            "Royce W. Murray",
+            "Laurent Ménard",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 337,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la00003a024",
+        "title": "Self-Assembled Monolayers of Long-Chain Hydroxamic Acids on the Native Oxide of Metals",
+        "journal": "Langmuir",
+        "year": 1995,
+        "citations": 336,
+        "authors": "John P. Folkers, Christopher B. Gorman, Paul E. Laibinis et al.",
+        "authors_list": [
+            "John P. Folkers",
+            "Christopher B. Gorman",
+            "Paul E. Laibinis",
+            "Stefan Buchholz",
+            "George M. Whitesides",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 336,
+            "crossref": 316
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.0606216103",
+        "title": "Quantitative multispectral biosensing and 1D imaging using quasi-3D plasmonic crystals",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2006,
+        "citations": 336,
+        "authors": "Matthew E. Stewart, Nathan H. Mack, Viktor Malyarchuk et al.",
+        "authors_list": [
+            "Matthew E. Stewart",
+            "Nathan H. Mack",
+            "Viktor Malyarchuk",
+            "Julio A. N. T. Soares",
+            "Tae‐Woo Lee",
+            "Stephen K. Gray",
+            "Ralph G. Nuzzo",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 336,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://doi.org/10.1073/pnas.0606216103"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja971039f",
+        "title": "Structural Characterization of Carbon-Supported Platinum−Ruthenium Nanoparticles from the Molecular Cluster Precursor PtRu<sub>5</sub>C(CO)<sub>16</sub>",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1997,
+        "citations": 317,
+        "authors": "Michael S. Nashner, Anatoly I. Frenkel, David Adler et al.",
+        "authors_list": [
+            "Michael S. Nashner",
+            "Anatoly I. Frenkel",
+            "David Adler",
+            "John R. Shapley",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 317,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja028692+",
+        "title": "Formation and Structure of Self-Assembled Monolayers of Alkanethiolates on Palladium",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2003,
+        "citations": 311,
+        "authors": "J. Christopher Love, Daniel B. Wolfe, Richard T. Haasch et al.",
+        "authors_list": [
+            "J. Christopher Love",
+            "Daniel B. Wolfe",
+            "Richard T. Haasch",
+            "Michael L. Chabinyc",
+            "Kateri E. Paul",
+            "George M. Whitesides",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 311,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/j100191a065",
+        "title": "Structure of monolayers formed by coadsorption of two n-alkanethiols of different chain lengths on gold and its relation to wetting",
+        "journal": "The Journal of Physical Chemistry",
+        "year": 1992,
+        "citations": 307,
+        "authors": "Paul E. Laibinis, Ralph G. Nuzzo, George M. Whitesides",
+        "authors_list": [
+            "Paul E. Laibinis",
+            "Ralph G. Nuzzo",
+            "George M. Whitesides"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 307,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.200803702",
+        "title": "Direct‐Write Assembly of 3D Hydrogel Scaffolds for Guided Cell Growth",
+        "journal": "Advanced Materials",
+        "year": 2009,
+        "citations": 293,
+        "authors": "Robert Barry, Robert F. Shepherd, Jennifer N. Hanson et al.",
+        "authors_list": [
+            "Robert Barry",
+            "Robert F. Shepherd",
+            "Jennifer N. Hanson",
+            "Ralph G. Nuzzo",
+            "Pierre Wiltzius",
+            "Jennifer A. Lewis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 293,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00158a013",
+        "title": "Fundamental studies of microscopic wetting on organic surfaces. 2. Interaction of secondary adsorbates with chemically textured organic monolayers",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1990,
+        "citations": 263,
+        "authors": "Lawrence H. Dubois, Bernard R. Zegarski, Ralph G. Nuzzo",
+        "authors_list": [
+            "Lawrence H. Dubois",
+            "Bernard R. Zegarski",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 263,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1102650108",
+        "title": "Unusual strategies for using indium gallium nitride grown on silicon (111) for solid-state lighting",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2011,
+        "citations": 249,
+        "authors": "Hoon-Sik Kim, Eric Brueckner, Jizhou Song et al.",
+        "authors_list": [
+            "Hoon-Sik Kim",
+            "Eric Brueckner",
+            "Jizhou Song",
+            "Yuhang Li",
+            "Seok Kim",
+            "Chaofeng Lü",
+            "Joshua D. Sulkin",
+            "Kent D. Choquette",
+            "Yonggang Huang",
+            "Ralph G. Nuzzo",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 249,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-021-21132-4",
+        "title": "Dynamic structure of active sites in ceria-supported Pt catalysts for the water gas shift reaction",
+        "journal": "Nature Communications",
+        "year": 2021,
+        "citations": 234,
+        "authors": "Yuanyuan Li, Matthew Kottwitz, Joshua Vincent et al.",
+        "authors_list": [
+            "Yuanyuan Li",
+            "Matthew Kottwitz",
+            "Joshua Vincent",
+            "Michael J. Enright",
+            "Zongyuan Liu",
+            "Lihua Zhang",
+            "Jiahao Huang",
+            "Sanjaya D. Senanayake",
+            "Wei‐Chang Yang",
+            "Peter A. Crozier",
+            "Ralph G. Nuzzo",
+            "Anatoly I. Frenkel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 234,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/s41467-021-21132-4.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adfm.201001746",
+        "title": "3D Microperiodic Hydrogel Scaffolds for Robust Neuronal Cultures",
+        "journal": "Advanced Functional Materials",
+        "year": 2010,
+        "citations": 228,
+        "authors": "Jennifer N. Hanson Shepherd, Sara T. Parker, Robert F. Shepherd et al.",
+        "authors_list": [
+            "Jennifer N. Hanson Shepherd",
+            "Sara T. Parker",
+            "Robert F. Shepherd",
+            "Martha U. Gillette",
+            "Jennifer A. Lewis",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 228,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja980638z",
+        "title": "Core Shell Inversion during Nucleation and Growth of Bimetallic Pt/Ru Nanoparticles",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1998,
+        "citations": 220,
+        "authors": "Michael S. Nashner, Anatoly I. Frenkel, David M. Somerville et al.",
+        "authors_list": [
+            "Michael S. Nashner",
+            "Anatoly I. Frenkel",
+            "David M. Somerville",
+            "Charles W. Hills",
+            "John R. Shapley",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 220,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.0907390106",
+        "title": "Two- and three-dimensional folding of thin film single-crystalline silicon for photovoltaic power applications",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2009,
+        "citations": 219,
+        "authors": "Xiaoying Guo, Huan Li, Bok Yeop Ahn et al.",
+        "authors_list": [
+            "Xiaoying Guo",
+            "Huan Li",
+            "Bok Yeop Ahn",
+            "Eric B. Duoss",
+            "K. Jimmy Hsia",
+            "Jennifer A. Lewis",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 219,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1876588"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1866637",
+        "title": "Bendable single crystal silicon thin film transistors formed by printing on plastic substrates",
+        "journal": "Applied Physics Letters",
+        "year": 2005,
+        "citations": 217,
+        "authors": "Etienne Menard, Ralph G. Nuzzo, John A. Rogers",
+        "authors_list": [
+            "Etienne Menard",
+            "Ralph G. Nuzzo",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 217,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la970166m",
+        "title": "Structure and Stability of Patterned Self-Assembled Films of Octadecyltrichlorosilane Formed by Contact Printing",
+        "journal": "Langmuir",
+        "year": 1997,
+        "citations": 213,
+        "authors": "Noo Li Jeon, Krista R. Finnie, Kimberly Branshaw et al.",
+        "authors_list": [
+            "Noo Li Jeon",
+            "Krista R. Finnie",
+            "Kimberly Branshaw",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 213,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adfm.201002487",
+        "title": "Strain Anisotropies and Self‐Limiting Capacities in Single‐Crystalline 3D Silicon Microstructures: Models for High Energy Density Lithium‐Ion Battery Anodes",
+        "journal": "Advanced Functional Materials",
+        "year": 2011,
+        "citations": 206,
+        "authors": "Jason L. Goldman, Brandon R. Long, Andrew A. Gewirth et al.",
+        "authors_list": [
+            "Jason L. Goldman",
+            "Brandon R. Long",
+            "Andrew A. Gewirth",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 206,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp506951b",
+        "title": "Electrolytic Conditioning of a Magnesium Aluminum Chloride Complex for Reversible Magnesium Deposition",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": 2014,
+        "citations": 201,
+        "authors": "Christopher J. Barile, Elizabeth C. Barile, Kevin R. Zavadil et al.",
+        "authors_list": [
+            "Christopher J. Barile",
+            "Elizabeth C. Barile",
+            "Kevin R. Zavadil",
+            "Ralph G. Nuzzo",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 201,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1235247"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.201204180",
+        "title": "Electronically Programmable, Reversible Shape Change in Two‐ and Three‐Dimensional Hydrogel Structures",
+        "journal": "Advanced Materials",
+        "year": 2012,
+        "citations": 192,
+        "authors": "Cunjiang Yu, Zheng Duan, Peixi Yuan et al.",
+        "authors_list": [
+            "Cunjiang Yu",
+            "Zheng Duan",
+            "Peixi Yuan",
+            "Yuhang Li",
+            "Yewang Su",
+            "Xun Zhang",
+            "Yuping Pan",
+            "Lenore L. Dai",
+            "Ralph G. Nuzzo",
+            "Yonggang Huang",
+            "Hanqing Jiang",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 192,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/b705266a",
+        "title": "Microfluidic devices for culturing primary mammalian neurons at low densities",
+        "journal": "Lab on a Chip",
+        "year": 2007,
+        "citations": 188,
+        "authors": "Larry J. Millet, Matthew E. Stewart, Jonathan V. Sweedler et al.",
+        "authors_list": [
+            "Larry J. Millet",
+            "Matthew E. Stewart",
+            "Jonathan V. Sweedler",
+            "Ralph G. Nuzzo",
+            "Martha U. Gillette"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 188,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la00011a033",
+        "title": "Self-Assembled Monolayers on Gold Generated from Alkanethiols with the Structure RNHCOCH2SH",
+        "journal": "Langmuir",
+        "year": 1995,
+        "citations": 187,
+        "authors": "Suk‐Wah Tam‐Chang, Hans A. Biebuyck, George M. Whitesides et al.",
+        "authors_list": [
+            "Suk‐Wah Tam‐Chang",
+            "Hans A. Biebuyck",
+            "George M. Whitesides",
+            "Nooh Jeon",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 187,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/polb.10669",
+        "title": "Macromolecules at surfaces: Research challenges and opportunities from tribology to biology",
+        "journal": "Journal of Polymer Science Part B Polymer Physics",
+        "year": 2003,
+        "citations": 185,
+        "authors": "Steve Granick, Sanat K. Kumar, Eric J. Amis et al.",
+        "authors_list": [
+            "Steve Granick",
+            "Sanat K. Kumar",
+            "Eric J. Amis",
+            "Markus Antonietti",
+            "Anna C. Balazs",
+            "Arup K. Chakraborty",
+            "Gary S. Grest",
+            "Craig J. Hawker",
+            "Paul A. Janmey",
+            "Edward J. Krämer",
+            "Ralph G. Nuzzo",
+            "Thomas P. Russell",
+            "Cyrus R. Safinya"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 185,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00187a016",
+        "title": "Surface organometallic chemistry in the chemical vapor deposition of aluminum films using triisobutylaluminum: .beta.-hydride and .beta.-alkyl elimination reactions of surface alkyl intermediates",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1989,
+        "citations": 179,
+        "authors": "Brian E. Bent, Ralph G. Nuzzo, Lawrence H. Dubois",
+        "authors_list": [
+            "Brian E. Bent",
+            "Ralph G. Nuzzo",
+            "Lawrence H. Dubois"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 179,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/j100019a054",
+        "title": "Structure and Wetting Properties of .omega.-Alkoxy-n-alkanethiolate Monolayers on Gold and Silver",
+        "journal": "The Journal of Physical Chemistry",
+        "year": 1995,
+        "citations": 174,
+        "authors": "Paul E. Laibinis, Colin D. Bain, Ralph G. Nuzzo et al.",
+        "authors_list": [
+            "Paul E. Laibinis",
+            "Colin D. Bain",
+            "Ralph G. Nuzzo",
+            "George M. Whitesides"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 174,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la980921b",
+        "title": "Carbon Support Effects on Bimetallic Pt−Ru Nanoparticles Formed from Molecular Precursors",
+        "journal": "Langmuir",
+        "year": 1999,
+        "citations": 174,
+        "authors": "Charles W. Hills, Michael S. Nashner, Anatoly I. Frenkel et al.",
+        "authors_list": [
+            "Charles W. Hills",
+            "Michael S. Nashner",
+            "Anatoly I. Frenkel",
+            "John R. Shapley",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 174,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/led.2006.874764",
+        "title": "High-speed mechanically flexible single-crystal silicon thin-film transistors on plastic substrates",
+        "journal": "IEEE Electron Device Letters",
+        "year": 2006,
+        "citations": 167,
+        "authors": "Jong‐Hyun Ahn, Hoon‐Sik Kim, Keon Jae Lee et al.",
+        "authors_list": [
+            "Jong‐Hyun Ahn",
+            "Hoon‐Sik Kim",
+            "Keon Jae Lee",
+            "Zhengtao Zhu",
+            "Etienne Menard",
+            "Ralph G. Nuzzo",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 167,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/nn404418h",
+        "title": "Luminescent Solar Concentration with Semiconductor Nanorods and Transfer-Printed Micro-Silicon Solar Cells",
+        "journal": "ACS Nano",
+        "year": 2013,
+        "citations": 166,
+        "authors": "Noah D. Bronstein, Lanfang Li, Lu Xu et al.",
+        "authors_list": [
+            "Noah D. Bronstein",
+            "Lanfang Li",
+            "Lu Xu",
+            "Yuan Yao",
+            "Vivian E. Ferry",
+            "A. Paul Alivisatos",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 166,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://escholarship.org/content/qt5vh0n2w8/qt5vh0n2w8.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja809182v",
+        "title": "The Emergence of Nonbulk Properties in Supported Metal Clusters: Negative Thermal Expansion and Atomic Disorder in Pt Nanoclusters Supported on γ-Al<sub>2</sub>O<sub>3</sub>",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2009,
+        "citations": 158,
+        "authors": "Sergio Sánchez, Laurent Ménard, Ariella Bram et al.",
+        "authors_list": [
+            "Sergio Sánchez",
+            "Laurent Ménard",
+            "Ariella Bram",
+            "Joo Kang",
+            "Matthew W. Small",
+            "Ralph G. Nuzzo",
+            "Anatoly I. Frenkel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 158,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1876427"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.chemmater.7b00034",
+        "title": "Evolution at the Solid Electrolyte/Gold Electrode Interface during Lithium Deposition and Stripping",
+        "journal": "Chemistry of Materials",
+        "year": 2017,
+        "citations": 158,
+        "authors": "Lingzi Sang, Richard T. Haasch, Andrew A. Gewirth et al.",
+        "authors_list": [
+            "Lingzi Sang",
+            "Richard T. Haasch",
+            "Andrew A. Gewirth",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 158,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1388302"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms1318",
+        "title": "Flexible concentrator photovoltaics based on microscale silicon solar cells embedded in luminescent waveguides",
+        "journal": "Nature Communications",
+        "year": 2011,
+        "citations": 156,
+        "authors": "Jongseung Yoon, Lanfang Li, Andrey Semichaevsky et al.",
+        "authors_list": [
+            "Jongseung Yoon",
+            "Lanfang Li",
+            "Andrey Semichaevsky",
+            "Jae Ha Ryu",
+            "Harley T. Johnson",
+            "Ralph G. Nuzzo",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 156,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms1318.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.1713805114",
+        "title": "Three-dimensional mesostructures as high-temperature growth templates, electronic cellular scaffolds, and self-propelled microrobots",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "year": 2017,
+        "citations": 155,
+        "authors": "Zheng Yan, Mengdi Han, Yan Shi et al.",
+        "authors_list": [
+            "Zheng Yan",
+            "Mengdi Han",
+            "Yan Shi",
+            "Adina Badea",
+            "Yiyuan Yang",
+            "Ashish A. Kulkarni",
+            "Erik Hanson",
+            "Mikhail E. Kandel",
+            "Xiewen Wen",
+            "Fan Zhang",
+            "Yiyue Luo",
+            "Qing Lin",
+            "Hang Zhang",
+            "Xiaogang Guo",
+            "Yuming Huang",
+            "Kewang Nan",
+            "Shuai Jia",
+            "Aaron W. Oraham",
+            "Molly B. Mevis",
+            "Jaeman Lim",
+            "Xuelin Guo",
+            "Mingye Gao",
+            "Woomi Ryu",
+            "Ki Jun Yu",
+            "Bruno G. Nicolau",
+            "Aaron Petronico",
+            "Stanislav S. Rubakhin",
+            "Jun Lou",
+            "Pulickel M. Ajayan",
+            "Katsuyo Thornton",
+            "Gabriel Popescu",
+            "Daining Fang",
+            "Jonathan V. Sweedler",
+            "Paul V. Braun",
+            "Haixia Zhang",
+            "Ralph G. Nuzzo",
+            "Yonggang Huang",
+            "Yihui Zhang",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 155,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.pnas.org/content/pnas/114/45/E9455.full.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja020942z",
+        "title": "Decal Transfer Microlithography:  A New Soft-Lithographic Patterning Method",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2002,
+        "citations": 154,
+        "authors": "William R. Childs, Ralph G. Nuzzo",
+        "authors_list": [
+            "William R. Childs",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 154,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/nmat3946",
+        "title": "Printing-based assembly of quadruple-junction four-terminal microscale solar cells and their use in high-efficiency modules",
+        "journal": "Nature Materials",
+        "year": 2014,
+        "citations": 149,
+        "authors": "Xing Sheng, Christopher A. Bower, Salvatore Bonafede et al.",
+        "authors_list": [
+            "Xing Sheng",
+            "Christopher A. Bower",
+            "Salvatore Bonafede",
+            "John Wilson",
+            "Brent Fisher",
+            "Matthew Meitl",
+            "H. B. Yuen",
+            "Shuodao Wang",
+            "Ling Shen",
+            "Anthony Banks",
+            "Christopher J. Corcoran",
+            "Ralph G. Nuzzo",
+            "Scott Burroughs",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 149,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c001552k",
+        "title": "Guiding neuron development with planar surface gradients of substrate cues deposited using microfluidic devices",
+        "journal": "Lab on a Chip",
+        "year": 2010,
+        "citations": 145,
+        "authors": "Larry J. Millet, Matthew E. Stewart, Ralph G. Nuzzo et al.",
+        "authors_list": [
+            "Larry J. Millet",
+            "Matthew E. Stewart",
+            "Ralph G. Nuzzo",
+            "Martha U. Gillette"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 145,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.rsc.org/suppdata/lc/c0/c001552k/c001552k.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/cmtd.202100020",
+        "title": "Single Atom Catalysts: A Review of Characterization Methods",
+        "journal": "Chemistry - Methods",
+        "year": 2021,
+        "citations": 145,
+        "authors": "Matthew Kottwitz, Yuanyuan Li, Haodong Wang et al.",
+        "authors_list": [
+            "Matthew Kottwitz",
+            "Yuanyuan Li",
+            "Haodong Wang",
+            "Anatoly I. Frenkel",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 145,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1002/cmtd.202100020"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ma000046c",
+        "title": "Surface-Initiated Ring-Opening Metathesis Polymerization on Si/SiO<sub>2</sub>",
+        "journal": "Macromolecules",
+        "year": 2000,
+        "citations": 142,
+        "authors": "Namyong Y. Kim, Noo Li Jeon, Insung S. Choi et al.",
+        "authors_list": [
+            "Namyong Y. Kim",
+            "Noo Li Jeon",
+            "Insung S. Choi",
+            "Seiichi Takami",
+            "Yoshiko Harada",
+            "Krista R. Finnie",
+            "Gregory S. Girolami",
+            "Ralph G. Nuzzo",
+            "George M. Whitesides",
+            "Paul E. Laibinis"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 142,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1038/ncomms8583",
+        "title": "Complex structural dynamics of nanocatalysts revealed in Operando conditions by correlated imaging and spectroscopy probes",
+        "journal": "Nature Communications",
+        "year": 2015,
+        "citations": 141,
+        "authors": "Y. Li, Dmitri N. Zakharov, Shen Zhao et al.",
+        "authors_list": [
+            "Y. Li",
+            "Dmitri N. Zakharov",
+            "Shen Zhao",
+            "Ryan Tappero",
+            "Ulrich Jung",
+            "Annika Elsen",
+            "Ph. Baumann",
+            "Ralph G. Nuzzo",
+            "Eric A. Stach",
+            "Anatoly I. Frenkel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 141,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.nature.com/articles/ncomms8583.pdf"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jcat.2006.07.006",
+        "title": "Preparation of TiO2-supported Au nanoparticle catalysts from a Au13 cluster precursor: Ligand removal using ozone exposure versus a rapid thermal treatment",
+        "journal": "Journal of Catalysis",
+        "year": 2006,
+        "citations": 141,
+        "authors": "L Menard, F XU, Ralph G. Nuzzo et al.",
+        "authors_list": [
+            "L Menard",
+            "F XU",
+            "Ralph G. Nuzzo",
+            "Jing Yang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 141,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.125582",
+        "title": "Patterned polymer growth on silicon surfaces using microcontact printing and surface-initiated polymerization",
+        "journal": "Applied Physics Letters",
+        "year": 1999,
+        "citations": 140,
+        "authors": "Noo Li Jeon, Insung S. Choi, George M. Whitesides et al.",
+        "authors_list": [
+            "Noo Li Jeon",
+            "Insung S. Choi",
+            "George M. Whitesides",
+            "Namyong Y. Kim",
+            "Paul E. Laibinis",
+            "Yoshiko Harada",
+            "Krista R. Finnie",
+            "Gregory S. Girolami",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 140,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ma00008a041",
+        "title": "Adsorption of poly(2-vinylpyridine)-poly (styrene) block copolymers from toluene solutions",
+        "journal": "Macromolecules",
+        "year": 1991,
+        "citations": 138,
+        "authors": "Edward E. Parsonage, Matthew Tirrell, Hiroshi Watanabe et al.",
+        "authors_list": [
+            "Edward E. Parsonage",
+            "Matthew Tirrell",
+            "Hiroshi Watanabe",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 138,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ac001426z",
+        "title": "A Method for Filling Complex Polymeric Microfluidic Devices and Arrays",
+        "journal": "Analytical Chemistry",
+        "year": 2001,
+        "citations": 138,
+        "authors": "Jennifer L. Monahan, Andrew A. Gewirth, Ralph G. Nuzzo",
+        "authors_list": [
+            "Jennifer L. Monahan",
+            "Andrew A. Gewirth",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 138,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acsphotonics.5b00334",
+        "title": "Quantum Dot Luminescent Concentrator Cavity Exhibiting 30-fold Concentration",
+        "journal": "ACS Photonics",
+        "year": 2015,
+        "citations": 137,
+        "authors": "Noah D. Bronstein, Yuan Yao, Lu Xu et al.",
+        "authors_list": [
+            "Noah D. Bronstein",
+            "Yuan Yao",
+            "Lu Xu",
+            "Erin O’Brien",
+            "Alexander S. Powers",
+            "Vivian E. Ferry",
+            "A. Paul Alivisatos",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 137,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1021/acsphotonics.5b00334"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la00008a029",
+        "title": "Patterned self-assembled monolayers formed by microcontact printing direct selective metalization by chemical vapor deposition on planar and nonplanar substrates",
+        "journal": "Langmuir",
+        "year": 1995,
+        "citations": 137,
+        "authors": "Noo Li Jeon, Ralph G. Nuzzo, Younan Xia et al.",
+        "authors_list": [
+            "Noo Li Jeon",
+            "Ralph G. Nuzzo",
+            "Younan Xia",
+            "Milan Mrksich",
+            "George M. Whitesides"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 137,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja064207p",
+        "title": "Unusual Non-Bulk Properties in Nanoscale Materials:  Thermal Metal−Metal Bond Contraction of γ-Alumina-Supported Pt Catalysts",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2006,
+        "citations": 135,
+        "authors": "Joo Kang, Laurent Ménard, Ralph G. Nuzzo et al.",
+        "authors_list": [
+            "Joo Kang",
+            "Laurent Ménard",
+            "Ralph G. Nuzzo",
+            "Anatoly I. Frenkel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 135,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.200500578",
+        "title": "Large‐Area, Selective Transfer of Microstructured Silicon: A Printing‐ Based Approach to High‐Performance Thin‐Film Transistors Supported on Flexible Substrates",
+        "journal": "Advanced Materials",
+        "year": 2005,
+        "citations": 133,
+        "authors": "Keon Jae Lee, Michael J. Motala, Matthew Meitl et al.",
+        "authors_list": [
+            "Keon Jae Lee",
+            "Michael J. Motala",
+            "Matthew Meitl",
+            "William R. Childs",
+            "Etienne Menard",
+            "Anne Shim",
+            "John A. Rogers",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 133,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/aenm.201800589",
+        "title": "ZnNi<i><sub><b>x</b></sub></i>Mn<i><sub><b>x</b></sub></i>Co<sub>2–2</sub><i><sub><b>x</b></sub></i>O<sub>4</sub> Spinel as a High‐Voltage and High‐Capacity Cathode Material for Nonaqueous Zn‐Ion Batteries",
+        "journal": "Advanced Energy Materials",
+        "year": 2018,
+        "citations": 130,
+        "authors": "Chengsi Pan, Ruixian Zhang, Ralph G. Nuzzo et al.",
+        "authors_list": [
+            "Chengsi Pan",
+            "Ruixian Zhang",
+            "Ralph G. Nuzzo",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 130,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1437317"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/s1359-0294(96)80053-7",
+        "title": "Self-assembled monolayers: Recent developments and applications",
+        "journal": "Current Opinion in Colloid & Interface Science",
+        "year": 1996,
+        "citations": 125,
+        "authors": "Adeana R. Bishop, Ralph G. Nuzzo",
+        "authors_list": [
+            "Adeana R. Bishop",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 125,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.cossms.2019.06.002",
+        "title": "Designing and transforming yield-stress fluids",
+        "journal": "Current Opinion in Solid State and Materials Science",
+        "year": 2019,
+        "citations": 124,
+        "authors": "Arif Z. Nelson, Kenneth S. Schweizer, Brittany M. Rauzan et al.",
+        "authors_list": [
+            "Arif Z. Nelson",
+            "Kenneth S. Schweizer",
+            "Brittany M. Rauzan",
+            "Ralph G. Nuzzo",
+            "Jan Vermant",
+            "Randy H. Ewoldt"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 124,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1607400"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acscatal.9b02083",
+        "title": "Local Structure and Electronic State of Atomically Dispersed Pt Supported on Nanosized CeO<sub>2</sub>",
+        "journal": "ACS Catalysis",
+        "year": 2019,
+        "citations": 123,
+        "authors": "Matthew Kottwitz, Yuanyuan Li, Robert M. Palomino et al.",
+        "authors_list": [
+            "Matthew Kottwitz",
+            "Yuanyuan Li",
+            "Robert M. Palomino",
+            "Zongyuan Liu",
+            "Guangjin Wang",
+            "Qin Wu",
+            "Jiahao Huang",
+            "Janis Timoshenko",
+            "Sanjaya D. Senanayake",
+            "Mahalingam Balasubramanian",
+            "Deyu Lu",
+            "Ralph G. Nuzzo",
+            "Anatoly I. Frenkel"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 123,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1569544"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.200904097",
+        "title": "Functional Nanostructured Plasmonic Materials",
+        "journal": "Advanced Materials",
+        "year": 2010,
+        "citations": 122,
+        "authors": "Jimin Yao, An‐Phong Le, Stephen K. Gray et al.",
+        "authors_list": [
+            "Jimin Yao",
+            "An‐Phong Le",
+            "Stephen K. Gray",
+            "Jeffrey S. Moore",
+            "John A. Rogers",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 122,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1875440"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1039/c2cs35371g",
+        "title": "Recent developments and applications of electron microscopy to heterogeneous catalysis",
+        "journal": "Chemical Society Reviews",
+        "year": 2012,
+        "citations": 120,
+        "authors": "Judith C. Yang, Matthew W. Small, Ross V. Grieshaber et al.",
+        "authors_list": [
+            "Judith C. Yang",
+            "Matthew W. Small",
+            "Ross V. Grieshaber",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1364/opex.13.005669",
+        "title": "High performance plasmonic crystal sensor formed by soft nanoimprint lithography",
+        "journal": "Optics Express",
+        "year": 2005,
+        "citations": 120,
+        "authors": "Viktor Malyarchuk, Hua Feng, Nathan H. Mack et al.",
+        "authors_list": [
+            "Viktor Malyarchuk",
+            "Hua Feng",
+            "Nathan H. Mack",
+            "Vanessa T. Velasquez",
+            "Jeffrey O. White",
+            "Ralph G. Nuzzo",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 120,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://doi.org/10.1364/opex.13.005669"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp060739g",
+        "title": "Sub-Nanometer Au Monolayer-Protected Clusters Exhibiting Molecule-like Electronic Behavior:  Quantitative High-Angle Annular Dark-Field Scanning Transmission Electron Microscopy and Electrochemical Characterization of Clusters with Precise Atomic Stoichiometry",
+        "journal": "The Journal of Physical Chemistry B",
+        "year": 2006,
+        "citations": 114,
+        "authors": "Laurent Ménard, Shang‐Peng Gao, Huiping Xu et al.",
+        "authors_list": [
+            "Laurent Ménard",
+            "Shang‐Peng Gao",
+            "Huiping Xu",
+            "Ray D. Twesten",
+            "Amanda S. Harper",
+            "Yang Song",
+            "Gangli Wang",
+            "Alicia D. Douglas",
+            "Judith C. Yang",
+            "Anatoly I. Frenkel",
+            "Ralph G. Nuzzo",
+            "Royce W. Murray"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 114,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jo00327a005",
+        "title": "Synthesis of functional chelating diphosphines containing the bis[2-(diphenylphosphino)ethyl]amino moiety and the use of these materials in the preparation of water-soluble diphosphine complexes of transition metals",
+        "journal": "The Journal of Organic Chemistry",
+        "year": 1981,
+        "citations": 110,
+        "authors": "Ralph G. Nuzzo, Sharon L. Haynie, Michael E. Wilson et al.",
+        "authors_list": [
+            "Ralph G. Nuzzo",
+            "Sharon L. Haynie",
+            "Michael E. Wilson",
+            "George M. Whitesides"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 110,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja9020952",
+        "title": "Structural Characterization of Pt−Pd and Pd−Pt Core−Shell Nanoclusters at Atomic Resolution",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2009,
+        "citations": 109,
+        "authors": "Sergio Sánchez, Matthew W. Small, Jian‐Min Zuo et al.",
+        "authors_list": [
+            "Sergio Sánchez",
+            "Matthew W. Small",
+            "Jian‐Min Zuo",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1876401"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/smll.200500166",
+        "title": "A Printable Form of Single‐Crystalline Gallium Nitride for Flexible Optoelectronic Systems",
+        "journal": "Small",
+        "year": 2005,
+        "citations": 109,
+        "authors": "Keon Jae Lee, Jaeseob Lee, Heedon Hwang et al.",
+        "authors_list": [
+            "Keon Jae Lee",
+            "Jaeseob Lee",
+            "Heedon Hwang",
+            "Zachary J. Reitmeier",
+            "R. F. Davis",
+            "John A. Rogers",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/jp022182k",
+        "title": "The Size-Dependent Structural Phase Behaviors of Supported Bimetallic (Pt−Ru) Nanoparticles",
+        "journal": "The Journal of Physical Chemistry B",
+        "year": 2003,
+        "citations": 109,
+        "authors": "Charles W. Hills, Nathan H. Mack, Ralph G. Nuzzo",
+        "authors_list": [
+            "Charles W. Hills",
+            "Nathan H. Mack",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1088/2040-8978/18/7/073004",
+        "title": "Roadmap on optical energy conversion",
+        "journal": "Journal of Optics",
+        "year": 2016,
+        "citations": 109,
+        "authors": "Svetlana V. Boriskina, Martin A. Green, Kylie Catchpole et al.",
+        "authors_list": [
+            "Svetlana V. Boriskina",
+            "Martin A. Green",
+            "Kylie Catchpole",
+            "Eli Yablonovitch",
+            "Matthew C. Beard",
+            "Yoshitaka Okada",
+            "Stephan Lany",
+            "Talia Gershon",
+            "Andriy Zakutayev",
+            "Mohammad H. Tahersima",
+            "Volker J. Sorger",
+            "Michael Naughton",
+            "Krzysztof Kempa",
+            "M. Dagenais",
+            "Yuan Yao",
+            "Lu Xu",
+            "Xing Sheng",
+            "Noah D. Bronstein",
+            "John A. Rogers",
+            "A. Paul Alivisatos",
+            "Ralph G. Nuzzo",
+            "Jeffrey M. Gordon",
+            "Di Wu",
+            "Michael D. Wisser",
+            "Alberto Salleo",
+            "Jennifer A. Dionne",
+            "Peter Bermel",
+            "Jean‐Jacques Greffet",
+            "Ivan Čelanović",
+            "Marin Soljačić",
+            "Assaf Manor",
+            "Carmel Rotschild",
+            "Aaswath P. Raman",
+            "Linxiao Zhu",
+            "Shanhui Fan",
+            "Gang Chen"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 109,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "http://hdl.handle.net/1721.1/110368"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adfm.200400411",
+        "title": "Photolithographic Route to the Fabrication of Micro/Nanowires of III–V Semiconductors",
+        "journal": "Advanced Functional Materials",
+        "year": 2004,
+        "citations": 108,
+        "authors": "Yugang Sun, D.‐Y. Khang, F. Hua et al.",
+        "authors_list": [
+            "Yugang Sun",
+            "D.‐Y. Khang",
+            "F. Hua",
+            "Keith D. Hurley",
+            "Ralph G. Nuzzo",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 108,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.2349837",
+        "title": "Bendable GaN high electron mobility transistors on plastic substrates",
+        "journal": "Journal of Applied Physics",
+        "year": 2006,
+        "citations": 107,
+        "authors": "Keon Jae Lee, Matthew Meitl, Jong‐Hyun Ahn et al.",
+        "authors_list": [
+            "Keon Jae Lee",
+            "Matthew Meitl",
+            "Jong‐Hyun Ahn",
+            "John A. Rogers",
+            "Ralph G. Nuzzo",
+            "V. Kumar",
+            "I. Adesida"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 107,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la00077a040",
+        "title": "Reconstruction of the interface of oxidatively functionalized polyethylene and derivatives on heating",
+        "journal": "Langmuir",
+        "year": 1987,
+        "citations": 106,
+        "authors": "S. Randall Holmes‐Farley, Robert H. Reamey, Ralph G. Nuzzo et al.",
+        "authors_list": [
+            "S. Randall Holmes‐Farley",
+            "Robert H. Reamey",
+            "Ralph G. Nuzzo",
+            "Thomas J. McCarthy",
+            "George M. Whitesides"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 106,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.chemmater.7b03340",
+        "title": "ZnAl<sub><i>x</i></sub>Co<sub>2–<i>x</i></sub>O<sub>4</sub> Spinels as Cathode Materials for Non-Aqueous Zn Batteries with an Open Circuit Voltage of ≤2 V",
+        "journal": "Chemistry of Materials",
+        "year": 2017,
+        "citations": 102,
+        "authors": "Chengsi Pan, Ralph G. Nuzzo, Andrew A. Gewirth",
+        "authors_list": [
+            "Chengsi Pan",
+            "Ralph G. Nuzzo",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 102,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1063/1.1894611",
+        "title": "Spin on dopants for high-performance single-crystal silicon transistors on flexible plastic substrates",
+        "journal": "Applied Physics Letters",
+        "year": 2005,
+        "citations": 99,
+        "authors": "Zhengtao Zhu, Etienne Menard, Keith D. Hurley et al.",
+        "authors_list": [
+            "Zhengtao Zhu",
+            "Etienne Menard",
+            "Keith D. Hurley",
+            "Ralph G. Nuzzo",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adma.201504780",
+        "title": "3D Scaffolded Nickel–Tin Li‐Ion Anodes with Enhanced Cyclability",
+        "journal": "Advanced Materials",
+        "year": 2015,
+        "citations": 99,
+        "authors": "Huigang Zhang, Tan Shi, David J. Wetzel et al.",
+        "authors_list": [
+            "Huigang Zhang",
+            "Tan Shi",
+            "David J. Wetzel",
+            "Ralph G. Nuzzo",
+            "Paul V. Braun"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/servlets/purl/1874983"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja00077a092",
+        "title": "Surface-selective deposition of palladium and silver films from metal-organic precursors: a novel metal-organic chemical vapor deposition redox transmetalation process",
+        "journal": "Journal of the American Chemical Society",
+        "year": 1993,
+        "citations": 99,
+        "authors": "Wenbin Lin, Timothy H. Warren, Ralph G. Nuzzo et al.",
+        "authors_list": [
+            "Wenbin Lin",
+            "Timothy H. Warren",
+            "Ralph G. Nuzzo",
+            "Gregory S. Girolami"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 99,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/acs.chemmater.8b02368",
+        "title": "Understanding the Effect of Interlayers at the Thiophosphate Solid Electrolyte/Lithium Interface for All-Solid-State Li Batteries",
+        "journal": "Chemistry of Materials",
+        "year": 2018,
+        "citations": 97,
+        "authors": "Lingzi Sang, Kimberly L. Bassett, Fernando C. Castro et al.",
+        "authors_list": [
+            "Lingzi Sang",
+            "Kimberly L. Bassett",
+            "Fernando C. Castro",
+            "Matthias J. Young",
+            "Lin Chen",
+            "Richard T. Haasch",
+            "Jeffrey W. Elam",
+            "Vinayak P. Dravid",
+            "Ralph G. Nuzzo",
+            "Andrew A. Gewirth"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex",
+            "semantic_scholar"
+        ],
+        "citations_all": {
+            "openalex": 97,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": true,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": "https://www.osti.gov/biblio/1500114"
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1109/led.2007.910770",
+        "title": "Complementary Logic Gates and Ring Oscillators on Plastic Substrates by Use of Printed Ribbons of Single-Crystalline Silicon",
+        "journal": "IEEE Electron Device Letters",
+        "year": 2008,
+        "citations": 96,
+        "authors": "Dae‐Hyeong Kim, Jong‐Hyun Ahn, Hoon‐Sik Kim et al.",
+        "authors_list": [
+            "Dae‐Hyeong Kim",
+            "Jong‐Hyun Ahn",
+            "Hoon‐Sik Kim",
+            "Keon Jae Lee",
+            "Tae‐Ho Kim",
+            "Chang‐Jae Yu",
+            "Ralph G. Nuzzo",
+            "John A. Rogers"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 96,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1557/jmr.1995.2996",
+        "title": "Patterning of dielectric oxide thin layers by microcontact printing of self-assembled monolayers",
+        "journal": "Journal of materials research/Pratt's guide to venture capital sources",
+        "year": 1995,
+        "citations": 95,
+        "authors": "Noo Li Jeon, Paul G. Clem, Ralph G. Nuzzo et al.",
+        "authors_list": [
+            "Noo Li Jeon",
+            "Paul G. Clem",
+            "Ralph G. Nuzzo",
+            "David A. Payne"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ma00135a007",
+        "title": "Preparation and characterization of functionalized polyethylene surfaces",
+        "journal": "Macromolecules",
+        "year": 1984,
+        "citations": 95,
+        "authors": "Ralph G. Nuzzo, G. Smolinsky",
+        "authors_list": [
+            "Ralph G. Nuzzo",
+            "G. Smolinsky"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 95,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1002/adfm.200400189",
+        "title": "Fabrication of Stable Metallic Patterns Embedded in Poly(dimethylsiloxane) and Model Applications in Non‐Planar Electronic and Lab‐on‐a‐Chip Device Patterning",
+        "journal": "Advanced Functional Materials",
+        "year": 2005,
+        "citations": 93,
+        "authors": "Keon Jae Lee, Kari A. Fosser, Ralph G. Nuzzo",
+        "authors_list": [
+            "Keon Jae Lee",
+            "Kari A. Fosser",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 93,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/la048417w",
+        "title": "Microfluidic Devices for Energy Conversion:  Planar Integration and Performance of a Passive, Fully Immersed H<sub>2</sub>−O<sub>2</sub> Fuel Cell",
+        "journal": "Langmuir",
+        "year": 2004,
+        "citations": 93,
+        "authors": "Svetlana M. Mitrovski, Lindsay C. C. Elliott, Ralph G. Nuzzo",
+        "authors_list": [
+            "Svetlana M. Mitrovski",
+            "Lindsay C. C. Elliott",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 93,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja405497p",
+        "title": "Noncrystalline-to-Crystalline Transformations in Pt Nanoparticles",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2013,
+        "citations": 92,
+        "authors": "Long Li, Linlin Wang, D. D. Johnson et al.",
+        "authors_list": [
+            "Long Li",
+            "Linlin Wang",
+            "D. D. Johnson",
+            "Zhongfan Zhang",
+            "Sergio Sánchez",
+            "Joo Kang",
+            "Ralph G. Nuzzo",
+            "Qi Wang",
+            "Anatoly I. Frenkel",
+            "Jie Li",
+            "J. Ciston",
+            "Eric A. Stach",
+            "Judith C. Yang"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 92,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/10.1021/ja210465x",
+        "title": "In Situ Electrochemical X-ray Absorption Spectroscopy of Oxygen Reduction Electrocatalysis with High Oxygen Flux",
+        "journal": "Journal of the American Chemical Society",
+        "year": 2011,
+        "citations": 90,
+        "authors": "Evan M. Erickson, Matthew S. Thorum, Relja Vasić et al.",
+        "authors_list": [
+            "Evan M. Erickson",
+            "Matthew S. Thorum",
+            "Relja Vasić",
+            "Nebojša Marinković",
+            "Anatoly I. Frenkel",
+            "Andrew A. Gewirth",
+            "Ralph G. Nuzzo"
+        ],
+        "type": "article",
+        "source": "openalex",
+        "sources": [
+            "openalex"
+        ],
+        "citations_all": {
+            "openalex": 90,
+            "crossref": 0
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/nmat1532",
+        "title": "Transfer printing by kinetic control of adhesion to an elastomeric stamp",
+        "journal": "Nature Materials",
+        "year": 2006,
+        "citations": 1491,
+        "authors": "Matthew A. Meitl, Zheng-Tao Zhu, Vipan Kumar et al.",
+        "authors_list": [
+            "Matthew A. Meitl",
+            "Zheng-Tao Zhu",
+            "Vipan Kumar",
+            "Keon Jae Lee",
+            "Xue Feng",
+            "Yonggang Y. Huang",
+            "Ilesanmi Adesida",
+            "Ralph G. Nuzzo",
+            "John A. Rogers"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 1491
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1038/nmat2132",
+        "title": "Coordination-dependent surface atomic contraction in nanocrystals revealed by coherent diffraction",
+        "journal": "Nature Materials",
+        "year": 2008,
+        "citations": 343,
+        "authors": "W. J. Huang, R. Sun, J. Tao et al.",
+        "authors_list": [
+            "W. J. Huang",
+            "R. Sun",
+            "J. Tao",
+            "L. D. Menard",
+            "R. G. Nuzzo",
+            "J. M. Zuo"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 343
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    },
+    {
+        "doi": "https://doi.org/https://doi.org/10.1063/1.1767591",
+        "title": "A printable form of silicon for high performance thin film transistors on plastic substrates",
+        "journal": "Applied Physics Letters",
+        "year": 2004,
+        "citations": 345,
+        "authors": "E. Menard, K. J. Lee, D.-Y. Khang et al.",
+        "authors_list": [
+            "E. Menard",
+            "K. J. Lee",
+            "D.-Y. Khang",
+            "R. G. Nuzzo",
+            "J. A. Rogers"
+        ],
+        "type": "journal-article",
+        "source": "crossref",
+        "sources": [
+            "crossref"
+        ],
+        "citations_all": {
+            "openalex": 0,
+            "crossref": 345
+        },
+        "deep_verification": {
+            "verified": false,
+            "s2_citations": 0,
+            "s2_url": null,
+            "openAccessPdf": null
+        }
+    }
+]

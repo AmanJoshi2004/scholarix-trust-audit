@@ -1,0 +1,160 @@
+{
+    "id": "A5072717764",
+    "name": "Pinshane Y. Huang",
+    "affiliation": "University of Illinois Urbana-Champaign",
+    "topics": [
+        "Graphene research and applications",
+        "2D Materials and Applications",
+        "Advanced Electron Microscopy Techniques and Applications",
+        "Electron and X-Ray Spectroscopy Techniques",
+        "Magnetic properties of thin films"
+    ],
+    "keywords": [
+        "graphene",
+        "imaging",
+        "electron",
+        "twodimensional",
+        "metal"
+    ],
+    "metrics": {
+        "citations": 19365,
+        "h_index": 36,
+        "publications": 188
+    },
+    "counts_by_year": [
+        {
+            "year": 2026,
+            "works_count": 23,
+            "oa_works_count": 18,
+            "cited_by_count": 4
+        },
+        {
+            "year": 2025,
+            "works_count": 15,
+            "oa_works_count": 10,
+            "cited_by_count": 55
+        },
+        {
+            "year": 2024,
+            "works_count": 18,
+            "oa_works_count": 14,
+            "cited_by_count": 126
+        },
+        {
+            "year": 2023,
+            "works_count": 16,
+            "oa_works_count": 12,
+            "cited_by_count": 192
+        },
+        {
+            "year": 2022,
+            "works_count": 14,
+            "oa_works_count": 7,
+            "cited_by_count": 40
+        },
+        {
+            "year": 2021,
+            "works_count": 13,
+            "oa_works_count": 10,
+            "cited_by_count": 144
+        },
+        {
+            "year": 2020,
+            "works_count": 12,
+            "oa_works_count": 8,
+            "cited_by_count": 373
+        },
+        {
+            "year": 2019,
+            "works_count": 10,
+            "oa_works_count": 6,
+            "cited_by_count": 377
+        },
+        {
+            "year": 2018,
+            "works_count": 10,
+            "oa_works_count": 7,
+            "cited_by_count": 1456
+        },
+        {
+            "year": 2017,
+            "works_count": 4,
+            "oa_works_count": 1,
+            "cited_by_count": 166
+        },
+        {
+            "year": 2016,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 296
+        },
+        {
+            "year": 2015,
+            "works_count": 8,
+            "oa_works_count": 3,
+            "cited_by_count": 4721
+        },
+        {
+            "year": 2014,
+            "works_count": 5,
+            "oa_works_count": 1,
+            "cited_by_count": 339
+        },
+        {
+            "year": 2013,
+            "works_count": 8,
+            "oa_works_count": 2,
+            "cited_by_count": 6101
+        },
+        {
+            "year": 2012,
+            "works_count": 13,
+            "oa_works_count": 0,
+            "cited_by_count": 2430
+        },
+        {
+            "year": 2011,
+            "works_count": 7,
+            "oa_works_count": 2,
+            "cited_by_count": 2399
+        },
+        {
+            "year": 2010,
+            "works_count": 3,
+            "oa_works_count": 1,
+            "cited_by_count": 40
+        },
+        {
+            "year": 2009,
+            "works_count": 3,
+            "oa_works_count": 0,
+            "cited_by_count": 71
+        },
+        {
+            "year": 2008,
+            "works_count": 3,
+            "oa_works_count": 0,
+            "cited_by_count": 2
+        },
+        {
+            "year": 1996,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 33
+        }
+    ],
+    "verification": {
+        "personal_website": null,
+        "linkedin": null,
+        "researchgate": null,
+        "google_scholar": {
+            "verified": false,
+            "reason": "HTTP 429"
+        }
+    },
+    "orcid": {
+        "verified": false,
+        "orcid_id": null,
+        "current_institution": null
+    }
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "url": "https://asset.library.wisc.edu/1711.dl/QDNPJSX6K5QZS82/R/file-62014.pdf",
+        "snippet": "Townsend,2 Eric R. Larson,1 Ittai Herrmann,3 and Amanda J. Gevens1. 1 Department of Plant Pathology, University of Wisconsin-Madison, 1630 Linden Drive ...",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL links to a PDF file hosted by the University of Wisconsin-Madison library, indicating an academic publication."
+    },
+    {
+        "url": "https://bsky.app/profile/ericrlarson.bsky.social",
+        "snippet": "‪Eric R. Larson‬ ‪@ericrlarson.bsky.social‬ · · 10mo. More hints that one of ... Not a bad conference location when you can encounter a manatee just down ...",
+        "category": "News",
+        "relevance_score": 90,
+        "reasoning": "Personal social media profile mentions a recent conference location and encounter, indicating news-like content"
+    },
+    {
+        "url": "https://www.centreforevidence.org/tag/author/Eric%20R.%20Larson",
+        "snippet": "... Conference · About · team@centreforevidence.org ... Eric R. Larson Filter articles. Refine results ... Conference Papers, posters, workshops. Data Set. Data ...",
+        "category": "Website",
+        "relevance_score": 90,
+        "reasoning": "The URL appears to be a webpage for the Centre for Evidence, likely an organization's website."
+    },
+    {
+        "url": "https://www.researchgate.net/scientific-contributions/Eric-R-Larson-2163504793",
+        "snippet": "Eric R. Larson's 11 research items with 196 reads, including: Supplementary ... Conference Paper. August 2012. ·. 7 Reads. Eric R. Larson. ·. Julian D. Olden.",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The URL is on ResearchGate, a platform for academic publications and research items, and the snippet lists Eric R. Larson's research contributions."
+    }
+]

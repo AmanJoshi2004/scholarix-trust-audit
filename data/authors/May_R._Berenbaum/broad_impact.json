@@ -1,0 +1,51 @@
+[
+    {
+        "url": "https://experts.illinois.edu/en/persons/may-r-berenbaum/",
+        "snippet": "Professor, Plant Biology; Professor, Natural Resources and Environmental ... Cytochrome P450 (CYP450) Keyphrases 63%. Cytochrome P450 Agricultural and ...",
+        "category": "Publication",
+        "relevance_score": 100,
+        "reasoning": "The snippet appears to be a biographical summary of an academic's expertise and research areas, likely from a university directory or publication list."
+    },
+    {
+        "url": "https://www.researchgate.net/scientific-contributions/May-R-Berenbaum-39934824",
+        "snippet": "May R. Berenbaum's 372 research items with 29683 citations and 41858 ... plant-associated variation in pesticide toxicity. Moreover, no studies to ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "Author's research contributions and citations are publicly listed on ResearchGate"
+    },
+    {
+        "url": "https://www.nasonline.org/directory-entry/may-r-berenbaum-9rp3xx/",
+        "snippet": "My research interests include chemical ecology, insect/plant interactions ... (cytochrome P450), and photobiology (furanocoumarins, furanoquinoline ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The snippet appears to be a biographical entry for an academic on the website of the National Academy of Sciences, suggesting it is a type of publication or directory listing."
+    },
+    {
+        "url": "https://www.k-state.edu/bmb/about/seminars/hageman/2009-berenbaum.html",
+        "snippet": "... P450, and ecology and evolution with special reference to insects. Her work addresses insect/plant coevolution at multiple hierarchical levels.",
+        "category": "Conference",
+        "relevance_score": 85,
+        "reasoning": "The URL is from a university website with a seminars page, suggesting it's a presentation or talk, likely at an academic conference."
+    },
+    {
+        "url": "https://www.nationalacademies.org/news/entomologist-may-r-berenbaum-of-the-university-of-illinois-at-urbana-champaign-named-pnas-editor-in-chief",
+        "snippet": "Entomologist May R. Berenbaum ... She has also investigated how mechanisms that detoxify naturally occurring plant chemicals influence pesticide ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The URL and snippet suggest an announcement or press release from a reputable organization."
+    },
+    {
+        "url": "https://www.aaas.org/news/entomologist-may-r-berenbaum-receives-2009-aaas-public-understanding-science-and-technology",
+        "snippet": "Entomologist May R. Berenbaum Receives the 2009 AAAS Public Understanding of Science and Technology Award ... Contributions include books, articles in magazines ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The URL and snippet are from the AAAS website, indicating a news article about an award recipient."
+    },
+    {
+        "url": "https://entocert.org/ice2016/council/berenbaum",
+        "snippet": "May R. Berenbaum (USA) was born in 1953. Swanlund Professor of Entomology at the University of Illinois at Urbana-Champaign. She graduated with a B.S. and ...",
+        "category": "Publication",
+        "relevance_score": 85,
+        "reasoning": "The snippet appears to be a biographical entry from an academic publication or directory, likely from the Entomology 2016 conference website."
+    }
+]

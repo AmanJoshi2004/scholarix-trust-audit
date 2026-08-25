@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2536888123",
+        "snippet": "... photosynthesis had been considered limited to tropical and subtropical climates. ... photosynthetic efficiency to drive greater crop yields.",
+        "category": "Publication",
+        "relevance_score": 95,
+        "reasoning": "The URL indicates an academic journal article with a DOI number, indicating a publication in the field of biology."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Stephen_P._Long",
+        "snippet": "Stephen P. Long ; Scientific career ; Member of the National Academy of Sciences (2019). Scientific career · Plant science · Plant physiology · Photosynthesis.",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL is a Wikipedia article, which is an online encyclopedia publication."
+    },
+    {
+        "url": "https://sib.illinois.edu/directory/profile/slong",
+        "snippet": "... photosynthesis, energy crops, mathematical models of photosynthesis. Research ... An orphan gene BOOSTER enhances photosynthetic efficiency and plant productivity ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "Profile appears to be a researcher's directory page with their publications listed, indicating the URL is related to an academic publication."
+    },
+    {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12696436/",
+        "snippet": "Prof Stephen P. Long, FRS (1950–2025). Lorenzo Álvarez ... His landmark contributions included work on C4 photosynthesis, photosynthetic ...",
+        "category": "Publication",
+        "relevance_score": 90,
+        "reasoning": "The URL is a PubMed article page and the snippet mentions a researcher's contributions, indicating an academic publication."
+    },
+    {
+        "url": "https://www.facebook.com/PNASNews/posts/honoring-stephen-p-long-a-visionary-plant-scientist-whose-pioneering-research-on/1327794756044770/",
+        "snippet": "... Stephen P. Long, a visionary plant ... Understanding C3 and C4 Photosynthetic Processes Around 95% of plants use C3 photosynthesis ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The URL is a Facebook post from PNAS News, indicating the content is news-oriented and relevant to scientific research."
+    },
+    {
+        "url": "https://www.igb.illinois.edu/article/stephen-p-long-celebrating-career-innovation-and-impact",
+        "snippet": "Stephen P. Long (1950–2025) was a leader in photosynthesis and global change biology, fueled by his passion to improve food security by ...",
+        "category": "News",
+        "relevance_score": 85,
+        "reasoning": "The URL appears to be a news article from the University of Illinois Institute for Genomics Biology (IGB)"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=n83fUzP9io4",
+        "snippet": "[IPPS2022 Keynote] STEPHEN P. LONG - Enhancing & Adapting Crop Photosyn. for Food Security. @ippn-internationalplantphe127616 likes647 views3 ...",
+        "category": "Media/Video",
+        "relevance_score": 85,
+        "reasoning": "The snippet mentions a YouTube video of a keynote speech, indicating that the content is a multimedia presentation."
+    },
+    {
+        "url": "https://www.plant-phenotyping.org/Sessions_Keynotes",
+        "snippet": "7th International Plant Phenotyping Symposium. Scientific sessions and topics: 1) Climate change & Photosynthesis. Keynote: Stephen P. Long.",
+        "category": "Conference",
+        "relevance_score": 85,
+        "reasoning": "Lists scientific sessions and topics, with keynote speaker information."
+    }
+]

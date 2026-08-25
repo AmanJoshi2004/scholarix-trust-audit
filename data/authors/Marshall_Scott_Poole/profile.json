@@ -1,0 +1,327 @@
+{
+    "id": "A5034256615",
+    "name": "Marshall Scott Poole",
+    "affiliation": "University of Illinois Urbana-Champaign",
+    "topics": [
+        "Team Dynamics and Performance",
+        "Complex Systems and Decision Making",
+        "Knowledge Management and Sharing",
+        "Information Systems Theories and Implementation",
+        "Conflict Management and Negotiation"
+    ],
+    "keywords": [
+        "group",
+        "decision",
+        "communication",
+        "organizational",
+        "research"
+    ],
+    "metrics": {
+        "citations": 24016,
+        "h_index": 57,
+        "publications": 305
+    },
+    "counts_by_year": [
+        {
+            "year": 2025,
+            "works_count": 1,
+            "oa_works_count": 1,
+            "cited_by_count": 0
+        },
+        {
+            "year": 2024,
+            "works_count": 16,
+            "oa_works_count": 1,
+            "cited_by_count": 19
+        },
+        {
+            "year": 2023,
+            "works_count": 3,
+            "oa_works_count": 1,
+            "cited_by_count": 3
+        },
+        {
+            "year": 2021,
+            "works_count": 21,
+            "oa_works_count": 1,
+            "cited_by_count": 207
+        },
+        {
+            "year": 2020,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 35
+        },
+        {
+            "year": 2019,
+            "works_count": 6,
+            "oa_works_count": 1,
+            "cited_by_count": 21
+        },
+        {
+            "year": 2018,
+            "works_count": 7,
+            "oa_works_count": 3,
+            "cited_by_count": 42
+        },
+        {
+            "year": 2017,
+            "works_count": 22,
+            "oa_works_count": 0,
+            "cited_by_count": 158
+        },
+        {
+            "year": 2016,
+            "works_count": 8,
+            "oa_works_count": 2,
+            "cited_by_count": 207
+        },
+        {
+            "year": 2015,
+            "works_count": 9,
+            "oa_works_count": 0,
+            "cited_by_count": 107
+        },
+        {
+            "year": 2014,
+            "works_count": 4,
+            "oa_works_count": 0,
+            "cited_by_count": 15
+        },
+        {
+            "year": 2013,
+            "works_count": 7,
+            "oa_works_count": 0,
+            "cited_by_count": 103
+        },
+        {
+            "year": 2012,
+            "works_count": 8,
+            "oa_works_count": 0,
+            "cited_by_count": 160
+        },
+        {
+            "year": 2011,
+            "works_count": 15,
+            "oa_works_count": 1,
+            "cited_by_count": 326
+        },
+        {
+            "year": 2010,
+            "works_count": 14,
+            "oa_works_count": 3,
+            "cited_by_count": 189
+        },
+        {
+            "year": 2009,
+            "works_count": 15,
+            "oa_works_count": 2,
+            "cited_by_count": 191
+        },
+        {
+            "year": 2008,
+            "works_count": 13,
+            "oa_works_count": 7,
+            "cited_by_count": 562
+        },
+        {
+            "year": 2007,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 32
+        },
+        {
+            "year": 2006,
+            "works_count": 7,
+            "oa_works_count": 0,
+            "cited_by_count": 220
+        },
+        {
+            "year": 2005,
+            "works_count": 14,
+            "oa_works_count": 0,
+            "cited_by_count": 1385
+        },
+        {
+            "year": 2004,
+            "works_count": 12,
+            "oa_works_count": 3,
+            "cited_by_count": 713
+        },
+        {
+            "year": 2003,
+            "works_count": 7,
+            "oa_works_count": 1,
+            "cited_by_count": 132
+        },
+        {
+            "year": 2002,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 29
+        },
+        {
+            "year": 2001,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 193
+        },
+        {
+            "year": 2000,
+            "works_count": 19,
+            "oa_works_count": 0,
+            "cited_by_count": 1368
+        },
+        {
+            "year": 1999,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 144
+        },
+        {
+            "year": 1998,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 24
+        },
+        {
+            "year": 1997,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 26
+        },
+        {
+            "year": 1996,
+            "works_count": 7,
+            "oa_works_count": 1,
+            "cited_by_count": 677
+        },
+        {
+            "year": 1995,
+            "works_count": 3,
+            "oa_works_count": 0,
+            "cited_by_count": 4835
+        },
+        {
+            "year": 1994,
+            "works_count": 3,
+            "oa_works_count": 0,
+            "cited_by_count": 3879
+        },
+        {
+            "year": 1993,
+            "works_count": 4,
+            "oa_works_count": 0,
+            "cited_by_count": 201
+        },
+        {
+            "year": 1992,
+            "works_count": 4,
+            "oa_works_count": 0,
+            "cited_by_count": 229
+        },
+        {
+            "year": 1991,
+            "works_count": 4,
+            "oa_works_count": 0,
+            "cited_by_count": 1137
+        },
+        {
+            "year": 1990,
+            "works_count": 5,
+            "oa_works_count": 0,
+            "cited_by_count": 1285
+        },
+        {
+            "year": 1989,
+            "works_count": 9,
+            "oa_works_count": 2,
+            "cited_by_count": 3010
+        },
+        {
+            "year": 1988,
+            "works_count": 4,
+            "oa_works_count": 1,
+            "cited_by_count": 882
+        },
+        {
+            "year": 1987,
+            "works_count": 2,
+            "oa_works_count": 1,
+            "cited_by_count": 21
+        },
+        {
+            "year": 1986,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 0
+        },
+        {
+            "year": 1985,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 349
+        },
+        {
+            "year": 1984,
+            "works_count": 3,
+            "oa_works_count": 0,
+            "cited_by_count": 131
+        },
+        {
+            "year": 1983,
+            "works_count": 3,
+            "oa_works_count": 0,
+            "cited_by_count": 347
+        },
+        {
+            "year": 1982,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 65
+        },
+        {
+            "year": 1981,
+            "works_count": 6,
+            "oa_works_count": 0,
+            "cited_by_count": 275
+        },
+        {
+            "year": 1980,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 7
+        },
+        {
+            "year": 1979,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 8
+        },
+        {
+            "year": 1978,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 67
+        }
+    ],
+    "verification": {
+        "personal_website": null,
+        "linkedin": null,
+        "researchgate": null,
+        "google_scholar": {
+            "verified": false,
+            "reason": "HTTP 429"
+        }
+    },
+    "orcid": {
+        "verified": true,
+        "orcid_id": "0000-0003-2681-7329",
+        "current_institution": [
+            "Aalto University",
+            "Stanford University",
+            "University of Jyväskylä",
+            "University of Turku"
+        ]
+    }
+}

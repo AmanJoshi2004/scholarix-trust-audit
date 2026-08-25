@@ -1,0 +1,196 @@
+{
+    "id": "A5038539249",
+    "name": "Steven J. Clough",
+    "affiliation": "Agricultural Research Service",
+    "topics": [
+        "Plant pathogens and resistance mechanisms",
+        "Soybean genetics and cultivation",
+        "Plant-Microbe Interactions and Immunity",
+        "Insect-Plant Interactions and Control",
+        "Wheat and Barley Genetics and Pathology"
+    ],
+    "keywords": [
+        "soybean",
+        "resistance",
+        "response",
+        "brazil",
+        "genes"
+    ],
+    "metrics": {
+        "citations": 27654,
+        "h_index": 33,
+        "publications": 86
+    },
+    "counts_by_year": [
+        {
+            "year": 2025,
+            "works_count": 6,
+            "oa_works_count": 4,
+            "cited_by_count": 16
+        },
+        {
+            "year": 2024,
+            "works_count": 5,
+            "oa_works_count": 2,
+            "cited_by_count": 26
+        },
+        {
+            "year": 2023,
+            "works_count": 1,
+            "oa_works_count": 1,
+            "cited_by_count": 3
+        },
+        {
+            "year": 2022,
+            "works_count": 4,
+            "oa_works_count": 2,
+            "cited_by_count": 42
+        },
+        {
+            "year": 2021,
+            "works_count": 3,
+            "oa_works_count": 3,
+            "cited_by_count": 13
+        },
+        {
+            "year": 2020,
+            "works_count": 1,
+            "oa_works_count": 1,
+            "cited_by_count": 6
+        },
+        {
+            "year": 2019,
+            "works_count": 4,
+            "oa_works_count": 3,
+            "cited_by_count": 107
+        },
+        {
+            "year": 2018,
+            "works_count": 2,
+            "oa_works_count": 1,
+            "cited_by_count": 16
+        },
+        {
+            "year": 2017,
+            "works_count": 15,
+            "oa_works_count": 15,
+            "cited_by_count": 104
+        },
+        {
+            "year": 2016,
+            "works_count": 2,
+            "oa_works_count": 2,
+            "cited_by_count": 23
+        },
+        {
+            "year": 2015,
+            "works_count": 3,
+            "oa_works_count": 3,
+            "cited_by_count": 18
+        },
+        {
+            "year": 2014,
+            "works_count": 1,
+            "oa_works_count": 1,
+            "cited_by_count": 15
+        },
+        {
+            "year": 2013,
+            "works_count": 2,
+            "oa_works_count": 2,
+            "cited_by_count": 20
+        },
+        {
+            "year": 2012,
+            "works_count": 3,
+            "oa_works_count": 3,
+            "cited_by_count": 107
+        },
+        {
+            "year": 2011,
+            "works_count": 4,
+            "oa_works_count": 2,
+            "cited_by_count": 172
+        },
+        {
+            "year": 2010,
+            "works_count": 1,
+            "oa_works_count": 1,
+            "cited_by_count": 593
+        },
+        {
+            "year": 2009,
+            "works_count": 4,
+            "oa_works_count": 3,
+            "cited_by_count": 497
+        },
+        {
+            "year": 2008,
+            "works_count": 5,
+            "oa_works_count": 3,
+            "cited_by_count": 711
+        },
+        {
+            "year": 2006,
+            "works_count": 1,
+            "oa_works_count": 1,
+            "cited_by_count": 180
+        },
+        {
+            "year": 2005,
+            "works_count": 1,
+            "oa_works_count": 1,
+            "cited_by_count": 210
+        },
+        {
+            "year": 2004,
+            "works_count": 5,
+            "oa_works_count": 2,
+            "cited_by_count": 516
+        },
+        {
+            "year": 2000,
+            "works_count": 4,
+            "oa_works_count": 2,
+            "cited_by_count": 969
+        },
+        {
+            "year": 1998,
+            "works_count": 3,
+            "oa_works_count": 1,
+            "cited_by_count": 22655
+        },
+        {
+            "year": 1997,
+            "works_count": 3,
+            "oa_works_count": 3,
+            "cited_by_count": 550
+        },
+        {
+            "year": 1994,
+            "works_count": 2,
+            "oa_works_count": 0,
+            "cited_by_count": 73
+        },
+        {
+            "year": 1993,
+            "works_count": 1,
+            "oa_works_count": 0,
+            "cited_by_count": 12
+        }
+    ],
+    "verification": {
+        "personal_website": null,
+        "linkedin": null,
+        "researchgate": null,
+        "google_scholar": {
+            "verified": false,
+            "reason": "HTTP 429"
+        }
+    },
+    "orcid": {
+        "verified": false,
+        "orcid_id": null,
+        "current_institution": null
+    }
+}
